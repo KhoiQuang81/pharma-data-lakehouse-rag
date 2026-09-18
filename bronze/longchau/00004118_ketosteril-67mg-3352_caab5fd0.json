@@ -1,0 +1,1873 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/ketosteril-67mg-3352.html",
+  "ingestion_timestamp": "2026-09-05T10:06:59.105870+00:00",
+  "file_hash": "22485b01f495b8e991d0a85746f7391814e0618545e13fdeb955c48333058246",
+  "lineage_hash": "479508263c519166095af17787057c782b668504972df4c4e67f75f6a05a34f9",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/ketosteril-67mg-3352.html",
+    "product": {
+      "sku": "00004118",
+      "webName": "Thuốc Ketosteril Fresenius Kabi phòng ngừa và điều trị suy thận mạn (5 vỉ x 20 viên)",
+      "name": "KETOSTERIL KABI 5X20",
+      "shortName": "KETOSTERIL KABI 5X20",
+      "headingText": "Thuốc Ketosteril",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004118_ketosteril_67mg_9116_6061_large_8b4b1e72dc.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004118_ketosteril_67mg_2283_6061_large_d7a121d2f2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004118_ketosteril_67mg_1744_6061_large_c210ee42ee.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004118_ketosteril_67mg_2504_6061_large_d064924c01.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004118_ketosteril_67mg_1618128509_8d9e4e87ce.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 738,
+          "name": "Thuốc tiết niệu - sinh dục",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 818,
+          "name": "Thuốc trị bệnh thận",
+          "parentName": "Thuốc tiết niệu - sinh dục",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 5 Vỉ x 20 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "5 Vỉ x 20 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "20 Viên"
+        }
+      ],
+      "slug": "thuoc/ketosteril-67mg-3352.html",
+      "ingredient": [
+        {
+          "id": 51704,
+          "ingredientId": 25341,
+          "shortDescription": "101mg",
+          "name": "Leucine",
+          "isPrimary": false,
+          "slug": "thanh-phan/leucine"
+        },
+        {
+          "id": 51705,
+          "ingredientId": 12326,
+          "shortDescription": "50mg",
+          "name": "Calcium",
+          "isPrimary": false,
+          "slug": "thanh-phan/calcium"
+        },
+        {
+          "id": 51706,
+          "ingredientId": 25975,
+          "shortDescription": "53mg",
+          "name": "L-Threonine",
+          "isPrimary": false,
+          "slug": "thanh-phan/l-threonine"
+        },
+        {
+          "id": 51707,
+          "ingredientId": 25980,
+          "shortDescription": "23mg",
+          "name": "L-Tryptophan",
+          "isPrimary": false,
+          "slug": "thanh-phan/l-tryptophan"
+        },
+        {
+          "id": 51708,
+          "ingredientId": 22311,
+          "shortDescription": "38mg",
+          "name": "Histidine",
+          "isPrimary": false,
+          "slug": "thanh-phan/histidine"
+        },
+        {
+          "id": 51709,
+          "ingredientId": 25986,
+          "shortDescription": "30mg",
+          "name": "L-Tyrosine",
+          "isPrimary": false,
+          "slug": "thanh-phan/l-tyrosine"
+        },
+        {
+          "id": 51710,
+          "ingredientId": 30053,
+          "shortDescription": "36mg",
+          "name": "Nitrogen",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 51711,
+          "ingredientId": 24118,
+          "shortDescription": "67mg",
+          "name": "Isoleucine",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 51712,
+          "ingredientId": 16385,
+          "shortDescription": "105mg",
+          "name": "Cystine",
+          "isPrimary": false,
+          "slug": "thanh-phan/cystine"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VN-16263-13",
+      "manufactor": "Bồ Đào Nha",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3>Cách dùng</h3><p>Đường dùng: Dùng qua đường uống.</p><p>Thời gian dùng thuốc: Viên nén Ketosteril có thể sử dụng lâu dài nếu mức <a href=\"https://nhathuoclongchau.com.vn/bai-viet/do-loc-cau-than-la-gi-cach-tinh-do-loc-cau-than-ma-ban-nen-biet-66493.html\">lọc cầu thận</a> (GFR) dưới mức 25 ml/phút, đồng thời lượng protein trong chế độ ăn hàng ngày phải hạn chế dưới mức 40 g (đối với người lớn).</p><h3>Liều dùng</h3><p>Nếu không có chỉ định khác: Dùng 3 lần một ngày, mỗi lần 4 - 8 viên, uống ngay trước bữa ăn, liều này dùng cho người lớn (cân nặng khoảng 70 kg). Không được nhai viên thuốc.</p><p>Dùng thuốc cùng với thức ăn làm tăng khả năng hấp thu và chuyển hóa các acid amin có trong thành phần thuốc.</p><p>Chưa có tài liệu nghiên cứu nào nói về việc sử dụng thuốc này cho trẻ em.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định của thuốc.</p><p><i>Cách xử trí&nbsp;khi dùng thuốc quá liều:</i></p><p>Tích cực theo dõi để có biện pháp xử trí kịp thời.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu quên dùng một liều thuốc, hãy uống càng sớm càng tốt khi nhớ ra. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và uống liều kế tiếp vào thời điểm như kế hoạch. Không uống gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/ketosteril-67mg-3352.html\">Ketosteril</a> được chỉ định dùng trong các trường hợp sau:</p><p>Phòng ngừa và điều trị bệnh do rối loạn hoặc suy giảm cơ chế chuyển hoá protein trong bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/suy-than-man-361.html\">suy thận mạn</a>, khi lượng protein trong chế độ ăn bị hạn chế ở mức dưới 40 g/ngày (đối với người lớn). Thường chỉ định cho các bệnh nhân có mức lọc cầu thận (GFR) dưới 25 ml/phút.</p><h3>Dược lực học</h3><p>Ketosteril dùng để cung cấp dinh dưỡng trong điều trị bệnh thận mạn tính. Việc sử dụng Ketosteril cho phép đưa vào các acid amin thiết yếu trong khi vẫn đảm bảo hạn chế đưa vào các acid amin có nitơ.</p><p>Sau khi ăn, các keto-analogues và hydroxy-analogues được chuyển hóa bằng cách sử dụng amin nội sinh từ các acid amin không thiết yếu, do đó làm giảm sự tạo thành urê do các nhóm amin đã được tái sử dụng. Nồng độ các chất độc urê tích lũy do đó được giảm xuống. Các acid gốc keto và/hoặc hydroxy không làm tăng lọc đối với các nephron còn lại.</p><p>Các chất bổ sung có ketoacid có tác dụng tích cực trong hạn chế tình trạng tăng phosphat và tinh trạng cường giáp thứ cấp do thận và còn cải thiện tình trạng <a href=\"https://nhathuoclongchau.com.vn/benh/loang-xuong-78.html\">loãng xương</a> do thận. Việc sử dụng Ketosteril kết hợp với chế độ ăn giảm đạm cũng làm giảm lượng nitơ được đưa vào cơ thể nhằm tránh hậu quả xấu do ăn không đủ đạm và tình trạng suy dinh dưỡng.</p><h3>Dược động học</h3><p>Động học trong huyết tương của các acid amin và sự tích hợp của các acid amin trong các dạng chuyển hóa đã được xác định rõ ràng. Tuy nhiên, cần lưu ý rằng ở những bệnh nhân bị urê máu, sự thay đổi có tính chất rối loạn của huyết tương không được coi là phụ thuộc vào việc hấp thu vào cơ thể các acid amin (khi không có vấn đề về hấp thu), mà là do động học sau hấp thu bị rối loạn ở giai đoạn rất sớm của bệnh.</p><p><i>Hấp thu</i></p><p>Sự hấp thu qua đường tiêu hóa rất nhanh chóng.</p><p><i>Phân bố</i></p><p>Trên các cá thể khỏe mạnh, có sự tăng nồng độ của các ketoacid trong huyết thanh khoảng 10 phút sau khi uống Ketosteril. Nồng độ các ketoacid này đạt mức cao khoảng gấp 5 lần cao hơn so với lúc đầu. Nồng độ đỉnh đạt sau khoảng 20 - 60 phút và nồng độ bình thường trở lại sau khoảng 90 phút.</p><p><i>Chuyển hóa</i></p><p>Việc tăng đồng thời nồng độ ketoacid và các acid amin tương ứng trong huyết thanh cho thấy tốc độ chuyển hóa các ketoacid là rất nhanh. Theo con đường chuyển hóa tự nhiên các ketoacid trong cơ thể, các ketoacid cung cấp ngoại sinh nhanh chóng tham gia vào các quá trình chuyển hóa. Các ketoacid đi theo con đường chuyển hóa như các amin khác.&nbsp;</p><p><i>Thải trừ</i></p><p>Hiện vẫn chưa có nghiên cứu cụ thể nào về sự đào thải các ketoacid.</p>",
+      "brand": "Fresenius Kabi",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Ketosteril, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p><i>Thường gặp, ADR &gt;1/100</i></p><p>Không có báo cáo.</p><p><i>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</i></p><p>Không có báo cáo.</p><p><i>Rất hiếm gặp&nbsp; ADR &lt; 1/10.000.</i></p><p>Chuyển hóa, dinh dưỡng: Tăng calci huyết.</p><p>Cần giảm lượng <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/vitamin-d\">vitamin D</a> cung cấp nếu xảy ra hiện tượng tăng calci huyết. Nếu mức calci huyết vẫn tăng, cần giảm liều dùng Ketosteril cũng như các thuốc trong thành phần có calci khác.</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 5 Vỉ x 20 Viên",
+      "indications": [],
+      "brandOrigin": "Đức",
+      "producer": "LABESFAL- LABORATÓRIOS ALMIRO, S.A.",
+      "shortDescription": "<p>Ketosteril của Công ty Labesfal Laboratórios Almiro S.A. Thuốc được sử dụng để phòng ngừa và điều trị bệnh do rối loạn hoặc suy giảm cơ chế chuyển hoá protein trong bệnh suy thận mạn, khi lượng protein trong chế độ ăn bị hạn chế ở mức dưới 40 g/ngày (đối với người lớn). Thường chỉ định cho các bệnh nhân có mức lọc cầu thận (GFR) dưới 25 ml/phút. Thuốc được bào chế dưới dạng viên nén bao phim.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/fresenius-kabi",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "KETOSTERIL ",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 266,
+        "attributeName": "Đức",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "20 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 818,
+        "name": "Thuốc trị bệnh thận",
+        "parentName": "Thuốc tiết niệu - sinh dục",
+        "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004118_ketosteril_67mg_9116_6061_large_8b4b1e72dc.jpg",
+          "alternativeText": "Thuốc Ketosteril Fresenius Kabi phòng ngừa và điều trị suy thận mạn (5 vỉ x 20 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004118_ketosteril_67mg_2283_6061_large_d7a121d2f2.jpg",
+          "alternativeText": "Thuốc Ketosteril Fresenius Kabi phòng ngừa và điều trị suy thận mạn (5 vỉ x 20 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004118_ketosteril_67mg_1744_6061_large_c210ee42ee.jpg",
+          "alternativeText": "Thuốc Ketosteril Fresenius Kabi phòng ngừa và điều trị suy thận mạn (5 vỉ x 20 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004118_ketosteril_67mg_2504_6061_large_d064924c01.jpg",
+          "alternativeText": "Thuốc Ketosteril Fresenius Kabi phòng ngừa và điều trị suy thận mạn (5 vỉ x 20 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004118_ketosteril_67mg_1618128509_8d9e4e87ce.jpg",
+          "alternativeText": "Thuốc Ketosteril Fresenius Kabi phòng ngừa và điều trị suy thận mạn (5 vỉ x 20 viên) 5"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiết niệu - sinh dục",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc"
+      },
+      {
+        "name": "Thuốc trị bệnh thận",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than"
+      }
+    ],
+    "content": {
+      "sku": "00004118",
+      "dosage": "<h3>Cách dùng</h3><p>Đường dùng: Dùng qua đường uống.</p><p>Thời gian dùng thuốc: Viên nén Ketosteril có thể sử dụng lâu dài nếu mức <a href=\"https://nhathuoclongchau.com.vn/bai-viet/do-loc-cau-than-la-gi-cach-tinh-do-loc-cau-than-ma-ban-nen-biet-66493.html\">lọc cầu thận</a> (GFR) dưới mức 25 ml/phút, đồng thời lượng protein trong chế độ ăn hàng ngày phải hạn chế dưới mức 40 g (đối với người lớn).</p><h3>Liều dùng</h3><p>Nếu không có chỉ định khác: Dùng 3 lần một ngày, mỗi lần 4 - 8 viên, uống ngay trước bữa ăn, liều này dùng cho người lớn (cân nặng khoảng 70 kg). Không được nhai viên thuốc.</p><p>Dùng thuốc cùng với thức ăn làm tăng khả năng hấp thu và chuyển hóa các acid amin có trong thành phần thuốc.</p><p>Chưa có tài liệu nghiên cứu nào nói về việc sử dụng thuốc này cho trẻ em.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định của thuốc.</p><p><i>Cách xử trí&nbsp;khi dùng thuốc quá liều:</i></p><p>Tích cực theo dõi để có biện pháp xử trí kịp thời.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu quên dùng một liều thuốc, hãy uống càng sớm càng tốt khi nhớ ra. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và uống liều kế tiếp vào thời điểm như kế hoạch. Không uống gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Ketosteril.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Ketosteril, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p><i>Thường gặp, ADR &gt;1/100</i></p><p>Không có báo cáo.</p><p><i>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</i></p><p>Không có báo cáo.</p><p><i>Rất hiếm gặp&nbsp; ADR &lt; 1/10.000.</i></p><p>Chuyển hóa, dinh dưỡng: Tăng calci huyết.</p><p>Cần giảm lượng <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/vitamin-d\">vitamin D</a> cung cấp nếu xảy ra hiện tượng tăng calci huyết. Nếu mức calci huyết vẫn tăng, cần giảm liều dùng Ketosteril cũng như các thuốc trong thành phần có calci khác.</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Bảo quản ở nhiệt độ không quá 30°C.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/ketosteril-67mg-3352.html\">Ketosteril</a> được chỉ định dùng trong các trường hợp sau:</p><p>Phòng ngừa và điều trị bệnh do rối loạn hoặc suy giảm cơ chế chuyển hoá protein trong bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/suy-than-man-361.html\">suy thận mạn</a>, khi lượng protein trong chế độ ăn bị hạn chế ở mức dưới 40 g/ngày (đối với người lớn). Thường chỉ định cho các bệnh nhân có mức lọc cầu thận (GFR) dưới 25 ml/phút.</p><h3>Dược lực học</h3><p>Ketosteril dùng để cung cấp dinh dưỡng trong điều trị bệnh thận mạn tính. Việc sử dụng Ketosteril cho phép đưa vào các acid amin thiết yếu trong khi vẫn đảm bảo hạn chế đưa vào các acid amin có nitơ.</p><p>Sau khi ăn, các keto-analogues và hydroxy-analogues được chuyển hóa bằng cách sử dụng amin nội sinh từ các acid amin không thiết yếu, do đó làm giảm sự tạo thành urê do các nhóm amin đã được tái sử dụng. Nồng độ các chất độc urê tích lũy do đó được giảm xuống. Các acid gốc keto và/hoặc hydroxy không làm tăng lọc đối với các nephron còn lại.</p><p>Các chất bổ sung có ketoacid có tác dụng tích cực trong hạn chế tình trạng tăng phosphat và tinh trạng cường giáp thứ cấp do thận và còn cải thiện tình trạng <a href=\"https://nhathuoclongchau.com.vn/benh/loang-xuong-78.html\">loãng xương</a> do thận. Việc sử dụng Ketosteril kết hợp với chế độ ăn giảm đạm cũng làm giảm lượng nitơ được đưa vào cơ thể nhằm tránh hậu quả xấu do ăn không đủ đạm và tình trạng suy dinh dưỡng.</p><h3>Dược động học</h3><p>Động học trong huyết tương của các acid amin và sự tích hợp của các acid amin trong các dạng chuyển hóa đã được xác định rõ ràng. Tuy nhiên, cần lưu ý rằng ở những bệnh nhân bị urê máu, sự thay đổi có tính chất rối loạn của huyết tương không được coi là phụ thuộc vào việc hấp thu vào cơ thể các acid amin (khi không có vấn đề về hấp thu), mà là do động học sau hấp thu bị rối loạn ở giai đoạn rất sớm của bệnh.</p><p><i>Hấp thu</i></p><p>Sự hấp thu qua đường tiêu hóa rất nhanh chóng.</p><p><i>Phân bố</i></p><p>Trên các cá thể khỏe mạnh, có sự tăng nồng độ của các ketoacid trong huyết thanh khoảng 10 phút sau khi uống Ketosteril. Nồng độ các ketoacid này đạt mức cao khoảng gấp 5 lần cao hơn so với lúc đầu. Nồng độ đỉnh đạt sau khoảng 20 - 60 phút và nồng độ bình thường trở lại sau khoảng 90 phút.</p><p><i>Chuyển hóa</i></p><p>Việc tăng đồng thời nồng độ ketoacid và các acid amin tương ứng trong huyết thanh cho thấy tốc độ chuyển hóa các ketoacid là rất nhanh. Theo con đường chuyển hóa tự nhiên các ketoacid trong cơ thể, các ketoacid cung cấp ngoại sinh nhanh chóng tham gia vào các quá trình chuyển hóa. Các ketoacid đi theo con đường chuyển hóa như các amin khác.&nbsp;</p><p><i>Thải trừ</i></p><p>Hiện vẫn chưa có nghiên cứu cụ thể nào về sự đào thải các ketoacid.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định</h3>\n\n<p>Thuốc Ketosteril chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Bệnh nhân mẫn cảm với bất cứ thành phần nào của thuốc.</p>\n\t</li>\n\t<li>\n\t<p>Bệnh nhân bị tăng calci huyết.</p>\n\t</li>\n\t<li>\n\t<p>Bệnh nhân bị rối loạn chuyển hoá acid amin.</p>\n\t</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Cần theo dõi thường xuyên mức calci trong huyết thanh. Đảm bảo cung cấp đầy đù calo.</p>\n\n<p>Hiện vẫn chưa có dữ liệu về việc dùng thuốc này cho bệnh nhi.</p>\n\n<p>Thận trọng khi sử dụng thuốc cho bệnh nhân mắc rối loạn chuyển hóa (phenylketonuria) di truyền, vì trong thành phần của thuốc có phenylalanin.</p>\n\n<p>Chú ý theo dõi nồng độ phosphat trong huyết thanh nếu Ketosteril được dùng đồng thời với nhôm hydroxid.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Sử dụng Ketosteril không ảnh hưởng hoặc ảnh hưởng không đáng kể đến khả năng lái xe và vận hành máy móc.</p>\n\n<h3>Thời kỳ mang thai</h3>\n\n<p>Hiện vẫn chưa có đủ dữ liệu lâm sàng về việc sử dụng Ketosteril trên phụ nữ có thai, chỉ nên dùng thuốc nếu lợi ích vượt trội so với nguy cơ.</p>\n\n<p>Kết quả các nghiên cứu trên động vật chỉ ra Ketosteril không có các ảnh hưởng có hại dù trực tiếp hay gián tiếp đối với việc mang thai, quá trình phôi thai phát triển từ trước đến sau khi sinh.</p>\n\n<p>Cần thận trọng khi dùng thuốc cho phụ nữ có thai.</p>\n\n<h3>Thời kỳ cho con bú</h3>\n\n<p>Hiện chưa có các kinh nghiệm sử dụng thuốc ở phụ nữ cho con bú.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Việc điều trị cùng với các thuốc chứa calci khác có thể dẫn đến làm tăng bệnh lý hoặc tăng quá mức nồng độ calci huyết thanh. Các thuốc tạo ra các hợp chất khó hoà tan với calci (như <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/tetracycline\">tetracyclin</a>, quinolin - như ciprofloxacin và norfloxacin cũng như các thuốc có chứa sắt, flourid hoặc estramustin) không nên dùng cùng lúc với Ketosteril để tránh làm ảnh hưởng sự hấp thu các thành phần hoạt chất.</p>\n\n<p>Thời gian dùng Ketosteril và các thuốc này nên cách nhau ít nhất 2 giờ. Nếu khi sử dụng Ketosteril, nồng độ calci huyết thanh tăng, tình trạng nhạy cảm với các glycosid có tác động trên tim và cả nguy cơ mắc chứng loạn nhịp tim cũng có thể tăng lên.</p>\n\n<p>Do Ketosteril có tác dụng cải thiện tình trạng lâm sàng bệnh urê huyết, việc điều trị nếu có bằng nhôm hydroxyd cần giảm đi. Cần chú ý đến việc làm giảm nồng độ phosphat trong huyết thanh.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Ketosteril phòng ngừa và điều trị suy thận mạn",
+        "metaDescription": "Ketosteril là thuốc gì? Thuốc ketosteril là thuốc điều hòa chuyển hóa protein trong cơ thể, giúp hạn chế sự tiến triển của bệnh suy thận đến giai đoạn cuối",
+        "id": 2108,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004118_ketosteril_67mg_9116_6061_large_8b4b1e72dc.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Ketosteril Fresenius Kabi phòng ngừa và điều trị suy thận mạn (5 vỉ x 20 viên)",
+            "description": "Ketosteril của Công ty Labesfal Laboratórios Almiro S.A. Thuốc được sử dụng để phòng ngừa và điều trị bệnh do rối loạn hoặc suy giảm cơ chế chuyển hoá protein trong bệnh suy thận mạn, khi lượng protein trong chế độ ăn bị hạn chế ở mức dưới 40 g/ngày (đối với người lớn). Thường chỉ định cho các bệnh nhân có mức lọc cầu thận (GFR) dưới 25 ml/phút. Thuốc được bào chế dưới dạng viên nén bao phim."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 35379,
+        "title": "Liều dùng Ketosteril khuyến cáo cho người lớn (khoảng 70 kg) là bao nhiêu?",
+        "content": "<p>Nếu không có chỉ định khác, liều dùng là 4 - 8 viên, 3 lần một ngày.</p>"
+      },
+      {
+        "id": 35378,
+        "title": "Những loại thuốc nào không nên dùng cùng lúc với Ketosteril?",
+        "content": "<p>Các thuốc tạo ra các hợp chất khó hoà tan với calci (như tetracyclin, quinolin - ciprofloxacin, norfloxacin, cũng như các thuốc có chứa sắt, flourid hoặc estramustin) không nên dùng cùng lúc với Ketosteril để tránh làm ảnh hưởng sự hấp thu các thành phần hoạt chất. Thời gian dùng Ketosteril và các thuốc này nên cách nhau ít nhất 2 giờ.</p>"
+      },
+      {
+        "id": 35377,
+        "title": "Thuốc Ketosteril có dùng được cho trẻ em hay không?",
+        "content": "<p>Thuốc Ketosteril không dùng cho trẻ em.</p>"
+      },
+      {
+        "id": 35376,
+        "title": "Thuốc Ketosteril nên uống trước hay sau bữa ăn?",
+        "content": "<p>Nên uống Ketosteril ngay trước bữa ăn.</p>"
+      },
+      {
+        "id": 35375,
+        "title": "Thuốc Ketosteril là gì?",
+        "content": "<p>Thuốc Ketosteril được sử dụng để phòng ngừa và điều trị bệnh do rối loạn hoặc suy giảm cơ chế chuyển hoá protein trong bệnh suy thận mạn, khi lượng protein trong chế độ ăn bị hạn chế ở mức dưới 40 g/ngày (đối với người lớn). Thường chỉ định cho các bệnh nhân có mức lọc cầu thận (GFR) dưới 25 ml/phút.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00500236",
+        "name": "BÀI THẠCH TRƯỜNG PHÚC 3X10",
+        "webName": "Thuốc Bài Thạch Trường Phúc phòng và hỗ trợ điều trị sỏi thận, sỏi mật (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500236_bai_thach_truong_phuc_3x10_3941_6290_large_5eedfa1569.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48093,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 99000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bai-thach-truong-phuc-3x10-34372.html",
+        "ingredients": "Xa tiền tử 0.8g, Bạch mao căn 0.8g, Sinh Địa 0.8g, Ý Dĩ 0.4g, Kim tiền thảo 3.2g",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "TRƯỜNG PHÚC",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48093,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 99000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00010299",
+        "name": "KIM TIỀN THẢO OPC 100V BP",
+        "webName": "Thuốc trị sỏi thận Kim Tiền Thảo OPC hỗ trợ điều trị sỏi đường tiết niệu, sỏi thận (100 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3085_70edea664e.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 13961,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 70000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/kim-tien-thao-opc-ho-tro-dieu-tri-soi-than-263.html",
+        "ingredients": "Kim tiền thảo 120mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 100 Viên",
+        "prices": [
+          {
+            "id": 13960,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 13961,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 70000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049142",
+        "name": "SÂM NHUNG BỔ THẬN TW3 FORIPHARM 60V",
+        "webName": "Thuốc Sâm nhung bổ thận TW3 giúp tăng cường sức khỏe, cải thiện tiểu đêm, tê mỏi chân tay (60 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08923_b7e0839494.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 77352,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 295000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/sam-nhung-bo-than-tw-3-foripharm-60-v.html",
+        "ingredients": "Trạch tả 30mg, Thục địa 240mg, Bạch linh 40mg, Liên Nhục 88mg, Hoài Sơn 76mg, Đương quy 40mg, Đảng Sâm 24mg, Câu kỷ tử 40mg, Bách hợp 60mg, Viễn chí 16mg, Xuyên khung 28mg, Tục đoạn 58mg, Thỏ ty tử 40mg, Hà thủ ô đỏ 45mg, Ba kích 60mg, Nhân Sâm 7.2mg, Cam thảo 5mg, Nhung hươu 2.4mg, Ban long 7.2mg, Đỗ trọng 24mg, Nhục thung dung 24mg, Cẩu tích 30mg, Bạch truật 36mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Tw3",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 60 Viên",
+        "prices": [
+          {
+            "id": 77351,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 4917,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 77352,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 295000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00003778",
+        "name": "HOÀN LỤC VỊ BỔ THẬN ÂM OPC 240V",
+        "webName": "Thuốc Hoàn Lục Vị Bổ Thận Âm OPC điều trị các trường hợp tinh huyết suy kém, hoa mắt, chóng mặt 240 viên",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6725_c19aa118a4.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 5225,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 55000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/hoan-luc-vi-bo-than-am-202.html",
+        "ingredients": "Phục Linh 36mg, Trạch tả 36mg, Mẫu đơn 36mg, Sơn thù 48mg, Hoài Sơn 48mg, Thục địa 96mg",
+        "dosageForm": "Hoàn cứng",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 240 Viên",
+        "prices": [
+          {
+            "id": 5224,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 229,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 5225,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006445",
+        "name": "ROWATINEX 10X10",
+        "webName": "Thuốc Rowatinex Rowa điều trị bệnh sỏi niệu, sỏi thận (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006445_rowatinex_100mg_2260_5b09_large_d522b8f519.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 9372,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 371000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/rowatinex-100mg-2367.html",
+        "ingredients": "Olive oil 33mg, Pinene 31mg, Camphene 15mg, Borneol 10mg, Fenchone 4mg, Anethol 4mg, cineol 3mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Rowa",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 9370,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 3710,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 9372,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 371000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 9371,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 37100,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 192,
+          "attributeName": "Ireland",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/ie_Ireland_5204367965.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007570",
+        "name": "TƯ ÂM BỔ THẬN VIÊN NANG HỒNG PHÚC 80V",
+        "webName": "Thuốc Tư Âm Bổ Thận Đại Hồng Phúc cường âm, tráng dương, sinh tân dịch (80 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007570_tu_am_bo_than_dai_hong_phuc_3102_5b1e_large_474a748024.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11074,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 95000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tu-am-bo-than-dai-hong-phuc-432.html",
+        "ingredients": "Củ Mài Dại 0.12, Sơn thù 0.12, Thục địa 0.25, Mẫu đơn bì (Vỏ rễ) 0.11, Mạch môn 0.11, Trạch tả 0.11, Phục Linh 0.11, Thạch hộc 0.09, Đỗ trọng 0.09, Ngưu tất (Rễ) 0.09, Lộc Nhung 0.02",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Hồng Phúc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 80 Viên",
+        "prices": [
+          {
+            "id": 11073,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1188,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11074,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 95000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009811",
+        "name": "ĐÁI DẦM ĐỨC THỊNH 200ML",
+        "webName": "Thuốc trị Đái Dầm Đức Thịnh điều trị đái dầm, đái nhiều, đái không tự chủ (200ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/462638275_3787817538127562_1108483988458020867_n_884b31c096.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 13148,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 100000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/siro-dai-dam-duc-thinh-ho-tro-dieu-tri-dai-dam-492.html",
+        "ingredients": "Viễn chí 5g, Tang phiêu tiêu 15g, Phục Linh 30g, Quy bản 25g, Đương quy 35g, Đảng Sâm 40g, Cam thảo 5g",
+        "dosageForm": "Cao lỏng",
+        "brand": "Đức Thịnh",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp x 200ml",
+        "prices": [
+          {
+            "id": 13148,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 100000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00501745",
+        "name": "LỤC VỊ F BỔ THẬN ÂM FITO PHARMA 40V",
+        "webName": "Thuốc Lục Vị F Bổ thận âm Fito điều trị thận âm suy tổn, chóng mặt, ù tai (40 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/668_a9012bb5da.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 51043,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 70000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/luc-vi-f-bo-than-am-fito-pharma-40v-35891.html",
+        "ingredients": "Bột mịn dược liệu , cao hỗn hợp dược liệu 248mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Fito",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 40 Viên",
+        "prices": [
+          {
+            "id": 51043,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 70000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 51042,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1750,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00018054",
+        "name": "LỤC VỊ NANG VẠN XUÂN 10X10",
+        "webName": "Thuốc Lục Vị Nang Vạn Xuân thận âm suy tổn, chóng mặt, ù tai (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_1391_5b7f_large_4bde6c0170.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 22754,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 76000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/luc-vi-nang-van-xuan-10x10-19390.html",
+        "ingredients": "Phục Linh 90mg, Trạch tả 90mg, Mẫu đơn bì (Vỏ rễ) 90mg, Sơn thù 120mg, Hoài Sơn 120mg, Thục địa 240mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Vạn Xuân",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 10 vỉ x 10 viên",
+        "prices": [
+          {
+            "id": 22752,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 760,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 22753,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 7600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 22754,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 76000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00053174",
+        "name": "BỔ THẬN HOÀN TÙNG LỘC 282V",
+        "webName": "Thuốc Bổ thận hoàn Tùng lộc chữa các chứng do thận hư gây ra: Di tinh, mộng tinh, hoạt tinh, yếu sinh lý, đau lưng, mỏi gối, cơ thể mệt mỏi (Hộp 282 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/bo_than_hoan_tung_loc_282v_00053174_1_7a513100d4.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 85266,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 338000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bo-than-hoan-tung-loc-282-vien.html",
+        "ingredients": "Ba kích 20mg, Hoàng kỳ 10mg, Bạch truật 20mg, Nhân Sâm 10mg, Thục địa 20mg, Câu kỷ tử 4mg, Sài Hồ 1mg, Sơn thù 6mg",
+        "dosageForm": "Viên hoàn cứng",
+        "brand": "TÙNG LỘC",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 40,
+        "productRanking": 0,
+        "specification": "Hộp 282 Viên",
+        "prices": [
+          {
+            "id": 85266,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 338000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 152,
+      "items": [
+        {
+          "id": 3367420,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0375xxxxxx",
+          "name": "ANH VAN ANH",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "huyện Đức Hoà còn thuốc này ko ạ ",
+          "createdAt": "2026-09-02 15:57:36",
+          "createdAtDisplay": "3 ngày trước",
+          "updatedAt": "2026-09-02 15:57:36",
+          "replies": [
+            {
+              "id": 3367423,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thuận An",
+                "moderatorEmail": "annt183@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thuận An",
+              "email": "annt183@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Văn Anh,</p><p>Hiện tại, sản phẩm có giá 15,500 ₫/viên.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại ứng dụng Long Châu/ZALO OA Nhà thuốc FPT Long Châu để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-09-02 15:59:40",
+              "createdAtDisplay": "3 ngày trước",
+              "updatedAt": "2026-09-02 15:57:36",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3366040,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0343xxxxxx",
+          "name": "Chị Thúy",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "tôi muốn mua",
+          "createdAt": "2026-08-31 02:57:12",
+          "createdAtDisplay": "5 ngày trước",
+          "updatedAt": "2026-08-31 02:57:12",
+          "replies": [
+            {
+              "id": 3366079,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Võ Kiều Nguyệt Nhi",
+                "moderatorEmail": "nhivkn@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Võ Kiều Nguyệt Nhi",
+              "email": "nhivkn@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Thúy,</p><p>Hiện tại, Thuốc Ketosteril Fresenius Kabi phòng ngừa và điều trị suy thận mạn (5 vỉ x 20 viên) có giá 1,550,000đ/hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-08-31 09:06:40",
+              "createdAtDisplay": "5 ngày trước",
+              "updatedAt": "2026-08-31 02:57:12",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3362281,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0389xxxxxx",
+          "name": "Lý Trần Ngọc Phương Trinh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "hba1c 6.9 cretanin niệu 280 albumin 46,91 độ lọc thận 86 vậy có sao không",
+          "createdAt": "2026-08-23 12:52:54",
+          "createdAtDisplay": "13 ngày trước",
+          "updatedAt": "2026-08-23 12:52:54",
+          "replies": [
+            {
+              "id": 3362289,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trương Thị Trang",
+                "moderatorEmail": "trangtt98@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trương Thị Trang",
+              "email": "trangtt98@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Phương Trinh ạ,</p><p>Chỉ số HbA1c 6.9% cho thấy mức đường huyết của Chị đang ở ngưỡng cao. Các chỉ số Albumin và Creatinin niệu phản ánh tình trạng xuất hiện đạm trong nước tiểu, là dấu hiệu sớm của tổn thương thận do tiểu đường. Độ lọc cầu thận 86 cho thấy chức năng thận đang giảm nhẹ ở giai đoạn sớm. Chị nên duy trì chế độ ăn giảm muối, hạn chế tinh bột và thăm khám bác sĩ chuyên khoa nội tiết để có phác đồ điều trị kịp thời ạ.</p><p>Chúc Chị luôn dồi dào sức khỏe ạ.</p>",
+              "createdAt": "2026-08-23 13:24:11",
+              "createdAtDisplay": "13 ngày trước",
+              "updatedAt": "2026-08-23 12:52:54",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3354516,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0937xxxxxx",
+          "name": "chú",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1viên ketosteril ?",
+          "createdAt": "2026-08-09 09:31:01",
+          "createdAtDisplay": "27 ngày trước",
+          "updatedAt": "2026-08-09 09:31:01",
+          "replies": [
+            {
+              "id": 3354520,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Phương Thảo",
+                "moderatorEmail": "thaoltp50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Phương Thảo",
+              "email": "thaoltp50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chú,</p><p>Hiện tại, sản phẩm KETOSTERIL KABI có giá 15.500đ/ viên ạ</p><p>Chú có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-08-09 09:32:27",
+              "createdAtDisplay": "27 ngày trước",
+              "updatedAt": "2026-08-09 09:31:01",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3348083,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0336xxxxxx",
+          "name": "huệ linh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá ạ",
+          "createdAt": "2026-07-29 14:22:01",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-29 14:22:01",
+          "replies": [
+            {
+              "id": 3348089,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Ngọc Bình Giao",
+                "moderatorEmail": "giaonnb@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Ngọc Bình Giao",
+              "email": "giaonnb@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Linh,</p><p>Hiện tại, sản phẩm Thuốc Ketosteril Fresenius Kabi phòng ngừa và điều trị suy thận mạn (5 vỉ x 20 viên) có giá 1,550,000 ₫/hộp ạ.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-07-29 14:26:33",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-29 14:22:01",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 34,
+      "items": [
+        {
+          "id": 3365573,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0943xxxxxx",
+          "name": "Nguyễn Thị Kiều Thi",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-08-29 19:30:36",
+          "createdAtDisplay": "6 ngày trước",
+          "updatedAt": "2026-08-29 19:30:36",
+          "replies": [
+            {
+              "id": 3365574,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trịnh Thu Nga",
+                "moderatorEmail": "ngatt24@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trịnh Thu Nga",
+              "email": "ngatt24@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Kiều Thi,</p><p>Dạ nhà thuốc FPT Long Châu rất cảm ơn chị luôn tin tưởng và ủng hộ. Chúc chị nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-08-29 19:32:06",
+              "createdAtDisplay": "6 ngày trước",
+              "updatedAt": "2026-08-29 19:30:36",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3363278,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0969xxxxxx",
+          "name": "Bùi Văn Dinh",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-08-25 12:08:44",
+          "createdAtDisplay": "11 ngày trước",
+          "updatedAt": "2026-08-25 12:08:44",
+          "replies": [
+            {
+              "id": 3363280,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Trần Thủy Tiên",
+                "moderatorEmail": "tienntt19@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Trần Thủy Tiên",
+              "email": "tienntt19@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Dinh,</p><p> Dạ nhà thuốc FPT Long Châu rất cảm ơn anh luôn tin tưởng và ủng hộ. Chúc anh nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-08-25 12:11:29",
+              "createdAtDisplay": "11 ngày trước",
+              "updatedAt": "2026-08-25 12:08:44",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3354883,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0907xxxxxx",
+          "name": "Thảo Nguyễn",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-08-10 07:43:03",
+          "createdAtDisplay": "26 ngày trước",
+          "updatedAt": "2026-08-10 07:43:03",
+          "replies": [
+            {
+              "id": 3354889,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Chu Thị Quỳnh",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Chu Thị Quỳnh",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Thảo Nguyễn,</p><p> Dạ nhà thuốc FPT Long Châu rất cảm ơn chị luôn tin tưởng và ủng hộ. Chúc chị nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-08-10 08:10:39",
+              "createdAtDisplay": "26 ngày trước",
+              "updatedAt": "2026-08-10 07:43:03",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3345157,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0965xxxxxx",
+          "name": "Phạm Thanh Phương",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-07-24 12:00:43",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-24 12:00:43",
+          "replies": [
+            {
+              "id": 3345161,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Đức Hải",
+                "moderatorEmail": "haind64@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Đức Hải",
+              "email": "haind64@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p><strong>Chào Chị Thanh Phương ạ, Long Châu rất trân trọng và cảm ơn Chị đã tin tưởng dành tặng đánh giá 5 sao cho nhà thuốc. Sự hài lòng của Chị là niềm động lực to lớn để đội ngũ Dược sĩ không ngừng nỗ lực mang đến dịch vụ chăm sóc sức khỏe tốt nhất cho cộng đồng. Nếu cần hỗ trợ thêm bất cứ thông tin nào về sức khỏe, Chị vui lòng để lại yêu cầu tư vấn trên website ạ. Chúc Chị luôn dồi dào sức khỏe ạ.</strong></p>",
+              "createdAt": "2026-07-24 12:02:48",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-24 12:00:43",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3333424,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0913xxxxxx",
+          "name": "chị Thuỳ Dương",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-07-04 17:59:00",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-07-04 17:59:00",
+          "replies": [
+            {
+              "id": 3333429,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Khánh Ngọc",
+                "moderatorEmail": "ngoclk2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Khánh Ngọc",
+              "email": "ngoclk2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Dương,</p><p>Hiện tại, sản phẩm KETOSTERIL KABI 5X20 có giá 1,550,000đ/hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-07-04 18:09:44",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-07-04 17:59:00",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 4.9,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 1,
+        "totalLv4": 0,
+        "totalLv5": 33
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Ketosteril Fresenius Kabi phòng ngừa và điều trị suy thận mạn (5 vỉ x 20 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004118_ketosteril_67mg_9116_6061_large_8b4b1e72dc.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004118_ketosteril_67mg_2283_6061_large_d7a121d2f2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004118_ketosteril_67mg_1744_6061_large_c210ee42ee.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004118_ketosteril_67mg_2504_6061_large_d064924c01.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Ketosteril của Công ty Labesfal Laboratórios Almiro S.A. Thuốc được sử dụng để phòng ngừa và điều trị bệnh do rối loạn hoặc suy giảm cơ chế chuyển hoá protein trong bệnh suy thận mạn, khi lượng protein trong chế độ ăn bị hạn chế ở mức dưới 40 g/ngày (đối với người lớn). Thường chỉ định cho các bệnh nhân có mức lọc cầu thận (GFR) dưới 25 ml/phút. Thuốc được bào chế dưới dạng viên nén bao phim.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.9",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "34"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Ketosteril phòng ngừa và điều trị suy thận mạn",
+      "description": "Ketosteril là thuốc gì? Thuốc ketosteril là thuốc điều hòa chuyển hóa protein trong cơ thể, giúp hạn chế sự tiến triển của bệnh suy thận đến giai đoạn cuối",
+      "openGraph": {
+        "title": "Thuốc Ketosteril Fresenius Kabi phòng ngừa và điều trị suy thận mạn (5 vỉ x 20 viên)",
+        "description": "Ketosteril của Công ty Labesfal Laboratórios Almiro S.A. Thuốc được sử dụng để phòng ngừa và điều trị bệnh do rối loạn hoặc suy giảm cơ chế chuyển hoá protein trong bệnh suy thận mạn, khi lượng protein trong chế độ ăn bị hạn chế ở mức dưới 40 g/ngày (đối với người lớn). Thường chỉ định cho các bệnh nhân có mức lọc cầu thận (GFR) dưới 25 ml/phút. Thuốc được bào chế dưới dạng viên nén bao phim.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004118_ketosteril_67mg_9116_6061_large_8b4b1e72dc.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/ketosteril-67mg-3352.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/ketosteril-67mg-3352.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

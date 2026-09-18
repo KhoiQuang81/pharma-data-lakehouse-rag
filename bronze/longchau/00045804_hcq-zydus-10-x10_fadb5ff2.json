@@ -1,0 +1,757 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/hcq-zydus-10-x10.html",
+  "ingestion_timestamp": "2026-09-05T09:56:29.469368+00:00",
+  "file_hash": "feda91e077d57c0d98c7ba5e4df2cf47c8571aa25058ffcf23edac142d6225c2",
+  "lineage_hash": "7b705352b69f29d0b8d37ce136f5fc9209d721404cbcb020ddfa3995bd5ad3e1",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/hcq-zydus-10-x10.html",
+    "product": {
+      "sku": "00045804",
+      "webName": "Thuốc HCQ 200mg Zydus phòng ngừa hoặc điều trị sốt rét cấp tính (10 vỉ x 10 viên)",
+      "name": "HCQ ZYDUS 10X10",
+      "shortName": "HCQ ZYDUS 10X10",
+      "headingText": "Thuốc HCQ 200mg",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_1_b2a69c13e5.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_2_16b51c455d.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_3_4c9469ba87.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_4_0f9dfde08e.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_5_e0e03205af.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_6_b8e54434b3.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_1_df6a7d94af.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_2_46cbf7cd92.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 731,
+          "name": "Thuốc kháng sinh, kháng nấm",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 784,
+          "name": "Thuốc trị sốt rét",
+          "parentName": "Thuốc kháng sinh, kháng nấm",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-tri-sot-ret",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 10 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "10 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/hcq-zydus-10-x10.html",
+      "ingredient": [
+        {
+          "id": 65169,
+          "ingredientId": 41937,
+          "shortDescription": "200mg",
+          "name": "Hydroxychloroquine sulfate",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "890110004500",
+      "manufactor": "Ấn Độ",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3 dir=\"ltr\">Cách dùng</h3><p dir=\"ltr\">Các viên nén dùng đường uống. Nên dùng mỗi liều với một bữa ăn hoặc ly sữa.</p><h3 dir=\"ltr\">Liều dùng</h3><p><strong>Người trưởng thành (bao gồm cả người cao tuổi)</strong></p><p>Nên sử dụng liều thấp nhất có hiệu quả. Liều này không nên vượt quá 6,5 mg/kg/ngày (tính từ trọng lượng cơ thể lý tưởng và không phải trọng lượng cơ thể thực tế) và là 200 mg hoặc 400 mg mỗi ngày.</p><p><strong>Ở những bệnh nhân có thể dùng 400 mg mỗi ngày</strong></p><p>Ban đầu 400 mg mỗi ngày chia làm nhiều lần. Có thể giảm liều xuống 200 mg khi không thấy cải thiện thêm. Nên tăng liều duy trì lên 400 mg mỗi ngày nếu đáp ứng giảm.</p><p><strong>Trẻ em</strong></p><p>Nên sử dụng liều thấp nhất có hiệu quả. Liều này không nên vượt quá 6,5 mg/kg/ngày dựa trên trọng lượng cơ thể lý tưởng. Do đó, viên nén 200 mg không phù hợp để sử dụng ở trẻ em có trọng lượng cơ thể lý tưởng dưới 31 kg.</p><p>Hydroxycloroquin được tích lũy trong tác động và sẽ cần vài tuần để phát huy tác dụng có lợi của nó, trong khi các tác dụng không mong muốn nhỏ có thể xảy ra tương đối sớm. Đối với viêm khớp dạng thấp, nên ngưng điều trị nếu không có cải thiện trong 6 tháng. Trong các bệnh nhạy cảm với ánh sáng, chỉ nên điều trị trong thời gian tiếp xúc tối đa với ánh sáng.</p><p dir=\"ltr\">Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3 dir=\"ltr\">Làm gì khi dùng quá liều?</h3><p>Quá liều với 4-aminoquinolin đặc biệt nguy hiểm ở trẻ sơ sinh, chỉ cần 1-2 g đã gây tử vong.</p><p><strong>Triệu chứng</strong></p><p>Các triệu chứng của quá liều có thể bao gồm đau đầu, rối loạn thị giác, trụy tim mạch, co giật và hạ kali máu. Rối loạn nhịp tim và rối loạn dẫn truyền, bao gồm kéo dài khoảng QT, xoắn đỉnh (Torsade de Pointes), nhịp nhanh ở tâm thất và rung tâm thất, sau đó là ngừng hô hấp và tim xảy ra sớm và đột ngột. Cần có sự chăm sóc y tế ngay lập tức, vì những tác dụng này có thể xuất hiện ngay sau khi dùng quá liều.</p><p><strong>Xử trí</strong></p><p>Nên làm rỗng dạ dày ngay lập tức, bằng cách gây nôn hoặc rửa dạ dày. Than hoạt tính dạng bột mịn với liều ít nhất năm lần lượng quá liều có thể ức chế sự hấp thu thêm nếu được đưa vào dạ dày bằng ống sau khi rửa và trong vòng 30 phút sau khi dùng quá liều.</p><p>Nên xem xét việc sử dụng diazepam đường ngoài ruột trong trường hợp quá liều; nó đã được chứng minh là có lợi trong việc đảo ngược độc tính trên tim của cloroquin.</p><p>Có thể cần hỗ trợ hô hấp và cần xem xét việc đặt nội khí quản hoặc mở khí quản. Nên điều trị sốc bằng cách truyền dịch (với dung dịch keo nếu cần thiết) và theo dõi áp lực tĩnh mạch trung tâm.</p><p>Trong trường hợp nặng, nên xem xét sử dụng dopamin.</p><p>Một bệnh nhân sống sót sau giai đoạn cấp tính và không có triệu chứng nên được theo dõi chặt chẽ trong ít nhất 6 giờ.</p><p dir=\"ltr\">Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3 dir=\"ltr\">Làm gì khi quên 1 liều?</h3><p dir=\"ltr\">Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\"><a href=\"https://nhathuoclongchau.com.vn/thuoc/hcq-1206.html\">Thuốc HCQ</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Người trưởng thành: Điều trị viêm khớp dạng thấp, lupus ban đỏ dạng đĩa và hệ thống, các tình trạng da liễu do ánh sáng mặt trời gây ra hoặc làm nặng thêm.</li><li>Trẻ em: Điều trị viêm khớp tự phát thiếu niên (kết hợp với các phương pháp điều trị khác), bệnh lupus ban đỏ dạng đĩa và hệ thống.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Nhóm dược lý: Chống thấp khớp.</strong></p><p><strong>Mã ATC: P01BA02.</strong></p><p><strong>Cơ chế hoạt động</strong></p><p>Các thuốc chống sốt rét như cloroquin và hydroxycloroquin có một số tác động dược lý có thể liên quan đến tác dụng điều trị của chúng trong điều trị viêm khớp dạng thấp, nhưng vai trò của mỗi loại không được biết đến. Chúng bao gồm tương tác với các nhóm sulphadryl, can thiệp vào hoạt động của enzym (bao gồm phospholipase, NADH-cytochrom C reductase, cholinestrase, protease và hydrolase), liên kết DNA, ổn định màng tế bào lysosome, ức chế sự hình thành prostagalandin, ức chế sự hóa ứng động (chemotaxis) tế bào nhiều dạng nhân và thực bào, có thể can thiệp sản xuất interleukin 1 từ bạch cầu đơn nhân và ức chế giải phóng superoxid từ bạch cầu trung tính.</p><h3 dir=\"ltr\">Dược động học</h3><p><strong>Hấp thu</strong></p><p>Sau khi uống, hydroxycloroquin được hấp thu hầu như hoàn toàn và nhanh chóng. Trong một nghiên cứu, nồng độ đỉnh trung bình của hydroxycloroquin trong huyết tương sau một liều duy nhất 400 mg ở những người khỏe mạnh dao động từ 53-208 ng/mL với trung bình là 105 ng/mL.</p><p>Thời gian trung bình để đạt nồng độ đỉnh trong huyết tương là 1,83 giờ.</p><p><strong>Phân bố</strong></p><p>Các hợp chất ban đầu và các chất chuyển hóa phân bố rộng rãi trong cơ thể.</p><p><strong>Chuyển hóa</strong></p><p>Sự chuyển hóa của hydroxycloroquin là tương tự như cloroquin.</p><p><strong>Thải trừ</strong></p><p>Thời gian bán thải trung bình trong huyết tương khác nhau, tùy thuộc vào giai đoạn sau khi dùng thuốc: 5,9 giờ (ở C<sub>max</sub> - 10 giờ), 26,1 giờ (lúc 10-48 giờ) và 229 giờ (ở 48-504 giờ). Thuốc được thải trừ chủ yếu qua nước tiểu, trong đó 3% liều dùng được thu hồi sau 24 giờ trong một nghiên cứu.</p>",
+      "brand": "ZYDUS",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc HCQ bạn có thể gặp các tác dụng không mong muốn (ADR):</p><p>Sử dụng phân loại tần suất theo CIOMS (Hội đồng các tổ chức quốc tế về khoa học y học) khi áp dụng: rất thường gặp (≥ 1/10), thường gặp ( 1/100 đến &lt; 1/10), ít gặp (≥ 1/1000 đến &lt; 1/100), hiếm gặp (≥ 1/10000 đến &lt; 1/1000), rất hiếm gặp (&lt; 1/10000), chưa biết (không thể ước tính từ dữ liệu có sẵn).</p><p>Bảng liệt kê các tác dụng không mong muốn</p><figure class=\"table\" style=\"width:100%;\"><table class=\"ck-table-resized\" style=\"border:2px solid #607d8b;\"><colgroup><col style=\"width:23.78%;\"><col style=\"width:14.82%;\"><col style=\"width:61.4%;\"></colgroup><thead><tr><th style=\"border:1px solid #607d8b;\">Phân loại hệ cơ quan</th><th style=\"border:1px solid #607d8b;\">Tần suất</th><th style=\"border:1px solid #607d8b;\">Tác dụng không mong muốn</th></tr></thead><tbody><tr><td style=\"border:1px solid #607d8b;\">Rối loạn hệ miễn dịch</td><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\">Mày đay, phù mạch, co thắt phế quản.</td></tr><tr><td style=\"border:1px solid #607d8b;\" rowspan=\"3\">Rối loạn thị giác</td><td style=\"border:1px solid #607d8b;\">Thường gặp</td><td style=\"border:1px solid #607d8b;\">Mờ mắt do rối loạn điều tiết phụ thuộc vào liều lượng và có thể hồi phục.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Ít gặp</td><td style=\"border:1px solid #607d8b;\"><p>Có thể xảy ra bệnh lý võng mạc với những thay đổi về sắc tố và khiếm khuyết trường thị giác, nhưng dường như ít gặp nếu không vượt quá liều khuyến cáo hàng ngày. Ban đầu, tình trạng này xảy ra có thể hồi phục khi ngưng dùng hydroxycloroquin sulfat. Nếu tiếp tục phát triển, tình trạng này có thể có nguy cơ tiến triển ngay cả sau khi ngưng điều trị.</p><p>Bệnh nhân có thay đổi võng mạc ban đầu có thể không có triệu chứng, hoặc có thể mất thị lực một phần với các loại vòng quanh trung tâm, gần trung tâm, ám điểm thái dương và thị lực màu bất thường.</p><p>Đã có báo cáo về việc thay đổi thị giác bao gồm phù nề và mờ đục. Chúng không có triệu chứng hoặc có thể gây ra các rối loạn như quầng sáng xung quanh, nhìn mờ hoặc chứng sợ ánh sáng. Các tác dụng này có thể thoáng qua và có thể hồi phục khi ngưng điều trị.</p></td></tr><tr><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\">Đã có báo cáo về các trường hợp mắc bệnh võng mạc do đái tháo đường và thoái hóa điểm vàng (khởi phát từ 3 tháng đến vài năm tiếp xúc với hydroxycloroquin) và có thể không hồi phục.</td></tr><tr><td style=\"border:1px solid #607d8b;\" rowspan=\"3\">Rối loạn da và mô dưới da</td><td style=\"border:1px solid #607d8b;\">Thường gặp</td><td style=\"border:1px solid #607d8b;\">Ban da, ngứa.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Ít gặp</td><td style=\"border:1px solid #607d8b;\">Rối loạn sắc tố ở da và niêm mạc, bạc tóc, rụng tóc. Những điều này thường giải quyết dễ dàng bằng việc ngưng điều trị.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\"><p>Sự phát ban bỏng rộp bao gồm hồng ban đa dạng, hội chứng Stevens-Johnson và hoại tử thượng bì nhiễm độc, phát ban do thuốc với tăng bạch cầu ái toan và nhiều triệu chứng toàn thân (hội chứng DRESS), nhạy cảm ánh sáng, viêm da tróc vảy, hội chứng ngoại ban mụn mủ toàn thân cấp tính (AGEP).</p><p>Hội chứng ngoại ban mụn mủ toàn thân cấp tính (AGEP) phải được phân biệt với bệnh vảy nến, mặc dù hydroxycloroquin có thể thúc đẩy các cuộc tấn công của bệnh vảy nến. Nó có thể liên quan đến sốt và tăng bạch cầu. Kết quả thường là có lợi sau khi ngưng thuốc.</p></td></tr><tr><td style=\"border:1px solid #607d8b;\">Rối loạn hệ miễn dịch</td><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\">Mày đay, phù mạch, co thắt phế quản.</td></tr><tr><td style=\"border:1px solid #607d8b;\" rowspan=\"2\">Rối loạn tiêu hóa</td><td style=\"border:1px solid #607d8b;\">Rất thường gặp</td><td style=\"border:1px solid #607d8b;\">Đau bụng, buồn nôn.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Thường gặp</td><td style=\"border:1px solid #607d8b;\">Tiêu chảy, nôn mửa. Những triệu chứng này thường giải quyết ngay lập tức bằng việc giảm liều hoặc ngưng điều trị.</td></tr><tr><td style=\"border:1px solid #607d8b;\" rowspan=\"3\">Rối loạn hệ thần kinh</td><td style=\"border:1px solid #607d8b;\">Thường gặp</td><td style=\"border:1px solid #607d8b;\">Đau đầu.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Ít gặp</td><td style=\"border:1px solid #607d8b;\">Chóng mặt.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\">Đã có báo cáo về co giật với nhóm thuốc này. Rối loạn ngoại tháp như rối loạn trương lực, rối loạn vận động, run.</td></tr><tr><td style=\"border:1px solid #607d8b;\" rowspan=\"2\">Rối loạn tim</td><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\"><p>Bệnh cơ tim có thể dẫn đến suy tim và trong một số trường hợp dẫn đến tử vong.</p><p>Nên xem xét độc tính mạn tính khi có rối loạn dẫn truyền (block nhánh bó/block nhĩ thất) cũng như phì đại cả hai tâm thất. Tác dụng này có thể hồi phục khi ngưng thuốc.</p></td></tr><tr><td style=\"border:1px solid #607d8b;\">Ít gặp</td><td style=\"border:1px solid #607d8b;\">Rối loạn vận động cảm giác.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Rối loạn cơ xương khớp và mô liên kết</td><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\"><p>Bệnh cơ xương hoặc bệnh thần kinh cơ dẫn đến tiến triển sự suy yếu và teo các nhóm cơ gần.</p><p>Bệnh cơ có thể hồi phục sau khi ngưng thuốc, nhưng quá trình phục hồi có thể mất nhiều tháng.</p><p>Giảm các phản xạ gân và sự dẫn truyền thần kinh bất thường.</p></td></tr><tr><td style=\"border:1px solid #607d8b;\">Rối loạn máu và hệ bạch huyết</td><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\">Suy tủy xương, thiếu máu, bất sản, mất bạch cầu hạt, giảm bạch cầu và giảm tiểu cầu.</td></tr><tr><td style=\"border:1px solid #607d8b;\" rowspan=\"2\">Rối loạn gan mật</td><td style=\"border:1px solid #607d8b;\">Ít gặp</td><td style=\"border:1px solid #607d8b;\">Xét nghiệm chức năng gan bất thường.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\">Suy gan tối cấp.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Rối loạn chuyển hóa và dinh dưỡng</td><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\"><p>Hạ đường huyết.&nbsp;</p><p>Hydroxychloroquin có thể thúc đẩy hoặc làm trầm trọng thêm tình trạng rối loạn chuyển hóa porphyrin.</p></td></tr><tr><td style=\"border:1px solid #607d8b;\" rowspan=\"3\">Rối loạn tai và tai trong</td><td style=\"border:1px solid #607d8b;\">Thường gặp</td><td style=\"border:1px solid #607d8b;\">Chán ăn.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Ít gặp</td><td style=\"border:1px solid #607d8b;\">Chóng mặt, ù tai.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\">Mất thính lực.</td></tr><tr><td style=\"border:1px solid #607d8b;\" rowspan=\"3\">Rối loạn tâm thần</td><td style=\"border:1px solid #607d8b;\">Thường gặp</td><td style=\"border:1px solid #607d8b;\">Ảnh hưởng tâm tính.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Ít gặp</td><td style=\"border:1px solid #607d8b;\">Buồn chồn.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\">Rối loạn tâm thần.</td></tr></tbody></table></figure><p><i><strong>Hướng dẫn cách xử trí ADR:</strong></i></p><p dir=\"ltr\">Thông báo cho thầy thuốc các tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Hộp 10 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Ấn Độ",
+      "producer": "ZYDUS LIFESCIENCES LIMITED",
+      "shortDescription": "<p>Thuốc HCQ có thành phần chính là Hydroxychloroquine sulfate. Đây là thuốc được sử dụng để điều trị viêm khớp dạng thấp, lupus ban đỏ dạng đĩa và hệ thống, các tình trạng da liễu do ánh sáng mặt trời gây ra hoặc làm nặng thêm ở người trưởng thành; điều trị viêm khớp tự phát thiếu niên (kết hợp với các phương pháp điều trị khác), bệnh lupus ban đỏ dạng đĩa và hệ thống ở trẻ em.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/zydus",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "HCQ",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 249,
+        "attributeName": "Ấn Độ",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/in_India_090039de61.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 784,
+        "name": "Thuốc trị sốt rét",
+        "parentName": "Thuốc kháng sinh, kháng nấm",
+        "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-tri-sot-ret",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_1_b2a69c13e5.png",
+          "alternativeText": "Thuốc HCQ 200mg Zydus phòng ngừa hoặc điều trị sốt rét cấp tính (10 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_2_16b51c455d.png",
+          "alternativeText": "Thuốc HCQ 200mg Zydus phòng ngừa hoặc điều trị sốt rét cấp tính (10 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_3_4c9469ba87.png",
+          "alternativeText": "Thuốc HCQ 200mg Zydus phòng ngừa hoặc điều trị sốt rét cấp tính (10 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_4_0f9dfde08e.png",
+          "alternativeText": "Thuốc HCQ 200mg Zydus phòng ngừa hoặc điều trị sốt rét cấp tính (10 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_5_e0e03205af.png",
+          "alternativeText": "Thuốc HCQ 200mg Zydus phòng ngừa hoặc điều trị sốt rét cấp tính (10 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_6_b8e54434b3.png",
+          "alternativeText": "Thuốc HCQ 200mg Zydus phòng ngừa hoặc điều trị sốt rét cấp tính (10 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_1_df6a7d94af.jpg",
+          "alternativeText": "Thuốc HCQ 200mg Zydus phòng ngừa hoặc điều trị sốt rét cấp tính (10 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_2_46cbf7cd92.jpg",
+          "alternativeText": "Thuốc HCQ 200mg Zydus phòng ngừa hoặc điều trị sốt rét cấp tính (10 vỉ x 10 viên) 8"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc kháng sinh, kháng nấm",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam"
+      },
+      {
+        "name": "Thuốc trị sốt rét",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam/thuoc-tri-sot-ret"
+      }
+    ],
+    "content": {
+      "sku": "00045804",
+      "dosage": "<h3 dir=\"ltr\">Cách dùng</h3><p dir=\"ltr\">Các viên nén dùng đường uống. Nên dùng mỗi liều với một bữa ăn hoặc ly sữa.</p><h3 dir=\"ltr\">Liều dùng</h3><p><strong>Người trưởng thành (bao gồm cả người cao tuổi)</strong></p><p>Nên sử dụng liều thấp nhất có hiệu quả. Liều này không nên vượt quá 6,5 mg/kg/ngày (tính từ trọng lượng cơ thể lý tưởng và không phải trọng lượng cơ thể thực tế) và là 200 mg hoặc 400 mg mỗi ngày.</p><p><strong>Ở những bệnh nhân có thể dùng 400 mg mỗi ngày</strong></p><p>Ban đầu 400 mg mỗi ngày chia làm nhiều lần. Có thể giảm liều xuống 200 mg khi không thấy cải thiện thêm. Nên tăng liều duy trì lên 400 mg mỗi ngày nếu đáp ứng giảm.</p><p><strong>Trẻ em</strong></p><p>Nên sử dụng liều thấp nhất có hiệu quả. Liều này không nên vượt quá 6,5 mg/kg/ngày dựa trên trọng lượng cơ thể lý tưởng. Do đó, viên nén 200 mg không phù hợp để sử dụng ở trẻ em có trọng lượng cơ thể lý tưởng dưới 31 kg.</p><p>Hydroxycloroquin được tích lũy trong tác động và sẽ cần vài tuần để phát huy tác dụng có lợi của nó, trong khi các tác dụng không mong muốn nhỏ có thể xảy ra tương đối sớm. Đối với viêm khớp dạng thấp, nên ngưng điều trị nếu không có cải thiện trong 6 tháng. Trong các bệnh nhạy cảm với ánh sáng, chỉ nên điều trị trong thời gian tiếp xúc tối đa với ánh sáng.</p><p dir=\"ltr\">Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3 dir=\"ltr\">Làm gì khi dùng quá liều?</h3><p>Quá liều với 4-aminoquinolin đặc biệt nguy hiểm ở trẻ sơ sinh, chỉ cần 1-2 g đã gây tử vong.</p><p><strong>Triệu chứng</strong></p><p>Các triệu chứng của quá liều có thể bao gồm đau đầu, rối loạn thị giác, trụy tim mạch, co giật và hạ kali máu. Rối loạn nhịp tim và rối loạn dẫn truyền, bao gồm kéo dài khoảng QT, xoắn đỉnh (Torsade de Pointes), nhịp nhanh ở tâm thất và rung tâm thất, sau đó là ngừng hô hấp và tim xảy ra sớm và đột ngột. Cần có sự chăm sóc y tế ngay lập tức, vì những tác dụng này có thể xuất hiện ngay sau khi dùng quá liều.</p><p><strong>Xử trí</strong></p><p>Nên làm rỗng dạ dày ngay lập tức, bằng cách gây nôn hoặc rửa dạ dày. Than hoạt tính dạng bột mịn với liều ít nhất năm lần lượng quá liều có thể ức chế sự hấp thu thêm nếu được đưa vào dạ dày bằng ống sau khi rửa và trong vòng 30 phút sau khi dùng quá liều.</p><p>Nên xem xét việc sử dụng diazepam đường ngoài ruột trong trường hợp quá liều; nó đã được chứng minh là có lợi trong việc đảo ngược độc tính trên tim của cloroquin.</p><p>Có thể cần hỗ trợ hô hấp và cần xem xét việc đặt nội khí quản hoặc mở khí quản. Nên điều trị sốc bằng cách truyền dịch (với dung dịch keo nếu cần thiết) và theo dõi áp lực tĩnh mạch trung tâm.</p><p>Trong trường hợp nặng, nên xem xét sử dụng dopamin.</p><p>Một bệnh nhân sống sót sau giai đoạn cấp tính và không có triệu chứng nên được theo dõi chặt chẽ trong ít nhất 6 giờ.</p><p dir=\"ltr\">Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3 dir=\"ltr\">Làm gì khi quên 1 liều?</h3><p dir=\"ltr\">Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<p>Tham khảo thông tin tờ hướng dẫn sử dụng thuốc.</p>",
+      "adverseEffect": "<p>Khi sử dụng thuốc HCQ bạn có thể gặp các tác dụng không mong muốn (ADR):</p><p>Sử dụng phân loại tần suất theo CIOMS (Hội đồng các tổ chức quốc tế về khoa học y học) khi áp dụng: rất thường gặp (≥ 1/10), thường gặp ( 1/100 đến &lt; 1/10), ít gặp (≥ 1/1000 đến &lt; 1/100), hiếm gặp (≥ 1/10000 đến &lt; 1/1000), rất hiếm gặp (&lt; 1/10000), chưa biết (không thể ước tính từ dữ liệu có sẵn).</p><p>Bảng liệt kê các tác dụng không mong muốn</p><figure class=\"table\" style=\"width:100%;\"><table class=\"ck-table-resized\" style=\"border:2px solid #607d8b;\"><colgroup><col style=\"width:23.78%;\"><col style=\"width:14.82%;\"><col style=\"width:61.4%;\"></colgroup><thead><tr><th style=\"border:1px solid #607d8b;\">Phân loại hệ cơ quan</th><th style=\"border:1px solid #607d8b;\">Tần suất</th><th style=\"border:1px solid #607d8b;\">Tác dụng không mong muốn</th></tr></thead><tbody><tr><td style=\"border:1px solid #607d8b;\">Rối loạn hệ miễn dịch</td><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\">Mày đay, phù mạch, co thắt phế quản.</td></tr><tr><td style=\"border:1px solid #607d8b;\" rowspan=\"3\">Rối loạn thị giác</td><td style=\"border:1px solid #607d8b;\">Thường gặp</td><td style=\"border:1px solid #607d8b;\">Mờ mắt do rối loạn điều tiết phụ thuộc vào liều lượng và có thể hồi phục.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Ít gặp</td><td style=\"border:1px solid #607d8b;\"><p>Có thể xảy ra bệnh lý võng mạc với những thay đổi về sắc tố và khiếm khuyết trường thị giác, nhưng dường như ít gặp nếu không vượt quá liều khuyến cáo hàng ngày. Ban đầu, tình trạng này xảy ra có thể hồi phục khi ngưng dùng hydroxycloroquin sulfat. Nếu tiếp tục phát triển, tình trạng này có thể có nguy cơ tiến triển ngay cả sau khi ngưng điều trị.</p><p>Bệnh nhân có thay đổi võng mạc ban đầu có thể không có triệu chứng, hoặc có thể mất thị lực một phần với các loại vòng quanh trung tâm, gần trung tâm, ám điểm thái dương và thị lực màu bất thường.</p><p>Đã có báo cáo về việc thay đổi thị giác bao gồm phù nề và mờ đục. Chúng không có triệu chứng hoặc có thể gây ra các rối loạn như quầng sáng xung quanh, nhìn mờ hoặc chứng sợ ánh sáng. Các tác dụng này có thể thoáng qua và có thể hồi phục khi ngưng điều trị.</p></td></tr><tr><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\">Đã có báo cáo về các trường hợp mắc bệnh võng mạc do đái tháo đường và thoái hóa điểm vàng (khởi phát từ 3 tháng đến vài năm tiếp xúc với hydroxycloroquin) và có thể không hồi phục.</td></tr><tr><td style=\"border:1px solid #607d8b;\" rowspan=\"3\">Rối loạn da và mô dưới da</td><td style=\"border:1px solid #607d8b;\">Thường gặp</td><td style=\"border:1px solid #607d8b;\">Ban da, ngứa.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Ít gặp</td><td style=\"border:1px solid #607d8b;\">Rối loạn sắc tố ở da và niêm mạc, bạc tóc, rụng tóc. Những điều này thường giải quyết dễ dàng bằng việc ngưng điều trị.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\"><p>Sự phát ban bỏng rộp bao gồm hồng ban đa dạng, hội chứng Stevens-Johnson và hoại tử thượng bì nhiễm độc, phát ban do thuốc với tăng bạch cầu ái toan và nhiều triệu chứng toàn thân (hội chứng DRESS), nhạy cảm ánh sáng, viêm da tróc vảy, hội chứng ngoại ban mụn mủ toàn thân cấp tính (AGEP).</p><p>Hội chứng ngoại ban mụn mủ toàn thân cấp tính (AGEP) phải được phân biệt với bệnh vảy nến, mặc dù hydroxycloroquin có thể thúc đẩy các cuộc tấn công của bệnh vảy nến. Nó có thể liên quan đến sốt và tăng bạch cầu. Kết quả thường là có lợi sau khi ngưng thuốc.</p></td></tr><tr><td style=\"border:1px solid #607d8b;\">Rối loạn hệ miễn dịch</td><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\">Mày đay, phù mạch, co thắt phế quản.</td></tr><tr><td style=\"border:1px solid #607d8b;\" rowspan=\"2\">Rối loạn tiêu hóa</td><td style=\"border:1px solid #607d8b;\">Rất thường gặp</td><td style=\"border:1px solid #607d8b;\">Đau bụng, buồn nôn.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Thường gặp</td><td style=\"border:1px solid #607d8b;\">Tiêu chảy, nôn mửa. Những triệu chứng này thường giải quyết ngay lập tức bằng việc giảm liều hoặc ngưng điều trị.</td></tr><tr><td style=\"border:1px solid #607d8b;\" rowspan=\"3\">Rối loạn hệ thần kinh</td><td style=\"border:1px solid #607d8b;\">Thường gặp</td><td style=\"border:1px solid #607d8b;\">Đau đầu.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Ít gặp</td><td style=\"border:1px solid #607d8b;\">Chóng mặt.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\">Đã có báo cáo về co giật với nhóm thuốc này. Rối loạn ngoại tháp như rối loạn trương lực, rối loạn vận động, run.</td></tr><tr><td style=\"border:1px solid #607d8b;\" rowspan=\"2\">Rối loạn tim</td><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\"><p>Bệnh cơ tim có thể dẫn đến suy tim và trong một số trường hợp dẫn đến tử vong.</p><p>Nên xem xét độc tính mạn tính khi có rối loạn dẫn truyền (block nhánh bó/block nhĩ thất) cũng như phì đại cả hai tâm thất. Tác dụng này có thể hồi phục khi ngưng thuốc.</p></td></tr><tr><td style=\"border:1px solid #607d8b;\">Ít gặp</td><td style=\"border:1px solid #607d8b;\">Rối loạn vận động cảm giác.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Rối loạn cơ xương khớp và mô liên kết</td><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\"><p>Bệnh cơ xương hoặc bệnh thần kinh cơ dẫn đến tiến triển sự suy yếu và teo các nhóm cơ gần.</p><p>Bệnh cơ có thể hồi phục sau khi ngưng thuốc, nhưng quá trình phục hồi có thể mất nhiều tháng.</p><p>Giảm các phản xạ gân và sự dẫn truyền thần kinh bất thường.</p></td></tr><tr><td style=\"border:1px solid #607d8b;\">Rối loạn máu và hệ bạch huyết</td><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\">Suy tủy xương, thiếu máu, bất sản, mất bạch cầu hạt, giảm bạch cầu và giảm tiểu cầu.</td></tr><tr><td style=\"border:1px solid #607d8b;\" rowspan=\"2\">Rối loạn gan mật</td><td style=\"border:1px solid #607d8b;\">Ít gặp</td><td style=\"border:1px solid #607d8b;\">Xét nghiệm chức năng gan bất thường.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\">Suy gan tối cấp.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Rối loạn chuyển hóa và dinh dưỡng</td><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\"><p>Hạ đường huyết.&nbsp;</p><p>Hydroxychloroquin có thể thúc đẩy hoặc làm trầm trọng thêm tình trạng rối loạn chuyển hóa porphyrin.</p></td></tr><tr><td style=\"border:1px solid #607d8b;\" rowspan=\"3\">Rối loạn tai và tai trong</td><td style=\"border:1px solid #607d8b;\">Thường gặp</td><td style=\"border:1px solid #607d8b;\">Chán ăn.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Ít gặp</td><td style=\"border:1px solid #607d8b;\">Chóng mặt, ù tai.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\">Mất thính lực.</td></tr><tr><td style=\"border:1px solid #607d8b;\" rowspan=\"3\">Rối loạn tâm thần</td><td style=\"border:1px solid #607d8b;\">Thường gặp</td><td style=\"border:1px solid #607d8b;\">Ảnh hưởng tâm tính.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Ít gặp</td><td style=\"border:1px solid #607d8b;\">Buồn chồn.</td></tr><tr><td style=\"border:1px solid #607d8b;\">Chưa biết</td><td style=\"border:1px solid #607d8b;\">Rối loạn tâm thần.</td></tr></tbody></table></figure><p><i><strong>Hướng dẫn cách xử trí ADR:</strong></i></p><p dir=\"ltr\">Thông báo cho thầy thuốc các tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p dir=\"ltr\">Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p><p dir=\"ltr\">Để xa tầm tay trẻ em, đọc kỹ hướng dẫn sử dụng trước khi dùng.</p>",
+      "usage": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\"><a href=\"https://nhathuoclongchau.com.vn/thuoc/hcq-1206.html\">Thuốc HCQ</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Người trưởng thành: Điều trị viêm khớp dạng thấp, lupus ban đỏ dạng đĩa và hệ thống, các tình trạng da liễu do ánh sáng mặt trời gây ra hoặc làm nặng thêm.</li><li>Trẻ em: Điều trị viêm khớp tự phát thiếu niên (kết hợp với các phương pháp điều trị khác), bệnh lupus ban đỏ dạng đĩa và hệ thống.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Nhóm dược lý: Chống thấp khớp.</strong></p><p><strong>Mã ATC: P01BA02.</strong></p><p><strong>Cơ chế hoạt động</strong></p><p>Các thuốc chống sốt rét như cloroquin và hydroxycloroquin có một số tác động dược lý có thể liên quan đến tác dụng điều trị của chúng trong điều trị viêm khớp dạng thấp, nhưng vai trò của mỗi loại không được biết đến. Chúng bao gồm tương tác với các nhóm sulphadryl, can thiệp vào hoạt động của enzym (bao gồm phospholipase, NADH-cytochrom C reductase, cholinestrase, protease và hydrolase), liên kết DNA, ổn định màng tế bào lysosome, ức chế sự hình thành prostagalandin, ức chế sự hóa ứng động (chemotaxis) tế bào nhiều dạng nhân và thực bào, có thể can thiệp sản xuất interleukin 1 từ bạch cầu đơn nhân và ức chế giải phóng superoxid từ bạch cầu trung tính.</p><h3 dir=\"ltr\">Dược động học</h3><p><strong>Hấp thu</strong></p><p>Sau khi uống, hydroxycloroquin được hấp thu hầu như hoàn toàn và nhanh chóng. Trong một nghiên cứu, nồng độ đỉnh trung bình của hydroxycloroquin trong huyết tương sau một liều duy nhất 400 mg ở những người khỏe mạnh dao động từ 53-208 ng/mL với trung bình là 105 ng/mL.</p><p>Thời gian trung bình để đạt nồng độ đỉnh trong huyết tương là 1,83 giờ.</p><p><strong>Phân bố</strong></p><p>Các hợp chất ban đầu và các chất chuyển hóa phân bố rộng rãi trong cơ thể.</p><p><strong>Chuyển hóa</strong></p><p>Sự chuyển hóa của hydroxycloroquin là tương tự như cloroquin.</p><p><strong>Thải trừ</strong></p><p>Thời gian bán thải trung bình trong huyết tương khác nhau, tùy thuộc vào giai đoạn sau khi dùng thuốc: 5,9 giờ (ở C<sub>max</sub> - 10 giờ), 26,1 giờ (lúc 10-48 giờ) và 229 giờ (ở 48-504 giờ). Thuốc được thải trừ chủ yếu qua nước tiểu, trong đó 3% liều dùng được thu hồi sau 24 giờ trong một nghiên cứu.</p>",
+      "ingredient": "",
+      "careful": "<p dir=\"ltr\">Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3 dir=\"ltr\">Chống chỉ định</h3><p dir=\"ltr\">Thuốc HCQ chống chỉ định trong các trường hợp sau:</p><ul><li>Quá mẫn cảm với hoạt chất, hợp chất 4-aminoquinolin hoặc với bất kỳ tá dược nào.</li><li>Bệnh về điểm vàng (hoàng điểm) của mắt đã có từ trước.</li><li>Phụ nữ có thai.</li></ul><h3 dir=\"ltr\">Thận trọng khi sử dụng</h3><p>Cần rất thận trọng khi dùng thuốc cho người bệnh trong các trường hợp sau:</p><p><strong>Bệnh võng mạc</strong></p><p>Sự xuất hiện của bệnh võng mạc là rất ít gặp nếu không vượt quá liều khuyến cáo hàng ngày. Việc dùng liều vượt quá liều tối đa khuyến cáo có khả năng làm tăng nguy cơ mắc bệnh võng mạc và đẩy nhanh quá trình khởi phát của nó.</p><p>Nên kiểm tra nhãn khoa ở tất cả bệnh nhân trước khi bắt đầu điều trị bằng hydroxycloroquin. Sau đó, phải kiểm tra nhãn khoa lặp lại ít nhất mỗi 12 tháng.</p><p>Việc kiểm tra nên bao gồm kiểm tra thị lực, soi đáy mắt cẩn thận, soi đáy mắt và kiểm tra trường thị giác trung tâm với mục tiêu màu đỏ và tầm nhìn màu.</p><p>Việc kiểm tra này nên tiến hành thường xuyên hơn và thích hợp với bệnh nhân trong các tình huống sau:</p><ul><li>Liều dùng hàng ngày vượt quá 6,5 mg/kg trọng lượng cơ thể gầy. Trọng lượng cơ thể tuyệt đối được sử dụng như một hướng dẫn về liều lượng có thể dẫn đến quá liều ở người béo phì.</li><li>Suy thận.</li><li>Thị lực dưới 6/8.</li><li>Trên 65 tuổi.</li><li>Liều tích lũy hơn 200 g.</li><li>Sử dụng đồng thời hydroxychloroquin sulfat với các thuốc được biết là gây độc tính võng mạc như tamoxifen.</li></ul><p>Nên ngưng sử dụng hydroxycloroquin sulfat ngay lập tức ở bất kỳ bệnh nhân nào xuất hiện bất thường sắc tố, khiếm khuyết trường thị giác hoặc bất kỳ bất thường nào khác không thể giải thích được do khó khăn trong việc điều tiết hoặc có sự hiện diện của sự mờ giác mạc. Nên tiếp tục theo dõi bệnh nhân về sự tiến triển có thể xảy ra của những thay đổi.</p><p>Nên khuyên bệnh nhân ngưng dùng thuốc ngay lập tức và tìm lời khuyên của bác sĩ kê đơn nếu có bất kỳ rối loạn nào về thị lực, bao gồm cả thị lực màu bất thường.</p><p><strong>Rối loạn ngoại tháp</strong></p><p>Rối loạn ngoại tháp có thể xảy ra khi dùng hydroxycloroquin sulfat.</p><p><strong>Hạ đường huyết</strong></p><p>Hydroxycloroquin đã được chứng minh là gây hạ đường huyết nặng bao gồm mất ý thức có thể đe dọa tính mạng ở những bệnh nhân điều trị có và không có thuốc trị đái tháo đường. Nên cảnh báo bệnh nhân điều trị bằng hydroxycloroquin về nguy cơ hạ đường huyết và các dấu hiệu và triệu chứng lâm sàng liên quan. Bệnh nhân có triệu chứng lâm sàng gợi ý hạ đường huyết trong khi điều trị bằng hydroxycloroquin nên kiểm tra mức đường huyết và xem xét điều trị khi cần thiết.</p><p><strong>Kéo dài khoảng QT</strong></p><p>Hydroxychloroquin có khả năng kéo dài khoảng QTc ở những bệnh nhân có các yếu tố nguy cơ cụ thể. Hydroxychloroquin nên được sử dụng thận trọng ở những bệnh nhân bị kéo dài khoảng QT bẩm sinh hoặc mắc phải và/hoặc các yếu tố nguy cơ đã biết gây kéo dài khoảng QT như:</p><ul><li>Bệnh tim, ví dụ như suy tim, nhồi máu cơ tim.</li><li>Tình trạng rối loạn nhịp tim, ví dụ nhịp tim chậm (&lt;50 bpm).</li><li>Tiền sử rối loạn nhịp thất.</li><li>Hạ kali máu và/hoặc hạ magie máu không được điều trị.</li><li>Khi dùng đồng thời với các thuốc kéo dài khoảng QT vì điều này có thể dẫn đến tăng nguy cơ rối loạn nhịp thất.</li></ul><p>Mức độ kéo dài khoảng QT có thể tăng lên khi tăng nồng độ thuốc. Vì vậy, không nên vượt quá liều khuyến cáo.</p><p><strong>Độc tính gây suy tim mãn</strong></p><p>Đã có báo cáo về các trường hợp bệnh cơ tim dẫn đến suy tim, trong một số trường hợp là tử vong ở những bệnh nhân điều trị bằng hydroxycloroquin sulfat. Khuyến cáo theo dõi lâm sàng về các dấu hiệu và triệu chứng của bệnh cơ tim và nên ngưng dùng hydroxycloroquin sulfat nếu bệnh cơ tim phát triển. Nên xem xét độc tính mãn tính khi chẩn đoán có rối loạn dẫn truyền (block nhánh bó/block nhĩ thất) cũng như phì đại cả hai tâm thất.</p><p><strong>Suy tủy xương</strong></p><p>Mặc dù nguy cơ suy tủy xương là thấp, đã có báo cáo về số lượng máu định kỳ như thiếu máu, thiếu máu bất sản, mất bạch cầu hạt, giảm số lượng bạch cầu và giảm tiểu cầu. Nên ngưng dùng hydroxycloroquin nếu có bất thường xảy ra.</p><p><strong>Giám sát khác về điều trị dài hạn</strong></p><p>Bệnh nhân điều trị lâu dài nên được xét nghiệm công thức máu toàn phần định kỳ và nên ngừng sử dụng hydroxychloroquin nếu có phát sinh bất thường.</p><p>Tất cả các bệnh nhân điều trị lâu dài nên được kiểm tra định kỳ chức năng cơ xương và phản xạ gân. Nếu xảy ra tình trạng yếu nhược, nên ngưng thuốc.</p><p><strong>Nguy cớ gây ung thư tiềm ẩn</strong></p><p>Dữ liệu thực nghiệm cho thấy nguy cơ tiềm ẩn gây đột biến gen. Dữ liệu về khả năng gây ung thư ở động vật chỉ có sẵn đối với một loài thuốc mẹ chloroquine và nghiên cứu này là âm tính (không phát hiện khả năng gây ung thư). Ở người, không có đủ dữ liệu để loại trừ nguy cơ ung thư tăng lên ở những bệnh nhân được điều trị lâu dài.</p><p><strong>Nhiễm độc gan</strong></p><p>Các trường hợp nghiêm trọng về tổn thương gan do thuốc (DILI) bao gồm tổn thương tế bào gan, tổn thương gan ứ mật, viêm gan cấp tính, tổn thương tế bào gan/gan ứ mật hỗn hợp và suy gan tối cấp (bao gồm cả trường hợp tử vong) đã được báo cáo trong quá trình sử dụng hydroxychloroquin.</p><p>Các yếu tố nguy cơ có thể bao gồm bệnh gan đã có từ trước hoặc các tình trạng nguy cơ như thiếu hụt uroporphyrinogen decarboxylase hoặc dùng đồng thời các thuốc gây độc cho gan.</p><p>Đánh giá lâm sàng kịp thời và đo các xét nghiệm chức năng gan nên được thực hiện ở những bệnh nhân báo cáo các triệu chứng có thể chỉ ra tổn thương gan. Đối với những bệnh nhân có bất thường đáng kể về chức năng gan, bác sĩ nên đánh giá lợi ích/nguy cơ của việc tiếp tục điều trị.</p><p>Nên thận trọng khi sử dụng hydroxychloroquin sulfat ở những bệnh nhân đang dùng thuốc vì có thể gây phản ứng bất lợi trên da.</p><p><strong>Tái kích hoạt viêm gan B</strong></p><p>Sự tái kích hoạt virus viêm gan B đã được báo cáo ở những bệnh nhân được điều trị bằng hydroxychloroquin kết hợp với các thuốc ức chế miễn dịch khác.</p><p>Xem xét cẩn thận lợi ích và rủi ro trước khi kê đơn hydroxychloroquin cho bất kỳ bệnh nhân nào đang dùng azithromycin hoặc các loại kháng sinh macrolide khác do có khả năng tăng nguy cơ các biến cố tim mạch và tử vong do tim mạch.</p><p>Cũng nên thận trọng khi sử dụng nó trong những trường hợp sau:</p><ul><li>Bệnh nhân nhạy cảm với quinin, thiếu glucose-6-phosphat dehydrogenase, bị Porphyria cutanea tarda (porphyrin da muộn - một loại rối loạn chuyển hóa porphyrin phổ biến) có thể trầm trọng hơn do hydroxycloroquin và ở những bệnh nhân bị bệnh vảy nến vì nó làm tăng nguy cơ phản ứng da.</li><li>Bệnh nhân mắc bệnh gan hoặc thận, và ở những người dùng thuốc được biết là ảnh hưởng đến các cơ quan đó. Nên ước tính nồng độ hydroxycloroquin trong huyết tương ở những bệnh nhân bị suy giảm chức năng thận hoặc gan nặng và điều chỉnh liều phù hợp.</li><li>Bệnh nhân bị rối loạn tiêu hóa, thần kinh hoặc máu nặng.</li></ul><p><strong>Hành vi tự tử và rối loạn tâm thần</strong></p><p>Hành vi tự tử và rối loạn tâm thần đã được báo cáo ở một số bệnh nhân được điều trị bằng hydroxychloroquin.</p><p>Tác dụng không mong muốn về tâm thần thường xảy ra trong vòng tháng đầu tiên sau khi bắt đầu điều trị bằng hydroxychloroquin và cũng đã được báo cáo ở những bệnh nhân không có tiền sử rối loạn tâm thần trước đó. Bệnh nhân nên được khuyên nên tìm tư vấn y tế kịp thời nếu họ gặp các triệu chứng tâm thần trong quá trình điều trị.</p><p><strong>Phản ứng có hại nghiêm trọng trên da (SCAR)</strong></p><p>Các trường hợp phản ứng có hại nghiêm trọng trên da của thuốc (SCAR), bao gồm phản ứng thuốc với tăng bạch cầu ái toan và các triệu chứng toàn thân (DRESS), ngoại ban mụn mủ toàn thân cấp tính (AGEP), hội chứng Stevens-Johnson (SJS) và hoại tử thượng bì nhiễm độc (TEN), đã được báo cáo trong quá trình điều trị. điều trị bằng hydroxychloroquin. Bệnh nhân có phản ứng da liễu nghiêm trọng có thể phải nhập viện vì những tình trạng này có thể đe dọa tính mạng và có thể gây tử vong. Nếu xuất hiện các dấu hiệu và triệu chứng gợi ý phản ứng da nghiêm trọng, nên ngừng sử dụng hydroxychloroquin ngay lập tức và xem xét liệu pháp thay thế.</p><p><strong>Gây độc ở trẻ em</strong></p><p>Trẻ nhỏ đặc biệt nhạy cảm với tác dụng độc hại của 4-aminoquinolin; do đó, nên cảnh báo bệnh nhân giữ hydroxycloroquin ngoài tầm với của trẻ em.&nbsp;</p><h3 dir=\"ltr\">Ảnh hưởng của thuốc lên khả năng lái xe và vận hành máy móc</h3><p>Đã có báo cáo về suy giảm sự điều tiết mắt ngay sau khi bắt đầu điều trị và nên cảnh báo bệnh nhân về việc lái xe hoặc vận hành máy móc. Nếu tình trạng không tự hết, giải quyết bằng cách giảm liều hoặc ngưng điều trị.</p><h3 dir=\"ltr\">Sử dụng thuốc cho phụ nữ trong thời kỳ mang thai và cho con bú</h3><p><strong>Sử dụng thuốc cho phụ nữ có thai</strong></p><p>Không đủ dữ liệu lâm sàng về việc sử dụng hydroxycloroquin trong khi mang thai.</p><p>Hydroxycloroquin qua được nhau thai. 4-aminoquinolin ở liều điều trị gây ra tổn thương cho hệ thần kinh trung ương, bao gồm nhiễm độc tai (độc tính thính giác và tiền đình, điếc bẩm sinh), xuất huyết võng mạc và sắc tố võng mạc bất thường.</p><p>Trong các nghiên cứu trên động vật, đã thấy có độc tính sinh sản đã với cloroquin, một chất liên quan đến hydroxyeloroquin, sau khi phơi nhiễm cao ở động vật mẹ.</p><p>Chống chỉ định hydroxycloroquin trong thai kỳ. Phải loại trừ việc có thai trước khi bắt đầu điều trị.</p><p><strong>Sử dụng thuốc cho phụ nữ cho con bú</strong></p><p>Hydroxycloroquin được bài tiết với một lượng nhỏ trong sữa mẹ. Trẻ sơ sinh cực kỳ nhạy cảm với tác dụng độc hại của 4-aminoquinolin. Bởi vì thời gian bán thải dài và liều hydroxycloroquin hàng ngày cao, phải dự kiến sự tích lũy.</p><p>Chống chỉ định hydroxycloroquin trong thời kỳ cho con bú.</p><p><strong>Khả năng sinh sản</strong></p><p>Không có thông tin có sẵn về tác dụng của hydroxycloroquin sulfat đối với khả năng sinh sản của con người. Trong các nghiên cứu trên động vật, cloroquin, một chất liên quan đến hydroxycloroquin, cho thấy tác dụng không mong muốn đối với khả năng sinh sản của giới đực.</p><p><strong>Tránh thai</strong></p><p>Nên tránh mang thai một cách tuyệt đối trong quá trình điều trị bằng hydroxycloroquin và trong ít nhất 3 tháng sau khi kết thúc điều trị.</p><h3 dir=\"ltr\">Tương tác thuốc</h3><p><strong>Digoxin</strong></p><p>Đã có báo cáo về hydroxycloroquin sulfat làm tăng nồng độ digoxin trong huyết tương: Nên theo dõi chặt chẽ nồng độ digoxin trong huyết thanh ở những bệnh nhân đang dùng thuốc đồng thời.</p><p><strong>Cloroquin</strong></p><p>Hydroxycloroquin sulfat cũng có thể có một số tương tác đã biết của cloroquin mặc dù chưa có các báo cáo cụ thể. Tương tác bao gồm: Tăng cường tác dụng ngăn chặn trực tiếp của thuốc tại khớp nối thần kinh cơ bởi kháng sinh aminoglycosid; ức chế chuyển hóa của thuốc bởi cimetidin có thể làm tăng nồng độ trong huyết tương của thuốc chống sốt rét; sự đối kháng về tác dụng của neostigmin và pyridostigmin; giảm đáp ứng kháng thể đối với miễn dịch tiên phát đối với tiêm trong da vắc xin bệnh dại từ tế bào lưỡng bội ở người.</p><p><strong>Thuốc kháng acid</strong></p><p>Như với cloroquin, thuốc kháng acid có thể làm giảm sự hấp thu của hydroxycloroquin, vì vậy nên theo dõi trong 4 giờ giữa lúc dùng hydroxycloroquin và thuốc kháng acid.</p><p><strong>Thuốc trị đái tháo đường</strong></p><p>Vì hydroxycloroquin có thể tăng cường hiệu quả của điều trị hạ đường huyết, nên có thể yêu cầu giảm liều insulin hoặc thuốc trị đái tháo đường .</p><p><strong>Halofantrin</strong></p><p>Halofantrin kéo dài khoảng QT và không nên dùng cùng với các thuốc khác có khả năng gây rối loạn nhịp tim, bao gồm hydroxycloroquin. Ngoài ra, có thể tăng nguy cơ gây rối loạn nhịp thất nếu dùng hydroxycloroquin đồng thời với các thuốc gây rối loạn nhịp tim khác, như amiodaron và moxifloxacin.</p><p><strong>Ciclosporin</strong></p><p>Đã có báo cáo về sự tăng nồng độ ciclosporin trong huyết tương khi dùng ciclosporin và hydroxycloroquin.</p><p><strong>Thuốc chống sốt rét</strong></p><p>Hydroxycloroquin có thể làm giảm ngưỡng co giật. Phối hợp hydroxycloroquin với các thuốc chống sốt rét khác được biết là làm giảm ngưỡng co giật (như mefloquin) có thể làm tăng nguy cơ co giật.</p><p><strong>Thuốc chống động kinh</strong></p><p>Ngoài ra, tác dụng của thuốc chống động kinh có thể bị suy yếu nếu dùng chung với hydroxycloroquin.</p><p><strong>Praziquantel</strong></p><p>Trong một nghiên cứu tương tác đơn liều, đã có báo cáo về việc cloroquin làm giảm sinh khả dụng của praziquantel. Người ta không biết liệu có một hiệu ứng tương tự khi dùng hydroxycloroquin và praziquantel phối hợp hay không. Qua ngoại suy, do sự tương đồng về cấu trúc và các thông số dược động học giữa hydroxycloroquin và cloroquin, một tác dụng tương tự có thể được dự kiến đối với hydroxycloroquin.</p><p><strong>Agalsidase</strong></p><p>Về mặt lý thuyết, khi dùng hydroxycloroquin cùng với agalsidase có nguy cơ ức chế hoạt động của a-galactosidase trong tế bào.</p><p><strong>Tamoxifen</strong></p><p>Không khuyến cáo dùng đồng thời các thuốc có tác dụng độc hại đã biết trên võng mạc (như tamoxifen) và hydroxycloroquin.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Trần Huỳnh Minh Nhật",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Dược sĩ chuyên khoa Dược lý - Dược lâm sàng. Tốt nghiệp 2 trường đại học Mở và Y Dược TP. Hồ Chí Minh. Có kinh nghiệm nghiên cứu về lĩnh vực sức khỏe, đạt được nhiều giải thưởng khoa học. Hiện là Dược sĩ chuyên môn phụ trách xây dựng nội dung và triển khai dự án đào tạo - Hội đồng chuyên môn tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-tran-huynh-minh-nhat",
+        "isLegit": true,
+        "id": 10,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tran_huynh_minh_nhat_905ca436dd.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc HCQ 200mg phòng ngừa, điều trị sốt rét cấp tính",
+        "metaDescription": "Thuốc HCQ được sử dụng để phòng ngừa hoặc điều trị sốt rét cấp tính do Plasmodium vivax, P.malariae, P.ovale và chủng P.falciparum nhạy cảm với thuốc",
+        "id": 44169,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_1_b2a69c13e5.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc HCQ 200mg Zydus phòng ngừa hoặc điều trị sốt rét cấp tính (10 vỉ x 10 viên)",
+            "description": "Thuốc HCQ có thành phần chính là Hydroxychloroquine sulfate. Đây là thuốc được sử dụng để điều trị viêm khớp dạng thấp, lupus ban đỏ dạng đĩa và hệ thống, các tình trạng da liễu do ánh sáng mặt trời gây ra hoặc làm nặng thêm ở người trưởng thành; điều trị viêm khớp tự phát thiếu niên (kết hợp với các phương pháp điều trị khác), bệnh lupus ban đỏ dạng đĩa và hệ thống ở trẻ em."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 30628,
+        "title": "Thời gian bán thải cuối cùng của thuốc HCQ là bao lâu?",
+        "content": "<p>Thời gian bán thải trung bình trong huyết tương khác nhau, tùy thuộc vào giai đoạn sau khi dùng thuốc: 5,9 giờ (ở C<sub>max</sub> - 10 giờ), 26,1 giờ (lúc 10-48 giờ) và 229 giờ (ở 48-504 giờ). Thuốc được thải trừ chủ yếu qua nước tiểu, trong đó 3% liều dùng được thu hồi sau 24 giờ trong một nghiên cứu.</p>"
+      },
+      {
+        "id": 30625,
+        "title": "Thuốc HCQ chứa thành phần gì?",
+        "content": "<p>Thuốc HCQ chứa thành phần chính là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/hydroxychloroquine\">Hydroxychloroquine</a> sulfate.</p>"
+      },
+      {
+        "id": 30624,
+        "title": "Thuốc HCQ được sử dụng để điều trị những bệnh gì?",
+        "content": "<p>Thuốc HCQ được sử dụng để điều trị viêm khớp dạng thấp, lupus ban đỏ dạng đĩa và hệ thống, các tình trạng da liễu do ánh sáng mặt trời gây ra hoặc làm nặng thêm ở người trưởng thành; điều trị viêm khớp tự phát thiếu niên (kết hợp với các phương pháp điều trị khác), bệnh lupus ban đỏ dạng đĩa và hệ thống ở trẻ em.</p>"
+      },
+      {
+        "id": 30626,
+        "title": "Quá liều thuốc HCQ có thể gây những tác dụng phụ nào?",
+        "content": "<p>Quá liều thuốc HCQ có thể gây đau đầu, chóng mặt, rối loạn thị giác, trụy tim mạch, <a href=\"https://nhathuoclongchau.com.vn/benh/co-giat-765.html\">co giật</a>, sau đó là ngừng tim, ngừng thở đột ngột. Điện tâm đồ có thể cho thấy ngừng tâm nhĩ, nhịp nút nhĩ - thất, thời gian truyền dẫn nội thất kéo dài, nhịp tim chậm dẫn tới rung tâm thất hoặc ngừng tim.</p>"
+      },
+      {
+        "id": 30627,
+        "title": "Nên tránh sử dụng thuốc HCQ trong những trường hợp nào?",
+        "content": "<p>Nên tránh sử dụng thuốc HCQ trong những trường hợp sau:&nbsp;</p><ul><li>Quá mẫn cảm với hoạt chất, hợp chất 4-aminoquinolin hoặc với bất kỳ tá dược nào.</li><li>Bệnh về điểm vàng (hoàng điểm) của mắt đã có từ trước.</li><li>Phụ nữ có thai.</li></ul>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 7,
+      "items": [
+        {
+          "id": 3307759,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0918xxxxxx",
+          "name": "Trịnh Viết Hùng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "hiện tại thuốc này không có đơn thuốc của bác sĩ có mua được không ",
+          "createdAt": "2026-05-16 15:39:17",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-16 15:39:17",
+          "replies": [
+            {
+              "id": 3307760,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Quỳnh Trâm Anh",
+                "moderatorEmail": "anhmqt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mai Quỳnh Trâm Anh",
+              "email": "anhmqt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Hùng,</p><p>Dạ sản phẩm là thuốc kê đơn anh nên dùng theo toa chỉ định của bác sĩ ạ.</p><p>Nhà thuốc thông tin tới Anh.</p>",
+              "createdAt": "2026-05-16 15:40:52",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-16 15:39:17",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3286577,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0333xxxxxx",
+          "name": "vân",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá 1 hộp",
+          "createdAt": "2026-04-07 09:02:44",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-07 09:02:44",
+          "replies": [
+            {
+              "id": 3286741,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Trà Giang",
+                "moderatorEmail": "giangntt47@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Trà Giang",
+              "email": "giangntt47@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Vân, </p><p>Hiện tại, sản phẩm HCQ ZYDUS 10X10 có giá 450.000đ/ hộp </p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a> <a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-04-07 09:55:11",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-07 09:02:44",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3260576,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0987xxxxxx",
+          "name": "Ngân",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Giâ bao nhiêu vậy em ơi",
+          "createdAt": "2026-02-13 06:49:00",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-13 06:49:00",
+          "replies": [
+            {
+              "id": 3260651,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Tiểu Thanh Trúc",
+                "moderatorEmail": "trucptt5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Tiểu Thanh Trúc",
+              "email": "trucptt5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị <strong>Ngân, </strong></p><p>Hiện tại, sản phẩm có giá 450,000 ₫/hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-02-13 09:30:45",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-13 06:49:00",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3168884,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0369xxxxxx",
+          "name": "KIM",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "10 viên nhiêu dạ e",
+          "createdAt": "2025-08-25 14:43:58",
+          "createdAtDisplay": "25/08/2025",
+          "updatedAt": "2025-08-25 14:43:47",
+          "replies": [
+            {
+              "id": 3168887,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Vi",
+                "moderatorEmail": "vit2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Vi",
+              "email": "vit2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn KIM,</p><p>Hiện tại, sản phẩm có giá 45,000 ₫/hộp , (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-08-25 14:45:23",
+              "createdAtDisplay": "25/08/2025",
+              "updatedAt": "2025-08-25 14:43:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3138838,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0964xxxxxx",
+          "name": "Chị Tình",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "nhà thuốc có bán không ạ",
+          "createdAt": "2025-07-03 23:19:14",
+          "createdAtDisplay": "03/07/2025",
+          "updatedAt": "2025-07-03 23:19:11",
+          "replies": [
+            {
+              "id": 3138948,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mạc Thị Tuyết Anh",
+                "moderatorEmail": "anhmtt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mạc Thị Tuyết Anh",
+              "email": "anhmtt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Tình,</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT chị đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-07-04 08:53:47",
+              "createdAtDisplay": "04/07/2025",
+              "updatedAt": "2025-07-03 23:19:11",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc HCQ 200mg Zydus phòng ngừa hoặc điều trị sốt rét cấp tính (10 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_1_b2a69c13e5.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_2_16b51c455d.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_3_4c9469ba87.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_4_0f9dfde08e.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_5_e0e03205af.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_6_b8e54434b3.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_1_df6a7d94af.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_2_46cbf7cd92.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc HCQ có thành phần chính là Hydroxychloroquine sulfate. Đây là thuốc được sử dụng để điều trị viêm khớp dạng thấp, lupus ban đỏ dạng đĩa và hệ thống, các tình trạng da liễu do ánh sáng mặt trời gây ra hoặc làm nặng thêm ở người trưởng thành; điều trị viêm khớp tự phát thiếu niên (kết hợp với các phương pháp điều trị khác), bệnh lupus ban đỏ dạng đĩa và hệ thống ở trẻ em.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Trần Huỳnh Minh Nhật"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc HCQ 200mg phòng ngừa, điều trị sốt rét cấp tính",
+      "description": "Thuốc HCQ được sử dụng để phòng ngừa hoặc điều trị sốt rét cấp tính do Plasmodium vivax, P.malariae, P.ovale và chủng P.falciparum nhạy cảm với thuốc",
+      "openGraph": {
+        "title": "Thuốc HCQ 200mg Zydus phòng ngừa hoặc điều trị sốt rét cấp tính (10 vỉ x 10 viên)",
+        "description": "Thuốc HCQ có thành phần chính là Hydroxychloroquine sulfate. Đây là thuốc được sử dụng để điều trị viêm khớp dạng thấp, lupus ban đỏ dạng đĩa và hệ thống, các tình trạng da liễu do ánh sáng mặt trời gây ra hoặc làm nặng thêm ở người trưởng thành; điều trị viêm khớp tự phát thiếu niên (kết hợp với các phương pháp điều trị khác), bệnh lupus ban đỏ dạng đĩa và hệ thống ở trẻ em.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/HCQ_ZYDUS_10_X10_00045804_1_b2a69c13e5.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/hcq-zydus-10-x10.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/hcq-zydus-10-x10.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

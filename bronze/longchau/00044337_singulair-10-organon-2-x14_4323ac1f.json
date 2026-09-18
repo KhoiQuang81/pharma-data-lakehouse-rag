@@ -1,0 +1,938 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/singulair-10-organon-2-x14.html",
+  "ingestion_timestamp": "2026-09-05T11:14:23.253230+00:00",
+  "file_hash": "20a31bfe4f1fe7384795d48f876d7982039b87f8760ea808d7bb55d9996cc657",
+  "lineage_hash": "3ccb3e7c00ec5b898dec7b304e3f5a5e325d916e3a240f4ddacfad93fd703332",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/singulair-10-organon-2-x14.html",
+    "product": {
+      "sku": "00044337",
+      "webName": "Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên)",
+      "name": "SINGULAIR 10 ORGANON 2X14",
+      "shortName": "SINGULAIR 10 ORGANON 2X14",
+      "headingText": "Thuốc Singulair 10mg",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_singulair_10_organon_2x14_00044337_fd12c957bc.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04072_3d2469a5d9.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04074_753a958c93.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04075_cec20f79c5.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04076_a0799c0126.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04077_e995e40bba.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04078_7895a668e2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04079_01714e6e05.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/singulair_10mg_1_9a572f9e7d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/singulair_10mg_2_b9386853da.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/singulair_10mg_3_a6473f441a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/singulair_10mg_4_6d2a4cf509.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 730,
+          "name": "Thuốc hô hấp",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-ho-hap",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 775,
+          "name": "Thuốc trị hen suyễn",
+          "parentName": "Thuốc hô hấp",
+          "slug": "thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 2 Vỉ x 14 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "2 Vỉ x 14 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "14 Viên"
+        }
+      ],
+      "slug": "thuoc/singulair-10-organon-2-x14.html",
+      "ingredient": [
+        {
+          "id": 62527,
+          "ingredientId": 27994,
+          "shortDescription": "10mg",
+          "name": "Montelukast",
+          "isPrimary": false,
+          "slug": "thanh-phan/montelukast"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "500110412923",
+      "manufactor": "Anh",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc Singulair 10 dùng đường uống.</p><h3>Liều dùng</h3><p>Liều khuyến cáo cho người lớn và thanh thiếu niên từ 15 tuổi trở lên bị hen, hoặc bị hen có kèm viêm mũi dị ứng theo mùa, là 1 viên 10 mg mỗi ngày uống vào buổi tối.</p><p>Liều khuyến cáo cho người lớn và thanh thiếu niên từ 15 tuổi trở lên bị viêm mũi dị ứng (theo mùa và/hoặc quanh năm) là 1 viên 10 mg, 1 lần/ngày.</p><p>Hiệu quả đối với viêm mũi dị ứng theo mùa đã được chứng minh khi dùng montelukast vào buổi sáng hoặc buổi tối mà không liên quan đến thời gian dùng thức ăn. Thời gian uống thuốc có thể được điều chỉnh cá thể hóa theo từng bệnh nhân cho phù hợp với nhu cầu của người bệnh.</p><p>Bệnh nhân bị cả hen và viêm mũi dị ứng chỉ nên uống một liều Singulair mỗi ngày vào buổi tối.</p><p><i>Khuyến cáo chung</i></p><p>Hiệu quả điều trị của Singulair trên các thông số kiểm soát hen ghi nhận trong vòng một ngày điều trị Singulair có thể được dùng cùng hoặc không cùng với thức ăn. Nên khuyên bệnh nhân tiếp tục dùng Singulair ngay cả khi bệnh hen của họ đã được kiểm soát, cũng như trong thời gian hen nặng hơn. Không nên sử dụng Singulair đồng thời với các sản phẩm khác có cùng hoạt chất montelukast.</p><p>Không cần thiết điều chỉnh liều đối với người cao tuổi, hoặc đối với bệnh nhân suy thận hoặc suy gan nhẹ đến trung bình. Không có dữ liệu trên bệnh nhân suy gan nặng. Liều lượng là như nhau cho cả bệnh nhân nam và nữ.</p><p><i>Điều trị bằng Singulair liên quan đến các phương pháp điều trị hen khác</i></p><p>Singulair có thể được thêm vào phác đồ điều trị hiện tại của bệnh nhân.</p><p><i>Corticosteroid dạng hít: </i>Điều trị bằng Singulair có thể được sử dụng như một liệu pháp bổ sung ở những bệnh nhân khi dùng corticosteroid dạng hít cộng với thuốc đồng vận B tác dụng ngắn “khi cần\" mà không kiểm soát hen đầy đủ trên lâm sàng. Không nên thay thế đột ngột corticosteroid dạng hít bằng Singulair.</p><p><i>Nhóm bệnh nhân trẻ em</i></p><p>Không dùng viên nén bao phim Singulair 10 mg cho trẻ em dưới 15 tuổi. Độ an toàn và hiệu quả của viên nén bao phim Singulair 10 mg ở trẻ em dưới 15 tuổi chưa được xác định.</p><p>Hiện có viên nén nhai 5 mg cho bệnh nhân trẻ em từ 6 - 14 tuổi.</p><p>Hiện có viên nén nhai 4 mg cho bệnh nhân trẻ em từ 2 - 5 tuổi.</p><p>Hiện có dạng cốm 4 mg cho bệnh nhân trẻ em từ 6 tháng đến 5 tuổi.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Không có thông tin đặc hiệu về việc điều trị khi dùng quá liều Singulair. Trong các nghiên cứu về hẹn mạn tính, Singulair được dùng tới các liều mỗi ngày tới 200 mg cho người lớn trong 22 tuần và nghiên cứu ngắn ngày với liều tới 900 mg mỗi ngày, dùng trong khoảng một tuần, không thấy có phản ứng phụ quan trọng trên lâm sàng.</p><p>Cũng có những báo cáo về ngộ độc cấp sau khi đưa thuốc ra thị trưởng và trong các nghiên cứu lâm sàng với Singulair. Các báo cáo này bao gồm cả ở trẻ em và người lớn với liều cao nhất lên tới 1000 mg. Những kết quả trong phòng thí nghiệm và trong lâm sàng phù hợp với tổng quan về độ an toàn ở người lớn và các bệnh nhi.</p><p>Trong phần lớn các báo cáo về quá liều, không gặp các phản ứng có hại. Những phản ứng hay gặp nhất cũng tương tự như dữ liệu về thuộc tính an toàn của Singulair bao gồm đau bụng, buồn ngủ, khát, đau đầu, nôn và tăng kích động.</p><p>Chưa rõ montelukast có thể thẩm tách được qua màng bụng hay lọc máu.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3>Làm gì khi quên 1 liều?</h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/singulair-10-organon-2-x14.html\">Thuốc Singulair 10</a> được chỉ định trong điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/hen-suyen-1397.html\">hen suyễn</a> dưới dạng liệu pháp bổ sung ở những bệnh nhân bị hen dai dẳng từ nhẹ đến trung bình không được kiểm soát đầy đủ khi dùng corticosteroid dạng hít và ở những bệnh nhân dùng thuốc đồng vận β tác dụng ngắn “khi cần\" nhưng không kiểm soát được hen đầy đủ trên lâm sàng.</p><p>Ở những bệnh nhân hen mà Singulair được chỉ định trong hen, Singulair cũng có thể giúp giảm triệu chứng <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">viêm mũi dị ứng</a> theo mùa.</p><p>Singulair cũng được chỉ định trong điều trị dự phòng hen trong đó chủ yếu là <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phe-quan-co-that-1068.html\">co thắt phế quản</a> do gắng sức.</p><p>Singulair được chỉ định để làm giảm các triệu chứng viêm mũi dị ứng theo mùa và viêm mũi dị ứng quanh năm.</p><h3>Dược lực học</h3><p><strong>Nhóm dược lý: Singulair® (montelukast natri) là thuốc uống đối kháng chọn lọc trên thụ thể (receptor) của leukotriene, ức chế đặc hiệu thụ thể cysteinyl leukotriene CysLT.</strong></p><p><strong>Mã ATC: R03D C03</strong></p><p>Các cysteinyl leukotriene (LTC, LTD, LTE,) là những eicosanoid có tiềm năng gây viêm mạnh, được tiết ra từ nhiều loại tế bào, bao gồm tế bào hạt và bạch cầu ưa eosin. Các chất trung gian quan trọng tiền hen này được gắn vào các thụ thể cysteinyl leukotriene (CysLT). Các thụ thể CysLT týp 1 (CysLT,) được tìm thấy trong đường thờ của người, bao gồm các tế bào cơ trơn và đại thực bào của đường thở và trong các tế bào tiền viêm khác (bao gồm bạch cầu ưa eosin và một số tế bào gốc tủy xương). CysLT có liên quan với cơ chế sinh bệnh của hen và viêm mũi dị ứng. Trong bệnh hen, các tác dụng qua trung gian của leukotriene bao gồm một số tác dụng lên đường thở, như làm co thắt phế quản, tiết chất nhày, tăng tính thấm mao mạch và huy động bạch cầu ưa eosin. Trong viêm mũi dị ứng, CysLT được tiết từ niêm mạc mũi sau khi tiếp xúc với dị nguyên trong các phản ứng ở các pha nhanh và chậm và có liên quan tới các triệu chứng viêm mũi dị ứng. CysLT trong mũi sẽ làm tăng sự cản trở đường thở và các triệu chứng tắc nghẽn ở mũi.</p><p>Montelukast dạng uống là chất có tính chống viêm, cải thiện được các thông số về viêm trong hen. Dựa vào các thử nghiệm về hóa sinh và dược lý, montelukast chứng tỏ có ái lực cao và có độ chọn lọc với thụ thể CysLT, (tác dụng này trội hơn ở các thụ thể khác cũng quan trọng về dược lý, như các thụ thể prostanoid, cholinergic hoặc B-adrenergic).</p><p>Montelukast ức chế mạnh các tác dụng sinh lý của LTC, LTD, LTE, tại thụ thể CysLT, mà không hề có tác dụng chủ vận.</p><p>Ở bệnh nhân hen, montelukast ức chế các thụ thể cysteinyl leukotriene ở đường thở chứng minh qua khả năng ức chế sự co thắt phế quản do hít LTD. Với các liều dưới 5 mg đã phong bế được sự co thắt phế quản do LTD. Montelukast gây giãn phế quản trong 2 giờ sau khi xuống; những tác dụng này hiệp đồng với sự giãn phế quản nhờ dùng chất chủ vận β.</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Sau khi uống, montelukast hấp thu nhanh và hầu như hoàn toàn. Với viên nén bao phim 10 mg, nồng độ Cmax đạt được 3 giờ (Tmax) sau uống đối với người lớn, uống thuốc lúc bụng đói. Sinh khả dụng khi dùng thuốc đường uống là 64%. Sinh khả dụng và Cmax không bị ảnh hưởng bởi bữa ăn chuẩn.</p><p>Với viên nén nhai 5 mg, Cmax đạt 2 giờ sau khi người lớn uống lúc đói.</p><p>Sinh khả dụng khi uống là 73%. Thức ăn không có ảnh hưởng lớn trong lâm sàng khi dùng thuốc dài ngày.</p><p>Với viên nén nhai 4 mg, nồng độ Cmax đạt được 2 giờ sau uống đối với bệnh nhi 2 - 5 tuổi, uống thuốc lúc đói.</p><p>Dạng cốm uống 4 mg có tương đương sinh học với viên nén nhai 4 mg khi dùng cho người lớn lúc đói. Việc dùng montelukast dạng cốm hạt chung với nước sốt táo hoặc trong bữa ăn chuẩn không gây ảnh hưởng lâm sàng đáng kể nào tới dược động học của thuốc xác định bởi diện tích dưới đường cong AUC (1225,7 so với 1223,1 ng.giờ/ml có hoặc không có kèm nước sốt táo và 1191,8 so với 1148,5 ng.giờ/ml có hoặc không có kèm bữa ăn chuẩn).</p><p>Hiệu lực và độ an toàn đã được chứng minh qua các nghiên cứu lâm sàng, khi dùng viên nén nhai 4 mg, viên nén nhai 5 mg, viên nén bao phim 10 mg, uống không tính đến thời gian bữa ăn. Độ an toàn của Singulair cũng được chứng minh trong nghiên cứu lâm sàng đối với uống dạng cốm hạt 4 mg mà không tính đến thời gian bữa ăn.</p><p><i>Phân bố</i></p><p>Hơn 99% Montelukast gắn kết với protein huyết tương. Thể tích phân bố (Vd) trong trạng thái ổn định của montelukast là 8 - 11 lít. Nghiên cứu trên chuột cống với montelukast đánh dấu cho thấy thuốc rất ít phân bố qua hàng rão máu não. Hơn nữa, nồng độ của chất đánh dấu sau khi uống 24 giờ là tối thiểu trong mọi mô khác.</p><p><i>Sinh chuyển hóa</i></p><p>Montelukast chuyển hóa rất mạnh. Trong các nghiên cứu với liều điều trị, các nồng độ trong huyết tương của các chất chuyển hóa của montelukast không tìm thấy được trong trạng thái ổn định ở người lớn và trẻ em.</p><p>Nghiên cứu in vitro, sử dụng microsome gan người, cho thấy cytochrome P450 3A4 và 2C9 tham gia vào quá trình chuyển hóa của montelukast. Dựa vào các kết quả khác in vitro trên microsome gan người, thấy các nồng độ điều trị của montelukast trong huyết tương không ức chế các cytochromes P450 3A4, 2C9, 1A2, 246, 2C19 hay 2D6.</p><p><i>Thải trừ</i></p><p>Độ thanh lọc của montelukast trong huyết tương là 45 ml/phút ở người lớn khỏe mạnh. Sau khi uống montelukast đánh dấu, 86% chất đánh dấu được tìm thấy trong phần của tổng cộng 5 ngày và dưới 0,2% thải qua nước tiểu. Điều này cùng với sự tính toán sinh khả dụng của montelukast dùng đường uống cho thấy montelukast và các chất chuyển hóa của thuốc được thải gần như hoàn toàn qua mật.</p><p>Trong một số nghiên cứu, thời gian bán thải trong huyết tương của montelukast là 2,7 - 5,5 giờ ở người trẻ tuổi khỏe mạnh. Dược động học của montelukast hầu như tuyến tính khi uống tới liều 50 mg. Không có sự khác biệt về dược động học khi uống thuốc vào buổi sáng hoặc tối.</p><p>Khi uống 10 mg montelukast một lần trong ngày, hầu như rất ít tích lũy chất mẹ montelukast trong huyết tương (xấp xỉ 14%).</p><p><i>Đặc điểm người bệnh</i></p><p>Không cần chỉnh liều đối với bệnh nhân lớn tuổi, bệnh nhân suy thận hoặc suy gan nhẹ đến trung bình. Không có bằng chứng lâm sàng trên bệnh nhân suy gan nặng (điểm số Child-Pugh &gt;9).</p>",
+      "brand": "Organon",
+      "brandType": null,
+      "adverseEffect": "<p>Montelukast đã được đánh giá trong các nghiên cứu lâm sàng ở những bệnh nhân bị hen dai dẳng như sau:</p><ul><li>Viên nén bao phim 10 mg ở khoảng 4.000 bệnh nhân người lớn và thiếu niên từ 15 tuổi trở lên.</li></ul><p>Viên nén nhai 5 mg ở khoảng 1.750 bệnh nhân trẻ em từ 6 - 14 tuổi.</p><ul><li>Viên nén nhai 4 mg ở 851 bệnh nhân trẻ em từ 2 - 5 tuổi.</li><li>Cốm 4 mg ở 175 bệnh nhân trẻ em từ 6 tháng đến 2 tuổi.</li></ul><p>Montelukast đã được đánh giá trong một nghiên cứu lâm sàng ở những bệnh nhân bị hen ngắt quãng như sau:</p><ul><li>Cốm và viên nén nhai 4 mg ở 1.038 bệnh nhân trẻ em từ 6 tháng - 5 tuổi.</li></ul><p>Montelukast đã được đánh giá trong một nghiên cứu lâm sàng ở những bệnh nhân bị hen kèm viêm mũi dị ứng theo mùa như sau:</p><ul><li>Viên nén bao phim 10 mg ở khoảng 400 bệnh nhân người lớn và thiếu niên từ 15 tuổi trở lên.</li></ul><p>Các phản ứng bất lợi liên quan đến thuốc sau đây trong các nghiên cứu lâm sàng đã được báo cáo thường gặp (≥ 1/100 đến &lt; 1/10) ở những bệnh nhân được điều trị bằng montelukast và với tỷ lệ mắc cao hơn so với ở những bệnh nhân được điều trị bằng giả dược:</p><figure class=\"table\"><table><thead><tr><th>Nhóm hệ cơ quan</th><th>Bệnh nhân người lớn và thiếu niên từ 15 tuổi trở lên (2 nghiên cứu 12 tuần; n=795)</th><th>Bệnh nhân trẻ em từ 6 - 14 tuổi (1 nghiên cứu 8 tuần; n=201) (2 nghiên cứu 56 tuần; n = 615)</th><th>Bệnh nhân trẻ em từ 2 - 5 tuổi (1 nghiên cứu 12 tuần; n = 461) (1 nghiên cứu 48 tuần; n = 278)</th><th>Bệnh nhân trẻ em từ 6 tháng - 2 tuổi (1 nghiên cứu 6 tuần; n = 175)</th></tr></thead><tbody><tr><td>Rối loạn hệ thần kinh</td><td>Nhức đầu</td><td>Nhức đầu</td><td>&nbsp;</td><td>Tăng vận động</td></tr><tr><td>Rối loạn hô hấp, ngực và trung thất</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Hen</td></tr><tr><td>Rối loạn tiêu hóa</td><td>Đau bụng</td><td>&nbsp;</td><td>Đau bụng</td><td>Tiêu chảy</td></tr><tr><td>Rối loạn da và mô dưới da</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Viêm da ecezema, phát ban</td></tr><tr><td>Rối loạn toàn thân và tình trạng tại chỗ dùng thuốc</td><td>&nbsp;</td><td>&nbsp;</td><td>Khác</td><td>&nbsp;</td></tr></tbody></table></figure><p>Với điều trị kéo dài trong các thử nghiệm lâm sàng trên số lượng bệnh nhân hạn chế trong thời gian đến 2 năm đối với người lớn và đến 12 tháng đối với bệnh nhân trẻ em từ 6 - 14 tuổi, hồ sơ về an toàn không thay đổi.</p><p>Về mặt tổng thể, 502 bệnh nhân trẻ em từ 2 - 5 tuổi được điều trị bằng montelukast trong ít nhất 3 tháng, 338 bệnh nhân trong 6 tháng hoặc lâu hơn và 534 bệnh nhân trong 12 tháng hoặc lâu hơn. Với điều trị kéo dài, hồ sơ về an toàn cũng không thay đổi ở những bệnh nhân này.</p><p>Hồ sơ về an toàn ở bệnh nhân trẻ em từ 6 tháng - 2 tuổi không thay đổi khi điều trị đến 3 tháng.</p><p>Nói chung Singulair dung nạp tốt. Các tác dụng ngoại ý thường nhẹ và thường không cần ngừng thuốc. Tỷ lệ chung của các tác dụng ngoại ý của Singulair tương đương với nhóm placebo.</p><p><i>Người lớn từ 15 tuổi trở lên bị viêm mũi dị ứng theo mùa</i></p><p>Đã có nghiên cứu đánh giá Singulair trên 2199 người lớn từ 15 tuổi trở lên để điều trị viêm mũi dị ứng theo mùa trong các nghiên cứu lâm sàng. Dùng SINGULAIR một lần mỗi ngày vào buổi sáng hoặc buổi tối thường dung nạp tốt với thuộc tính an toàn tương đương với nhóm placebo. Trong các nghiên cứu lâm sàng đối chứng với placebo, các tác dụng ngoại ý không liên quan đến thuốc được ghi nhận ở ≥1% người bệnh dùng Singulair và có tỷ lệ cao hơn so với nhóm placebo. Trong nghiên cứu 4 tuần có đối chứng placebo trên lâm sàng, độ an toàn phù hợp như ở các nghiên cứu kéo dài 2 tuần. Trong mọi nghiên cứu, tỷ lệ buồn ngủ tương tự như ở nhóm placebo.</p><p><i>Người lớn từ 15 tuổi trở lên bị viêm mũi dị ứng quanh năm</i></p><p>Đã có hai nghiên cứu đánh giá SINGULAIR trên 3235 người lớn và vị thành niên từ 15 tuổi trở lên bị viêm mũi dị ứng quanh năm trong 6 tuần, đối chứng placebo. Dùng SINGULAIR mỗi ngày một lần nói chung dung nạp tốt, dữ liệu an toàn nhất quán với nhóm người bệnh bị viêm mũi dị ứng theo mùa và tương đương với nhóm placebo.</p><p>Trong hai nghiên cứu này, các tác dụng ngoại ý không liên quan đến thuốc được ghi nhận ở 21% người bệnh dùng SINGULAIR và có tỷ lệ cao hơn so với nhóm placebo. Tỷ lệ buồn ngủ tương tự như ở nhóm placebo.</p><p><i>Phân tích tổng hợp từ kinh nghiệm thử nghiệm lâm sàng</i></p><p>Vui lòng xem thêm các thông tin về thuốc trong tờ hướng dẫn sử dụng thuốc đính kèm sản phẩm.</p>",
+      "specification": "Hộp 2 Vỉ x 14 Viên",
+      "indications": [],
+      "brandOrigin": "Hoa Kỳ",
+      "producer": "Organon Pharma (UK) Limited",
+      "shortDescription": "<p>Thuốc Singulair 10 là sản phẩm của Organon Pharma United chứa hoạt chất Montelukast được chỉ định trong điều trị hen dưới dạng liệu pháp bổ sung ở những bệnh nhân bị hen dai dẳng từ nhẹ đến trung bình không được kiểm soát đầy đủ khi dùng corticosteroid dạng hít và ở những bệnh nhân dùng thuốc đồng vận β tác dụng ngắn “khi cần\" nhưng không kiểm soát được hen đầy đủ trên lâm sàng.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/organon",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "SINGULAIR",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "24 tháng",
+      "brandOriginBadges": {
+        "id": 248,
+        "attributeName": "Hoa Kỳ",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/us_United_States_of_America_usa_59e1ad3af3.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "14 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 775,
+        "name": "Thuốc trị hen suyễn",
+        "parentName": "Thuốc hô hấp",
+        "slug": "thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_singulair_10_organon_2x14_00044337_fd12c957bc.png",
+          "alternativeText": "Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04072_3d2469a5d9.jpg",
+          "alternativeText": "Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04074_753a958c93.jpg",
+          "alternativeText": "Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04075_cec20f79c5.jpg",
+          "alternativeText": "Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04076_a0799c0126.jpg",
+          "alternativeText": "Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04077_e995e40bba.jpg",
+          "alternativeText": "Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04078_7895a668e2.jpg",
+          "alternativeText": "Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04079_01714e6e05.jpg",
+          "alternativeText": "Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/singulair_10mg_1_9a572f9e7d.jpg",
+          "alternativeText": "Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/singulair_10mg_2_b9386853da.jpg",
+          "alternativeText": "Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên) 10"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/singulair_10mg_3_a6473f441a.jpg",
+          "alternativeText": "Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên) 11"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/singulair_10mg_4_6d2a4cf509.jpg",
+          "alternativeText": "Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên) 12"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc hô hấp",
+        "slug": "/thuoc/thuoc-ho-hap"
+      },
+      {
+        "name": "Thuốc trị hen suyễn",
+        "slug": "/thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen"
+      }
+    ],
+    "content": {
+      "sku": "00044337",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc Singulair 10 dùng đường uống.</p><h3>Liều dùng</h3><p>Liều khuyến cáo cho người lớn và thanh thiếu niên từ 15 tuổi trở lên bị hen, hoặc bị hen có kèm viêm mũi dị ứng theo mùa, là 1 viên 10 mg mỗi ngày uống vào buổi tối.</p><p>Liều khuyến cáo cho người lớn và thanh thiếu niên từ 15 tuổi trở lên bị viêm mũi dị ứng (theo mùa và/hoặc quanh năm) là 1 viên 10 mg, 1 lần/ngày.</p><p>Hiệu quả đối với viêm mũi dị ứng theo mùa đã được chứng minh khi dùng montelukast vào buổi sáng hoặc buổi tối mà không liên quan đến thời gian dùng thức ăn. Thời gian uống thuốc có thể được điều chỉnh cá thể hóa theo từng bệnh nhân cho phù hợp với nhu cầu của người bệnh.</p><p>Bệnh nhân bị cả hen và viêm mũi dị ứng chỉ nên uống một liều Singulair mỗi ngày vào buổi tối.</p><p><i>Khuyến cáo chung</i></p><p>Hiệu quả điều trị của Singulair trên các thông số kiểm soát hen ghi nhận trong vòng một ngày điều trị Singulair có thể được dùng cùng hoặc không cùng với thức ăn. Nên khuyên bệnh nhân tiếp tục dùng Singulair ngay cả khi bệnh hen của họ đã được kiểm soát, cũng như trong thời gian hen nặng hơn. Không nên sử dụng Singulair đồng thời với các sản phẩm khác có cùng hoạt chất montelukast.</p><p>Không cần thiết điều chỉnh liều đối với người cao tuổi, hoặc đối với bệnh nhân suy thận hoặc suy gan nhẹ đến trung bình. Không có dữ liệu trên bệnh nhân suy gan nặng. Liều lượng là như nhau cho cả bệnh nhân nam và nữ.</p><p><i>Điều trị bằng Singulair liên quan đến các phương pháp điều trị hen khác</i></p><p>Singulair có thể được thêm vào phác đồ điều trị hiện tại của bệnh nhân.</p><p><i>Corticosteroid dạng hít: </i>Điều trị bằng Singulair có thể được sử dụng như một liệu pháp bổ sung ở những bệnh nhân khi dùng corticosteroid dạng hít cộng với thuốc đồng vận B tác dụng ngắn “khi cần\" mà không kiểm soát hen đầy đủ trên lâm sàng. Không nên thay thế đột ngột corticosteroid dạng hít bằng Singulair.</p><p><i>Nhóm bệnh nhân trẻ em</i></p><p>Không dùng viên nén bao phim Singulair 10 mg cho trẻ em dưới 15 tuổi. Độ an toàn và hiệu quả của viên nén bao phim Singulair 10 mg ở trẻ em dưới 15 tuổi chưa được xác định.</p><p>Hiện có viên nén nhai 5 mg cho bệnh nhân trẻ em từ 6 - 14 tuổi.</p><p>Hiện có viên nén nhai 4 mg cho bệnh nhân trẻ em từ 2 - 5 tuổi.</p><p>Hiện có dạng cốm 4 mg cho bệnh nhân trẻ em từ 6 tháng đến 5 tuổi.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Không có thông tin đặc hiệu về việc điều trị khi dùng quá liều Singulair. Trong các nghiên cứu về hẹn mạn tính, Singulair được dùng tới các liều mỗi ngày tới 200 mg cho người lớn trong 22 tuần và nghiên cứu ngắn ngày với liều tới 900 mg mỗi ngày, dùng trong khoảng một tuần, không thấy có phản ứng phụ quan trọng trên lâm sàng.</p><p>Cũng có những báo cáo về ngộ độc cấp sau khi đưa thuốc ra thị trưởng và trong các nghiên cứu lâm sàng với Singulair. Các báo cáo này bao gồm cả ở trẻ em và người lớn với liều cao nhất lên tới 1000 mg. Những kết quả trong phòng thí nghiệm và trong lâm sàng phù hợp với tổng quan về độ an toàn ở người lớn và các bệnh nhi.</p><p>Trong phần lớn các báo cáo về quá liều, không gặp các phản ứng có hại. Những phản ứng hay gặp nhất cũng tương tự như dữ liệu về thuộc tính an toàn của Singulair bao gồm đau bụng, buồn ngủ, khát, đau đầu, nôn và tăng kích động.</p><p>Chưa rõ montelukast có thể thẩm tách được qua màng bụng hay lọc máu.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3>Làm gì khi quên 1 liều?</h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<p>Tham khảo thông tin tờ hướng dẫn sử dụng thuốc.</p>",
+      "adverseEffect": "<p>Montelukast đã được đánh giá trong các nghiên cứu lâm sàng ở những bệnh nhân bị hen dai dẳng như sau:</p><ul><li>Viên nén bao phim 10 mg ở khoảng 4.000 bệnh nhân người lớn và thiếu niên từ 15 tuổi trở lên.</li></ul><p>Viên nén nhai 5 mg ở khoảng 1.750 bệnh nhân trẻ em từ 6 - 14 tuổi.</p><ul><li>Viên nén nhai 4 mg ở 851 bệnh nhân trẻ em từ 2 - 5 tuổi.</li><li>Cốm 4 mg ở 175 bệnh nhân trẻ em từ 6 tháng đến 2 tuổi.</li></ul><p>Montelukast đã được đánh giá trong một nghiên cứu lâm sàng ở những bệnh nhân bị hen ngắt quãng như sau:</p><ul><li>Cốm và viên nén nhai 4 mg ở 1.038 bệnh nhân trẻ em từ 6 tháng - 5 tuổi.</li></ul><p>Montelukast đã được đánh giá trong một nghiên cứu lâm sàng ở những bệnh nhân bị hen kèm viêm mũi dị ứng theo mùa như sau:</p><ul><li>Viên nén bao phim 10 mg ở khoảng 400 bệnh nhân người lớn và thiếu niên từ 15 tuổi trở lên.</li></ul><p>Các phản ứng bất lợi liên quan đến thuốc sau đây trong các nghiên cứu lâm sàng đã được báo cáo thường gặp (≥ 1/100 đến &lt; 1/10) ở những bệnh nhân được điều trị bằng montelukast và với tỷ lệ mắc cao hơn so với ở những bệnh nhân được điều trị bằng giả dược:</p><figure class=\"table\"><table><thead><tr><th>Nhóm hệ cơ quan</th><th>Bệnh nhân người lớn và thiếu niên từ 15 tuổi trở lên (2 nghiên cứu 12 tuần; n=795)</th><th>Bệnh nhân trẻ em từ 6 - 14 tuổi (1 nghiên cứu 8 tuần; n=201) (2 nghiên cứu 56 tuần; n = 615)</th><th>Bệnh nhân trẻ em từ 2 - 5 tuổi (1 nghiên cứu 12 tuần; n = 461) (1 nghiên cứu 48 tuần; n = 278)</th><th>Bệnh nhân trẻ em từ 6 tháng - 2 tuổi (1 nghiên cứu 6 tuần; n = 175)</th></tr></thead><tbody><tr><td>Rối loạn hệ thần kinh</td><td>Nhức đầu</td><td>Nhức đầu</td><td>&nbsp;</td><td>Tăng vận động</td></tr><tr><td>Rối loạn hô hấp, ngực và trung thất</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Hen</td></tr><tr><td>Rối loạn tiêu hóa</td><td>Đau bụng</td><td>&nbsp;</td><td>Đau bụng</td><td>Tiêu chảy</td></tr><tr><td>Rối loạn da và mô dưới da</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Viêm da ecezema, phát ban</td></tr><tr><td>Rối loạn toàn thân và tình trạng tại chỗ dùng thuốc</td><td>&nbsp;</td><td>&nbsp;</td><td>Khác</td><td>&nbsp;</td></tr></tbody></table></figure><p>Với điều trị kéo dài trong các thử nghiệm lâm sàng trên số lượng bệnh nhân hạn chế trong thời gian đến 2 năm đối với người lớn và đến 12 tháng đối với bệnh nhân trẻ em từ 6 - 14 tuổi, hồ sơ về an toàn không thay đổi.</p><p>Về mặt tổng thể, 502 bệnh nhân trẻ em từ 2 - 5 tuổi được điều trị bằng montelukast trong ít nhất 3 tháng, 338 bệnh nhân trong 6 tháng hoặc lâu hơn và 534 bệnh nhân trong 12 tháng hoặc lâu hơn. Với điều trị kéo dài, hồ sơ về an toàn cũng không thay đổi ở những bệnh nhân này.</p><p>Hồ sơ về an toàn ở bệnh nhân trẻ em từ 6 tháng - 2 tuổi không thay đổi khi điều trị đến 3 tháng.</p><p>Nói chung Singulair dung nạp tốt. Các tác dụng ngoại ý thường nhẹ và thường không cần ngừng thuốc. Tỷ lệ chung của các tác dụng ngoại ý của Singulair tương đương với nhóm placebo.</p><p><i>Người lớn từ 15 tuổi trở lên bị viêm mũi dị ứng theo mùa</i></p><p>Đã có nghiên cứu đánh giá Singulair trên 2199 người lớn từ 15 tuổi trở lên để điều trị viêm mũi dị ứng theo mùa trong các nghiên cứu lâm sàng. Dùng SINGULAIR một lần mỗi ngày vào buổi sáng hoặc buổi tối thường dung nạp tốt với thuộc tính an toàn tương đương với nhóm placebo. Trong các nghiên cứu lâm sàng đối chứng với placebo, các tác dụng ngoại ý không liên quan đến thuốc được ghi nhận ở ≥1% người bệnh dùng Singulair và có tỷ lệ cao hơn so với nhóm placebo. Trong nghiên cứu 4 tuần có đối chứng placebo trên lâm sàng, độ an toàn phù hợp như ở các nghiên cứu kéo dài 2 tuần. Trong mọi nghiên cứu, tỷ lệ buồn ngủ tương tự như ở nhóm placebo.</p><p><i>Người lớn từ 15 tuổi trở lên bị viêm mũi dị ứng quanh năm</i></p><p>Đã có hai nghiên cứu đánh giá SINGULAIR trên 3235 người lớn và vị thành niên từ 15 tuổi trở lên bị viêm mũi dị ứng quanh năm trong 6 tuần, đối chứng placebo. Dùng SINGULAIR mỗi ngày một lần nói chung dung nạp tốt, dữ liệu an toàn nhất quán với nhóm người bệnh bị viêm mũi dị ứng theo mùa và tương đương với nhóm placebo.</p><p>Trong hai nghiên cứu này, các tác dụng ngoại ý không liên quan đến thuốc được ghi nhận ở 21% người bệnh dùng SINGULAIR và có tỷ lệ cao hơn so với nhóm placebo. Tỷ lệ buồn ngủ tương tự như ở nhóm placebo.</p><p><i>Phân tích tổng hợp từ kinh nghiệm thử nghiệm lâm sàng</i></p><p>Vui lòng xem thêm các thông tin về thuốc trong tờ hướng dẫn sử dụng thuốc đính kèm sản phẩm.</p>",
+      "preservation": "<p dir=\"ltr\">Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p>",
+      "usage": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/singulair-10-organon-2-x14.html\">Thuốc Singulair 10</a> được chỉ định trong điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/hen-suyen-1397.html\">hen suyễn</a> dưới dạng liệu pháp bổ sung ở những bệnh nhân bị hen dai dẳng từ nhẹ đến trung bình không được kiểm soát đầy đủ khi dùng corticosteroid dạng hít và ở những bệnh nhân dùng thuốc đồng vận β tác dụng ngắn “khi cần\" nhưng không kiểm soát được hen đầy đủ trên lâm sàng.</p><p>Ở những bệnh nhân hen mà Singulair được chỉ định trong hen, Singulair cũng có thể giúp giảm triệu chứng <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">viêm mũi dị ứng</a> theo mùa.</p><p>Singulair cũng được chỉ định trong điều trị dự phòng hen trong đó chủ yếu là <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phe-quan-co-that-1068.html\">co thắt phế quản</a> do gắng sức.</p><p>Singulair được chỉ định để làm giảm các triệu chứng viêm mũi dị ứng theo mùa và viêm mũi dị ứng quanh năm.</p><h3>Dược lực học</h3><p><strong>Nhóm dược lý: Singulair® (montelukast natri) là thuốc uống đối kháng chọn lọc trên thụ thể (receptor) của leukotriene, ức chế đặc hiệu thụ thể cysteinyl leukotriene CysLT.</strong></p><p><strong>Mã ATC: R03D C03</strong></p><p>Các cysteinyl leukotriene (LTC, LTD, LTE,) là những eicosanoid có tiềm năng gây viêm mạnh, được tiết ra từ nhiều loại tế bào, bao gồm tế bào hạt và bạch cầu ưa eosin. Các chất trung gian quan trọng tiền hen này được gắn vào các thụ thể cysteinyl leukotriene (CysLT). Các thụ thể CysLT týp 1 (CysLT,) được tìm thấy trong đường thờ của người, bao gồm các tế bào cơ trơn và đại thực bào của đường thở và trong các tế bào tiền viêm khác (bao gồm bạch cầu ưa eosin và một số tế bào gốc tủy xương). CysLT có liên quan với cơ chế sinh bệnh của hen và viêm mũi dị ứng. Trong bệnh hen, các tác dụng qua trung gian của leukotriene bao gồm một số tác dụng lên đường thở, như làm co thắt phế quản, tiết chất nhày, tăng tính thấm mao mạch và huy động bạch cầu ưa eosin. Trong viêm mũi dị ứng, CysLT được tiết từ niêm mạc mũi sau khi tiếp xúc với dị nguyên trong các phản ứng ở các pha nhanh và chậm và có liên quan tới các triệu chứng viêm mũi dị ứng. CysLT trong mũi sẽ làm tăng sự cản trở đường thở và các triệu chứng tắc nghẽn ở mũi.</p><p>Montelukast dạng uống là chất có tính chống viêm, cải thiện được các thông số về viêm trong hen. Dựa vào các thử nghiệm về hóa sinh và dược lý, montelukast chứng tỏ có ái lực cao và có độ chọn lọc với thụ thể CysLT, (tác dụng này trội hơn ở các thụ thể khác cũng quan trọng về dược lý, như các thụ thể prostanoid, cholinergic hoặc B-adrenergic).</p><p>Montelukast ức chế mạnh các tác dụng sinh lý của LTC, LTD, LTE, tại thụ thể CysLT, mà không hề có tác dụng chủ vận.</p><p>Ở bệnh nhân hen, montelukast ức chế các thụ thể cysteinyl leukotriene ở đường thở chứng minh qua khả năng ức chế sự co thắt phế quản do hít LTD. Với các liều dưới 5 mg đã phong bế được sự co thắt phế quản do LTD. Montelukast gây giãn phế quản trong 2 giờ sau khi xuống; những tác dụng này hiệp đồng với sự giãn phế quản nhờ dùng chất chủ vận β.</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Sau khi uống, montelukast hấp thu nhanh và hầu như hoàn toàn. Với viên nén bao phim 10 mg, nồng độ Cmax đạt được 3 giờ (Tmax) sau uống đối với người lớn, uống thuốc lúc bụng đói. Sinh khả dụng khi dùng thuốc đường uống là 64%. Sinh khả dụng và Cmax không bị ảnh hưởng bởi bữa ăn chuẩn.</p><p>Với viên nén nhai 5 mg, Cmax đạt 2 giờ sau khi người lớn uống lúc đói.</p><p>Sinh khả dụng khi uống là 73%. Thức ăn không có ảnh hưởng lớn trong lâm sàng khi dùng thuốc dài ngày.</p><p>Với viên nén nhai 4 mg, nồng độ Cmax đạt được 2 giờ sau uống đối với bệnh nhi 2 - 5 tuổi, uống thuốc lúc đói.</p><p>Dạng cốm uống 4 mg có tương đương sinh học với viên nén nhai 4 mg khi dùng cho người lớn lúc đói. Việc dùng montelukast dạng cốm hạt chung với nước sốt táo hoặc trong bữa ăn chuẩn không gây ảnh hưởng lâm sàng đáng kể nào tới dược động học của thuốc xác định bởi diện tích dưới đường cong AUC (1225,7 so với 1223,1 ng.giờ/ml có hoặc không có kèm nước sốt táo và 1191,8 so với 1148,5 ng.giờ/ml có hoặc không có kèm bữa ăn chuẩn).</p><p>Hiệu lực và độ an toàn đã được chứng minh qua các nghiên cứu lâm sàng, khi dùng viên nén nhai 4 mg, viên nén nhai 5 mg, viên nén bao phim 10 mg, uống không tính đến thời gian bữa ăn. Độ an toàn của Singulair cũng được chứng minh trong nghiên cứu lâm sàng đối với uống dạng cốm hạt 4 mg mà không tính đến thời gian bữa ăn.</p><p><i>Phân bố</i></p><p>Hơn 99% Montelukast gắn kết với protein huyết tương. Thể tích phân bố (Vd) trong trạng thái ổn định của montelukast là 8 - 11 lít. Nghiên cứu trên chuột cống với montelukast đánh dấu cho thấy thuốc rất ít phân bố qua hàng rão máu não. Hơn nữa, nồng độ của chất đánh dấu sau khi uống 24 giờ là tối thiểu trong mọi mô khác.</p><p><i>Sinh chuyển hóa</i></p><p>Montelukast chuyển hóa rất mạnh. Trong các nghiên cứu với liều điều trị, các nồng độ trong huyết tương của các chất chuyển hóa của montelukast không tìm thấy được trong trạng thái ổn định ở người lớn và trẻ em.</p><p>Nghiên cứu in vitro, sử dụng microsome gan người, cho thấy cytochrome P450 3A4 và 2C9 tham gia vào quá trình chuyển hóa của montelukast. Dựa vào các kết quả khác in vitro trên microsome gan người, thấy các nồng độ điều trị của montelukast trong huyết tương không ức chế các cytochromes P450 3A4, 2C9, 1A2, 246, 2C19 hay 2D6.</p><p><i>Thải trừ</i></p><p>Độ thanh lọc của montelukast trong huyết tương là 45 ml/phút ở người lớn khỏe mạnh. Sau khi uống montelukast đánh dấu, 86% chất đánh dấu được tìm thấy trong phần của tổng cộng 5 ngày và dưới 0,2% thải qua nước tiểu. Điều này cùng với sự tính toán sinh khả dụng của montelukast dùng đường uống cho thấy montelukast và các chất chuyển hóa của thuốc được thải gần như hoàn toàn qua mật.</p><p>Trong một số nghiên cứu, thời gian bán thải trong huyết tương của montelukast là 2,7 - 5,5 giờ ở người trẻ tuổi khỏe mạnh. Dược động học của montelukast hầu như tuyến tính khi uống tới liều 50 mg. Không có sự khác biệt về dược động học khi uống thuốc vào buổi sáng hoặc tối.</p><p>Khi uống 10 mg montelukast một lần trong ngày, hầu như rất ít tích lũy chất mẹ montelukast trong huyết tương (xấp xỉ 14%).</p><p><i>Đặc điểm người bệnh</i></p><p>Không cần chỉnh liều đối với bệnh nhân lớn tuổi, bệnh nhân suy thận hoặc suy gan nhẹ đến trung bình. Không có bằng chứng lâm sàng trên bệnh nhân suy gan nặng (điểm số Child-Pugh &gt;9).</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p>Thuốc Singulair 10 chống chỉ định trong các trường hợp sau:</p><ul><li>Quá mẫn cảm với bất kỳ thành phần nào của thuốc.</li></ul><h2>Thận trọng khi sử dụng</h2><p>Chưa xác định được hiệu lực khi uống Singulair trong điều trị các cơn hen cấp tính. Vì vậy, không nên dùng Singulair các dạng uống để điều trị cơn hen cấp. Người bệnh cần được dặn dò dùng cách điều trị thích hợp sẵn có.</p><p>Có thể phải giảm corticosteroid dạng hít dần dần với sự giám sát của bác sỹ, nhưng không được thay thế đột ngột corticosteroid dạng uống hoặc hít bằng Singulair.</p><p>Đã có báo cáo về các tác dụng thần kinh - tâm thần ở người bệnh dùng Singulair. Vì có các yếu tố khác có thể góp phần vào các tác dụng này, nên vẫn chưa biết rõ liệu các tác dụng này có liên quan đến Singulair hay không. Bác sỹ nên thảo luận các tác dụng bất lợi này với người bệnh và/hoặc người chăm sóc bệnh nhân. Nên chỉ dẫn người bệnh và/hoặc người chăm sóc bệnh nhân việc thông báo cho bác sỹ biết nếu các tác dụng này xảy ra.</p><p>Trong một số trường hợp hiếm gặp, bệnh nhân dùng thuốc trị hen, bao gồm các thuốc đối kháng thụ thể leukotriene, đã gặp một hoặc nhiều phản ứng sau đây: Tăng bạch cầu ưa eosin, phát ban viêm mạch, làm nặng hơn các triệu chứng ở phổi, các biến chứng ở tìm và hoặc bệnh thần kinh đôi khi được chẩn đoán là hội chứng Churg - Strauss là viêm mạch tăng bạch cầu ưa eosin hệ thống. Các trường hợp này đôi khi có liên quan tới sự giảm hoặc ngừng liệu pháp corticosteroid đường uống. Mặc dù chưa xác định được mối quan hệ nhân quả với các chất đối kháng thụ thể leukotriene, cần thận trọng và theo dõi chặt chẽ lâm sàng khi dùng Singulair.</p><p>Điều trị bằng montelukast vẫn yêu cầu tránh sử dụng aspirin và các thuốc chống viêm non-steroid khác ở bệnh nhân hen phế quản nhạy cảm với aspirin.</p><p>Bệnh nhân có vấn đề di truyền hiếm gặp về dung nạp galactose, thiếu hụt Lapp lactase hoặc kém hấp thu glucose-galactose không nên dùng thuốc này.</p><p><i>Sử dụng cho người cao tuổi</i></p><p>Trong các nghiên cứu lâm sàng, không thấy có khác biệt gì về các thuộc tính an toàn và hiệu quả của Singulair liên quan đến tuổi tác.</p><h3>Ảnh hưởng của thuốc lên khả năng lái xe và vận hành máy móc</h3><p>Singulair dự kiến sẽ không ảnh hưởng đến khả năng lái xe và vận hành máy móc. Tuy nhiên, phản ứng của từng cá nhân đối với thuốc có thể khác nhau. Một số tác dụng phụ (như chóng mặt và buồn ngủ) đã được báo cáo với Singulair có thể ảnh hưởng đến khả năng lái xe và vận hành máy móc trên một số bệnh nhân.</p><h3>Sử dụng thuốc cho phụ nữ trong thời kỳ mang thai và cho con bú</h3><p><strong>Phụ nữ có thai</strong></p><p>Chỉ dùng Singulair khi mang thai khi thật cần thiết. Dữ liệu có sẵn từ các nghiên cứu đoàn hệ tiến cứu và hồi cứu được công bố với việc sử dụng montelukast ở phụ nữ mang thai đánh giá dị tật bẩm sinh lớn không xác lập được nguy cơ liên quan đến thuốc. Các nghiên cứu có sẵn có những hạn chế về phương pháp, bao gồm cỡ mẫu nhỏ, trong một số trường hợp thu thập dữ liệu hồi cứu và các nhóm so sánh không nhất quán.</p><p><strong>Phụ nữ cho con bú</strong></p><p>Chưa rõ sự bài tiết của Singulair qua sữa mẹ. Vì thuốc này có thể bài tiết qua sữa mẹ, nên người mẹ cần thận trọng khi dùng Singulair trong thời kỳ cho con bú.</p><h3>Tương tác thuốc</h3><p>Có thể dùng Singulair với các thuốc thường dùng khác trong dự phòng và điều trị mạn tính bệnh hen và điều trị viêm mũi dị ứng. Trong các nghiên cứu về tương tác thuốc, thấy liều khuyến cáo trong điều trị của montelukast không có ảnh hưởng đáng kể trên lâm sàng tới dược động học của các thuốc sau: Theophylline, prednisone, prednisolone, thuốc uống ngừa thai (ethinyl estradiol/norethindrone 35/1), terfenadine, digoxin và warfarin.</p><p>Diện tích dưới đường cong (AUC) của montelukast giảm khoảng 40% ở người dùng cùng phenobarbital. Không cần điều chỉnh liều lượng Singulair.</p><p>Các nghiên cứu in vitro cho thấy montelukast là chất ức chế CYP 2C8. Tuy nhiên dữ liệu từ các nghiên cứu tương tác thuốc - thuốc trên lâm sàng của montelukast và rosiglitazone (là cơ chất đại diện cho các thuốc được chuyển hóa chủ yếu bởi CYP 2C8) lại cho thấy montelukast không ức chế CYP 2C8 in vivo. Do đó, montelukast được dự đoán không làm thay đổi quá trình chuyển hóa của các thuốc được chuyển hóa chủ yếu qua enzyme này (ví dụ như paclitaxel, rosiglitazone, repaglinide).</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Ngô Kim Thúy",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp loại giỏi trường Đại học Y Dược Huế. Từng tham gia nghiên cứu khoa học đề tài về Dược liệu. Nhiều năm kinh nghiệm làm việc trong lĩnh vực Dược phẩm. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-ngo-kim-thuy",
+        "isLegit": true,
+        "id": 9,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Nguyen_Kim_Thuy_ea92026f36.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Singulair 10mg trị hen dai dẳng từ nhẹ đến trung bình",
+        "metaDescription": "Thuốc Singulair 10 điều trị hen dưới dạng liệu pháp bổ sung ở những bệnh nhân bị hen dai dẳng từ nhẹ đến trung bình. Mua ngay tại Long Châu có dược sĩ tư vấn",
+        "id": 32094,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_singulair_10_organon_2x14_00044337_fd12c957bc.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên)",
+            "description": "Thuốc Singulair 10 là sản phẩm của Organon Pharma United chứa hoạt chất Montelukast được chỉ định trong điều trị hen dưới dạng liệu pháp bổ sung ở những bệnh nhân bị hen dai dẳng từ nhẹ đến trung bình không được kiểm soát đầy đủ khi dùng corticosteroid dạng hít và ở những bệnh nhân dùng thuốc đồng vận β tác dụng ngắn “khi cần\" nhưng không kiểm soát được hen đầy đủ trên lâm sàng."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 17541,
+        "title": "Thuốc Singulair Organon thuộc nhóm dược lý nào và thuộc mã ATC nào?",
+        "content": "<p>Thuốc Singulair Organon thuộc nhóm dược lý: Singulair® (montelukast natri) là thuốc uống đối kháng chọn lọc trên thụ thể (receptor) của leukotriene, ức chế đặc hiệu thụ thể cysteinyl leukotriene CysLT. Mã ATC: R03D C03.</p>"
+      },
+      {
+        "id": 17544,
+        "title": "Thuốc Singulair Organon 10mg chứa thành phần gì?",
+        "content": "<p>Thuốc Singulair Organon 10mg chứa thành phần Montelukast là chất có tính chống viêm, cải thiện được các thông số về viêm trong hen.</p>"
+      },
+      {
+        "id": 17545,
+        "title": "Thuốc Singulair Organon 10mg có thời gian đạt nồng độ Cmax là bao lâu?",
+        "content": "<p>Với viên nén bao phim Singulair Organon 10 mg, nồng độ Cmax đạt được 3 giờ (Tmax) sau uống đối với người lớn, uống thuốc lúc bụng đói. Sinh khả dụng khi dùng thuốc đường uống là 64%. Sinh khả dụng và Cmax không bị ảnh hưởng bởi bữa ăn chuẩn.</p>"
+      },
+      {
+        "id": 17543,
+        "title": "Thuốc viên nén bao phim Singulair Organon 10mg dùng trong điều trị các cơn hen cấp tính có hiệu quả không?",
+        "content": "<p>Chưa xác định được hiệu lực khi uống Singulair trong điều trị các cơn hen cấp tính. Vì vậy, không nên dùng Singulair các dạng uống để điều trị cơn hen cấp. Người bệnh cần được dặn dò dùng cách điều trị thích hợp sẵn có.</p>"
+      },
+      {
+        "id": 17542,
+        "title": "Thuốc viên nén bao phim Singulair Organon 10mg dùng cho trẻ em dưới 15 tuổi được không?",
+        "content": "<p>Không dùng viên nén bao phim Singulair 10 mg cho trẻ em dưới 15 tuổi. Độ an toàn và hiệu quả của viên nén bao phim Singulair 10 mg ở trẻ em dưới 15 tuổi chưa được xác định.</p><p>Hiện có viên nén nhai 5 mg cho bệnh nhân trẻ em từ 6 - 14 tuổi.</p><p>Hiện có viên nén nhai 4 mg cho bệnh nhân trẻ em từ 2 - 5 tuổi.</p><p>Hiện có dạng cốm 4 mg cho bệnh nhân trẻ em từ 6 tháng đến 5 tuổi.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00005129",
+        "name": "NASONEX 60DOSE",
+        "webName": "Thuốc xịt mũi Nasonex Bayer điều trị viêm mũi dị ứng (60 liều)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005129_nasonex_60_1660_6387_large_686b538a0d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 775,
+            "name": "Thuốc trị hen suyễn",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 7333,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 205000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/nasonex-60-2924.html",
+        "ingredients": "Mometasone furoate 50mcg",
+        "dosageForm": "Hỗn dịch xịt mũi",
+        "brand": "Bayer",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp",
+        "prices": [
+          {
+            "id": 7333,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 205000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 19,
+      "items": [
+        {
+          "id": 3330320,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0905xxxxxx",
+          "name": "My Hanh Tran",
+          "email": "myhanh.hrm@gmail.com",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Phần ghi chú \"Rối loạn toàn thân và tình trạng tại chỗ dùng thuốc\" là \"Khát\" cho đối tượng từ 2-5 tuổi theo như HDSD chứ không phải \"Khác\" đúng ko ạ?",
+          "createdAt": "2026-06-30 03:08:37",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-30 03:08:37",
+          "replies": [
+            {
+              "id": 3330398,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Minh Tiến",
+                "moderatorEmail": "tiennm50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Minh Tiến",
+              "email": "tiennm50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Hạnh,</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-06-30 08:58:39",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-30 03:08:37",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3325110,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0396xxxxxx",
+          "name": "Hằng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 Hộp bao nhiêu em",
+          "createdAt": "2026-06-19 14:20:52",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-19 14:20:52",
+          "replies": [
+            {
+              "id": 3325125,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Quang Đức",
+                "moderatorEmail": "duchq2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Quang Đức",
+              "email": "duchq2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hằng,</p><p>Dạ sản phẩm SINGULAIR 10 ORGANON 2X14 có giá 380,000 ₫/hộp ạ</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-06-19 15:19:15",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-19 14:20:52",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3314692,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0901xxxxxx",
+          "name": "huyentran Tô ngọc",
+          "email": "huyentrantongoc@gmail.com",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc này có uống thường xuyên dc ko ạ.",
+          "createdAt": "2026-05-29 16:48:52",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-29 16:48:52",
+          "replies": [
+            {
+              "id": 3314723,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Hồng Khuyên",
+                "moderatorEmail": "khuyennh4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Hồng Khuyên",
+              "email": "khuyennh4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý khách,</p><p>Dạ Singulair 10mg Organon Pharma là thuốc thường được bác sĩ kê dùng hằng ngày để kiểm soát hen phế quản hoặc viêm mũi dị ứng nên có thể phải uống thường xuyên theo liệu trình ạ. Tuy nhiên đây là thuốc kê đơn, thời gian dùng và liều dùng sẽ tuỳ theo tình trạng bệnh của mình.  Quý khách không nên tự ý dùng kéo dài hoặc ngưng đột ngột nếu chưa có hướng dẫn từ bác sĩ nha ạ.</p><p>Nhà thuốc xin phép thông tin đến Quý khách ạ.</p>",
+              "createdAt": "2026-05-29 17:26:50",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-29 16:48:52",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3278890,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0869xxxxxx",
+          "name": "Mộ Thị Huế",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "làm thế nào để mua được ạ",
+          "createdAt": "2026-03-23 19:20:55",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-23 19:20:55",
+          "replies": [
+            {
+              "id": 3278898,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Vũ Tiến Thành",
+                "moderatorEmail": "thanhvt57@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Vũ Tiến Thành",
+              "email": "thanhvt57@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Huế,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-03-23 19:31:41",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-23 19:20:55",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3275708,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0929xxxxxx",
+          "name": "hiếu",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu tiền 1 hộp ạ",
+          "createdAt": "2026-03-18 09:17:37",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-18 09:17:37",
+          "replies": [
+            {
+              "id": 3275775,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lương Thuỳ Linh",
+                "moderatorEmail": "linhlt110@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lương Thuỳ Linh",
+              "email": "linhlt110@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Hiếu,</p><p>Hiện tại, sản phẩm Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên) có giá 380,000 ₫/ Hộp ạ. </p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-03-18 09:55:35",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-18 09:17:37",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 3198572,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0975xxxxxx",
+          "name": "chị Liên",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2025-10-19 11:31:47",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-19 11:31:33",
+          "replies": [
+            {
+              "id": 3198575,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ánh",
+                "moderatorEmail": "anhnth44@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ánh",
+              "email": "anhnth44@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào <strong>chị Liên</strong>,</p><p>Dạ nhà thuốc FPT Long Châu rất cảm ơn chị luôn tin tưởng và ủng hộ. Chúc chị nhiều sức khỏe.</p>",
+              "createdAt": "2025-10-19 11:32:45",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-19 11:31:33",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_singulair_10_organon_2x14_00044337_fd12c957bc.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04072_3d2469a5d9.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04074_753a958c93.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04075_cec20f79c5.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04076_a0799c0126.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04077_e995e40bba.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04078_7895a668e2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04079_01714e6e05.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/singulair_10mg_1_9a572f9e7d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/singulair_10mg_2_b9386853da.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/singulair_10mg_3_a6473f441a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/singulair_10mg_4_6d2a4cf509.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Singulair 10 là sản phẩm của Organon Pharma United chứa hoạt chất Montelukast được chỉ định trong điều trị hen dưới dạng liệu pháp bổ sung ở những bệnh nhân bị hen dai dẳng từ nhẹ đến trung bình không được kiểm soát đầy đủ khi dùng corticosteroid dạng hít và ở những bệnh nhân dùng thuốc đồng vận β tác dụng ngắn “khi cần\" nhưng không kiểm soát được hen đầy đủ trên lâm sàng.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ngô Kim Thúy"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Singulair 10mg trị hen dai dẳng từ nhẹ đến trung bình",
+      "description": "Thuốc Singulair 10 điều trị hen dưới dạng liệu pháp bổ sung ở những bệnh nhân bị hen dai dẳng từ nhẹ đến trung bình. Mua ngay tại Long Châu có dược sĩ tư vấn",
+      "openGraph": {
+        "title": "Thuốc Singulair 10mg Organon Pharma điều trị hen dai dẳng từ nhẹ đến trung bình (2 vỉ x 14 viên)",
+        "description": "Thuốc Singulair 10 là sản phẩm của Organon Pharma United chứa hoạt chất Montelukast được chỉ định trong điều trị hen dưới dạng liệu pháp bổ sung ở những bệnh nhân bị hen dai dẳng từ nhẹ đến trung bình không được kiểm soát đầy đủ khi dùng corticosteroid dạng hít và ở những bệnh nhân dùng thuốc đồng vận β tác dụng ngắn “khi cần\" nhưng không kiểm soát được hen đầy đủ trên lâm sàng.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_singulair_10_organon_2x14_00044337_fd12c957bc.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/singulair-10-organon-2-x14.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/singulair-10-organon-2-x14.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

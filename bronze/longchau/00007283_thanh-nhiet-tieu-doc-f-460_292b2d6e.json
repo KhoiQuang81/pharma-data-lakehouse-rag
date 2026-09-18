@@ -1,0 +1,2062 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/thanh-nhiet-tieu-doc-f-460.html",
+  "ingestion_timestamp": "2026-09-05T11:28:16.519283+00:00",
+  "file_hash": "c617e311ca23ff1994213e948d036be4ddf00e239f13f0d583e9adb1f9952851",
+  "lineage_hash": "988c6dd372aca5459849d8ef9e62d95dff273f407c04eff957c8390189fc7d72",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/thanh-nhiet-tieu-doc-f-460.html",
+    "product": {
+      "sku": "00007283",
+      "webName": "Thuốc Thanh Nhiệt Tiêu Độc-F điều trị mẩn ngứa, mày đay (40 viên)",
+      "name": "THANH NHIỆT TIÊU ĐỘC-F FITO 40V",
+      "shortName": "THANH NHIỆT TIÊU ĐỘC-F FITO 40V",
+      "headingText": "Thuốc Thanh Nhiệt Tiêu Độc-F",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7283_thanh_nhiet_tieu_doc_f_2968_599f_large_b70c417665.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7283_thanh_nhiet_tieu_doc_f_7586_599f_large_e8d1929e7a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7283_thanh_nhiet_tieu_doc_f_9955_599f_large_a54d6100a0.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007283_thanh_nhiet_tieu_doc_f_3532_6118_large_92cb20f5af.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007283_thanh_nhiet_tieu_doc_f_1629013389_5ce81a7e34.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 736,
+          "name": "Thuốc tiêu hoá & gan mật",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 809,
+          "name": "Thuốc trị bệnh gan",
+          "parentName": "Thuốc tiêu hoá & gan mật",
+          "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 55000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 40 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": 1375,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "40 Viên"
+        }
+      ],
+      "slug": "thuoc/thanh-nhiet-tieu-doc-f-460.html",
+      "ingredient": [
+        {
+          "id": 26592,
+          "ingredientId": 24677,
+          "shortDescription": "500mg",
+          "name": "Kinh giới",
+          "isPrimary": false,
+          "slug": "thanh-phan/kinh-gioi"
+        },
+        {
+          "id": 26593,
+          "ingredientId": 35334,
+          "shortDescription": "500mg",
+          "name": "Sài đất",
+          "isPrimary": false,
+          "slug": "thanh-phan/sai-dat"
+        },
+        {
+          "id": 26594,
+          "ingredientId": 38387,
+          "shortDescription": "500mg",
+          "name": "Thương nhĩ tử",
+          "isPrimary": false,
+          "slug": "thanh-phan/thuong-nhi-tu"
+        },
+        {
+          "id": 26595,
+          "ingredientId": 32396,
+          "shortDescription": "375mg",
+          "name": "Phòng phong",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 26596,
+          "ingredientId": 16564,
+          "shortDescription": "375mg",
+          "name": "Đại hoàng",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 26597,
+          "ingredientId": 38300,
+          "shortDescription": "375mg",
+          "name": "Thổ phục linh",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 26598,
+          "ingredientId": 22441,
+          "shortDescription": "125mg",
+          "name": "Hoàng liên",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 26599,
+          "ingredientId": 24654,
+          "shortDescription": "120mg",
+          "name": "Kim ngân hoa",
+          "isPrimary": false,
+          "slug": "thanh-phan/kim-ngan-hoa"
+        },
+        {
+          "id": 26600,
+          "ingredientId": 10072,
+          "shortDescription": "75mg",
+          "name": "Bạch chỉ",
+          "isPrimary": false,
+          "slug": "thanh-phan/bach-chi"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-20536-14",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang cứng",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Uống cùng với nước.</p><h3><strong>Liều dùng</strong></h3><p>Người lớn: Uống mỗi &nbsp;3 viên , ngày 3 lần.</p><p>Trẻ từ 10 - 15 tuổi: Uống mỗi lần 1 - 2 viên , ngày 3 lần.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Khi dùng thuốc quá liều khuyến cáo cần đến ngay cơ sở y tế để theo dõi và xử trí.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Thanh nhiệt tiêu độc - F</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Thanh nhiệt, giải độc.</li>\n\t<li>Ðiều trị mẩn ngứa, nổi <strong><a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mề đay</a></strong>, nám da.</li>\n\t<li>Mụn nhọt, đinh râu, hay bị sưng viêm nướu răng, lở mồm mép.</li>\n\t<li>Thanh nhiệt tiêu độc, trị chứng cơ thể nóng bứt rút, tiểu ít và gắt, nước tiểu sậm màu.</li>\n\t<li>Hỗ trợ điều trị bệnh viêm da và các bệnh lý da liễu khác như nấm, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/cham-516.html\">chàm</a></strong>...</li>\n\t<li>Dùng tốt cho người bệnh viêm gan. Người có thân nhiệt nóng do thường sử dụng rượu bia.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+      "brand": "Fito",
+      "brandType": null,
+      "adverseEffect": "<p>Chưa có báo cáo về tác dụng phụ của thuốc.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 40 Viên",
+      "indications": [
+        {
+          "id": 213,
+          "name": "Lở Mép",
+          "slug": null
+        },
+        {
+          "id": 283,
+          "name": "Mề đay",
+          "slug": "benh/me-day-527.html"
+        },
+        {
+          "id": 633,
+          "name": "Viêm gân",
+          "slug": "benh/viem-gan-219.html"
+        },
+        {
+          "id": 835,
+          "name": "Viêm da",
+          "slug": "benh/viem-da-1140.html"
+        },
+        {
+          "id": 1087,
+          "name": "Nổi mẩn ngứa",
+          "slug": "benh/noi-man-ngua-870.html"
+        },
+        {
+          "id": 1135,
+          "name": "Bí tiểu",
+          "slug": "benh/bi-tieu-744.html"
+        },
+        {
+          "id": 1155,
+          "name": "Nám sạm",
+          "slug": null
+        },
+        {
+          "id": 1250,
+          "name": "Mụn nhọt",
+          "slug": "benh/mun-nhot-1036.html"
+        },
+        {
+          "id": 1354,
+          "name": "Sưng nướu",
+          "slug": "benh/sung-nuou-945.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "Fito",
+      "shortDescription": "<p><strong>Thuốc Thanh nhiệt tiêu độc - F</strong> là sản phẩm của <em>Công ty Dược phẩm Fito Pharma</em>, với thành phần chiết xuất từ các loại thảo dược. Thuốc Thanh nhiệt tiêu độc – F dùng để thanh nhiệt giải độc cơ thể.</p>\n\n<p>Thuốc Thanh nhiệt tiêu độc - F bào chế dạng viên nang cứng số 0, hai đầu màu xanh lá, bên trong chứa bột thuốc màu nâu xám, mùi thơm dược liệu, vị hơi đắng. Quy cách đóng gói hộp 1 chai 40 viên nang hoặc hộp 10 vỉ x 10 viên nang, kèm theo toa hướng dẫn sử dụng.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "Trên 18 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ cho con bú",
+        "Phụ nữ có thai"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Dị ứng thuốc",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/fito",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "THANH NHIỆT TIÊU ĐỘC – F",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": 55000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 40 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 809,
+        "name": "Thuốc trị bệnh gan",
+        "parentName": "Thuốc tiêu hoá & gan mật",
+        "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7283_thanh_nhiet_tieu_doc_f_2968_599f_large_b70c417665.jpg",
+          "alternativeText": "Thuốc Thanh Nhiệt Tiêu Độc-F điều trị mẩn ngứa, mày đay (40 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7283_thanh_nhiet_tieu_doc_f_7586_599f_large_e8d1929e7a.jpg",
+          "alternativeText": "Thuốc Thanh Nhiệt Tiêu Độc-F điều trị mẩn ngứa, mày đay (40 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7283_thanh_nhiet_tieu_doc_f_9955_599f_large_a54d6100a0.jpg",
+          "alternativeText": "Thuốc Thanh Nhiệt Tiêu Độc-F điều trị mẩn ngứa, mày đay (40 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007283_thanh_nhiet_tieu_doc_f_3532_6118_large_92cb20f5af.jpg",
+          "alternativeText": "Thuốc Thanh Nhiệt Tiêu Độc-F điều trị mẩn ngứa, mày đay (40 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007283_thanh_nhiet_tieu_doc_f_1629013389_5ce81a7e34.jpg",
+          "alternativeText": "Thuốc Thanh Nhiệt Tiêu Độc-F điều trị mẩn ngứa, mày đay (40 viên) 5"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 55000,
+        "itemCode": "00007283",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 55000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 1375,
+        "itemCode": "00007283",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 1375,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiêu hoá & gan mật",
+        "slug": "/thuoc/thuoc-tieu-hoa-and-gan-mat"
+      },
+      {
+        "name": "Thuốc trị bệnh gan",
+        "slug": "/thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan"
+      }
+    ],
+    "content": {
+      "sku": "00007283",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Uống cùng với nước.</p><h3><strong>Liều dùng</strong></h3><p>Người lớn: Uống mỗi &nbsp;3 viên , ngày 3 lần.</p><p>Trẻ từ 10 - 15 tuổi: Uống mỗi lần 1 - 2 viên , ngày 3 lần.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Khi dùng thuốc quá liều khuyến cáo cần đến ngay cơ sở y tế để theo dõi và xử trí.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ hướng dẫn sử dụng thuốc Thanh nhiệt tiêu độc – F.</p></body></html>",
+      "adverseEffect": "<p>Chưa có báo cáo về tác dụng phụ của thuốc.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Cần bảo quản ở nhiệt độ không quá 30 độ C, nơi khô ráo, tránh ánh sáng.</p>\n\n<p><em>Công ty TNHH Dược phẩm Fito Pharma thành lập năm 1992. Công ty dược phẩm Fito Pharma là đại diện tiêu biểu cho nền Y học cổ truyền hiện đại tại Việt Nam, chuyên sản xuất các thuốc đông dược dựa trên nền tảng của các bài thuốc cổ phương đã được tồn tại qua nhiều thế kỷ, với sự hợp tác của các chuyên gia trong nghành y dược và các viên nghiên cứu trong và ngoài nước. Nhiều sản phẩm của công ty Fito Pharma đã được đánh giá lâm sàng tại các viên, bệnh viện trong nước cũng như ngoài nước.</em></p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Thanh nhiệt tiêu độc - F</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Thanh nhiệt, giải độc.</li>\n\t<li>Ðiều trị mẩn ngứa, nổi <strong><a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mề đay</a></strong>, nám da.</li>\n\t<li>Mụn nhọt, đinh râu, hay bị sưng viêm nướu răng, lở mồm mép.</li>\n\t<li>Thanh nhiệt tiêu độc, trị chứng cơ thể nóng bứt rút, tiểu ít và gắt, nước tiểu sậm màu.</li>\n\t<li>Hỗ trợ điều trị bệnh viêm da và các bệnh lý da liễu khác như nấm, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/cham-516.html\">chàm</a></strong>...</li>\n\t<li>Dùng tốt cho người bệnh viêm gan. Người có thân nhiệt nóng do thường sử dụng rượu bia.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3><strong>Chống chỉ định</strong></h3>\n\n<p><strong>Thuốc Thanh nhiệt tiêu độc  - F</strong> chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Phụ nữ có thai;</p>\n\t</li>\n\t<li>\n\t<p>Trẻ em dưới 30 tháng tuổi, trẻ em có tiền sử động kinh, co giật do sốt cao.</p>\n\t</li>\n</ul>\n\n<h3><strong>Thận trọng khi sử dụng</strong></h3>\n\n<p>Người đau dạ dày.</p>\n\n<h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Thời kỳ mang thai </strong></h3>\n\n<p>Không được dùng cho phụ nữ mang thai.</p>\n\n<h3><strong>Thời kỳ cho con bú</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc -F Fito hỗ trợ thanh nhiệt giải độc cơ thể (40 viên)",
+        "metaDescription": "Thuốc -F Fito với thành phần chiết xuất từ các loại thảo dược. Thuốc Thanh nhiệt tiêu độc – F dùng để thanh nhiệt giải độc cơ thể. Tìm hiểu thêm!",
+        "id": 5576,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7283_thanh_nhiet_tieu_doc_f_2968_599f_large_b70c417665.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Thanh Nhiệt Tiêu Độc-F điều trị mẩn ngứa, mày đay (40 viên)",
+            "description": "Thuốc Thanh nhiệt tiêu độc - F là sản phẩm của Công ty Dược phẩm Fito Pharma, với thành phần chiết xuất từ các loại thảo dược. Thuốc Thanh nhiệt tiêu độc – F dùng để thanh nhiệt giải độc cơ thể.\n\nThuốc Thanh nhiệt tiêu độc - F bào chế dạng viên nang cứng số 0, hai đầu màu xanh lá, bên trong chứa bột thuốc màu nâu xám, mùi thơm dược liệu, vị hơi đắng. Quy cách đóng gói hộp 1 chai 40 viên nang hoặc hộp 10 vỉ x 10 viên nang, kèm theo toa hướng dẫn sử dụng."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 34198,
+        "title": "Thuốc Thanh Nhiệt Tiêu Độc-F có tác dụng phụ hay chống chỉ định nào không?",
+        "content": "<p>Hiện tại chưa có báo cáo về tác dụng phụ của thuốc. Tuy nhiên, Thuốc Thanh Nhiệt Tiêu Độc-F chống chỉ định cho phụ nữ có thai, trẻ em dưới 30 tháng tuổi và trẻ em có tiền sử động kinh, co giật do sốt cao. Cần thận trọng khi sử dụng thuốc cho người đau dạ dày.</p>"
+      },
+      {
+        "id": 34197,
+        "title": "Cần làm gì khi sử dụng Thuốc Thanh Nhiệt Tiêu Độc-F quá liều hoặc quên liều?",
+        "content": "<p>Khi dùng thuốc quá liều khuyến cáo, cần đến ngay cơ sở y tế để theo dõi và xử trí. Nếu quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Không nên dùng gấp đôi liều đã quy định.</p>"
+      },
+      {
+        "id": 34195,
+        "title": "Thuốc Thanh Nhiệt Tiêu Độc-F được chỉ định sử dụng trong những trường hợp nào?",
+        "content": "<p>Thuốc Thanh Nhiệt Tiêu Độc-F được chỉ định để thanh nhiệt, giải độc cơ thể. Cụ thể, thuốc được dùng để điều trị mẩn ngứa, nổi mề đay, nám da, mụn nhọt, đinh râu, sưng viêm nướu răng, lở mồm mép. Ngoài ra, thuốc còn giúp trị chứng cơ thể nóng bứt rứt, tiểu ít và gắt, nước tiểu sậm màu, hỗ trợ điều trị bệnh viêm da và các bệnh lý da liễu khác như nấm, chàm. Thuốc cũng tốt cho người bệnh viêm gan và người có thân nhiệt nóng do thường xuyên sử dụng rượu bia.</p>"
+      },
+      {
+        "id": 34194,
+        "title": "Thuốc Thanh Nhiệt Tiêu Độc-F là gì?",
+        "content": "<p>Thuốc Thanh Nhiệt Tiêu Độc-F là sản phẩm được bào chế dưới dạng viên nang cứng. Thuốc có thành phần chiết xuất từ các loại thảo dược và được dùng để thanh nhiệt, giải độc cơ thể. Viên nang có màu xanh lá hai đầu, bên trong chứa bột thuốc màu nâu xám, có mùi thơm dược liệu và vị hơi đắng.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00500235",
+        "name": "BỔ GAN TRƯỜNG PHÚC 3X10",
+        "webName": "Thuốc Bổ Gan Trường Phúc giải độc gan, chống dị ứng, mày đay, lở ngứa (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500235_bo_gan_truong_phuc_3x10_7485_6293_large_b117663369.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48090,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 99000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bo-gan-truong-phuc-3x10-34370.html",
+        "ingredients": "Diệp hạ châu 1.2g, Đảng Sâm 1.2g, Bạch truật 0.6g, Cam thảo 0.6g, Phục Linh 0.6g, Nhân trần 1.2g, Trần bì 0.6g",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "TRƯỜNG PHÚC",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48090,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 99000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00502581",
+        "name": "LIVOLIN FORTE MEGA 3X10",
+        "webName": "Thuốc Livolin Forte Mega We Care điều trị viêm gan cấp, bán cấp và viêm gan mạn tính, xơ gan (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03127_3007d4ce18.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 52643,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 4967,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-livolin-forte-mega-lifesciences-hop-3-vi-x-10-vien-36849.html",
+        "ingredients": "Phospholipids thiết yếu 300mg, Vitamin B1 10mg, Vitamin B2 6mg, Vitamin B6 10mg, Vitamin B12 (Cyanocobalamin) 10mcg, Nicotinamide 30mg, Vitamin E acetate 10mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "MEGA We care",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 52644,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 49667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 52645,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 149000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 52643,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 4967,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 262,
+          "attributeName": "Thái Lan",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/th_Thailand_cdaa8c1601.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500008",
+        "name": "ANBALIV 400 PHƯƠNG ĐÔNG PHARMA 6X10",
+        "webName": "Thuốc Anbaliv Phương Đông hỗ trợ điều trị các bệnh về gan (6 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/anbaliv_314037c30b.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 47609,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 660000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/anbaliv-400-phuong-dong-pharma-6-vi-x-10-vien-34083.html",
+        "ingredients": "Silymarin 400mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Phương Đông",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 47608,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 110000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 47607,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 11000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 47609,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 660000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001374",
+        "name": "BOGANIC FORTE TRAPHACO 5X10",
+        "webName": "Thuốc Boganic Forte Traphaco bổ gan, hỗ trợ điều trị suy giảm chức năng gan (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1906_6bb1369184.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1466,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 115000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/boganic-forte-bo-gan-giai-doc-mat-gan-531.html",
+        "ingredients": "Bìm Bìm 13.6mg, Rau đắng đất 128mg, Cao khô actiso 170mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Traphaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 5 vỉ x 10 viên",
+        "prices": [
+          {
+            "id": 1464,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 2300,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1466,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 115000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 1465,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 23000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00010272",
+        "name": "SILYGAMMA 150MG WORWAG 4X25",
+        "webName": "Thuốc Silygamma 150mg Worwag điều trị viêm gan mãn tính, xơ gan (4 vỉ x 25 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010272_silygamma_150mg_3112_5b21_large_88e8a155af.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 13923,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 5700,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/silygamma-150mg-1333.html",
+        "ingredients": "Silymarin 150mg",
+        "dosageForm": "Viên nén bao",
+        "brand": "Worwag",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 4 Vỉ x 25 Viên",
+        "prices": [
+          {
+            "id": 13924,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 142500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 13925,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 570000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 13923,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00004514",
+        "name": "LIVOSIL 140MG 8X15",
+        "webName": "Viên nang cứng Livosil 140mg aconitum hỗ trợ điều trị viêm gan mạn tính, xơ gan (8 vỉ x 15 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004514_livosil_140mg_6649_5b56_large_fdc4a81ab6.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 6322,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 6900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/livosil-140mg-3199.html",
+        "ingredients": "Silymarin 140mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "aconitum",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 8 Vỉ x 15 Viên",
+        "prices": [
+          {
+            "id": 6322,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 6900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 6323,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 103500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 6324,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 828000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 195,
+          "attributeName": "Litva",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/lt_Lithuania_917ee86ad8.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001147",
+        "name": "BAR PHARMEDIC 180V - THUỐC LỢI GAN MẬT",
+        "webName": "Thuốc lợi gan mật Bar Pharmedic điều trị các bệnh về gan (180 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2039_a4d58cbfdd.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1100,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 70000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bar-180-4571.html",
+        "ingredients": "Rau đắng đất 75mg, Bìm Bìm 75mg, Atisô 100mg",
+        "dosageForm": "Viên nén bao đường",
+        "brand": "Pharmedic",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 180 viên",
+        "prices": [
+          {
+            "id": 1099,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 389,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1100,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 70000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00013883",
+        "name": "BOGANIC VBP TRAPHACO 5X20",
+        "webName": "Thuốc Boganic Traphaco bổ gan, hỗ trợ điều trị suy giảm chức năng gan (5 vỉ x 20 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6561_895514cecd.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 16508,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 80000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/boganic-vien-nen-100v-bao-phim-15828.html",
+        "ingredients": "Cao khô bìm bìm 6.4mg, Cao khô rau đắng đất 64mg, Cao khô actisô ep 85mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Traphaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 20 Viên",
+        "prices": [
+          {
+            "id": 16508,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 80000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 16507,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 16000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 16506,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 800,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007844",
+        "name": "VG-5 DANAPHA 40V",
+        "webName": "Thuốc VG-5 Danapha điều trị hạ men gan, viêm gan (40 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3100_179f9cdb03.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11520,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 40000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vg-5-lo-40v-16764.html",
+        "ingredients": "Râu bắp 50mg, Cỏ nhọ nồi 50mg, Nhân trần 130mg, Diệp hạ châu 100mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Danapha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 2.3613910000000002,
+        "specification": "Hộp 40 Viên",
+        "prices": [
+          {
+            "id": 11519,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11520,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 40000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006716",
+        "name": "SILYMAX F 140 MEDIPLANTEX 6X10",
+        "webName": "Thuốc Silymax-F Mediplantex điều trị viêm gan do virus, xơ gan (6 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006716_silymax_f_140_6x10_8257_5bba_large_291f92975a.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 9787,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 132000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/silymax-f-140-6x10-16885.html",
+        "ingredients": "Silymarin 140mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Mediplantex",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 9785,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 9786,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 22000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 9787,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 132000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00022477",
+        "name": "VIHACAPS 600MG MINSKINTERCAPS 5X10",
+        "webName": "Thuốc Vihacaps 600 Minskintercaps cải thiện triệu chứng bệnh lý gan (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00022477_vihacaps_600mg_minskintercaps_5x10_3825_6095_large_6ed858b31d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 28846,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 9520,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-vihacaps-600mg-minskintercaps-cai-thien-trieu-chung-benh-ly-gan-50-vien-22805.html",
+        "ingredients": "Phospholipid đậu nành 600mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Minskintercaps",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 28846,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 9520,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 28847,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 95200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 28848,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 476000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 57,
+          "attributeName": "Belarus",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/by_Belarus_0c1f9f5c55.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00029481",
+        "name": "A.T SILYMARIN 117MG AN THIÊN 3X10",
+        "webName": "Thuốc A.T Silymarin 117mg An Thiên hỗ trợ điều trị bệnh viêm gan mạn tính, xơ gan (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/a_t_silymarin_117mg_3x10_an_thien_00029481_86eaa662de.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 38119,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 165000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/at-silymarin-v-117mg-29647.html",
+        "ingredients": "Silymarin 117mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "An Thiên",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 38118,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 38117,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 5500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 38119,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 165000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 14,
+      "items": [
+        {
+          "id": 3344170,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0705xxxxxx",
+          "name": "Anh Tài",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Người lớn uống mỗi lần 3 viên ngày 3 lần hay mỗi ngày 3 viên ngày 3 lần ạ =)))",
+          "createdAt": "2026-07-22 19:05:14",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-22 19:05:14",
+          "replies": [
+            {
+              "id": 3344172,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Khánh Huyền",
+                "moderatorEmail": "huyenttk13@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Khánh Huyền",
+              "email": "huyenttk13@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh tài,</p><p>Dạ anh dùng mỗi lần 3 viên x ngày dùng 3 lần ạ</p><p>Nhà thuốc thông tin đến anh.</p>",
+              "createdAt": "2026-07-22 19:08:15",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-22 19:05:14",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3325719,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0977xxxxxx",
+          "name": "Ngô Yến Nhi",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "ngứa mày đay lâu năm dùng có dứt hẳn không ạ?",
+          "createdAt": "2026-06-21 02:18:02",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-21 02:18:02",
+          "replies": [
+            {
+              "id": 3325790,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Tiểu Thanh Trúc",
+                "moderatorEmail": "trucptt5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Tiểu Thanh Trúc",
+              "email": "trucptt5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Yến Nhi,</p><p>Dạ chị có thể dùng Thuốc Thanh Nhiệt Tiêu Độc-F cho tình trạng mẩn ngứa, mày đay, kích ứng ạ.</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-06-21 09:37:15",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-21 02:18:02",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3171667,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0983xxxxxx",
+          "name": "Chị Phượng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "đang cho con bú dùng được không ạ?",
+          "createdAt": "2025-08-30 17:11:19",
+          "createdAtDisplay": "30/08/2025",
+          "updatedAt": "2025-08-30 17:11:05",
+          "replies": [
+            {
+              "id": 3171669,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Phương Vân",
+                "moderatorEmail": "vanntp@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Phương Vân",
+              "email": "vanntp@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Phượng,</p><p>Dạ hiện chưa có thông tin an toàn sản phẩm dùng cho phụ nữ cho con bú, mình nên tham khảo ý kiến bác sĩ trước khi dùng để có lựa chọn phù hợp cho mẹ và bé ạ.</p><p>Nhà thuốc thông tin đến chị.</p><p>Thân mến!</p>",
+              "createdAt": "2025-08-30 17:12:13",
+              "createdAtDisplay": "30/08/2025",
+              "updatedAt": "2025-08-30 17:11:05",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3165276,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0866xxxxxx",
+          "name": "Phạm Nghĩa",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "chi nhánh tỉnh hưng yên có ko ạ",
+          "createdAt": "2025-08-18 21:46:33",
+          "createdAtDisplay": "18/08/2025",
+          "updatedAt": "2025-08-18 21:46:25",
+          "replies": [
+            {
+              "id": 3165278,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Khánh Huyền",
+                "moderatorEmail": "huyenttk13@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Khánh Huyền",
+              "email": "huyenttk13@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Phạm Nghĩa, </p><p>Dạ sản phẩm còn hàng trên hệ thống.Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.Thân mến!</p>",
+              "createdAt": "2025-08-18 21:47:39",
+              "createdAtDisplay": "18/08/2025",
+              "updatedAt": "2025-08-18 21:46:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3144375,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0366xxxxxx",
+          "name": "Tuấn",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc thanh nhiệt tiêu độc còn ko? Mình ở phường Hòa Thành, tỉnh Tây Ninh.",
+          "createdAt": "2025-07-14 14:12:27",
+          "createdAtDisplay": "14/07/2025",
+          "updatedAt": "2025-07-14 14:12:18",
+          "replies": [
+            {
+              "id": 3144377,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Phương Vân",
+                "moderatorEmail": "vanntp@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Phương Vân",
+              "email": "vanntp@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Tuấn,</p><p>Dạ sản phẩm còn hàng ở khu vực Tây Ninh.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ. </p><p>Thân mến!</p>",
+              "createdAt": "2025-07-14 14:13:35",
+              "createdAtDisplay": "14/07/2025",
+              "updatedAt": "2025-07-14 14:12:18",
+              "replies": []
+            },
+            {
+              "id": 3144605,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0366xxxxxx",
+              "name": "Tuấn",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Chưa có ai liên hệ hết!",
+              "createdAt": "2025-07-14 18:59:47",
+              "createdAtDisplay": "14/07/2025",
+              "updatedAt": "2025-07-14 14:12:18",
+              "replies": []
+            },
+            {
+              "id": 3144609,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Khánh Huyền",
+                "moderatorEmail": "huyenttk13@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Khánh Huyền",
+              "email": "huyenttk13@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Tuấn</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-07-14 19:00:49",
+              "createdAtDisplay": "14/07/2025",
+              "updatedAt": "2025-07-14 14:12:18",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 3213186,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0924xxxxxx",
+          "name": "Chị Nhung",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2025-11-16 16:21:58",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-16 16:21:58",
+          "replies": [
+            {
+              "id": 3213188,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Quỳnh Anh",
+                "moderatorEmail": "anhntq56@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Quỳnh Anh",
+              "email": "anhntq56@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào <strong>Chị Nhung,</strong></p><p>Dạ nhà thuốc FPT Long Châu rất cảm ơn chị luôn tin tưởng và ủng hộ. Chúc chị nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2025-11-16 16:24:11",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-16 16:21:58",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Thanh Nhiệt Tiêu Độc-F điều trị mẩn ngứa, mày đay (40 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7283_thanh_nhiet_tieu_doc_f_2968_599f_large_b70c417665.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7283_thanh_nhiet_tieu_doc_f_7586_599f_large_e8d1929e7a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7283_thanh_nhiet_tieu_doc_f_9955_599f_large_a54d6100a0.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007283_thanh_nhiet_tieu_doc_f_3532_6118_large_92cb20f5af.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Thanh nhiệt tiêu độc - F là sản phẩm của Công ty Dược phẩm Fito Pharma, với thành phần chiết xuất từ các loại thảo dược. Thuốc Thanh nhiệt tiêu độc – F dùng để thanh nhiệt giải độc cơ thể.\n\nThuốc Thanh nhiệt tiêu độc - F bào chế dạng viên nang cứng số 0, hai đầu màu xanh lá, bên trong chứa bột thuốc màu nâu xám, mùi thơm dược liệu, vị hơi đắng. Quy cách đóng gói hộp 1 chai 40 viên nang hoặc hộp 10 vỉ x 10 viên nang, kèm theo toa hướng dẫn sử dụng.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/thanh-nhiet-tieu-doc-f-460.html",
+        "priceCurrency": "VND",
+        "price": 55000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Thuốc -F Fito hỗ trợ thanh nhiệt giải độc cơ thể (40 viên)",
+      "description": "Thuốc -F Fito với thành phần chiết xuất từ các loại thảo dược. Thuốc Thanh nhiệt tiêu độc – F dùng để thanh nhiệt giải độc cơ thể. Tìm hiểu thêm!",
+      "openGraph": {
+        "title": "Thuốc Thanh Nhiệt Tiêu Độc-F điều trị mẩn ngứa, mày đay (40 viên)",
+        "description": "Thuốc Thanh nhiệt tiêu độc - F là sản phẩm của Công ty Dược phẩm Fito Pharma, với thành phần chiết xuất từ các loại thảo dược. Thuốc Thanh nhiệt tiêu độc – F dùng để thanh nhiệt giải độc cơ thể.\n\nThuốc Thanh nhiệt tiêu độc - F bào chế dạng viên nang cứng số 0, hai đầu màu xanh lá, bên trong chứa bột thuốc màu nâu xám, mùi thơm dược liệu, vị hơi đắng. Quy cách đóng gói hộp 1 chai 40 viên nang hoặc hộp 10 vỉ x 10 viên nang, kèm theo toa hướng dẫn sử dụng.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7283_thanh_nhiet_tieu_doc_f_2968_599f_large_b70c417665.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/thanh-nhiet-tieu-doc-f-460.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/thanh-nhiet-tieu-doc-f-460.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

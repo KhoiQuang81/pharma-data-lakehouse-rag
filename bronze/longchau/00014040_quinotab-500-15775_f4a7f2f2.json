@@ -1,0 +1,781 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/quinotab-500-15775.html",
+  "ingestion_timestamp": "2026-09-05T11:03:45.347877+00:00",
+  "file_hash": "dd61099a5a7a401f892e5d2b1aeee9f4f922e094d90867b9fbfb357b4f948505",
+  "lineage_hash": "6d65da3ff5ab7f05029b8ecc2726d7f661d07c48d2af33fd943d1ce6114f563c",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/quinotab-500-15775.html",
+    "product": {
+      "sku": "00014040",
+      "webName": "Thuốc Quinotab-500 Micro điều trị các chứng nhiễm trùng (1 vỉ x 10 viên)",
+      "name": "QUINOTAB 500 MICRO 1X10",
+      "shortName": "QUINOTAB 500 MICRO 1X10",
+      "headingText": "Thuốc Quinotab-500",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_6952_6425_large_3c147c6063.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_1737_6425_large_805a2bfd94.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_3688_6425_large_10cf5df43d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_4511_6425_large_05eca97766.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_7266_6425_large_5f618876ac.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_4581_6425_large_88c3fe70eb.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_6362_6425_large_9d57d80717.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_7708_6425_large_c423a8a9e2.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_1680160532_551589bb28.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 731,
+          "name": "Thuốc kháng sinh, kháng nấm",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 781,
+          "name": "Thuốc kháng sinh",
+          "parentName": "Thuốc kháng sinh, kháng nấm",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Hộp 1 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 2,
+          "productSpecs": "1 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/quinotab-500-15775.html",
+      "ingredient": [
+        {
+          "id": 16992,
+          "ingredientId": 25406,
+          "shortDescription": "500mg",
+          "name": "Levofloxacin",
+          "isPrimary": false,
+          "slug": "thanh-phan/levofloxacin"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VN-14755-12",
+      "manufactor": "Ấn Độ",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p style=\"text-align:justify;\">Thuốc Quinotab dạng viên nén bao phim, dùng đường uống.</p><h3><strong>Liều dùng</strong></h3><p style=\"text-align:justify;\">Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc Quinotab. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3><strong>Chi định</strong></h3><p style=\"text-align:justify;\">Quinotab 500 chỉ định điều trị trong các trường hợp điều trị nhiễm trùng nhẹ, trung bình và&nbsp;nặng ở người lớn trên&nbsp;18 tuổi như:</p><ul><li style=\"text-align:justify;\"><a href=\"https://nhathuoclongchau.com.vn/benh/viem-xoang-479.html\">Viêm xoang</a> cấp, đợt cấp viêm phế quản mãn, viêm phổi, viêm phổi mắc phải trong cộng đồng.</li><li style=\"text-align:justify;\">Nhiễm trùng da và&nbsp;cấu trúc da.</li><li style=\"text-align:justify;\">Nhiễm trùng đường tiết niệu có và&nbsp;không có biến chứng, viêm thận - bể thận cấp tính.</li></ul><h3><strong>Dược lực học</strong></h3><p style=\"text-align:justify;\">Chưa có dữ liệu.</p><h3><strong>Dược động học</strong></h3><p style=\"text-align:justify;\">Chưa có dữ liệu.</p>",
+      "brand": "Micro",
+      "brandType": null,
+      "adverseEffect": "<p style=\"text-align:justify;\">Thông báo cho thầy thuốc các tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "",
+      "indications": [
+        {
+          "id": 8,
+          "name": "Viêm amidan",
+          "slug": "benh/viem-amidan-467.html"
+        },
+        {
+          "id": 15,
+          "name": "Viêm tai giữa",
+          "slug": "benh/viem-tai-giua-474.html"
+        },
+        {
+          "id": 43,
+          "name": "Viêm xoang",
+          "slug": "benh/viem-xoang-479.html"
+        },
+        {
+          "id": 112,
+          "name": "Nhiễm trùng tiết niệu",
+          "slug": "benh/nhiem-trung-tiet-nieu-355.html"
+        },
+        {
+          "id": 229,
+          "name": "Nhiễm trùng da và mô mềm",
+          "slug": null
+        }
+      ],
+      "brandOrigin": "Ấn Độ",
+      "producer": "MICRO",
+      "shortDescription": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/quinotab-500-15775.html\">Quinotab</a> là sản phẩm của&nbsp;Micro Labs&nbsp;chứa dược chất Levofloxacin hemihydrate&nbsp;có tác dụng điều trị nhiễm trùng nhẹ, trung bình hoặc&nbsp;nặng ở người lớn trên&nbsp;18 tuổi như: Viêm xoang cấp, đợt cấp viêm phế quản mãn, viêm phổi, viêm phổi mắc phải trong cộng đồng, nhiễm trùng da và&nbsp;cấu trúc da, nhiễm trùng đường tiết niệu có và&nbsp;không có biến chứng, viêm thận, bể thận cấp tính.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Trên 18 tuổi",
+      "objectUse": [
+        "Người cao tuổi"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Suy gan thận",
+        "Phụ nữ cho con bú"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Mang thai, Động kinh, Dị ứng thuốc, Viêm gân",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/micro",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "QUINOTAB 500",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 249,
+        "attributeName": "Ấn Độ",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/in_India_090039de61.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 781,
+        "name": "Thuốc kháng sinh",
+        "parentName": "Thuốc kháng sinh, kháng nấm",
+        "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_6952_6425_large_3c147c6063.jpg",
+          "alternativeText": "Thuốc Quinotab-500 Micro điều trị các chứng nhiễm trùng (1 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_1737_6425_large_805a2bfd94.jpg",
+          "alternativeText": "Thuốc Quinotab-500 Micro điều trị các chứng nhiễm trùng (1 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_3688_6425_large_10cf5df43d.jpg",
+          "alternativeText": "Thuốc Quinotab-500 Micro điều trị các chứng nhiễm trùng (1 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_4511_6425_large_05eca97766.jpg",
+          "alternativeText": "Thuốc Quinotab-500 Micro điều trị các chứng nhiễm trùng (1 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_7266_6425_large_5f618876ac.jpg",
+          "alternativeText": "Thuốc Quinotab-500 Micro điều trị các chứng nhiễm trùng (1 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_4581_6425_large_88c3fe70eb.jpg",
+          "alternativeText": "Thuốc Quinotab-500 Micro điều trị các chứng nhiễm trùng (1 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_6362_6425_large_9d57d80717.jpg",
+          "alternativeText": "Thuốc Quinotab-500 Micro điều trị các chứng nhiễm trùng (1 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_7708_6425_large_c423a8a9e2.jpg",
+          "alternativeText": "Thuốc Quinotab-500 Micro điều trị các chứng nhiễm trùng (1 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_1680160532_551589bb28.jpg",
+          "alternativeText": "Thuốc Quinotab-500 Micro điều trị các chứng nhiễm trùng (1 vỉ x 10 viên) 9"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc kháng sinh, kháng nấm",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam"
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh"
+      }
+    ],
+    "content": {
+      "sku": "00014040",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p style=\"text-align:justify;\">Thuốc Quinotab dạng viên nén bao phim, dùng đường uống.</p><h3><strong>Liều dùng</strong></h3><p style=\"text-align:justify;\">Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc Quinotab. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<p>Tham khảo thông tin tờ hướng dẫn sử dụng thuốc Quinotab 500.</p>",
+      "adverseEffect": "<p style=\"text-align:justify;\">Thông báo cho thầy thuốc các tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p>Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p>",
+      "usage": "<h3><strong>Chi định</strong></h3><p style=\"text-align:justify;\">Quinotab 500 chỉ định điều trị trong các trường hợp điều trị nhiễm trùng nhẹ, trung bình và&nbsp;nặng ở người lớn trên&nbsp;18 tuổi như:</p><ul><li style=\"text-align:justify;\"><a href=\"https://nhathuoclongchau.com.vn/benh/viem-xoang-479.html\">Viêm xoang</a> cấp, đợt cấp viêm phế quản mãn, viêm phổi, viêm phổi mắc phải trong cộng đồng.</li><li style=\"text-align:justify;\">Nhiễm trùng da và&nbsp;cấu trúc da.</li><li style=\"text-align:justify;\">Nhiễm trùng đường tiết niệu có và&nbsp;không có biến chứng, viêm thận - bể thận cấp tính.</li></ul><h3><strong>Dược lực học</strong></h3><p style=\"text-align:justify;\">Chưa có dữ liệu.</p><h3><strong>Dược động học</strong></h3><p style=\"text-align:justify;\">Chưa có dữ liệu.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3><strong>Chống chỉ định</strong></h3><p>Thuốc&nbsp;Quinotab 500 chống chỉ định trong các trường hợp sau:</p><ul><li>Có tiền sử mẫn cảm với thành phần của thuốc.</li></ul><h3><strong>Thận trọng khi sử dụng</strong></h3><p>Chưa có dữ liệu.</p><h3><strong>Tương tác thuốc</strong></h3><p>Tương tác thuốc có thể ảnh hưởng đến hoạt động của thuốc hoặc gây ra các tác dụng phụ.&nbsp;</p><p>Bệnh nhân nên báo cho bác sĩ hoặc dược sĩ danh sách những thuốc và các <a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang\">thực phẩm chức năng</a> bạn đang sử dụng. Không nên dùng hay tăng giảm liều lượng của thuốc mà không có sự hướng dẫn của bác sĩ.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Quinotab 500mg điều trị các bệnh nhiễm trùng (10 viên)",
+        "metaDescription": "Mua thuốc Quinotab 500mg điều trị nhiễm trùng nhẹ, trung bình hoặc nặng ở người lớn trên 18 tuổi chính hãng, có dược sĩ tư vấn. Xem ngay liều dùng và giá bán!",
+        "id": 993,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_6952_6425_large_3c147c6063.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Quinotab-500 Micro điều trị các chứng nhiễm trùng (1 vỉ x 10 viên)",
+            "description": "Quinotab là sản phẩm của&nbsp;Micro Labs&nbsp;chứa dược chất Levofloxacin hemihydrate&nbsp;có tác dụng điều trị nhiễm trùng nhẹ, trung bình hoặc&nbsp;nặng ở người lớn trên&nbsp;18 tuổi như: Viêm xoang cấp, đợt cấp viêm phế quản mãn, viêm phổi, viêm phổi mắc phải trong cộng đồng, nhiễm trùng da và&nbsp;cấu trúc da, nhiễm trùng đường tiết niệu có và&nbsp;không có biến chứng, viêm thận, bể thận cấp tính."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 373,
+        "title": "Dược lực học là gì?",
+        "content": "<p>\r\n\r\nDược lực học l&agrave; nghi&ecirc;n cứu c&aacute;c ảnh hưởng sinh h&oacute;a, sinh l&yacute;, v&agrave; ph&acirc;n tử của thuốc tr&ecirc;n cơ thể v&agrave; li&ecirc;n quan đến thụ thể li&ecirc;n kết, hiệu ứng sau thụ thể, v&agrave; tương t&aacute;c h&oacute;a học. Dược lực học, với dược động học, gi&uacute;p giải th&iacute;ch mối quan hệ giữa liều v&agrave; đ&aacute;p ứng, tức l&agrave; c&aacute;c t&aacute;c dụng của thuốc. Đ&aacute;p ứng dược l&yacute; phụ thuộc v&agrave;o sự li&ecirc;n kết của thuốc với đ&iacute;ch t&aacute;c dụng. Nồng độ thuốc ở vị tr&iacute; thụ thể ảnh hưởng đến t&aacute;c dụng của thuốc.</p>"
+      },
+      {
+        "id": 372,
+        "title": "Dược động học là gì?",
+        "content": "<p>\r\n\r\nDược động học l&agrave; những t&aacute;c động của cơ thể đối với thuốc trong suốt qu&aacute; tr&igrave;nh thuốc đi v&agrave;o, ở trong v&agrave; đi ra khỏi cơ thể- bao gồm c&aacute;c qu&aacute; tr&igrave;nh hấp thụ, sinh khả dụng, ph&acirc;n bố, chuyển h&oacute;a, v&agrave; thải trừ.</p>"
+      },
+      {
+        "id": 371,
+        "title": "Tác dụng phụ của thuốc là gì? Cách phòng tránh tác dụng phụ của thuốc",
+        "content": "<p>\r\n\r\nT&aacute;c dụng phụ l&agrave; những triệu chứng kh&ocirc;ng mong muốn xảy ra khi ch&uacute;ng ta uống thuốc. C&aacute;c t&aacute;c dụng phụ n&agrave;y c&oacute; thể kh&ocirc;ng nghi&ecirc;m trọng, chẳng hạn chỉ g&acirc;y <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><strong>đau đầu</strong></a> hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mieng-312.html\"><strong>kh&ocirc; miệng</strong></a>. Nhưng cũng c&oacute; những t&aacute;c dụng phụ đe dọa t&iacute;nh mạng. Cẩn ph&ograve;ng tr&aacute;nh t&aacute;c dụng phụ của <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> như: Th&ocirc;ng b&aacute;o c&aacute;c loại thuốc đang sử dụng với b&aacute;c sĩ, c&aacute;c <strong><a href=\"https://nhathuoclongchau.com.vn/benh\">bệnh</a></strong> l&yacute; nền hiện tại, c&aacute;c tương t&aacute;c của thuốc đến thực phẩm hằng ng&agrave;y. Đọc kỹ hướng dẫn sử dụng thuốc v&agrave; nếu gặp t&aacute;c dụng phụ cần b&aacute;o ngay cho b&aacute;c sĩ.</p>"
+      },
+      {
+        "id": 370,
+        "title": "Sử dụng thuốc đúng cách như thế nào?",
+        "content": "<p>\r\n\r\nSử dụng <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> đ&uacute;ng c&aacute;ch l&agrave; uống thuốc theo chỉ dẫn của dược sĩ, b&aacute;c sĩ. Ngo&agrave;i ra kh&ocirc;ng d&ugrave;ng nước quả, nước kho&aacute;ng hoặc c&aacute;c loại nước ngọt đ&oacute;ng hộp c&oacute; gas để uống thuốc. Kh&ocirc;ng d&ugrave;ng sữa để uống thuốc v&igrave; trong th&agrave;nh phần của sữa c&oacute; chứa <strong><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/canxi\">canxi</a></strong>. Kh&ocirc;ng d&ugrave;ng c&agrave; ph&ecirc; hay nước ch&egrave; để uống thuốc. Chỉ n&ecirc;n uống c&ugrave;ng nước lọc.</p>"
+      },
+      {
+        "id": 369,
+        "title": "Các dạng bào chế của thuốc?",
+        "content": "<p>\r\n\r\nC&oacute; c&aacute;c dạng b&agrave;o chế thuốc như<br />\r\nTheo thể chất:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc thể rắn (thuốc bột, thuốc vi&ecirc;n).</li>\r\n\t<li>C&aacute;c dạng thuốc thể mềm (thuốc cao, thuốc mỡ, gel).</li>\r\n\t<li>C&aacute;c dạng thuốc thể lỏng (dung dịch, hỗn dịch, nhũ dịch, xiro).</li>\r\n</ul>\r\n\r\n<p>Theo đường d&ugrave;ng:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc uống (vi&ecirc;n, bột, dung dịch, nhũ dịch, hỗn dịch).</li>\r\n\t<li>C&aacute;c dạng thuốc ti&ecirc;m (dung dịch, hỗn dịch, nhũ dịch, bột pha ti&ecirc;m, dịch truyền).</li>\r\n\t<li>C&aacute;c dạng thuốc d&ugrave;ng ngo&agrave;i (thuốc b&ocirc;i tr&ecirc;n da, thuốc nhỏ l&ecirc;n ni&ecirc;m mạc, thuốc s&uacute;c miệng).</li>\r\n\t<li>C&aacute;c dạng thuốc đặt v&agrave;o c&aacute;c hốc tự nhi&ecirc;n tr&ecirc;n cơ thể (thuốc đặt hậu m&ocirc;n, thuốc trứng đặt &acirc;m đạo...).</li>\r\n</ul>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 7,
+      "items": [
+        {
+          "id": 3214045,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0989xxxxxx",
+          "name": "cung",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá 1 hộp thế nào ạ",
+          "createdAt": "2025-11-17 17:44:10",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-17 17:44:10",
+          "replies": [
+            {
+              "id": 3214150,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thị Phượng",
+                "moderatorEmail": "phuonght34@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Thị Phượng",
+              "email": "phuonght34@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Cung,</p><p>Dạ sản phẩm có giá 156,000 ₫/hộp.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-11-17 18:03:52",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-17 17:44:10",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3113811,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0393xxxxxx",
+          "name": "CƯỜNG",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá 1 hộp bao nhiêu ạ",
+          "createdAt": "2025-05-23 14:59:50",
+          "createdAtDisplay": "23/05/2025",
+          "updatedAt": "2025-05-23 14:59:50",
+          "replies": [
+            {
+              "id": 3113813,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Tiến Bắc",
+                "moderatorEmail": "bacnt16@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Tiến Bắc",
+              "email": "bacnt16@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn CƯỜNG,</p><p>Dạ sản phẩm có giá 156,000 ₫/hộp.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-05-23 15:01:42",
+              "createdAtDisplay": "23/05/2025",
+              "updatedAt": "2025-05-23 14:59:50",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3017152,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0987xxxxxx",
+          "name": "Phạm vinh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Uống trước ăn hay sau ăn ạ",
+          "createdAt": "2024-12-29 16:52:55",
+          "createdAtDisplay": "29/12/2024",
+          "updatedAt": "2024-12-29 16:52:55",
+          "replies": [
+            {
+              "id": 3017153,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Đạo",
+                "moderatorEmail": "daolq3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Đạo",
+              "email": "daolq3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Phạm vinh</p><p>Dạ thuốc Thuốc Quinotab-500 Micro điều trị các chứng nhiễm trùng chỉ nên dùng theo chỉ định của bác sĩ, mình vui lòng tham khảo ý kiến bác sĩ và sử dụng theo chỉ định để đảm bảo an toàn và hiệu quả ạ.</p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p>",
+              "createdAt": "2024-12-29 16:53:51",
+              "createdAtDisplay": "29/12/2024",
+              "updatedAt": "2024-12-29 16:52:55",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 1956026,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0978xxxxxx",
+          "name": "0978xxxxxx",
+          "email": "",
+          "score": null,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá bnh 1 hộp ạ. còn hàng k",
+          "createdAt": "2024-08-18 18:56:34",
+          "createdAtDisplay": "18/08/2024",
+          "updatedAt": "2024-08-18 18:57:40",
+          "replies": [
+            {
+              "id": 1956033,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Tiến Bắc",
+                "moderatorEmail": "bacnt16@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Tiến Bắc",
+              "email": "bacnt16@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn ,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Dạ sản phẩm có giá 156,000 ₫/hộp, sản phẩm còn hàng trên hệ thống ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Thân mến!</span></p>",
+              "createdAt": "2024-08-18 18:57:40",
+              "createdAtDisplay": "18/08/2024",
+              "updatedAt": "2024-08-18 18:57:40",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 147037,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0972xxxxxx",
+          "name": "0972xxxxxx",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này còn k ạ. giá 1 hộp là bao nhiêu ạ",
+          "createdAt": "2023-03-27 21:37:37",
+          "createdAtDisplay": "27/03/2023",
+          "updatedAt": "2023-05-12 00:50:37",
+          "replies": [
+            {
+              "id": 147039,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "HuuLT5",
+                "moderatorEmail": "HuuLT5@fpt.com.vn",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "HuuLT5",
+              "email": "HuuLT5@fpt.com.vn",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<div style=\"font-family: Roboto;\">Chào bạn,<br>Dạ sản phẩm có giá 156.000đ/ hộp và còn hàng trên hệ thống. Bạn vui lòng liên hệ tổng đài miễn phí 18006928 để được hỗ trợ tư vấn và đặt hàng.<br>Thân mến!</div>",
+              "createdAt": "2023-03-27 21:40:04",
+              "createdAtDisplay": "27/03/2023",
+              "updatedAt": "2023-05-12 00:50:37",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Quinotab-500 Micro điều trị các chứng nhiễm trùng (1 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_6952_6425_large_3c147c6063.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_1737_6425_large_805a2bfd94.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_3688_6425_large_10cf5df43d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_4511_6425_large_05eca97766.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_7266_6425_large_5f618876ac.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_4581_6425_large_88c3fe70eb.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_6362_6425_large_9d57d80717.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_7708_6425_large_c423a8a9e2.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Quinotab là sản phẩm của Micro Labs chứa dược chất Levofloxacin hemihydrate có tác dụng điều trị nhiễm trùng nhẹ, trung bình hoặc nặng ở người lớn trên 18 tuổi như: Viêm xoang cấp, đợt cấp viêm phế quản mãn, viêm phổi, viêm phổi mắc phải trong cộng đồng, nhiễm trùng da và cấu trúc da, nhiễm trùng đường tiết niệu có và không có biến chứng, viêm thận, bể thận cấp tính.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Quinotab 500mg điều trị các bệnh nhiễm trùng (10 viên)",
+      "description": "Mua thuốc Quinotab 500mg điều trị nhiễm trùng nhẹ, trung bình hoặc nặng ở người lớn trên 18 tuổi chính hãng, có dược sĩ tư vấn. Xem ngay liều dùng và giá bán!",
+      "openGraph": {
+        "title": "Thuốc Quinotab-500 Micro điều trị các chứng nhiễm trùng (1 vỉ x 10 viên)",
+        "description": "Quinotab là sản phẩm của&nbsp;Micro Labs&nbsp;chứa dược chất Levofloxacin hemihydrate&nbsp;có tác dụng điều trị nhiễm trùng nhẹ, trung bình hoặc&nbsp;nặng ở người lớn trên&nbsp;18 tuổi như: Viêm xoang cấp, đợt cấp viêm phế quản mãn, viêm phổi, viêm phổi mắc phải trong cộng đồng, nhiễm trùng da và&nbsp;cấu trúc da, nhiễm trùng đường tiết niệu có và&nbsp;không có biến chứng, viêm thận, bể thận cấp tính.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014040_quinotab_500_6952_6425_large_3c147c6063.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/quinotab-500-15775.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/quinotab-500-15775.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

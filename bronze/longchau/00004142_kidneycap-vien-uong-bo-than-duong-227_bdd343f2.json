@@ -1,0 +1,2084 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/kidneycap-vien-uong-bo-than-duong-227.html",
+  "ingestion_timestamp": "2026-09-05T10:06:08.085243+00:00",
+  "file_hash": "92272d476b4d119c2b372ed646557069527213289877723aafbd9d3c8483d7f8",
+  "lineage_hash": "11d3b14d02d8fc4357d4ac6372931506319493f08c77ba26bb62d0e61ecd8332",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/kidneycap-vien-uong-bo-than-duong-227.html",
+    "product": {
+      "sku": "00004142",
+      "webName": "Thuốc Kidneycap OPC bát vị, bổ thận dương dùng cho người váng đầu, ù tai (5 vỉ x 10 viên)",
+      "name": "KIDNEY CAP OPC 5X10",
+      "shortName": "KIDNEY CAP OPC 5X10",
+      "headingText": "Thuốc Kidneycap",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004142_kidneycap_vien_uong_bo_than_duong_4027_5ea4_large_7d3a756692.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004142_kidneycap_vien_uong_bo_than_duong_3851_5b1e_large_69530c3021.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004142_kidneycap_vien_uong_bo_than_duong_6350_5b1e_large_5baf05a781.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004142_kidneycap_vien_uong_bo_than_duong_8385_5b1e_large_94636e6963.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004142_kidneycap_vien_uong_bo_than_duong_1628330938_a3a2940b7d.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 727,
+          "name": "Thuốc bổ & vitamin",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-bo-and-vitamin",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 752,
+          "name": "Thuốc bổ",
+          "parentName": "Thuốc bổ & vitamin",
+          "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 62000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 5 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": 12400,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "5 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": 1240,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/kidneycap-vien-uong-bo-than-duong-227.html",
+      "ingredient": [
+        {
+          "id": 27595,
+          "ingredientId": 11619,
+          "shortDescription": "55.00mg",
+          "name": "Bột mịn quế nhục",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27596,
+          "ingredientId": 32516,
+          "shortDescription": "125.00mg",
+          "name": "Phục Linh",
+          "isPrimary": false,
+          "slug": "thanh-phan/phuc-linh"
+        },
+        {
+          "id": 27597,
+          "ingredientId": 32505,
+          "shortDescription": "55.00mg",
+          "name": "Phụ tử chế",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27598,
+          "ingredientId": 39013,
+          "shortDescription": "162.50mg",
+          "name": "Trạch tả",
+          "isPrimary": false,
+          "slug": "thanh-phan/trach-ta"
+        },
+        {
+          "id": 27599,
+          "ingredientId": 26653,
+          "shortDescription": "80.08mg",
+          "name": "Mẫu đơn bì (Vỏ rễ)",
+          "isPrimary": false,
+          "slug": "thanh-phan/mau-don-bi"
+        },
+        {
+          "id": 27600,
+          "ingredientId": 36514,
+          "shortDescription": "220.00mg",
+          "name": "Sơn thù",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27601,
+          "ingredientId": 22414,
+          "shortDescription": "189.82mg",
+          "name": "Hoài Sơn",
+          "isPrimary": false,
+          "slug": "thanh-phan/hoai-son"
+        },
+        {
+          "id": 27602,
+          "ingredientId": 38361,
+          "shortDescription": "262.50mg",
+          "name": "Thục địa",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-20227-13",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang cứng",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Dùng đường uống. Uống lúc đói.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Uống mỗi lần 2 viên, ngày 3 lần.</p>\n\n<p>Hoặc theo sự chỉ dẫn của bác sĩ.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định của thuốc.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc KIDNEYCAP® được chỉ định dùng trong các trường hợp sau:</p>\n\n<p><em>Dùng cho người thận dương yếu, váng đầu, <a href=\"https://nhathuoclongchau.com.vn/benh/u-tai-572.html\">ù tai</a>, đau lưng mỏi gối, nửa người dưới thường lạnh, hay đi tiểu đêm, mồ hôi trộm.</em></p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có thông tin.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có thông tin.</p>",
+      "brand": "Opc",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc KIDNEYCAP®, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt;1/100:</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa ghi nhận được báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100:</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa ghi nhận được báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR:</em></p>\n\n<p>Thông báo cho Bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Hộp 5 Vỉ x 10 Viên",
+      "indications": [
+        {
+          "id": 328,
+          "name": "Ù tai",
+          "slug": "benh/u-tai-572.html"
+        },
+        {
+          "id": 331,
+          "name": "Tiểu đêm",
+          "slug": "benh/tieu-dem-575.html"
+        },
+        {
+          "id": 758,
+          "name": "Thận dương hư",
+          "slug": null
+        },
+        {
+          "id": 759,
+          "name": "Mỏi gối",
+          "slug": null
+        },
+        {
+          "id": 1042,
+          "name": "Đổ mồ hôi",
+          "slug": null
+        },
+        {
+          "id": 1341,
+          "name": "Ớn lạnh",
+          "slug": null
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "OPC",
+      "shortDescription": "<p>KIDNEYCAP® của Công ty Cổ phần Dược phẩm OPC, thành phần chính là Thục địa, Hoài sơn, Sơn thù, Mẫu Đơn bì, Trạch tả, Phụ tử chế, Phục linh, Bột mịn Quế nhục, là thuốc được dùng cho người thận dương yếu, váng đầu, ù tai, đau lưng mỏi gối, nửa người dưới thường lạnh, hay đi tiểu đêm, mồ hôi trộm.</p>\n\n<p>KIDNEYCAP® được bào chế dưới dạng viên nang cứng. Viên nang cứng, bóng, bên ngoài không dính bột. Bên trong có chứa thuốc màu nâu, mùi thơm dược liệu, vị hơi chua. Hộp 5 vỉ x 10 viên.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "Trên 15 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Tiểu đường",
+        "Phụ nữ cho con bú",
+        "Phụ nữ có thai"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Mang thai, Dị ứng thuốc, Đái tháo nhạt, Táo bón, Chứng huyết hư, Đi tiểu nhiều",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/opc",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "KIDNEYCAP BÁT VỊ - BỔ THẬN DƯƠNG",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": 62000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 5 Vỉ x 10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 752,
+        "name": "Thuốc bổ",
+        "parentName": "Thuốc bổ & vitamin",
+        "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004142_kidneycap_vien_uong_bo_than_duong_4027_5ea4_large_7d3a756692.jpg",
+          "alternativeText": "Thuốc Kidneycap OPC bát vị, bổ thận dương dùng cho người váng đầu, ù tai (5 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004142_kidneycap_vien_uong_bo_than_duong_3851_5b1e_large_69530c3021.JPG",
+          "alternativeText": "Thuốc Kidneycap OPC bát vị, bổ thận dương dùng cho người váng đầu, ù tai (5 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004142_kidneycap_vien_uong_bo_than_duong_6350_5b1e_large_5baf05a781.JPG",
+          "alternativeText": "Thuốc Kidneycap OPC bát vị, bổ thận dương dùng cho người váng đầu, ù tai (5 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004142_kidneycap_vien_uong_bo_than_duong_8385_5b1e_large_94636e6963.JPG",
+          "alternativeText": "Thuốc Kidneycap OPC bát vị, bổ thận dương dùng cho người váng đầu, ù tai (5 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004142_kidneycap_vien_uong_bo_than_duong_1628330938_a3a2940b7d.jpg",
+          "alternativeText": "Thuốc Kidneycap OPC bát vị, bổ thận dương dùng cho người váng đầu, ù tai (5 vỉ x 10 viên) 5"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 62000,
+        "itemCode": "00004142",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 62000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 12400,
+        "itemCode": "00004142",
+        "unitCode": 13,
+        "maxValue": 0,
+        "price": 12400,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 1240,
+        "itemCode": "00004142",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 1240,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc bổ & vitamin",
+        "slug": "/thuoc/thuoc-bo-and-vitamin"
+      },
+      {
+        "name": "Thuốc bổ",
+        "slug": "/thuoc/thuoc-bo-and-vitamin/thuoc-bo"
+      }
+    ],
+    "content": {
+      "sku": "00004142",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Dùng đường uống. Uống lúc đói.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Uống mỗi lần 2 viên, ngày 3 lần.</p>\n\n<p>Hoặc theo sự chỉ dẫn của bác sĩ.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định của thuốc.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc KIDNEYCAP®.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc KIDNEYCAP®, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt;1/100:</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa ghi nhận được báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100:</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa ghi nhận được báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR:</em></p>\n\n<p>Thông báo cho Bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p>Nơi khô mát, nhiệt độ dưới 30°C.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc KIDNEYCAP® được chỉ định dùng trong các trường hợp sau:</p>\n\n<p><em>Dùng cho người thận dương yếu, váng đầu, <a href=\"https://nhathuoclongchau.com.vn/benh/u-tai-572.html\">ù tai</a>, đau lưng mỏi gối, nửa người dưới thường lạnh, hay đi tiểu đêm, mồ hôi trộm.</em></p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có thông tin.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có thông tin.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định</h3>\n\n<p>Thuốc KIDNEYCAP® chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Không dùng cho phụ nữ có thai, người bị cảm <a href=\"https://nhathuoclongchau.com.vn/benh/sot-618.html\">sốt</a> mới phát, táo bón, trẻ em dưới 15 tuổi, người tiểu nhạt, thể nhiệt, háo khát, huyết hư.</p>\n\t</li>\n\t<li>\n\t<p>Không dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.</p>\n\t</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Không dùng quá liều chỉ định. Người tiểu đường cần dùng thuốc theo chỉ định của bác sĩ. Thận trọng khi dùng cho người suy tim.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Không ảnh hưởng.</p>\n\n<h3>Thời kỳ mang thai </h3>\n\n<p>Không được sử dụng.</p>\n\n<h3>Thời kỳ cho con bú</h3>\n\n<p>Không được sử dụng.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p><em>Tương tác thuốc:</em> Cho đến nay chưa có thông tin báo cáo về tương tác thuốc</p>\n\n<p><em>Tương kỵ của thuốc</em>: Tương kỵ của thuốc: Do không có các nghiên cứu về tính tương kỵ của thuốc, không trộn lẫn thuốc này với các thuốc khác.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Kidney Cap OPC bát vị, bồi bổ thận dương (5 vỉ x 10 viên)",
+        "metaDescription": "Thuốc Kidney Cap OPC là thuốc được dùng cho người thận dương yếu, váng đầu, ù tai, đau lưng mỏi gối, nửa người dưới thường lạnh, hay đi tiểu đêm, mồ hôi trộm.",
+        "id": 5335,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004142_kidneycap_vien_uong_bo_than_duong_4027_5ea4_large_7d3a756692.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Kidneycap OPC bát vị, bổ thận dương dùng cho người váng đầu, ù tai (5 vỉ x 10 viên)",
+            "description": "KIDNEYCAP® của Công ty Cổ phần Dược phẩm OPC, thành phần chính là Thục địa, Hoài sơn, Sơn thù, Mẫu Đơn bì, Trạch tả, Phụ tử chế, Phục linh, Bột mịn Quế nhục, là thuốc được dùng cho người thận dương yếu, váng đầu, ù tai, đau lưng mỏi gối, nửa người dưới thường lạnh, hay đi tiểu đêm, mồ hôi trộm.\n\nKIDNEYCAP® được bào chế dưới dạng viên nang cứng. Viên nang cứng, bóng, bên ngoài không dính bột. Bên trong có chứa thuốc màu nâu, mùi thơm dược liệu, vị hơi chua. Hộp 5 vỉ x 10 viên."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 32583,
+        "title": "Cần lưu ý gì khi sử dụng thuốc Kidney Cap OPC bát vị?",
+        "content": "<p>Không dùng quá liều chỉ định. Người tiểu đường cần dùng thuốc theo chỉ định của bác sĩ. Thận trọng khi dùng cho người suy tim.</p>"
+      },
+      {
+        "id": 32582,
+        "title": "Có những chống chỉ định nào đối với thuốc Kidney Cap OPC bát vị?",
+        "content": "<p>Thuốc KIDNEYCAP® chống chỉ định trong các trường hợp sau: Phụ nữ có thai, người bị cảm sốt mới phát, táo bón, trẻ em dưới 15 tuổi, người tiểu nhạt, thể nhiệt, háo khát, huyết hư. Không dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.</p>"
+      },
+      {
+        "id": 32581,
+        "title": "Liều dùng và cách dùng thuốc Kidney Cap OPC bát vị như thế nào?",
+        "content": "<p>Cách dùng là uống thuốc lúc đói. Liều dùng tham khảo là uống mỗi lần 2 viên, ngày 3 lần. Tuy nhiên, liều dùng cụ thể có thể thay đổi tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh, do đó cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế để có liều dùng phù hợp.</p>"
+      },
+      {
+        "id": 32580,
+        "title": "Thành phần chính của thuốc Kidney Cap OPC bát vị là gì?",
+        "content": "<p>Thuốc KIDNEYCAP® chứa các thành phần chính bao gồm: Thục địa, Hoài sơn, Sơn thù, Mẫu Đơn bì, Trạch tả, Phụ tử chế, Phục linh và Bột mịn Quế nhục.</p>"
+      },
+      {
+        "id": 32579,
+        "title": "Thuốc Kidney Cap OPC bát vị được chỉ định dùng cho những trường hợp nào?",
+        "content": "<p>Thuốc KIDNEYCAP® được chỉ định dùng cho người thận dương yếu, với các triệu chứng như váng đầu, ù tai, đau lưng mỏi gối, nửa người dưới thường lạnh, hay đi tiểu đêm, mồ hôi trộm.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00029004",
+        "name": "POKEMINE MEDISUN 20X10ML",
+        "webName": "Dung dịch uống Pokemine 50mg Medisun bổ sung sắt cho bệnh nhân thiếu máu (20 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/pokemine_20x10ml_medisun_00029004_18974a7442.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37079,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 152000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pokemine-medisun-20x10ml-29296.html",
+        "ingredients": "Sắt 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Medisun",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 20 ống X 10ml",
+        "prices": [
+          {
+            "id": 37079,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 152000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 37078,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 7600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00047080",
+        "name": "MYHEMO RELIV 3X10",
+        "webName": "Thuốc Myhemo 305mg Reliv dự phòng thiếu sắt và folic acid (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_myhemo_reliv_3x10_00047080_42c390f09b.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 73453,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 165000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/myhemo-reliv-3-x10.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 100mg",
+        "dosageForm": "Viên bao đường",
+        "brand": "Reliv",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 73453,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 165000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 73454,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 73455,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007450",
+        "name": "TOTHEMA 2X10 ỐNG 10ML",
+        "webName": "Dung dịch Tot'héma Innothera điều trị thiếu máu do sắt (2 vỉ x 10 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04101_788e84a74a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10875,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 120000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tothema-1952.html",
+        "ingredients": "Mangan gluconat 1.33mg, Đồng gluconat 0.7mg, Sắt gluconat 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Innothera",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 10 Ống x 10ml",
+        "prices": [
+          {
+            "id": 10875,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 120000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10873,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10874,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049621",
+        "name": "VITAMIN A-D HDPHARMA 10X10",
+        "webName": "Thuốc Vitamin A-D Hdpharma dùng dự phòng và điều trị các triệu chứng do thiếu vitamin A - D (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_vitamin_a_d_10x10_hdpharma_00049621_f8bba8c44a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 78290,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 32000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vitamin-a-d-hdpharma-10-x10.html",
+        "ingredients": "Vitamin A 5000iu, Vitamin D3 400iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Hdpharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 78290,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 32000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 78291,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 3200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 78292,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 320,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049065",
+        "name": "MAZZGIN DHG PHARMA 10X10",
+        "webName": "Thuốc Mazzgin DHG Pharma điều trị các trường hợp thiếu magnesi riêng biệt hay kết hợp (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_mazzgin_dhg_pharma_10x10_00049065_82218241b8.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 77246,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 53550,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/mazzgin-dhg-pharma-10-x10.html",
+        "ingredients": "Magnesi lactat dihydrat 470mg, Vitamin B6 5mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Dhg",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 77246,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 53550,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 77247,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 5355,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 77248,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 536,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00041155",
+        "name": "CARDIOTON LIPA 6X10",
+        "webName": "Thuốc Cardioton Lipa Pharma điều trị suy tim, tăng huyết áp, bổ sung năng lượng (6 vỉ x 10 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_cardioton_lipa_6x10_00041155_9ecff2b28f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 62161,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 7667,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cardioton-lipa-6-x10.html",
+        "ingredients": "Ubidecarenone 30mg, D-alpha tocopherol 6.71mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "LIPA PHARMACEUTICALSLTD",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 62161,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 62159,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 460000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 62160,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 76667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500658",
+        "name": "ZY-10 FORTE 100MG Y-MED 3X10",
+        "webName": "Thuốc Zy-10 Forte 100mg Y-Med điều trị bệnh suy tim xung huyết, thiếu hụt coenzym Q10 (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/5_9e44bd6ebd.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48922,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 15600,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/zy-10-forte-100mg-hop-3-vi-x-10-vien-ha-tay-34787.html",
+        "ingredients": "Ubidecarenone 100mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Y-MED",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48922,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 15600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 48924,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 468000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 48923,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 156000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 249,
+          "attributeName": "Ấn Độ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/in_India_090039de61.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009723",
+        "name": "BEROCCA BAYER 10V",
+        "webName": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1758_33831b7cab.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12974,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 75000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/berocca-1515.html",
+        "ingredients": "Vitamin B1 15mg, Vitamin B2 15mg, Vitamin B6 10mg, Vitamin B12 0.01mg, Vitamin B3 50mg, Vitamin B5 23mg, Magnesia 100mg, Vitamin C 500mg, Calcium 100mg, Vitamin B8 0.15mg, Kẽm 10mg",
+        "dosageForm": "Viên sủi",
+        "brand": "Bayer",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 12973,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 7500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12974,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 75000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00008451",
+        "name": "LONG HUYẾT PH 2X12 - TAN BẦM TÍM GIẢM PHÙ NỀ",
+        "webName": "Thuốc Long Huyết P/H Phúc Hưng đặc trị tan bầm tím, mau lành vết thương (2 vỉ x 12 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1039_fba416224d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12490,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 47000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/long-huyet-ph-tan-bam-tim-chua-lanh-vet-thuong-1590.html",
+        "ingredients": "Cao khô huyết giác 280mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Phúc Hưng",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 2 vỉ x 12 viên",
+        "prices": [
+          {
+            "id": 12488,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1958,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12489,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 23500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 12490,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 47000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007678",
+        "name": "UPSA-C 10V",
+        "webName": "Viên sủi UPSA-C UPSA SAS hỗ trợ điều trị tình trạng thiếu hụt vitamin C (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1794_11051dc2c2.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11216,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 37000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/upsa-c-1000mg-1878.html",
+        "ingredients": "Vitamin C 1000mg",
+        "dosageForm": "Viên nén sủi bọt",
+        "brand": "Upsa Sas",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 11215,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 3700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11216,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 37000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007180",
+        "name": "TARDYFERON B9 3X10",
+        "webName": "Thuốc Tardyferon B9 Pierre Fabre dự phòng thiếu sắt, acid folic cho phụ nữ có thai (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_tardyferon_b9_3_vi_x_10_vien_pierre_fabre_00007180_aec7b4c600.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10449,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tardyferon-b9-2068.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 50mg",
+        "dosageForm": "Viên nén",
+        "brand": "Pierre Fabre",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 10449,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10451,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 87000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10450,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 29000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006109",
+        "name": "PROCARE DIAMOND 216MG CATALENT 30V",
+        "webName": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_7021_60ee_large_89e91ba6fb.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8834,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 420000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/procare-diamond-216mg-2522.html",
+        "ingredients": "Vitamin B1 5mg, Vitamin B2 5mg, Nicotinamide 5mg, Vitamin D3 200iu, Vitamin B6 5mg, Vitamin B12 10mcg, Vitamin E 10iu, Folic Acid 500mcg, Calcium 59mg, Phosphorus 46.6mg, Magnesium ion 30mg, Vitamin C 50mg, Zinc 8mg, Iron 24mg, Iodine 200mcg, Omega 3 500mg, Betacarotene 1mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "PROCARE",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 30 Viên",
+        "prices": [
+          {
+            "id": 8833,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 14000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 8834,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 420000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 254,
+          "attributeName": "Tây Ban Nha",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/es_Spain_03bf620563.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 14,
+      "items": [
+        {
+          "id": 3305793,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0977xxxxxx",
+          "name": "ĐỖ TRƯỜNG DŨNG",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cho mình hỏi thuốc này uống như nào và trong thời gian bao lâu",
+          "createdAt": "2026-05-12 16:29:17",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-12 16:29:17",
+          "replies": [
+            {
+              "id": 3305795,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thanh Trúc",
+                "moderatorEmail": "trucht5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Thanh Trúc",
+              "email": "trucht5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Dũng,</p><p>Dạ Anh nên duy trì sử dụng theo liệu trình 2 - 3 tháng và nghỉ 1 tháng giữa các liệu trình để cơ thể hấp thu và chuyển hóa các dưỡng chất có trong sản phẩm, sau đó Anh có thể tiếp tục sử dụng tùy theo nhu cầu ạ.</p><p>Nhà thuốc thông tin đến Anh.</p>",
+              "createdAt": "2026-05-12 16:31:50",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-12 16:29:17",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3217162,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0766xxxxxx",
+          "name": "Lưu Xuân Tình",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Còn hàng không ạ?",
+          "createdAt": "2025-11-21 18:04:38",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-21 18:04:38",
+          "replies": [
+            {
+              "id": 3217163,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Mai Anh",
+                "moderatorEmail": "anhnm70@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Mai Anh",
+              "email": "anhnm70@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn <strong>Lưu Xuân Tình</strong>,</p><p> Hiện tại, sản phẩm có giá 62.000đ/ hộp, sản phẩm còn hàng trên hệ thống ạ.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2025-11-21 18:08:31",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-21 18:04:38",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3137741,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0905xxxxxx",
+          "name": "Anh Đô",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này mình uống hổ trợ được không? và uống ngày mấy viên ",
+          "createdAt": "2025-07-02 09:40:22",
+          "createdAtDisplay": "02/07/2025",
+          "updatedAt": "2025-07-02 09:40:19",
+          "replies": [
+            {
+              "id": 3137745,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Vi",
+                "moderatorEmail": "vit2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Vi",
+              "email": "vit2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Đô,</p><p>Dạ sản phẩm là thuốc được dùng cho người thận dương yếu, váng đầu, ù tai, đau lưng mỏi gối, nửa người dưới thường lạnh, hay đi tiểu đêm, mồ hôi trộm, mình có thể dùng và theo dõi thêm, uống mỗi lần 2 viên, ngày 3 lần ạ</p><p>Nhà thuốc thông tin đến anh.</p><p>Thân mến!</p>",
+              "createdAt": "2025-07-02 09:42:15",
+              "createdAtDisplay": "02/07/2025",
+              "updatedAt": "2025-07-02 09:40:19",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3106621,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0359xxxxxx",
+          "name": "Lăng văn điệp",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Huyết áp cao dùng đc ko ạ",
+          "createdAt": "2025-05-12 14:12:53",
+          "createdAtDisplay": "12/05/2025",
+          "updatedAt": "2025-05-12 14:12:53",
+          "replies": [
+            {
+              "id": 3106623,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Quỳnh Chu",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Quỳnh Chu",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Lăng Văn Điệp,</p><p>Dạ mình có thể tham khảo và sử dụng ạ.</p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p>",
+              "createdAt": "2025-05-12 14:14:56",
+              "createdAtDisplay": "12/05/2025",
+              "updatedAt": "2025-05-12 14:12:53",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3011681,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0916xxxxxx",
+          "name": "Nguyễn Hoan",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tôi muốn mua gap 40 hộp Liverbill và 60hộp Kidneycap vào ngày T2  22.12.2024. Ko biết đơn vị nào có thể cung cấp đơn hàng này được ạ",
+          "createdAt": "2024-12-22 09:16:18",
+          "createdAtDisplay": "22/12/2024",
+          "updatedAt": "2024-12-22 09:16:18",
+          "replies": [
+            {
+              "id": 3011686,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Phương",
+                "moderatorEmail": "phuongtt124@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Phương",
+              "email": "phuongtt124@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Nguyễn Hoan,</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2024-12-22 09:20:11",
+              "createdAtDisplay": "22/12/2024",
+              "updatedAt": "2024-12-22 09:16:18",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 2,
+      "items": [
+        {
+          "id": 3362575,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0902xxxxxx",
+          "name": "Ngo Thanh Tung",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc dùng hiệu quả rất tốt! \nĐã dùng từ rất lâu về trước và vẫn đang tin dùng.\nChúc công ty làm ăn phát đạt!",
+          "createdAt": "2026-08-24 07:40:26",
+          "createdAtDisplay": "12 ngày trước",
+          "updatedAt": "2026-08-24 07:40:26",
+          "replies": [
+            {
+              "id": 3362592,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mạc Thị Tuyết Anh",
+                "moderatorEmail": "anhmtt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mạc Thị Tuyết Anh",
+              "email": "anhmtt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Tùng ạ.</p><p>Long Châu rất trân trọng những phản hồi tích cực của Anh về hiệu quả sản phẩm. Sự hài lòng và tin dùng của Anh trong suốt thời gian dài vừa qua chính là động lực lớn nhất để đội ngũ Dược sĩ không ngừng nỗ lực nâng cao chất lượng phục vụ ạ.</p><p>Chúc Anh luôn mạnh khỏe, hạnh phúc và tiếp tục tin tưởng đồng hành cùng Hệ thống nhà thuốc FPT Long Châu ạ.</p>",
+              "createdAt": "2026-08-24 08:16:15",
+              "createdAtDisplay": "12 ngày trước",
+              "updatedAt": "2026-08-24 07:40:26",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3136063,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0333xxxxxx",
+          "name": "Anh Toản",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2025-06-29 15:20:42",
+          "createdAtDisplay": "29/06/2025",
+          "updatedAt": "2025-06-29 15:20:41",
+          "replies": [
+            {
+              "id": 3136064,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Phương Vân",
+                "moderatorEmail": "vanntp@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Phương Vân",
+              "email": "vanntp@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Toản,</p><p>Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu. Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.</p><p>Thân mến!</p>",
+              "createdAt": "2025-06-29 15:21:24",
+              "createdAtDisplay": "29/06/2025",
+              "updatedAt": "2025-06-29 15:20:41",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 2
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Kidneycap OPC bát vị, bổ thận dương dùng cho người váng đầu, ù tai (5 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004142_kidneycap_vien_uong_bo_than_duong_4027_5ea4_large_7d3a756692.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004142_kidneycap_vien_uong_bo_than_duong_3851_5b1e_large_69530c3021.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004142_kidneycap_vien_uong_bo_than_duong_6350_5b1e_large_5baf05a781.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004142_kidneycap_vien_uong_bo_than_duong_8385_5b1e_large_94636e6963.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "KIDNEYCAP® của Công ty Cổ phần Dược phẩm OPC, thành phần chính là Thục địa, Hoài sơn, Sơn thù, Mẫu Đơn bì, Trạch tả, Phụ tử chế, Phục linh, Bột mịn Quế nhục, là thuốc được dùng cho người thận dương yếu, váng đầu, ù tai, đau lưng mỏi gối, nửa người dưới thường lạnh, hay đi tiểu đêm, mồ hôi trộm.\n\nKIDNEYCAP® được bào chế dưới dạng viên nang cứng. Viên nang cứng, bóng, bên ngoài không dính bột. Bên trong có chứa thuốc màu nâu, mùi thơm dược liệu, vị hơi chua. Hộp 5 vỉ x 10 viên.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "2"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/kidneycap-vien-uong-bo-than-duong-227.html",
+        "priceCurrency": "VND",
+        "price": 62000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Thuốc Kidney Cap OPC bát vị, bồi bổ thận dương (5 vỉ x 10 viên)",
+      "description": "Thuốc Kidney Cap OPC là thuốc được dùng cho người thận dương yếu, váng đầu, ù tai, đau lưng mỏi gối, nửa người dưới thường lạnh, hay đi tiểu đêm, mồ hôi trộm.",
+      "openGraph": {
+        "title": "Thuốc Kidneycap OPC bát vị, bổ thận dương dùng cho người váng đầu, ù tai (5 vỉ x 10 viên)",
+        "description": "KIDNEYCAP® của Công ty Cổ phần Dược phẩm OPC, thành phần chính là Thục địa, Hoài sơn, Sơn thù, Mẫu Đơn bì, Trạch tả, Phụ tử chế, Phục linh, Bột mịn Quế nhục, là thuốc được dùng cho người thận dương yếu, váng đầu, ù tai, đau lưng mỏi gối, nửa người dưới thường lạnh, hay đi tiểu đêm, mồ hôi trộm.\n\nKIDNEYCAP® được bào chế dưới dạng viên nang cứng. Viên nang cứng, bóng, bên ngoài không dính bột. Bên trong có chứa thuốc màu nâu, mùi thơm dược liệu, vị hơi chua. Hộp 5 vỉ x 10 viên.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004142_kidneycap_vien_uong_bo_than_duong_4027_5ea4_large_7d3a756692.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/kidneycap-vien-uong-bo-than-duong-227.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/kidneycap-vien-uong-bo-than-duong-227.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

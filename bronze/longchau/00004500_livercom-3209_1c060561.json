@@ -1,0 +1,2141 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/livercom-3209.html",
+  "ingestion_timestamp": "2026-09-05T10:20:15.132991+00:00",
+  "file_hash": "81bdeef4dd3736a3f78eb5433347e2715eea71df760799e3e4d9b4b3c6bf5c88",
+  "lineage_hash": "dc1b0fd316f911a214e6536ba11a8f5a5ec21017d5819ffd00c7fefc1f73855f",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/livercom-3209.html",
+    "product": {
+      "sku": "00004500",
+      "webName": "Viên nang mềm Livercom Hataphar bổ sung vitamin B và hỗ trợ điều trị rối loạn tiêu hóa (12 vỉ x 5 viên)",
+      "name": "LIVERCOM HÀ TÂY 12X5",
+      "shortName": "LIVERCOM HÀ TÂY 12X5",
+      "headingText": "Viên nang mềm Livercom",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_6178_60f0_large_cf215593a0.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_1266_5b42_large_988b67a062.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_5693_5b42_large_e9bdd48354.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_7824_60f1_large_619647de63.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_1626419978_4f123f9b7e.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 736,
+          "name": "Thuốc tiêu hoá & gan mật",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 809,
+          "name": "Thuốc trị bệnh gan",
+          "parentName": "Thuốc tiêu hoá & gan mật",
+          "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Hộp 12 Vỉ x 5 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 2,
+          "productSpecs": "12 Vỉ x 5 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 3,
+          "productSpecs": "5 Viên"
+        }
+      ],
+      "slug": "thuoc/livercom-3209.html",
+      "ingredient": [
+        {
+          "id": 40147,
+          "ingredientId": 13090,
+          "shortDescription": "200mg",
+          "name": "Carduus Marianus",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 40148,
+          "ingredientId": 40316,
+          "shortDescription": "8mg",
+          "name": "Vitamin B1",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b1"
+        },
+        {
+          "id": 40149,
+          "ingredientId": 40324,
+          "shortDescription": "8mg",
+          "name": "Vitamin B2",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b2"
+        },
+        {
+          "id": 40150,
+          "ingredientId": 40333,
+          "shortDescription": "8mg",
+          "name": "Vitamin B6",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 40151,
+          "ingredientId": 40331,
+          "shortDescription": "16mg",
+          "name": "Vitamin B5",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 40152,
+          "ingredientId": 40393,
+          "shortDescription": "24mg",
+          "name": "Vitamin PP",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-17915-12",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang mềm",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc dùng đường uống.</p><h3>Liều dùng</h3><p><i>Người lớn</i></p><p>Uống mỗi lần 1 viên x 3 lần/ngày.</p><p><i>Trẻ em</i></p><p>Uống liều bắt đầu 12mg/kg/24giờ chia 3 lần, sau dùng liều duy trì 8mg/kg/24giờ.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Chưa có báo cáo.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt ngay khi nhớ ra. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc Livercom được chỉ định dùng để bổ sung các vitamin nhóm B và hỗ trợ thêm khi điều trị một số bệnh liên quan dưới đây:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">Rối loạn tiêu hóa</a>, kém ăn, suy nhược cơ thể.</li><li>Rối loạn chức năng gan: Viêm gan cấp và mãn tính, <a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\">xơ gan</a> ở giai đoạn bù trừ chức năng gan, suy gan, gan nhiễm mỡ.</li><li>Trong các trường hợp dùng các thuốc có độc tính đối với gan (sử dụng hóa chất, thuốc kháng sinh, hạ nhiệt giảm đau, thuốc chống lao...).</li><li>Tăng cường chức năng giải độc của gan hỗ trợ điều trị các trường hợp trứng cá, mụn nhọt, dị ứng mãn tính.</li></ul><p>Bệnh nhân mới ốm dậy trong thời kỳ dưỡng bệnh, người bị bệnh mãn tính, bệnh nhân sau phẫu thuật.</p><h3>Dược lực học</h3><p>Chưa có thông tin.</p><h3>Dược động học</h3><p>Chưa có thông tin.</p>",
+      "brand": "Hà Tây",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Livercom, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p>Vitamin B1: Rất hiếm khi xảy ra và thường theo kiểu dị ứng. Các phản ứng quá mẫn xảy ra chủ yếu khi tiêm.</p>\n\n<p>Vitamin B5: Có gây phản ứng dị ứng nhưng hiếm gặp.</p>\n\n<p>Vitamin B2: Trong thời gian dùng thuốc nước tiểu có thể có màu vàng vì có chứa vitamin B2, gây sai lệch đối với một số xét nghiệm nước tiểu trong phòng thí nghiệm, khi ngừng thuốc sẽ hết.</p>\n\n<p>Vitamin B6: Dùng liều 200mg/ngày và dài ngày (trên 2 tháng) có thể gây bệnh thần kinh ngoại vi nặng, tiến triển từ dáng đi không vững và tê cóng bàn chân đến tê cóng và vụng về bàn tay. Tình trạng này có thể hồi phục khi ngừng thuốc, mặc dù vẫn để lại di chứng. Hiếm gặp: Nôn, buồn nôn.</p>\n\n<p>Vitamin PP: Liều nhỏ vitamin PP thường không độc, tuy nhiên nếu dùng liều cao (trong trường hợp điều trị bệnh pellagra), có thể xảy ra một số tác dụng phụ sau, những tác dụng phụ này sẽ hết khi ngừng thuốc.</p>\n\n<p><em>Thường gặp</em></p>\n\n<ul>\n\t<li>Tiêu hóa (buồn nôn), khác (đỏ bừng mặt và cổ, ngứa, cảm giác rát bỏng, buốt hoặc đau nhói ở da).</li>\n</ul>\n\n<p><em>Ít gặp</em></p>\n\n<ul>\n\t<li>Tiêu hóa (<a href=\"https://nhathuoclongchau.com.vn/benh/loet-da-day-ta-trang-580.html\">loét dạ dày</a> tiến triển, nôn, chán ăn, đau khi đói, đầy hơi, tiêu chảy), da (khô da, tăng sắc tố, vàng da), chuyển hóa (suy gan, giảm dung nạp glucose, tăng tiết tuyến bã nhờn, làm bệnh gút nặng thêm), khác (tăng glucose huyết, tăng acid uric huyết, cơn phế vị - huyết quản, đau đầu và nhìn mờ, <a href=\"https://nhathuoclongchau.com.vn/benh/huyet-ap-thap-592.html\">hạ huyết áp</a>, chóng mặt, tim đập nhanh, ngất).</li>\n</ul>\n\n<p><em>Hiếm gặp</em></p>\n\n<ul>\n\t<li>Lo lắng, hốt hoảng, glucose niệu, chức năng bất bình thường (bao gồm tăng bilirubin huyết thanh, tăng [AST (SGOP), ALT (SGPT) và LDH], thời gian prothrombin bất bình thường, hạ albumin huyết, choáng phản vệ).</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Thông báo cho bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Hộp 12 Vỉ x 5 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "HÀ TÂY",
+      "shortDescription": "<p>Thuốc Livercom là sản phẩm được sản xuất bởi Công ty Cổ phần Dược phẩm Hà Tây, thuốc được dùng bổ sung vitamin nhóm B và hỗ trợ điều trị rối loạn chức năng gan, giải độc gan…</p>\n\n<p style=\"text-align:justify;\">Thuốc Livercom được bào chế dưới dạng viên nang mềm. Quy cách đóng gói: Hộp 12 vỉ x 5 viên.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Trên 12 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ cho con bú",
+        "Phụ nữ có thai",
+        "Trẻ em"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/ha-tay",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "LIVERCOM",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 3,
+        "productSpecs": "5 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 809,
+        "name": "Thuốc trị bệnh gan",
+        "parentName": "Thuốc tiêu hoá & gan mật",
+        "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_6178_60f0_large_cf215593a0.jpg",
+          "alternativeText": "Viên nang mềm Livercom Hataphar bổ sung vitamin B và hỗ trợ điều trị rối loạn tiêu hóa (12 vỉ x 5 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_1266_5b42_large_988b67a062.JPG",
+          "alternativeText": "Viên nang mềm Livercom Hataphar bổ sung vitamin B và hỗ trợ điều trị rối loạn tiêu hóa (12 vỉ x 5 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_5693_5b42_large_e9bdd48354.JPG",
+          "alternativeText": "Viên nang mềm Livercom Hataphar bổ sung vitamin B và hỗ trợ điều trị rối loạn tiêu hóa (12 vỉ x 5 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_7824_60f1_large_619647de63.jpg",
+          "alternativeText": "Viên nang mềm Livercom Hataphar bổ sung vitamin B và hỗ trợ điều trị rối loạn tiêu hóa (12 vỉ x 5 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_1626419978_4f123f9b7e.jpg",
+          "alternativeText": "Viên nang mềm Livercom Hataphar bổ sung vitamin B và hỗ trợ điều trị rối loạn tiêu hóa (12 vỉ x 5 viên) 5"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiêu hoá & gan mật",
+        "slug": "/thuoc/thuoc-tieu-hoa-and-gan-mat"
+      },
+      {
+        "name": "Thuốc trị bệnh gan",
+        "slug": "/thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan"
+      }
+    ],
+    "content": {
+      "sku": "00004500",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc dùng đường uống.</p><h3>Liều dùng</h3><p><i>Người lớn</i></p><p>Uống mỗi lần 1 viên x 3 lần/ngày.</p><p><i>Trẻ em</i></p><p>Uống liều bắt đầu 12mg/kg/24giờ chia 3 lần, sau dùng liều duy trì 8mg/kg/24giờ.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Chưa có báo cáo.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt ngay khi nhớ ra. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Livercom.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Livercom, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p>Vitamin B1: Rất hiếm khi xảy ra và thường theo kiểu dị ứng. Các phản ứng quá mẫn xảy ra chủ yếu khi tiêm.</p>\n\n<p>Vitamin B5: Có gây phản ứng dị ứng nhưng hiếm gặp.</p>\n\n<p>Vitamin B2: Trong thời gian dùng thuốc nước tiểu có thể có màu vàng vì có chứa vitamin B2, gây sai lệch đối với một số xét nghiệm nước tiểu trong phòng thí nghiệm, khi ngừng thuốc sẽ hết.</p>\n\n<p>Vitamin B6: Dùng liều 200mg/ngày và dài ngày (trên 2 tháng) có thể gây bệnh thần kinh ngoại vi nặng, tiến triển từ dáng đi không vững và tê cóng bàn chân đến tê cóng và vụng về bàn tay. Tình trạng này có thể hồi phục khi ngừng thuốc, mặc dù vẫn để lại di chứng. Hiếm gặp: Nôn, buồn nôn.</p>\n\n<p>Vitamin PP: Liều nhỏ vitamin PP thường không độc, tuy nhiên nếu dùng liều cao (trong trường hợp điều trị bệnh pellagra), có thể xảy ra một số tác dụng phụ sau, những tác dụng phụ này sẽ hết khi ngừng thuốc.</p>\n\n<p><em>Thường gặp</em></p>\n\n<ul>\n\t<li>Tiêu hóa (buồn nôn), khác (đỏ bừng mặt và cổ, ngứa, cảm giác rát bỏng, buốt hoặc đau nhói ở da).</li>\n</ul>\n\n<p><em>Ít gặp</em></p>\n\n<ul>\n\t<li>Tiêu hóa (<a href=\"https://nhathuoclongchau.com.vn/benh/loet-da-day-ta-trang-580.html\">loét dạ dày</a> tiến triển, nôn, chán ăn, đau khi đói, đầy hơi, tiêu chảy), da (khô da, tăng sắc tố, vàng da), chuyển hóa (suy gan, giảm dung nạp glucose, tăng tiết tuyến bã nhờn, làm bệnh gút nặng thêm), khác (tăng glucose huyết, tăng acid uric huyết, cơn phế vị - huyết quản, đau đầu và nhìn mờ, <a href=\"https://nhathuoclongchau.com.vn/benh/huyet-ap-thap-592.html\">hạ huyết áp</a>, chóng mặt, tim đập nhanh, ngất).</li>\n</ul>\n\n<p><em>Hiếm gặp</em></p>\n\n<ul>\n\t<li>Lo lắng, hốt hoảng, glucose niệu, chức năng bất bình thường (bao gồm tăng bilirubin huyết thanh, tăng [AST (SGOP), ALT (SGPT) và LDH], thời gian prothrombin bất bình thường, hạ albumin huyết, choáng phản vệ).</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Thông báo cho bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p style=\"text-align:justify;\">Nơi khô, nhiệt độ dưới 25<sup>o</sup>C.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc Livercom được chỉ định dùng để bổ sung các vitamin nhóm B và hỗ trợ thêm khi điều trị một số bệnh liên quan dưới đây:</p><ul><li><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">Rối loạn tiêu hóa</a>, kém ăn, suy nhược cơ thể.</li><li>Rối loạn chức năng gan: Viêm gan cấp và mãn tính, <a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\">xơ gan</a> ở giai đoạn bù trừ chức năng gan, suy gan, gan nhiễm mỡ.</li><li>Trong các trường hợp dùng các thuốc có độc tính đối với gan (sử dụng hóa chất, thuốc kháng sinh, hạ nhiệt giảm đau, thuốc chống lao...).</li><li>Tăng cường chức năng giải độc của gan hỗ trợ điều trị các trường hợp trứng cá, mụn nhọt, dị ứng mãn tính.</li></ul><p>Bệnh nhân mới ốm dậy trong thời kỳ dưỡng bệnh, người bị bệnh mãn tính, bệnh nhân sau phẫu thuật.</p><h3>Dược lực học</h3><p>Chưa có thông tin.</p><h3>Dược động học</h3><p>Chưa có thông tin.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p>Thuốc Livercom chống chỉ định trong các trường hợp sau:</p><p>Mẫn cảm với một trong các thành phần của thuốc, bệnh nhân bị tác ống dẫn mật.</p><p>Vitamin PP: Bệnh gan nặng, loét dạ dày tiến triển, xuất huyết động mạch, hạ huyết áp nặng.</p><h3>Thận trọng khi sử dụng</h3><p>Trẻ em dưới 4 tuổi</p><p>Vitamin B6: Sau thời gian dài dùng vitamin B6 với liều 200mg/ngày, có thể thấy các biểu hiện độc tính thần kinh (như bệnh thần kinh ngoại vi nặng và bệnh thần kinh cảm giác nặng). Dùng liều 200mg vitamin B6/ngày kéo dài trên 30 ngày có thể gây hội chứng lệ thuộc pyridoxin.</p><p>Vitamin PP: Thận trọng khi dùng vitamin PP liều cao cho những trường hợp sau: Tiền sử loét dạ dày, bệnh túi mật, tiền sử có vàng da hoặc bệnh gan, bệnh gút, viêm khớp do gút và bệnh đái tháo đường.</p><p>Vitamin B1: Những người dị ứng với penicillin dễ có dị ứng với vitamin B1 và ngược lại.</p><p>Vitamin B5: Có thể kéo dài thời gian chảy máu nên phải sử dụng rất thận trọng ở người có bệnh ưa chảy máu hoặc có nguy cơ chảy máu khác.</p><h3>Khả năng lái xe và vận hành máy móc</h3><p>Chưa có báo cáo.</p><h3>Thời kỳ mang thai&nbsp;</h3><p>Thuốc dùng được cho phụ nữ có thai.</p><h3>Thời kỳ cho con bú</h3><p>Thuốc dùng được cho phụ nữ cho con bú.</p><h3>Tương tác thuốc</h3><p>Vitamin B2: Không uống thuốc với rượu và các chế phẩm có chứa ethanol, probenecid vì có thể gây cản trở hấp thu vitamin B2 ở ruột và dạ dày.</p><p>Vitamin B6: Ức chế làm giảm tác dụng của levodopa trong điều trị bệnh Parkingson.</p><p>Vitamin PP: Không dùng đồng thời với các thuốc chẹn alpha - adrenergic trị tăng huyết áp có thể dẫn đến hạ huyết áp quá mức. Khẩu phần ăn hoặc liều lượng thuốc uống hạ đường huyết hoặc insulin. Có thể cần phải điều chỉnh khi sử dụng đồng thời với vitamin PP. Sử dụng thuốc đồng thời với các thuốc có độc tính với gan có thể làm tăng thêm tác hại độc cho gan.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Livercom Hà Tây bổ sung Vitamin B, giải độc gan",
+        "metaDescription": "Thuốc Livercom Hà Tây là sản phẩm được sản xuất bởi Công ty Cổ phần Dược phẩm Hà Tây, thuốc được dùng bổ sung vitamin nhóm B và hỗ trợ điều trị rối loạn chức năng gan, giải độc gan…",
+        "id": 2084,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_6178_60f0_large_cf215593a0.jpg",
+              "alternativeText": null
+            },
+            "title": "Viên nang mềm Livercom Hataphar bổ sung vitamin B và hỗ trợ điều trị rối loạn tiêu hóa (12 vỉ x 5 viên)",
+            "description": "Thuốc Livercom là sản phẩm được sản xuất bởi Công ty Cổ phần Dược phẩm Hà Tây, thuốc được dùng bổ sung vitamin nhóm B và hỗ trợ điều trị rối loạn chức năng gan, giải độc gan…\n\nThuốc Livercom được bào chế dưới dạng viên nang mềm. Quy cách đóng gói: Hộp 12 vỉ x 5 viên."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 35138,
+        "title": "Thuốc Livercom được chỉ định dùng trong những trường hợp nào?",
+        "content": "<p>Thuốc Livercom được chỉ định cho các trường hợp như rối loạn tiêu hóa, kém ăn, suy nhược cơ thể, viêm gan cấp và mãn tính, xơ gan ở giai đoạn bù trừ chức năng gan, suy gan, gan nhiễm mỡ. Ngoài ra, thuốc còn dùng cho người sử dụng các thuốc có độc tính đối với gan, giúp tăng cường giải độc gan, và hỗ trợ bệnh nhân mới ốm dậy, bệnh mãn tính, sau phẫu thuật.</p>"
+      },
+      {
+        "id": 35137,
+        "title": "Thuốc Livercom có những thành phần chính nào?",
+        "content": "<p>Viên nang mềm Livercom chứa thành phần chính là Carduus Marianus với hàm lượng 200mg. Bên cạnh đó, thuốc còn bổ sung các vitamin nhóm B thiết yếu bao gồm Vitamin B1 (8mg), Vitamin B2 (8mg), Vitamin B6 (8mg), Vitamin B5 (16mg) và Vitamin PP (24mg). Các thành phần này cùng nhau hỗ trợ các chức năng chuyển hóa của cơ thể và bảo vệ gan.</p>"
+      },
+      {
+        "id": 35136,
+        "title": "Liều dùng và cách dùng của thuốc Livercom như thế nào?",
+        "content": "<p>Thuốc Livercom được dùng bằng đường uống. Đối với người lớn, liều khuyến cáo là uống 1 viên, 3 lần mỗi ngày. Trẻ em có liều bắt đầu là 12mg/kg/24giờ chia 3 lần, sau đó dùng liều duy trì 8mg/kg/24giờ. Lưu ý rằng liều dùng này chỉ mang tính chất tham khảo. Để có liều dùng phù hợp và an toàn nhất, bạn cần tham khảo ý kiến của bác sĩ hoặc chuyên viên y tế dựa trên tình trạng sức khỏe cụ thể.</p>"
+      },
+      {
+        "id": 35135,
+        "title": "Các tác dụng phụ thường gặp hoặc đáng lưu ý khi sử dụng Livercom là gì?",
+        "content": "<p>Khi sử dụng Livercom, bạn có thể gặp một số tác dụng không mong muốn (ADR). Vitamin B2 có thể làm nước tiểu có màu vàng. Vitamin B6 dùng liều 200mg/ngày và dài ngày (trên 2 tháng) có thể gây bệnh thần kinh ngoại vi nặng. Đối với Vitamin PP, liều cao có thể gây buồn nôn, đỏ bừng mặt và cổ, ngứa, cảm giác rát bỏng, buốt hoặc đau nhói ở da (thường gặp). Ít gặp hơn có thể là loét dạ dày tiến triển, suy gan hoặc tăng glucose huyết. Cần thông báo ngay cho bác sĩ nếu gặp bất kỳ tác dụng không mong muốn nào.</p>"
+      },
+      {
+        "id": 35129,
+        "title": "Ai không nên sử dụng thuốc Livercom hoặc cần thận trọng khi dùng?",
+        "content": "<p>Thuốc Livercom chống chỉ định cho người mẫn cảm với một trong các thành phần của thuốc hoặc bệnh nhân bị tắc ống dẫn mật. Đối với thành phần Vitamin PP, không dùng cho người bị bệnh gan nặng, loét dạ dày tiến triển, xuất huyết động mạch, hoặc hạ huyết áp nặng. Cần thận trọng khi dùng cho trẻ em dưới 4 tuổi (do nguy cơ độc tính thần kinh của Vitamin B6), người có tiền sử loét dạ dày, bệnh túi mật, bệnh gút, hoặc đái tháo đường (khi dùng Vitamin PP liều cao). Thuốc này cần có kê toa của bác sĩ.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00500235",
+        "name": "BỔ GAN TRƯỜNG PHÚC 3X10",
+        "webName": "Thuốc Bổ Gan Trường Phúc giải độc gan, chống dị ứng, mày đay, lở ngứa (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500235_bo_gan_truong_phuc_3x10_7485_6293_large_b117663369.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48090,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 99000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bo-gan-truong-phuc-3x10-34370.html",
+        "ingredients": "Diệp hạ châu 1.2g, Đảng Sâm 1.2g, Bạch truật 0.6g, Cam thảo 0.6g, Phục Linh 0.6g, Nhân trần 1.2g, Trần bì 0.6g",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "TRƯỜNG PHÚC",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48090,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 99000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00502581",
+        "name": "LIVOLIN FORTE MEGA 3X10",
+        "webName": "Thuốc Livolin Forte Mega We Care điều trị viêm gan cấp, bán cấp và viêm gan mạn tính, xơ gan (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03127_3007d4ce18.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 52643,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 4967,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-livolin-forte-mega-lifesciences-hop-3-vi-x-10-vien-36849.html",
+        "ingredients": "Phospholipids thiết yếu 300mg, Vitamin B1 10mg, Vitamin B2 6mg, Vitamin B6 10mg, Vitamin B12 (Cyanocobalamin) 10mcg, Nicotinamide 30mg, Vitamin E acetate 10mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "MEGA We care",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 52644,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 49667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 52645,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 149000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 52643,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 4967,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 262,
+          "attributeName": "Thái Lan",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/th_Thailand_cdaa8c1601.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500008",
+        "name": "ANBALIV 400 PHƯƠNG ĐÔNG PHARMA 6X10",
+        "webName": "Thuốc Anbaliv Phương Đông hỗ trợ điều trị các bệnh về gan (6 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/anbaliv_314037c30b.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 47609,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 660000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/anbaliv-400-phuong-dong-pharma-6-vi-x-10-vien-34083.html",
+        "ingredients": "Silymarin 400mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Phương Đông",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 47608,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 110000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 47607,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 11000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 47609,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 660000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001374",
+        "name": "BOGANIC FORTE TRAPHACO 5X10",
+        "webName": "Thuốc Boganic Forte Traphaco bổ gan, hỗ trợ điều trị suy giảm chức năng gan (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1906_6bb1369184.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1466,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 115000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/boganic-forte-bo-gan-giai-doc-mat-gan-531.html",
+        "ingredients": "Bìm Bìm 13.6mg, Rau đắng đất 128mg, Cao khô actiso 170mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Traphaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 5 vỉ x 10 viên",
+        "prices": [
+          {
+            "id": 1464,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 2300,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1466,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 115000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 1465,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 23000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00010272",
+        "name": "SILYGAMMA 150MG WORWAG 4X25",
+        "webName": "Thuốc Silygamma 150mg Worwag điều trị viêm gan mãn tính, xơ gan (4 vỉ x 25 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010272_silygamma_150mg_3112_5b21_large_88e8a155af.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 13923,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 5700,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/silygamma-150mg-1333.html",
+        "ingredients": "Silymarin 150mg",
+        "dosageForm": "Viên nén bao",
+        "brand": "Worwag",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 4 Vỉ x 25 Viên",
+        "prices": [
+          {
+            "id": 13924,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 142500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 13925,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 570000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 13923,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00004514",
+        "name": "LIVOSIL 140MG 8X15",
+        "webName": "Viên nang cứng Livosil 140mg aconitum hỗ trợ điều trị viêm gan mạn tính, xơ gan (8 vỉ x 15 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004514_livosil_140mg_6649_5b56_large_fdc4a81ab6.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 6322,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 6900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/livosil-140mg-3199.html",
+        "ingredients": "Silymarin 140mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "aconitum",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 8 Vỉ x 15 Viên",
+        "prices": [
+          {
+            "id": 6322,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 6900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 6323,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 103500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 6324,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 828000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 195,
+          "attributeName": "Litva",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/lt_Lithuania_917ee86ad8.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001147",
+        "name": "BAR PHARMEDIC 180V - THUỐC LỢI GAN MẬT",
+        "webName": "Thuốc lợi gan mật Bar Pharmedic điều trị các bệnh về gan (180 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2039_a4d58cbfdd.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1100,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 70000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bar-180-4571.html",
+        "ingredients": "Rau đắng đất 75mg, Bìm Bìm 75mg, Atisô 100mg",
+        "dosageForm": "Viên nén bao đường",
+        "brand": "Pharmedic",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 180 viên",
+        "prices": [
+          {
+            "id": 1099,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 389,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1100,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 70000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00013883",
+        "name": "BOGANIC VBP TRAPHACO 5X20",
+        "webName": "Thuốc Boganic Traphaco bổ gan, hỗ trợ điều trị suy giảm chức năng gan (5 vỉ x 20 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6561_895514cecd.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 16508,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 80000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/boganic-vien-nen-100v-bao-phim-15828.html",
+        "ingredients": "Cao khô bìm bìm 6.4mg, Cao khô rau đắng đất 64mg, Cao khô actisô ep 85mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Traphaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 20 Viên",
+        "prices": [
+          {
+            "id": 16508,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 80000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 16507,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 16000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 16506,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 800,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007844",
+        "name": "VG-5 DANAPHA 40V",
+        "webName": "Thuốc VG-5 Danapha điều trị hạ men gan, viêm gan (40 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3100_179f9cdb03.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11520,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 40000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vg-5-lo-40v-16764.html",
+        "ingredients": "Râu bắp 50mg, Cỏ nhọ nồi 50mg, Nhân trần 130mg, Diệp hạ châu 100mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Danapha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 2.3613910000000002,
+        "specification": "Hộp 40 Viên",
+        "prices": [
+          {
+            "id": 11519,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11520,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 40000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006716",
+        "name": "SILYMAX F 140 MEDIPLANTEX 6X10",
+        "webName": "Thuốc Silymax-F Mediplantex điều trị viêm gan do virus, xơ gan (6 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006716_silymax_f_140_6x10_8257_5bba_large_291f92975a.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 9787,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 132000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/silymax-f-140-6x10-16885.html",
+        "ingredients": "Silymarin 140mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Mediplantex",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 9785,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 9786,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 22000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 9787,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 132000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00022477",
+        "name": "VIHACAPS 600MG MINSKINTERCAPS 5X10",
+        "webName": "Thuốc Vihacaps 600 Minskintercaps cải thiện triệu chứng bệnh lý gan (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00022477_vihacaps_600mg_minskintercaps_5x10_3825_6095_large_6ed858b31d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 28846,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 9520,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-vihacaps-600mg-minskintercaps-cai-thien-trieu-chung-benh-ly-gan-50-vien-22805.html",
+        "ingredients": "Phospholipid đậu nành 600mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Minskintercaps",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 28846,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 9520,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 28847,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 95200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 28848,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 476000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 57,
+          "attributeName": "Belarus",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/by_Belarus_0c1f9f5c55.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00029481",
+        "name": "A.T SILYMARIN 117MG AN THIÊN 3X10",
+        "webName": "Thuốc A.T Silymarin 117mg An Thiên hỗ trợ điều trị bệnh viêm gan mạn tính, xơ gan (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/a_t_silymarin_117mg_3x10_an_thien_00029481_86eaa662de.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 38119,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 165000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/at-silymarin-v-117mg-29647.html",
+        "ingredients": "Silymarin 117mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "An Thiên",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 38118,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 38117,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 5500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 38119,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 165000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 26,
+      "items": [
+        {
+          "id": 3302791,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0929xxxxxx",
+          "name": "chị liễu",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 hộp vậy em",
+          "createdAt": "2026-05-06 19:30:17",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-05-06 19:30:17",
+          "replies": [
+            {
+              "id": 3302799,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thanh Ngọc",
+                "moderatorEmail": "ngocht18@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Thanh Ngọc",
+              "email": "ngocht18@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Liễu,</p><p> Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-05-06 19:35:07",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-05-06 19:30:17",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3158282,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0399xxxxxx",
+          "name": "Khoa",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "có bán chưa? 1 hộp nhiu",
+          "createdAt": "2025-08-07 09:05:55",
+          "createdAtDisplay": "07/08/2025",
+          "updatedAt": "2025-08-07 09:05:55",
+          "replies": [
+            {
+              "id": 3158285,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Chu Thị Quỳnh",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Chu Thị Quỳnh",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Khoa, </p><p>Dạ bạn có thể tham khảo sản phẩm tương tự là Viên uống Ocavill hỗ trợ tăng cường chức năng gan, giải độc gan, bảo vệ gan (4 vỉ x 15 viên) có giá 550,000đ/ hộp, tham khảo thêm thông tin sản phẩm tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/vien-uong-tang-cuong-chuc-nang-gan-ocavill-60-v.html\" rel=\"noopener noreferrer\" target=\"_blank\">link</a></u></strong>.</p><p>Sản phẩm được sản xuất bởi LUSTREL LABORATOIRES tại Pháp</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-08-07 09:06:50",
+              "createdAtDisplay": "07/08/2025",
+              "updatedAt": "2025-08-07 09:05:55",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3125145,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0387xxxxxx",
+          "name": "Chị Phượng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá bao nhiêu ạ?",
+          "createdAt": "2025-06-11 12:17:20",
+          "createdAtDisplay": "11/06/2025",
+          "updatedAt": "2025-06-11 12:17:15",
+          "replies": [
+            {
+              "id": 3125147,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thuỳ Linh",
+                "moderatorEmail": "linhntt77@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thuỳ Linh",
+              "email": "linhntt77@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Phượng,</p><p>Dạ chị có thể tham khảo sản phẩm tương tự là Viên uống Ocavill hỗ trợ tăng cường chức năng gan, giải độc gan, bảo vệ gan (4 vỉ x 15 viên) có giá 550,000đ/ hộp, tham khảo thêm thông tin sản phẩm tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/vien-uong-tang-cuong-chuc-nang-gan-ocavill-60-v.html\" rel=\"noopener noreferrer\" target=\"_blank\">link</a></u></strong>.</p><p>Sản phẩm được sản xuất bởi LUSTREL LABORATOIRES tại Pháp</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT chị đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-06-11 12:19:00",
+              "createdAtDisplay": "11/06/2025",
+              "updatedAt": "2025-06-11 12:17:15",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3099601,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0364xxxxxx",
+          "name": "ANH PHÚ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này ở Phú Riềng còn ko ",
+          "createdAt": "2025-04-30 19:19:20",
+          "createdAtDisplay": "30/04/2025",
+          "updatedAt": "2025-04-30 19:19:20",
+          "replies": [
+            {
+              "id": 3099602,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Đoàn Anh Thư",
+                "moderatorEmail": "thumda@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mai Đoàn Anh Thư",
+              "email": "thumda@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh PHÚ,</p><p>Dạ anh có thể tham khảo sản phẩm tương tự là Viên uống Ocavill hỗ trợ tăng cường chức năng gan, giải độc gan, bảo vệ gan (4 vỉ x 15 viên), tham khảo thêm thông tin sản phẩm tại<strong>&nbsp;<u><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/vien-uong-tang-cuong-chuc-nang-gan-ocavill-60-v.html\" rel=\"noopener noreferrer\" target=\"_blank\">link</a></u></strong>.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT anh đã để lại ạ.</p><p>Thân mến</p>",
+              "createdAt": "2025-04-30 19:20:20",
+              "createdAtDisplay": "30/04/2025",
+              "updatedAt": "2025-04-30 19:19:20",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3063736,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0969xxxxxx",
+          "name": "chi HANG",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cho e hỏi thuốc này còn ở đaklak ko ạ?",
+          "createdAt": "2025-03-08 19:58:19",
+          "createdAtDisplay": "08/03/2025",
+          "updatedAt": "2025-03-08 19:58:20",
+          "replies": [
+            {
+              "id": 3063737,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Minh Hằng",
+                "moderatorEmail": "hangnm31@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Minh Hằng",
+              "email": "hangnm31@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hang,</p><p>Dạ chị có thể tham khảo sản phẩm tương tự là Viên uống Ocavill hỗ trợ tăng cường chức năng gan, giải độc gan, bảo vệ gan (4 vỉ x 15 viên), tham khảo thêm thông tin sản phẩm tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/vien-uong-tang-cuong-chuc-nang-gan-ocavill-60-v.html\" rel=\"noopener noreferrer\" target=\"_blank\">link</a></u></strong>.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT chị đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-03-08 20:00:24",
+              "createdAtDisplay": "08/03/2025",
+              "updatedAt": "2025-03-08 19:58:20",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 7,
+      "items": [
+        {
+          "id": 3282094,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0899xxxxxx",
+          "name": "Đặng Văn Khang",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này còn ko",
+          "createdAt": "2026-03-29 17:46:12",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-29 17:46:12",
+          "replies": [
+            {
+              "id": 3282097,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Thuỳ Trang",
+                "moderatorEmail": "trangttt64@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Thuỳ Trang",
+              "email": "trangttt64@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Khang,</p><p> Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-03-29 17:50:36",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-29 17:46:12",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3271282,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0988xxxxxx",
+          "name": "Anh Lợi",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "ko tim thay thuoc",
+          "createdAt": "2026-03-10 09:15:13",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-10 09:15:13",
+          "replies": [
+            {
+              "id": 3271288,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Đỗ Diệp Minh",
+                "moderatorEmail": "minhdd38@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Đỗ Diệp Minh",
+              "email": "minhdd38@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Lợi,</p><p>Nhà thuốc có hỗ trợ tư vấn </p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với Anh qua số điện thoại đã cung cấp ạ.</p>",
+              "createdAt": "2026-03-10 09:19:22",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-10 09:15:13",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3180659,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0395xxxxxx",
+          "name": "anh Tiến",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này có ko",
+          "createdAt": "2025-09-15 21:07:37",
+          "createdAtDisplay": "11 tháng trước",
+          "updatedAt": "2025-09-15 21:07:32",
+          "replies": [
+            {
+              "id": 3180661,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Khánh Huyền",
+                "moderatorEmail": "huyenttk13@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Khánh Huyền",
+              "email": "huyenttk13@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Tiến</p><p>Dạ rất tiếc với sản phẩm này tạm thời nhà thuốc đang chưa hỗ trợ cho anh ngay được. Mong bạn thông cảm. Bất cứ khi nào cần hỗ trợ anh vui lòng liên hệ tổng đài miễn phí 18006928 để được hỗ trợ chi tiết hơn ạ. Thân mến!</p>",
+              "createdAt": "2025-09-15 21:11:24",
+              "createdAtDisplay": "11 tháng trước",
+              "updatedAt": "2025-09-15 21:07:32",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3173791,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0967xxxxxx",
+          "name": "anh Ân",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc về hàng chưa ạ",
+          "createdAt": "2025-09-04 06:45:37",
+          "createdAtDisplay": "04/09/2025",
+          "updatedAt": "2025-09-04 06:45:20",
+          "replies": [
+            {
+              "id": 3173816,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lưu Quỳnh Trang",
+                "moderatorEmail": "tranglq6@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lưu Quỳnh Trang",
+              "email": "tranglq6@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Ân,</p><p>Dạ, hiện tại sản phẩm Viên nang mềm Livercom Hataphar bổ sung vitamin B và hỗ trợ điều trị rối loạn tiêu hóa&nbsp;đang trong quá trình chờ bổ sung từ nhà cung cấp. anh có thể tham khảo sản phẩm tương tự là Viên uống Ocavill hỗ trợ tăng cường chức năng gan, giải độc gan, bảo vệ gan.</p><p>Sản phẩm được sản xuất bởi LUSTREL LABORATOIRES tại Pháp , xem thêm thông tin tại <a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/vien-uong-tang-cuong-chuc-nang-gan-ocavill-60-v.html\" rel=\"noopener noreferrer\" target=\"_blank\">link</a>.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-09-04 08:13:03",
+              "createdAtDisplay": "04/09/2025",
+              "updatedAt": "2025-09-04 06:45:20",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3085524,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0943xxxxxx",
+          "name": "Anh Thế",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc hết 1 năm rồi nà ko nhập về đến chịu",
+          "createdAt": "2025-04-09 11:15:43",
+          "createdAtDisplay": "09/04/2025",
+          "updatedAt": "2025-04-09 11:15:43",
+          "replies": [
+            {
+              "id": 3085526,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Anh Mac Thi Tuyet ",
+                "moderatorEmail": "anhmtt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Anh Mac Thi Tuyet ",
+              "email": "anhmtt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Thế,</p><p>Dạ anh có thể tham khảo sản phẩm tương tự là Viên uống Ocavill hỗ trợ tăng cường chức năng gan, giải độc gan, bảo vệ gan (4 vỉ x 15 viên), tham khảo thêm thông tin sản phẩm tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/vien-uong-tang-cuong-chuc-nang-gan-ocavill-60-v.html\" rel=\"noopener noreferrer\" target=\"_blank\">link</a></u></strong>.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT anh đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-04-09 11:17:09",
+              "createdAtDisplay": "09/04/2025",
+              "updatedAt": "2025-04-09 11:15:43",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 4.7,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 1,
+        "totalLv4": 0,
+        "totalLv5": 6
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Viên nang mềm Livercom Hataphar bổ sung vitamin B và hỗ trợ điều trị rối loạn tiêu hóa (12 vỉ x 5 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_6178_60f0_large_cf215593a0.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_1266_5b42_large_988b67a062.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_5693_5b42_large_e9bdd48354.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_7824_60f1_large_619647de63.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Livercom là sản phẩm được sản xuất bởi Công ty Cổ phần Dược phẩm Hà Tây, thuốc được dùng bổ sung vitamin nhóm B và hỗ trợ điều trị rối loạn chức năng gan, giải độc gan…\n\nThuốc Livercom được bào chế dưới dạng viên nang mềm. Quy cách đóng gói: Hộp 12 vỉ x 5 viên.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.7",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "reviewCount": "7"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Livercom Hà Tây bổ sung Vitamin B, giải độc gan",
+      "description": "Thuốc Livercom Hà Tây là sản phẩm được sản xuất bởi Công ty Cổ phần Dược phẩm Hà Tây, thuốc được dùng bổ sung vitamin nhóm B và hỗ trợ điều trị rối loạn chức năng gan, giải độc gan…",
+      "openGraph": {
+        "title": "Viên nang mềm Livercom Hataphar bổ sung vitamin B và hỗ trợ điều trị rối loạn tiêu hóa (12 vỉ x 5 viên)",
+        "description": "Thuốc Livercom là sản phẩm được sản xuất bởi Công ty Cổ phần Dược phẩm Hà Tây, thuốc được dùng bổ sung vitamin nhóm B và hỗ trợ điều trị rối loạn chức năng gan, giải độc gan…\n\nThuốc Livercom được bào chế dưới dạng viên nang mềm. Quy cách đóng gói: Hộp 12 vỉ x 5 viên.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004500_livercom_6178_60f0_large_cf215593a0.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/livercom-3209.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/livercom-3209.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

@@ -1,0 +1,1416 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/thap-toan-dai-bo-hoan-2015.html",
+  "ingestion_timestamp": "2026-09-05T09:53:48.420224+00:00",
+  "file_hash": "3c33add645273627e5071786f65643f3f76252fe6289893ae39960b18a3f7c61",
+  "lineage_hash": "5aa5396318d072f16ce3930d27f5a1f46ac1553a6510d361396a8eac598e8340",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/thap-toan-dai-bo-hoan-2015.html",
+    "product": {
+      "sku": "00007287",
+      "webName": "Thuốc Thập Toàn Đại Bổ Traphaco bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực (1 vỉ x 10 viên)",
+      "name": "HOÀN THẬP TOÀN ĐẠI BỔ TRAPHACO 1X10",
+      "shortName": "HOÀN THẬP TOÀN ĐẠI BỔ 1X10",
+      "headingText": "Thuốc Thập Toàn Đại Bổ",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_1753_5b7f_large_d068b4b021.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_5788_5b7f_large_e2c0d265bb.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_3006_5b7f_large_e864fe8181.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_5443_5b7f_large_035006cdbe.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_8158_5b7f_large_2df94f17cd.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_9475_5b7f_large_d22919f3b7.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 738,
+          "name": "Thuốc tiết niệu - sinh dục",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 823,
+          "name": "Thuốc nội tiết tố",
+          "parentName": "Thuốc tiết niệu - sinh dục",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 65000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 1 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": 6500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/thap-toan-dai-bo-hoan-2015.html",
+      "ingredient": [
+        {
+          "id": 23491,
+          "ingredientId": 34076,
+          "shortDescription": "0.24g",
+          "name": "Quế nhục",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 23492,
+          "ingredientId": 22437,
+          "shortDescription": "0.45g",
+          "name": "Hoàng kỳ",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 23493,
+          "ingredientId": 10131,
+          "shortDescription": "0.6g",
+          "name": "Bạch thược",
+          "isPrimary": false,
+          "slug": "thanh-phan/bach-thuoc"
+        },
+        {
+          "id": 23494,
+          "ingredientId": 38361,
+          "shortDescription": "1g",
+          "name": "Thục địa",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 23495,
+          "ingredientId": 40801,
+          "shortDescription": "0.3g",
+          "name": "Xuyên khung",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 23496,
+          "ingredientId": 10112,
+          "shortDescription": "0.65g",
+          "name": "Bạch linh",
+          "isPrimary": false,
+          "slug": "thanh-phan/bach-linh"
+        },
+        {
+          "id": 23497,
+          "ingredientId": 16671,
+          "shortDescription": "1g",
+          "name": "Đảng Sâm",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 23498,
+          "ingredientId": 18784,
+          "shortDescription": "0.6g",
+          "name": "Đương quy",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 23499,
+          "ingredientId": 10138,
+          "shortDescription": "0.65g",
+          "name": "Bạch truật",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 23500,
+          "ingredientId": 12473,
+          "shortDescription": "0.12g",
+          "name": "Cam thảo",
+          "isPrimary": false,
+          "slug": "thanh-phan/cam-thao"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-29615-18",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang mềm",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Thuốc Thập toàn đại bổ hoàn dạng viên hoàn mềm dùng qua đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Liều thường dùng mỗi lần 1 viên, ngày dùng 2 – 3 lần.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Nếu không may sử dụng quá liều so với chỉ định cần hỏi ý kiến dược sĩ hay bác sĩ.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc thập toàn đại bổ hoàn</strong> được chỉ định dùng trong trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị khí và huyết đều hư, sắc mặt trắng xanh, hơi thở ngắn, đánh trống ngực, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/hoa-mat-chong-mat-14.html\">chóng mặt</a></strong>, dễ ra mồ hôi, sức yếu, mệt mỏi, tay chân không ấm, kinh nguyệt ra nhiều.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "brand": "Traphaco",
+      "brandType": null,
+      "adverseEffect": "<p>Chưa có báo cáo nào về tác dụng phụ của thuốc.</p>\n\n<p><strong>Hướng dẫn cách xử trí ADR</strong></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 1 Vỉ x 10 Viên",
+      "indications": [
+        {
+          "id": 215,
+          "name": "Mệt mỏi",
+          "slug": "benh/met-moi-659.html"
+        },
+        {
+          "id": 554,
+          "name": "Rối loạn kinh nguyệt",
+          "slug": "benh/roi-loan-kinh-nguyet-281.html"
+        },
+        {
+          "id": 1196,
+          "name": "Chóng mặt",
+          "slug": "benh/chong-mat-763.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "TRAPHACO",
+      "shortDescription": "<p><strong>Thập toàn đại bổ hoàn</strong> của <em>Công ty Cổ phần Công nghệ cao Traphaco</em>, thành phần chính là bột thập toàn đại bổ (5,1g), là thuốc ổn bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực, kinh nguyệt ra nhiều.</p>\n\n<p>Thập toàn đại bổ hoàn được bào chế dưới dạng viên hoàn mềm 10 g, quy cách đóng gói gồm 1 vỉ 10 viên.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Phụ nữ cho con bú",
+        "Trẻ em"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": true,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/traphaco",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "HOÀN THẬP TOÀN ĐẠI BỔ",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": 65000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 1 Vỉ x 10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 823,
+        "name": "Thuốc nội tiết tố",
+        "parentName": "Thuốc tiết niệu - sinh dục",
+        "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_1753_5b7f_large_d068b4b021.JPG",
+          "alternativeText": "Thuốc Thập Toàn Đại Bổ Traphaco bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực (1 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_5788_5b7f_large_e2c0d265bb.JPG",
+          "alternativeText": "Thuốc Thập Toàn Đại Bổ Traphaco bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực (1 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_3006_5b7f_large_e864fe8181.JPG",
+          "alternativeText": "Thuốc Thập Toàn Đại Bổ Traphaco bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực (1 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_5443_5b7f_large_035006cdbe.JPG",
+          "alternativeText": "Thuốc Thập Toàn Đại Bổ Traphaco bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực (1 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_8158_5b7f_large_2df94f17cd.JPG",
+          "alternativeText": "Thuốc Thập Toàn Đại Bổ Traphaco bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực (1 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_9475_5b7f_large_d22919f3b7.JPG",
+          "alternativeText": "Thuốc Thập Toàn Đại Bổ Traphaco bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực (1 vỉ x 10 viên) 6"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 65000,
+        "itemCode": "00007287",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 65000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 6500,
+        "itemCode": "00007287",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 6500,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiết niệu - sinh dục",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc"
+      },
+      {
+        "name": "Thuốc nội tiết tố",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to"
+      }
+    ],
+    "content": {
+      "sku": "00007287",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Thuốc Thập toàn đại bổ hoàn dạng viên hoàn mềm dùng qua đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Liều thường dùng mỗi lần 1 viên, ngày dùng 2 – 3 lần.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Nếu không may sử dụng quá liều so với chỉ định cần hỏi ý kiến dược sĩ hay bác sĩ.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ hướng dẫn sử dụng thuốc</p>\n\n<p>Tờ hướng dẫn sử dụng thuốc thập toàn đại bổ Thiên Quang: https://drugbank.vn/thuoc/Thap-toan-dai-bo-Thien-Quang&amp;V256-H12-13</p></body></html>",
+      "adverseEffect": "<p>Chưa có báo cáo nào về tác dụng phụ của thuốc.</p>\n\n<p><strong>Hướng dẫn cách xử trí ADR</strong></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Nơi khô ráo, nhiệt độ không quá 30<sup>0</sup>C, tránh ánh sáng.</p>\n\n<p>Để xa tầm tay trẻ em.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc thập toàn đại bổ hoàn</strong> được chỉ định dùng trong trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị khí và huyết đều hư, sắc mặt trắng xanh, hơi thở ngắn, đánh trống ngực, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/hoa-mat-chong-mat-14.html\">chóng mặt</a></strong>, dễ ra mồ hôi, sức yếu, mệt mỏi, tay chân không ấm, kinh nguyệt ra nhiều.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định</h3>\n\n<p><strong>Thuốc thập toàn đại bổ hoàn</strong> chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Phụ nữ có thai.</p>\n\t</li>\n\t<li>\n\t<p>Người quá mẫn cảm với bất kỳ thành phần nào của thuốc.</p>\n\t</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Thận trọng khi sử dụng cho người tăng huyết áp, người bệnh đái tháo đường.</p>\n\n<p>Lưu ý kiêng các chất cay nóng trong khi điều trị.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Người thường xuyên lái xe hay vận hành máy móc có nên dùng thuốc Thập toàn đại bổ hoàn?</p>\n\n<p>Thập toàn đại bổ hoàn không ảnh hưởng đến khả năng lái xe và vận hành máy móc.</p>\n\n<h3>Thời kỳ mang thai </h3>\n\n<p>Phụ nữ trong thời kỳ mang thai có nên dùng thuốc Thập toàn đại bổ hoàn?</p>\n\n<p>Không sử dụng Thập toàn đại bổ hoàn cho phụ nữ có thai.</p>\n\n<h3>Thời kỳ cho con bú</h3>\n\n<p>Phụ nữ trong thời kỳ cho con bú có nên dùng thuốc Thập toàn đại bổ hoàn?</p>\n\n<p>Chưa có báo cáo về sử dụng thuốc Thập toàn đại bổ hoàn cho phụ nữ cho con bú. </p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Tương tác thuốc có thể ảnh hưởng đến hoạt động của thuốc hoặc gây ra các tác dụng phụ. Nên báo cho bác sĩ hoặc dược sĩ danh sách những thuốc và các thực phẩm chức năng bạn đang sử dụng. Không nên dùng hay tăng giảm liều lượng của thuốc mà không có sự hướng dẫn của bác sĩ.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Thập Toàn Đại Bổ Traphaco bồi bổ khí huyết (10 viên)",
+        "metaDescription": "Thuốc Thập Toàn Đại Bổ Traphaco là thuốc ổn bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực, kinh nguyệt ra nhiều. Dạng viên hoàn mềm.",
+        "id": 2808,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_1753_5b7f_large_d068b4b021.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc Thập Toàn Đại Bổ Traphaco bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực (1 vỉ x 10 viên)",
+            "description": "Thập toàn đại bổ hoàn của Công ty Cổ phần Công nghệ cao Traphaco, thành phần chính là bột thập toàn đại bổ (5,1g), là thuốc ổn bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực, kinh nguyệt ra nhiều.\n\nThập toàn đại bổ hoàn được bào chế dưới dạng viên hoàn mềm 10 g, quy cách đóng gói gồm 1 vỉ 10 viên."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 34817,
+        "title": "Tôi cần lưu ý gì về chế độ ăn uống khi sử dụng Thuốc Thập Toàn Đại Bổ Traphaco?",
+        "content": "<p>Trong thời gian điều trị bằng Thuốc Thập Toàn Đại Bổ Traphaco, cần lưu ý kiêng các chất cay nóng để đạt hiệu quả điều trị tốt nhất và tránh các tương tác không mong muốn.</p>"
+      },
+      {
+        "id": 34818,
+        "title": "Thuốc Thập Toàn Đại Bổ Traphaco có ảnh hưởng đến khả năng lái xe và vận hành máy móc không?",
+        "content": "<p>Thuốc Thập Toàn Đại Bổ Traphaco không ảnh hưởng đến khả năng lái xe và vận hành máy móc. Do đó, người thường xuyên lái xe hoặc vận hành máy móc có thể yên tâm sử dụng thuốc này.</p>"
+      },
+      {
+        "id": 34816,
+        "title": "Có những trường hợp nào không được sử dụng Thuốc Thập Toàn Đại Bổ Traphaco?",
+        "content": "<p>Thuốc Thập Toàn Đại Bổ Traphaco chống chỉ định trong các trường hợp sau:</p><ul><li>Phụ nữ có thai.</li><li>Người quá mẫn cảm (dị ứng) với bất kỳ thành phần nào của thuốc. Ngoài ra, cần thận trọng khi sử dụng cho người tăng huyết áp và người bệnh đái tháo đường.</li></ul>"
+      },
+      {
+        "id": 34815,
+        "title": "Liều lượng và cách dùng Thuốc Thập Toàn Đại Bổ Traphaco như thế nào?",
+        "content": "<p>Thuốc Thập Toàn Đại Bổ Traphaco được dùng qua đường uống, ở dạng viên hoàn mềm. Liều lượng thông thường là 1 viên mỗi lần, dùng 2 – 3 lần mỗi ngày. Tuy nhiên, đây chỉ là liều dùng tham khảo; liều dùng cụ thể cần tuỳ thuộc vào thể trạng và mức độ diễn tiến của bệnh, do đó bạn nên tham khảo ý kiến bác sĩ hoặc chuyên viên y tế để có liều dùng phù hợp.</p>"
+      },
+      {
+        "id": 34814,
+        "title": "Thuốc Thập Toàn Đại Bổ Traphaco là gì và có công dụng chính nào?",
+        "content": "<p>Thuốc Thập Toàn Đại Bổ Traphaco là một loại viên hoàn mềm được bào chế từ bột Thập Toàn Đại Bổ (5,1g), do Công ty Cổ phần Công nghệ cao Traphaco sản xuất. Công dụng chính của thuốc là ôn bổ khí huyết, điều trị các chứng khí huyết hư. Các trường hợp được chỉ định sử dụng bao gồm: sắc mặt trắng xanh, hơi thở ngắn, đánh trống ngực, chóng mặt, dễ ra mồ hôi, sức yếu, mệt mỏi, tay chân không ấm và kinh nguyệt ra nhiều.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00053173",
+        "name": "ĐIỀU KINH TÙNG LỘC 3X10",
+        "webName": "Thuốc Điều kinh Tùng lộc điều trị bổ huyết, hoạt huyết, điều kinh, chỉ thống (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/dieu_kinh_tung_loc_3x10_00053173_1_dab6d7a5c8.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 85263,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 150000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/dieu-kinh-tung-loc-3-x10.html",
+        "ingredients": "Xuyên khung 450mg, Đương quy 450mg, Thược Dược 450mg, Thục địa 450mg, Bạch truật 450mg, Mẫu đơn bì 450mg, Địa cốt bì 300mg, Hương phụ 450mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "TÙNG LỘC",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 80,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 85263,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 150000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 85264,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 50000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 85265,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00018225",
+        "name": "GENSHU SAGOPHA 3X10",
+        "webName": "Thuốc Genshu Sagopha hỗ trợ điều trị rối loạn cương, yếu sinh lý (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018225_genshu_sagopha_3x10_2330_5b7b_large_61d141b04d.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 23028,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 522000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/genshu-sagopha-3x10-19553.html",
+        "ingredients": "Hải mã 330mg, Dâm dương hoắc 750mg, Bạch tật lê 1000mg, Lộc Nhung 330mg, Nhân Sâm 330mg, Hải hà 330mg, tinh hoàn cá sấu 250mg, Quế 100mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Sagopha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 23026,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 17400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 23028,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 522000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 23027,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 174000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00014579",
+        "name": "HAISAMIN HDPHARMA 6X5",
+        "webName": "Thuốc Haisamin HDpharma tăng cường sinh lực (6 vỉ x 5 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014579_haisamin_tang_cuong_sinh_ly_nam_4354_5b69_large_24859b4f70.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 17253,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 120000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/haisamin-tang-cuong-sinh-ly-nam-799.html",
+        "ingredients": "Hải sâm 200mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Hdpharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 5 Viên",
+        "prices": [
+          {
+            "id": 17253,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 120000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 17252,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 20000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 17251,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 4000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00003779",
+        "name": "THẬP TOÀN ĐẠI BỔ OPC 240V",
+        "webName": "Thuốc Thập Toàn Đại Bổ OPC bồi bổ khí huyết, trị suy nhược cơ thể (240 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003779_hoan_thap_toan_dai_bo_5579_5b7c_large_1013091377.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 5227,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 85000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/hoan-thap-toan-dai-bo-3469.html",
+        "ingredients": "Đảng Sâm 50mg, Hoàng kỳ 50mg, Xuyên khung 25mg, Thục địa 75mg, Đương quy 75mg, Phục Linh 50mg, Bạch thược 50mg, Quế nhục 12.5mg",
+        "dosageForm": "Hoàn cứng",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 240 Viên",
+        "prices": [
+          {
+            "id": 5226,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 354,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 5227,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 85000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00003061",
+        "name": "FITOGRA-F FITO 40V",
+        "webName": "Thuốc Fitogra-f điều trị suy giảm hoạt động tình dục, suy nhược cơ thể (40 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003061_fitogra_f_1410_5b7f_large_c61b403698.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 4125,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 210000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/fitogra-f-17297.html",
+        "ingredients": "Lộc Nhung 330mg, Hải mã 330mg, Nhân Sâm 270mg, Quế 20mg",
+        "dosageForm": "Viên nang",
+        "brand": "Fito",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp",
+        "prices": [
+          {
+            "id": 4125,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 210000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00016699",
+        "name": "PM H-REGULATOR 30V PROBIOTEC PHARMA",
+        "webName": "Thuốc PM H-Regulator Probiotec giảm cơn bốc hỏa, đổ mồ hôi thời kỳ tiền mãn kinh (30 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00016699_pm_h_regulator_30v_probiotec_pharma_5852_5c87_large_d3532900d8.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 20294,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 420000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pm-h-regulator-30v-probiotec-pharma-17943.html",
+        "ingredients": "Cao khô quả Vitex agnus castus 20mg, Cao khô hạt đậu nành 20mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Probiotec",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 30 Viên",
+        "prices": [
+          {
+            "id": 20294,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 420000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 20293,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 14000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 29,
+      "items": [
+        {
+          "id": 3351666,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0935xxxxxx",
+          "name": "Nguyễn thành Minh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Nam, huyết áp thấp, suy tim có dùng được không",
+          "createdAt": "2026-08-04 09:54:19",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-08-04 09:54:19",
+          "replies": [
+            {
+              "id": 3351675,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Tuyết Anh",
+                "moderatorEmail": "anhlt185@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Tuyết Anh",
+              "email": "anhlt185@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Minh,</p><p>Dạ mình nên tham khảo ý kiến bác sĩ trước khi dùng ạ</p><p>Nhà thuốc thông tin đến Anh ạ.</p>",
+              "createdAt": "2026-08-04 09:58:49",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-08-04 09:54:19",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3341057,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0988xxxxxx",
+          "name": "Ha Anh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mua thap toàn đại bổ loại hộp 55k",
+          "createdAt": "2026-07-17 14:39:42",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-17 14:39:42",
+          "replies": [
+            {
+              "id": 3341059,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Quỳnh Trâm Anh",
+                "moderatorEmail": "anhmqt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mai Quỳnh Trâm Anh",
+              "email": "anhmqt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Ha Anh,</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-07-17 14:44:51",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-17 14:39:42",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3305821,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0823xxxxxx",
+          "name": "Nhung",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "E xin giá",
+          "createdAt": "2026-05-12 17:39:36",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-12 17:39:36",
+          "replies": [
+            {
+              "id": 3305824,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thanh Trúc",
+                "moderatorEmail": "trucht5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Thanh Trúc",
+              "email": "trucht5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Nhung,</p><p>Hiện tại, sản phẩm Thuốc Thập Toàn Đại Bổ Traphaco bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực (1 vỉ x 10 viên) đang có giá 55.000đ/Hộp. Chị có thể tham khảo và đặt hàng tại link: https://nhathuoclongchau.com.vn/thuoc/thap-toan-dai-bo-hoan-2015.html</p>",
+              "createdAt": "2026-05-12 17:40:55",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-12 17:39:36",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3305436,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0362xxxxxx",
+          "name": "chị lệ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "sau sinh bao lâu thì dùng được ạ",
+          "createdAt": "2026-05-12 01:07:11",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-12 01:07:11",
+          "replies": [
+            {
+              "id": 3305538,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ngọc",
+                "moderatorEmail": "ngocnth74@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ngọc",
+              "email": "ngocnth74@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Lệ</p><p>Thuốc Thập Toàn Đại Bổ Traphaco bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực <strong>sau khi sản dịch đã hết hoàn toàn</strong>&nbsp;(thường&nbsp;từ 2-4 tuần trở lên) ạ.</p><p>Nhà thuốc thông tin đến chị ạ</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-05-12 09:06:13",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-12 01:07:11",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3299782,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0968xxxxxx",
+          "name": "0968xxxxxx",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "uống thuốc trong thời gian bao lâu,khi dùng thuốc có kiêng thực phẩm gì khi ạ?",
+          "createdAt": "2026-05-02 22:15:56",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-05-02 22:15:56",
+          "replies": [
+            {
+              "id": 3299831,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Văn Tâm",
+                "moderatorEmail": "tamtv19@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Văn Tâm",
+              "email": "tamtv19@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý Khách ,</p><p>Dạ Thuốc Thập Toàn Đại Bổ Traphaco thường được chỉ định uống theo liệu trình từ 2đến 3 tháng để cải thiện tình trạng khí huyết hư. Người bệnh nên uống ngày 2-3 lần, mỗi lần 2-3 viên hoàn. Khi dùng, cần kiêng thực phẩm sống lạnh, khó tiêu và không nên dùng cho người đang bị cảm sốt. </p><p>Quý Khách có thể tham khảo và đặt hàng tại link: https://nhathuoclongchau.com.vn/thuoc/thap-toan-dai-bo-hoan-2015.html</p>",
+              "createdAt": "2026-05-03 08:26:27",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-05-02 22:15:56",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 3277919,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0362xxxxxx",
+          "name": "0362xxxxxx",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-03-21 21:43:28",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-21 21:43:28",
+          "replies": [
+            {
+              "id": 3277921,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ánh",
+                "moderatorEmail": "anhnth44@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ánh",
+              "email": "anhnth44@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào quý khách,</p><p>Dạ nhà thuốc FPT Long Châu rất cảm ơn quý khách luôn tin tưởng và ủng hộ. Chúc quý khách nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-03-21 21:47:25",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-21 21:43:28",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Thập Toàn Đại Bổ Traphaco bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực (1 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_1753_5b7f_large_d068b4b021.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_5788_5b7f_large_e2c0d265bb.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_3006_5b7f_large_e864fe8181.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_5443_5b7f_large_035006cdbe.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_8158_5b7f_large_2df94f17cd.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_9475_5b7f_large_d22919f3b7.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thập toàn đại bổ hoàn của Công ty Cổ phần Công nghệ cao Traphaco, thành phần chính là bột thập toàn đại bổ (5,1g), là thuốc ổn bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực, kinh nguyệt ra nhiều.\n\nThập toàn đại bổ hoàn được bào chế dưới dạng viên hoàn mềm 10 g, quy cách đóng gói gồm 1 vỉ 10 viên.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/thap-toan-dai-bo-hoan-2015.html",
+        "priceCurrency": "VND",
+        "price": 65000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Thuốc Thập Toàn Đại Bổ Traphaco bồi bổ khí huyết (10 viên)",
+      "description": "Thuốc Thập Toàn Đại Bổ Traphaco là thuốc ổn bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực, kinh nguyệt ra nhiều. Dạng viên hoàn mềm.",
+      "openGraph": {
+        "title": "Thuốc Thập Toàn Đại Bổ Traphaco bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực (1 vỉ x 10 viên)",
+        "description": "Thập toàn đại bổ hoàn của Công ty Cổ phần Công nghệ cao Traphaco, thành phần chính là bột thập toàn đại bổ (5,1g), là thuốc ổn bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực, kinh nguyệt ra nhiều.\n\nThập toàn đại bổ hoàn được bào chế dưới dạng viên hoàn mềm 10 g, quy cách đóng gói gồm 1 vỉ 10 viên.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_1753_5b7f_large_d068b4b021.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/thap-toan-dai-bo-hoan-2015.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/thap-toan-dai-bo-hoan-2015.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

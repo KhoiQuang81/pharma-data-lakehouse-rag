@@ -1,0 +1,1343 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/thong-xoang-tan-ho-tro-dieu-tri-viem-xoang-252.html",
+  "ingestion_timestamp": "2026-09-05T11:27:04.409348+00:00",
+  "file_hash": "80c5614eea1527e09ddeb3b885ce133723912a92e1dd2f9df9f60d8d79beb112",
+  "lineage_hash": "0000549089b5fb9fa4738eff2816762646a518bd00295fa0053cd75053d26658",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/thong-xoang-tan-ho-tro-dieu-tri-viem-xoang-252.html",
+    "product": {
+      "sku": "00007313",
+      "webName": "Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính (50 viên)",
+      "name": "THÔNG XOANG TÁN NAM DƯỢC 50V",
+      "shortName": "THÔNG XOANG TÁN ND 50V",
+      "headingText": "Thuốc Thông Xoang Tán",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6737_7094894b19.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6732_2d07ffbca8.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6733_35bec3f9ce.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6734_2dca2ecdfa.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6735_99a4bbbd41.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6736_ac111aa1ed.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6738_959a2fa1f4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6742_a7f9e8911f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thong_xoang_tan_5ed398eb69.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 732,
+          "name": "Thuốc Mắt, Tai, Mũi, Họng",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-mat-tai-mui-hong",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 787,
+          "name": "Thuốc trị viêm xoang",
+          "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+          "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 125000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 50 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": 2500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "50 Viên"
+        }
+      ],
+      "slug": "thuoc/thong-xoang-tan-ho-tro-dieu-tri-viem-xoang-252.html",
+      "ingredient": [
+        {
+          "id": 48160,
+          "ingredientId": 38062,
+          "shortDescription": "200mg",
+          "name": "Thăng ma",
+          "isPrimary": false,
+          "slug": "thanh-phan/thang-ma"
+        },
+        {
+          "id": 48161,
+          "ingredientId": 32396,
+          "shortDescription": "200mg",
+          "name": "Phòng phong",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 48162,
+          "ingredientId": 12643,
+          "shortDescription": "200mg",
+          "name": "Cảo bản",
+          "isPrimary": false,
+          "slug": "thanh-phan/cao-ban"
+        },
+        {
+          "id": 48163,
+          "ingredientId": 40801,
+          "shortDescription": "100mg",
+          "name": "Xuyên khung",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 48164,
+          "ingredientId": 10072,
+          "shortDescription": "300mg",
+          "name": "Bạch chỉ",
+          "isPrimary": false,
+          "slug": "thanh-phan/bach-chi"
+        },
+        {
+          "id": 48165,
+          "ingredientId": 37619,
+          "shortDescription": "200mg",
+          "name": "Tế tân",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 48166,
+          "ingredientId": 37438,
+          "shortDescription": "200mg",
+          "name": "Tân di",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 48167,
+          "ingredientId": 12473,
+          "shortDescription": "100mg",
+          "name": "Cam thảo",
+          "isPrimary": false,
+          "slug": "thanh-phan/cam-thao"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "V87-H12-13",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang cứng",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Thông xoang tán Nam Dược được dùng đường uống. Uống sau bữa ăn với nước ấm.</p><p>Trong quá trình sử dụng thuốc, bệnh nhân nên uống nhiều nước mỗi ngày.</p><h3><strong>Liều dùng</strong></h3><p>Liều khuyến cáo: Uống 6 - 8 viên/ngày chia 2 lần.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Chưa có báo cáo.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Thông xoang tán Nam Dược</strong> được chỉ định dùng trong trường hợp sau:</p><p>Điều trị viêm mũi, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-xoang-man-tinh-481.html\">viêm xoang mãn tính</a> và ngăn ngừa tái phát.</p><p>Dùng cho bệnh nhân bị viêm xoang cấp và mãn tính, viêm mũi dị ứng có các biểu hiện:</p><p>Đau nhức ê ẩm vùng đầu, trán, hoặc vùng mặt.</p><p>Ngạt, tắc mũi, chảy nước mũi lúc đầu dịch loãng sau đặc và có màu vàng hoặc xanh.</p><p>Ho từng cơn và khạc nhổ ra đờm có màu.</p><p>Dùng cho người đang điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">viêm mũi dị ứng</a> do thời tiết thay đổi.</p>",
+      "brand": "Nam Dược",
+      "brandType": null,
+      "adverseEffect": "<p>Chưa có báo cáo.</p>\n\n<p>Thông báo cho bác sĩ các tác dụng phụ gặp phải khi dùng thuốc.</p>",
+      "specification": "Hộp 50 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "CÔNG TY TNHH NAM DƯỢC",
+      "shortDescription": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/thong-xoang-tan-ho-tro-dieu-tri-viem-xoang-252.html\"><strong>Thông xoang tán</strong></a><strong> Nam Dược</strong> là sản phẩm của <i>Công ty TNHH Nam Dược</i> có thành phần chính bạch chỉ (radix angelicae dahuricae), tân di (flos magnoliae), cảo bản (rhizoma et radix ligustici), phòng phong (radix saposhnikoviae), tế tân (herba asari), thăng ma (rhizoma cimicifugae), xuyên khung (rhizoma ligustici wallichii), cam thảo (radix glycyrrhizae)&nbsp;là thuốc điều trị viêm mũi dị ứng, viêm mũi dị ứng do thời thay đổi, viêm xoang cấp và mãn tính, ngăn ngừa tái phát viêm xoang.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "",
+      "objectUse": [
+        "Người lớn"
+      ],
+      "color": [
+        "Hồng"
+      ],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/nam-duoc",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "THÔNG XOANG TÁN",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": 125000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 50 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 787,
+        "name": "Thuốc trị viêm xoang",
+        "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+        "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6737_7094894b19.jpg",
+          "alternativeText": "Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính (50 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6732_2d07ffbca8.jpg",
+          "alternativeText": "Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính (50 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6733_35bec3f9ce.jpg",
+          "alternativeText": "Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính (50 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6734_2dca2ecdfa.jpg",
+          "alternativeText": "Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính (50 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6735_99a4bbbd41.jpg",
+          "alternativeText": "Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính (50 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6736_ac111aa1ed.jpg",
+          "alternativeText": "Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính (50 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6738_959a2fa1f4.jpg",
+          "alternativeText": "Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính (50 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6742_a7f9e8911f.jpg",
+          "alternativeText": "Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính (50 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thong_xoang_tan_5ed398eb69.jpg",
+          "alternativeText": "Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính (50 viên) 9"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 125000,
+        "itemCode": "00007313",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 125000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 2500,
+        "itemCode": "00007313",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 2500,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc Mắt, Tai, Mũi, Họng",
+        "slug": "/thuoc/thuoc-mat-tai-mui-hong"
+      },
+      {
+        "name": "Thuốc trị viêm xoang",
+        "slug": "/thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang"
+      }
+    ],
+    "content": {
+      "sku": "00007313",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Thông xoang tán Nam Dược được dùng đường uống. Uống sau bữa ăn với nước ấm.</p><p>Trong quá trình sử dụng thuốc, bệnh nhân nên uống nhiều nước mỗi ngày.</p><h3><strong>Liều dùng</strong></h3><p>Liều khuyến cáo: Uống 6 - 8 viên/ngày chia 2 lần.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Chưa có báo cáo.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<html><body><p>Tờ hướng dẫn sử dụng Thông xoang tán Nam Dược.</p></body></html>",
+      "adverseEffect": "<p>Chưa có báo cáo.</p>\n\n<p>Thông báo cho bác sĩ các tác dụng phụ gặp phải khi dùng thuốc.</p>",
+      "preservation": "<p>Để nơi khô mát, tránh ánh sáng, tránh ẩm, nhiệt độ dưới 30⁰C.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Thông xoang tán Nam Dược</strong> được chỉ định dùng trong trường hợp sau:</p><p>Điều trị viêm mũi, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-xoang-man-tinh-481.html\">viêm xoang mãn tính</a> và ngăn ngừa tái phát.</p><p>Dùng cho bệnh nhân bị viêm xoang cấp và mãn tính, viêm mũi dị ứng có các biểu hiện:</p><p>Đau nhức ê ẩm vùng đầu, trán, hoặc vùng mặt.</p><p>Ngạt, tắc mũi, chảy nước mũi lúc đầu dịch loãng sau đặc và có màu vàng hoặc xanh.</p><p>Ho từng cơn và khạc nhổ ra đờm có màu.</p><p>Dùng cho người đang điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">viêm mũi dị ứng</a> do thời tiết thay đổi.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3><strong>Chống chỉ định</strong></h3>\n\n<p>Không dùng Thông xoang tán Nam Dược cho phụ nữ có thai.</p>\n\n<h3><strong>Thận trọng khi sử dụng</strong></h3>\n\n<p><em>Thận trọng do bệnh</em></p>\n\n<p>Nên tránh dùng các loại thực phẩm có tính kích thích như rượu, cafe, thuốc lá... tránh ăn ớt cay, các thức ăn nhiều mỡ (cholesterol). Giữ ấm vùng cổ, ngực, mũi khi lạnh.</p>\n\n<p><em>Thận trọng do thuốc</em></p>\n\n<p>Người âm hư nội nhiệt nên tư vấn dược sĩ hoặc bác sĩ trước khi sử dụng thuốc.</p>\n\n<h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3>\n\n<p>Chưa có thông tin về sử dụng thuốc cho người lái xe và vận hành máy móc.</p>\n\n<h3><strong>Thời kỳ mang thai </strong></h3>\n\n<p>Không dùng cho phụ nữ có thai.</p>\n\n<h3><strong>Thời kỳ cho con bú</strong></h3>\n\n<p>Chưa có thông tin về sử dụng thuốc cho phụ nữ đang cho con bú.</p>\n\n<h3><strong>Tương tác thuốc</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Thông Xoang Tán Nam Dược trị viêm mũi, viêm xoang (Lọ 50 viên)",
+        "metaDescription": "Thuốc Thông Xoang Tán Nam Dược hỗ trợ điều trị viêm mũi, viêm xoang mãn tính và ngăn ngừa tái phát,... Xem ngay công dụng, cách dùng và giá bán!",
+        "id": 5604,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6737_7094894b19.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính (50 viên)",
+            "description": "Thông xoang tán Nam Dược là sản phẩm của Công ty TNHH Nam Dược có thành phần chính bạch chỉ (radix angelicae dahuricae), tân di (flos magnoliae), cảo bản (rhizoma et radix ligustici), phòng phong (radix saposhnikoviae), tế tân (herba asari), thăng ma (rhizoma cimicifugae), xuyên khung (rhizoma ligustici wallichii), cam thảo (radix glycyrrhizae)&nbsp;là thuốc điều trị viêm mũi dị ứng, viêm mũi dị ứng do thời thay đổi, viêm xoang cấp và mãn tính, ngăn ngừa tái phát viêm xoang."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 16983,
+        "title": "Người bị viêm mũi dị ứng có dùng được thuốc Thông Xoang Tán không?",
+        "content": "<p>Thuốc Thông xoang tán Nam Dược được chỉ định dùng trong trường hợp sau: Điều trị viêm mũi, viêm xoang mãn tính và ngăn ngừa tái phát.</p><p>Liều khuyến cáo: Uống 6 - 8 viên/ngày chia 2 lần. Uống sau bữa ăn với nước ấm.</p>"
+      },
+      {
+        "id": 16982,
+        "title": "Thuốc Thông Xoang Tán đạt hiệu quả sau bao lâu sử dụng?",
+        "content": "<p>Cần dùng thuốc Thông Xoang Tán thời gian ít nhất 3 - 6 tháng để đạt hiệu quả tốt nhất và hiệu quả sản phẩm còn tùy thuộc vào cơ địa từng người. Sau khi dùng hết liệu trình có thể ngưng 1 - 2 tháng và dùng tiếp khi có nhu cầu.</p>"
+      },
+      {
+        "id": 16981,
+        "title": "Thuốc Thông Xoang Tán tránh dùng với các loại thực phẩm nào?",
+        "content": "<p>Nên tránh dùng các loại thực phẩm có tính kích thích như rượu, cafe, thuốc lá... tránh ăn ớt cay, các thức ăn nhiều mỡ (cholesterol).</p>"
+      },
+      {
+        "id": 16980,
+        "title": "Thuốc Thông Xoang Tán có dùng cho phụ nữ mang thai được không?",
+        "content": "<p>Không dùng thuốc Thông Xoang Tán cho phụ nữ có thai.</p>"
+      },
+      {
+        "id": 16979,
+        "title": "Thuốc Thông Xoang Tán được uống trước hay sau bữa ăn?",
+        "content": "<p>Thông xoang tán Nam Dược được dùng đường uống. Uống sau bữa ăn với nước ấm.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00047549",
+        "name": "THUỐC VIÊM XOANG CAP ABIPHA 3X10",
+        "webName": "Thuốc viêm xoang Abipha Cap điều trị viêm xoang, nghẹt mũi, sổ mũi, viêm mũi dị ứng (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_viem_xoang_cap_abipha_3x10_00047549_4233dd3c24.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 787,
+            "name": "Thuốc trị viêm xoang",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 74403,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 3500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/viem-xoang-cap-abipha-3-x10.html",
+        "ingredients": "Bạch chỉ 225mg, Thương nhĩ tử 300mg, Phòng phong 225mg, Hoàng kỳ 375mg, Tân di hoa 225mg, Bạc hà 75mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Abipha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 74401,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 105000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 74402,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 35000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 74403,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 3500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 94,
+      "items": [
+        {
+          "id": 3356197,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0819xxxxxx",
+          "name": "Phan Thị Toan",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mình viêm đa xoang đau sau gáy thái dương với hốc mắt uống cảu thiện ko ạ",
+          "createdAt": "2026-08-12 11:12:43",
+          "createdAtDisplay": "24 ngày trước",
+          "updatedAt": "2026-08-12 11:12:43",
+          "replies": [
+            {
+              "id": 3356204,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Ngọc Trâm",
+                "moderatorEmail": "tramnn18@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Ngọc Trâm",
+              "email": "tramnn18@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Toan,</p><p>Dạ sản phẩm Thông Xoang Tán Nam Dược điều trị viêm mũi dị ứng, viêm mũi dị ứng do thời thay đổi, viêm xoang cấp và mãn tính, ngăn ngừa tái phát viêm xoang. Chị có thể dùng và theo dõi thêm ạ</p><p>Nhà thuốc xin phép thông tin đến chị ạ.</p>",
+              "createdAt": "2026-08-12 11:18:52",
+              "createdAtDisplay": "24 ngày trước",
+              "updatedAt": "2026-08-12 11:12:43",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3326729,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0907xxxxxx",
+          "name": "0907xxxxxx",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "viêm đa xoang mũi mạn tính uống thuốc này đc ko ds ",
+          "createdAt": "2026-06-23 11:40:32",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-23 11:40:32",
+          "replies": [
+            {
+              "id": 3326734,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thu Huyền",
+                "moderatorEmail": "huyenlt73@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thu Huyền",
+              "email": "huyenlt73@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý khách</p><p>Với tình trạng viêm đa xoang mũi mạn tính&nbsp;Quý khách nên tham khảo ý kiến của Bác sĩ trước khi sử dụng sản phẩm</p><p>Nhà thuốc thông tin đến Quý khách.</p>",
+              "createdAt": "2026-06-23 11:47:12",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-23 11:40:32",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3319606,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0383xxxxxx",
+          "name": "Que",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Vậy mà hôm qua ra Long Châu hỏi thuốc này nhân viên trả lời đang ngựgf sản xuất nên không có thuốc",
+          "createdAt": "2026-06-09 08:53:00",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-09 08:53:00",
+          "replies": [
+            {
+              "id": 3319613,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Khánh Ngọc",
+                "moderatorEmail": "ngoclk2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Khánh Ngọc",
+              "email": "ngoclk2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý Khách,</p><p>Hiện tại, sản phẩm Thông Xoang Tán Nam Dược có giá 125.000đ/hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-06-09 09:11:50",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-09 08:53:00",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3316334,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0982xxxxxx",
+          "name": "chi thúy",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "chị ơi cho e hỏi thuốc này 15 tuổi có uống được k ạ ",
+          "createdAt": "2026-06-02 14:44:14",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-06-02 14:44:14",
+          "replies": [
+            {
+              "id": 3316354,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Hồng Khuyên",
+                "moderatorEmail": "khuyennh4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Hồng Khuyên",
+              "email": "khuyennh4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Thúy,</p><p>Dạ sản phẩm Thông Xoang Tán Nam Dược hiện chưa có thông tin ghi rõ độ tuổi sử dụng. Bé 15 tuổi chị nên tham khảo tư vấn của bác sĩ để được xác nhận an toàn khi sử dụng và hướng dẫn liều dùng phù hợp với tình trạng của bé ạ.</p><p>Nhà thuốc xin phép thông tin đến chị ạ.</p>",
+              "createdAt": "2026-06-02 16:20:23",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-06-02 14:44:14",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3312430,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0343xxxxxx",
+          "name": "Nhi",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 hộp bn viên z ạ. Sài trong bao lâu đc ạ",
+          "createdAt": "2026-05-25 16:15:58",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-25 16:15:58",
+          "replies": [
+            {
+              "id": 3312431,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thu Hà",
+                "moderatorEmail": "hantt135@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thu Hà",
+              "email": "hantt135@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Nhi,</p><p>Dạ sản phẩm Thông Xoang Tán Nam Dược 1 hộp 50 viên ạ, Liều khuyến cáo: Uống 6 - 8 viên/ngày chia 2 lần ạ</p><p>Nhà thuốc thông tin đến chị</p>",
+              "createdAt": "2026-05-25 16:25:20",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-25 16:15:58",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 18,
+      "items": [
+        {
+          "id": 3364003,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0337xxxxxx",
+          "name": "Trịnh Đức",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Dùng viên uống này với xịt mũi nào để có hiệu quả nhanh và tối ưu nhất vậy ạ?",
+          "createdAt": "2026-08-26 13:46:13",
+          "createdAtDisplay": "10 ngày trước",
+          "updatedAt": "2026-08-26 13:46:13",
+          "replies": [
+            {
+              "id": 3364008,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Ngọc Trung Ái",
+                "moderatorEmail": "ainnt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Ngọc Trung Ái",
+              "email": "ainnt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Đức</p><p> Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh/chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-08-26 14:01:54",
+              "createdAtDisplay": "10 ngày trước",
+              "updatedAt": "2026-08-26 13:46:13",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3334741,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0706xxxxxx",
+          "name": "chị trúc",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "đang cho bé bú có sử dụng đc ko ạ",
+          "createdAt": "2026-07-07 12:05:56",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-07 12:05:56",
+          "replies": [
+            {
+              "id": 3334742,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Quỳnh Thư Liễu",
+                "moderatorEmail": "lieunqt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Quỳnh Thư Liễu",
+              "email": "lieunqt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Trúc, </p><p>Dạ sản phẩm Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính chưa có thông tin về sử dụng thuốc cho phụ nữ đang cho con bú ạ. </p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-07-07 12:10:29",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-07 12:05:56",
+              "replies": []
+            },
+            {
+              "id": 3336331,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0846xxxxxx",
+              "name": "cô Thê",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "thuốc hay là chuc năng ạ ",
+              "createdAt": "2026-07-09 20:53:39",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-07 12:05:56",
+              "replies": []
+            },
+            {
+              "id": 3336338,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hương Giang",
+                "moderatorEmail": "giangnth82@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hương Giang",
+              "email": "giangnth82@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Dạ sản phẩm Thông Xoang Tán là thuốc điều trị từ thảo dược đã được Bộ Y tế cấp phép lưu hành, không phải thực phẩm chức năng ạ.</p><p>Sản phẩm hiện có giá bán niêm yết là 125.000đ ạ.</p><p>Để nhận tư vấn kỹ hơn, Cô vui lòng gửi yêu cầu tư vấn trực tiếp ngay trên website để Dược sĩ Long Châu chủ động liên hệ hỗ trợ chi tiết cho mình ạ.</p><p>Chúc Cô luôn dồi dào sức khỏe ạ.</p>",
+              "createdAt": "2026-07-09 20:58:30",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-07 12:05:56",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3274273,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0347xxxxxx",
+          "name": "chị Dương",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mình đã dùng một tháng nhưng cảm thấy không có tác dụng vẫn đang sử dụng, có chắc chắn là sau 3 tháng giảm triệu chứng không ạ",
+          "createdAt": "2026-03-15 15:54:36",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-15 15:54:36",
+          "replies": [
+            {
+              "id": 3274276,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lương Thuỳ Linh",
+                "moderatorEmail": "linhlt110@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lương Thuỳ Linh",
+              "email": "linhlt110@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Dương,</p><p>Dạ tác dụng tùy thuộc cơ địa mỗi người, chị dùng đủ liệu trình và theo dõi thêm ạ</p><p>Nhà thuốc xin phép thông tin đến chị ạ.</p>",
+              "createdAt": "2026-03-15 16:05:00",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-15 15:54:36",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3268246,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0778xxxxxx",
+          "name": "a hậu",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "công nhận thuốc tốt mới uống 3 nọ mà tịt hẳn cả hai mũi thông thoáng sáng ko còn chảy nước mũi nữa",
+          "createdAt": "2026-03-04 07:02:54",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-03-04 07:02:54",
+          "replies": [
+            {
+              "id": 3268276,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mào Thị Chín",
+                "moderatorEmail": "chinmt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mào Thị Chín",
+              "email": "chinmt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>   </p><p>Chào anh Hậu</p><p>Dạ nhà thuốc FPT Long Châu rất cảm ơn anh luôn tin tưởng và ủng hộ. Chúc anh nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-03-04 08:39:10",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-03-04 07:02:54",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3218228,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0868xxxxxx",
+          "name": "hạnh",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mik bị viêm xoang mũi nặng, uống kháng sinh bệnh viện 1 tuần rồi chuyển qua combo uống+xịt THÔNG XOANG TÁN NAM DƯỢC liên tục 3 tháng nay khỏi hẳn 99%",
+          "createdAt": "2025-11-23 09:36:00",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-23 09:36:00",
+          "replies": [
+            {
+              "id": 3218229,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thanh Ngọc",
+                "moderatorEmail": "ngocht18@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Thanh Ngọc",
+              "email": "ngocht18@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Hạnh,</p><p> Dạ nhà thuốc FPT Long Châu rất cảm ơn bạn luôn tin tưởng và ủng hộ. Chúc bạn nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2025-11-23 09:37:30",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-23 09:36:00",
+              "replies": []
+            },
+            {
+              "id": 3234016,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0912xxxxxx",
+              "name": "NGUYEN THI THUY LE",
+              "email": "",
+              "score": null,
+              "gender": 1,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "uống thuốc này bạn Hạnh có bị tích nước tăng cân, thèm ăn không ạ?",
+              "createdAt": "2025-12-23 14:14:29",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-11-23 09:36:00",
+              "replies": []
+            },
+            {
+              "id": 3234023,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Ngọc Hân",
+                "moderatorEmail": "hanltn7@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Ngọc Hân",
+              "email": "hanltn7@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Thuy Le,</p><p> Dạ hiện chưa có thông tin sản phẩm gây tích nước tăng cân và thèm ăn ạ</p><p>Nhà thuốc xin phép thông tin đến chị ạ</p>",
+              "createdAt": "2025-12-23 14:27:10",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-11-23 09:36:00",
+              "replies": []
+            },
+            {
+              "id": 3234288,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0961xxxxxx",
+              "name": "Chiến",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Bạn kết hợp thuốc xịt gì vậy hạnh",
+              "createdAt": "2025-12-23 23:44:29",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-11-23 09:36:00",
+              "replies": []
+            },
+            {
+              "id": 3234495,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Mai Anh",
+                "moderatorEmail": "anhnm70@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Mai Anh",
+              "email": "anhnm70@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Chiến, </p><p>Dạ anh có thể tham khảo kết hợp dùng sản phẩm Thuốc xịt mũi Otrivin 0.1% GSK điều trị nghẹt mũi, sung huyết mũi (10ml) tại <a href=\"https://nhathuoclongchau.com.vn/thuoc/otrivin-01-nasal-spray-10ml-2738.html\" rel=\"noopener noreferrer\" target=\"_blank\">link</a>. </p><p>Nhà thuốc thông tin đến anh.</p>",
+              "createdAt": "2025-12-24 11:07:53",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-11-23 09:36:00",
+              "replies": []
+            }
+          ],
+          "totalReplies": 19
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 18
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính (50 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6737_7094894b19.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6732_2d07ffbca8.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6733_35bec3f9ce.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6734_2dca2ecdfa.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6735_99a4bbbd41.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6736_ac111aa1ed.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6738_959a2fa1f4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6742_a7f9e8911f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thong_xoang_tan_5ed398eb69.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thông xoang tán Nam Dược là sản phẩm của Công ty TNHH Nam Dược có thành phần chính bạch chỉ (radix angelicae dahuricae), tân di (flos magnoliae), cảo bản (rhizoma et radix ligustici), phòng phong (radix saposhnikoviae), tế tân (herba asari), thăng ma (rhizoma cimicifugae), xuyên khung (rhizoma ligustici wallichii), cam thảo (radix glycyrrhizae) là thuốc điều trị viêm mũi dị ứng, viêm mũi dị ứng do thời thay đổi, viêm xoang cấp và mãn tính, ngăn ngừa tái phát viêm xoang.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "18"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/thong-xoang-tan-ho-tro-dieu-tri-viem-xoang-252.html",
+        "priceCurrency": "VND",
+        "price": 125000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Thuốc Thông Xoang Tán Nam Dược trị viêm mũi, viêm xoang (Lọ 50 viên)",
+      "description": "Thuốc Thông Xoang Tán Nam Dược hỗ trợ điều trị viêm mũi, viêm xoang mãn tính và ngăn ngừa tái phát,... Xem ngay công dụng, cách dùng và giá bán!",
+      "openGraph": {
+        "title": "Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính (50 viên)",
+        "description": "Thông xoang tán Nam Dược là sản phẩm của Công ty TNHH Nam Dược có thành phần chính bạch chỉ (radix angelicae dahuricae), tân di (flos magnoliae), cảo bản (rhizoma et radix ligustici), phòng phong (radix saposhnikoviae), tế tân (herba asari), thăng ma (rhizoma cimicifugae), xuyên khung (rhizoma ligustici wallichii), cam thảo (radix glycyrrhizae)&nbsp;là thuốc điều trị viêm mũi dị ứng, viêm mũi dị ứng do thời thay đổi, viêm xoang cấp và mãn tính, ngăn ngừa tái phát viêm xoang.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6737_7094894b19.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/thong-xoang-tan-ho-tro-dieu-tri-viem-xoang-252.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/thong-xoang-tan-ho-tro-dieu-tri-viem-xoang-252.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

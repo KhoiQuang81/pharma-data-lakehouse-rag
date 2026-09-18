@@ -1,0 +1,817 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/pyfaclor-500-2484.html",
+  "ingestion_timestamp": "2026-09-05T10:56:56.116573+00:00",
+  "file_hash": "461435eee2ed64f18a6fc7c5e6895dfec3b49554c2e34986d8d5d00a183943cc",
+  "lineage_hash": "f917f5a486410cdf22434420ac8463977c072a6297024deaeb49a7085eb80a83",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/pyfaclor-500-2484.html",
+    "product": {
+      "sku": "00006196",
+      "webName": "Thuốc Pyfaclor 500mg Pymepharco điều trị viêm tai giữa, nhiễm khuẩn đường hô hấp (1 vỉ x 12 viên)",
+      "name": "PYFACLOR 500 PYMEPHARCO 1X12",
+      "shortName": "PYFACLOR 500 PMP 1X12",
+      "headingText": "Thuốc Pyfaclor 500mg",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_pyfaclor_500mg_1_vi_x_12_vien_pymepharco_00006196_49f931b77d.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_2771_60fa_large_7ffd4965ff.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_5560_60fa_large_891972ab5d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_2504_60fa_large_7f3054458d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_1539_60fa_large_6bee08a09a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_1104_60fa_large_638ad855e4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_4981_6100_large_dfe451632a.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_1618504808_539fdcc1e9.JPG",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 731,
+          "name": "Thuốc kháng sinh, kháng nấm",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 781,
+          "name": "Thuốc kháng sinh",
+          "parentName": "Thuốc kháng sinh, kháng nấm",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 1 Vỉ x 12 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "1 Vỉ x 12 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "12 Viên"
+        }
+      ],
+      "slug": "thuoc/pyfaclor-500-2484.html",
+      "ingredient": [
+        {
+          "id": 23024,
+          "ingredientId": 13526,
+          "shortDescription": "500mg",
+          "name": "Cefaclor",
+          "isPrimary": false,
+          "slug": "thanh-phan/cefaclor"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893110550624",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang cứng",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Thuốc Pyfaclor 500 mg Dùng đường uống, uống vào lúc đói.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p><em>Người lớn:</em></p>\n\n<p>Liều thông thường 250 mg mỗi 8 giờ. Liều tối đa 4 g/ngày.</p>\n\n<p>Viêm họng, viêm phế quản, viêm amiđan, nhiễm khuẩn da và mô mềm, nhiễm khuẩn đường tiết niệu dưới liều 250 - 500 mg, ngày 2 lần hoặc 250 mg, ngày 3 lần.</p>\n\n<p>Đối với các nhiễm khuẩn nặng hơn: Dùng liều 500 mg, ngày 3 lần.</p>\n\n<p>Để điều trị viêm niệu đạo do lậu cầu: Liều duy nhất 3 g phối hợp với 1 g probenecid.</p>\n\n<p><em>Bệnh nhân suy thận:</em></p>\n\n<p>Suy giảm chức năng thận nhẹ đến trung bình: Không cần điều chỉnh liều dùng. </p>\n\n<p>Trường hợp suy thận nặng: Nếu độ thanh thải creatinin 10 - 50 ml/phút, dùng 50% liều thường dùng. Nếu độ thanh thải creatinin dưới 10 ml/phút, dùng 25% liều thường dùng.</p>\n\n<p><em>Người bệnh phải thẩm tách máu:</em></p>\n\n<p>Khi thẩm tách máu, nửa đời của cefaclor trong huyết thanh giảm 25 - 30%. Vì vậy, đối với người bệnh phải thẩm tách máu đều đặn, nên dùng liều khởi đầu 250 - 500 mg cứ 6 - 8 giờ một lần, trong thời gian giữa các lần thẩm tách.</p>\n\n<p><em>Trẻ em:</em></p>\n\n<p>Liều thông thường 20 mg/kg/ngày, chia ra uống mỗi 8 giờ.</p>\n\n<p>Đối với viêm phế quản và viêm phổi: Dùng liều 20 mg/kg/ngày chia làm 3 lần. Trường hợp nhiễm khuẩn nặng hơn có thể dùng 40mg/kg/ngày chia làm nhiều lần. Liều tối đa 1 g/ngày.</p>\n\n<p>Khi sử dụng thuốc ở trẻ em, cần lựa chọn dạng bào chế phù hợp.</p>\n\n<p>Với việc chia liều (có thể sử dụng dạng viên nang cứng chứa 250 mg cefaclor hay dạng thuốc cốm cefaclor để chia liều cho phù hợp).</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tuỳ thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p><em>Dấu hiệu và triệu chứng</em></p>\n\n<p>Sau khi uống quá liều bệnh nhân có các triệu chứng: Buồn nôn, nôn, đau thượng vị, tiêu chảy. Mức độ đau thượng vị và tiêu chảy phụ thuộc vào liều lượng. Nếu có thêm các triệu chứng khác, có thể là do phản ứng thứ phát của một bệnh tiềm ẩn, của phản ứng dị ứng hay tác động của chứng ngộ độc khác kèm theo.</p>\n\n<p><em>Điều trị</em></p>\n\n<p>Điều trị triệu chứng và sử dụng các biện pháp nâng đỡ tổng trọng, bao gồm duy trì khí đạo, làm khí máu và điện giải đồ huyết thanh. Có thể dùng than hoạt tính. Không nên dùng thuốc lợi tiểu mạnh, thẩm phân phúc mạc, chạy thận nhân tạo hoặc lọc máu với than hoạt để điều trị quá liều. Ngoại trừ trường hợp uống liều gấp 5 lần liều bình thường, không cần thiết phải áp dụng biện pháp rửa dạ dày.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Pyfaclor 500 mg</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị nhiễm khuẩn do các vi khuẩn nhạy cảm: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\">Viêm tai giữa</a></strong>, nhiễm khuẩn đường hô hấp, kể cả viêm họng.</li>\n\t<li>Điều trị bệnh đường tiêu hóa, đặc biệt là bệnh viêm kết tràng.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Cefaclor là kháng sinh cephalosporin bán tổng hợp thế hệ 2, dùng đường uống. Thuốc có tác dụng diệt khuẩn do ức chế tổng hợp mucopeptid thành tế bào vi khuẩn.</p>\n\n<p>Các thử nghiệm in vitro cho thấy cefaclor có tác dụng đối với các chủng vi khuẩn: Staphylococcus kể cả những chủng tạo ra penicillinase, coagulase dương tính, coagulase âm tính; Streptococcus pneumoniae, Streptococcus pyogenes, (Streptococcus tan huyết beta nhóm A); Moraxella catarrhalis, Haemophilus influenzae (kể cả những chủng tạo ra beta lactamase, kháng ampicillin); Escherichia coli; Proteus mirabilis; Klebsiella spp.; Citrobacter diversus, Bacteroides spp. (ngoại trừ Bacteroides fragilis); Neisseria gonorrhoeae. </p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Cefaclor được hấp thu rất tốt sau khi uống. Tổng số thuốc hấp thu giống nhau dù bệnh nhân dùng lúc đói hay no. Tuy nhiên, khi dùng chung với thức ăn, nồng độ đỉnh chỉ đạt được 50 - 70% so với nồng độ đỉnh đạt được khi bệnh nhân nhịn đói và đạt được chậm hơn khoảng 45 - 60 phút. Sau khi dùng liều 250 mg, 500 mg và 1 g ở tình trạng đói, nồng độ đỉnh trung bình trong huyết thanh tương ứng là 7 mg/L, 13 mg/L và 23mg/L, đạt được sau 30 - 60 phút.</p>\n\n<p>Thuốc phân phối rộng đến khắp các mô của cơ thể. Khoảng 25% thuốc gắn kết với protein huyết tương. Thời gian bán huỷ trung bình trong huyết thanh ở người bình thường khoảng 1 giờ (từ 0,6 - 0,9 giờ).</p>\n\n<p>Ở bệnh nhân có chức năng thận suy giảm, thời gian bán hủy thường kéo dài hơn một chút.</p>\n\n<p>Ở bệnh nhân suy giảm hoàn toàn chức năng thận, thời gian bán huỷ trong huyết thanh của dạng thuốc ban đầu là 2,3 - 2,8 giờ.</p>\n\n<p>Lọc máu làm giảm thời gian bán huỷ của thuốc khoảng 25 - 30%.</p>",
+      "brand": "Pymepharco",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc Pyfaclor 500 mg</strong>, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>Máu: Tăng bạch cầu ưa eosin.</li>\n\t<li>Tiêu hóa: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">Tiêu chảy</a></strong>.</li>\n\t<li>Da: Ban da dạng sởi.</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>Toàn thân: Test Coombs trực tiếp dương tính.</li>\n\t<li>Máu: Tăng tế bào lympho, giảm bạch cầu, giảm bạch cầu trung tính. </li>\n\t<li>Tiêu hoá: Buồn nôn, nôn. </li>\n\t<li>Da: Ngứa, nổi mày đay.</li>\n\t<li>Tiết niệu - sinh dục: Viêm âm đạo, bệnh nấm Candida.</li>\n</ul>\n\n<p><em>Hiếm gặp, ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>Toàn thân: Phản ứng phản vệ, sốt, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/hoi-chung-stevens-johnson-1098.html\">hội chứng Stevens - Johnson</a></strong>, hội chứng Lyell. Phản ứng giống bệnh huyết thanh hay gặp ở trẻ em hơn người lớn: Ban đa dạng, viêm hoặc đau khớp, sốt hoặc không, có thể kèm theo hạch to, protein niệu.</li>\n\t<li>Máu: Giảm tiểu cầu, thiếu máu tan huyết.</li>\n\t<li>Tiêu hoá: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-dai-trang-mang-gia-141.html\">Viêm đại tràng màng giả</a></strong>. </li>\n\t<li>Gan: Tăng enzym gan, viêm gan và vàng da ứ mật. </li>\n\t<li>Thận: Viêm thận kẽ hồi phục, tăng nhẹ urê huyết hoặc creatinin huyết thanh hoặc xét nghiệm nước tiểu không bình thường.</li>\n\t<li>Thần kinh trung ương: Cơn động kinh (với liều cao và suy giảm chức năng thận), đau đầu, tình trạng bồn chồn, mất ngủ.</li>\n\t<li>Nhiễm khuẩn da, viêm xoang, viêm niệu đạo do lậu cầu. </li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 1 Vỉ x 12 Viên",
+      "indications": [
+        {
+          "id": 15,
+          "name": "Viêm tai giữa",
+          "slug": "benh/viem-tai-giua-474.html"
+        },
+        {
+          "id": 43,
+          "name": "Viêm xoang",
+          "slug": "benh/viem-xoang-479.html"
+        },
+        {
+          "id": 112,
+          "name": "Nhiễm trùng tiết niệu",
+          "slug": "benh/nhiem-trung-tiet-nieu-355.html"
+        },
+        {
+          "id": 229,
+          "name": "Nhiễm trùng da và mô mềm",
+          "slug": null
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "PYMEPHARCO",
+      "shortDescription": "<p><strong>Thuốc Pyfaclor 500 mg</strong> của <em>Công ty Cổ phần Pymepharco</em> có thành phần chính <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/cefaclor\">Cefaclor</a></strong> để điều trị nhiễm khuẩn do các vi khuẩn nhạy cảm: Viêm tai giữa, nhiễm khuẩn đường hô hấp, kể cả viêm họng và điều trị bệnh đường tiêu hóa, đặc biệt là bệnh viêm kết tràng.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [
+        "Trẻ em",
+        "Người cao tuổi"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Phụ nữ cho con bú"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Dị ứng thuốc",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/pymepharco",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "PYFACLOR",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "12 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 781,
+        "name": "Thuốc kháng sinh",
+        "parentName": "Thuốc kháng sinh, kháng nấm",
+        "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_pyfaclor_500mg_1_vi_x_12_vien_pymepharco_00006196_49f931b77d.jpg",
+          "alternativeText": "Thuốc Pyfaclor 500mg Pymepharco điều trị viêm tai giữa, nhiễm khuẩn đường hô hấp (1 vỉ x 12 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_2771_60fa_large_7ffd4965ff.jpg",
+          "alternativeText": "Thuốc Pyfaclor 500mg Pymepharco điều trị viêm tai giữa, nhiễm khuẩn đường hô hấp (1 vỉ x 12 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_5560_60fa_large_891972ab5d.jpg",
+          "alternativeText": "Thuốc Pyfaclor 500mg Pymepharco điều trị viêm tai giữa, nhiễm khuẩn đường hô hấp (1 vỉ x 12 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_2504_60fa_large_7f3054458d.jpg",
+          "alternativeText": "Thuốc Pyfaclor 500mg Pymepharco điều trị viêm tai giữa, nhiễm khuẩn đường hô hấp (1 vỉ x 12 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_1539_60fa_large_6bee08a09a.jpg",
+          "alternativeText": "Thuốc Pyfaclor 500mg Pymepharco điều trị viêm tai giữa, nhiễm khuẩn đường hô hấp (1 vỉ x 12 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_1104_60fa_large_638ad855e4.jpg",
+          "alternativeText": "Thuốc Pyfaclor 500mg Pymepharco điều trị viêm tai giữa, nhiễm khuẩn đường hô hấp (1 vỉ x 12 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_4981_6100_large_dfe451632a.jpg",
+          "alternativeText": "Thuốc Pyfaclor 500mg Pymepharco điều trị viêm tai giữa, nhiễm khuẩn đường hô hấp (1 vỉ x 12 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_1618504808_539fdcc1e9.JPG",
+          "alternativeText": "Thuốc Pyfaclor 500mg Pymepharco điều trị viêm tai giữa, nhiễm khuẩn đường hô hấp (1 vỉ x 12 viên) 8"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc kháng sinh, kháng nấm",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam"
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh"
+      }
+    ],
+    "content": {
+      "sku": "00006196",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Thuốc Pyfaclor 500 mg Dùng đường uống, uống vào lúc đói.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p><em>Người lớn:</em></p>\n\n<p>Liều thông thường 250 mg mỗi 8 giờ. Liều tối đa 4 g/ngày.</p>\n\n<p>Viêm họng, viêm phế quản, viêm amiđan, nhiễm khuẩn da và mô mềm, nhiễm khuẩn đường tiết niệu dưới liều 250 - 500 mg, ngày 2 lần hoặc 250 mg, ngày 3 lần.</p>\n\n<p>Đối với các nhiễm khuẩn nặng hơn: Dùng liều 500 mg, ngày 3 lần.</p>\n\n<p>Để điều trị viêm niệu đạo do lậu cầu: Liều duy nhất 3 g phối hợp với 1 g probenecid.</p>\n\n<p><em>Bệnh nhân suy thận:</em></p>\n\n<p>Suy giảm chức năng thận nhẹ đến trung bình: Không cần điều chỉnh liều dùng. </p>\n\n<p>Trường hợp suy thận nặng: Nếu độ thanh thải creatinin 10 - 50 ml/phút, dùng 50% liều thường dùng. Nếu độ thanh thải creatinin dưới 10 ml/phút, dùng 25% liều thường dùng.</p>\n\n<p><em>Người bệnh phải thẩm tách máu:</em></p>\n\n<p>Khi thẩm tách máu, nửa đời của cefaclor trong huyết thanh giảm 25 - 30%. Vì vậy, đối với người bệnh phải thẩm tách máu đều đặn, nên dùng liều khởi đầu 250 - 500 mg cứ 6 - 8 giờ một lần, trong thời gian giữa các lần thẩm tách.</p>\n\n<p><em>Trẻ em:</em></p>\n\n<p>Liều thông thường 20 mg/kg/ngày, chia ra uống mỗi 8 giờ.</p>\n\n<p>Đối với viêm phế quản và viêm phổi: Dùng liều 20 mg/kg/ngày chia làm 3 lần. Trường hợp nhiễm khuẩn nặng hơn có thể dùng 40mg/kg/ngày chia làm nhiều lần. Liều tối đa 1 g/ngày.</p>\n\n<p>Khi sử dụng thuốc ở trẻ em, cần lựa chọn dạng bào chế phù hợp.</p>\n\n<p>Với việc chia liều (có thể sử dụng dạng viên nang cứng chứa 250 mg cefaclor hay dạng thuốc cốm cefaclor để chia liều cho phù hợp).</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tuỳ thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p><em>Dấu hiệu và triệu chứng</em></p>\n\n<p>Sau khi uống quá liều bệnh nhân có các triệu chứng: Buồn nôn, nôn, đau thượng vị, tiêu chảy. Mức độ đau thượng vị và tiêu chảy phụ thuộc vào liều lượng. Nếu có thêm các triệu chứng khác, có thể là do phản ứng thứ phát của một bệnh tiềm ẩn, của phản ứng dị ứng hay tác động của chứng ngộ độc khác kèm theo.</p>\n\n<p><em>Điều trị</em></p>\n\n<p>Điều trị triệu chứng và sử dụng các biện pháp nâng đỡ tổng trọng, bao gồm duy trì khí đạo, làm khí máu và điện giải đồ huyết thanh. Có thể dùng than hoạt tính. Không nên dùng thuốc lợi tiểu mạnh, thẩm phân phúc mạc, chạy thận nhân tạo hoặc lọc máu với than hoạt để điều trị quá liều. Ngoại trừ trường hợp uống liều gấp 5 lần liều bình thường, không cần thiết phải áp dụng biện pháp rửa dạ dày.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ hướng dẫn sử dụng thuốc Pyfaclor 500 mg.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc Pyfaclor 500 mg</strong>, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>Máu: Tăng bạch cầu ưa eosin.</li>\n\t<li>Tiêu hóa: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">Tiêu chảy</a></strong>.</li>\n\t<li>Da: Ban da dạng sởi.</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>Toàn thân: Test Coombs trực tiếp dương tính.</li>\n\t<li>Máu: Tăng tế bào lympho, giảm bạch cầu, giảm bạch cầu trung tính. </li>\n\t<li>Tiêu hoá: Buồn nôn, nôn. </li>\n\t<li>Da: Ngứa, nổi mày đay.</li>\n\t<li>Tiết niệu - sinh dục: Viêm âm đạo, bệnh nấm Candida.</li>\n</ul>\n\n<p><em>Hiếm gặp, ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>Toàn thân: Phản ứng phản vệ, sốt, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/hoi-chung-stevens-johnson-1098.html\">hội chứng Stevens - Johnson</a></strong>, hội chứng Lyell. Phản ứng giống bệnh huyết thanh hay gặp ở trẻ em hơn người lớn: Ban đa dạng, viêm hoặc đau khớp, sốt hoặc không, có thể kèm theo hạch to, protein niệu.</li>\n\t<li>Máu: Giảm tiểu cầu, thiếu máu tan huyết.</li>\n\t<li>Tiêu hoá: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-dai-trang-mang-gia-141.html\">Viêm đại tràng màng giả</a></strong>. </li>\n\t<li>Gan: Tăng enzym gan, viêm gan và vàng da ứ mật. </li>\n\t<li>Thận: Viêm thận kẽ hồi phục, tăng nhẹ urê huyết hoặc creatinin huyết thanh hoặc xét nghiệm nước tiểu không bình thường.</li>\n\t<li>Thần kinh trung ương: Cơn động kinh (với liều cao và suy giảm chức năng thận), đau đầu, tình trạng bồn chồn, mất ngủ.</li>\n\t<li>Nhiễm khuẩn da, viêm xoang, viêm niệu đạo do lậu cầu. </li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Nơi khô, mát (dưới 30°C). Tránh ánh sáng.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Pyfaclor 500 mg</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị nhiễm khuẩn do các vi khuẩn nhạy cảm: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\">Viêm tai giữa</a></strong>, nhiễm khuẩn đường hô hấp, kể cả viêm họng.</li>\n\t<li>Điều trị bệnh đường tiêu hóa, đặc biệt là bệnh viêm kết tràng.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Cefaclor là kháng sinh cephalosporin bán tổng hợp thế hệ 2, dùng đường uống. Thuốc có tác dụng diệt khuẩn do ức chế tổng hợp mucopeptid thành tế bào vi khuẩn.</p>\n\n<p>Các thử nghiệm in vitro cho thấy cefaclor có tác dụng đối với các chủng vi khuẩn: Staphylococcus kể cả những chủng tạo ra penicillinase, coagulase dương tính, coagulase âm tính; Streptococcus pneumoniae, Streptococcus pyogenes, (Streptococcus tan huyết beta nhóm A); Moraxella catarrhalis, Haemophilus influenzae (kể cả những chủng tạo ra beta lactamase, kháng ampicillin); Escherichia coli; Proteus mirabilis; Klebsiella spp.; Citrobacter diversus, Bacteroides spp. (ngoại trừ Bacteroides fragilis); Neisseria gonorrhoeae. </p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Cefaclor được hấp thu rất tốt sau khi uống. Tổng số thuốc hấp thu giống nhau dù bệnh nhân dùng lúc đói hay no. Tuy nhiên, khi dùng chung với thức ăn, nồng độ đỉnh chỉ đạt được 50 - 70% so với nồng độ đỉnh đạt được khi bệnh nhân nhịn đói và đạt được chậm hơn khoảng 45 - 60 phút. Sau khi dùng liều 250 mg, 500 mg và 1 g ở tình trạng đói, nồng độ đỉnh trung bình trong huyết thanh tương ứng là 7 mg/L, 13 mg/L và 23mg/L, đạt được sau 30 - 60 phút.</p>\n\n<p>Thuốc phân phối rộng đến khắp các mô của cơ thể. Khoảng 25% thuốc gắn kết với protein huyết tương. Thời gian bán huỷ trung bình trong huyết thanh ở người bình thường khoảng 1 giờ (từ 0,6 - 0,9 giờ).</p>\n\n<p>Ở bệnh nhân có chức năng thận suy giảm, thời gian bán hủy thường kéo dài hơn một chút.</p>\n\n<p>Ở bệnh nhân suy giảm hoàn toàn chức năng thận, thời gian bán huỷ trong huyết thanh của dạng thuốc ban đầu là 2,3 - 2,8 giờ.</p>\n\n<p>Lọc máu làm giảm thời gian bán huỷ của thuốc khoảng 25 - 30%.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3><strong>Chống chỉ định</strong></h3>\n\n<p><strong>Thuốc Pyfaclor 500 mg</strong> chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Bệnh nhân nhạy cảm với kháng sinh nhóm cephalosporin.</li>\n\t<li>Trẻ em dưới 1 tháng tuổi.</li>\n</ul>\n\n<h3><strong>Thận trọng khi sử dụng</strong></h3>\n\n<p>Thận trọng sử dụng đối với bệnh nhân có tiền sử mẫn cảm với penicillin.</p>\n\n<p>Cẩn thận khi dùng cefaclor cho bệnh nhân suy thận nặng.</p>\n\n<p>Bệnh nhân có bệnh đường tiêu hóa, đặc biệt bệnh nhân có bệnh viêm kết tràng.</p>\n\n<h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3>\n\n<p>Cefaclor không ảnh hưởng đến khả năng lái xe và vận hành máy móc. Tuy nhiên, một số trường hợp hiếm gặp có thể gây đau đầu, chóng mặt, ngủ gà. Do đó, người bệnh sử dụng thuốc nên thận trọng khi lái xe và vận hành máy móc.</p>\n\n<h3><strong>Thời kỳ mang thai</strong></h3>\n\n<p>Chỉ sử dụng cho phụ nữ có thai khi thật cần thiết. </p>\n\n<h3><strong>Thời kỳ cho con bú</strong></h3>\n\n<p>Chỉ sử dụng cho phụ nữ cho con bú khi thật cần thiết. </p>\n\n<h3><strong>Tương tác thuốc</strong></h3>\n\n<p>Probenecid làm chậm bài tiết cefaclor.</p>\n\n<p>Sự hấp thu của cefaclor giảm nếu dùng chung với các thuốc kháng acid có chứa aluminium hydroxid hay magnesium hydroxid trong vòng 1 giờ.</p>\n\n<p>Cefaclor gây kéo dài thời gian prothrombin.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Pyfaclor 500mg trị nhiễm khuẩn đường hô hấp (12 viên)",
+        "metaDescription": "Thuốc Pyfaclor 500mg Pymepharco điều trị nhiễm khuẩn do các vi khuẩn nhạy cảm: Viêm tai giữa, nhiễm khuẩn đường hô hấp, kể cả viêm họng,...",
+        "id": 2715,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_pyfaclor_500mg_1_vi_x_12_vien_pymepharco_00006196_49f931b77d.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Pyfaclor 500mg Pymepharco điều trị viêm tai giữa, nhiễm khuẩn đường hô hấp (1 vỉ x 12 viên)",
+            "description": "Thuốc Pyfaclor 500 mg của Công ty Cổ phần Pymepharco có thành phần chính Cefaclor để điều trị nhiễm khuẩn do các vi khuẩn nhạy cảm: Viêm tai giữa, nhiễm khuẩn đường hô hấp, kể cả viêm họng và điều trị bệnh đường tiêu hóa, đặc biệt là bệnh viêm kết tràng."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 34722,
+        "title": "Pyfaclor 500mg có tương tác với những loại thuốc hoặc chất nào khác không?",
+        "content": "<p>Có, Pyfaclor 500mg có thể tương tác với một số thuốc và chất khác:</p><ul><li><strong>Probenecid:</strong> Probenecid có thể làm chậm quá trình bài tiết của cefaclor, dẫn đến tăng nồng độ cefaclor trong máu.</li><li><strong>Thuốc kháng acid:</strong> Sự hấp thu của cefaclor có thể giảm nếu dùng chung với các thuốc kháng acid có chứa aluminium hydroxid hay magnesium hydroxid trong vòng 1 giờ.</li><li><strong>Thuốc chống đông máu:</strong> Cefaclor có thể gây kéo dài thời gian prothrombin, do đó cần thận trọng khi dùng đồng thời với các thuốc chống đông máu.</li></ul>"
+      },
+      {
+        "id": 34721,
+        "title": "Những đối tượng nào không nên sử dụng Pyfaclor 500mg?",
+        "content": "<ul><li>Bệnh nhân nhạy cảm với kháng sinh nhóm cephalosporin.</li><li>Trẻ em dưới 1 tháng tuổi.</li></ul>"
+      },
+      {
+        "id": 34720,
+        "title": "Tác dụng phụ không mong muốn thường gặp khi sử dụng Pyfaclor 500mg là gì và cách xử trí?",
+        "content": "<p>Khi sử dụng Pyfaclor 500mg, bệnh nhân có thể gặp một số tác dụng không mong muốn (ADR).</p><p><strong>Thường gặp (&gt;1/100):</strong></p><ul><li>Máu: Tăng bạch cầu ưa eosin.</li><li>Tiêu hóa: Tiêu chảy.</li><li>Da: Ban da dạng sởi.</li></ul><p><strong>Cách xử trí ADR:</strong> Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>"
+      },
+      {
+        "id": 34723,
+        "title": "Cách dùng của Pyfaclor 500mg là gì?",
+        "content": "<p>Thuốc Pyfaclor 500mg được dùng đường uống và nên uống vào lúc đói để đạt hiệu quả hấp thu tốt nhất.</p>"
+      },
+      {
+        "id": 34719,
+        "title": "Thuốc Pyfaclor 500mg được chỉ định để điều trị những bệnh nào?",
+        "content": "<p>Pyfaclor 500mg được chỉ định để điều trị các trường hợp nhiễm khuẩn do các vi khuẩn nhạy cảm, bao gồm:</p><ul><li>Viêm tai giữa.</li><li>Nhiễm khuẩn đường hô hấp, kể cả viêm họng, viêm phế quản và viêm phổi.</li><li>Nhiễm trùng tiết niệu.</li><li>Nhiễm trùng da và mô mềm.</li><li>Bệnh đường tiêu hóa, đặc biệt là bệnh viêm kết tràng.</li><li>Viêm niệu đạo do lậu cầu.</li></ul>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 12,
+      "items": [
+        {
+          "id": 3327090,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0976xxxxxx",
+          "name": "a long",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiu 1 hộp shop",
+          "createdAt": "2026-06-24 09:22:30",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-24 09:22:30",
+          "replies": [
+            {
+              "id": 3327092,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Nhật Tân",
+                "moderatorEmail": "tannn23@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Nhật Tân",
+              "email": "tannn23@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Long,</p><p>Hiện tại, sản phẩm Thuốc Pyfaclor 500mg Pymepharco điều trị viêm tai giữa, nhiễm khuẩn đường hô hấp (1 vỉ x 12 viên) có giá 84,000 ₫/hộp</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a>&nbsp;<a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-06-24 09:24:48",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-24 09:22:30",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3274531,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0336xxxxxx",
+          "name": "quý",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 hộp vậy ạ",
+          "createdAt": "2026-03-16 09:24:16",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-16 09:24:16",
+          "replies": [
+            {
+              "id": 3274557,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Bích Diệp",
+                "moderatorEmail": "diepnb6@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Bích Diệp",
+              "email": "diepnb6@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Quý,</p><p>Hiện tại, sản phẩm Thuốc Pyfaclor 500mg Pymepharco điều trị viêm tai giữa, nhiễm khuẩn đường hô hấp (1 vỉ x 12 viên) có giá 84,000 ₫/hộp</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a> <a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-03-16 09:36:17",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-16 09:24:16",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3245324,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0934xxxxxx",
+          "name": "Hoàng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Bao nhiêu một hộp",
+          "createdAt": "2026-01-14 10:31:28",
+          "createdAtDisplay": "7 tháng trước",
+          "updatedAt": "2026-01-14 10:31:28",
+          "replies": [
+            {
+              "id": 3245333,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Thị Bích Lựu",
+                "moderatorEmail": "luuntb4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Thị Bích Lựu",
+              "email": "luuntb4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Hoàng, </p><p>Hiện tại, sản phẩm PYFACLOR 500 PMP 1X12 có giá 84,000 ₫/ hộp.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-01-14 10:39:34",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-01-14 10:31:28",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3178616,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0399xxxxxx",
+          "name": "Quỳnh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá sản phẩm",
+          "createdAt": "2025-09-12 09:43:28",
+          "createdAtDisplay": "11 tháng trước",
+          "updatedAt": "2025-09-12 09:43:25",
+          "replies": [
+            {
+              "id": 3178618,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mạc Thị Tuyết Anh",
+                "moderatorEmail": "anhmtt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mạc Thị Tuyết Anh",
+              "email": "anhmtt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Quỳnh,</p><p>Hiện tại, sản phẩm có giá 84,000đ/hộp, mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p> Thân mến!</p>",
+              "createdAt": "2025-09-12 09:44:56",
+              "createdAtDisplay": "11 tháng trước",
+              "updatedAt": "2025-09-12 09:43:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3129969,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0369xxxxxx",
+          "name": "Quân",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mua 1h nhiêu vậy nhà thuốc",
+          "createdAt": "2025-06-19 10:38:31",
+          "createdAtDisplay": "19/06/2025",
+          "updatedAt": "2025-06-19 10:38:22",
+          "replies": [
+            {
+              "id": 3129971,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Chu Thị Quỳnh",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Chu Thị Quỳnh",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Quân, </p><p>Hiện tại, sản phẩm có giá 81,600 ₫/hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p>",
+              "createdAt": "2025-06-19 10:39:01",
+              "createdAtDisplay": "19/06/2025",
+              "updatedAt": "2025-06-19 10:38:22",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 757493,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0987xxxxxx",
+          "name": "Anh Bình",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2024-02-16 09:31:19",
+          "createdAtDisplay": "16/02/2024",
+          "updatedAt": "2024-02-16 09:33:24",
+          "replies": [
+            {
+              "id": 757510,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Quang Ngọc Dũng",
+                "moderatorEmail": "DungTQN@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Trần Quang Ngọc Dũng",
+              "email": "DungTQN@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào Anh Bình,</span><br><span>  Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu. Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.   </span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p>",
+              "createdAt": "2024-02-16 09:33:24",
+              "createdAtDisplay": "16/02/2024",
+              "updatedAt": "2024-02-16 09:33:24",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Pyfaclor 500mg Pymepharco điều trị viêm tai giữa, nhiễm khuẩn đường hô hấp (1 vỉ x 12 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_pyfaclor_500mg_1_vi_x_12_vien_pymepharco_00006196_49f931b77d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_2771_60fa_large_7ffd4965ff.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_5560_60fa_large_891972ab5d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_2504_60fa_large_7f3054458d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_1539_60fa_large_6bee08a09a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_1104_60fa_large_638ad855e4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006196_pyfaclor_500_4981_6100_large_dfe451632a.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Pyfaclor 500 mg của Công ty Cổ phần Pymepharco có thành phần chính Cefaclor để điều trị nhiễm khuẩn do các vi khuẩn nhạy cảm: Viêm tai giữa, nhiễm khuẩn đường hô hấp, kể cả viêm họng và điều trị bệnh đường tiêu hóa, đặc biệt là bệnh viêm kết tràng.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Pyfaclor 500mg trị nhiễm khuẩn đường hô hấp (12 viên)",
+      "description": "Thuốc Pyfaclor 500mg Pymepharco điều trị nhiễm khuẩn do các vi khuẩn nhạy cảm: Viêm tai giữa, nhiễm khuẩn đường hô hấp, kể cả viêm họng,...",
+      "openGraph": {
+        "title": "Thuốc Pyfaclor 500mg Pymepharco điều trị viêm tai giữa, nhiễm khuẩn đường hô hấp (1 vỉ x 12 viên)",
+        "description": "Thuốc Pyfaclor 500 mg của Công ty Cổ phần Pymepharco có thành phần chính Cefaclor để điều trị nhiễm khuẩn do các vi khuẩn nhạy cảm: Viêm tai giữa, nhiễm khuẩn đường hô hấp, kể cả viêm họng và điều trị bệnh đường tiêu hóa, đặc biệt là bệnh viêm kết tràng.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_pyfaclor_500mg_1_vi_x_12_vien_pymepharco_00006196_49f931b77d.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/pyfaclor-500-2484.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/pyfaclor-500-2484.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

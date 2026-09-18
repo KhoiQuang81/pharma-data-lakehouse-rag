@@ -1,0 +1,819 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/mecefix-be-150-3099.html",
+  "ingestion_timestamp": "2026-09-05T10:31:16.698423+00:00",
+  "file_hash": "a33c33f88887c8df1ab8f3427f0ebfa2d2d12f2bf00eba5e89030ed32fe495d6",
+  "lineage_hash": "975e6604302ffb280a4d306a2a83b6d43cbd21a9d4bf27666f7364a1163c5e20",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/mecefix-be-150-3099.html",
+    "product": {
+      "sku": "00004744",
+      "webName": "Thuốc Mecefix-B.E 150mg Merap điều trị nhiễm khuẩn đường tiết niệu, viêm tai giữa (2 vỉ x 10 viên)",
+      "name": "MECEFIX B.E 150  2X10",
+      "shortName": "MECEFIX- B.E 150MG (VIÊN)",
+      "headingText": "Thuốc Mecefix-B.E 150mg",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_mecefix_be_150mg_2_vi_x_10_vien_merap_00004744_7c46d27519.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_1931_6424_large_0dfeb9f084.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_6751_6424_large_29557fc66e.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_2250_6424_large_f4562cb497.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_5250_6424_large_ec8768ea5d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_1814_6424_large_52d559aec4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_2986_6424_large_1e60cab602.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_1795_6424_large_6a59d9aec1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_6366_6424_large_33703d1463.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_6154_6424_large_ebfd678fe8.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_1680145892_d09047ee25.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 731,
+          "name": "Thuốc kháng sinh, kháng nấm",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 781,
+          "name": "Thuốc kháng sinh",
+          "parentName": "Thuốc kháng sinh, kháng nấm",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 2 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "2 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/mecefix-be-150-3099.html",
+      "ingredient": [
+        {
+          "id": 22260,
+          "ingredientId": 13578,
+          "shortDescription": "150mg",
+          "name": "Cefixim",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893110182024",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang cứng",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc dùng đường uống.</p><h3>Liều dùng</h3><p><i>Người lớn</i></p><p>Liều khuyến cáo của cefixime là 400 mg/ngày, dùng liều uống duy nhất hoặc chia làm 2 lần, cách nhau 12 giờ.&nbsp;</p><p>Trong điều trị bệnh lậu cổ tử cung/niệu đạo không biến chứng, một liều uống duy nhất 400 mg được khuyến cáo. Thuốc có thể uống không phụ thuộc thời điểm của bữa ăn.</p><p>Trong điều trị nhiễm khuẩn do Streptococcus pyogenes<i>,</i> thời gian điều trị với cefixime tối thiểu là 10 ngày.</p><p><i>Trẻ em</i></p><p>Trẻ em từ 6 tháng tuổi: Liều khuyến cáo là 8 mg/kg/ngày, dùng liều uống duy nhất hoặc chia làm 2 lần, 4 mg/kg mỗi 12 giờ.</p><p>Liều khuyến cáo ở đối tượng trẻ em có thể được xác định với từng khoảng cân nặng theo Bảng 1 dưới đây.</p><p>Bảng 1. Liều khuyến cáo của cefixime trên đối tượng trẻ em theo cân nặng</p><figure class=\"table\"><table><tbody><tr><td>Cân nặng của trẻ (kg)</td><td>Liều dùng/ngày (mg)</td></tr><tr><td>5 - 7.5*</td><td>50</td></tr><tr><td>7,6 - 10</td><td>80</td></tr><tr><td>10,1 - 12,5</td><td>100</td></tr><tr><td>12,6 - 20,5</td><td>150</td></tr><tr><td>20,6 - 28</td><td>200</td></tr><tr><td>28,1 - 33</td><td>250</td></tr><tr><td>33,1 - 40</td><td>300</td></tr><tr><td>40,1 - 45</td><td>350</td></tr><tr><td>Từ trên 45,1</td><td>400</td></tr></tbody></table></figure><p>* Nồng độ thuốc trong hỗn dịch phù hợp với trẻ em có khoảng cân nặng này là 100 mg/5 ml hoặc 200 mg/5 ml.</p><p>Liều dùng đối với trẻ em từ trên 45 kg hoặc trên 12 tuổi tương tự liều khuyến cáo ở người lớn.</p><p>Điều trị viêm tai giữa nên dùng dạng hỗn dịch. Các thử nghiệm lâm sàng về điều trị viêm tai giữa cho thấy nồng độ dược chất trong máu khi sử&nbsp;dụng dạng hỗn dịch cao hơn so với khi sử dụng dạng viên nén trên cùng một liều dùng.</p><p><i>Bệnh nhân suy thận</i></p><p>Đối với bệnh nhân có độ thanh thải creatinin từ 60 ml/phút trở lên, không cần điều chỉnh liều. Đối với các bệnh nhân suy thận, cần điều chỉnh liều dùng theo Bảng 2. Thẩm tách máu và thẩm phân phúc mạc đều không loại được một lượng thuốc đáng kể ra khỏi máu.</p><p>Bảng 2. Liều dùng trên đối tượng bệnh nhân suy thận</p><figure class=\"table\"><table><tbody><tr><td>Độ thanh thải Creatinin (ml/phút)</td><td>Liều dùng/ngày (mg)</td></tr><tr><td>Từ trên 60</td><td>Liều thông thường</td></tr><tr><td>21 - 59* hoặc thẩm tách máu</td><td>260</td></tr><tr><td>Tứ dưới 20 hoặc thẩm phân phúc mạc liên tục</td><td>172</td></tr></tbody></table></figure><p>* Nồng độ thuốc trong hỗn dịch phù hợp với bệnh nhân suy thận là 200 mg/5 ml hoặc 500 mg/5 ml.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p><i>Triệu chứng quá liều</i></p><p>Khi quá liều cefixime có thể có triệu chứng co giật. Các tác dụng không mong muốn trên một số nhỏ những người tình nguyện khỏe mạnh khi uống liều duy nhất 2 g cefixime không khác những bệnh nhân được điều trị ở liều khuyến cáo.</p><p><i>Xử trí quá liều</i></p><p>Do không có thuốc điều trị đặc hiệu nên chủ yếu điều trị triệu chứng. Ngừng thuốc ngay và xử trí như sau: Rửa dạ dày, có thể dùng thuốc chống co giật nếu có chỉ định lâm sàng. Do cefixime không được loại ra khỏi tuần hoàn một lượng đáng kể bằng thẩm tách máu hoặc thẩm phân phúc mạc nên không thực hiện các biện pháp này.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu quên không dùng thuốc, hãy dùng ngay khi nhớ ra. Tuy nhiên, nếu đã gần đến thời điểm của liều kế tiếp, hãy bỏ qua liều đã quên. Không dùng liều cao gấp đôi để bù cho liều đã quên.</p>",
+      "usage": "<h3>Chỉ định</h3><p><strong>Thuốc Mecefix - B.E 150 mg</strong> được chỉ định dùng để&nbsp;điều trị các nhiễm khuẩn gây bởi vi khuẩn nhạy cảm ở người lớn và trẻ em từ 6 tháng tuổi trở lên bao gồm:</p><p>Nhiễm khuẩn đường tiết niệu không biến chứng gây bởi Escherichia coli và Proteus mirabills.</p><p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\"><strong>Viêm tai giữa</strong></a> gây bởi Haemophilus influenzae, Moraxella catarrhalis và Streptococcus pyogenes (hiệu quả điều trị đối với viêm tai giữa gây bởi Streptococcus pyogenes được nghiên cứu ít hơn 10 trường hợp).</p><p>Viêm họng và <a href=\"https://nhathuoclongchau.com.vn/benh/viem-amidan-467.html\"><strong>viêm amiđan</strong></a> gây bởi Streptococcus pyogenes (chú ý: Penicillin là thuốc thường được lựa chọn trong điều trị nhiễm khuẩn gây bởi Streptococcus pyogenes. Cefixime thường hiệu quả trong loại bỏ triệt để Streptococcus pyogenes vùng vòm họng; tuy nhiên không có dữ liệu công bố hiệu quả của cefixime trong ngăn ngừa biến chứng sốt thấp khớp).</p><p>Đợt kịch phát của viêm phế quản mạn tính gây bởi Streptococcus pneumoniae và Haemophilus influenzae.</p><p>Bệnh lậu không biến chứng (cổ tử cung/niệu đạo) gây bởi Neisseria gonorrhoeae (các chủng sinh penicillinase và không sinh penicillinase).</p><h3>Dược lực học</h3><p><i>Cơ chế tác dụng</i></p><p>Giống như các cephalosporin khác, tác dụng diệt khuẩn của cefixime là do ức chế tổng hợp vách tế bào. Cefixime ổn định cao dưới sự hiện diện của nhiều enzym beta-lactamase. Do đó, nhiều vi khuẩn kháng penicillin và một số cephalosporin nhờ sự hiện diện của beta-lactamase có thể nhạy cảm với cefixime.</p><p><i>Kháng thuốc</i></p><p>Sự kháng thuốc với cefixime của Haemophilus influenzae và Neisseria gonorrhoeae thường liên quan đến sự thay đổi các protein gắn với penicillin (PBPs). Cefixime có thể có hoạt động giới hạn đối với họ vi khuẩn đường ruột sinh beta-lactamase phổ rộng (ESBLs). Các loài Pseudomonas, Enterococcus, các chủng liên cầu nhóm D, Listeria monocytogenes, hầu hết các chủng tụ cầu (bao gồm các chủng kháng methicillin), các chủng Bacteroides fragilis, và hầu hết các chủng của các loài Enterobacter, Clostridium đều kháng với cefixime.</p><p><i>Phổ kháng khuẩn</i></p><p>Cefixime đã được chỉ ra rằng có hoạt tính đối với hầu hết các chủng của các vi khuẩn sau trên cả in vitro và các nhiễm khuẩn lâm sàng.</p><ul><li>Vi khuẩn Gram dương: Streptococcus pneumonia, Streptococcus pyogenes.</li><li>Vi khuẩn Gram âm: Escherichia coli, Haemophilus influenzae, Moraxella catarrhalis,&nbsp;Neisseria gonorrhoeae, Proteus mirabilis<i>.</i></li></ul><p>Ít nhất 90% các vi khuẩn dưới đây có nồng độ ức chế tối thiểu (MIC) in vitro nhỏ hơn hoặc bằng điểm gây nhạy cảm (susceptible breakpoint) của cefixime đối với các chủng của chi hoặc nhóm sinh vật tương tự. Tuy nhiên, hiệu quả của cefixime trong điều trị nhiễm khuẩn lâm sàng gây ra bởi các vi khuẩn này chưa được thiết lập bởi các thử nghiệm lâm sàng đầy đủ và được kiểm soát tốt.</p><ul><li>Vi khuẩn Gram dương: Streptococcus agalactiae.</li><li>Vi khuẩn Gram âm: Citrobacter amalonaticus, Citrobacter diversus, Haemophilus parainfluenzae, Klebsiella oxytoca, Klebsiella pneumoniae, Pasteurella multocida, Proteus vulgaris, Serratia marcescens, các loài Providencia, Salmonella, Shigella.</li></ul><h3>Dược động học</h3><p><strong>Hấp thu</strong></p><p>Viên nang 400 mg và viên nén 400 mg cefixime tương đương sinh học khi uống thuốc trong tình trạng đói. Nồng độ đỉnh trong huyết tương đạt 2 pg/ml (1 - 4 pg/ml) và đạt 3,7 pg/ml (1,3 - 7,7 pg/m) sau khi uống một liều duy nhất viên nén 200 và 400 mg khoảng 2 - 6 giờ. Khi uống thuốc trong tình trạng no, thức ăn làm giảm sự hấp thu, biểu hiện thông qua giảm 15% diện tích dưới đường cong và 25% nồng độ đỉnh trong huyết tương của thuốc.</p><p><strong>Phân bố</strong></p><p>Khoảng 65% cefixime trong máu gắn với protein huyết tương và sự gắn kết này không phụ thuộc nồng độ.</p><p><strong>Chuyển hóa và thải trừ</strong></p><p>Khoảng 50% liều hấp thu của thuốc được thải trừ qua nước tiểu dưới dạng không đổi trong 24 giờ. Trong các nghiên cứu trên động vật, trên 10% liều dùng cefixime cũng được thải trừ qua mật. Thời gian bán thải của cefixime ở những người khỏe mạnh không phụ thuộc vào dạng bào chế và trung bình là từ 3 đến 4 giờ, nhưng có thể lên đến 9 giờ ở một số người tình nguyện bình thường.</p><p><strong>Các đối tượng đặc biệt</strong></p><p><i>Người cao tuổi</i></p><p>Diện tích dưới đường cong trung bình tại trạng thái ổn định ở bệnh nhân cao tuổi cao hơn khoảng 40% so với người trưởng thành. Các thông số dược động học giữa 12 đối tượng trẻ tuổi và 12 đối tượng cao tuổi cùng dùng liều cefixime 400 mg/ngày trong 5 ngày có sự khác biệt có ý nghĩa thống kê. Tuy nhiên, sự chênh lệch này không đáng kể trên lâm sàng.</p><p><i>Suy thận</i></p><p>Ở những bệnh nhân có suy giảm chức năng thận trung bình (độ thanh thải creatinin 20 - 40 ml/phút), thời gian bán thải trung bình của cefìxime kéo dài lên tới 6,4 giờ. Khi suy thận nặng (độ thanh thải creatinin 5 - 20 ml/phút), thời gian bán thải trung bình tăng đến 11,5 giờ. Thẩm tách máu và thẩm phân phúc mạc đều không loại được một lượng thuốc đáng kể ra khỏi máu. Tuy nhiên, một nghiên cứu chỉ ra rằng với liều 400 mg, các thông số dược động học ở bệnh nhân đang thẩm tách máu tương tự như ở người có độ thanh thải creatinin từ 21 đến 60 ml/phút.</p>",
+      "brand": "Merap",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Mecefix - B.E 150 mg, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thông tin từ các thử nghiệm lâm sàng</em></p>\n\n<p>Thường gặp, ADR &gt; 1/100</p>\n\n<ul>\n\t<li>\n\t<p>Hệ tiêu hóa: Tiêu chảy, đi ngoài phân lỏng hoặc thường xuyên, đau bụng, buồn nôn, khó tiêu, <strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/chuong-bung-day-hoi-phai-lam-the-nao-49779.html\">đầy hơi</a></strong>. </p>\n\t</li>\n</ul>\n\n<p><em>Thông tin từ quá trình lưu hành</em></p>\n\n<p>Tỷ lệ gặp phải: ADR &lt; 2/100</p>\n\n<ul>\n\t<li>\n\t<p>Hệ tiêu hóa: Đau bụng, khó tiêu, đầy hơi, tiêu chảy, buồn nôn và nôn.</p>\n\t</li>\n\t<li>\n\t<p>Hệ miễn dịch, da và mô dưới da: Các phản ứng phản vệ (bao gồm sốc và có thể tử vong), phát ban da, mày đay, sốt do thuốc, ngứa, ngứa bộ phận sinh dục, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-am-dao-504.html\">viêm âm đạo</a></strong>, đau khớp, phù mạch, phù mặt. Hồng ban đa dạng, hội chứng Stevens-Johnson, hoại tử thượng bì nhiễm độc (hội chứng Lyell) và phản ứng giống bệnh huyết thanh đã được báo cáo.</p>\n\t</li>\n\t<li>\n\t<p>Gan: Viêm gan, vàng da.</p>\n\t</li>\n\t<li>\n\t<p>Nhiễm khuẩn và ký sinh trùng: Một số trường hợp viêm đại tràng giả mạc đã được phát hiện trong các thử nghiệm lâm sàng. Các triệu chứng khởi phát của viêm đại tràng giả mạc có thể xuất hiện trong hoặc sau điều trị. Bệnh nấm Candida.</p>\n\t</li>\n\t<li>\n\t<p>Thận: Suy thận cấp bao gồm viêm ống thận mô kẽ là tình trạng bệnh lý cơ bản.</p>\n\t</li>\n\t<li>\n\t<p>Hệ thần kinh trung ương: Nhức đầu, chóng mặt, co giật.</p>\n\t</li>\n\t<li>\n\t<p>Hô hấp, lồng ngực và trung thất: Khó thở.</p>\n\t</li>\n\t<li>\n\t<p>Hệ máu và bạch huyết: Giảm tiểu cầu thoáng qua, giảm bạch cầu, giảm bạch cầu trung tính, kéo dài thời gian prothrombin, tăng LDH, giảm toàn thể huyết cầu, giảm bạch cầu hạt, và tăng bạch cầu ái toan, tăng tiểu cầu, thiếu máu tan máu.</p>\n\t</li>\n\t<li>\n\t<p>Bất thường xét nghiệm: Tăng bilirubin máu, tăng nhất thời ure máu hoặc creatinin, tăng nhất thời SGPT, SGOT và phosphatase kiềm.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 2 Vỉ x 10 Viên",
+      "indications": [
+        {
+          "id": 8,
+          "name": "Viêm amidan",
+          "slug": "benh/viem-amidan-467.html"
+        },
+        {
+          "id": 9,
+          "name": "Viêm họng",
+          "slug": "benh/viem-hong-468.html"
+        },
+        {
+          "id": 15,
+          "name": "Viêm tai giữa",
+          "slug": "benh/viem-tai-giua-474.html"
+        },
+        {
+          "id": 112,
+          "name": "Nhiễm trùng tiết niệu",
+          "slug": "benh/nhiem-trung-tiet-nieu-355.html"
+        },
+        {
+          "id": 322,
+          "name": "Lậu",
+          "slug": "benh/lau-587.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "Công ty cổ phần tập đoàn Merap",
+      "shortDescription": "<p style=\"text-align:justify;\"><strong>Mecefix - B.E 150 mg</strong> của <i>Công ty Cổ phần Tập đoàn Merap</i>, có thành phần chính là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/cefixime\"><strong>Cefixime</strong></a>, được dùng để điều trị các nhiễm khuẩn gây bởi vi khuẩn nhạy cảm ở người lớn và trẻ em từ 6 tháng tuổi trở lên bao gồm: <a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-trung-tiet-nieu-355.html\"><strong>Nhiễm khuẩn đường tiết niệu</strong></a> không biến chứng gây bởi Escherichia coli và Proteus mirabills;&nbsp;viêm tai giữa gây bởi Haemophilus influenzae, Moraxella catarrhalis và Streptococcus pyogenes;&nbsp;viêm họng và viêm amiđan gây bởi Streptococcus pyogenes;&nbsp;đợt kịch phát của <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phe-quan-man-tinh-179.html\"><strong>viêm phế quản mạn tính</strong></a> gây bởi Streptococcus pneumoniae và Haemophilus influenzae;&nbsp;bệnh lậu không biến chứng gây bởi Neisseria gonorrhoeae.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Trên 6 tháng tuổi",
+      "objectUse": [
+        "Trẻ em",
+        "Người cao tuổi"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Lái tàu xe",
+        "Suy gan thận",
+        "Phụ nữ cho con bú"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Dị ứng thuốc",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/merap",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "MECEFIX B.E 150",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "42 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 781,
+        "name": "Thuốc kháng sinh",
+        "parentName": "Thuốc kháng sinh, kháng nấm",
+        "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_mecefix_be_150mg_2_vi_x_10_vien_merap_00004744_7c46d27519.jpg",
+          "alternativeText": "Thuốc Mecefix-B.E 150mg Merap điều trị nhiễm khuẩn đường tiết niệu, viêm tai giữa (2 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_1931_6424_large_0dfeb9f084.jpg",
+          "alternativeText": "Thuốc Mecefix-B.E 150mg Merap điều trị nhiễm khuẩn đường tiết niệu, viêm tai giữa (2 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_6751_6424_large_29557fc66e.jpg",
+          "alternativeText": "Thuốc Mecefix-B.E 150mg Merap điều trị nhiễm khuẩn đường tiết niệu, viêm tai giữa (2 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_2250_6424_large_f4562cb497.jpg",
+          "alternativeText": "Thuốc Mecefix-B.E 150mg Merap điều trị nhiễm khuẩn đường tiết niệu, viêm tai giữa (2 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_5250_6424_large_ec8768ea5d.jpg",
+          "alternativeText": "Thuốc Mecefix-B.E 150mg Merap điều trị nhiễm khuẩn đường tiết niệu, viêm tai giữa (2 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_1814_6424_large_52d559aec4.jpg",
+          "alternativeText": "Thuốc Mecefix-B.E 150mg Merap điều trị nhiễm khuẩn đường tiết niệu, viêm tai giữa (2 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_2986_6424_large_1e60cab602.jpg",
+          "alternativeText": "Thuốc Mecefix-B.E 150mg Merap điều trị nhiễm khuẩn đường tiết niệu, viêm tai giữa (2 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_1795_6424_large_6a59d9aec1.jpg",
+          "alternativeText": "Thuốc Mecefix-B.E 150mg Merap điều trị nhiễm khuẩn đường tiết niệu, viêm tai giữa (2 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_6366_6424_large_33703d1463.jpg",
+          "alternativeText": "Thuốc Mecefix-B.E 150mg Merap điều trị nhiễm khuẩn đường tiết niệu, viêm tai giữa (2 vỉ x 10 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_6154_6424_large_ebfd678fe8.jpg",
+          "alternativeText": "Thuốc Mecefix-B.E 150mg Merap điều trị nhiễm khuẩn đường tiết niệu, viêm tai giữa (2 vỉ x 10 viên) 10"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_1680145892_d09047ee25.jpg",
+          "alternativeText": "Thuốc Mecefix-B.E 150mg Merap điều trị nhiễm khuẩn đường tiết niệu, viêm tai giữa (2 vỉ x 10 viên) 11"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc kháng sinh, kháng nấm",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam"
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh"
+      }
+    ],
+    "content": {
+      "sku": "00004744",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc dùng đường uống.</p><h3>Liều dùng</h3><p><i>Người lớn</i></p><p>Liều khuyến cáo của cefixime là 400 mg/ngày, dùng liều uống duy nhất hoặc chia làm 2 lần, cách nhau 12 giờ.&nbsp;</p><p>Trong điều trị bệnh lậu cổ tử cung/niệu đạo không biến chứng, một liều uống duy nhất 400 mg được khuyến cáo. Thuốc có thể uống không phụ thuộc thời điểm của bữa ăn.</p><p>Trong điều trị nhiễm khuẩn do Streptococcus pyogenes<i>,</i> thời gian điều trị với cefixime tối thiểu là 10 ngày.</p><p><i>Trẻ em</i></p><p>Trẻ em từ 6 tháng tuổi: Liều khuyến cáo là 8 mg/kg/ngày, dùng liều uống duy nhất hoặc chia làm 2 lần, 4 mg/kg mỗi 12 giờ.</p><p>Liều khuyến cáo ở đối tượng trẻ em có thể được xác định với từng khoảng cân nặng theo Bảng 1 dưới đây.</p><p>Bảng 1. Liều khuyến cáo của cefixime trên đối tượng trẻ em theo cân nặng</p><figure class=\"table\"><table><tbody><tr><td>Cân nặng của trẻ (kg)</td><td>Liều dùng/ngày (mg)</td></tr><tr><td>5 - 7.5*</td><td>50</td></tr><tr><td>7,6 - 10</td><td>80</td></tr><tr><td>10,1 - 12,5</td><td>100</td></tr><tr><td>12,6 - 20,5</td><td>150</td></tr><tr><td>20,6 - 28</td><td>200</td></tr><tr><td>28,1 - 33</td><td>250</td></tr><tr><td>33,1 - 40</td><td>300</td></tr><tr><td>40,1 - 45</td><td>350</td></tr><tr><td>Từ trên 45,1</td><td>400</td></tr></tbody></table></figure><p>* Nồng độ thuốc trong hỗn dịch phù hợp với trẻ em có khoảng cân nặng này là 100 mg/5 ml hoặc 200 mg/5 ml.</p><p>Liều dùng đối với trẻ em từ trên 45 kg hoặc trên 12 tuổi tương tự liều khuyến cáo ở người lớn.</p><p>Điều trị viêm tai giữa nên dùng dạng hỗn dịch. Các thử nghiệm lâm sàng về điều trị viêm tai giữa cho thấy nồng độ dược chất trong máu khi sử&nbsp;dụng dạng hỗn dịch cao hơn so với khi sử dụng dạng viên nén trên cùng một liều dùng.</p><p><i>Bệnh nhân suy thận</i></p><p>Đối với bệnh nhân có độ thanh thải creatinin từ 60 ml/phút trở lên, không cần điều chỉnh liều. Đối với các bệnh nhân suy thận, cần điều chỉnh liều dùng theo Bảng 2. Thẩm tách máu và thẩm phân phúc mạc đều không loại được một lượng thuốc đáng kể ra khỏi máu.</p><p>Bảng 2. Liều dùng trên đối tượng bệnh nhân suy thận</p><figure class=\"table\"><table><tbody><tr><td>Độ thanh thải Creatinin (ml/phút)</td><td>Liều dùng/ngày (mg)</td></tr><tr><td>Từ trên 60</td><td>Liều thông thường</td></tr><tr><td>21 - 59* hoặc thẩm tách máu</td><td>260</td></tr><tr><td>Tứ dưới 20 hoặc thẩm phân phúc mạc liên tục</td><td>172</td></tr></tbody></table></figure><p>* Nồng độ thuốc trong hỗn dịch phù hợp với bệnh nhân suy thận là 200 mg/5 ml hoặc 500 mg/5 ml.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p><i>Triệu chứng quá liều</i></p><p>Khi quá liều cefixime có thể có triệu chứng co giật. Các tác dụng không mong muốn trên một số nhỏ những người tình nguyện khỏe mạnh khi uống liều duy nhất 2 g cefixime không khác những bệnh nhân được điều trị ở liều khuyến cáo.</p><p><i>Xử trí quá liều</i></p><p>Do không có thuốc điều trị đặc hiệu nên chủ yếu điều trị triệu chứng. Ngừng thuốc ngay và xử trí như sau: Rửa dạ dày, có thể dùng thuốc chống co giật nếu có chỉ định lâm sàng. Do cefixime không được loại ra khỏi tuần hoàn một lượng đáng kể bằng thẩm tách máu hoặc thẩm phân phúc mạc nên không thực hiện các biện pháp này.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu quên không dùng thuốc, hãy dùng ngay khi nhớ ra. Tuy nhiên, nếu đã gần đến thời điểm của liều kế tiếp, hãy bỏ qua liều đã quên. Không dùng liều cao gấp đôi để bù cho liều đã quên.</p>",
+      "referenceSource": "<p>Tờ Hướng dẫn sử dụng thuốc Mecefix - B.E 150 mg.</p>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Mecefix - B.E 150 mg, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thông tin từ các thử nghiệm lâm sàng</em></p>\n\n<p>Thường gặp, ADR &gt; 1/100</p>\n\n<ul>\n\t<li>\n\t<p>Hệ tiêu hóa: Tiêu chảy, đi ngoài phân lỏng hoặc thường xuyên, đau bụng, buồn nôn, khó tiêu, <strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/chuong-bung-day-hoi-phai-lam-the-nao-49779.html\">đầy hơi</a></strong>. </p>\n\t</li>\n</ul>\n\n<p><em>Thông tin từ quá trình lưu hành</em></p>\n\n<p>Tỷ lệ gặp phải: ADR &lt; 2/100</p>\n\n<ul>\n\t<li>\n\t<p>Hệ tiêu hóa: Đau bụng, khó tiêu, đầy hơi, tiêu chảy, buồn nôn và nôn.</p>\n\t</li>\n\t<li>\n\t<p>Hệ miễn dịch, da và mô dưới da: Các phản ứng phản vệ (bao gồm sốc và có thể tử vong), phát ban da, mày đay, sốt do thuốc, ngứa, ngứa bộ phận sinh dục, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-am-dao-504.html\">viêm âm đạo</a></strong>, đau khớp, phù mạch, phù mặt. Hồng ban đa dạng, hội chứng Stevens-Johnson, hoại tử thượng bì nhiễm độc (hội chứng Lyell) và phản ứng giống bệnh huyết thanh đã được báo cáo.</p>\n\t</li>\n\t<li>\n\t<p>Gan: Viêm gan, vàng da.</p>\n\t</li>\n\t<li>\n\t<p>Nhiễm khuẩn và ký sinh trùng: Một số trường hợp viêm đại tràng giả mạc đã được phát hiện trong các thử nghiệm lâm sàng. Các triệu chứng khởi phát của viêm đại tràng giả mạc có thể xuất hiện trong hoặc sau điều trị. Bệnh nấm Candida.</p>\n\t</li>\n\t<li>\n\t<p>Thận: Suy thận cấp bao gồm viêm ống thận mô kẽ là tình trạng bệnh lý cơ bản.</p>\n\t</li>\n\t<li>\n\t<p>Hệ thần kinh trung ương: Nhức đầu, chóng mặt, co giật.</p>\n\t</li>\n\t<li>\n\t<p>Hô hấp, lồng ngực và trung thất: Khó thở.</p>\n\t</li>\n\t<li>\n\t<p>Hệ máu và bạch huyết: Giảm tiểu cầu thoáng qua, giảm bạch cầu, giảm bạch cầu trung tính, kéo dài thời gian prothrombin, tăng LDH, giảm toàn thể huyết cầu, giảm bạch cầu hạt, và tăng bạch cầu ái toan, tăng tiểu cầu, thiếu máu tan máu.</p>\n\t</li>\n\t<li>\n\t<p>Bất thường xét nghiệm: Tăng bilirubin máu, tăng nhất thời ure máu hoặc creatinin, tăng nhất thời SGPT, SGOT và phosphatase kiềm.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p style=\"text-align:justify;\">Bảo quản trong bao bì kín, nơi khô, dưới 30°C, tránh ánh sáng trực tiếp.</p>",
+      "usage": "<h3>Chỉ định</h3><p><strong>Thuốc Mecefix - B.E 150 mg</strong> được chỉ định dùng để&nbsp;điều trị các nhiễm khuẩn gây bởi vi khuẩn nhạy cảm ở người lớn và trẻ em từ 6 tháng tuổi trở lên bao gồm:</p><p>Nhiễm khuẩn đường tiết niệu không biến chứng gây bởi Escherichia coli và Proteus mirabills.</p><p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\"><strong>Viêm tai giữa</strong></a> gây bởi Haemophilus influenzae, Moraxella catarrhalis và Streptococcus pyogenes (hiệu quả điều trị đối với viêm tai giữa gây bởi Streptococcus pyogenes được nghiên cứu ít hơn 10 trường hợp).</p><p>Viêm họng và <a href=\"https://nhathuoclongchau.com.vn/benh/viem-amidan-467.html\"><strong>viêm amiđan</strong></a> gây bởi Streptococcus pyogenes (chú ý: Penicillin là thuốc thường được lựa chọn trong điều trị nhiễm khuẩn gây bởi Streptococcus pyogenes. Cefixime thường hiệu quả trong loại bỏ triệt để Streptococcus pyogenes vùng vòm họng; tuy nhiên không có dữ liệu công bố hiệu quả của cefixime trong ngăn ngừa biến chứng sốt thấp khớp).</p><p>Đợt kịch phát của viêm phế quản mạn tính gây bởi Streptococcus pneumoniae và Haemophilus influenzae.</p><p>Bệnh lậu không biến chứng (cổ tử cung/niệu đạo) gây bởi Neisseria gonorrhoeae (các chủng sinh penicillinase và không sinh penicillinase).</p><h3>Dược lực học</h3><p><i>Cơ chế tác dụng</i></p><p>Giống như các cephalosporin khác, tác dụng diệt khuẩn của cefixime là do ức chế tổng hợp vách tế bào. Cefixime ổn định cao dưới sự hiện diện của nhiều enzym beta-lactamase. Do đó, nhiều vi khuẩn kháng penicillin và một số cephalosporin nhờ sự hiện diện của beta-lactamase có thể nhạy cảm với cefixime.</p><p><i>Kháng thuốc</i></p><p>Sự kháng thuốc với cefixime của Haemophilus influenzae và Neisseria gonorrhoeae thường liên quan đến sự thay đổi các protein gắn với penicillin (PBPs). Cefixime có thể có hoạt động giới hạn đối với họ vi khuẩn đường ruột sinh beta-lactamase phổ rộng (ESBLs). Các loài Pseudomonas, Enterococcus, các chủng liên cầu nhóm D, Listeria monocytogenes, hầu hết các chủng tụ cầu (bao gồm các chủng kháng methicillin), các chủng Bacteroides fragilis, và hầu hết các chủng của các loài Enterobacter, Clostridium đều kháng với cefixime.</p><p><i>Phổ kháng khuẩn</i></p><p>Cefixime đã được chỉ ra rằng có hoạt tính đối với hầu hết các chủng của các vi khuẩn sau trên cả in vitro và các nhiễm khuẩn lâm sàng.</p><ul><li>Vi khuẩn Gram dương: Streptococcus pneumonia, Streptococcus pyogenes.</li><li>Vi khuẩn Gram âm: Escherichia coli, Haemophilus influenzae, Moraxella catarrhalis,&nbsp;Neisseria gonorrhoeae, Proteus mirabilis<i>.</i></li></ul><p>Ít nhất 90% các vi khuẩn dưới đây có nồng độ ức chế tối thiểu (MIC) in vitro nhỏ hơn hoặc bằng điểm gây nhạy cảm (susceptible breakpoint) của cefixime đối với các chủng của chi hoặc nhóm sinh vật tương tự. Tuy nhiên, hiệu quả của cefixime trong điều trị nhiễm khuẩn lâm sàng gây ra bởi các vi khuẩn này chưa được thiết lập bởi các thử nghiệm lâm sàng đầy đủ và được kiểm soát tốt.</p><ul><li>Vi khuẩn Gram dương: Streptococcus agalactiae.</li><li>Vi khuẩn Gram âm: Citrobacter amalonaticus, Citrobacter diversus, Haemophilus parainfluenzae, Klebsiella oxytoca, Klebsiella pneumoniae, Pasteurella multocida, Proteus vulgaris, Serratia marcescens, các loài Providencia, Salmonella, Shigella.</li></ul><h3>Dược động học</h3><p><strong>Hấp thu</strong></p><p>Viên nang 400 mg và viên nén 400 mg cefixime tương đương sinh học khi uống thuốc trong tình trạng đói. Nồng độ đỉnh trong huyết tương đạt 2 pg/ml (1 - 4 pg/ml) và đạt 3,7 pg/ml (1,3 - 7,7 pg/m) sau khi uống một liều duy nhất viên nén 200 và 400 mg khoảng 2 - 6 giờ. Khi uống thuốc trong tình trạng no, thức ăn làm giảm sự hấp thu, biểu hiện thông qua giảm 15% diện tích dưới đường cong và 25% nồng độ đỉnh trong huyết tương của thuốc.</p><p><strong>Phân bố</strong></p><p>Khoảng 65% cefixime trong máu gắn với protein huyết tương và sự gắn kết này không phụ thuộc nồng độ.</p><p><strong>Chuyển hóa và thải trừ</strong></p><p>Khoảng 50% liều hấp thu của thuốc được thải trừ qua nước tiểu dưới dạng không đổi trong 24 giờ. Trong các nghiên cứu trên động vật, trên 10% liều dùng cefixime cũng được thải trừ qua mật. Thời gian bán thải của cefixime ở những người khỏe mạnh không phụ thuộc vào dạng bào chế và trung bình là từ 3 đến 4 giờ, nhưng có thể lên đến 9 giờ ở một số người tình nguyện bình thường.</p><p><strong>Các đối tượng đặc biệt</strong></p><p><i>Người cao tuổi</i></p><p>Diện tích dưới đường cong trung bình tại trạng thái ổn định ở bệnh nhân cao tuổi cao hơn khoảng 40% so với người trưởng thành. Các thông số dược động học giữa 12 đối tượng trẻ tuổi và 12 đối tượng cao tuổi cùng dùng liều cefixime 400 mg/ngày trong 5 ngày có sự khác biệt có ý nghĩa thống kê. Tuy nhiên, sự chênh lệch này không đáng kể trên lâm sàng.</p><p><i>Suy thận</i></p><p>Ở những bệnh nhân có suy giảm chức năng thận trung bình (độ thanh thải creatinin 20 - 40 ml/phút), thời gian bán thải trung bình của cefìxime kéo dài lên tới 6,4 giờ. Khi suy thận nặng (độ thanh thải creatinin 5 - 20 ml/phút), thời gian bán thải trung bình tăng đến 11,5 giờ. Thẩm tách máu và thẩm phân phúc mạc đều không loại được một lượng thuốc đáng kể ra khỏi máu. Tuy nhiên, một nghiên cứu chỉ ra rằng với liều 400 mg, các thông số dược động học ở bệnh nhân đang thẩm tách máu tương tự như ở người có độ thanh thải creatinin từ 21 đến 60 ml/phút.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p><strong>Thuốc Mecefix - B.E 150 mg</strong> chống chỉ định trong các trường hợp:</p><ul><li>Dùng cho bệnh nhân quá mẫn với bất kỳ thành phần nào của thuốc và bệnh nhân dị ứng với bất kỳ kháng sinh beta-lactam nào khác.</li></ul><h3>Thận trọng khi sử dụng</h3><p><i>Trẻ em</i></p><p>An toàn và hiệu quả của cefixime trên trẻ dưới 6 tháng tuổi chưa được thiết lập.</p><p>Tỷ lệ gặp các tác dụng không mong muốn trên tiêu hóa, bao gồm cả tiêu chảy và đi ngoài phân lỏng, ở trẻ em sử dụng hỗn dịch tương tự tỷ lệ gặp ở người lớn sử dụng viên nén.</p><p><i>Người cao tuổi</i></p><p>Kinh nghiệm lâm sàng được báo cáo không xác định được có sự khác biệt đáp ứng giữa các bệnh nhân cao tuổi và bệnh nhân trẻ, không cần thiết phải chỉnh liều ở người cao tuổi.&nbsp;</p><p><i>Suy thận</i></p><p>Phải điều chỉnh liều cefixime trên bệnh nhân có suy thận, cũng như đang thẩm phân phúc mạc liên tục và thẩm tách máu. Bệnh nhân trong quá trình thẩm phân máu cần được theo dõi và cần thận khi sử dụng cefixime.</p><p><i>Phản ứng quá mẫn</i></p><p>Các phản ứng phản vệ (bao gồm sốc và có thể tử vong) đã được báo cáo khi sử dụng cefixime.</p><p>Trước khi bắt đầu điều trị với cefixime, cần xác định bệnh nhân có tiền sử phản ứng quá mẫn với cephalosporin, penicillin hoặc các thuốc khác hay không. Nếu thuốc này được dùng cho những bệnh nhân nhạy cảm với penicillin, cần thận trọng vì sự quá mẫn chéo giữa các thuốc kháng sinh beta-lactam đã được ghi nhận và có thể xảy ra trên 10% bệnh nhân có tiền sử dị ứng penicillin. Nếu xảy ra phản ứng dị ứng với cefixime, hãy ngừng thuốc.</p><p><i>Tiêu chảy do Clostridium difficile</i></p><p>Tiêu chảy do Clostridium difficile (CDAD) đã được báo cáo với hầu hết các kháng sinh, bao gồm cả cefixime, với mức độ nghiêm trọng từ tiêu chảy nhẹ đến viêm đại tràng gây tử vong. Việc điều trị bằng các kháng sinh làm thay đổi hệ vi khuẩn bình thường ở đại tràng, dẫn đến phát triển sự quá mức của C.difficile<i>.</i></p><p>C.difficile sinh độc tố A và B, góp phần phát triển CDAD. Các chủng sinh độc tố cao của C.difficile làm gia tăng bệnh tật và tử vong vì các chủng này có thể kháng kháng sinh và có thể cần phẫu thuật cắt bỏ kết tràng. CDAD phải được xem xét ở tất cả các bệnh nhân có tiêu chảy sau khi sử dụng kháng sinh. Đánh giá cẩn thận bệnh sử là cần thiết bởi CDAD đã được báo cáo xảy ra sau hơn hai tháng sử dụng kháng sinh.</p><p>Nếu nghi ngờ hoặc khẳng định mắc CDAD, ngừng sử dụng kháng sinh không tác dụng trực tiếp với C.difficile. Bù nước và điện giải, bổ sung protein, điều trị bằng kháng sinh có tác dụng với C.difficile, và đánh giá phẫu thuật cần được tiến hành theo chỉ định lâm sàng.</p><p><i>Ảnh hưởng đến đông máu</i></p><p>Các cephalosporin, bao gồm cả cefixime, có thể gây giảm hoạt tính prothrombin. Nhóm nguy cơ bao gồm bệnh nhân suy gan hoặc suy thận, tình trạng dinh dưỡng kém, bệnh nhân sử dụng liệu trình kháng sinh kéo dài, và bệnh nhân trước đó đã sử dụng ổn định liệu pháp chống đông máu. Thời gian prothrombin phải được theo dõi ở những bệnh nhân có nguy cơ và sử dụng vitamin K theo chỉ định.&nbsp;</p><p><i>Phát triển vi khuẩn kháng thuốc&nbsp;</i></p><p>Kê đơn cefixime khi không có mối nghi ngờ rõ ràng hoặc nhiễm khuẩn đã được chứng minh sẽ không đem lại lợi ích cho bệnh nhân và làm tăng nguy cơ phát triển các vi khuẩn kháng thuốc.</p><p><i>Thận trọng tá dược sử dụng</i></p><p>Thuốc chứa lactose: Thận trọng khi sử dụng ở những người không dung nạp một số loại đường. Bệnh nhân có các vấn đề di truyền hiếm gặp như không dung nạp galactose, thiếu hụt lactase Lapp hoặc kém hấp thu glucose-galactose không nên dùng thuốc này .</p><h3>Khả năng lái xe và vận hành máy móc</h3><p>Không có báo cáo nào cho thấy cefixime có ảnh hưởng đến khả năng lái xe và vận hành máy móc. Tuy nhiên, các tác dụng không mong muốn đã được báo cáo của cefixime như nhức đầu, chóng mặt có thể ảnh hưởng đến khả năng lái xe và vận hành máy móc.</p><h3>Thời kỳ mang thai&nbsp;</h3><p>Không có các nghiên cứu được kiểm soát tốt và đầy đủ ở phụ nữ có thai. Chỉ sử dụng thuốc này trong thai kỳ khi thật cần thiết.</p><h3>Thời kỳ cho con bú</h3><p>Không biết cefixime có bài tiết qua sữa mẹ hay không, cần cân nhắc tạm thời dừng cho con bú khi điều trị với thuốc này.</p><h3>Tương tác thuốc</h3><p><i>Carbamazepine</i></p><p>Tăng nồng độ carbamazepine khi sử dụng đồng thời với cefixime đã được báo cáo. Định lượng thuốc có thể hỗ trợ phát hiện sự thay đổi nồng độ carbamazepine trong huyết tương.</p><p><i>Warfarin và các thuốc chống đông</i></p><p>Tăng thời gian prothrombin, có hoặc không có chảy máu, đã được báo cáo khi dùng đồng thời với cefixime.</p><p><i>Xét nghiệm</i></p><p>Phản ứng dương tính giả với ceton niệu có thể xảy ra khi xét nghiệm sử dụng nitroprussid, nhưng không xảy ra khi sử dụng nitroferricyanid.</p><p>Việc sử dụng cefixime có thể dẫn đến phản ứng dương tính giả với glucose trong nước tiểu khi sử dụng Clinitest®**, dung dịch Benedict hoặc Fehling. Các xét nghiệm glucose dựa trên phản ứng enzym glucose oxidase (như Clinistix®** hoặc TesTape® **) được khuyến cáo sử dụng. Nghiệm pháp Coombs trực tiếp dương tính giả đã được báo cáo khi điều trị với các cephalosporin khác. Do đó, cần nhận ra nghiệm pháp Coombs dương tính có thể là do thuốc.</p><p>(**) Clinitest® và Clinistix® là các nhãn hiệu đã đăng ký bởi Ames Division, Miles Laboratories Inc.; TesTape® là nhãn hiệu đã đăng ký bởi Eli Lilly and Company.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Ngô Kim Thúy",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp loại giỏi trường Đại học Y Dược Huế. Từng tham gia nghiên cứu khoa học đề tài về Dược liệu. Nhiều năm kinh nghiệm làm việc trong lĩnh vực Dược phẩm. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-ngo-kim-thuy",
+        "isLegit": true,
+        "id": 9,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Nguyen_Kim_Thuy_ea92026f36.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc kháng sinh Mecefix B.E 150 (Hộp 20 viên) | Trị nhiễm khuẩn",
+        "metaDescription": "Mecefix B.E 150 có thành phần chính là Cefixime, dùng để điều trị các nhiễm khuẩn gây bởi vi khuẩn nhạy cảm ở người lớn và trẻ em trên 6 tháng tuổi.",
+        "id": 2420,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_mecefix_be_150mg_2_vi_x_10_vien_merap_00004744_7c46d27519.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Mecefix-B.E 150mg Merap điều trị nhiễm khuẩn đường tiết niệu, viêm tai giữa (2 vỉ x 10 viên)",
+            "description": "Mecefix - B.E 150 mg của Công ty Cổ phần Tập đoàn Merap, có thành phần chính là Cefixime, được dùng để điều trị các nhiễm khuẩn gây bởi vi khuẩn nhạy cảm ở người lớn và trẻ em từ 6 tháng tuổi trở lên bao gồm: Nhiễm khuẩn đường tiết niệu không biến chứng gây bởi Escherichia coli và Proteus mirabills;&nbsp;viêm tai giữa gây bởi Haemophilus influenzae, Moraxella catarrhalis và Streptococcus pyogenes;&nbsp;viêm họng và viêm amiđan gây bởi Streptococcus pyogenes;&nbsp;đợt kịch phát của viêm phế quản mạn tính gây bởi Streptococcus pneumoniae và Haemophilus influenzae;&nbsp;bệnh lậu không biến chứng gây bởi Neisseria gonorrhoeae."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 10701,
+        "title": " Thuốc Mecefix-B.E 150mg có điều trị được bệnh viêm tai giữa không?",
+        "content": "<p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\">Viêm tai giữa</a> gây bởi các chủng vi khuẩn như Haemophilus influenzae, Moraxella catarrhalis và Streptococcus pyogenes.</p><p>Thuốc Mecefix-B.E 150mg có thành phần chính là cefixim, là một cephalosporin thế hệ thứ ba, có khả năng ức chế sự tổng hợp peptidoglycan của thành tế bào vi khuẩn do đó diệt được vi khuẩn và làm thuyên giảm được bệnh viêm tai giữa.</p>"
+      },
+      {
+        "id": 10702,
+        "title": "Có cần sử dụng thuốc Mecefix-B.E 150mg liên quan đến bữa ăn không?",
+        "content": "<p>Sự hấp thụ thuốc Mecefix-B.E 150mg không bị thay đổi đáng kể bởi sự hiện diện của thức ăn. Do đó, có thể dùng thuốc Mecefix-B.E 150mg mà không liên quan đến bữa ăn.</p>"
+      },
+      {
+        "id": 10703,
+        "title": "Bệnh nhân cần làm gì khi dùng quá liều thuốc Mecefix-B.E 150mg?",
+        "content": "<p>Khi quá liều thuốc Mecefix-B.E 150mg, bệnh nhân có thể có triệu chứng <a href=\"https://nhathuoclongchau.com.vn/benh/co-giat-765.html\">co giật</a>. Cần ngừng thuốc ngay và được đưa đến cơ sở y tế gần nhất để được xử trí như rửa dạ dày, hoặc có thể dùng thuốc chống co giật nếu có chỉ định lâm sàng.&nbsp;</p>"
+      },
+      {
+        "id": 10704,
+        "title": "Trẻ em có thể sử dụng thuốc Mecefix-B.E 150mg không?",
+        "content": "<p>Đối với trẻ em dưới 6 tháng tuổi: An toàn và hiệu quả của thuốc Mecefix-B.E 150mg chưa được thiết lập. Do đó, không sử dụng thuốc Mecefix-B.E 150mg trên nhóm trẻ này.</p><p>Đối với trẻ em trên 6 tháng tuổi: Có thể sử dụng thuốc Mecefix-B.E 150mg với liều được xác định theo cân nặng của trẻ.</p>"
+      },
+      {
+        "id": 10705,
+        "title": "Phụ nữ mang thai có thể sử dụng thuốc Mecefix-B.E 150mg không?",
+        "content": "<p>Không thấy bằng chứng nào về việc suy giảm khả năng sinh sản hoặc gây hại cho thai nhi do sử dụng thuốc Mecefix-B.E 150mg. Tuy nhiên, không nên dùng thuốc Mecefix-B.E 150mg trên phụ nữ <a href=\"https://nhathuoclongchau.com.vn/benh/mang-thai-486.html\">mang thai</a> trừ khi thật cần thiết.&nbsp;<br>&nbsp;</p>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 9,
+      "items": [
+        {
+          "id": 3347315,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0980xxxxxx",
+          "name": "như thới",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 hộp bao nhiêu",
+          "createdAt": "2026-07-28 13:33:42",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-28 13:33:42",
+          "replies": [
+            {
+              "id": 3347323,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ánh",
+                "moderatorEmail": "anhnth44@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ánh",
+              "email": "anhnth44@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Thới,</p><p>Hiện tại, sản phẩm MECEFIX- B.E 150MG (VIÊN) có giá&nbsp;150,000 ₫<strong>/</strong>hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a>&nbsp;</strong>để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-07-28 13:36:29",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-28 13:33:42",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3273194,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0336xxxxxx",
+          "name": "đào",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá 1 hộp",
+          "createdAt": "2026-03-13 10:26:59",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-13 10:26:59",
+          "replies": [
+            {
+              "id": 3273243,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Lê Hải Bình",
+                "moderatorEmail": "binhtlh@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Lê Hải Bình",
+              "email": "binhtlh@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Đào,</p><p>Hiện tại, sản phẩm MECEFIX- B.E 150MG (VIÊN) có giá 150,000 ₫/ hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> </strong>để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-03-13 10:45:23",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-13 10:26:59",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3210059,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0988xxxxxx",
+          "name": "Khiêm",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 hộp bán nhiêu",
+          "createdAt": "2025-11-10 15:12:02",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-10 15:11:55",
+          "replies": [
+            {
+              "id": 3210061,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Quỳnh Anh",
+                "moderatorEmail": "anhntq56@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Quỳnh Anh",
+              "email": "anhntq56@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn <strong>Khiêm,</strong></p><p> Hiện tại, sản phẩm có giá 150,000đ/hộp.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2025-11-10 15:15:34",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-10 15:11:55",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3129979,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0369xxxxxx",
+          "name": "Quân",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mua 1h nhiêu vậy nhà thuốc",
+          "createdAt": "2025-06-19 10:41:51",
+          "createdAtDisplay": "19/06/2025",
+          "updatedAt": "2025-06-19 10:41:42",
+          "replies": [
+            {
+              "id": 3129983,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Chu Thị Quỳnh",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Chu Thị Quỳnh",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Quân, </p><p>Hiện tại, sản phẩm có giá 150,000 ₫/hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p>",
+              "createdAt": "2025-06-19 10:43:40",
+              "createdAtDisplay": "19/06/2025",
+              "updatedAt": "2025-06-19 10:41:42",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3038906,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0978xxxxxx",
+          "name": "Khoa",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "5 hộp có giá mấy và đặt ở đâu",
+          "createdAt": "2025-02-03 21:58:03",
+          "createdAtDisplay": "03/02/2025",
+          "updatedAt": "2025-02-03 21:58:03",
+          "replies": [
+            {
+              "id": 3038921,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lữ Thư",
+                "moderatorEmail": "thulta11@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lữ Thư",
+              "email": "thulta11@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Khoa, </p><p>Dạ sản phẩm có giá là 750,000&nbsp;đồng/ 5 Hộp</p><p>Dạ sẽ có tư vấn viên của Nhà thuốc Long Châu liên hệ theo SĐT bạn để lại ạ.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-02-03 22:00:40",
+              "createdAtDisplay": "03/02/2025",
+              "updatedAt": "2025-02-03 21:58:03",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Mecefix-B.E 150mg Merap điều trị nhiễm khuẩn đường tiết niệu, viêm tai giữa (2 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_mecefix_be_150mg_2_vi_x_10_vien_merap_00004744_7c46d27519.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_1931_6424_large_0dfeb9f084.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_6751_6424_large_29557fc66e.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_2250_6424_large_f4562cb497.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_5250_6424_large_ec8768ea5d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_1814_6424_large_52d559aec4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_2986_6424_large_1e60cab602.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_1795_6424_large_6a59d9aec1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_6366_6424_large_33703d1463.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004744_mecefix_be_150_6154_6424_large_ebfd678fe8.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Mecefix - B.E 150 mg của Công ty Cổ phần Tập đoàn Merap, có thành phần chính là Cefixime, được dùng để điều trị các nhiễm khuẩn gây bởi vi khuẩn nhạy cảm ở người lớn và trẻ em từ 6 tháng tuổi trở lên bao gồm: Nhiễm khuẩn đường tiết niệu không biến chứng gây bởi Escherichia coli và Proteus mirabills; viêm tai giữa gây bởi Haemophilus influenzae, Moraxella catarrhalis và Streptococcus pyogenes; viêm họng và viêm amiđan gây bởi Streptococcus pyogenes; đợt kịch phát của viêm phế quản mạn tính gây bởi Streptococcus pneumoniae và Haemophilus influenzae; bệnh lậu không biến chứng gây bởi Neisseria gonorrhoeae.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ngô Kim Thúy"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc kháng sinh Mecefix B.E 150 (Hộp 20 viên) | Trị nhiễm khuẩn",
+      "description": "Mecefix B.E 150 có thành phần chính là Cefixime, dùng để điều trị các nhiễm khuẩn gây bởi vi khuẩn nhạy cảm ở người lớn và trẻ em trên 6 tháng tuổi.",
+      "openGraph": {
+        "title": "Thuốc Mecefix-B.E 150mg Merap điều trị nhiễm khuẩn đường tiết niệu, viêm tai giữa (2 vỉ x 10 viên)",
+        "description": "Mecefix - B.E 150 mg của Công ty Cổ phần Tập đoàn Merap, có thành phần chính là Cefixime, được dùng để điều trị các nhiễm khuẩn gây bởi vi khuẩn nhạy cảm ở người lớn và trẻ em từ 6 tháng tuổi trở lên bao gồm: Nhiễm khuẩn đường tiết niệu không biến chứng gây bởi Escherichia coli và Proteus mirabills;&nbsp;viêm tai giữa gây bởi Haemophilus influenzae, Moraxella catarrhalis và Streptococcus pyogenes;&nbsp;viêm họng và viêm amiđan gây bởi Streptococcus pyogenes;&nbsp;đợt kịch phát của viêm phế quản mạn tính gây bởi Streptococcus pneumoniae và Haemophilus influenzae;&nbsp;bệnh lậu không biến chứng gây bởi Neisseria gonorrhoeae.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_mecefix_be_150mg_2_vi_x_10_vien_merap_00004744_7c46d27519.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/mecefix-be-150-3099.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/mecefix-be-150-3099.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

@@ -1,0 +1,2090 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/thuoc-xoang-nhat-nhat-3x10-31238.html",
+  "ingestion_timestamp": "2026-09-05T11:30:10.471043+00:00",
+  "file_hash": "0e12df86a9df52e798f3f67b29a26ceb550e2c8d78729b626af607f2a19f18fb",
+  "lineage_hash": "f22287904dce63a21803381104ee3755173ef1e38bdfdff3685317107917f858",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/thuoc-xoang-nhat-nhat-3x10-31238.html",
+    "product": {
+      "sku": "00031087",
+      "webName": "Thuốc Xoang Nhất Nhất điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp (3 vỉ x 10 viên)",
+      "name": "THUỐC XOANG NHẤT NHẤT 3X10",
+      "shortName": "THUỐC XOANG NHẤT NHẤT 3X10",
+      "headingText": "Thuốc Xoang Nhất Nhất",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_xoang_nhat_nhat_3x10_00031087_432aa0b0a9.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_7042_63d7_large_d4f741bb14.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_2207_63d7_large_82b6b5a849.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_6843_63d7_large_80864b6aad.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_8942_63d7_large_13a470e3a9.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_9990_63d7_large_d0e30a18ab.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_8830_63d7_large_41f88bf60d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_7644_63d7_large_e9a5f1a9c0.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_1675049034_cad89cfcb9.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 732,
+          "name": "Thuốc Mắt, Tai, Mũi, Họng",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-mat-tai-mui-hong",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 790,
+          "name": "Thuốc tai mũi họng",
+          "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+          "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 160000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Hộp 3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": 53333,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 2,
+          "productSpecs": "3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 5333,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/thuoc-xoang-nhat-nhat-3x10-31238.html",
+      "ingredient": [
+        {
+          "id": 34682,
+          "ingredientId": 38387,
+          "shortDescription": "500mg",
+          "name": "Thương nhĩ tử",
+          "isPrimary": false,
+          "slug": "thanh-phan/thuong-nhi-tu"
+        },
+        {
+          "id": 60719,
+          "ingredientId": 22437,
+          "shortDescription": "620mg",
+          "name": "Hoàng kỳ",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 60720,
+          "ingredientId": 32396,
+          "shortDescription": "250mg",
+          "name": "Phòng phong",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 60721,
+          "ingredientId": 37439,
+          "shortDescription": "350mg",
+          "name": "Tân di hoa",
+          "isPrimary": false,
+          "slug": "thanh-phan/tan-di-hoa"
+        },
+        {
+          "id": 60722,
+          "ingredientId": 10138,
+          "shortDescription": "350mg",
+          "name": "Bạch truật",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 60723,
+          "ingredientId": 10043,
+          "shortDescription": "120mg",
+          "name": "Bạc hà",
+          "isPrimary": false,
+          "slug": "thanh-phan/bac-ha"
+        },
+        {
+          "id": 60724,
+          "ingredientId": 24654,
+          "shortDescription": "250mg",
+          "name": "Kim ngân hoa",
+          "isPrimary": false,
+          "slug": "thanh-phan/kim-ngan-hoa"
+        },
+        {
+          "id": 60725,
+          "ingredientId": 10072,
+          "shortDescription": "320mg",
+          "name": "Bạch chỉ",
+          "isPrimary": false,
+          "slug": "thanh-phan/bach-chi"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-32374-19",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Thuốc xoang Nhất Nhất dùng đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<ul>\n\t<li>Người lớn: Ngày uống 2 – 3 lần, mỗi lần 2 viên.</li>\n\t<li>Trẻ em trên 5 tuổi: Ngày uống 2 – 3 lần, mỗi lần 1 viên.</li>\n</ul>\n\n<h3>Làm gì khi quá liều?</h3>\n\n<p>Quá liều: Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định của thuốc.</p>\n\n<p>Cách xử trí: Tích cực theo dõi để có biện pháp xử trí kịp thời.</p>\n\n<h3>Làm gì khi quên liều?</h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc xoang Nhất Nhất hỗ trợ điều trị các chứng nghẹt mũi, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">viêm mũi dị ứng</a>, viêm xoang cấp và mạn tính.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu được báo cáo.</p><h3>Dược động&nbsp;học</h3><p>Chưa có dữ liệu được báo cáo.</p>",
+      "brand": "Nhất Nhất",
+      "brandType": null,
+      "adverseEffect": "<p>Không có dữ liệu về tác dụng không mong muốn của thuốc. Thông báo cho bác sĩ tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "NHẤT NHẤT",
+      "shortDescription": "<p>Thuốc xoang Nhất Nhất có thành phần chính từ cao khô hỗn hợp dược liệu, sản xuất bởi Công ty TNHH Dược phẩm Nhất Nhất. Thuốc xoang Nhất Nhất hiệu quả trong hỗ trợ điều trị các chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": true,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/nhat-nhat",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "TÂM TÂM XOANG",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": 5333,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 790,
+        "name": "Thuốc tai mũi họng",
+        "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+        "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_xoang_nhat_nhat_3x10_00031087_432aa0b0a9.png",
+          "alternativeText": "Thuốc Xoang Nhất Nhất điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp (3 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_7042_63d7_large_d4f741bb14.jpg",
+          "alternativeText": "Thuốc Xoang Nhất Nhất điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp (3 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_2207_63d7_large_82b6b5a849.jpg",
+          "alternativeText": "Thuốc Xoang Nhất Nhất điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp (3 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_6843_63d7_large_80864b6aad.jpg",
+          "alternativeText": "Thuốc Xoang Nhất Nhất điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp (3 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_8942_63d7_large_13a470e3a9.jpg",
+          "alternativeText": "Thuốc Xoang Nhất Nhất điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp (3 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_9990_63d7_large_d0e30a18ab.jpg",
+          "alternativeText": "Thuốc Xoang Nhất Nhất điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp (3 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_8830_63d7_large_41f88bf60d.jpg",
+          "alternativeText": "Thuốc Xoang Nhất Nhất điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp (3 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_7644_63d7_large_e9a5f1a9c0.jpg",
+          "alternativeText": "Thuốc Xoang Nhất Nhất điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp (3 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_1675049034_cad89cfcb9.jpg",
+          "alternativeText": "Thuốc Xoang Nhất Nhất điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp (3 vỉ x 10 viên) 9"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 160000,
+        "itemCode": "00031087",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 160000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 53333,
+        "itemCode": "00031087",
+        "unitCode": 13,
+        "maxValue": 0,
+        "price": 53333,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 5333,
+        "itemCode": "00031087",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 5333,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc Mắt, Tai, Mũi, Họng",
+        "slug": "/thuoc/thuoc-mat-tai-mui-hong"
+      },
+      {
+        "name": "Thuốc tai mũi họng",
+        "slug": "/thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong"
+      }
+    ],
+    "content": {
+      "sku": "00031087",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Thuốc xoang Nhất Nhất dùng đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<ul>\n\t<li>Người lớn: Ngày uống 2 – 3 lần, mỗi lần 2 viên.</li>\n\t<li>Trẻ em trên 5 tuổi: Ngày uống 2 – 3 lần, mỗi lần 1 viên.</li>\n</ul>\n\n<h3>Làm gì khi quá liều?</h3>\n\n<p>Quá liều: Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định của thuốc.</p>\n\n<p>Cách xử trí: Tích cực theo dõi để có biện pháp xử trí kịp thời.</p>\n\n<h3>Làm gì khi quên liều?</h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<p><a target=\"_blank\" rel=\"nofollow\" href=\"https://nhatnhat.com/thuoc-xoang-nhat-nhat.html\">https://nhatnhat.com/thuoc-xoang-nhat-nhat.html</a></p>",
+      "adverseEffect": "<p>Không có dữ liệu về tác dụng không mong muốn của thuốc. Thông báo cho bác sĩ tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p>Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc xoang Nhất Nhất hỗ trợ điều trị các chứng nghẹt mũi, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">viêm mũi dị ứng</a>, viêm xoang cấp và mạn tính.</p><h3>Dược lực học</h3><p>Chưa có dữ liệu được báo cáo.</p><h3>Dược động&nbsp;học</h3><p>Chưa có dữ liệu được báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định</h3>\n\n<p>Thuốc xoang Nhất Nhất chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Người dị ứng với bất cứ thành phần nào của thuốc.</li>\n\t<li>Trẻ dưới 5 tuổi.</li>\n\t<li>Người có tiền sử động kinh hay co giật do sốt cao.</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Thận trọng khi sử dụng thuốc cho phụ nữ có thai và cho con bú.</p>\n\n<h3>Ảnh hưởng của thuốc lên khả năng lái xe, vận hành máy móc</h3>\n\n<p> Thuốc không ảnh hưởng đến khả năng lái xe, vận hành máy móc.</p>\n\n<h3>Sử dụng thuốc cho phụ nữ có thai và cho con bú</h3>\n\n<p>Không có dữ liệu về sử dụng thuốc cho phụ nữ có thai và cho con bú. Chỉ dùng thuốc khi lợi ích vượt trội so với nguy cơ.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Do không có các nghiên cứu về tính tương tác, tương kỵ của thuốc, không trộn lẫn thuốc này với các thuốc khác.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Xoang Nhất Nhất trị nghẹt mũi, viêm mũi dị ứng",
+        "metaDescription": "Thuốc Xoang Nhất Nhất có thành phần chính từ cao khô hỗn hợp dược liệu, sản xuất bởi Công ty TNHH Dược phẩm Nhất Nhất. Thuốc xoang Nhất Nhất hiệu quả trong hỗ trợ điều trị các chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính.",
+        "id": 5903,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_xoang_nhat_nhat_3x10_00031087_432aa0b0a9.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Xoang Nhất Nhất điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp (3 vỉ x 10 viên)",
+            "description": "Thuốc xoang Nhất Nhất có thành phần chính từ cao khô hỗn hợp dược liệu, sản xuất bởi Công ty TNHH Dược phẩm Nhất Nhất. Thuốc xoang Nhất Nhất hiệu quả trong hỗ trợ điều trị các chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 14282,
+        "title": "Thuốc Xoang Nhất Nhất chứa thành phần gì?",
+        "content": "<p>Thuốc Xoang Nhất Nhất chứa các thành phần như thương nhĩ tử, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/hoang-ky-re\">hoàng kỳ</a>, phòng phong, tân di hoa, bạch truật, bạc hà, kim ngân hoa, bạch chỉ.</p>"
+      },
+      {
+        "id": 14281,
+        "title": "Liều dùng của thuốc Xoang Nhất Nhất ở người lớn là bao nhiêu?",
+        "content": "<p>Liều dùng của thuốc Xoang Nhất Nhất ở người lớn: Ngày uống từ 2-3 lần, mỗi lần 2 viên.</p>"
+      },
+      {
+        "id": 14280,
+        "title": "Nên tránh sử dụng thuốc Xoang Nhất Nhất trong những trường hợp nào?",
+        "content": "<p>Thuốc Xoang Nhất Nhất chống chỉ định đối với người dị ứng với bất cứ thành phần nào của thuốc, trẻ dưới 5 tuổi, người có tiền sử động kinh, <a href=\"https://nhathuoclongchau.com.vn/benh/co-giat-765.html\">co giật</a> do sốt cao.</p>"
+      },
+      {
+        "id": 14279,
+        "title": "Thuốc Xoang Nhất Nhất có dùng được cho trẻ em từ 5 tuổi không?",
+        "content": "<p>Thuốc Xoang Nhất Nhất có thể dùng được cho trẻ em từ 5 tuổi.</p>"
+      },
+      {
+        "id": 14278,
+        "title": "Thuốc Xoang Nhất Nhất được sử dụng để điều trị những bệnh gì?",
+        "content": "<p>Thuốc Xoang Nhất Nhất có tác dụng tiêu viêm, thông mũi, được sử dụng để hỗ trợ điều trị các triệu chứng <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">viêm mũi dị ứng</a>, nghẹt mũi, viêm xoang cấp và mạn tính.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00048773",
+        "name": "OTRERA 0.1% AN THIÊN 10ML",
+        "webName": "Dung dịch xịt mũi Otrera 0.1% An Thiên giảm nghẹt mũi và sung huyết mũi (10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04551_acec3fe400.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 76742,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 25000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/otrera-0-1-an-thien-10-ml.html",
+        "ingredients": "Xylometazoline hydrochloride 0.1%",
+        "dosageForm": "Dung dịch xịt mũi",
+        "brand": "An Thiên",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp x 10ml",
+        "prices": [
+          {
+            "id": 76742,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 25000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006360",
+        "name": "RHINEX UPHACE 15ML - DD NHỎ MŨI",
+        "webName": "Thuốc nhỏ mũi Rhinex 0.05% Uphace giảm sung huyết, viêm xoang, viêm mũi dị ứng (15ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2050_d1844c875f.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 9235,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 6000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/rhinex-005-2410.html",
+        "ingredients": "Naphazolin nitrat 7.5mg",
+        "dosageForm": "Dung dịch nhỏ mũi",
+        "brand": "TW25",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 15ml",
+        "prices": [
+          {
+            "id": 9235,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00005663",
+        "name": "OTRIVIN 0.05% NASAL DROPS HALEON 10ML",
+        "webName": "Thuốc nhỏ mũi Otrivin 0.05% Haleon điều trị nghẹt mũi, sung huyết mũi họng (10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_nho_mui_otrivin_0_05_nasal_drops_haleon_10ml_00005663_1_6b78060aeb.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8119,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 43000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/otrivin-005-nasal-drops-10ml-2736.html",
+        "ingredients": "Xylometazoline hydrochloride 0.05%",
+        "dosageForm": "Dung  dịch nhỏ mũi",
+        "brand": "HALEON",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 10ml",
+        "prices": [
+          {
+            "id": 8119,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 43000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 87,
+          "attributeName": "Thụy Sĩ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/ch_Switzerland_8023147879.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00005661",
+        "name": "OTRIVIN 0.05% NASAL SPRAY HALEON 10ML",
+        "webName": "Thuốc xịt mũi Otrivin 0.05% GSK giảm triệu chứng nghẹt mũi, viêm mũi dị ứng (10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02002_78e29a74e8.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8118,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 53000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/otrivin-005-spray-10ml-2737.html",
+        "ingredients": "Xylometazoline hydrochloride 0.05%",
+        "dosageForm": "Dung dịch xịt mũi",
+        "brand": "HALEON",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 10ml",
+        "prices": [
+          {
+            "id": 8118,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 53000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 87,
+          "attributeName": "Thụy Sĩ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/ch_Switzerland_8023147879.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00005660",
+        "name": "OTRIVIN 0.1% NASAL SPRAY HALEON 10ML",
+        "webName": "Thuốc xịt mũi Otrivin 0.1% GSK điều trị nghẹt mũi, sung huyết mũi (10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01990_8fbfae866d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8117,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 58000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/otrivin-01-nasal-spray-10ml-2738.html",
+        "ingredients": "Xylometazoline hydrochloride 0.1%",
+        "dosageForm": "Dung dịch xịt mũi",
+        "brand": "HALEON",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 10ml",
+        "prices": [
+          {
+            "id": 8117,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 58000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 87,
+          "attributeName": "Thụy Sĩ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/ch_Switzerland_8023147879.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00005655",
+        "name": "OTILIN 0.1% PHARBACO 15ML",
+        "webName": "Thuốc xịt mũi Otilin 0.1% Pharbaco giảm ngạt mũi, sung huyết trong viêm mũi (15ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4568_a8d62396ed.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8111,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 20000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/otilin-15ml-01-2740.html",
+        "ingredients": "Xylomethazolin HCl 0.1%",
+        "dosageForm": "Dung dịch xịt mũi",
+        "brand": "Pharbaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 15ml",
+        "prices": [
+          {
+            "id": 8111,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 20000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00016285",
+        "name": "OTILIN 0.05% TW1-PHARBACO 8ML",
+        "webName": "Thuốc nhỏ mũi trẻ em Otilin 0.05% Pharbaco giảm ngạt mũi, sung huyết trong viêm mũi cấp (8ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00016285_otilin_005_8ml_4945_6103_large_e3eacc61d0.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 19576,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 5000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/otilin-005-8ml-14415.html",
+        "ingredients": "Xylometazolin hydrochlorid 0.05%",
+        "dosageForm": "Dung  dịch nhỏ mũi",
+        "brand": "Pharbaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 8ml",
+        "prices": [
+          {
+            "id": 19576,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 5000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00020525",
+        "name": "XYLOGEN DƯỢC KHOA 15ML",
+        "webName": "Thuốc xịt mũi Xylogen DK Pharma điều trị ngạt mũi, cảm cúm, viêm mũi (15ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00020525_xylogen_duoc_khoa_15ml_4139_5d31_large_a872344d1d.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 25453,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 18000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/xylogen-duoc-khoa-15ml-20774.html",
+        "ingredients": "Xylometazolin hydroclorid 0.1%",
+        "dosageForm": "Dung dịch xịt mũi",
+        "brand": "DK Pharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 15ml",
+        "prices": [
+          {
+            "id": 25453,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 18000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00022501",
+        "name": "NAPHAZOLIN DANAPHA 10ML - DUNG DỊCH NHỎ MŨI",
+        "webName": "Thuốc nhỏ mũi Naphazolin 0.05% Danapha điều trị nghẹt mũi, sổ mũi, viêm mũi (10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00022501_naphazolin_danapha_10ml_dung_dich_nho_mui_4503_6103_large_4dfd3feab6.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 28899,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 4000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/naphazolin-danapha-10ml-dung-dich-nho-mui-22827.html",
+        "ingredients": "Naphazolin nitrat 0.05%",
+        "dosageForm": "Dung dịch nhỏ mũi",
+        "brand": "Danapha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 10ml",
+        "prices": [
+          {
+            "id": 28899,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 4000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00022506",
+        "name": "HALIXOL 30MG EGIS 2X10",
+        "webName": "Thuốc Halixol 30mg Egis Pharma điều trị hen phế quản và viêm phế quản (2 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/halixol_30mg_2x10_egis_00022506_28ed013f8f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 28910,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 1945,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/halixol-30mg-egis-2x10-22832.html",
+        "ingredients": "Ambroxol hydroclorid 30mg",
+        "dosageForm": "Viên nén",
+        "brand": "Egis Pharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 28912,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 38900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 28911,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 19450,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 28910,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 1945,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 58,
+          "attributeName": "Hungary",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/hu_Hungary_025bdc77ac.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00031588",
+        "name": "NAPHAZOLIN DANAPHA 5ML - DUNG DỊCH NHỎ MŨI - NAPHAZOLIN - 0.05%",
+        "webName": "Thuốc nhỏ mũi Naphazolin 0.05% Danapha điều trị nghẹt mũi, sổ mũi, viêm mũi (5ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/Nho_mui_naphazolin_0_05_danapha_c_5ml_24ed26eaef.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 42624,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 3800,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/naphazolin-danapha-5ml-dung-dich-nho-mui-naphazolin-005-31714.html",
+        "ingredients": "Naphazolin hydroclorid 2.5mg",
+        "dosageForm": "Dung dịch nhỏ mũi",
+        "brand": "Danapha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 1 Chai x 5ml",
+        "prices": [
+          {
+            "id": 42624,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 3800,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00005659",
+        "name": "OTRIVIN 0.1% NASAL DROPS HALEON 10ML",
+        "webName": "Thuốc nhỏ mũi Otrivin 0.1% GSK điều trị nghẹt mũi, sung huyết mũi họng (10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01978_9440b82b39.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8116,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 53000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/otrivin-01-dro-10ml-16977.html",
+        "ingredients": "Xylometazoline 0.1%",
+        "dosageForm": "Dung dịch nhỏ mũi",
+        "brand": "HALEON",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Chai x 10ml",
+        "prices": [
+          {
+            "id": 8116,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 53000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 87,
+          "attributeName": "Thụy Sĩ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/ch_Switzerland_8023147879.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 42,
+      "items": [
+        {
+          "id": 3326051,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0934xxxxxx",
+          "name": "Dũng Bùi",
+          "email": "buianhdung281077@gmail.com",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mình bị xaong giờ nó hành đau đầu khủng khiếp kèm theo lan tỏa xuống vai gáy có khi đau quá tay chân run rẩy uống xaong nhất nhất này có được không ậ.",
+          "createdAt": "2026-06-21 21:10:48",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-21 21:10:48",
+          "replies": [
+            {
+              "id": 3326055,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Hồng Khuyên",
+                "moderatorEmail": "khuyennh4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Hồng Khuyên",
+              "email": "khuyennh4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Dũng,</p><p>Sản phẩm Thuốc Xoang Nhất Nhất hỗ trợ điều trị các chứng nghẹt mũi,&nbsp;<a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\" rel=\"noopener noreferrer\" target=\"_blank\">viêm mũi dị ứng</a>, viêm xoang cấp và mạn tính.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-06-21 21:18:50",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-21 21:10:48",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3242811,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0389xxxxxx",
+          "name": "chị hương",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mình bị viêm xoang cấp đau nhức hốc mắt mình uống đc ko",
+          "createdAt": "2026-01-09 14:44:12",
+          "createdAtDisplay": "7 tháng trước",
+          "updatedAt": "2026-01-09 14:44:12",
+          "replies": [
+            {
+              "id": 3242846,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Hồng Ngọc",
+                "moderatorEmail": "ngoctth25@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Hồng Ngọc",
+              "email": "ngoctth25@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hương,</p><p>Dạ sản phẩm Xoang Nhất Nhất&nbsp;hỗ trợ điều trị các chứng nghẹt mũi,&nbsp;<a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\" rel=\"noopener noreferrer\" target=\"_blank\">viêm mũi dị ứng</a>, viêm xoang cấp và mạn tính. Phù hợp với tình trạng của Chị ạ.</p><p>Nhà thuốc thông tin đến Chị.</p>",
+              "createdAt": "2026-01-09 15:25:12",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-01-09 14:44:12",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3100754,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0868xxxxxx",
+          "name": "Tiến Nguyễn",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mình bị xoang hàm thì cần dùng bao lâu thì khỏi ạ.",
+          "createdAt": "2025-05-02 23:30:59",
+          "createdAtDisplay": "02/05/2025",
+          "updatedAt": "2025-05-02 23:30:59",
+          "replies": [
+            {
+              "id": 3100784,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Quỳnh Chu",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Quỳnh Chu",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Tiến Nguyễn, </p><p>Dạ Thuốc xoang Nhất Nhất hiệu quả trong&nbsp;hỗ trợ điều trị các chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính, hiệu qủa của sản phẩm nhanh hay chậm còn tùy thuộc vào cơ địa mỗi người, mình có thể sử dụng và theo dõi thêm ạ.</p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p>",
+              "createdAt": "2025-05-03 07:31:24",
+              "createdAtDisplay": "03/05/2025",
+              "updatedAt": "2025-05-02 23:30:59",
+              "replies": []
+            },
+            {
+              "id": 3106295,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0868xxxxxx",
+              "name": "Tiến Nguyễn",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Thuốc điều trị hay là thực phẩm chức năng ạ?",
+              "createdAt": "2025-05-11 23:13:10",
+              "createdAtDisplay": "11/05/2025",
+              "updatedAt": "2025-05-02 23:30:59",
+              "replies": []
+            },
+            {
+              "id": 3106404,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Đại",
+                "moderatorEmail": "daint17@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Đại",
+              "email": "daint17@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Tiến Nguyễn,</p><p>Dạ thuốc Xoang Nhất Nhất điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp là thuốc điều trị ạ.</p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p>",
+              "createdAt": "2025-05-12 09:08:26",
+              "createdAtDisplay": "12/05/2025",
+              "updatedAt": "2025-05-02 23:30:59",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3058132,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0398xxxxxx",
+          "name": "Chị Hà",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bé 7 tuổi uống được k ạ",
+          "createdAt": "2025-02-28 14:48:47",
+          "createdAtDisplay": "28/02/2025",
+          "updatedAt": "2025-02-28 14:48:47",
+          "replies": [
+            {
+              "id": 3058136,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Tiến Bắc",
+                "moderatorEmail": "bacnt16@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Tiến Bắc",
+              "email": "bacnt16@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hà,</p><p>Dạ  thuốc Xoang Nhất Nhất có thể dùng được cho trẻ em từ 5 tuổi mình có thể sử dụng và theo dõi thêm ạ.</p><p>Nhà thuốc thông tin đến chị.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-02-28 14:49:47",
+              "createdAtDisplay": "28/02/2025",
+              "updatedAt": "2025-02-28 14:48:47",
+              "replies": []
+            },
+            {
+              "id": 3058274,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0398xxxxxx",
+              "name": "Chị Hà",
+              "email": "",
+              "score": null,
+              "gender": 1,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "liệu uống có khỏi k ạ.",
+              "createdAt": "2025-02-28 18:51:26",
+              "createdAtDisplay": "28/02/2025",
+              "updatedAt": "2025-02-28 14:48:47",
+              "replies": []
+            },
+            {
+              "id": 3058276,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Đại",
+                "moderatorEmail": "daint17@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Đại",
+              "email": "daint17@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hà,</p><p>Dạ thuốc xoang Nhất Nhất hỗ trợ điều trị các chứng nghẹt mũi,&nbsp;viêm mũi dị ứng, viêm xoang cấp và mạn tính, mình có thể sử dụng và theo dõi thêm ạ. Nếu tình trạng sau khi sử dụng thuốc mà không có dấu hiệu thuyên giảm hoặc cải thiện mình nên tới cơ sở y tế để được thăm khám và hỗ trợ từ bác sĩ ạ.</p><p>Nhà thuốc thông tin đến chị.</p><p>Thân mến!</p>",
+              "createdAt": "2025-02-28 18:53:58",
+              "createdAtDisplay": "28/02/2025",
+              "updatedAt": "2025-02-28 14:48:47",
+              "replies": []
+            },
+            {
+              "id": 3058398,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0398xxxxxx",
+              "name": "Chị Hà",
+              "email": "",
+              "score": null,
+              "gender": 1,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "dùng khoảng bao lâu ạ",
+              "createdAt": "2025-02-28 20:32:04",
+              "createdAtDisplay": "28/02/2025",
+              "updatedAt": "2025-02-28 14:48:47",
+              "replies": []
+            },
+            {
+              "id": 3058401,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Vi Trần",
+                "moderatorEmail": "vit2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Vi Trần",
+              "email": "vit2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hà,</p><p>Dạ mình nên duy trì sử dụng theo liệu trình 2 - 3 tháng và nghỉ 1 tháng giữa các liệu trình để cơ thể hấp thu và chuyển hóa các dưỡng chất có trong sản phẩm, hoặc dùng theo chỉ định của bác sĩ ạ.</p><p>Nhà Thuốc thông tin đến chị.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-02-28 20:33:58",
+              "createdAtDisplay": "28/02/2025",
+              "updatedAt": "2025-02-28 14:48:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 5
+        },
+        {
+          "id": 3045615,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0902xxxxxx",
+          "name": "Anh Hieu",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này có trị nghẹt mũi và sổ mũi ko vậy?Thời gian hiệu quả là bao lâu?",
+          "createdAt": "2025-02-12 10:50:24",
+          "createdAtDisplay": "12/02/2025",
+          "updatedAt": "2025-02-12 10:50:24",
+          "replies": [
+            {
+              "id": 3045617,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lữ Thư",
+                "moderatorEmail": "thulta11@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lữ Thư",
+              "email": "thulta11@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Hieu,</p><p>Dạ sản phẩm Thuốc Xoang Nhất Nhất điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp (3 vỉ x 10 viên) chuyên hỗ trợ điều trị các chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính bạn có thể sử dụng liệu trình 1 đến 2 tháng để theo dõi hiệu quả ạ. </p><p>Nhà thuốc thông tin đến anh.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-02-12 10:52:24",
+              "createdAtDisplay": "12/02/2025",
+              "updatedAt": "2025-02-12 10:50:24",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 3,
+      "items": [
+        {
+          "id": 3211905,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0966xxxxxx",
+          "name": "Phạm Ngọc Mạnh",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thông xoang nhất nhât 34 bên mình bán khoonh",
+          "createdAt": "2025-11-13 21:07:21",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-13 21:07:12",
+          "replies": [
+            {
+              "id": 3211907,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Mạnh Hà",
+                "moderatorEmail": "hahm5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Mạnh Hà",
+              "email": "hahm5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Phạm Ngọc Mạnh,</p><p>Tư vấn viên nhà thuốc Long Châu sẽ liên hệ theo SĐT bạn đã để lại ạ.</p>",
+              "createdAt": "2025-11-13 21:08:04",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-13 21:07:12",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 873776,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0868xxxxxx",
+          "name": "c Hương",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2024-03-09 20:58:03",
+          "createdAtDisplay": "09/03/2024",
+          "updatedAt": "2024-03-09 20:58:42",
+          "replies": [
+            {
+              "id": 873782,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Cao Thị Ngọc Nhi",
+                "moderatorEmail": "Nhictn2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Cao Thị Ngọc Nhi",
+              "email": "Nhictn2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào chị Hương,</span><br><span>Dạ rất cảm ơn tình cảm của chị dành cho nhà thuốc FPT Long châu. Bất cứ khi nào chị cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.  </span><br><span>Thân mến!</span></p>",
+              "createdAt": "2024-03-09 20:58:42",
+              "createdAtDisplay": "09/03/2024",
+              "updatedAt": "2024-03-09 20:58:42",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 236348,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0912xxxxxx",
+          "name": "Thanh Hoang",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Có sự khác biệt nào so với thuốc xoang 34",
+          "createdAt": "2023-10-05 08:08:59",
+          "createdAtDisplay": "05/10/2023",
+          "updatedAt": "2023-10-05 08:16:35",
+          "replies": [
+            {
+              "id": 236356,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thu Trang",
+                "moderatorEmail": "trangntt291@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Thị Thu Trang",
+              "email": "trangntt291@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Thanh Hoang,</p><p>Dạ 2 sản phẩm này có hàm lượng hoạt chất các thành phần khác nhau ạ. Thông tin đến bạn.&nbsp;</p><p>Thân mến!</p>",
+              "createdAt": "2023-10-05 08:16:35",
+              "createdAtDisplay": "05/10/2023",
+              "updatedAt": "2023-10-05 08:16:35",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 3
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Xoang Nhất Nhất điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp (3 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_xoang_nhat_nhat_3x10_00031087_432aa0b0a9.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_7042_63d7_large_d4f741bb14.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_2207_63d7_large_82b6b5a849.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_6843_63d7_large_80864b6aad.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_8942_63d7_large_13a470e3a9.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_9990_63d7_large_d0e30a18ab.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_8830_63d7_large_41f88bf60d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031087_thuoc_xoang_nhat_nhat_3x10_7644_63d7_large_e9a5f1a9c0.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc xoang Nhất Nhất có thành phần chính từ cao khô hỗn hợp dược liệu, sản xuất bởi Công ty TNHH Dược phẩm Nhất Nhất. Thuốc xoang Nhất Nhất hiệu quả trong hỗ trợ điều trị các chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "3"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/thuoc-xoang-nhat-nhat-3x10-31238.html",
+        "priceCurrency": "VND",
+        "price": 5333,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/OutStock"
+      }
+    },
+    "seo": {
+      "title": "Thuốc Xoang Nhất Nhất trị nghẹt mũi, viêm mũi dị ứng",
+      "description": "Thuốc Xoang Nhất Nhất có thành phần chính từ cao khô hỗn hợp dược liệu, sản xuất bởi Công ty TNHH Dược phẩm Nhất Nhất. Thuốc xoang Nhất Nhất hiệu quả trong hỗ trợ điều trị các chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính.",
+      "openGraph": {
+        "title": "Thuốc Xoang Nhất Nhất điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp (3 vỉ x 10 viên)",
+        "description": "Thuốc xoang Nhất Nhất có thành phần chính từ cao khô hỗn hợp dược liệu, sản xuất bởi Công ty TNHH Dược phẩm Nhất Nhất. Thuốc xoang Nhất Nhất hiệu quả trong hỗ trợ điều trị các chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_xoang_nhat_nhat_3x10_00031087_432aa0b0a9.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/thuoc-xoang-nhat-nhat-3x10-31238.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/thuoc-xoang-nhat-nhat-3x10-31238.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

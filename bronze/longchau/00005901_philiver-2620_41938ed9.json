@@ -1,0 +1,2144 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/philiver-2620.html",
+  "ingestion_timestamp": "2026-09-05T10:51:20.805654+00:00",
+  "file_hash": "acda21e5b381ac5456a93bfd5810c4b13afacf1db38ae717e3e0a0dab196760c",
+  "lineage_hash": "6963827cabed81816c651c89f2f8aca0b7636441320b126c16efb5b793ab14ee",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/philiver-2620.html",
+    "product": {
+      "sku": "00005901",
+      "webName": "Viên nang mềm Philiver Phil Inter Pharma điều trị bệnh gan mạn tính, gan nhiễm mỡ (12 vỉ x 5 viên)",
+      "name": "PHILIVER 200MG PHIL 12X5",
+      "shortName": "PHILIVER 200 PHIL 12X5",
+      "headingText": "Viên nang mềm Philiver",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_nang_mem_philiver_200mg_12_vi_x_5_vien_phil_inter_pharma_00005901_68593a30bc.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_9467_63db_large_c170cab41b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_1177_63db_large_d49df557cf.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_9396_63db_large_918744e31a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_5573_63db_large_3ec036d050.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_8073_63db_large_1225971370.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_2339_63db_large_39a89e5c3c.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_1675322638_befa52717f.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 736,
+          "name": "Thuốc tiêu hoá & gan mật",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 809,
+          "name": "Thuốc trị bệnh gan",
+          "parentName": "Thuốc tiêu hoá & gan mật",
+          "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 234000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 12 Vỉ x 5 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": 19500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "12 Vỉ x 5 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 3900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "5 Viên"
+        }
+      ],
+      "slug": "thuoc/philiver-2620.html",
+      "ingredient": [
+        {
+          "id": 22846,
+          "ingredientId": 13088,
+          "shortDescription": "200mg",
+          "name": "Cardus marianus",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 22847,
+          "ingredientId": 38162,
+          "shortDescription": "8mg",
+          "name": "Thiamine",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 22848,
+          "ingredientId": 33933,
+          "shortDescription": "10mg",
+          "name": "Pyridoxine",
+          "isPrimary": false,
+          "slug": "thanh-phan/pyridoxine"
+        },
+        {
+          "id": 22849,
+          "ingredientId": 34763,
+          "shortDescription": "8mg",
+          "name": "Riboflavine",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 22850,
+          "ingredientId": 29897,
+          "shortDescription": "24mg",
+          "name": "Nicotinamide",
+          "isPrimary": false,
+          "slug": "thanh-phan/nicotinamide"
+        },
+        {
+          "id": 22851,
+          "ingredientId": 12384,
+          "shortDescription": "16mg",
+          "name": "Calcium Pantothenate",
+          "isPrimary": false,
+          "slug": "thanh-phan/calcium-pantothenate"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893100222324",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang mềm",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Thuốc Philiver được dùng đường uống.</p><h3><strong>Liều dùng</strong></h3><p>Liều thông thường ở người lớn là mỗi ngày uống 3 lần, mỗi lần 1 viên.</p><p>Liều có thể được điều chỉnh tùy theo tuổi bệnh nhân và mức độ trầm trọng của các triệu chứng.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Khi quá liều xảy ra, không có biện pháp giải độc đặc hiệu. Sử dụng các biện pháp thông thường như gây nôn, rửa dạ dày, điều trị triệu chứng và hỗ trợ.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Philiver</strong> được chỉ định dùng trong các trường hợp bệnh gan mạn tính, <a href=\"https://nhathuoclongchau.com.vn/benh/gan-nhiem-mo-464.html\"><strong>gan nhiễm mỡ</strong></a>,&nbsp;<a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\"><strong>xơ gan</strong></a>, bệnh nhiễm độc gan.</p><h3><strong>Dược lực học</strong></h3><p>Chưa có báo cáo.</p><h3><strong>Dược động học</strong></h3><p>Chưa có báo cáo.</p>",
+      "brand": "Phil Inter",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc Philiver</strong>, bạn có thể gặp các tác dụng không mong muốn (ADR).&nbsp;</p><p>Các phản ứng có hại của thuốc rất hiếm gặp như: Ban da, ngứa, <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mày đay</a>, buồn nôn và nôn.</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 12 Vỉ x 5 Viên",
+      "indications": [
+        {
+          "id": 5,
+          "name": "Gan nhiễm mỡ",
+          "slug": "benh/gan-nhiem-mo-464.html"
+        },
+        {
+          "id": 149,
+          "name": "Xơ gan",
+          "slug": "benh/xo-gan-415.html"
+        },
+        {
+          "id": 214,
+          "name": "Suy gan",
+          "slug": "benh/suy-gan-617.html"
+        },
+        {
+          "id": 428,
+          "name": "Viêm gan mạn",
+          "slug": "benh/viem-gan-man-146.html"
+        },
+        {
+          "id": 847,
+          "name": "Nhiễm độc gan",
+          "slug": null
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "CÔNG TY TNHH PHIL INTER PHARMA",
+      "shortDescription": "<p><strong>Thuốc Philiver</strong> được sản xuất bởi <i>Công ty&nbsp;TNHH Phil&nbsp;Inter&nbsp;Pharma</i>. Thuốc Philiver có thành phần chính là cao Cardus marianus (gồm Silymarin và Silybin), một số vitamin (B1, B6, B2…) và calci. Thuốc Philiver được chỉ định trong điều trị bệnh gan mạn tính, gan nhiễm mỡ, xơ gan, bệnh nhiễm độc gan.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "Trên 12 tuổi",
+      "objectUse": [
+        "Người lớn",
+        "Trẻ em"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Tiểu đường"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Loét dạ dày tá tràng, Dị ứng thuốc, Xuất huyết động mạch",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/phil-inter",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "PHILIVER",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": 3900,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "5 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 809,
+        "name": "Thuốc trị bệnh gan",
+        "parentName": "Thuốc tiêu hoá & gan mật",
+        "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_nang_mem_philiver_200mg_12_vi_x_5_vien_phil_inter_pharma_00005901_68593a30bc.jpg",
+          "alternativeText": "Viên nang mềm Philiver Phil Inter Pharma điều trị bệnh gan mạn tính, gan nhiễm mỡ (12 vỉ x 5 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_9467_63db_large_c170cab41b.jpg",
+          "alternativeText": "Viên nang mềm Philiver Phil Inter Pharma điều trị bệnh gan mạn tính, gan nhiễm mỡ (12 vỉ x 5 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_1177_63db_large_d49df557cf.jpg",
+          "alternativeText": "Viên nang mềm Philiver Phil Inter Pharma điều trị bệnh gan mạn tính, gan nhiễm mỡ (12 vỉ x 5 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_9396_63db_large_918744e31a.jpg",
+          "alternativeText": "Viên nang mềm Philiver Phil Inter Pharma điều trị bệnh gan mạn tính, gan nhiễm mỡ (12 vỉ x 5 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_5573_63db_large_3ec036d050.jpg",
+          "alternativeText": "Viên nang mềm Philiver Phil Inter Pharma điều trị bệnh gan mạn tính, gan nhiễm mỡ (12 vỉ x 5 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_8073_63db_large_1225971370.jpg",
+          "alternativeText": "Viên nang mềm Philiver Phil Inter Pharma điều trị bệnh gan mạn tính, gan nhiễm mỡ (12 vỉ x 5 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_2339_63db_large_39a89e5c3c.jpg",
+          "alternativeText": "Viên nang mềm Philiver Phil Inter Pharma điều trị bệnh gan mạn tính, gan nhiễm mỡ (12 vỉ x 5 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_1675322638_befa52717f.jpg",
+          "alternativeText": "Viên nang mềm Philiver Phil Inter Pharma điều trị bệnh gan mạn tính, gan nhiễm mỡ (12 vỉ x 5 viên) 8"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 234000,
+        "itemCode": "00005901",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 234000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 19500,
+        "itemCode": "00005901",
+        "unitCode": 13,
+        "maxValue": 0,
+        "price": 19500,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 3900,
+        "itemCode": "00005901",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 3900,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiêu hoá & gan mật",
+        "slug": "/thuoc/thuoc-tieu-hoa-and-gan-mat"
+      },
+      {
+        "name": "Thuốc trị bệnh gan",
+        "slug": "/thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan"
+      }
+    ],
+    "content": {
+      "sku": "00005901",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Thuốc Philiver được dùng đường uống.</p><h3><strong>Liều dùng</strong></h3><p>Liều thông thường ở người lớn là mỗi ngày uống 3 lần, mỗi lần 1 viên.</p><p>Liều có thể được điều chỉnh tùy theo tuổi bệnh nhân và mức độ trầm trọng của các triệu chứng.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Khi quá liều xảy ra, không có biện pháp giải độc đặc hiệu. Sử dụng các biện pháp thông thường như gây nôn, rửa dạ dày, điều trị triệu chứng và hỗ trợ.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ hướng dẫn sử dụng thuốc Philiver.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc Philiver</strong>, bạn có thể gặp các tác dụng không mong muốn (ADR).&nbsp;</p><p>Các phản ứng có hại của thuốc rất hiếm gặp như: Ban da, ngứa, <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mày đay</a>, buồn nôn và nôn.</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Trong hộp kín, nhiệt độ dưới 30ºC, tránh ánh sáng.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Philiver</strong> được chỉ định dùng trong các trường hợp bệnh gan mạn tính, <a href=\"https://nhathuoclongchau.com.vn/benh/gan-nhiem-mo-464.html\"><strong>gan nhiễm mỡ</strong></a>,&nbsp;<a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\"><strong>xơ gan</strong></a>, bệnh nhiễm độc gan.</p><h3><strong>Dược lực học</strong></h3><p>Chưa có báo cáo.</p><h3><strong>Dược động học</strong></h3><p>Chưa có báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3><strong>Chống chỉ định</strong></h3><p><strong>Thuốc Philiver</strong> chống chỉ định trong các trường hợp sau:</p><p>Bệnh nhân quá mẫn với bất kỳ thành phần nào của thuốc.</p><p>Bệnh gan nặng.</p><p>Loét dạ dày tiến triển.</p><p>Xuất huyết động mạch.</p><p>Hạ huyết áp nặng.</p><h3><strong>Thận trọng khi sử dụng</strong></h3><p>Dùng thuốc theo đúng liều lượng đã được chỉ dẫn.</p><p>Trẻ em dùng thuốc phải có sự theo dõi của cha mẹ.</p><p>Nếu xảy ra các phản ứng dị ứng, phải ngừng sử dụng thuốc ngay lập tức và tham khảo ý kiến bác sĩ.</p><p>Nếu các triệu chứng không được cải thiện dù đã dùng thuốc được 1 tháng, phải ngưng dùng và tham khảo ý kiến bác sĩ.</p><p>Thuốc này có chứa phẩm màu vàng số 4 (tartrazin). Nếu bệnh nhân có tiền sử nhạy cảm với thành phần này nên hỏi ý kiến của bác sĩ&nbsp;hoặc dược sĩ&nbsp;trước khi dùng thuốc.</p><p>Khi sử dụng nicotinamide với liều cao cho những trường hợp: Tiền sử <a href=\"https://nhathuoclongchau.com.vn/benh/loet-da-day-ta-trang-580.html\">loét dạ dày</a>, bệnh túi mật, tiền sử có vàng da hoặc <a href=\"https://nhathuoclongchau.com.vn/bai-viet/benh-gan-va-cach-phong-ngua-cac-benh-ve-gan-hieu-qua-49821.html\">bệnh gan</a>, bệnh gút, viêm khớp do gút và bệnh đái tháo đường.</p><p>Calci pantothenate có thể kéo dài thời gian chảy máu nên phải sử dụng rất thận trọng ở người có bệnh ưa chảy máu hoặc có nguy cơ chảy máu khác.</p><h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3><p>Không ảnh hưởng.</p><h3><strong>Thời kỳ mang thai</strong></h3><p>Chỉ nên dùng thuốc theo sự hướng dẫn của thầy thuốc.</p><h3><strong>Thời kỳ cho con bú</strong></h3><p>Chỉ nên dùng thuốc theo sự hướng dẫn của thầy thuốc.</p><h3><strong>Tương tác thuốc</strong></h3><p>Pyridoxine làm giảm tác dụng của levodopa trong điều trị bệnh Parkinson.</p><p>Pyridoxine có thể làm nhẹ bớt <a href=\"https://nhathuoclongchau.com.vn/benh/tram-cam-79.html\">trầm cảm</a> ở phụ nữ uống thuốc tránh thai.</p><p>Thuốc tránh thai uống có thể làm tăng nhu cầu về pyridoxine.</p><p>Rượu có thể gây cản trở hấp thu riboflavin ở ruột.</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/probenecid\"><strong>Probenecid</strong></a> sử dụng cùng riboflavin gây giảm hấp thu riboflavin ở dạ dày, ruột.</p><p>Sử dụng nicotinamide đồng thời với chất ức chế men khử HGM-CoA có thể làm tăng nguy cơ gây tiêu cơ vân (rhabdomyolysis).</p><p>Sử dụng nicotinamide đồng thời với thuốc chẹn alpha-adrenergic trị tăng huyết áp có thể dẫn đến hạ huyết áp quá mức.</p><p>Khẩu phần ăn và liều lượng thuốc uống hạ đường huyết hoặc insulin có thể cần phải điều chỉnh khi sử dụng đồng thời với nicotinamide.</p><p>Sử dụng <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/nicotinamide\"><strong>nicotinamide</strong></a> đồng thời với các thuốc có độc tính với gan có thể làm tăng thêm tác hại độc cho gan.</p><p>Không nên dùng đồng thời nicotinamide với carbamazepin vì gây tăng nồng độ carbamazepin huyết tương, dẫn đến tăng độc tính.</p><p>Không dùng calci pantothenate cùng với hoặc trong vòng 12 giờ sau khi dùng neostigmin hoặc những thuốc tác dụng giống thần kinh đối giao cảm khác.</p><p>Không dùng calci pantothenate trong vòng 1 giờ sau khi dùng succinylcholin&nbsp;vì calci pantothenate có thể gây kéo dài tác dụng gây giãn cơ của succinylcholin.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Nguyễn Vũ Kiều Ngân",
+        "position": "Giảng viên TTĐT Long Châu",
+        "bio": "Tốt nghiệp Đại học Y Dược TP. Hồ Chí Minh. Có nhiều năm trong lĩnh vực dược phẩm. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-nguyen-vu-kieu-ngan",
+        "isLegit": true,
+        "id": 11,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Duoc_si_nguyen_vu_kieu_ngan_48fc1f2f55.png",
+          "alternativeText": "Dược sĩ Nguyễn Vũ Kiều Ngân"
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Philiver 200mg trị bệnh gan nhiễm mỡ, xơ gan (12 vỉ x 5 viên)",
+        "metaDescription": "Thuốc Philiver 200mg Phil hỗ trợ điều trị bệnh lý về gan như: gan nhiễm mỡ, xơ gan, viêm gan, bệnh nhiễm độc gan, sản phẩm chính hãng tại Nhà thuốc Long Châu",
+        "id": 3008,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_nang_mem_philiver_200mg_12_vi_x_5_vien_phil_inter_pharma_00005901_68593a30bc.jpg",
+              "alternativeText": null
+            },
+            "title": "Viên nang mềm Philiver Phil Inter Pharma điều trị bệnh gan mạn tính, gan nhiễm mỡ (12 vỉ x 5 viên)",
+            "description": "Thuốc Philiver được sản xuất bởi Công ty&nbsp;TNHH Phil&nbsp;Inter&nbsp;Pharma. Thuốc Philiver có thành phần chính là cao Cardus marianus (gồm Silymarin và Silybin), một số vitamin (B1, B6, B2…) và calci. Thuốc Philiver được chỉ định trong điều trị bệnh gan mạn tính, gan nhiễm mỡ, xơ gan, bệnh nhiễm độc gan."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 9913,
+        "title": "Trẻ em có thể sử dụng Philiver 200mg được không?",
+        "content": "<p>Trẻ em có thể sử dụng thuốc Philiver 200mg nhưng cần có sự theo dõi của cha mẹ và dùng thuốc theo đúng liều lượng đã được chỉ dẫn.</p>"
+      },
+      {
+        "id": 9912,
+        "title": "Bệnh nhân có thể sử dụng rượu trong quá trình dùng thuốc Philiver 200mg không?",
+        "content": "<p>Rượu có thể gây cản trở hấp thu riboflavin trong thuốc Philiver 200mg ở ruột. Vì vậy, hãy tuân thủ hướng dẫn của bác sĩ và đặc biệt không được uống rượu trong suốt thời gian điều trị với thuốc Philiver 200mg.</p>"
+      },
+      {
+        "id": 9911,
+        "title": "Khi sử dụng thuốc Philiver 200mg có thể gặp tác dụng không mong muốn gì?",
+        "content": "<p>Tác dụng không mong muốn của thuốc Philiver 200mg thường rất hiếm gặp như: Ban da, <a href=\"https://nhathuoclongchau.com.vn/benh/ngua-530.html\">ngứa</a>, mày đay, buồn nôn và nôn. Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>"
+      },
+      {
+        "id": 9910,
+        "title": "Dùng thuốc Philiver 200mg như thế nào là đúng cách?",
+        "content": "<p>Thuốc Philiver 200mg được bào chế dưới dạng viên nang mềm, dùng đường uống. Liều thông thường ở người lớn là mỗi ngày uống 3 lần, mỗi lần 1 viên. Liều có thể được điều chỉnh tùy theo tuổi bệnh nhân và mức độ trầm trọng của các triệu chứng. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>"
+      },
+      {
+        "id": 9909,
+        "title": " Thuốc Philiver 200mg có tác dụng gì?",
+        "content": "<p>Thuốc Philiver 200mg có thành phần chính là cao Cardus marianus (gồm Silymarin và Silybin), một số vitamin (B1, B6, B2…) và calci. Thuốc Philiver được chỉ định dùng trong các trường hợp bệnh gan mạn tính, <a href=\"https://nhathuoclongchau.com.vn/benh/gan-nhiem-mo-464.html\">gan nhiễm mỡ</a>, xơ gan, bệnh nhiễm độc gan.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00500235",
+        "name": "BỔ GAN TRƯỜNG PHÚC 3X10",
+        "webName": "Thuốc Bổ Gan Trường Phúc giải độc gan, chống dị ứng, mày đay, lở ngứa (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500235_bo_gan_truong_phuc_3x10_7485_6293_large_b117663369.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48090,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 99000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bo-gan-truong-phuc-3x10-34370.html",
+        "ingredients": "Diệp hạ châu 1.2g, Đảng Sâm 1.2g, Bạch truật 0.6g, Cam thảo 0.6g, Phục Linh 0.6g, Nhân trần 1.2g, Trần bì 0.6g",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "TRƯỜNG PHÚC",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48090,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 99000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00502581",
+        "name": "LIVOLIN FORTE MEGA 3X10",
+        "webName": "Thuốc Livolin Forte Mega We Care điều trị viêm gan cấp, bán cấp và viêm gan mạn tính, xơ gan (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03127_3007d4ce18.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 52643,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 4967,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-livolin-forte-mega-lifesciences-hop-3-vi-x-10-vien-36849.html",
+        "ingredients": "Phospholipids thiết yếu 300mg, Vitamin B1 10mg, Vitamin B2 6mg, Vitamin B6 10mg, Vitamin B12 (Cyanocobalamin) 10mcg, Nicotinamide 30mg, Vitamin E acetate 10mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "MEGA We care",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 52644,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 49667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 52645,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 149000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 52643,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 4967,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 262,
+          "attributeName": "Thái Lan",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/th_Thailand_cdaa8c1601.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500008",
+        "name": "ANBALIV 400 PHƯƠNG ĐÔNG PHARMA 6X10",
+        "webName": "Thuốc Anbaliv Phương Đông hỗ trợ điều trị các bệnh về gan (6 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/anbaliv_314037c30b.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 47609,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 660000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/anbaliv-400-phuong-dong-pharma-6-vi-x-10-vien-34083.html",
+        "ingredients": "Silymarin 400mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Phương Đông",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 47608,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 110000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 47607,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 11000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 47609,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 660000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001374",
+        "name": "BOGANIC FORTE TRAPHACO 5X10",
+        "webName": "Thuốc Boganic Forte Traphaco bổ gan, hỗ trợ điều trị suy giảm chức năng gan (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1906_6bb1369184.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1466,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 115000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/boganic-forte-bo-gan-giai-doc-mat-gan-531.html",
+        "ingredients": "Bìm Bìm 13.6mg, Rau đắng đất 128mg, Cao khô actiso 170mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Traphaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 5 vỉ x 10 viên",
+        "prices": [
+          {
+            "id": 1464,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 2300,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1466,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 115000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 1465,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 23000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00010272",
+        "name": "SILYGAMMA 150MG WORWAG 4X25",
+        "webName": "Thuốc Silygamma 150mg Worwag điều trị viêm gan mãn tính, xơ gan (4 vỉ x 25 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010272_silygamma_150mg_3112_5b21_large_88e8a155af.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 13923,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 5700,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/silygamma-150mg-1333.html",
+        "ingredients": "Silymarin 150mg",
+        "dosageForm": "Viên nén bao",
+        "brand": "Worwag",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 4 Vỉ x 25 Viên",
+        "prices": [
+          {
+            "id": 13924,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 142500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 13925,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 570000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 13923,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00004514",
+        "name": "LIVOSIL 140MG 8X15",
+        "webName": "Viên nang cứng Livosil 140mg aconitum hỗ trợ điều trị viêm gan mạn tính, xơ gan (8 vỉ x 15 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004514_livosil_140mg_6649_5b56_large_fdc4a81ab6.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 6322,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 6900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/livosil-140mg-3199.html",
+        "ingredients": "Silymarin 140mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "aconitum",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 8 Vỉ x 15 Viên",
+        "prices": [
+          {
+            "id": 6322,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 6900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 6323,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 103500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 6324,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 828000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 195,
+          "attributeName": "Litva",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/lt_Lithuania_917ee86ad8.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001147",
+        "name": "BAR PHARMEDIC 180V - THUỐC LỢI GAN MẬT",
+        "webName": "Thuốc lợi gan mật Bar Pharmedic điều trị các bệnh về gan (180 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2039_a4d58cbfdd.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1100,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 70000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bar-180-4571.html",
+        "ingredients": "Rau đắng đất 75mg, Bìm Bìm 75mg, Atisô 100mg",
+        "dosageForm": "Viên nén bao đường",
+        "brand": "Pharmedic",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 180 viên",
+        "prices": [
+          {
+            "id": 1099,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 389,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1100,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 70000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00013883",
+        "name": "BOGANIC VBP TRAPHACO 5X20",
+        "webName": "Thuốc Boganic Traphaco bổ gan, hỗ trợ điều trị suy giảm chức năng gan (5 vỉ x 20 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6561_895514cecd.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 16508,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 80000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/boganic-vien-nen-100v-bao-phim-15828.html",
+        "ingredients": "Cao khô bìm bìm 6.4mg, Cao khô rau đắng đất 64mg, Cao khô actisô ep 85mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Traphaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 20 Viên",
+        "prices": [
+          {
+            "id": 16508,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 80000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 16507,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 16000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 16506,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 800,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007844",
+        "name": "VG-5 DANAPHA 40V",
+        "webName": "Thuốc VG-5 Danapha điều trị hạ men gan, viêm gan (40 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3100_179f9cdb03.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11520,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 40000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vg-5-lo-40v-16764.html",
+        "ingredients": "Râu bắp 50mg, Cỏ nhọ nồi 50mg, Nhân trần 130mg, Diệp hạ châu 100mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Danapha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 2.3613910000000002,
+        "specification": "Hộp 40 Viên",
+        "prices": [
+          {
+            "id": 11519,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11520,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 40000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006716",
+        "name": "SILYMAX F 140 MEDIPLANTEX 6X10",
+        "webName": "Thuốc Silymax-F Mediplantex điều trị viêm gan do virus, xơ gan (6 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006716_silymax_f_140_6x10_8257_5bba_large_291f92975a.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 9787,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 132000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/silymax-f-140-6x10-16885.html",
+        "ingredients": "Silymarin 140mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Mediplantex",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 9785,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 9786,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 22000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 9787,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 132000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00022477",
+        "name": "VIHACAPS 600MG MINSKINTERCAPS 5X10",
+        "webName": "Thuốc Vihacaps 600 Minskintercaps cải thiện triệu chứng bệnh lý gan (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00022477_vihacaps_600mg_minskintercaps_5x10_3825_6095_large_6ed858b31d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 28846,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 9520,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-vihacaps-600mg-minskintercaps-cai-thien-trieu-chung-benh-ly-gan-50-vien-22805.html",
+        "ingredients": "Phospholipid đậu nành 600mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Minskintercaps",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 28846,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 9520,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 28847,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 95200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 28848,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 476000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 57,
+          "attributeName": "Belarus",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/by_Belarus_0c1f9f5c55.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00029481",
+        "name": "A.T SILYMARIN 117MG AN THIÊN 3X10",
+        "webName": "Thuốc A.T Silymarin 117mg An Thiên hỗ trợ điều trị bệnh viêm gan mạn tính, xơ gan (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/a_t_silymarin_117mg_3x10_an_thien_00029481_86eaa662de.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 38119,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 165000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/at-silymarin-v-117mg-29647.html",
+        "ingredients": "Silymarin 117mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "An Thiên",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 38118,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 38117,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 5500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 38119,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 165000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 26,
+      "items": [
+        {
+          "id": 3292766,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0903xxxxxx",
+          "name": "TRẦN ĐÔNG HẠ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tôi khám sức khỏe thì có bệnh: Gan nhiễm mỡ, nên uống thuốc gì ? (rẻ nhất và hết bệnh nhanh rất)",
+          "createdAt": "2026-04-18 06:56:12",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-18 06:56:12",
+          "replies": [
+            {
+              "id": 3292834,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Mai Anh",
+                "moderatorEmail": "anhnm70@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Mai Anh",
+              "email": "anhnm70@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Hạ,</p><p>Dạ mình đi khám, bác sĩ kê đơn thuốc, anh dùng theo đơn bác sĩ chỉ định và theo dõi thêm ạ.</p><p>Nhà thuốc thông tin đến anh.</p>",
+              "createdAt": "2026-04-18 09:20:17",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-18 06:56:12",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3209331,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0398xxxxxx",
+          "name": "Hà đức Thái",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "tôi bị gan nhiễm mỡ độ 2, muốn mua thuốc nhờ tư vấn.",
+          "createdAt": "2025-11-09 05:19:29",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-09 05:19:22",
+          "replies": [
+            {
+              "id": 3209339,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Châu",
+                "moderatorEmail": "chauntn9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Ngọc Châu",
+              "email": "chauntn9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn <strong>Hà đức Thái</strong>,</p><p> Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p>",
+              "createdAt": "2025-11-09 08:03:21",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-09 05:19:22",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3191143,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0787xxxxxx",
+          "name": "chị Nhi",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiu 1 hộp và còn hàng k ạ",
+          "createdAt": "2025-10-05 13:24:57",
+          "createdAtDisplay": "11 tháng trước",
+          "updatedAt": "2025-10-05 13:24:51",
+          "replies": [
+            {
+              "id": 3191147,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Hồng Tiểu Ngọc",
+                "moderatorEmail": "ngocnht@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Hồng Tiểu Ngọc",
+              "email": "ngocnht@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Nhi,</p><p>Hiện tại, sản phẩm có giá 234,000 ₫/Hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với Chị qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p>",
+              "createdAt": "2025-10-05 13:27:50",
+              "createdAtDisplay": "11 tháng trước",
+              "updatedAt": "2025-10-05 13:24:51",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3078911,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0513xxxxxx",
+          "name": "Quyên",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Xin giá ạ",
+          "createdAt": "2025-03-30 10:05:30",
+          "createdAtDisplay": "30/03/2025",
+          "updatedAt": "2025-03-30 10:05:30",
+          "replies": [
+            {
+              "id": 3078912,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Từ Thị Tú Uyên",
+                "moderatorEmail": "uyenttt19@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Từ Thị Tú Uyên",
+              "email": "uyenttt19@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Quyên,</p><p>Dạ sản phẩm có giá 234.000đ/hộp ạ.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-03-30 10:06:25",
+              "createdAtDisplay": "30/03/2025",
+              "updatedAt": "2025-03-30 10:05:30",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3039529,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0521xxxxxx",
+          "name": "Cường",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Bnh 1h vậy ạ",
+          "createdAt": "2025-02-04 16:20:36",
+          "createdAtDisplay": "04/02/2025",
+          "updatedAt": "2025-02-04 16:20:36",
+          "replies": [
+            {
+              "id": 3039532,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thanh  Tân",
+                "moderatorEmail": "tanht11@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Thanh  Tân",
+              "email": "tanht11@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Cường,</p><p>Dạ sản phẩm có giá 234.000đ/hộp</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-02-04 16:23:23",
+              "createdAtDisplay": "04/02/2025",
+              "updatedAt": "2025-02-04 16:20:36",
+              "replies": []
+            },
+            {
+              "id": 3043412,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0977xxxxxx",
+              "name": "Lê văn trung",
+              "email": "levantrung131993@gmail.com",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Liệu trình gan nhiễm mỡ độ 2 uống thời gian bao lâu ạ",
+              "createdAt": "2025-02-09 14:56:37",
+              "createdAtDisplay": "09/02/2025",
+              "updatedAt": "2025-02-04 16:20:36",
+              "replies": []
+            },
+            {
+              "id": 3043413,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Phương",
+                "moderatorEmail": "phuongtt124@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Phương",
+              "email": "phuongtt124@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Lê Văn Trung,</p><p>Dạ sản phẩm là thuốc kê đơn, chỉ sử dụng khi có chỉ định và liều lượng theo bác sĩ hướng dẫn ạ.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-02-09 14:57:33",
+              "createdAtDisplay": "09/02/2025",
+              "updatedAt": "2025-02-04 16:20:36",
+              "replies": []
+            },
+            {
+              "id": 3068766,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0858xxxxxx",
+              "name": "0858xxxxxx",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "uống tầm 2 hộp .xong đi khám lại thấy ok thì xài tiếp.k thì én .chứ hỏi đội bán hàg k ăn thua đâu",
+              "createdAt": "2025-03-15 19:57:33",
+              "createdAtDisplay": "15/03/2025",
+              "updatedAt": "2025-02-04 16:20:36",
+              "replies": []
+            },
+            {
+              "id": 3068767,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Linh",
+                "moderatorEmail": "linhnk32@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Linh",
+              "email": "linhnk32@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn,</p><p>Dạ nhà thuốc FPT Long Châu cảm ơn những ý kiến đóng góp quý giá của bạn. Nhà thuốc xin tiếp thu ý kiến và ngày một cải thiện hơn về chất lượng dịch vụ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-03-15 19:59:09",
+              "createdAtDisplay": "15/03/2025",
+              "updatedAt": "2025-02-04 16:20:36",
+              "replies": []
+            }
+          ],
+          "totalReplies": 5
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 3284885,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0945xxxxxx",
+          "name": "Trung lý",
+          "email": "",
+          "score": 4,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-04-03 21:21:03",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-04-03 21:21:03",
+          "replies": [
+            {
+              "id": 3284887,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Bích Diệp",
+                "moderatorEmail": "diepnb6@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Bích Diệp",
+              "email": "diepnb6@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Lý ,</p><p> Dạ nhà thuốc FPT Long Châu rất cảm ơn anh luôn tin tưởng và ủng hộ. Chúc anh  nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-04-03 21:21:50",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-04-03 21:21:03",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 4,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 1,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Viên nang mềm Philiver Phil Inter Pharma điều trị bệnh gan mạn tính, gan nhiễm mỡ (12 vỉ x 5 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_nang_mem_philiver_200mg_12_vi_x_5_vien_phil_inter_pharma_00005901_68593a30bc.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_9467_63db_large_c170cab41b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_1177_63db_large_d49df557cf.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_9396_63db_large_918744e31a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_5573_63db_large_3ec036d050.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_8073_63db_large_1225971370.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005901_philiver_2339_63db_large_39a89e5c3c.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Philiver được sản xuất bởi Công ty TNHH Phil Inter Pharma. Thuốc Philiver có thành phần chính là cao Cardus marianus (gồm Silymarin và Silybin), một số vitamin (B1, B6, B2…) và calci. Thuốc Philiver được chỉ định trong điều trị bệnh gan mạn tính, gan nhiễm mỡ, xơ gan, bệnh nhiễm độc gan.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nguyễn Vũ Kiều Ngân"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "reviewCount": "1"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/philiver-2620.html",
+        "priceCurrency": "VND",
+        "price": 3900,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Thuốc Philiver 200mg trị bệnh gan nhiễm mỡ, xơ gan (12 vỉ x 5 viên)",
+      "description": "Thuốc Philiver 200mg Phil hỗ trợ điều trị bệnh lý về gan như: gan nhiễm mỡ, xơ gan, viêm gan, bệnh nhiễm độc gan, sản phẩm chính hãng tại Nhà thuốc Long Châu",
+      "openGraph": {
+        "title": "Viên nang mềm Philiver Phil Inter Pharma điều trị bệnh gan mạn tính, gan nhiễm mỡ (12 vỉ x 5 viên)",
+        "description": "Thuốc Philiver được sản xuất bởi Công ty&nbsp;TNHH Phil&nbsp;Inter&nbsp;Pharma. Thuốc Philiver có thành phần chính là cao Cardus marianus (gồm Silymarin và Silybin), một số vitamin (B1, B6, B2…) và calci. Thuốc Philiver được chỉ định trong điều trị bệnh gan mạn tính, gan nhiễm mỡ, xơ gan, bệnh nhiễm độc gan.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_nang_mem_philiver_200mg_12_vi_x_5_vien_phil_inter_pharma_00005901_68593a30bc.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/philiver-2620.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/philiver-2620.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

@@ -1,0 +1,1438 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/captopril-25-4391.html",
+  "ingestion_timestamp": "2026-09-05T09:06:37.330921+00:00",
+  "file_hash": "a4c593e4ba5916a6a0a256db047df7570d66d0d05c967c70177dcfa75a7e0bb5",
+  "lineage_hash": "146277aedfcc5ab3b1e612174bd83d587ad1f60c969d960bb2efb11e593cd7bc",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/captopril-25-4391.html",
+    "product": {
+      "sku": "00001576",
+      "webName": "Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên) ",
+      "name": "CAPTOPRIL 25MG DOMESCO 10X10",
+      "shortName": "CAPTOPRIL 25 DMC 10X10",
+      "headingText": "Thuốc Captopril 25mg",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/captopril_25mg_10x10_domesco_00001576_03506defcd.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5685_e041821667.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5686_34ccfa0216.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5687_2903bdf239.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5688_789ecf2bda.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5689_06b62d83ee.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5692_b8e3a391ba.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5693_c7c928de06.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/catopril_25mg_1_8932fa78d4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/catopril_25mg_2_2b7c30e992.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/catopril_25mg_3_f40acd66c2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/catopril_25mg_4_c205183e17.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 737,
+          "name": "Thuốc tim mạch & máu",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tim-mach-and-mau",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 811,
+          "name": "Thuốc tim mạch huyết áp",
+          "parentName": "Thuốc tim mạch & máu",
+          "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 10 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "10 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/captopril-25-4391.html",
+      "ingredient": [
+        {
+          "id": 20611,
+          "ingredientId": 12913,
+          "shortDescription": "25mg",
+          "name": "Captopril",
+          "isPrimary": false,
+          "slug": "thanh-phan/captopril"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-15547-11",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Captopril được dùng bằng đường uống. Nên uống trước bữa ăn 1 giờ.</p>\n\n<h3>Liều dùng</h3>\n\n<p><strong>Liều dùng điều trị tăng huyết áp</strong></p>\n\n<p>Liều thường dùng: 25 mg/lần, 2 - 3 lần/ngày. Liều ban đầu có thể thấp hơn (6,25mg, 2 lần/ngày đến 12,5mg, 3 lần/ngày).</p>\n\n<p>Nếu huyết áp không kiểm soát được sau 1 - 2 tuần, có thể tăng liều tới 50mg, uống 2 hoặc 3 lần/ngày. Liều tối đa 150 mg/ngày, có thể cho thêm thuốc lợi tiểu thiazid liều thấp (15mg hydroclorothiazid mỗi ngày).</p>\n\n<p><strong>Cơn tăng huyết áp (khi cần phải giảm huyết áp trong vài giờ)</strong></p>\n\n<p>Liều thường dùng: 12,5 - 25 mg uống lặp lại 1 hoặc 2 lần nếu cần, cách khoảng 30 - 60 phút hoặc lâu hơn, nhưng captopril phải được dùng một cách thận trọng.</p>\n\n<p><strong>Bệnh nhân suy thận</strong></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Hệ số thanh thải creatinin ml/phút/m<sup>2</sup></strong></td>\n\t\t\t<td><strong>Liều ban đầu mg/ngày</strong></td>\n\t\t\t<td><strong>Nếu chưa đạt tác dụng sau 2 tuần</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&lt; 50</td>\n\t\t\t<td>12,5 mg x 3</td>\n\t\t\t<td>25 mg x 3</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&lt; 20</td>\n\t\t\t<td>6,25 mg x 3</td>\n\t\t\t<td>12,5 mg x 3</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><strong>Bệnh nhân suy tim</strong></p>\n\n<p>Captopril nên dùng phối hợp với thuốc lợi tiểu. Liều thường dùng là 6,25 - 50 mg/lần, 2 lần/ngày; khi cần, có thể tăng liều lên 50 mg/lần, 2 lần/ngày. Người bệnh giảm thể tích tuần hoàn hoặc nồng độ natri máu dưới 130 mmol/lít, cần dùng liều ban đầu thấp hơn.</p>\n\n<p>Dùng phối hợp với thuốc lợi tiểu làm tăng nguy cơ hạ huyết áp, đặc biệt khi suy tim, hạ natri máu và ở người cao tuổi. Vì vậy nên ngừng thuốc lợi tiểu 3 ngày trước khi dùng các chất ức chế ACE. Thuốc lợi tiểu được dùng lại sau khi đã dùng các chất ức chế ACE.</p>\n\n<p><strong>Rối loạn chức năng thất trái sau nhồi máu cơ tim</strong></p>\n\n<p>Có thể bắt đầu dùng captopril sớm 3 ngày sau nhồi máu cơ tim kèm rối loạn chức năng thất trái. Sau khi dùng liều ban đầu 6,25 mg, có thể tiếp tục điều trị với liều 12,5 mg/lần x 3 lần, sau đó tăng lên 25 mg/lần x 3 lần/ngày trong vài ngày tiếp theo và nâng lên liều 50 mg/lần x 3 lần/ngày trong những tuần tiếp theo nếu người bệnh dung nạp được thuốc.</p>\n\n<p>Captopril có thể kết hợp với những liệu pháp sau nhồi máu cơ tim, như thuốc tan huyết khối, aspirin, thuốc chẹn beta.</p>\n\n<p><strong>Bệnh thận do đái tháo đường</strong></p>\n\n<p>Liều thường dùng: 25 mg x 3 lần mỗi ngày, dùng lâu dài. Nếu chưa đạt được tác dụng mong muốn, có thể cho thêm các thuốc chống tăng huyết áp như thuốc lợi tiểu...</p>\n\n<p><strong>Trẻ em</strong></p>\n\n<p>Liều ban đầu: 300 microgam (0,3 mg)/kg thể trọng/lần x 3 lần/ngày, liều có thể tăng thêm 0,3 mg/kg, cứ 8 - 24 giờ tăng một lần, đến liều thấp nhất có tác dụng.</p>\n\n<p>Lưu ý:</p>\n\n<p>Người bệnh mắc bệnh tự miễn mô liên kết hoặc suy thận với creatinin huyết thanh dưới 175 micromol/lít hoặc khi điều trị với chất ức chế miễn dịch, cần phải kiểm tra bạch cầu hai tuần một lần, trong ba tháng đầu tiên. Người bệnh cũng cần gặp thầy thuốc nếu thấy đau họng, sốt hoặc có dấu hiệu nhiễm khuẩn.</p>\n\n<p>Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p><strong>Triệu chứng</strong></p>\n\n<p>Sốt, nhức đầu, hạ huyết áp.</p>\n\n<p><strong>Xử trí</strong></p>\n\n<p>Điều trị phù mạch ảnh hưởng đến lưỡi, thanh môn hoặc thanh quản, bao gồm các biện pháp sau:</p>\n\n<ul>\n\t<li>Ngừng dùng captopril và cho người bệnh vào viện; tiêm adrenalin dưới da; tiêm tĩnh mạch diphenhy- dramin hydroclorid; tiêm tĩnh mạch hydrocortison.</li>\n\t<li>Truyền tĩnh mạch dung dịch natri clorid 0,9% để duy trì huyết áp; có thể loại bỏ captopril bằng thẩm tách máu.</li>\n</ul>\n\n<p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc Captopril có tác dụng điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị tăng huyết áp, suy tim, sau <a href=\"https://nhathuoclongchau.com.vn/benh/nhoi-mau-co-tim-595.html\">nhồi máu cơ tim</a> (ở người bệnh đã có huyết động ổn định).</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/captopril\">Captopril</a> là chất ức chế enzym chuyển dạng angiotensin I, được dùng trong điều trị tăng huyết áp, và <a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-314.html\">suy tim</a>. Tác dụng hạ huyết áp của thuốc liên quan đến ức chế hệ renin - angiotensin - aldosteron. Renin là enzym do thận sản xuất, khi vào máu tác dụng trên cơ chất globulin huyết tương sản xuất ra angiotensin I, là chất decapeptid có ít hoạt tính. Nhờ vai trò của enzym chuyển dạng (ACE), angiotensin I chuyển thành angiotensin II. Chất sau làm co mạch nội sinh rất mạnh, đồng thời lại kích thích vỏ thượng thận tiết aldosteron, có tác dụng giữ natri và nước. Captopril ngăn chặn được sự hình thành angiotensin II.</p>\n\n<p>Tác dụng chống <a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">tăng huyết áp</a>: Captopril làm giảm sức cản động mạch ngoại vi, thuốc không tác động lên cung lượng tim. Tưới máu thận được duy trì hoặc tăng. Mức lọc cầu thận thường không thay đổi. Nếu có hạ nhanh huyết áp ở người bệnh tăng huyết áp kéo dài hoặc huyết áp rất cao thì mức lọc cầu thận có thể giảm nhất thời, thể hiện ở sự tăng creatinin huyết thanh.</p>\n\n<p>Tác dụng hạ huyết áp xảy ra trong khoảng 60 - 90 phút sau khi uống liều thứ nhất. Thời gian tác dụng phụ thuộc vào liều: Sau một liều bình thường, tác dụng thường duy trì ít nhất 12 giờ. Trong điều trị tăng huyết áp, đáp ứng điều trị tối đa đạt được sau 4 tuần điều trị.</p>\n\n<p>Giảm phì đại thất trái đạt được sau 2 - 3 tháng dùng captopril. Tác dụng hạ huyết áp không phụ thuộc vào tư thế đứng hay năm.</p>\n\n<p>Hạ huyết áp tư thế (hạ huyết áp thế đứng) thường ít gặp, nhưng có thể xảy ra, đặc biệt ở người có thể tích máu giảm.</p>\n\n<p>Điều trị suy tim:</p>\n\n<p>Captopril có tác dụng tốt chống tăng sản cơ tim do ức chế hình thành angiotensin II, là chất kích thích tăng trưởng quan trọng của cơ tim. Đối với người bệnh suy tim, captopril làm giảm tiền gánh, giảm sức cản ngoại vi, tăng cung lượng tim và vì vậy làm tăng khả năng làm việc của tim.</p>\n\n<p>Tác dụng huyết động và lâm sàng thường xảy ra nhanh và duy trì trong khi điều trị. Cải thiện lâm sàng thấy cả ở người bệnh có tác dụng huyết động kém. Tưới máu thận có thể tăng nhanh tới 60%, tác dụng này thường đạt được từ 60 - 90 phút sau khi uống một liều<br />\nvà đạt tác dụng tối đa sau 3 - 8 giờ, duy trì trong khoảng 12 giờ.</p>\n\n<p>Có thể phối hợp captopril với digitalis và các thuốc lợi tiểu. Không nên phối hợp với các thuốc lợi tiểu giữ kali như spironolacton vì có thể dẫn đến tặng kali máu nặng.</p>\n\n<p>Điều trị nhồi máu cơ tim:</p>\n\n<p>Lợi ích của các chất ức chế ACE là làm giảm tỷ lệ tái phát nhồi máu cơ tim, có thể do làm chậm tiến triển <a href=\"https://nhathuoclongchau.com.vn/benh/xo-vua-dong-mach-429.html\">xơ vữa động mạch</a>. Captopril làm giảm tỷ lệ chết sau nhồi máu cơ tim. Nên dùng thuốc sớm trong cơn nhồi máu cơ tim cấp tính cho mọi người bệnh, ngay cả khi có dấu hiệu nhất thời rối loạn chức năng thất trái.</p>\n\n<h3>Dược động học</h3>\n\n<p>Sinh khả dụng đường uống của captopril khoảng 65%, nồng độ đỉnh của thuốc trong máu đạt được sau khi uống một giờ. Thức ăn không ảnh hưởng đến hấp thu của thuốc.</p>\n\n<p>Thể tích phân bố là 0,7 lít/kg. Thời gian bán thải sinh học trong huyết tương khoảng 2 giờ. Độ thanh thải toàn bộ là 0,8 lít/kg/giờ, độ thanh thải của thận là 50%, trung bình là 0,4 lít/kg/giờ. 75% thuốc được đào thải qua nước tiểu.</p>\n\n<p>50% dưới dạng không chuyển hóa và phần còn lại là chất chuyển hóa captopril cystein và dẫn chất disulfid của captopril. Suy chức năng thận có thể gây ra tích lũy thuốc.</p>",
+      "brand": "Domesco",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Captopril, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp</em></p>\n\n<ul>\n\t<li>Chóng mặt, ngoại ban, ngứa, họ.</li>\n</ul>\n\n<p><em>Ít gặp</em></p>\n\n<ul>\n\t<li>Hạ huyết áp nặng, thay đổi vị giác, viêm miệng, viêm dạ dày, đau bụng, đau thượng vị.</li>\n</ul>\n\n<p><em>Hiếm gặp</em></p>\n\n<ul>\n\t<li>Mẫn cảm, mày đay, đau cơ, sốt, tăng bạch cầu ưa eosin, bệnh hạch lympho, sút cân; viêm mạch; to vú đàn ông; phù mạch, phồng môi, phồng lưỡi; giọng khàn do phù dây thanh âm, phù chân tay. Điều này thường do thiếu từ trước enzym chuyển hóa bổ thể, kết hợp với tăng bradykinin, có thể đe dọa tính mạng.</li>\n\t<li>Mẫn cảm ánh sáng, phát ban kiểu pemphigus, hồng ban đa dạng, hội chứng Stevens — Johnson, viêm da tróc vảy; vàng da, viêm tụy; co thắt phế quản, hen nặng lên; dau cơ, đau khớp; dị cảm; trầm cảm, lú lẫn; protein niệu, hội chứng thận hư, tăng kali máu, giảm chức năng thận.</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 10 Vỉ x 10 Viên",
+      "indications": [
+        {
+          "id": 533,
+          "name": "Á vảy nến",
+          "slug": "benh/a-vay-nen.html"
+        },
+        {
+          "id": 587,
+          "name": "Suy tim",
+          "slug": "benh/suy-tim-314.html"
+        },
+        {
+          "id": 670,
+          "name": "Cao huyết áp",
+          "slug": "benh/cao-huyet-ap-225.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "DOMESCO",
+      "shortDescription": "<p>Captopril là sản phẩm của Công ty Cổ phần Xuất nhập khẩu Y tế Domesco có thành phần chính là Captopril có tác dụng điều trị tăng huyết áp, suy tim, sau nhồi máu cơ tim (ở người bệnh đã có huyết động ổn định).</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Lái tàu xe",
+        "Tiểu đường",
+        "Suy gan thận"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Mang thai, Dị ứng thuốc",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/domesco",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "CAPTOPRIL 25MG",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 811,
+        "name": "Thuốc tim mạch huyết áp",
+        "parentName": "Thuốc tim mạch & máu",
+        "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/captopril_25mg_10x10_domesco_00001576_03506defcd.png",
+          "alternativeText": "Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên)  1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5685_e041821667.jpg",
+          "alternativeText": "Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên)  2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5686_34ccfa0216.jpg",
+          "alternativeText": "Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên)  3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5687_2903bdf239.jpg",
+          "alternativeText": "Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên)  4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5688_789ecf2bda.jpg",
+          "alternativeText": "Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên)  5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5689_06b62d83ee.jpg",
+          "alternativeText": "Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên)  6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5692_b8e3a391ba.jpg",
+          "alternativeText": "Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên)  7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5693_c7c928de06.jpg",
+          "alternativeText": "Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên)  8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/catopril_25mg_1_8932fa78d4.jpg",
+          "alternativeText": "Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên)  9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/catopril_25mg_2_2b7c30e992.jpg",
+          "alternativeText": "Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên)  10"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/catopril_25mg_3_f40acd66c2.jpg",
+          "alternativeText": "Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên)  11"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/catopril_25mg_4_c205183e17.jpg",
+          "alternativeText": "Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên)  12"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tim mạch & máu",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau"
+      },
+      {
+        "name": "Thuốc tim mạch huyết áp",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap"
+      }
+    ],
+    "content": {
+      "sku": "00001576",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Captopril được dùng bằng đường uống. Nên uống trước bữa ăn 1 giờ.</p>\n\n<h3>Liều dùng</h3>\n\n<p><strong>Liều dùng điều trị tăng huyết áp</strong></p>\n\n<p>Liều thường dùng: 25 mg/lần, 2 - 3 lần/ngày. Liều ban đầu có thể thấp hơn (6,25mg, 2 lần/ngày đến 12,5mg, 3 lần/ngày).</p>\n\n<p>Nếu huyết áp không kiểm soát được sau 1 - 2 tuần, có thể tăng liều tới 50mg, uống 2 hoặc 3 lần/ngày. Liều tối đa 150 mg/ngày, có thể cho thêm thuốc lợi tiểu thiazid liều thấp (15mg hydroclorothiazid mỗi ngày).</p>\n\n<p><strong>Cơn tăng huyết áp (khi cần phải giảm huyết áp trong vài giờ)</strong></p>\n\n<p>Liều thường dùng: 12,5 - 25 mg uống lặp lại 1 hoặc 2 lần nếu cần, cách khoảng 30 - 60 phút hoặc lâu hơn, nhưng captopril phải được dùng một cách thận trọng.</p>\n\n<p><strong>Bệnh nhân suy thận</strong></p>\n\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>Hệ số thanh thải creatinin ml/phút/m<sup>2</sup></strong></td>\n\t\t\t<td><strong>Liều ban đầu mg/ngày</strong></td>\n\t\t\t<td><strong>Nếu chưa đạt tác dụng sau 2 tuần</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&lt; 50</td>\n\t\t\t<td>12,5 mg x 3</td>\n\t\t\t<td>25 mg x 3</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&lt; 20</td>\n\t\t\t<td>6,25 mg x 3</td>\n\t\t\t<td>12,5 mg x 3</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><strong>Bệnh nhân suy tim</strong></p>\n\n<p>Captopril nên dùng phối hợp với thuốc lợi tiểu. Liều thường dùng là 6,25 - 50 mg/lần, 2 lần/ngày; khi cần, có thể tăng liều lên 50 mg/lần, 2 lần/ngày. Người bệnh giảm thể tích tuần hoàn hoặc nồng độ natri máu dưới 130 mmol/lít, cần dùng liều ban đầu thấp hơn.</p>\n\n<p>Dùng phối hợp với thuốc lợi tiểu làm tăng nguy cơ hạ huyết áp, đặc biệt khi suy tim, hạ natri máu và ở người cao tuổi. Vì vậy nên ngừng thuốc lợi tiểu 3 ngày trước khi dùng các chất ức chế ACE. Thuốc lợi tiểu được dùng lại sau khi đã dùng các chất ức chế ACE.</p>\n\n<p><strong>Rối loạn chức năng thất trái sau nhồi máu cơ tim</strong></p>\n\n<p>Có thể bắt đầu dùng captopril sớm 3 ngày sau nhồi máu cơ tim kèm rối loạn chức năng thất trái. Sau khi dùng liều ban đầu 6,25 mg, có thể tiếp tục điều trị với liều 12,5 mg/lần x 3 lần, sau đó tăng lên 25 mg/lần x 3 lần/ngày trong vài ngày tiếp theo và nâng lên liều 50 mg/lần x 3 lần/ngày trong những tuần tiếp theo nếu người bệnh dung nạp được thuốc.</p>\n\n<p>Captopril có thể kết hợp với những liệu pháp sau nhồi máu cơ tim, như thuốc tan huyết khối, aspirin, thuốc chẹn beta.</p>\n\n<p><strong>Bệnh thận do đái tháo đường</strong></p>\n\n<p>Liều thường dùng: 25 mg x 3 lần mỗi ngày, dùng lâu dài. Nếu chưa đạt được tác dụng mong muốn, có thể cho thêm các thuốc chống tăng huyết áp như thuốc lợi tiểu...</p>\n\n<p><strong>Trẻ em</strong></p>\n\n<p>Liều ban đầu: 300 microgam (0,3 mg)/kg thể trọng/lần x 3 lần/ngày, liều có thể tăng thêm 0,3 mg/kg, cứ 8 - 24 giờ tăng một lần, đến liều thấp nhất có tác dụng.</p>\n\n<p>Lưu ý:</p>\n\n<p>Người bệnh mắc bệnh tự miễn mô liên kết hoặc suy thận với creatinin huyết thanh dưới 175 micromol/lít hoặc khi điều trị với chất ức chế miễn dịch, cần phải kiểm tra bạch cầu hai tuần một lần, trong ba tháng đầu tiên. Người bệnh cũng cần gặp thầy thuốc nếu thấy đau họng, sốt hoặc có dấu hiệu nhiễm khuẩn.</p>\n\n<p>Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p><strong>Triệu chứng</strong></p>\n\n<p>Sốt, nhức đầu, hạ huyết áp.</p>\n\n<p><strong>Xử trí</strong></p>\n\n<p>Điều trị phù mạch ảnh hưởng đến lưỡi, thanh môn hoặc thanh quản, bao gồm các biện pháp sau:</p>\n\n<ul>\n\t<li>Ngừng dùng captopril và cho người bệnh vào viện; tiêm adrenalin dưới da; tiêm tĩnh mạch diphenhy- dramin hydroclorid; tiêm tĩnh mạch hydrocortison.</li>\n\t<li>Truyền tĩnh mạch dung dịch natri clorid 0,9% để duy trì huyết áp; có thể loại bỏ captopril bằng thẩm tách máu.</li>\n</ul>\n\n<p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<html><body><p>Tờ hướng dẫn sử dụng thuốc.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Captopril, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp</em></p>\n\n<ul>\n\t<li>Chóng mặt, ngoại ban, ngứa, họ.</li>\n</ul>\n\n<p><em>Ít gặp</em></p>\n\n<ul>\n\t<li>Hạ huyết áp nặng, thay đổi vị giác, viêm miệng, viêm dạ dày, đau bụng, đau thượng vị.</li>\n</ul>\n\n<p><em>Hiếm gặp</em></p>\n\n<ul>\n\t<li>Mẫn cảm, mày đay, đau cơ, sốt, tăng bạch cầu ưa eosin, bệnh hạch lympho, sút cân; viêm mạch; to vú đàn ông; phù mạch, phồng môi, phồng lưỡi; giọng khàn do phù dây thanh âm, phù chân tay. Điều này thường do thiếu từ trước enzym chuyển hóa bổ thể, kết hợp với tăng bradykinin, có thể đe dọa tính mạng.</li>\n\t<li>Mẫn cảm ánh sáng, phát ban kiểu pemphigus, hồng ban đa dạng, hội chứng Stevens — Johnson, viêm da tróc vảy; vàng da, viêm tụy; co thắt phế quản, hen nặng lên; dau cơ, đau khớp; dị cảm; trầm cảm, lú lẫn; protein niệu, hội chứng thận hư, tăng kali máu, giảm chức năng thận.</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Bảo quản trong bao bì kín nơi khô ráo, tránh ánh sáng, nhiệt độ không quá 30°C.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc Captopril có tác dụng điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị tăng huyết áp, suy tim, sau <a href=\"https://nhathuoclongchau.com.vn/benh/nhoi-mau-co-tim-595.html\">nhồi máu cơ tim</a> (ở người bệnh đã có huyết động ổn định).</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/captopril\">Captopril</a> là chất ức chế enzym chuyển dạng angiotensin I, được dùng trong điều trị tăng huyết áp, và <a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-314.html\">suy tim</a>. Tác dụng hạ huyết áp của thuốc liên quan đến ức chế hệ renin - angiotensin - aldosteron. Renin là enzym do thận sản xuất, khi vào máu tác dụng trên cơ chất globulin huyết tương sản xuất ra angiotensin I, là chất decapeptid có ít hoạt tính. Nhờ vai trò của enzym chuyển dạng (ACE), angiotensin I chuyển thành angiotensin II. Chất sau làm co mạch nội sinh rất mạnh, đồng thời lại kích thích vỏ thượng thận tiết aldosteron, có tác dụng giữ natri và nước. Captopril ngăn chặn được sự hình thành angiotensin II.</p>\n\n<p>Tác dụng chống <a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">tăng huyết áp</a>: Captopril làm giảm sức cản động mạch ngoại vi, thuốc không tác động lên cung lượng tim. Tưới máu thận được duy trì hoặc tăng. Mức lọc cầu thận thường không thay đổi. Nếu có hạ nhanh huyết áp ở người bệnh tăng huyết áp kéo dài hoặc huyết áp rất cao thì mức lọc cầu thận có thể giảm nhất thời, thể hiện ở sự tăng creatinin huyết thanh.</p>\n\n<p>Tác dụng hạ huyết áp xảy ra trong khoảng 60 - 90 phút sau khi uống liều thứ nhất. Thời gian tác dụng phụ thuộc vào liều: Sau một liều bình thường, tác dụng thường duy trì ít nhất 12 giờ. Trong điều trị tăng huyết áp, đáp ứng điều trị tối đa đạt được sau 4 tuần điều trị.</p>\n\n<p>Giảm phì đại thất trái đạt được sau 2 - 3 tháng dùng captopril. Tác dụng hạ huyết áp không phụ thuộc vào tư thế đứng hay năm.</p>\n\n<p>Hạ huyết áp tư thế (hạ huyết áp thế đứng) thường ít gặp, nhưng có thể xảy ra, đặc biệt ở người có thể tích máu giảm.</p>\n\n<p>Điều trị suy tim:</p>\n\n<p>Captopril có tác dụng tốt chống tăng sản cơ tim do ức chế hình thành angiotensin II, là chất kích thích tăng trưởng quan trọng của cơ tim. Đối với người bệnh suy tim, captopril làm giảm tiền gánh, giảm sức cản ngoại vi, tăng cung lượng tim và vì vậy làm tăng khả năng làm việc của tim.</p>\n\n<p>Tác dụng huyết động và lâm sàng thường xảy ra nhanh và duy trì trong khi điều trị. Cải thiện lâm sàng thấy cả ở người bệnh có tác dụng huyết động kém. Tưới máu thận có thể tăng nhanh tới 60%, tác dụng này thường đạt được từ 60 - 90 phút sau khi uống một liều<br />\nvà đạt tác dụng tối đa sau 3 - 8 giờ, duy trì trong khoảng 12 giờ.</p>\n\n<p>Có thể phối hợp captopril với digitalis và các thuốc lợi tiểu. Không nên phối hợp với các thuốc lợi tiểu giữ kali như spironolacton vì có thể dẫn đến tặng kali máu nặng.</p>\n\n<p>Điều trị nhồi máu cơ tim:</p>\n\n<p>Lợi ích của các chất ức chế ACE là làm giảm tỷ lệ tái phát nhồi máu cơ tim, có thể do làm chậm tiến triển <a href=\"https://nhathuoclongchau.com.vn/benh/xo-vua-dong-mach-429.html\">xơ vữa động mạch</a>. Captopril làm giảm tỷ lệ chết sau nhồi máu cơ tim. Nên dùng thuốc sớm trong cơn nhồi máu cơ tim cấp tính cho mọi người bệnh, ngay cả khi có dấu hiệu nhất thời rối loạn chức năng thất trái.</p>\n\n<h3>Dược động học</h3>\n\n<p>Sinh khả dụng đường uống của captopril khoảng 65%, nồng độ đỉnh của thuốc trong máu đạt được sau khi uống một giờ. Thức ăn không ảnh hưởng đến hấp thu của thuốc.</p>\n\n<p>Thể tích phân bố là 0,7 lít/kg. Thời gian bán thải sinh học trong huyết tương khoảng 2 giờ. Độ thanh thải toàn bộ là 0,8 lít/kg/giờ, độ thanh thải của thận là 50%, trung bình là 0,4 lít/kg/giờ. 75% thuốc được đào thải qua nước tiểu.</p>\n\n<p>50% dưới dạng không chuyển hóa và phần còn lại là chất chuyển hóa captopril cystein và dẫn chất disulfid của captopril. Suy chức năng thận có thể gây ra tích lũy thuốc.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định</h3>\n\n<p>Thuốc Captopril chống chỉ định trong các trường hợp sau: </p>\n\n<ul>\n\t<li>Tiền sử phù mạch, sau nhồi máu cơ tim (nếu huyết động không ổn định).</li>\n\t<li>Hẹp động mạch thận 2 bên hoặc hẹp động mạch thận ở thận độc nhất.</li>\n\t<li>Hẹp động mạch chủ hoặc hẹp van 2 lá, bệnh cơ tim tắc nghẽn nặng.</li>\n\t<li>Phụ nữ có thai và đang cho con bú.</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Cần rất thận trọng khi dùng thuốc cho người bệnh trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Suy giảm chức năng thận.</li>\n\t<li>Thẩm tách máu.</li>\n\t<li>Người bệnh mất nước và/hoặc điều trị thuốc lợi tiểu mạnh: Nguy cơ hạ huyết áp nặng.</li>\n</ul>\n\n<p>Phải rất thận trọng khi kết hợp với các thuốc lợi tiểu giữ kali như spironolacton, triamteren, amilorid vì bản thân captopril có thể gây tăng nhẹ kali huyết. Cũng cần thận trọng khi dùng các muối có chứa kali và phải kiểm tra cân bằng điện giải thường xuyên.</p>\n\n<p>Ở người bệnh tăng hoạt độ renin mạnh, có thể xảy ra hạ huyết áp nặng sau khi dùng liều captopril đầu tiên, cần tiêm truyền tĩnh mạch natri clorid 0,9%. Hạ huyết áp nhất thời này không cản trở việc tiếp tục sử dụng captopril. Nếu ban đầu liều thấp (6,25 mg hoặc 12,5<br />\nmg) thì thời gian hạ huyết áp nặng sẽ giảm.</p>\n\n<p>Nếu đại phẫu trong khi gây mê với thuốc có tác dụng hạ huyết áp, cần lưu ý rằng captopril ngăn cản sự hình thành angiotensin II, gây giải phóng renin thứ phát, dẫn đến hạ huyết áp kịch phát, cần được điều chỉnh bằng tăng thể tích tuần hoàn.</p>\n\n<p>Nguy cơ tăng mạnh các chất phản ứng phản vệ khi sử dụng đồng thời các chất ức chế ACE và mảng thẩm tách có tính thấm cao, lọc máu, rút bớt LDL và trong khi giải mẫn cảm – chống dị ứng.</p>\n\n<p>Captopril cũng gây phản ứng dương tính giả khi xét nghiệm aceton trong nước tiểu.</p>\n\n<h3>Sử dụng thuốc cho phụ nữ có thai và cho con bú</h3>\n\n<p>Sử dụng captopril hoặc các chất ức chế ACE khác trong 3 tháng giữa và 3 tháng cuối của thai kỳ có thể dẫn đến thương tổn cho thai nhi và trẻ sơ sinh gồm hạ huyết áp, giảm sản sọ sơ sinh, vô niệu, suy thận hồi phục hoặc không hồi phục và tử vong.</p>\n\n<p>Ít nước ối có thể do giảm chức năng thận thai nhi. Chậm phát triển thai, đẻ non và còn ống động mạch đã xảy ra. Vì vậy không bao giờ được dùng captopril trong thời kỳ mang thai.</p>\n\n<p>Captopril bài tiết vào sữa mẹ, gây nhiều tác dụng có hại cho trẻ bú sữa mẹ, vì vậy không được dùng captopril và các chất ức chế ACE khác đối với người cho con bú.</p>\n\n<h3>Ảnh hưởng của thuốc lên khả năng lái xe và vận hành máy móc</h3>\n\n<p>Thuốc không ảnh hưởng khi lái xe và vận hành máy móc.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Dùng đồng thời furosemid với captopril gây ra tác dụng hiệp đồng hạ huyết áp.</p>\n\n<p>Dùng đồng thời captopril với các chất chống viêm không steroid (đặc biệt indomethacin) làm giảm tác dụng hạ huyết áp của captopril.</p>\n\n<p>Captopril có thể làm tăng trở lại nồng độ lithi huyết thanh và làm tăng độc tính của lithi.</p>\n\n<p>Các chất cường giao cảm làm giảm tác dụng hạ huyết áp của captopril.</p>\n\n<p>Cyclosporin hoặc các thuốc lợi tiểu giữ kali có thể gây tăng kali khi sử dụng đồng thời với captopril.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Ngô Kim Thúy",
+        "position": "Giảng viên TTĐT Long Châu",
+        "bio": "Tốt nghiệp loại giỏi trường Đại học Y Dược Huế. Từng tham gia nghiên cứu khoa học đề tài về Dược liệu. Nhiều năm kinh nghiệm làm việc trong lĩnh vực Dược phẩm. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "",
+        "isLegit": false,
+        "id": 8,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thumbs/thumbnail_Thuy_NK_6_eec089d53d.jpg",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Captopril 25mg: Thuốc trị tăng huyết áp, nhồi máu cơ tim",
+        "metaDescription": "Captopril 25mg là thuốc gì? Captopril 25mg Stellapharm (100 viên) có thành phần chính là Captopril, chỉ định để điều trị tăng huyết áp và nhồi máu cơ tim.",
+        "id": 1727,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/captopril_25mg_10x10_domesco_00001576_03506defcd.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên) ",
+            "description": "Captopril là sản phẩm của Công ty Cổ phần Xuất nhập khẩu Y tế Domesco có thành phần chính là Captopril có tác dụng điều trị tăng huyết áp, suy tim, sau nhồi máu cơ tim (ở người bệnh đã có huyết động ổn định)."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 13042,
+        "title": "Thuốc Captopril 25mg là thuốc gì?",
+        "content": "<p>Thuốc Captopril 25mg với thành phần chính là Captopril&nbsp;có tác dụng điều trị tăng huyết áp, suy tim, sau nhồi máu cơ tim (ở người bệnh đã có huyết động ổn định).</p>"
+      },
+      {
+        "id": 13041,
+        "title": "Thuốc Captopril 25mg nên uống vào thời điểm nào trong ngày?",
+        "content": "<p>Captopril&nbsp;được dùng bằng đường uống. Nên uống trước bữa ăn 1 giờ.</p>"
+      },
+      {
+        "id": 13040,
+        "title": "Những tác dụng phụ thường gặp khi dùng thuốc Captopril 25mg là gì?",
+        "content": "<p>Những tác dụng phụ thường gặp khi dùng thuốc Captopril 25mg bao gồm: Chóng mặt, ngoại ban, ngứa, ho.</p>"
+      },
+      {
+        "id": 13039,
+        "title": "Cần lưu ý những tương tác thuốc nào khi dùng Captopril 25mg?",
+        "content": "<ul><li>Dùng đồng thời furosemid với captopril gây ra tác dụng hiệp đồng hạ huyết áp.</li><li>Dùng đồng thời captopril với các chất chống viêm không steroid (đặc biệt indomethacin) làm giảm tác dụng hạ huyết áp của captopril.</li><li>Captopril có thể làm tăng trở lại nồng độ lithi huyết thanh và làm tăng độc tính của lithi.</li><li>Các chất cường giao cảm làm giảm tác dụng hạ huyết áp của captopril.</li><li>Cyclosporin hoặc các thuốc lợi tiểu giữ kali có thể gây tăng kali khi sử dụng đồng thời với captopril.</li></ul>"
+      },
+      {
+        "id": 13038,
+        "title": "Thuốc Captopril 25mg chống chỉ định trong các trường hợp nào?",
+        "content": "<p>Thuốc Captopril 25mg chống chỉ định trong các trường hợp sau:</p><ul><li>Tiền sử phù mạch, sau <a href=\"https://nhathuoclongchau.com.vn/benh/nhoi-mau-co-tim-595.html\">nhồi máu cơ tim</a> (nếu huyết động không ổn định).</li><li>Hẹp động mạch thận 2 bên hoặc hẹp động mạch thận ở thận độc nhất.</li><li>Hẹp động mạch chủ hoặc hẹp van 2 lá, bệnh cơ tim tắc nghẽn nặng.</li><li>Phụ nữ có thai và đang cho con bú.</li></ul>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00005718",
+        "name": "PANANGIN GEDEON 50V",
+        "webName": "Viên nén Panangin Gedeon bổ sung kali, magnesi dùng trong suy tim (50 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2062_d16aeaf713.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8218,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2820,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/panangin-2715.html",
+        "ingredients": "Kali aspartat khan 158mg, Magie 140mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Gedeon",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 50 Viên",
+        "prices": [
+          {
+            "id": 8219,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 141000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 8218,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2820,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 58,
+          "attributeName": "Hungary",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/hu_Hungary_025bdc77ac.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001598",
+        "name": "CARDIOTON 30MG  3X10",
+        "webName": "Thuốc Cardioton Lipa Pharmaceuticals điều trị suy tim, tăng huyết áp, thiếu máu cơ tim (3 vỉ x 10 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/cardioton_30mg_3x10_00001598_efd03b68ec.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1797,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 7647,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cardilopin-30mg-4382.html",
+        "ingredients": "Ubidecarenone 30mg, D-alpha tocopherol 6.71mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "LIPA PHARMACEUTICALSLTD",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 1799,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 229400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 1797,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7647,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1798,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 76467,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "A052300000450",
+        "name": "ANBA-QE PHƯƠNG ĐÔNG 3X10",
+        "webName": "Thuốc Anba-QE Phương Đông điều trị thiểu năng tuần hoàn, thiếu máu cơ tim, tăng huyết áp động mạch (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/36_5f16613b76.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 56221,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 540000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/anba-qe-phuong-dong-3-x10.html",
+        "ingredients": "Ubidecarenone 100mg, Vitamin E 12.31mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Phương Đông",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 56221,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 540000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 56222,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 180000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 56223,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 18000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00022504",
+        "name": "BESTIMAC Q10 30MG MEDIPLANTEX 6X10",
+        "webName": "Thuốc Bestimac Q10 30mg Mediplantex điều trị tăng cholesterol máu, suy tim sung huyết (6 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00022504_bestimac_q10_30mg_mediplantex_6x10_7525_609b_large_619f0b04cf.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 28906,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 286000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bestimac-q10-30mg-mediplantex-6x10-22830.html",
+        "ingredients": "Ubidecarenone 30mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Mediplantex",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 28904,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 4767,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 28906,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 286000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 28905,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 47667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00050619",
+        "name": "PAVICARDI 50MG/250IU CPC1HN 2X15",
+        "webName": "Thuốc Parvicardi CPC1 bổ sung năng lượng cho cơ tim, điều trị các bệnh tim mạch (2 vỉ x 15 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_pavicardi_50mg_250iu_2x15_cpc1hn_00050619_82c96ce76a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 79961,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 16000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pavicardi-50-mg-250-iu-cpc-1-hn-2-x15.html",
+        "ingredients": "Coenzym Q10 50mg, Vitamin E 250iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "CPC1HN",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 15 Viên",
+        "prices": [
+          {
+            "id": 79959,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 480000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 79960,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 240000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 79961,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 16000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00000769",
+        "name": "AN THẦN BỔ TÂM-F FITO 40V",
+        "webName": "Thuốc An Thần Bổ Tâm - F Fito dưỡng tâm, an thần (40 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_4882_599f_large_1e78644b05.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 571,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 66000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vien-uong-an-than-bo-tam-f-516.html",
+        "ingredients": "Táo Nhân 133.3mg, Mạch môn 133.3mg, Sinh Địa 400mg, Thiên môn đông 133.3mg, Bá tử nhân 133.3mg, Huyền sâm 66.7mg, Viễn chí 66.7mg, Ngũ vị tử 66.7mg, Đảng Sâm 53.3mg, Đương quy 53.3mg, Đan sâm 46.7mg, Phục thần 46.7mg, Cát cánh 26.7mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Fito",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 40 viên",
+        "prices": [
+          {
+            "id": 570,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1650,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 571,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 66000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 23,
+      "items": [
+        {
+          "id": 3336835,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0333xxxxxx",
+          "name": "đào",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1h",
+          "createdAt": "2026-07-10 19:24:36",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-10 19:24:37",
+          "replies": [
+            {
+              "id": 3336840,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Kim Ánh Ngọc",
+                "moderatorEmail": "ngocka@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Kim Ánh Ngọc",
+              "email": "ngocka@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Đào,</p><p>Hiện tại, sản phẩm Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên) có giá 70,000 ₫/hộp ạ  </p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a> <a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-07-10 19:25:57",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-10 19:24:37",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3259134,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0929xxxxxx",
+          "name": "như",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá",
+          "createdAt": "2026-02-09 20:47:16",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-09 20:47:16",
+          "replies": [
+            {
+              "id": 3259148,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Hồng Ngọc",
+                "moderatorEmail": "ngoctth25@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Hồng Ngọc",
+              "email": "ngoctth25@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Như,</p><p>Hiện tại, sản phẩm Captopril 25mg Domesco&nbsp;có giá 70,000&nbsp;đ/hộp&nbsp;.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-02-09 20:59:52",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-09 20:47:16",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3257969,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0587xxxxxx",
+          "name": "Băng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Hiện tại còn thuốc ở các hiệu thuốc long châu k ạ",
+          "createdAt": "2026-02-07 12:50:11",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-07 12:50:11",
+          "replies": [
+            {
+              "id": 3257975,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Thị Bích Lựu",
+                "moderatorEmail": "luuntb4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Thị Bích Lựu",
+              "email": "luuntb4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Băng, </p><p>Dạ hiện tại thuốc CAPTOPRIL 25&nbsp;còn hàng trên hệ thống Nhà thuốc.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-02-07 12:54:45",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-07 12:50:11",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3227000,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0922xxxxxx",
+          "name": "Quỳnh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tham khảo giá hộp",
+          "createdAt": "2025-12-10 09:26:03",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2025-12-10 09:26:03",
+          "replies": [
+            {
+              "id": 3227003,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Mạnh Hà",
+                "moderatorEmail": "hahm5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Mạnh Hà",
+              "email": "hahm5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn <strong>Quỳnh</strong>,</p><p>Hiện tại, sản phẩm có giá 70.000 đ/Hộp.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2025-12-10 09:26:46",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-12-10 09:26:03",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3204281,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0988xxxxxx",
+          "name": "Vy Oanh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 hộp hiện 70k hay 76k ạ",
+          "createdAt": "2025-10-29 16:48:10",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-29 16:48:10",
+          "replies": [
+            {
+              "id": 3204282,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Ngọc Hân",
+                "moderatorEmail": "hanltn7@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Ngọc Hân",
+              "email": "hanltn7@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Vy Oanh,</p><p> Hiện tại, sản phẩm có giá 70.000 đ/Hộp.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2025-10-29 16:48:57",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-29 16:48:10",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 3007648,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0365xxxxxx",
+          "name": "ANH THẢO",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Cho hỏi loại này ngậm dưới lưỡi phải không",
+          "createdAt": "2024-12-16 18:01:07",
+          "createdAtDisplay": "16/12/2024",
+          "updatedAt": "2024-12-16 18:01:07",
+          "replies": [
+            {
+              "id": 3007653,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn  Thảo",
+                "moderatorEmail": "thaont214@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn  Thảo",
+              "email": "thaont214@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Thảo,</p><p>Dạ Captopril là thuốc hạ huyết áp dùng đường uống, nên uống trước bữa ăn 1 giờ để hấp thu tốt hơn ạ.</p><p>Nhà thuốc thông tin đến anh.</p><p>Thân mến!</p>",
+              "createdAt": "2024-12-16 18:02:20",
+              "createdAtDisplay": "16/12/2024",
+              "updatedAt": "2024-12-16 18:01:07",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên) ",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/captopril_25mg_10x10_domesco_00001576_03506defcd.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5685_e041821667.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5686_34ccfa0216.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5687_2903bdf239.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5688_789ecf2bda.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5689_06b62d83ee.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5692_b8e3a391ba.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_5693_c7c928de06.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/catopril_25mg_1_8932fa78d4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/catopril_25mg_2_2b7c30e992.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/catopril_25mg_3_f40acd66c2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/catopril_25mg_4_c205183e17.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Captopril là sản phẩm của Công ty Cổ phần Xuất nhập khẩu Y tế Domesco có thành phần chính là Captopril có tác dụng điều trị tăng huyết áp, suy tim, sau nhồi máu cơ tim (ở người bệnh đã có huyết động ổn định).",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ngô Kim Thúy"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Captopril 25mg: Thuốc trị tăng huyết áp, nhồi máu cơ tim",
+      "description": "Captopril 25mg là thuốc gì? Captopril 25mg Stellapharm (100 viên) có thành phần chính là Captopril, chỉ định để điều trị tăng huyết áp và nhồi máu cơ tim.",
+      "openGraph": {
+        "title": "Thuốc Captopril 25mg Domesco điều trị tăng huyết áp, suy tim, nhồi máu cơ tim (10 vỉ x 10 viên) ",
+        "description": "Captopril là sản phẩm của Công ty Cổ phần Xuất nhập khẩu Y tế Domesco có thành phần chính là Captopril có tác dụng điều trị tăng huyết áp, suy tim, sau nhồi máu cơ tim (ở người bệnh đã có huyết động ổn định).",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/captopril_25mg_10x10_domesco_00001576_03506defcd.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/captopril-25-4391.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/captopril-25-4391.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

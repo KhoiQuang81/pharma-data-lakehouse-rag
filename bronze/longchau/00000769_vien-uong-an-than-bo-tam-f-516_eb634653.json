@@ -1,0 +1,1507 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/vien-uong-an-than-bo-tam-f-516.html",
+  "ingestion_timestamp": "2026-09-05T08:29:03.804412+00:00",
+  "file_hash": "69268ab10c852e53183a7060e7582a8264f43ca58036d1ba72c39912aa3b6a7c",
+  "lineage_hash": "48f4a62aa380678e32cb740359dde90dc6d06a2bde94f0523888f307f0df2a09",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/vien-uong-an-than-bo-tam-f-516.html",
+    "product": {
+      "sku": "00000769",
+      "webName": "Thuốc An Thần Bổ Tâm - F Fito dưỡng tâm, an thần (40 viên)",
+      "name": "AN THẦN BỔ TÂM-F FITO 40V",
+      "shortName": "AN THẦN BỔ TÂM-F FITO 40V",
+      "headingText": "Thuốc An Thần Bổ Tâm - F",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_4882_599f_large_1e78644b05.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_1483_599f_large_ee2e36622a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_2229_599f_large_d7b764ef62.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_2066_599f_large_a88b468be3.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 737,
+          "name": "Thuốc tim mạch & máu",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tim-mach-and-mau",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 811,
+          "name": "Thuốc tim mạch huyết áp",
+          "parentName": "Thuốc tim mạch & máu",
+          "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 66000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 40 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": 1650,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "40 Viên"
+        }
+      ],
+      "slug": "thuoc/vien-uong-an-than-bo-tam-f-516.html",
+      "ingredient": [
+        {
+          "id": 26374,
+          "ingredientId": 37507,
+          "shortDescription": "133.3mg",
+          "name": "Táo Nhân",
+          "isPrimary": false,
+          "slug": "thanh-phan/tao-nhan"
+        },
+        {
+          "id": 26375,
+          "ingredientId": 26251,
+          "shortDescription": "133.3mg",
+          "name": "Mạch môn",
+          "isPrimary": false,
+          "slug": "thanh-phan/mach-mon"
+        },
+        {
+          "id": 26376,
+          "ingredientId": 36107,
+          "shortDescription": "400mg",
+          "name": "Sinh Địa",
+          "isPrimary": false,
+          "slug": "thanh-phan/sinh-dia"
+        },
+        {
+          "id": 70599,
+          "ingredientId": 38199,
+          "shortDescription": "133.3mg",
+          "name": "Thiên môn đông",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 70600,
+          "ingredientId": 10035,
+          "shortDescription": "133.3mg",
+          "name": "Bá tử nhân",
+          "isPrimary": false,
+          "slug": "thanh-phan/ba-tu-nhan"
+        },
+        {
+          "id": 70601,
+          "ingredientId": 22840,
+          "shortDescription": "66.7mg",
+          "name": "Huyền sâm",
+          "isPrimary": false,
+          "slug": "thanh-phan/huyen-sam"
+        },
+        {
+          "id": 70602,
+          "ingredientId": 40222,
+          "shortDescription": "66.7mg",
+          "name": "Viễn chí",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 70603,
+          "ingredientId": 29693,
+          "shortDescription": "66.7mg",
+          "name": "Ngũ vị tử",
+          "isPrimary": false,
+          "slug": "thanh-phan/ngu-vi-tu"
+        },
+        {
+          "id": 70604,
+          "ingredientId": 16671,
+          "shortDescription": "53.3mg",
+          "name": "Đảng Sâm",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 70605,
+          "ingredientId": 18784,
+          "shortDescription": "53.3mg",
+          "name": "Đương quy",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 70606,
+          "ingredientId": 16657,
+          "shortDescription": "46.7mg",
+          "name": "Đan sâm",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 70607,
+          "ingredientId": 32518,
+          "shortDescription": "46.7mg",
+          "name": "Phục thần",
+          "isPrimary": false,
+          "slug": "thanh-phan/phuc-than"
+        },
+        {
+          "id": 70608,
+          "ingredientId": 13188,
+          "shortDescription": "26.7mg",
+          "name": "Cát cánh",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-20532-14",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang cứng",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Viên uống An Thần Bổ Tâm - F được dùng đường uống.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Uống mỗi lần 2 - 3 viên, ngày 3 lần.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tuỳ thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Chưa có thông tin. Nếu quá liều cần đến ngay cơ sở y tế gần nhất để theo dõi và xử trí.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Viên Uống An Thần Bổ Tâm - F được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Chỉ định trong các tính huống như <a href=\"https://nhathuoclongchau.com.vn/benh/stress-34.html\">stress</a> (căng thẳng tâm lý), <a href=\"https://nhathuoclongchau.com.vn/benh/mat-ngu-846.html\">mất ngủ</a> hoặc ngủ không sâu.</li>\n\t<li>Chứng suy nhược thần kinh, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, giảm trí nhớ.</li>\n\t<li>Hay bị hồi hộp; nhịp tim không ổn định và hỗ trợ điều trị thiểu năng mạch vành.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có thông tin.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có thông tin.</p>",
+      "brand": "Fito",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng Viên uống An Thần Bổ Tâm - F, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<ul>\n\t<li>Chưa có báo cáo về các tác dụng phụ.</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 40 viên",
+      "indications": [
+        {
+          "id": 436,
+          "name": "Rối loạn giấc ngủ",
+          "slug": "benh/roi-loan-giac-ngu-29.html"
+        },
+        {
+          "id": 441,
+          "name": "Stress",
+          "slug": "benh/stress-34.html"
+        },
+        {
+          "id": 442,
+          "name": "Suy nhược thần kinh",
+          "slug": "benh/suy-nhuoc-than-kinh-35.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "Fito",
+      "shortDescription": "<p>Viên uống An Thần Bổ Tâm - F là sản phẩm thuốc của Công ty Tnhh Dược phẩm Fito Pharma, với thành phần hoạt chất là cao khô và bột chiết xuất từ nhiều loại dược liệu như Sinh địa (Radix Rehmanniae glutinosae), Mạch môn (Radix Ophiopogonis japonici), Thiên môn đông (Radix Asparagi), Táo nhân (Semen Ziziphi mauritianae), Bá tử nhân (Semen Platycladi orientalis), Huyền sâm (Radix Scrophulariae), Viễn chí (Radix Polygalae), Ngũ vị tử (Fructus Schisandrae), Đảng sâm (Radix Codonopsis pilosulae), Đương quy (Radix Angelicae sinensis), Đan sâm (Radix Salviae miltiorrhizae), Phục thần (Poria), Cát cánh (Radix Platycodi grandiflori). </p>\n\n<p>Thuốc có công dụng dưỡng tâm, an thần, điều hoà nhịp tim và được chỉ định trong các tình huống như stress (căng thẳng tâm lý), mất ngủ hoặc ngủ không sâu. Chứng suy nhược thần kinh, nhức đầu, giảm trí nhớ. Hay bị hồi hộp. Nhịp tim không ổn định và hỗ trợ điều trị thiểu năng mạch vành.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "",
+      "objectUse": [
+        "Người cao tuổi"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Dị ứng thuốc",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/fito",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "AN THẦN BỔ TÂM - F",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": 66000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 40 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 811,
+        "name": "Thuốc tim mạch huyết áp",
+        "parentName": "Thuốc tim mạch & máu",
+        "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_4882_599f_large_1e78644b05.jpg",
+          "alternativeText": "Thuốc An Thần Bổ Tâm - F Fito dưỡng tâm, an thần (40 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_1483_599f_large_ee2e36622a.jpg",
+          "alternativeText": "Thuốc An Thần Bổ Tâm - F Fito dưỡng tâm, an thần (40 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_2229_599f_large_d7b764ef62.jpg",
+          "alternativeText": "Thuốc An Thần Bổ Tâm - F Fito dưỡng tâm, an thần (40 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_2066_599f_large_a88b468be3.jpg",
+          "alternativeText": "Thuốc An Thần Bổ Tâm - F Fito dưỡng tâm, an thần (40 viên) 4"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 66000,
+        "itemCode": "00000769",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 66000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 1650,
+        "itemCode": "00000769",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 1650,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tim mạch & máu",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau"
+      },
+      {
+        "name": "Thuốc tim mạch huyết áp",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap"
+      }
+    ],
+    "content": {
+      "sku": "00000769",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Viên uống An Thần Bổ Tâm - F được dùng đường uống.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Uống mỗi lần 2 - 3 viên, ngày 3 lần.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tuỳ thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Chưa có thông tin. Nếu quá liều cần đến ngay cơ sở y tế gần nhất để theo dõi và xử trí.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc An Thần Bổ Tâm - F.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng Viên uống An Thần Bổ Tâm - F, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<ul>\n\t<li>Chưa có báo cáo về các tác dụng phụ.</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Nơi khô, nhiệt độ không quá 30°C, tránh ánh sáng.</p>\n\n<p>Công ty Dược phẩm Fito Pharma là đại diện tiêu biểu cho nền Y học cổ truyền hiện đại tại Việt Nam, chuyên sản xuất các thuốc đông dược dựa trên nền tảng của các bài thuốc cổ phương đã được tồn tại qua nhiều thế kỷ, với sự hợp tác của các chuyên gia trong ngành y dược và các viên nghiên cứu trong và ngoài nước. Nhiều sản phẩm của Công ty Fito Pharma đã được đánh giá lâm sàng tại các viên, bệnh viện trong nước cũng như ngoài nước.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Viên Uống An Thần Bổ Tâm - F được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Chỉ định trong các tính huống như <a href=\"https://nhathuoclongchau.com.vn/benh/stress-34.html\">stress</a> (căng thẳng tâm lý), <a href=\"https://nhathuoclongchau.com.vn/benh/mat-ngu-846.html\">mất ngủ</a> hoặc ngủ không sâu.</li>\n\t<li>Chứng suy nhược thần kinh, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, giảm trí nhớ.</li>\n\t<li>Hay bị hồi hộp; nhịp tim không ổn định và hỗ trợ điều trị thiểu năng mạch vành.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Chưa có thông tin.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Chưa có thông tin.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3><strong>Chống chỉ định</strong></h3>\n\n<p>Viên uống An Thần Bổ Tâm - F chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Hiện chưa ghi nhận chống chỉ định nào.</li>\n</ul>\n\n<h3><strong>Thận trọng khi sử dụng</strong></h3>\n\n<p>Thận trọng khi sử dụng trên các đối tượng như phụ nữ có thai và cho con bú. Khi đang tiêu chảy.</p>\n\n<p>Để xa tầm tay trẻ em. Đọc kỹ hướng dẫn sử dụng trước khi dùng.</p>\n\n<p>Nếu cần thêm thông tin xin hỏi ý kiến thầy thuốc. Thông báo cho bác sĩ tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>\n\n<h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3>\n\n<p>Không có thông tin.</p>\n\n<h3><strong>Thời kỳ mang thai</strong></h3>\n\n<p>Thận trọng khi sử dụng trên các đối tượng như phụ nữ có thai và cho con bú.</p>\n\n<h3><strong>Thời kỳ cho con bú</strong></h3>\n\n<p>Thận trọng khi sử dụng trên các đối tượng như phụ nữ có thai và cho con bú.</p>\n\n<h3><strong>Tương tác thuốc</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Viên uống An thần bổ tâm - F: Dưỡng tâm, an thần",
+        "metaDescription": "Viên uống An thần bổ tâm - F có công dụng dưỡng tâm, an thần, điều hoà nhịp tim và chỉ định trong các tình huống như stress, mất ngủ hoặc ngủ không sâu.",
+        "id": 5424,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_4882_599f_large_1e78644b05.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc An Thần Bổ Tâm - F Fito dưỡng tâm, an thần (40 viên)",
+            "description": "Viên uống An Thần Bổ Tâm - F là sản phẩm thuốc của Công ty Tnhh Dược phẩm Fito Pharma, với thành phần hoạt chất là cao khô và bột chiết xuất từ nhiều loại dược liệu như Sinh địa (Radix Rehmanniae glutinosae), Mạch môn (Radix Ophiopogonis japonici), Thiên môn đông (Radix Asparagi), Táo nhân (Semen Ziziphi mauritianae), Bá tử nhân (Semen Platycladi orientalis), Huyền sâm (Radix Scrophulariae), Viễn chí (Radix Polygalae), Ngũ vị tử (Fructus Schisandrae), Đảng sâm (Radix Codonopsis pilosulae), Đương quy (Radix Angelicae sinensis), Đan sâm (Radix Salviae miltiorrhizae), Phục thần (Poria), Cát cánh (Radix Platycodi grandiflori). \n\nThuốc có công dụng dưỡng tâm, an thần, điều hoà nhịp tim và được chỉ định trong các tình huống như stress (căng thẳng tâm lý), mất ngủ hoặc ngủ không sâu. Chứng suy nhược thần kinh, nhức đầu, giảm trí nhớ. Hay bị hồi hộp. Nhịp tim không ổn định và hỗ trợ điều trị thiểu năng mạch vành."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 34213,
+        "title": "Cần lưu ý gì khi sử dụng An Thần Bổ Tâm - F?",
+        "content": "<p>Trước khi sử dụng thuốc, cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin. Để thuốc xa tầm tay trẻ em. Nếu cần thêm thông tin, hãy hỏi ý kiến thầy thuốc. Thông báo cho bác sĩ về bất kỳ tác dụng không mong muốn nào gặp phải khi sử dụng thuốc.</p>"
+      },
+      {
+        "id": 34212,
+        "title": "Có tác dụng phụ nào được báo cáo khi sử dụng An Thần Bổ Tâm - F không?",
+        "content": "<p>Tính đến thời điểm thông tin được cung cấp, chưa có báo cáo về các tác dụng phụ của An Thần Bổ Tâm - F. Tuy nhiên, khi gặp tác dụng không mong muốn, cần ngừng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>"
+      },
+      {
+        "id": 34211,
+        "title": "Cách dùng và liều dùng của An Thần Bổ Tâm - F như thế nào?",
+        "content": "<p>An Thần Bổ Tâm - F được dùng đường uống. Liều dùng tham khảo là uống mỗi lần 2 - 3 viên, ngày 3 lần. Tuy nhiên, liều dùng cụ thể có thể thay đổi tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh, nên cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế để có liều dùng phù hợp.</p>"
+      },
+      {
+        "id": 34210,
+        "title": "An Thần Bổ Tâm - F được chỉ định sử dụng trong những trường hợp nào?",
+        "content": "<p>Thuốc được chỉ định dùng trong các trường hợp như: stress (căng thẳng tâm lý), mất ngủ hoặc ngủ không sâu, chứng suy nhược thần kinh, nhức đầu, giảm trí nhớ, hay bị hồi hộp, nhịp tim không ổn định và hỗ trợ điều trị thiểu năng mạch vành.</p>"
+      },
+      {
+        "id": 34209,
+        "title": "An Thần Bổ Tâm - F là thuốc gì và công dụng chính là gì?",
+        "content": "<p>An Thần Bổ Tâm - F là một loại thuốc được sản xuất bởi Công ty TNHH Dược phẩm Fito Pharma, chứa chiết xuất từ nhiều loại dược liệu. Công dụng chính của thuốc là dưỡng tâm, an thần và điều hòa nhịp tim.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00005718",
+        "name": "PANANGIN GEDEON 50V",
+        "webName": "Viên nén Panangin Gedeon bổ sung kali, magnesi dùng trong suy tim (50 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2062_d16aeaf713.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8218,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2820,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/panangin-2715.html",
+        "ingredients": "Kali aspartat khan 158mg, Magie 140mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Gedeon",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 50 Viên",
+        "prices": [
+          {
+            "id": 8219,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 141000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 8218,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2820,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 58,
+          "attributeName": "Hungary",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/hu_Hungary_025bdc77ac.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001598",
+        "name": "CARDIOTON 30MG  3X10",
+        "webName": "Thuốc Cardioton Lipa Pharmaceuticals điều trị suy tim, tăng huyết áp, thiếu máu cơ tim (3 vỉ x 10 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/cardioton_30mg_3x10_00001598_efd03b68ec.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1797,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 7647,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cardilopin-30mg-4382.html",
+        "ingredients": "Ubidecarenone 30mg, D-alpha tocopherol 6.71mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "LIPA PHARMACEUTICALSLTD",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 1799,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 229400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 1797,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7647,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1798,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 76467,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "A052300000450",
+        "name": "ANBA-QE PHƯƠNG ĐÔNG 3X10",
+        "webName": "Thuốc Anba-QE Phương Đông điều trị thiểu năng tuần hoàn, thiếu máu cơ tim, tăng huyết áp động mạch (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/36_5f16613b76.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 56221,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 540000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/anba-qe-phuong-dong-3-x10.html",
+        "ingredients": "Ubidecarenone 100mg, Vitamin E 12.31mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Phương Đông",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 56221,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 540000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 56222,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 180000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 56223,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 18000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00022504",
+        "name": "BESTIMAC Q10 30MG MEDIPLANTEX 6X10",
+        "webName": "Thuốc Bestimac Q10 30mg Mediplantex điều trị tăng cholesterol máu, suy tim sung huyết (6 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00022504_bestimac_q10_30mg_mediplantex_6x10_7525_609b_large_619f0b04cf.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 28906,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 286000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bestimac-q10-30mg-mediplantex-6x10-22830.html",
+        "ingredients": "Ubidecarenone 30mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Mediplantex",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 28904,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 4767,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 28906,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 286000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 28905,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 47667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00050619",
+        "name": "PAVICARDI 50MG/250IU CPC1HN 2X15",
+        "webName": "Thuốc Parvicardi CPC1 bổ sung năng lượng cho cơ tim, điều trị các bệnh tim mạch (2 vỉ x 15 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_pavicardi_50mg_250iu_2x15_cpc1hn_00050619_82c96ce76a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 79961,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 16000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pavicardi-50-mg-250-iu-cpc-1-hn-2-x15.html",
+        "ingredients": "Coenzym Q10 50mg, Vitamin E 250iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "CPC1HN",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 15 Viên",
+        "prices": [
+          {
+            "id": 79959,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 480000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 79960,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 240000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 79961,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 16000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 38,
+      "items": [
+        {
+          "id": 3340699,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0366xxxxxx",
+          "name": "Nguyễn Chánh Huệ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tôi cần mua 5 lọ An thần bổ tâm về địa chỉ: tổ dân phố Trung lý , phường Phổ vinh, thị xã Đức phổ, tỉnh Quảng Ngãi/",
+          "createdAt": "2026-07-16 21:13:30",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-16 21:13:30",
+          "replies": [
+            {
+              "id": 3340700,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lương Trần Bảo Phúc",
+                "moderatorEmail": "phucltb2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lương Trần Bảo Phúc",
+              "email": "phucltb2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Huệ</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-07-16 21:15:00",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-16 21:13:30",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3306952,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0385xxxxxx",
+          "name": "0385xxxxxx",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Không bị mất ngủ nhưng stress thì vẫn uống đc không ạ? ",
+          "createdAt": "2026-05-14 21:14:30",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-14 21:14:30",
+          "replies": [
+            {
+              "id": 3306956,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Tú Chi",
+                "moderatorEmail": "chintt3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Tú Chi",
+              "email": "chintt3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý khách,</p><p>Dạ sản phẩm Thuốc An Thần Bổ Tâm - F Fito dưỡng tâm, an thần (40 viên) Chỉ định trong các tính huống như&nbsp;stress&nbsp;(căng thẳng tâm lý),&nbsp;mất ngủ&nbsp;hoặc ngủ không sâu.</p><p>Quý khách có thể tham khảo và đặt hàng tại link: https://nhathuoclongchau.com.vn/thuoc/vien-uong-an-than-bo-tam-f-516.html</p>",
+              "createdAt": "2026-05-14 21:22:10",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-14 21:14:30",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3296332,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0366xxxxxx",
+          "name": "Nguyễn Chánh Huệ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tôi cần mua 5 lọ An thần bổ tâm-f . Về địa chỉ : tổ dân phố Trung lý , phường Đức phổ, tỉnh Quảng Ngãi",
+          "createdAt": "2026-04-24 12:50:54",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-24 12:50:54",
+          "replies": [
+            {
+              "id": 3296337,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Ngọc Lan Vi",
+                "moderatorEmail": "vilnl@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Ngọc Lan Vi",
+              "email": "vilnl@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý khách, </p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ. </p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với Quý khách qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-04-24 12:55:12",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-24 12:50:54",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3296279,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0966xxxxxx",
+          "name": "Hồ Thị Vân Anh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": " cách dùng ngày 3 lần sáng trưa tối ạ sau ăn ạ",
+          "createdAt": "2026-04-24 10:18:46",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-24 10:18:46",
+          "replies": [
+            {
+              "id": 3296282,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Ngọc Thanh Ngân",
+                "moderatorEmail": "ngannnt10@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Ngọc Thanh Ngân",
+              "email": "ngannnt10@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Vân Anh,</p><p>Dạ Thuốc An Thần Bổ Tâm - F Fito dưỡng tâm, an thần&nbsp;chị dùng&nbsp;mỗi lần 2 - 3 viên, ngày 3 lần (Sáng - Trưa - Tối) sau ăn ạ.</p><p>Nhà thuốc thông tin đến chị ạ.</p>",
+              "createdAt": "2026-04-24 10:23:43",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-24 10:18:46",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3286472,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0792xxxxxx",
+          "name": "0792xxxxxx",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "sử dụng như nào vậy shop ngày mấy viên ạ",
+          "createdAt": "2026-04-06 22:40:26",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-06 22:40:26",
+          "replies": [
+            {
+              "id": 3286671,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Mai Anh",
+                "moderatorEmail": "anhnm70@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Mai Anh",
+              "email": "anhnm70@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào quý khách, </p><p>Dạ sản phẩm dùng mỗi lần 2 - 3 viên, ngày 3 lần ạ.</p><p>Nhà thuốc thông tin đến quý khách.</p><p><br></p>",
+              "createdAt": "2026-04-07 09:29:28",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-06 22:40:26",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 3,
+      "items": [
+        {
+          "id": 3348987,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0986xxxxxx",
+          "name": "Chang Anh Kiệt",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "có tác dụng nha, cải thiện từ từ 😍",
+          "createdAt": "2026-07-30 13:47:44",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-30 13:47:44",
+          "replies": [
+            {
+              "id": 3348990,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Yến Nhi",
+                "moderatorEmail": "nhinty23@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Yến Nhi",
+              "email": "nhinty23@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý Khách,</p><p>Dạ nhà thuốc FPT Long Châu rất cảm ơn quý khách luôn tin tưởng và ủng hộ. Chúc quý khách nhiều sức khỏe ạ. 💚\t</p>",
+              "createdAt": "2026-07-30 13:48:55",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-30 13:47:44",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3338391,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0779xxxxxx",
+          "name": "Trương thanh Điền",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tôi bị rối loạn thần kinh thực vật uống thuốc này được không ạ.",
+          "createdAt": "2026-07-13 19:58:30",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-13 19:58:30",
+          "replies": [
+            {
+              "id": 3338393,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Mai Anh",
+                "moderatorEmail": "anhnm70@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Mai Anh",
+              "email": "anhnm70@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Điền,</p><p>Dạ sản phẩm là thuốc, để tránh ảnh hưởng liệu trình mình nên tham khảo thêm ý kiến bác sĩ trước khi dùng ạ.</p><p>Nhà thuốc thông tin đến chị ạ.</p><p><br></p><p><br></p>",
+              "createdAt": "2026-07-13 20:05:02",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-13 19:58:30",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3287584,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0329xxxxxx",
+          "name": "anh Đạt",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "trước giờ chưa đánh giá thuốc nào nhưng tìm đc loại này ưng ý quá nên cmt cho mọi người biết. mình bị mất ngủ gần 2 năm nay, khó vào giấc, nửa đêm tỉnh xong không ngủ lại được, mỗi ngày chỉ ngủ 2-3h. mình uống loại này 3 viên sau ăn tối (7h) và 3 viên trước khi ngủ (9h30), sau 3 tuần thì thấy vào giấc dễ hơn, nửa đêm tuy còn tỉnh nhưng vẫn ngủ lại được, bắt đầu có thể ngủ 4-5h liền mạch mà không bị tỉnh giữa giấc rồi. trộm vía vẫn tiếp tục uống hi vọng có thể ngủ 6-7h như người ta.",
+          "createdAt": "2026-04-08 19:30:24",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-08 19:30:24",
+          "replies": [
+            {
+              "id": 3287585,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0329xxxxxx",
+              "name": "anh Đạt",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "à bonus thêm là 11h mình mới ngủ nhé (cữ 2 mình uống trước ngủ 1h30). và có kết hợp thêm magie. các bạn mua loại magie b6 Corbiere uống kèm cho hiệu quả nha. ",
+              "createdAt": "2026-04-08 19:33:12",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-08 19:30:24",
+              "replies": []
+            },
+            {
+              "id": 3287587,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trương Thị Hằng",
+                "moderatorEmail": "hangtt88@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trương Thị Hằng",
+              "email": "hangtt88@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Đạt, </p><p>Cảm ơn anh rất nhiều vì những lời khen ạ! 💙</p><p>Đây chính là động lực để đội ngũ Nhà thuốc Long Châu ngày càng hoàn thiện và phục vụ khách hàng tốt hơn nữa.</p><p>Rất mong được tiếp tục đồng hành cùng anh trong những lần tới ạ! </p>",
+              "createdAt": "2026-04-08 19:38:50",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-08 19:30:24",
+              "replies": []
+            },
+            {
+              "id": 3287589,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trương Thị Hằng",
+                "moderatorEmail": "hangtt88@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trương Thị Hằng",
+              "email": "hangtt88@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Đạt, </p><p>Dạ nhà thuốc FPT Long Châu rất cảm ơn anh luôn tin tưởng và ủng hộ. Chúc anh nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-04-08 19:42:40",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-08 19:30:24",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 3
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc An Thần Bổ Tâm - F Fito dưỡng tâm, an thần (40 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_4882_599f_large_1e78644b05.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_1483_599f_large_ee2e36622a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_2229_599f_large_d7b764ef62.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_2066_599f_large_a88b468be3.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Viên uống An Thần Bổ Tâm - F là sản phẩm thuốc của Công ty Tnhh Dược phẩm Fito Pharma, với thành phần hoạt chất là cao khô và bột chiết xuất từ nhiều loại dược liệu như Sinh địa (Radix Rehmanniae glutinosae), Mạch môn (Radix Ophiopogonis japonici), Thiên môn đông (Radix Asparagi), Táo nhân (Semen Ziziphi mauritianae), Bá tử nhân (Semen Platycladi orientalis), Huyền sâm (Radix Scrophulariae), Viễn chí (Radix Polygalae), Ngũ vị tử (Fructus Schisandrae), Đảng sâm (Radix Codonopsis pilosulae), Đương quy (Radix Angelicae sinensis), Đan sâm (Radix Salviae miltiorrhizae), Phục thần (Poria), Cát cánh (Radix Platycodi grandiflori). \n\nThuốc có công dụng dưỡng tâm, an thần, điều hoà nhịp tim và được chỉ định trong các tình huống như stress (căng thẳng tâm lý), mất ngủ hoặc ngủ không sâu. Chứng suy nhược thần kinh, nhức đầu, giảm trí nhớ. Hay bị hồi hộp. Nhịp tim không ổn định và hỗ trợ điều trị thiểu năng mạch vành.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "3"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/vien-uong-an-than-bo-tam-f-516.html",
+        "priceCurrency": "VND",
+        "price": 66000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Viên uống An thần bổ tâm - F: Dưỡng tâm, an thần",
+      "description": "Viên uống An thần bổ tâm - F có công dụng dưỡng tâm, an thần, điều hoà nhịp tim và chỉ định trong các tình huống như stress, mất ngủ hoặc ngủ không sâu.",
+      "openGraph": {
+        "title": "Thuốc An Thần Bổ Tâm - F Fito dưỡng tâm, an thần (40 viên)",
+        "description": "Viên uống An Thần Bổ Tâm - F là sản phẩm thuốc của Công ty Tnhh Dược phẩm Fito Pharma, với thành phần hoạt chất là cao khô và bột chiết xuất từ nhiều loại dược liệu như Sinh địa (Radix Rehmanniae glutinosae), Mạch môn (Radix Ophiopogonis japonici), Thiên môn đông (Radix Asparagi), Táo nhân (Semen Ziziphi mauritianae), Bá tử nhân (Semen Platycladi orientalis), Huyền sâm (Radix Scrophulariae), Viễn chí (Radix Polygalae), Ngũ vị tử (Fructus Schisandrae), Đảng sâm (Radix Codonopsis pilosulae), Đương quy (Radix Angelicae sinensis), Đan sâm (Radix Salviae miltiorrhizae), Phục thần (Poria), Cát cánh (Radix Platycodi grandiflori). \n\nThuốc có công dụng dưỡng tâm, an thần, điều hoà nhịp tim và được chỉ định trong các tình huống như stress (căng thẳng tâm lý), mất ngủ hoặc ngủ không sâu. Chứng suy nhược thần kinh, nhức đầu, giảm trí nhớ. Hay bị hồi hộp. Nhịp tim không ổn định và hỗ trợ điều trị thiểu năng mạch vành.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_4882_599f_large_1e78644b05.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/vien-uong-an-than-bo-tam-f-516.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/vien-uong-an-than-bo-tam-f-516.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

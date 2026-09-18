@@ -1,0 +1,1591 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/phu-huyet-khang-16954.html",
+  "ingestion_timestamp": "2026-09-05T11:01:25.924114+00:00",
+  "file_hash": "1603bf8e6461275a13dd7267f6e189f496bfd4b42a651e08752e07f95ce6f64b",
+  "lineage_hash": "96ebbe78b1c415e06ead5ab19290188f4500d2dd65957069b231c379153f09ed",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/phu-huyet-khang-16954.html",
+    "product": {
+      "sku": "00005928",
+      "webName": "Thuốc điều kinh bổ huyết Phụ Huyết Khang YPharco điều trị rối loạn kinh nguyệt (5 vỉ x 10 viên)",
+      "name": "PHỤ HUYẾT KHANG YPHARCO 5X10",
+      "shortName": "PHỤ HUYẾT KHANG 5X10",
+      "headingText": "Thuốc điều kinh bổ huyết Phụ Huyết Khang",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_2996_5bab_large_6779c34c38.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_4366_5bab_large_90525cb517.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_3038_5bab_large_1b71fd6a0f.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_9684_5bab_large_17a26c5061.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_6212_5bab_large_18eaaee207.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 738,
+          "name": "Thuốc tiết niệu - sinh dục",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 823,
+          "name": "Thuốc nội tiết tố",
+          "parentName": "Thuốc tiết niệu - sinh dục",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Hộp 5 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 2,
+          "productSpecs": "5 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/phu-huyet-khang-16954.html",
+      "ingredient": [
+        {
+          "id": 14868,
+          "ingredientId": 26299,
+          "shortDescription": "6mg",
+          "name": "Magnesi stearat",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 14869,
+          "ingredientId": 22798,
+          "shortDescription": "0.17",
+          "name": "Hương phụ",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 14870,
+          "ingredientId": 32516,
+          "shortDescription": "0.12",
+          "name": "Phục Linh",
+          "isPrimary": false,
+          "slug": "thanh-phan/phuc-linh"
+        },
+        {
+          "id": 14871,
+          "ingredientId": 40801,
+          "shortDescription": "0.12",
+          "name": "Xuyên khung",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 14872,
+          "ingredientId": 10131,
+          "shortDescription": "0.17",
+          "name": "Bạch thược",
+          "isPrimary": false,
+          "slug": "thanh-phan/bach-thuoc"
+        },
+        {
+          "id": 14873,
+          "ingredientId": 39051,
+          "shortDescription": "0.09",
+          "name": "Trần bì",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 14874,
+          "ingredientId": 16671,
+          "shortDescription": "0.17",
+          "name": "Đảng Sâm",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 14875,
+          "ingredientId": 36107,
+          "shortDescription": "0.12",
+          "name": "Sinh Địa",
+          "isPrimary": false,
+          "slug": "thanh-phan/sinh-dia"
+        },
+        {
+          "id": 14876,
+          "ingredientId": 18784,
+          "shortDescription": "0.12",
+          "name": "Đương quy",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 14877,
+          "ingredientId": 11664,
+          "shortDescription": "4mg",
+          "name": "Bột talc",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 14878,
+          "ingredientId": 10138,
+          "shortDescription": "",
+          "name": "Bạch truật",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 14879,
+          "ingredientId": 12473,
+          "shortDescription": "",
+          "name": "Cam thảo",
+          "isPrimary": false,
+          "slug": "thanh-phan/cam-thao"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-29244-18",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang cứng",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Dùng đường uống.</p>\n\n<p>Uống với nước đun sôi để nguội.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Ngày uống 3 lần, mỗi lần 2 - 3 viên.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Chưa có báo cáo về việc sử dụng quá liều. Trong trường hợp vô tình uống nhầm thuốc với liều lượng lớn, cần báo ngày cho nhân viên y tế để có các biện pháp hỗ trợ kịp thời.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Uống thuốc ngay khi bạn nhớ ra và không uống gấp đôi liều dùng để bù lại thuốc chưa uống.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc Phụ Huyết Khang được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Dùng trong các trường hợp rối loạn kỳ kinh nguyệt, kinh nguyệt không đều lúc sớm lúc muộn, khí hư bạch đới. </li>\n\t<li>Đau bụng và đau thắt lưng khi hành kinh. </li>\n\t<li>Phụ nữ thiếu máu da xanh, sắc mặt kém tươi, người gầy, ăn ngủ kém.</li>\n\t<li>Dùng đều đặn mỗi ngày giúp bổ máu và làm lưu thông khí huyết.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Bổ huyết, điều hòa kinh nguyệt, lưu thông khí huyết.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "brand": "YPHARCO",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Phụ Huyết Khang, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p>Trong suốt thời gian lưu hành, chưa thấy có phản hồi về tác dụng không mong muốn của thuốc.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "",
+      "indications": [
+        {
+          "id": 302,
+          "name": "Đau bụng kinh",
+          "slug": "benh/dau-bung-kinh-567.html"
+        },
+        {
+          "id": 540,
+          "name": "Thiếu máu",
+          "slug": "benh/thieu-mau-267.html"
+        },
+        {
+          "id": 554,
+          "name": "Rối loạn kinh nguyệt",
+          "slug": "benh/roi-loan-kinh-nguyet-281.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "Công ty cổ phần Dược phẩm Yên Bái",
+      "shortDescription": "<p>Thuốc Phụ Huyết Khang được sản xuất bởi Công ty cổ phần Dược phẩm Yên Bái, có thành phần từ dược liệu như đương quy, sinh địa và cao khô các dược liệu khác… Thuốc dùng cho các trường hợp rối loạn kỳ kinh nguyệt, kinh nguyệt không đều lúc sớm lúc muộn, khí hư bạch đới. Đau bụng và đau thắt lưng khi hành kinh. Phụ nữ thiếu máu da xanh, sắc mặt kém tươi, người gầy, ăn ngủ kém.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/ypharco",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": null,
+      "officialProductName": "PHỤ HUYẾT KHANG",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 1,
+        "productSpecs": "Hộp 5 Vỉ x 10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 823,
+        "name": "Thuốc nội tiết tố",
+        "parentName": "Thuốc tiết niệu - sinh dục",
+        "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_2996_5bab_large_6779c34c38.JPG",
+          "alternativeText": "Thuốc điều kinh bổ huyết Phụ Huyết Khang YPharco điều trị rối loạn kinh nguyệt (5 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_4366_5bab_large_90525cb517.JPG",
+          "alternativeText": "Thuốc điều kinh bổ huyết Phụ Huyết Khang YPharco điều trị rối loạn kinh nguyệt (5 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_3038_5bab_large_1b71fd6a0f.JPG",
+          "alternativeText": "Thuốc điều kinh bổ huyết Phụ Huyết Khang YPharco điều trị rối loạn kinh nguyệt (5 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_9684_5bab_large_17a26c5061.JPG",
+          "alternativeText": "Thuốc điều kinh bổ huyết Phụ Huyết Khang YPharco điều trị rối loạn kinh nguyệt (5 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_6212_5bab_large_18eaaee207.JPG",
+          "alternativeText": "Thuốc điều kinh bổ huyết Phụ Huyết Khang YPharco điều trị rối loạn kinh nguyệt (5 vỉ x 10 viên) 5"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiết niệu - sinh dục",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc"
+      },
+      {
+        "name": "Thuốc nội tiết tố",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to"
+      }
+    ],
+    "content": {
+      "sku": "00005928",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Dùng đường uống.</p>\n\n<p>Uống với nước đun sôi để nguội.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Ngày uống 3 lần, mỗi lần 2 - 3 viên.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Chưa có báo cáo về việc sử dụng quá liều. Trong trường hợp vô tình uống nhầm thuốc với liều lượng lớn, cần báo ngày cho nhân viên y tế để có các biện pháp hỗ trợ kịp thời.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Uống thuốc ngay khi bạn nhớ ra và không uống gấp đôi liều dùng để bù lại thuốc chưa uống.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Phụ Huyết Khang.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Phụ Huyết Khang, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p>Trong suốt thời gian lưu hành, chưa thấy có phản hồi về tác dụng không mong muốn của thuốc.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Để nơi khô ráo, thoáng mát, nhiệt độ không quá 30<sup>o</sup>C.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc Phụ Huyết Khang được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Dùng trong các trường hợp rối loạn kỳ kinh nguyệt, kinh nguyệt không đều lúc sớm lúc muộn, khí hư bạch đới. </li>\n\t<li>Đau bụng và đau thắt lưng khi hành kinh. </li>\n\t<li>Phụ nữ thiếu máu da xanh, sắc mặt kém tươi, người gầy, ăn ngủ kém.</li>\n\t<li>Dùng đều đặn mỗi ngày giúp bổ máu và làm lưu thông khí huyết.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Bổ huyết, điều hòa kinh nguyệt, lưu thông khí huyết.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định</h3>\n\n<p>Thuốc Phụ Huyết Khang chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Không dùng cho phụ nữ có thai và người đang xuất huyết.</p>\n\t</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Không ảnh hưởng.</p>\n\n<h3>Thời kỳ mang thai </h3>\n\n<p>Chống chỉ định.</p>\n\n<h3>Thời kỳ cho con bú</h3>\n\n<p>Chống chỉ định.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Chưa có dữ liệu.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_2996_5bab_large_6779c34c38.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc điều kinh bổ huyết Phụ Huyết Khang YPharco điều trị rối loạn kinh nguyệt (5 vỉ x 10 viên)",
+            "description": "Thuốc Phụ Huyết Khang được sản xuất bởi Công ty cổ phần Dược phẩm Yên Bái, có thành phần từ dược liệu như đương quy, sinh địa và cao khô các dược liệu khác… Thuốc dùng cho các trường hợp rối loạn kỳ kinh nguyệt, kinh nguyệt không đều lúc sớm lúc muộn, khí hư bạch đới. Đau bụng và đau thắt lưng khi hành kinh. Phụ nữ thiếu máu da xanh, sắc mặt kém tươi, người gầy, ăn ngủ kém."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 373,
+        "title": "Dược lực học là gì?",
+        "content": "<p>\r\n\r\nDược lực học l&agrave; nghi&ecirc;n cứu c&aacute;c ảnh hưởng sinh h&oacute;a, sinh l&yacute;, v&agrave; ph&acirc;n tử của thuốc tr&ecirc;n cơ thể v&agrave; li&ecirc;n quan đến thụ thể li&ecirc;n kết, hiệu ứng sau thụ thể, v&agrave; tương t&aacute;c h&oacute;a học. Dược lực học, với dược động học, gi&uacute;p giải th&iacute;ch mối quan hệ giữa liều v&agrave; đ&aacute;p ứng, tức l&agrave; c&aacute;c t&aacute;c dụng của thuốc. Đ&aacute;p ứng dược l&yacute; phụ thuộc v&agrave;o sự li&ecirc;n kết của thuốc với đ&iacute;ch t&aacute;c dụng. Nồng độ thuốc ở vị tr&iacute; thụ thể ảnh hưởng đến t&aacute;c dụng của thuốc.</p>"
+      },
+      {
+        "id": 372,
+        "title": "Dược động học là gì?",
+        "content": "<p>\r\n\r\nDược động học l&agrave; những t&aacute;c động của cơ thể đối với thuốc trong suốt qu&aacute; tr&igrave;nh thuốc đi v&agrave;o, ở trong v&agrave; đi ra khỏi cơ thể- bao gồm c&aacute;c qu&aacute; tr&igrave;nh hấp thụ, sinh khả dụng, ph&acirc;n bố, chuyển h&oacute;a, v&agrave; thải trừ.</p>"
+      },
+      {
+        "id": 371,
+        "title": "Tác dụng phụ của thuốc là gì? Cách phòng tránh tác dụng phụ của thuốc",
+        "content": "<p>\r\n\r\nT&aacute;c dụng phụ l&agrave; những triệu chứng kh&ocirc;ng mong muốn xảy ra khi ch&uacute;ng ta uống thuốc. C&aacute;c t&aacute;c dụng phụ n&agrave;y c&oacute; thể kh&ocirc;ng nghi&ecirc;m trọng, chẳng hạn chỉ g&acirc;y <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><strong>đau đầu</strong></a> hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mieng-312.html\"><strong>kh&ocirc; miệng</strong></a>. Nhưng cũng c&oacute; những t&aacute;c dụng phụ đe dọa t&iacute;nh mạng. Cẩn ph&ograve;ng tr&aacute;nh t&aacute;c dụng phụ của <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> như: Th&ocirc;ng b&aacute;o c&aacute;c loại thuốc đang sử dụng với b&aacute;c sĩ, c&aacute;c <strong><a href=\"https://nhathuoclongchau.com.vn/benh\">bệnh</a></strong> l&yacute; nền hiện tại, c&aacute;c tương t&aacute;c của thuốc đến thực phẩm hằng ng&agrave;y. Đọc kỹ hướng dẫn sử dụng thuốc v&agrave; nếu gặp t&aacute;c dụng phụ cần b&aacute;o ngay cho b&aacute;c sĩ.</p>"
+      },
+      {
+        "id": 370,
+        "title": "Sử dụng thuốc đúng cách như thế nào?",
+        "content": "<p>\r\n\r\nSử dụng <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> đ&uacute;ng c&aacute;ch l&agrave; uống thuốc theo chỉ dẫn của dược sĩ, b&aacute;c sĩ. Ngo&agrave;i ra kh&ocirc;ng d&ugrave;ng nước quả, nước kho&aacute;ng hoặc c&aacute;c loại nước ngọt đ&oacute;ng hộp c&oacute; gas để uống thuốc. Kh&ocirc;ng d&ugrave;ng sữa để uống thuốc v&igrave; trong th&agrave;nh phần của sữa c&oacute; chứa <strong><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/canxi\">canxi</a></strong>. Kh&ocirc;ng d&ugrave;ng c&agrave; ph&ecirc; hay nước ch&egrave; để uống thuốc. Chỉ n&ecirc;n uống c&ugrave;ng nước lọc.</p>"
+      },
+      {
+        "id": 369,
+        "title": "Các dạng bào chế của thuốc?",
+        "content": "<p>\r\n\r\nC&oacute; c&aacute;c dạng b&agrave;o chế thuốc như<br />\r\nTheo thể chất:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc thể rắn (thuốc bột, thuốc vi&ecirc;n).</li>\r\n\t<li>C&aacute;c dạng thuốc thể mềm (thuốc cao, thuốc mỡ, gel).</li>\r\n\t<li>C&aacute;c dạng thuốc thể lỏng (dung dịch, hỗn dịch, nhũ dịch, xiro).</li>\r\n</ul>\r\n\r\n<p>Theo đường d&ugrave;ng:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc uống (vi&ecirc;n, bột, dung dịch, nhũ dịch, hỗn dịch).</li>\r\n\t<li>C&aacute;c dạng thuốc ti&ecirc;m (dung dịch, hỗn dịch, nhũ dịch, bột pha ti&ecirc;m, dịch truyền).</li>\r\n\t<li>C&aacute;c dạng thuốc d&ugrave;ng ngo&agrave;i (thuốc b&ocirc;i tr&ecirc;n da, thuốc nhỏ l&ecirc;n ni&ecirc;m mạc, thuốc s&uacute;c miệng).</li>\r\n\t<li>C&aacute;c dạng thuốc đặt v&agrave;o c&aacute;c hốc tự nhi&ecirc;n tr&ecirc;n cơ thể (thuốc đặt hậu m&ocirc;n, thuốc trứng đặt &acirc;m đạo...).</li>\r\n</ul>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00053173",
+        "name": "ĐIỀU KINH TÙNG LỘC 3X10",
+        "webName": "Thuốc Điều kinh Tùng lộc điều trị bổ huyết, hoạt huyết, điều kinh, chỉ thống (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/dieu_kinh_tung_loc_3x10_00053173_1_dab6d7a5c8.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 85263,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 150000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/dieu-kinh-tung-loc-3-x10.html",
+        "ingredients": "Xuyên khung 450mg, Đương quy 450mg, Thược Dược 450mg, Thục địa 450mg, Bạch truật 450mg, Mẫu đơn bì 450mg, Địa cốt bì 300mg, Hương phụ 450mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "TÙNG LỘC",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 80,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 85263,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 150000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 85264,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 50000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 85265,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00018225",
+        "name": "GENSHU SAGOPHA 3X10",
+        "webName": "Thuốc Genshu Sagopha hỗ trợ điều trị rối loạn cương, yếu sinh lý (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018225_genshu_sagopha_3x10_2330_5b7b_large_61d141b04d.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 23028,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 522000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/genshu-sagopha-3x10-19553.html",
+        "ingredients": "Hải mã 330mg, Dâm dương hoắc 750mg, Bạch tật lê 1000mg, Lộc Nhung 330mg, Nhân Sâm 330mg, Hải hà 330mg, tinh hoàn cá sấu 250mg, Quế 100mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Sagopha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 23026,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 17400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 23028,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 522000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 23027,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 174000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00014579",
+        "name": "HAISAMIN HDPHARMA 6X5",
+        "webName": "Thuốc Haisamin HDpharma tăng cường sinh lực (6 vỉ x 5 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014579_haisamin_tang_cuong_sinh_ly_nam_4354_5b69_large_24859b4f70.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 17253,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 120000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/haisamin-tang-cuong-sinh-ly-nam-799.html",
+        "ingredients": "Hải sâm 200mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Hdpharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 5 Viên",
+        "prices": [
+          {
+            "id": 17253,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 120000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 17252,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 20000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 17251,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 4000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007287",
+        "name": "HOÀN THẬP TOÀN ĐẠI BỔ TRAPHACO 1X10",
+        "webName": "Thuốc Thập Toàn Đại Bổ Traphaco bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực (1 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_1753_5b7f_large_d068b4b021.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10634,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 65000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thap-toan-dai-bo-hoan-2015.html",
+        "ingredients": "Quế nhục 0.24g, Hoàng kỳ 0.45g, Bạch thược 0.6g, Thục địa 1g, Xuyên khung 0.3g, Bạch linh 0.65g, Đảng Sâm 1g, Đương quy 0.6g, Bạch truật 0.65g, Cam thảo 0.12g",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Traphaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 1 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 10634,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 65000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10632,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 6500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00003779",
+        "name": "THẬP TOÀN ĐẠI BỔ OPC 240V",
+        "webName": "Thuốc Thập Toàn Đại Bổ OPC bồi bổ khí huyết, trị suy nhược cơ thể (240 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003779_hoan_thap_toan_dai_bo_5579_5b7c_large_1013091377.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 5227,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 85000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/hoan-thap-toan-dai-bo-3469.html",
+        "ingredients": "Đảng Sâm 50mg, Hoàng kỳ 50mg, Xuyên khung 25mg, Thục địa 75mg, Đương quy 75mg, Phục Linh 50mg, Bạch thược 50mg, Quế nhục 12.5mg",
+        "dosageForm": "Hoàn cứng",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 240 Viên",
+        "prices": [
+          {
+            "id": 5226,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 354,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 5227,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 85000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00003061",
+        "name": "FITOGRA-F FITO 40V",
+        "webName": "Thuốc Fitogra-f điều trị suy giảm hoạt động tình dục, suy nhược cơ thể (40 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003061_fitogra_f_1410_5b7f_large_c61b403698.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 4125,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 210000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/fitogra-f-17297.html",
+        "ingredients": "Lộc Nhung 330mg, Hải mã 330mg, Nhân Sâm 270mg, Quế 20mg",
+        "dosageForm": "Viên nang",
+        "brand": "Fito",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp",
+        "prices": [
+          {
+            "id": 4125,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 210000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00016699",
+        "name": "PM H-REGULATOR 30V PROBIOTEC PHARMA",
+        "webName": "Thuốc PM H-Regulator Probiotec giảm cơn bốc hỏa, đổ mồ hôi thời kỳ tiền mãn kinh (30 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00016699_pm_h_regulator_30v_probiotec_pharma_5852_5c87_large_d3532900d8.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 20294,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 420000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pm-h-regulator-30v-probiotec-pharma-17943.html",
+        "ingredients": "Cao khô quả Vitex agnus castus 20mg, Cao khô hạt đậu nành 20mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Probiotec",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 30 Viên",
+        "prices": [
+          {
+            "id": 20294,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 420000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 20293,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 14000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 31,
+      "items": [
+        {
+          "id": 3340525,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0862xxxxxx",
+          "name": "c hiền",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "còn thuốc này k ạ ",
+          "createdAt": "2026-07-16 14:01:04",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-16 14:01:04",
+          "replies": [
+            {
+              "id": 3340528,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thuận An",
+                "moderatorEmail": "annt183@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thuận An",
+              "email": "annt183@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hiền,</p><p> Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-07-16 14:04:00",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-16 14:01:04",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3322090,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0348xxxxxx",
+          "name": "em Oanh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cj oi e kinh nguyệt không đều",
+          "createdAt": "2026-06-13 16:56:46",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-13 16:56:46",
+          "replies": [
+            {
+              "id": 3322100,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Đỗ Diệp Minh",
+                "moderatorEmail": "minhdd38@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Đỗ Diệp Minh",
+              "email": "minhdd38@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Oanh,</p><p>Dạ với tinh trạng của mình, chị có thể tham khảo sản phẩm Viên Ích Mẫu OP.CIM OPC hỗ trợ điều trị rối loạn kinh nguyệt (5 vỉ x 10 viên) hỗ trợ trong các trường hợp: Kinh nguyệt không đều,&nbsp;<strong><a href=\"https://nhathuoclongchau.com.vn/benh/dau-bung-kinh-567.html\" rel=\"noopener noreferrer\" target=\"_blank\">đau bụng kinh</a></strong>. Rối loạn kinh nguyệt trong thời kỳ mới có kinh và tiền mãn kinh. tại <a href=\"https://nhathuoclongchau.com.vn/thuoc/vien-ich-mau-ho-tro-dieu-tri-roi-loan-kinh-nguyet-500.html\" rel=\"noopener noreferrer\" target=\"_blank\">link</a></p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-06-13 17:30:11",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-13 16:56:46",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3303843,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0963xxxxxx",
+          "name": "C Thúy",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 hộp ạ",
+          "createdAt": "2026-05-08 17:56:23",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-08 17:56:23",
+          "replies": [
+            {
+              "id": 3303845,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phạm Thị Luyến",
+                "moderatorEmail": "luyenpt3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phạm Thị Luyến",
+              "email": "luyenpt3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Thúy,</p><p> Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-05-08 18:07:32",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-08 17:56:23",
+              "replies": []
+            },
+            {
+              "id": 3310577,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0961xxxxxx",
+              "name": "c yến",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Mình xin giá ạ",
+              "createdAt": "2026-05-21 17:50:43",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-08 17:56:23",
+              "replies": []
+            },
+            {
+              "id": 3310579,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Trần Tường Vi",
+                "moderatorEmail": "vihtt14@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Trần Tường Vi",
+              "email": "vihtt14@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Yến,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-05-21 17:53:39",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-08 17:56:23",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3297312,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0865xxxxxx",
+          "name": "Trang",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1h ,còn hàng k ạ",
+          "createdAt": "2026-04-27 08:13:47",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-27 08:13:47",
+          "replies": [
+            {
+              "id": 3297319,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Quý",
+                "moderatorEmail": "quyntn@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Ngọc Quý",
+              "email": "quyntn@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị <strong>Trang,</strong></p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-04-27 08:22:05",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-27 08:13:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3296354,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0978xxxxxx",
+          "name": "Phạm Thị Mai Ngọc",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc này con không vậy?",
+          "createdAt": "2026-04-24 13:36:03",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-24 13:36:03",
+          "replies": [
+            {
+              "id": 3296355,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Ngọc Lan Vi",
+                "moderatorEmail": "vilnl@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Ngọc Lan Vi",
+              "email": "vilnl@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Ngọc, </p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ. </p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-04-24 13:39:26",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-24 13:36:03",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 2,
+      "items": [
+        {
+          "id": 3053170,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0814xxxxxx",
+          "name": "Tiến Nguyễn",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "còn hàng không ạ",
+          "createdAt": "2025-02-22 00:22:50",
+          "createdAtDisplay": "22/02/2025",
+          "updatedAt": "2025-02-22 00:22:50",
+          "replies": [
+            {
+              "id": 3053214,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Tiến Bắc",
+                "moderatorEmail": "bacnt16@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Tiến Bắc",
+              "email": "bacnt16@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Tiến Nguyễn,</p><p>Dạ bạn có thể tham khảo sản phẩm tương tự là Thuốc Ích Mẫu Traphaco điều trị đau bụng kinh, kinh nguyệt không đều (2 vỉ x 10 viên), tham khảo thêm thông tin sản phẩm tại&nbsp;<u><a href=\"https://nhathuoclongchau.com.vn/thuoc/ich-mau-traphaco-2x10-28601.html\" rel=\"noopener noreferrer\" target=\"_blank\">link</a></u>.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-02-22 08:01:58",
+              "createdAtDisplay": "22/02/2025",
+              "updatedAt": "2025-02-22 00:22:50",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 144703,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0983xxxxxx",
+          "name": "Hồng",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc này uống để giảm đau bụng kinh phải uống trước khi kinh đến đúng không ạ",
+          "createdAt": "2023-03-21 20:13:53",
+          "createdAtDisplay": "21/03/2023",
+          "updatedAt": "2023-03-21 20:13:53",
+          "replies": [
+            {
+              "id": 144704,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "TanHT11",
+                "moderatorEmail": "tanht11@fpt.com.vn",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "TanHT11",
+              "email": "tanht11@fpt.com.vn",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<div style=\"font-family: Roboto;\">Chào bạn Hồng,</div><div style=\"font-family: Roboto;\">Dạ sản phẩm là thuốc cần có chỉ định của bác sĩ mới có thể sử dụng ạ. Bạn vui lòng liên hệ tổng đài miễn phí 18006928 để được hỗ trợ tư vấn và đặt hàng.Thân mến!</div>",
+              "createdAt": "2023-03-21 20:16:58",
+              "createdAtDisplay": "21/03/2023",
+              "updatedAt": "2023-03-21 20:13:53",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 2
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc điều kinh bổ huyết Phụ Huyết Khang YPharco điều trị rối loạn kinh nguyệt (5 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_2996_5bab_large_6779c34c38.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_4366_5bab_large_90525cb517.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_3038_5bab_large_1b71fd6a0f.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_9684_5bab_large_17a26c5061.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_6212_5bab_large_18eaaee207.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Phụ Huyết Khang được sản xuất bởi Công ty cổ phần Dược phẩm Yên Bái, có thành phần từ dược liệu như đương quy, sinh địa và cao khô các dược liệu khác… Thuốc dùng cho các trường hợp rối loạn kỳ kinh nguyệt, kinh nguyệt không đều lúc sớm lúc muộn, khí hư bạch đới. Đau bụng và đau thắt lưng khi hành kinh. Phụ nữ thiếu máu da xanh, sắc mặt kém tươi, người gầy, ăn ngủ kém.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "2"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/phu-huyet-khang-16954.html",
+        "priceCurrency": "VND",
+        "price": 0,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/OutStock"
+      }
+    },
+    "seo": {
+      "title": "Thuốc điều kinh bổ huyết Phụ Huyết Khang YPharco điều trị rối loạn kinh nguyệt (5 vỉ x 10 viên) - Nhà thuốc FPT Long Châu",
+      "description": "Thuốc Phụ Huyết Khang được sản xuất bởi Công ty cổ phần Dược phẩm Yên Bái, có thành phần từ dược liệu như đương quy, sinh địa và cao khô các dược liệu khác… Thuốc dùng cho các trường hợp rối loạn kỳ kinh nguyệt, kinh nguyệt không đều lúc sớm lúc muộn, khí hư bạch đới. Đau bụng và đau thắt lưng khi hành kinh. Phụ nữ thiếu máu da xanh, sắc mặt kém tươi, người gầy, ăn ngủ kém.",
+      "openGraph": {
+        "title": "Thuốc điều kinh bổ huyết Phụ Huyết Khang YPharco điều trị rối loạn kinh nguyệt (5 vỉ x 10 viên)",
+        "description": "Thuốc Phụ Huyết Khang được sản xuất bởi Công ty cổ phần Dược phẩm Yên Bái, có thành phần từ dược liệu như đương quy, sinh địa và cao khô các dược liệu khác… Thuốc dùng cho các trường hợp rối loạn kỳ kinh nguyệt, kinh nguyệt không đều lúc sớm lúc muộn, khí hư bạch đới. Đau bụng và đau thắt lưng khi hành kinh. Phụ nữ thiếu máu da xanh, sắc mặt kém tươi, người gầy, ăn ngủ kém.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005928_phu_huyet_khang_2996_5bab_large_6779c34c38.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/phu-huyet-khang-16954.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/phu-huyet-khang-16954.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

@@ -1,0 +1,793 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/usarmicin-500-usarichpharm-2-x10.html",
+  "ingestion_timestamp": "2026-09-05T16:05:50.073360+00:00",
+  "file_hash": "748ed7db765d5394b6c78f4aebf4de7d928e14c739774d40cd3107b771f574af",
+  "lineage_hash": "5d7f61e6e83db0fff6a359a20829809cae2385fdfe7f7ea6408ea14e8c403350",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/usarmicin-500-usarichpharm-2-x10.html",
+    "product": {
+      "sku": "00503899",
+      "webName": "Thuốc Usarmicin Tablets 500 UsarichPharm điều trị nhiễm khuẩn đường tiết niệu (2 vỉ x 10 viên)",
+      "name": "USARMICIN 500 USARICHPHARM 2X10",
+      "shortName": "USARMICIN 500 USARICHPHARM 2X10",
+      "headingText": "Thuốc Usarmicin Tablets 500",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08349_836f680378.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08350_8ee673de40.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08351_f30c1371f0.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08352_049a16fa00.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08353_44c72158a4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08354_Recovered_abbd97763c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08355_6d279e3897.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08357_ec80547556.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08358_aa13e80391.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/usarcimin_1_85a11ffd4a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/usarcimin_2_81ce709b1d.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 731,
+          "name": "Thuốc kháng sinh, kháng nấm",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 781,
+          "name": "Thuốc kháng sinh",
+          "parentName": "Thuốc kháng sinh, kháng nấm",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Hộp 2 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 2,
+          "productSpecs": "2 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/usarmicin-500-usarichpharm-2-x10.html",
+      "ingredient": [
+        {
+          "id": 51682,
+          "ingredientId": 20673,
+          "shortDescription": "500mg",
+          "name": "Fosfomycin calcium hydrate",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893110486524",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc có thể dùng riêng rẽ hoặc phối hợp với các kháng sinh nhóm beta - lactam, aminoglycoside, macrolid, tetracyclin, chloramphenicol, rifamycin, vancomycin và lincomycin.</p><p>Fosfomycin dùng đơn độc dễ gây kháng thuốc, do đó nên phối hợp với các kháng sinh khác.</p><h3>Liều dùng</h3><p><i>Nhiễm khuẩn đường tiết niệu dưới không biến chứng:</i> Người lớn uống 3 g một liều duy nhất.</p><p><i>Nhiễm khuẩn ngoài đường tiết niệu do các vi khuẩn Gram dương hoặc Gram âm nhạy cảm:</i></p><p>Người lớn: Uống 0,5 – 1g cách 8 giờ một lần.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p><i>Quá liều: </i>Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định.</p><p><i>Cách xử trí:</i> Tích cực theo dõi để có biện pháp xử trí kịp thời.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3>Làm gì khi quên 1 liều?</h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/usarmicin-500-usarichpharm-2-x10.html\">Thuốc Usarmicin</a> chỉ định điều trị trong các trường hợp sau:</p><p>Chỉ định phải dựa vào hoạt tính kháng khuẩn, đặc tính khác nhau về dược động học của dạng fosfomycin và các nghiên cứu lâm sàng hiện có.</p><p><a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-trung-tiet-nieu-355.html\">Nhiễm khuẩn đường tiết niệu</a> dưới cấp chưa có biến chứng (<a href=\"https://nhathuoclongchau.com.vn/benh/viem-bang-quang-cap.html\">viêm bàng quang cấp</a>) do Escherechia coli hoặc Enterococcus faecalis nhạy cảm với fosfomycin, đặc biệt là đối với phụ nữ. Không được chỉ định để điều trị viêm thận hoặc áp xe quanh thận.</p><p>Trước và sau khi dùng fosfomycin cần phải nuôi cấy bệnh phẩm nước tiểu để điều trị vẫn còn <a href=\"https://nhathuoclongchau.com.vn/bai-viet/vi-khuan-la-gi-cau-tao-cua-vi-khuan-nhu-the-nao-63968.html\">vi khuẩn</a> trong nước tiểu để tìm và xác định độ nhạy cảm của vi khuẩn với thuốc. Nếu sau điều trị vẫn còn vi khuẩn trong nước tiểu, phải thay kháng sinh khác.</p><h3>Dược lực học</h3><p><strong>Nhóm dược lý: Kháng sinh</strong></p><p><strong>Mã ATC: J01X X01</strong></p><p><i>Cơ chế tác dụng</i></p><p>Fosfomycin là một kháng sinh dẫn xuất từ acid fosfonic, được tách chiết từ Streptomyces fradiae và các Streptomyces khác hoặc được tổng hợp, có tác dụng diệt khuẩn. Tác dụng diệt khuẩn của thuốc là do ức chế enzyme enolpyruvyl tranferase, làm giảm sự tạo thành acid uridin diphosphat - N - acetylmuramic, là giai đoạn đầu của quá trình tạo thành tế bào vi khuẩn.</p><p>Fosfomycin có phổ tác dụng rộng. In vitro thuốc có tác dụng trên các <a href=\"https://nhathuoclongchau.com.vn/bai-viet/vi-khuan-gram-duong-la-gi-vi-khuan-gram-duong-co-nguy-hiem-khong.html\">vi khuẩn Gram dương</a> và Gram âm, đặc biệt là các vi khuẩn thường gây viêm nhiễm đường tiết niệu như <a href=\"https://nhathuoclongchau.com.vn/bai-viet/vi-khuan-e-coli-dac-diem-moi-truong-sinh-song-va-dau-hieu-nhan-biet-nhiem-trung.html\">E. coli</a>, Proteus, Klebsiella, Enterobacter, Pseudomonas, Seratia, Enterococcus pneumonia, Haemophilus infuenzae và Neseria spp. Tuy nhiên, trong thực tế có một vải chủng Pseudomonas aeruginosa kháng lại thuốc và Bacteroides không nhạy cảm. In vivo tính hiệu quả đã được xác định đối với E. coli và Enterococcus faecalis.</p><p>Ngoài nhiễm khuẩn đường tiết niệu và tiêu hóa, fosfomycin đã được nhiều nước trên thế giới dùng đơn độc hoặc phối hợp với kháng sinh khác để điều trị có kết quả (81,1%) nhiễm vi khuẩn Gram dương và/ hoặc Gram âm bao gồm <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phoi-180.html\">viêm phổi</a>, và các viêm nhiễm hô hấp khác, viêm cốt tủy, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mang-nao-36.html\">viêm màng não</a>, tai, mũi họng, nhiễm khuẩn ngoại, sản phụ khoa, <a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-trung-huyet-95.html\">nhiễm khuẩn huyết</a>, viêm khớp, viêm hạch cổ, nhiễm khuẩn mắt, nhiễm khuẩn bàn chân ở người <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">đái tháo đường</a>.</p><p>Kháng thuốc đã xuất hiện, thường xảy ra trong khi điều trị. Kháng thuốc có thể qua thể nhiễm sắc hoặc một số chủng theo cơ chế truyền qua plasmid. Do đó, trong thực hành lâm sàng, khó có thể dùng fosfomycin đơn độc nhưng cho đến nay không thấy kháng chéo hoặc tính đối kháng của fosfomycin với các kháng sinh khác. Fosfomycin thường có tác dụng hiệp đồng với một số kháng sinh, đặc biệt với nhóm kháng sinh ức chế các bước cuối trong tổng hợp thành tế bào vi khuẩn (như nhóm beta-lactam), aminoglycoside, macrolid, tetracylin, chloramphenicol, rifamycin và lincomycin, chống lại Enterococcus, Staphylococcus kháng methicillin và Enterobacteria. Một số nghiên cứu thường cho thấy khi phối hợp fosfomycin với <a href=\"https://nhathuoclongchau.com.vn/thuoc/thuoc-khang-sinh-duong-toan-than\">thuốc kháng sinh</a> nhóm aminoglycoside có thể làm giảm độc tính trên thận của aminoglycoside.</p><p>Fosfomycin được dùng dưới ba dạng: Fosfomycin calci, fosfomycin natri, fosfomycin tromethamin, khi dùng cần chú ý đến đặc điểm khác nhau về dược động học.</p><h3>Dược động học</h3><p>Fosfomycin calci hấp thu kém qua đường tiêu hóa, sinh khả dụng theo đường uống chỉ đạt 30 - 40%. Thức ăn làm giảm sinh khả dụng và thải trừ thuốc, nhưng không ảnh hưởng đến kết quả điều trị. Sau uống 4 giờ liều 1 g, nồng độ tối đa trong máu là 7 microgam/ml. Tuy nhiên, fosfomycin trometamol lại hấp thu nhanh qua đường tiêu hóa. Sau khi uống 2 giờ một liều tương đương với 3 g fosfomycin nồng độ thuốc trong huyết tương đạt khoảng 22 đến 32 microgam/ml.</p><p>Truyền tĩnh mạch trong 4 giờ một liều duy nhất 4g fosfomycin dinatri, nồng độ đỉnh trong huyết tương (nồng độ lúc ngừng truyền) đạt được 123 ± 16 microgam/ml. Sau đó nồng độ giảm xuống 24 ± 7 microgam/ml vào giờ thứ 8 và 8 ± 2 microgam/ml vào giờ thứ 12. Nửa đời thải trừ trong huyết tương khoảng 2 giờ.</p><p>Thuốc không gắn vào protein huyết tương.</p><p><i>Phân bố:</i></p><p>Fosfomycin có trọng lượng phân tử nhỏ (138), do đó, xâm nhập vào các mô và dịch cơ thể dễ dàng, thưởng đạt được nồng độ giữa 20 và 50% nồng độ thuốc trong huyết thanh, cao hơn nếu có viêm màng não.</p><ul><li>Trong dịch màng phổi: 7 – 43% nồng độ thuốc trong <a href=\"https://nhathuoclongchau.com.vn/bai-viet/huyet-thanh-la-gi-huyet-thanh-co-vai-tro-the-nao-voi-suc-khoe-con-nguoi-63953.html\">huyết thanh</a>.</li><li>Ở amidan: Khoảng 50% nồng độ huyết thanh.</li><li>Ở niêm mạc xoang: Khoảng 30% nồng độ thuốc trong huyết thanh.</li><li>Trong đờm: 5 – 10% nồng độ thuốc trong huyết thanh.</li></ul><p>Fosfomycin cũng vào trong nước ổi, sản dịch, bạch huyết, thủy dịch, chất bài tiết phế quản, ổ mủ màng phổi, xoang, xương (nếu còn mạch máu nuôi dưỡng), mật.</p><p><i>Chuyển hóa:</i></p><p>Fosfomycin không chuyển hóa và cũng không qua chu trình ruột – gan.</p><p><i>Thải trừ:</i></p><p>Fosfomycin đào thải qua đường tiết niệu, chủ yếu qua lọc cầu thận mà không tiết hoặc tái hấp thu qua ống thận. Độ thanh thải của fosfomycin tương tự như độ thanh thải của creatinin (100 – 120 ml/phút). Fosfomycin thải trừ trong nước tiểu trên 85% trong 12 giờ; một phần nhỏ thuốc thấy trong phân. Nồng độ thuốc trong nước tiểu cao: Khi truyền 4 g fosfomycin trong 4 giờ, nồng độ thuốc đạt 3000 mg/lít trong khi truyền, 3800 mg/lít giữa giờ thứ 4 và thứ 8 và 1600mg/lít giữ giờ thứ 8 và 12 giờ. Sau khi uống 2 – 4 giờ một liều duy nhất 3 g fosfomycin trong metamol, nồng độ fosfomycin đạt được trong nước tiểu là 3 mg/ml và duy trì nồng độ điều trị 200 – 300 microgam/ml trong nước tiểu sau 48 giờ.</p><p>Không có sự khác biệt nồng độ thuốc trong nước tiểu ở người cao tuổi và người trẻ tuổi. Do đó, không cần điều chỉnh liều.</p><p>Suy thận làm giảm nhiều bài tiết fosfomycin, do đó cần phải điều chỉnh liều.</p>",
+      "brand": "Usarichpharm",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc thường gặp các tác dụng không mong muốn (ADR) như:</p><p><i>Thường gặp, ADR &gt; 1/100</i></p><ul><li>Tiêu hóa: <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">Tiêu chảy</a>, buồn nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-bung-994.html\">đau bụng</a>, khó tiêu.</li><li>Thần kinh: Đau đầu, chóng mặt, suy nhược.</li><li>Sinh dục nữ: Viêm âm đạo, rối loạn kinh nguyệt.</li><li>Mũi họng: Viêm mũi, viêm họng.</li><li>Da: Phát ban.</li></ul><p><i>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</i></p><ul><li>Tiêu hóa: Phân bất thường, táo bón, chán ăn, khô miệng, đầy hơi, nôn.</li><li>Thần kinh: <a href=\"https://nhathuoclongchau.com.vn/benh/sot-618.html\">Sốt</a>, hội chứng cúm, <a href=\"https://nhathuoclongchau.com.vn/benh/mat-ngu-846.html\">mất ngủ</a>, ngủ gà, đau nửa đầu, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-co-bap-1352.html\">đau cơ</a>, căng thẳng thần kinh, dị cảm.</li><li>Tiết niệu: Khó tiểu tiện, tiểu tiện ra máu.</li><li>Sinh dục nữ: <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-kinh-nguyet-281.html\">Rối loạn kinh nguyệt</a>.</li><li>Tai: Rối loạn thính giác.</li><li>Da: Ngứa, loạn sắc tố da, phát ban.</li></ul><p><i>Hiếm gặp, ADR &lt; 1/1000</i></p><ul><li>Mắt: Viêm dây thần kinh thị giác một bên.</li><li>Mạch – máu: Phù mạch, thiếu máu bất sản.</li><li>Hô hấp: <a href=\"https://nhathuoclongchau.com.vn/benh/hen-phe-quan-160.html\">Hen phế quản</a>.</li><li>Gan – tiêu hóa: Vàng da, hoại tử gan, phình đại trùng nhiễm độc.</li></ul><p><i>Cách xử trí ADR</i></p><p>Khi đang dùng thuốc nếu thấy biểu hiện của các tác dụng không mong muốn trên cần ngừng dùng thuốc ngay. Trường hợp gặp các phản ứng bất thường nặng cần phải xử trí kịp thời. Ngoài việc duy trì các chức năng sống cần phải điều trị triệu chứng kèm theo.</p><p>Thông báo ngay cho bác sĩ hoặc dược sĩ những phản ứng có hại gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Hộp 2 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "CTY CP DP PHONG PHÚ - CN NHÀ MÁY USARICHPHARM",
+      "shortDescription": "<p>Thuốc Usarmicin là sản phẩm của Usarichpharm chứa hoạt chất Fosfomycin calcium hydrate. Đây là thuốc điều trị nhiễm khuẩn đường tiết niệu dưới cấp chưa có biến chứng (viêm bàng quang cấp) do Escherechia coli hoặc Enterococcus faecalis nhạy cảm với fosfomycin, đặc biệt là đối với phụ nữ.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/usarichpharm",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": null,
+      "officialProductName": "USARMICIN",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 781,
+        "name": "Thuốc kháng sinh",
+        "parentName": "Thuốc kháng sinh, kháng nấm",
+        "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08349_836f680378.jpg",
+          "alternativeText": "Thuốc Usarmicin Tablets 500 UsarichPharm điều trị nhiễm khuẩn đường tiết niệu (2 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08350_8ee673de40.jpg",
+          "alternativeText": "Thuốc Usarmicin Tablets 500 UsarichPharm điều trị nhiễm khuẩn đường tiết niệu (2 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08351_f30c1371f0.jpg",
+          "alternativeText": "Thuốc Usarmicin Tablets 500 UsarichPharm điều trị nhiễm khuẩn đường tiết niệu (2 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08352_049a16fa00.jpg",
+          "alternativeText": "Thuốc Usarmicin Tablets 500 UsarichPharm điều trị nhiễm khuẩn đường tiết niệu (2 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08353_44c72158a4.jpg",
+          "alternativeText": "Thuốc Usarmicin Tablets 500 UsarichPharm điều trị nhiễm khuẩn đường tiết niệu (2 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08354_Recovered_abbd97763c.jpg",
+          "alternativeText": "Thuốc Usarmicin Tablets 500 UsarichPharm điều trị nhiễm khuẩn đường tiết niệu (2 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08355_6d279e3897.jpg",
+          "alternativeText": "Thuốc Usarmicin Tablets 500 UsarichPharm điều trị nhiễm khuẩn đường tiết niệu (2 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08357_ec80547556.jpg",
+          "alternativeText": "Thuốc Usarmicin Tablets 500 UsarichPharm điều trị nhiễm khuẩn đường tiết niệu (2 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08358_aa13e80391.jpg",
+          "alternativeText": "Thuốc Usarmicin Tablets 500 UsarichPharm điều trị nhiễm khuẩn đường tiết niệu (2 vỉ x 10 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/usarcimin_1_85a11ffd4a.jpg",
+          "alternativeText": "Thuốc Usarmicin Tablets 500 UsarichPharm điều trị nhiễm khuẩn đường tiết niệu (2 vỉ x 10 viên) 10"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/usarcimin_2_81ce709b1d.jpg",
+          "alternativeText": "Thuốc Usarmicin Tablets 500 UsarichPharm điều trị nhiễm khuẩn đường tiết niệu (2 vỉ x 10 viên) 11"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc kháng sinh, kháng nấm",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam"
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh"
+      }
+    ],
+    "content": {
+      "sku": "00503899",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc có thể dùng riêng rẽ hoặc phối hợp với các kháng sinh nhóm beta - lactam, aminoglycoside, macrolid, tetracyclin, chloramphenicol, rifamycin, vancomycin và lincomycin.</p><p>Fosfomycin dùng đơn độc dễ gây kháng thuốc, do đó nên phối hợp với các kháng sinh khác.</p><h3>Liều dùng</h3><p><i>Nhiễm khuẩn đường tiết niệu dưới không biến chứng:</i> Người lớn uống 3 g một liều duy nhất.</p><p><i>Nhiễm khuẩn ngoài đường tiết niệu do các vi khuẩn Gram dương hoặc Gram âm nhạy cảm:</i></p><p>Người lớn: Uống 0,5 – 1g cách 8 giờ một lần.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p><i>Quá liều: </i>Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định.</p><p><i>Cách xử trí:</i> Tích cực theo dõi để có biện pháp xử trí kịp thời.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3>Làm gì khi quên 1 liều?</h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<p>Tham khảo thông tin tờ hướng dẫn sử dụng thuốc.</p>",
+      "adverseEffect": "<p>Khi sử dụng thuốc thường gặp các tác dụng không mong muốn (ADR) như:</p><p><i>Thường gặp, ADR &gt; 1/100</i></p><ul><li>Tiêu hóa: <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">Tiêu chảy</a>, buồn nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-bung-994.html\">đau bụng</a>, khó tiêu.</li><li>Thần kinh: Đau đầu, chóng mặt, suy nhược.</li><li>Sinh dục nữ: Viêm âm đạo, rối loạn kinh nguyệt.</li><li>Mũi họng: Viêm mũi, viêm họng.</li><li>Da: Phát ban.</li></ul><p><i>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</i></p><ul><li>Tiêu hóa: Phân bất thường, táo bón, chán ăn, khô miệng, đầy hơi, nôn.</li><li>Thần kinh: <a href=\"https://nhathuoclongchau.com.vn/benh/sot-618.html\">Sốt</a>, hội chứng cúm, <a href=\"https://nhathuoclongchau.com.vn/benh/mat-ngu-846.html\">mất ngủ</a>, ngủ gà, đau nửa đầu, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-co-bap-1352.html\">đau cơ</a>, căng thẳng thần kinh, dị cảm.</li><li>Tiết niệu: Khó tiểu tiện, tiểu tiện ra máu.</li><li>Sinh dục nữ: <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-kinh-nguyet-281.html\">Rối loạn kinh nguyệt</a>.</li><li>Tai: Rối loạn thính giác.</li><li>Da: Ngứa, loạn sắc tố da, phát ban.</li></ul><p><i>Hiếm gặp, ADR &lt; 1/1000</i></p><ul><li>Mắt: Viêm dây thần kinh thị giác một bên.</li><li>Mạch – máu: Phù mạch, thiếu máu bất sản.</li><li>Hô hấp: <a href=\"https://nhathuoclongchau.com.vn/benh/hen-phe-quan-160.html\">Hen phế quản</a>.</li><li>Gan – tiêu hóa: Vàng da, hoại tử gan, phình đại trùng nhiễm độc.</li></ul><p><i>Cách xử trí ADR</i></p><p>Khi đang dùng thuốc nếu thấy biểu hiện của các tác dụng không mong muốn trên cần ngừng dùng thuốc ngay. Trường hợp gặp các phản ứng bất thường nặng cần phải xử trí kịp thời. Ngoài việc duy trì các chức năng sống cần phải điều trị triệu chứng kèm theo.</p><p>Thông báo ngay cho bác sĩ hoặc dược sĩ những phản ứng có hại gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p>Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p>",
+      "usage": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/usarmicin-500-usarichpharm-2-x10.html\">Thuốc Usarmicin</a> chỉ định điều trị trong các trường hợp sau:</p><p>Chỉ định phải dựa vào hoạt tính kháng khuẩn, đặc tính khác nhau về dược động học của dạng fosfomycin và các nghiên cứu lâm sàng hiện có.</p><p><a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-trung-tiet-nieu-355.html\">Nhiễm khuẩn đường tiết niệu</a> dưới cấp chưa có biến chứng (<a href=\"https://nhathuoclongchau.com.vn/benh/viem-bang-quang-cap.html\">viêm bàng quang cấp</a>) do Escherechia coli hoặc Enterococcus faecalis nhạy cảm với fosfomycin, đặc biệt là đối với phụ nữ. Không được chỉ định để điều trị viêm thận hoặc áp xe quanh thận.</p><p>Trước và sau khi dùng fosfomycin cần phải nuôi cấy bệnh phẩm nước tiểu để điều trị vẫn còn <a href=\"https://nhathuoclongchau.com.vn/bai-viet/vi-khuan-la-gi-cau-tao-cua-vi-khuan-nhu-the-nao-63968.html\">vi khuẩn</a> trong nước tiểu để tìm và xác định độ nhạy cảm của vi khuẩn với thuốc. Nếu sau điều trị vẫn còn vi khuẩn trong nước tiểu, phải thay kháng sinh khác.</p><h3>Dược lực học</h3><p><strong>Nhóm dược lý: Kháng sinh</strong></p><p><strong>Mã ATC: J01X X01</strong></p><p><i>Cơ chế tác dụng</i></p><p>Fosfomycin là một kháng sinh dẫn xuất từ acid fosfonic, được tách chiết từ Streptomyces fradiae và các Streptomyces khác hoặc được tổng hợp, có tác dụng diệt khuẩn. Tác dụng diệt khuẩn của thuốc là do ức chế enzyme enolpyruvyl tranferase, làm giảm sự tạo thành acid uridin diphosphat - N - acetylmuramic, là giai đoạn đầu của quá trình tạo thành tế bào vi khuẩn.</p><p>Fosfomycin có phổ tác dụng rộng. In vitro thuốc có tác dụng trên các <a href=\"https://nhathuoclongchau.com.vn/bai-viet/vi-khuan-gram-duong-la-gi-vi-khuan-gram-duong-co-nguy-hiem-khong.html\">vi khuẩn Gram dương</a> và Gram âm, đặc biệt là các vi khuẩn thường gây viêm nhiễm đường tiết niệu như <a href=\"https://nhathuoclongchau.com.vn/bai-viet/vi-khuan-e-coli-dac-diem-moi-truong-sinh-song-va-dau-hieu-nhan-biet-nhiem-trung.html\">E. coli</a>, Proteus, Klebsiella, Enterobacter, Pseudomonas, Seratia, Enterococcus pneumonia, Haemophilus infuenzae và Neseria spp. Tuy nhiên, trong thực tế có một vải chủng Pseudomonas aeruginosa kháng lại thuốc và Bacteroides không nhạy cảm. In vivo tính hiệu quả đã được xác định đối với E. coli và Enterococcus faecalis.</p><p>Ngoài nhiễm khuẩn đường tiết niệu và tiêu hóa, fosfomycin đã được nhiều nước trên thế giới dùng đơn độc hoặc phối hợp với kháng sinh khác để điều trị có kết quả (81,1%) nhiễm vi khuẩn Gram dương và/ hoặc Gram âm bao gồm <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phoi-180.html\">viêm phổi</a>, và các viêm nhiễm hô hấp khác, viêm cốt tủy, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mang-nao-36.html\">viêm màng não</a>, tai, mũi họng, nhiễm khuẩn ngoại, sản phụ khoa, <a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-trung-huyet-95.html\">nhiễm khuẩn huyết</a>, viêm khớp, viêm hạch cổ, nhiễm khuẩn mắt, nhiễm khuẩn bàn chân ở người <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">đái tháo đường</a>.</p><p>Kháng thuốc đã xuất hiện, thường xảy ra trong khi điều trị. Kháng thuốc có thể qua thể nhiễm sắc hoặc một số chủng theo cơ chế truyền qua plasmid. Do đó, trong thực hành lâm sàng, khó có thể dùng fosfomycin đơn độc nhưng cho đến nay không thấy kháng chéo hoặc tính đối kháng của fosfomycin với các kháng sinh khác. Fosfomycin thường có tác dụng hiệp đồng với một số kháng sinh, đặc biệt với nhóm kháng sinh ức chế các bước cuối trong tổng hợp thành tế bào vi khuẩn (như nhóm beta-lactam), aminoglycoside, macrolid, tetracylin, chloramphenicol, rifamycin và lincomycin, chống lại Enterococcus, Staphylococcus kháng methicillin và Enterobacteria. Một số nghiên cứu thường cho thấy khi phối hợp fosfomycin với <a href=\"https://nhathuoclongchau.com.vn/thuoc/thuoc-khang-sinh-duong-toan-than\">thuốc kháng sinh</a> nhóm aminoglycoside có thể làm giảm độc tính trên thận của aminoglycoside.</p><p>Fosfomycin được dùng dưới ba dạng: Fosfomycin calci, fosfomycin natri, fosfomycin tromethamin, khi dùng cần chú ý đến đặc điểm khác nhau về dược động học.</p><h3>Dược động học</h3><p>Fosfomycin calci hấp thu kém qua đường tiêu hóa, sinh khả dụng theo đường uống chỉ đạt 30 - 40%. Thức ăn làm giảm sinh khả dụng và thải trừ thuốc, nhưng không ảnh hưởng đến kết quả điều trị. Sau uống 4 giờ liều 1 g, nồng độ tối đa trong máu là 7 microgam/ml. Tuy nhiên, fosfomycin trometamol lại hấp thu nhanh qua đường tiêu hóa. Sau khi uống 2 giờ một liều tương đương với 3 g fosfomycin nồng độ thuốc trong huyết tương đạt khoảng 22 đến 32 microgam/ml.</p><p>Truyền tĩnh mạch trong 4 giờ một liều duy nhất 4g fosfomycin dinatri, nồng độ đỉnh trong huyết tương (nồng độ lúc ngừng truyền) đạt được 123 ± 16 microgam/ml. Sau đó nồng độ giảm xuống 24 ± 7 microgam/ml vào giờ thứ 8 và 8 ± 2 microgam/ml vào giờ thứ 12. Nửa đời thải trừ trong huyết tương khoảng 2 giờ.</p><p>Thuốc không gắn vào protein huyết tương.</p><p><i>Phân bố:</i></p><p>Fosfomycin có trọng lượng phân tử nhỏ (138), do đó, xâm nhập vào các mô và dịch cơ thể dễ dàng, thưởng đạt được nồng độ giữa 20 và 50% nồng độ thuốc trong huyết thanh, cao hơn nếu có viêm màng não.</p><ul><li>Trong dịch màng phổi: 7 – 43% nồng độ thuốc trong <a href=\"https://nhathuoclongchau.com.vn/bai-viet/huyet-thanh-la-gi-huyet-thanh-co-vai-tro-the-nao-voi-suc-khoe-con-nguoi-63953.html\">huyết thanh</a>.</li><li>Ở amidan: Khoảng 50% nồng độ huyết thanh.</li><li>Ở niêm mạc xoang: Khoảng 30% nồng độ thuốc trong huyết thanh.</li><li>Trong đờm: 5 – 10% nồng độ thuốc trong huyết thanh.</li></ul><p>Fosfomycin cũng vào trong nước ổi, sản dịch, bạch huyết, thủy dịch, chất bài tiết phế quản, ổ mủ màng phổi, xoang, xương (nếu còn mạch máu nuôi dưỡng), mật.</p><p><i>Chuyển hóa:</i></p><p>Fosfomycin không chuyển hóa và cũng không qua chu trình ruột – gan.</p><p><i>Thải trừ:</i></p><p>Fosfomycin đào thải qua đường tiết niệu, chủ yếu qua lọc cầu thận mà không tiết hoặc tái hấp thu qua ống thận. Độ thanh thải của fosfomycin tương tự như độ thanh thải của creatinin (100 – 120 ml/phút). Fosfomycin thải trừ trong nước tiểu trên 85% trong 12 giờ; một phần nhỏ thuốc thấy trong phân. Nồng độ thuốc trong nước tiểu cao: Khi truyền 4 g fosfomycin trong 4 giờ, nồng độ thuốc đạt 3000 mg/lít trong khi truyền, 3800 mg/lít giữa giờ thứ 4 và thứ 8 và 1600mg/lít giữ giờ thứ 8 và 12 giờ. Sau khi uống 2 – 4 giờ một liều duy nhất 3 g fosfomycin trong metamol, nồng độ fosfomycin đạt được trong nước tiểu là 3 mg/ml và duy trì nồng độ điều trị 200 – 300 microgam/ml trong nước tiểu sau 48 giờ.</p><p>Không có sự khác biệt nồng độ thuốc trong nước tiểu ở người cao tuổi và người trẻ tuổi. Do đó, không cần điều chỉnh liều.</p><p>Suy thận làm giảm nhiều bài tiết fosfomycin, do đó cần phải điều chỉnh liều.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p>Thuốc Usarmicin chống chỉ định trong các trường hợp sau:</p><ul><li>Mẫn cảm với bất kỳ thành phần nào của thuốc.</li><li>Viêm thận, viêm bể thận hoặc áp xe quanh thận.</li><li>Suy thận có Cl<sub>cr</sub> &lt; 5 ml/phút.</li></ul><h3>Thận trọng khi sử dụng</h3><p>Trong điều trị nếu không phối hợp kháng sinh có thể gặp vi khuẩn kháng thuốc nhanh đột biến.</p><p>Để hạn chế sự kháng fosfomycin của vi khuẩn cần phải phối hợp thuốc với các kháng sinh khác.</p><p>Cần thận trọng khi dùng thuốc ở những người bệnh có phủ, tăng huyết áp hoặc đang dùng corticoid. Những người bệnh suy tim đang dùng thuốc trợ tim loại digitalis nếu dùng fosfomycin kéo dài cần phải thường xuyên kiểm tra kali huyết và dùng bổ sung kali vì thuốc có thể làm hạ kali huyết.</p><p>Sử dụng cho bệnh nhân cao tuổi: Fasfomycin được bài tiết chủ yếu qua thận. Do bệnh nhân cao tuổi thường bị giảm chức năng thận, cần lưu ý khi sử dụng thuốc cho đối tượng bệnh nhân này, có thể cần giảm liều.</p><p>Mannitol: Có thể có tác dụng nhuận tràng nhẹ.</p><h3>Sử dụng thuốc cho phụ nữ có thai và cho con bú</h3><p><strong>Sử dụng thuốc cho phụ nữ có thai: </strong>Không có dữ liệu về sử dụng thuốc trên phụ nữ có thai, chỉ nên dùng thuốc nếu lợi ích vượt trội so với nguy cơ.</p><p><strong>Sử dụng thuốc cho phụ nữ cho con bú: </strong>Thuốc vào được sữa mẹ. Mặc dù nồng độ fosfomycin rất thấp trong sữa mẹ nhưng vẫn không nên dùng thuốc khi mẹ đang cho con bú. Trường hợp phải dùng fosfomycin thì mẹ phải ngừng cho con bú.</p><h3>Ảnh hưởng của thuốc lên khả năng lái xe, vận hành máy móc:</h3><p>Thận trọng khi lái xe và vận hành máy móc vì thuốc có thể gây đau đầu, ù tai, chóng mặt, khó chịu...</p><h3>Tương tác thuốc</h3><p>Metoclopramide và các thuốc làm tăng nhu động đường tiêu hóa khi dùng đồng thời với fosfomycin sẽ làm giảm nồng độ fosfomycin trong huyết tương và trong nước tiểu.</p><p>Fosfomycin có tác dụng hiệp đồng tăng mức với kháng sinh nhóm B - lactam, aminoglycoside, macrolide, tetracyline, cloraphenicol, rifamycin, colistin, vancomycin và lincomycin.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Ngô Kim Thúy",
+        "position": "Giảng viên TTĐT Long Châu",
+        "bio": "Tốt nghiệp loại giỏi trường Đại học Y Dược Huế. Từng tham gia nghiên cứu khoa học đề tài về Dược liệu. Nhiều năm kinh nghiệm làm việc trong lĩnh vực Dược phẩm. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "",
+        "isLegit": false,
+        "id": 8,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thumbs/thumbnail_Thuy_NK_6_eec089d53d.jpg",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Usarmicin Tablets 500 trị nhiễm khuẩn đường tiết niệu",
+        "metaDescription": "Thuốc Usarmicin điều trị nhiễm khuẩn đường tiết niệu dưới cấp chưa có biến chứng do Escherechia coli hoặc Enterococcus faecalis nhạy cảm với fosfomycin",
+        "id": 32043,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08349_836f680378.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Usarmicin Tablets 500 UsarichPharm điều trị nhiễm khuẩn đường tiết niệu (2 vỉ x 10 viên)",
+            "description": "Thuốc Usarmicin là sản phẩm của Usarichpharm chứa hoạt chất Fosfomycin calcium hydrate. Đây là thuốc điều trị nhiễm khuẩn đường tiết niệu dưới cấp chưa có biến chứng (viêm bàng quang cấp) do Escherechia coli hoặc Enterococcus faecalis nhạy cảm với fosfomycin, đặc biệt là đối với phụ nữ."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 15010,
+        "title": "Thuốc Usarmicin chứa thành phần gì?",
+        "content": "<p>Thuốc Usarmicin chứa thành phần hoạt chất Fosfomycin calcium hydrate. Fosfomycin là một kháng sinh dẫn xuất từ acid fosfonic, được tách chiết từ Streptomyces fradiae và các Streptomyces khác hoặc được tổng hợp, có tác dụng diệt khuẩn.&nbsp;</p>"
+      },
+      {
+        "id": 15011,
+        "title": "Thuốc Usarmicin thuộc nhóm dược lý nào và thuộc mã ATC nào?",
+        "content": "<p>Thuốc Usarmicin thuộc nhóm dược lý: Kháng sinh. Mã ATC: J01X X01.</p>"
+      },
+      {
+        "id": 15012,
+        "title": "Thuốc Usarmicin được chỉ định điều trị những bệnh gì?",
+        "content": "<p>Thuốc Usarmicin được chỉ định điều trị nhiễm khuẩn đường tiết niệu dưới cấp chưa có biến chứng (viêm bàng quang cấp) do Escherechia coli hoặc Enterococcus faecalis nhạy cảm với fosfomycin, đặc biệt là đối với phụ nữ.</p>"
+      },
+      {
+        "id": 15013,
+        "title": "Thuốc Usarmicin dùng điều trị riêng lẻ được không?",
+        "content": "<p>Thuốc có thể dùng riêng rẽ hoặc phối hợp với các kháng sinh nhóm beta - lactam, aminoglycoside, macrolid, tetracyclin, chloramphenicol, rifamycin, vancomycin và lincomycin. Fosfomycin dùng đơn độc dễ gây kháng thuốc, do đó nên phối hợp với các kháng sinh khác.</p>"
+      },
+      {
+        "id": 15014,
+        "title": "Có bất kỳ tương tác thuốc nào được báo cáo với Usarmicin không?",
+        "content": "<p>Metoclopramide và các thuốc làm tăng nhu động đường tiêu hóa khi dùng đồng thời với fosfomycin sẽ làm giảm nồng độ fosfomycin trong huyết tương và trong nước tiểu.</p><p>Fosfomycin có tác dụng hiệp đồng tăng mức với kháng sinh nhóm B - lactam, aminoglycoside, macrolide, tetracyline, cloraphenicol, rifamycin, colistin, vancomycin và lincomycin.</p>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 10,
+      "items": [
+        {
+          "id": 3259137,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0987xxxxxx",
+          "name": "quốc",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá",
+          "createdAt": "2026-02-09 20:48:45",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-09 20:48:45",
+          "replies": [
+            {
+              "id": 3259143,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Hồng Ngọc",
+                "moderatorEmail": "ngoctth25@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Hồng Ngọc",
+              "email": "ngoctth25@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Quốc,</p><p>Hiện tại, sản phẩm Usarmicin Tablets 500 UsarichPharm có giá 340.000đ/hộp.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-02-09 20:52:03",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-09 20:48:45",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3199490,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0981xxxxxx",
+          "name": "A DUY",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "sản phẩm còn hàng không ạ",
+          "createdAt": "2025-10-21 00:19:57",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-21 00:19:42",
+          "replies": [
+            {
+              "id": 3199554,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Mai Anh",
+                "moderatorEmail": "anhnm70@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Mai Anh",
+              "email": "anhnm70@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào <strong>A DUY</strong>, </p><p> Dạ sản phẩm còn hàng trên hệ thống Nhà thuốc FPT Long Châu.</p><p> Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT anh đã để lại ạ.</p>",
+              "createdAt": "2025-10-21 08:39:19",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-21 00:19:42",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3125167,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0949xxxxxx",
+          "name": "Trần Trúc Diệp",
+          "email": "trucdiep7070@gmail.com",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc này các chi nhánh trên đường Kinh Dương Vương có hàng không, xin cảm ơn.",
+          "createdAt": "2025-06-11 12:32:42",
+          "createdAtDisplay": "11/06/2025",
+          "updatedAt": "2025-06-11 12:32:37",
+          "replies": [
+            {
+              "id": 3125171,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thuỳ Linh",
+                "moderatorEmail": "linhntt77@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thuỳ Linh",
+              "email": "linhntt77@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Trần Trúc Diệp,</p><p>Dạ sản phẩm còn hàng trên hệ thống.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-06-11 12:35:32",
+              "createdAtDisplay": "11/06/2025",
+              "updatedAt": "2025-06-11 12:32:37",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3097189,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0988xxxxxx",
+          "name": "Bảo",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mua 1 hộp bao nhiêu vậy em",
+          "createdAt": "2025-04-26 10:34:25",
+          "createdAtDisplay": "26/04/2025",
+          "updatedAt": "2025-04-26 10:34:25",
+          "replies": [
+            {
+              "id": 3097195,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Đại",
+                "moderatorEmail": "daint17@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Đại",
+              "email": "daint17@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Bảo,</p><p>Dạ sản phẩm có giá 340,000 ₫/hộp</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-04-26 10:36:23",
+              "createdAtDisplay": "26/04/2025",
+              "updatedAt": "2025-04-26 10:34:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3076846,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0963xxxxxx",
+          "name": "Đỗ trọng khái",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Fpt long châu TP bạc liêu còn hàng ko ạ",
+          "createdAt": "2025-03-27 09:35:54",
+          "createdAtDisplay": "27/03/2025",
+          "updatedAt": "2025-03-27 09:35:54",
+          "replies": [
+            {
+              "id": 3076847,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thùy Linh",
+                "moderatorEmail": "linhntt77@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thùy Linh",
+              "email": "linhntt77@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Đỗ Trọng Khái,</p><p>Dạ sản phẩm còn hàng trên hệ thống.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-03-27 09:36:39",
+              "createdAtDisplay": "27/03/2025",
+              "updatedAt": "2025-03-27 09:35:54",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Usarmicin Tablets 500 UsarichPharm điều trị nhiễm khuẩn đường tiết niệu (2 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08349_836f680378.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08350_8ee673de40.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08351_f30c1371f0.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08352_049a16fa00.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08353_44c72158a4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08354_Recovered_abbd97763c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08355_6d279e3897.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08357_ec80547556.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08358_aa13e80391.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/usarcimin_1_85a11ffd4a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/usarcimin_2_81ce709b1d.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Usarmicin là sản phẩm của Usarichpharm chứa hoạt chất Fosfomycin calcium hydrate. Đây là thuốc điều trị nhiễm khuẩn đường tiết niệu dưới cấp chưa có biến chứng (viêm bàng quang cấp) do Escherechia coli hoặc Enterococcus faecalis nhạy cảm với fosfomycin, đặc biệt là đối với phụ nữ.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ngô Kim Thúy"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Usarmicin Tablets 500 trị nhiễm khuẩn đường tiết niệu",
+      "description": "Thuốc Usarmicin điều trị nhiễm khuẩn đường tiết niệu dưới cấp chưa có biến chứng do Escherechia coli hoặc Enterococcus faecalis nhạy cảm với fosfomycin",
+      "openGraph": {
+        "title": "Thuốc Usarmicin Tablets 500 UsarichPharm điều trị nhiễm khuẩn đường tiết niệu (2 vỉ x 10 viên)",
+        "description": "Thuốc Usarmicin là sản phẩm của Usarichpharm chứa hoạt chất Fosfomycin calcium hydrate. Đây là thuốc điều trị nhiễm khuẩn đường tiết niệu dưới cấp chưa có biến chứng (viêm bàng quang cấp) do Escherechia coli hoặc Enterococcus faecalis nhạy cảm với fosfomycin, đặc biệt là đối với phụ nữ.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08349_836f680378.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/usarmicin-500-usarichpharm-2-x10.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/usarmicin-500-usarichpharm-2-x10.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

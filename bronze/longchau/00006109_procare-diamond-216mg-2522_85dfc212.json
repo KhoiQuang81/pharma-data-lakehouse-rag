@@ -1,0 +1,2395 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/procare-diamond-216mg-2522.html",
+  "ingestion_timestamp": "2026-09-05T10:50:42.365872+00:00",
+  "file_hash": "772aa17e4eec7a3e5e00b4c81d2a8163d74811669ebd53d4650a3bd6027b03e9",
+  "lineage_hash": "13a11da454ee36c446b15142ec1df65b08cb7d2aa81561e3c195a5008c17d968",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/procare-diamond-216mg-2522.html",
+    "product": {
+      "sku": "00006109",
+      "webName": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên)",
+      "name": "PROCARE DIAMOND 216MG CATALENT 30V",
+      "shortName": "PROCARE DIAMOND 30V",
+      "headingText": "Viên uống Diamond",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_7021_60ee_large_89e91ba6fb.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_1391_60ee_large_9e2677f146.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_6084_60ee_large_069c93753c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_2161_6116_large_77022108a8_34dac5e581.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_1245_6116_large_b1e442d7ec.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_1628835051_5310ed5c4c.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 727,
+          "name": "Thuốc bổ & vitamin",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-bo-and-vitamin",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 752,
+          "name": "Thuốc bổ",
+          "parentName": "Thuốc bổ & vitamin",
+          "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 420000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 30 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": 14000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "30 Viên"
+        }
+      ],
+      "slug": "thuoc/procare-diamond-216mg-2522.html",
+      "ingredient": [
+        {
+          "id": 43030,
+          "ingredientId": 40316,
+          "shortDescription": "5mg",
+          "name": "Vitamin B1",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b1"
+        },
+        {
+          "id": 43031,
+          "ingredientId": 40324,
+          "shortDescription": "5mg",
+          "name": "Vitamin B2",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b2"
+        },
+        {
+          "id": 43032,
+          "ingredientId": 29897,
+          "shortDescription": "5mg",
+          "name": "Nicotinamide",
+          "isPrimary": false,
+          "slug": "thanh-phan/nicotinamide"
+        },
+        {
+          "id": 43033,
+          "ingredientId": 40361,
+          "shortDescription": "200iu",
+          "name": "Vitamin D3",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-d3"
+        },
+        {
+          "id": 43034,
+          "ingredientId": 40333,
+          "shortDescription": "5mg",
+          "name": "Vitamin B6",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 43035,
+          "ingredientId": 40318,
+          "shortDescription": "10mcg",
+          "name": "Vitamin B12",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b12"
+        },
+        {
+          "id": 43036,
+          "ingredientId": 40363,
+          "shortDescription": "10iu",
+          "name": "Vitamin E",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-e"
+        },
+        {
+          "id": 43037,
+          "ingredientId": 20575,
+          "shortDescription": "500mcg",
+          "name": "Folic Acid",
+          "isPrimary": false,
+          "slug": "thanh-phan/folic-acid"
+        },
+        {
+          "id": 43038,
+          "ingredientId": 12326,
+          "shortDescription": "59mg",
+          "name": "Calcium",
+          "isPrimary": false,
+          "slug": "thanh-phan/calcium"
+        },
+        {
+          "id": 43039,
+          "ingredientId": 32474,
+          "shortDescription": "46.6mg",
+          "name": "Phosphorus",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 43040,
+          "ingredientId": 26348,
+          "shortDescription": "30mg",
+          "name": "Magnesium ion",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 43041,
+          "ingredientId": 40349,
+          "shortDescription": "50mg",
+          "name": "Vitamin C",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-c"
+        },
+        {
+          "id": 43042,
+          "ingredientId": 40977,
+          "shortDescription": "8mg",
+          "name": "Zinc",
+          "isPrimary": false,
+          "slug": "thanh-phan/zinc"
+        },
+        {
+          "id": 43043,
+          "ingredientId": 23993,
+          "shortDescription": "24mg",
+          "name": "Iron",
+          "isPrimary": false,
+          "slug": "thanh-phan/iron"
+        },
+        {
+          "id": 43044,
+          "ingredientId": 23885,
+          "shortDescription": "200mcg",
+          "name": "Iodine",
+          "isPrimary": false,
+          "slug": "thanh-phan/iodine"
+        },
+        {
+          "id": 43045,
+          "ingredientId": 30835,
+          "shortDescription": "500mg",
+          "name": "Omega 3",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 43046,
+          "ingredientId": 10757,
+          "shortDescription": "1mg",
+          "name": "Betacarotene",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VN-14585-12",
+      "manufactor": "Úc",
+      "dosageForm": "Viên nang mềm",
+      "dosage": "<h3>Cách dùng</h3><p>Viên uống&nbsp;“Procare Diamond” dùng đường uống.</p><h3>Liều dùng</h3><p>Uống 1 viên Procare Diamond mỗi ngày hoặc theo chỉ định của bác sỹ, nên bắt đầu dùng 1 tháng trước khi định có thai.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Chưa thấy có ở liều khuyến nghị.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/procare-diamond-216mg-2522.html\">Procare Diamond</a> được chỉ định dùng trong các chuyên dùng cho phụ nữ có thai và cho con bú trường hợp sau:</p><p>Procare Diamond chứa acid béo Omega-3 bao gồm EPA và DHA hàm lượng cao giúp:</p><ul><li>Đáp ứng đủ lượng DHA khuyến nghị cho phụ nữ có thai và cho con bú mỗi ngày (tối thiểu 200mg/ngày).</li><li>Cần thiết cho sự phát triển não của thai nhi và trẻ, cho các trường hợp thai to và làm giảm nguy cơ sinh non.</li><li>Cho các trường hợp <a href=\"https://nhathuoclongchau.com.vn/bai-viet/nhung-dieu-can-biet-khi-mang-da-thai-47985.html\">đa thai</a> và có thai liên tục để đáp ứng nhu cầu omega-3 tăng cao ở những bà mẹ này.</li></ul><p>Đặc biệt dùng cho giai đoạn trước trong và sau khi mang thai nhằm đáp ứng nhu cầu vitamin và khoáng chất tăng lên của cơ thể người phụ nữ trong giai đoạn này. Cung cấp acid folic, nếu dùng hàng ngày từ 1 tháng trước khi thụ thai và trong suốt thời kỳ mang thai giúp cho việc mang thai được bình thường và khỏe mạnh.</p><h3>Dược lực học</h3><p>Acid béo Omega-3 là thành phần cấu tạo của màng tế bào, tăng tính lưu động màng làm tăng hoạt động chức năng của tế bào. Bổ sung Omega-3 làm tăng lượng Glucose tới não có thể giúp cho hoạt động chức năng của não tốt hơn.</p><p><a href=\"https://nhathuoclongchau.com.vn/bai-viet/dha-co-vai-tro-gi-uong-dha-co-giup-be-ngu-ngon-khong-58019.html\">DHA</a> và EPA<strong> </strong>cũng có tác dụng kích hoạt mạch. DHA và EPA được thấy là làm tăng lưu lượng máu tới não và cải thiện chức năng của hàng rào máu não. Omega-3 điều hòa các chất trung gian gây viêm như là eicosanoid. Chuyển hóa của omega-3 tạo ra các chất chống viêm. Acid béo omega-3 tập trung nhiều ở màng tế bào của võng mạc mắt và tham gia vào việc chuyển tín hiệu ánh sáng vào mắt thành các xung thần kinh.</p><p>Vitamin C cũng tham gia vào nhiều quá trình chuyển hóa bao gồm giảm các phản ứng oxy hóa, sự hô hấp của tế bào, chuyển hóa carbohydrate, tổng hợp lipid và protein, dị hóa cholesterol thành acid mật, biến đổi folic acid thành folinic acid, và chuyển hóa sắt. Vitamin C có tác dụng chống oxy hóa và có vai trò duy trì chức năng miễn dịch đúng.&nbsp;</p><p>Folic acid làm giảm tổn thương DNA và phòng ngừa lỗi phiên mã. Folic acid tham gia vào chuyển hóa của homocystein.</p><p>Sắt trong cơ thể được tìm thấy chủ yếu ở hemoglobin của hồng cầu và myoglobin của cơ nơi mà nó được yêu cầu để vận chuyển Oxy và CO<sub>2</sub>.&nbsp;</p><p>Kẽm là đồng yếu tố trong nhiều quá trình sinh học trong cơ thể bao gồm quả tình tổng hợp DNA, RNA và Protein. Kẽm cũng đóng vai trò quan trọng trong chức năng miễn dịch, làm lành vết thương, sinh sản, tăng trưởng và phát triển, học tập và hành vi, mùi và vị, huyết khối, chức năng của hormone tuyến giáp, và hoạt động của insulin.</p><p>Calci cần thiết cho dẫn truyền thần kinh, co cơ, giãn mạch, sự bài tiết của các tuyến, tính thấm của màng tế bào và mao mạch.</p><h3>Dược động học</h3><p>Chưa có thông tin.</p>",
+      "brand": "PROCARE",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Procare Diamond, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p>Ít thấy, thường là nhẹ ví dụ như buồn nôn, đầy bụng, ợ, <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">rối loạn tiêu hóa</a>, đau nóng vùng thượng vị, cảm giác không ngon miệng, dị ứng ngoài da nhẹ.</p><p>Hướng dẫn cách xử trí ADR: Thông báo cho bác sĩ nếu có bất kỳ phản ứng phụ nào xảy ra.</p>",
+      "specification": "Hộp 30 Viên",
+      "indications": [],
+      "brandOrigin": "Tây Ban Nha",
+      "producer": "Catalent Australia Pty. Ltd.",
+      "shortDescription": "<p>Viên uống&nbsp;“<strong>Procare Diamond</strong>” do <i>công ty Catalent Australia Pty Ltd</i> – Úc sản xuất, nhóm vitamin&nbsp;khoáng chất nhằm&nbsp;đáp ứng nhu cầu vitamin và khoáng chất tăng lên của cơ thể người phụ nữ&nbsp;có thai và cho con bú.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "Trên 18 tuổi",
+      "objectUse": [
+        "Phụ nữ cho con bú",
+        "Phụ nữ có thai"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Suy gan"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/procare",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "PROCARE DIAMOND",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 254,
+        "attributeName": "Tây Ban Nha",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/es_Spain_03bf620563.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": 420000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 30 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 752,
+        "name": "Thuốc bổ",
+        "parentName": "Thuốc bổ & vitamin",
+        "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_7021_60ee_large_89e91ba6fb.jpg",
+          "alternativeText": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_1391_60ee_large_9e2677f146.jpg",
+          "alternativeText": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_6084_60ee_large_069c93753c.jpg",
+          "alternativeText": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_2161_6116_large_77022108a8_34dac5e581.jpg",
+          "alternativeText": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_1245_6116_large_b1e442d7ec.jpg",
+          "alternativeText": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_1628835051_5310ed5c4c.jpg",
+          "alternativeText": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên) 6"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 420000,
+        "itemCode": "00006109",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 420000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 14000,
+        "itemCode": "00006109",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 14000,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc bổ & vitamin",
+        "slug": "/thuoc/thuoc-bo-and-vitamin"
+      },
+      {
+        "name": "Thuốc bổ",
+        "slug": "/thuoc/thuoc-bo-and-vitamin/thuoc-bo"
+      }
+    ],
+    "content": {
+      "sku": "00006109",
+      "dosage": "<h3>Cách dùng</h3><p>Viên uống&nbsp;“Procare Diamond” dùng đường uống.</p><h3>Liều dùng</h3><p>Uống 1 viên Procare Diamond mỗi ngày hoặc theo chỉ định của bác sỹ, nên bắt đầu dùng 1 tháng trước khi định có thai.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Chưa thấy có ở liều khuyến nghị.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<p>Tờ hướng dẫn sử dụng thuốc Procare Diamond.</p>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Procare Diamond, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p>Ít thấy, thường là nhẹ ví dụ như buồn nôn, đầy bụng, ợ, <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">rối loạn tiêu hóa</a>, đau nóng vùng thượng vị, cảm giác không ngon miệng, dị ứng ngoài da nhẹ.</p><p>Hướng dẫn cách xử trí ADR: Thông báo cho bác sĩ nếu có bất kỳ phản ứng phụ nào xảy ra.</p>",
+      "preservation": "<p>Bảo quản ở nhiệt độ dưới 25°C ở nơi khô ráo tránh nóng và ánh sáng mặt trời. Tránh ẩm.</p><p>Giữ nguyên bao bì gốc của thuốc là tốt nhất, cần vặn chặt nắp sau mỗi lần mở lọ.</p><p>Không để thuốc trong ngăn đá tủ lạnh - Không vứt bỏ gói chống ẩm trong lọ thuốc trong suốt quá trình sử dụng.</p><p>Không để thuốc trong cốp xe, gần bếp hay gần nguồn nhiệt khác. (Lưu ý: Một số trường hợp lọ thuốc có lớp dầu bao quanh viên nhiều, gói hút ẩm khô tơi có màu trắng đến ngà nhẹ: Chất lượng thuốc vẫn đảm bảo).</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/procare-diamond-216mg-2522.html\">Procare Diamond</a> được chỉ định dùng trong các chuyên dùng cho phụ nữ có thai và cho con bú trường hợp sau:</p><p>Procare Diamond chứa acid béo Omega-3 bao gồm EPA và DHA hàm lượng cao giúp:</p><ul><li>Đáp ứng đủ lượng DHA khuyến nghị cho phụ nữ có thai và cho con bú mỗi ngày (tối thiểu 200mg/ngày).</li><li>Cần thiết cho sự phát triển não của thai nhi và trẻ, cho các trường hợp thai to và làm giảm nguy cơ sinh non.</li><li>Cho các trường hợp <a href=\"https://nhathuoclongchau.com.vn/bai-viet/nhung-dieu-can-biet-khi-mang-da-thai-47985.html\">đa thai</a> và có thai liên tục để đáp ứng nhu cầu omega-3 tăng cao ở những bà mẹ này.</li></ul><p>Đặc biệt dùng cho giai đoạn trước trong và sau khi mang thai nhằm đáp ứng nhu cầu vitamin và khoáng chất tăng lên của cơ thể người phụ nữ trong giai đoạn này. Cung cấp acid folic, nếu dùng hàng ngày từ 1 tháng trước khi thụ thai và trong suốt thời kỳ mang thai giúp cho việc mang thai được bình thường và khỏe mạnh.</p><h3>Dược lực học</h3><p>Acid béo Omega-3 là thành phần cấu tạo của màng tế bào, tăng tính lưu động màng làm tăng hoạt động chức năng của tế bào. Bổ sung Omega-3 làm tăng lượng Glucose tới não có thể giúp cho hoạt động chức năng của não tốt hơn.</p><p><a href=\"https://nhathuoclongchau.com.vn/bai-viet/dha-co-vai-tro-gi-uong-dha-co-giup-be-ngu-ngon-khong-58019.html\">DHA</a> và EPA<strong> </strong>cũng có tác dụng kích hoạt mạch. DHA và EPA được thấy là làm tăng lưu lượng máu tới não và cải thiện chức năng của hàng rào máu não. Omega-3 điều hòa các chất trung gian gây viêm như là eicosanoid. Chuyển hóa của omega-3 tạo ra các chất chống viêm. Acid béo omega-3 tập trung nhiều ở màng tế bào của võng mạc mắt và tham gia vào việc chuyển tín hiệu ánh sáng vào mắt thành các xung thần kinh.</p><p>Vitamin C cũng tham gia vào nhiều quá trình chuyển hóa bao gồm giảm các phản ứng oxy hóa, sự hô hấp của tế bào, chuyển hóa carbohydrate, tổng hợp lipid và protein, dị hóa cholesterol thành acid mật, biến đổi folic acid thành folinic acid, và chuyển hóa sắt. Vitamin C có tác dụng chống oxy hóa và có vai trò duy trì chức năng miễn dịch đúng.&nbsp;</p><p>Folic acid làm giảm tổn thương DNA và phòng ngừa lỗi phiên mã. Folic acid tham gia vào chuyển hóa của homocystein.</p><p>Sắt trong cơ thể được tìm thấy chủ yếu ở hemoglobin của hồng cầu và myoglobin của cơ nơi mà nó được yêu cầu để vận chuyển Oxy và CO<sub>2</sub>.&nbsp;</p><p>Kẽm là đồng yếu tố trong nhiều quá trình sinh học trong cơ thể bao gồm quả tình tổng hợp DNA, RNA và Protein. Kẽm cũng đóng vai trò quan trọng trong chức năng miễn dịch, làm lành vết thương, sinh sản, tăng trưởng và phát triển, học tập và hành vi, mùi và vị, huyết khối, chức năng của hormone tuyến giáp, và hoạt động của insulin.</p><p>Calci cần thiết cho dẫn truyền thần kinh, co cơ, giãn mạch, sự bài tiết của các tuyến, tính thấm của màng tế bào và mao mạch.</p><h3>Dược động học</h3><p>Chưa có thông tin.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc Procare Diamond bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p><strong>Thuốc </strong>Procare Diamond chống chỉ định trong các trường hợp sau:</p><p>Bệnh nhân dị ứng với bất kỳ thành phần nào của thuốc.</p><p>Bệnh nhân có biểu hiện <a href=\"https://nhathuoclongchau.com.vn/bai-viet/tinh-trang-suy-giam-chuc-nang-gan-va-nhung-dieu-can-biet-47797.html\">suy giảm chức năng gan</a> hoặc bệnh về gan Nicotinamida có thể gây hại cho gan.</p><h3>Thận trọng khi sử dụng</h3><p>Không được dùng quá liều chỉ định ngoại trừ có chỉ định của bác sĩ. Nếu bạn đã có con bị dị tật ống thần kinh/nứt đốt sống, hãy hỏi ý kiến bác sĩ. Nếu triệu chứng không đỡ xin hỏi ý kiến bác sĩ. Vitamin chỉ có thể trợ giúp khi chế độ ăn thiếu vitamin.</p><h3>Khả năng lái xe và vận hành máy móc</h3><p>Chưa thấy có.</p><h3>Thời kỳ mang thai</h3><p>An toàn khi sử dụng đúng liều khuyến nghị viên mỗi ngày.</p><h3>Thời kỳ cho con bú</h3><p>An toàn khi sử dụng đúng liều khuyến nghị viên mỗi ngày.</p><h3>Tương tác thuốc</h3><p>Các thuốc kháng giáp: Dùng kết hợp với lốt có thể dẫn tới giảm hoạt động tuyến giáp, và gây ra bệnh suy giáp.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Trần Thị Dương",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp Đại Học Dược Hà Nội và có nhiều kinh nghiệm trong lĩnh vực Dược phẩm. Nhiều năm công tác giảng dạy tại các trường trung cấp và cao đẳng dược. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-tran-thi-duong",
+        "isLegit": true,
+        "id": 14,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bac_si_thi_duong_1_dd3472f2fb.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc bổ Procare Diamond 216mg cho bà bầu (Hộp 30 viên)",
+        "metaDescription": "Procare Diamond bổ sung các nhóm vitamin, khoáng chất cần thiết nhằm đáp ứng nhu cầu cho phụ nữ có thai và cho con bú. Xem ngay thành phần và giá bán!",
+        "id": 2853,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_7021_60ee_large_89e91ba6fb.jpg",
+              "alternativeText": null
+            },
+            "title": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên)",
+            "description": "Viên uống&nbsp;“Procare Diamond” do công ty Catalent Australia Pty Ltd – Úc sản xuất, nhóm vitamin&nbsp;khoáng chất nhằm&nbsp;đáp ứng nhu cầu vitamin và khoáng chất tăng lên của cơ thể người phụ nữ&nbsp;có thai và cho con bú."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 34867,
+        "title": "Cách bảo quản viên uống Procare Diamond để đảm bảo chất lượng?",
+        "content": "<p>Để bảo quản Procare Diamond đúng cách, cần lưu ý:</p><ul><li>Bảo quản ở nhiệt độ dưới 25°C.</li><li>Đặt ở nơi khô ráo, tránh nóng và ánh sáng mặt trời trực tiếp.</li><li>Tránh ẩm.</li><li>Giữ nguyên bao bì gốc của thuốc và vặn chặt nắp sau mỗi lần mở lọ.</li><li>Không để thuốc trong ngăn đá tủ lạnh và không vứt bỏ gói chống ẩm trong lọ thuốc.</li><li>Tránh để thuốc trong cốp xe, gần bếp hay gần các nguồn nhiệt khác.</li></ul>"
+      },
+      {
+        "id": 34866,
+        "title": "Những trường hợp nào không nên sử dụng Procare Diamond?",
+        "content": "<p>Procare Diamond chống chỉ định trong các trường hợp sau:</p><ul><li>Bệnh nhân dị ứng với bất kỳ thành phần nào của thuốc.</li><li>Bệnh nhân có biểu hiện suy giảm chức năng gan hoặc bệnh về gan, do Nicotinamida có thể gây hại cho gan.&nbsp;</li><li>Ngoài ra, không được dùng quá liều chỉ định trừ khi có chỉ định của bác sĩ. Nếu đã có con bị dị tật ống thần kinh/nứt đốt sống, cần tham khảo ý kiến bác sĩ trước khi sử dụng.</li></ul>"
+      },
+      {
+        "id": 34868,
+        "title": "Procare Diamond có cần bổ sung thêm sắt hoặc canxi không?",
+        "content": "<p>Sản phẩm Procare Diamond đã bổ sung hàm lượng sắt và Omega-3 (bao gồm DHA và EPA) cao, nên thông thường không cần bổ sung thêm sắt hoặc DHA. Tuy nhiên, về canxi, viên uống có chứa Calcium 59mg, nhưng tùy thuộc vào nhu cầu và thể trạng của từng người, bạn có thể cần tham khảo ý kiến bác sĩ để bổ sung thêm hàm lượng canxi phù hợp.</p>"
+      },
+      {
+        "id": 34865,
+        "title": "Ai nên sử dụng thuốc Procare Diamond?",
+        "content": "<p>Procare Diamond được chỉ định dùng cho phụ nữ có thai và phụ nữ cho con bú. Liều dùng khuyến nghị là uống 1 viên mỗi ngày. Nên bắt đầu sử dụng sản phẩm từ 1 tháng trước khi có ý định mang thai để đạt hiệu quả tốt nhất, đặc biệt là trong việc cung cấp Acid Folic. Liều dùng cụ thể có thể thay đổi tùy thuộc vào thể trạng và lời khuyên của bác sĩ.</p>"
+      },
+      {
+        "id": 34864,
+        "title": "Thuốc Procare Diamond có tác dụng gì?",
+        "content": "<p>Viên uống Procare Diamond giúp cung cấp đủ lượng DHA khuyến nghị cho sự phát triển não bộ của thai nhi và trẻ nhỏ, giảm nguy cơ sinh non, hỗ trợ các trường hợp đa thai và mang thai liên tục. Ngoài ra, sản phẩm còn cung cấp Acid Folic giúp đảm bảo thai kỳ khỏe mạnh khi được sử dụng từ một tháng trước khi thụ thai và trong suốt thời kỳ mang thai.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00029004",
+        "name": "POKEMINE MEDISUN 20X10ML",
+        "webName": "Dung dịch uống Pokemine 50mg Medisun bổ sung sắt cho bệnh nhân thiếu máu (20 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/pokemine_20x10ml_medisun_00029004_18974a7442.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37079,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 152000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pokemine-medisun-20x10ml-29296.html",
+        "ingredients": "Sắt 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Medisun",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 20 ống X 10ml",
+        "prices": [
+          {
+            "id": 37079,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 152000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 37078,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 7600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00047080",
+        "name": "MYHEMO RELIV 3X10",
+        "webName": "Thuốc Myhemo 305mg Reliv dự phòng thiếu sắt và folic acid (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_myhemo_reliv_3x10_00047080_42c390f09b.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 73453,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 165000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/myhemo-reliv-3-x10.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 100mg",
+        "dosageForm": "Viên bao đường",
+        "brand": "Reliv",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 73453,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 165000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 73454,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 73455,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007450",
+        "name": "TOTHEMA 2X10 ỐNG 10ML",
+        "webName": "Dung dịch Tot'héma Innothera điều trị thiếu máu do sắt (2 vỉ x 10 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04101_788e84a74a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10875,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 120000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tothema-1952.html",
+        "ingredients": "Mangan gluconat 1.33mg, Đồng gluconat 0.7mg, Sắt gluconat 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Innothera",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 10 Ống x 10ml",
+        "prices": [
+          {
+            "id": 10875,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 120000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10873,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10874,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049621",
+        "name": "VITAMIN A-D HDPHARMA 10X10",
+        "webName": "Thuốc Vitamin A-D Hdpharma dùng dự phòng và điều trị các triệu chứng do thiếu vitamin A - D (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_vitamin_a_d_10x10_hdpharma_00049621_f8bba8c44a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 78290,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 32000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vitamin-a-d-hdpharma-10-x10.html",
+        "ingredients": "Vitamin A 5000iu, Vitamin D3 400iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Hdpharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 78290,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 32000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 78291,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 3200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 78292,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 320,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049065",
+        "name": "MAZZGIN DHG PHARMA 10X10",
+        "webName": "Thuốc Mazzgin DHG Pharma điều trị các trường hợp thiếu magnesi riêng biệt hay kết hợp (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_mazzgin_dhg_pharma_10x10_00049065_82218241b8.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 77246,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 53550,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/mazzgin-dhg-pharma-10-x10.html",
+        "ingredients": "Magnesi lactat dihydrat 470mg, Vitamin B6 5mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Dhg",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 77246,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 53550,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 77247,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 5355,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 77248,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 536,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00041155",
+        "name": "CARDIOTON LIPA 6X10",
+        "webName": "Thuốc Cardioton Lipa Pharma điều trị suy tim, tăng huyết áp, bổ sung năng lượng (6 vỉ x 10 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_cardioton_lipa_6x10_00041155_9ecff2b28f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 62161,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 7667,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cardioton-lipa-6-x10.html",
+        "ingredients": "Ubidecarenone 30mg, D-alpha tocopherol 6.71mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "LIPA PHARMACEUTICALSLTD",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 62161,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 62159,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 460000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 62160,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 76667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500658",
+        "name": "ZY-10 FORTE 100MG Y-MED 3X10",
+        "webName": "Thuốc Zy-10 Forte 100mg Y-Med điều trị bệnh suy tim xung huyết, thiếu hụt coenzym Q10 (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/5_9e44bd6ebd.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48922,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 15600,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/zy-10-forte-100mg-hop-3-vi-x-10-vien-ha-tay-34787.html",
+        "ingredients": "Ubidecarenone 100mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Y-MED",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48922,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 15600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 48924,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 468000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 48923,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 156000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 249,
+          "attributeName": "Ấn Độ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/in_India_090039de61.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009723",
+        "name": "BEROCCA BAYER 10V",
+        "webName": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1758_33831b7cab.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12974,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 75000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/berocca-1515.html",
+        "ingredients": "Vitamin B1 15mg, Vitamin B2 15mg, Vitamin B6 10mg, Vitamin B12 0.01mg, Vitamin B3 50mg, Vitamin B5 23mg, Magnesia 100mg, Vitamin C 500mg, Calcium 100mg, Vitamin B8 0.15mg, Kẽm 10mg",
+        "dosageForm": "Viên sủi",
+        "brand": "Bayer",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 12973,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 7500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12974,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 75000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00008451",
+        "name": "LONG HUYẾT PH 2X12 - TAN BẦM TÍM GIẢM PHÙ NỀ",
+        "webName": "Thuốc Long Huyết P/H Phúc Hưng đặc trị tan bầm tím, mau lành vết thương (2 vỉ x 12 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1039_fba416224d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12490,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 47000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/long-huyet-ph-tan-bam-tim-chua-lanh-vet-thuong-1590.html",
+        "ingredients": "Cao khô huyết giác 280mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Phúc Hưng",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 2 vỉ x 12 viên",
+        "prices": [
+          {
+            "id": 12488,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1958,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12489,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 23500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 12490,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 47000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007678",
+        "name": "UPSA-C 10V",
+        "webName": "Viên sủi UPSA-C UPSA SAS hỗ trợ điều trị tình trạng thiếu hụt vitamin C (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1794_11051dc2c2.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11216,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 37000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/upsa-c-1000mg-1878.html",
+        "ingredients": "Vitamin C 1000mg",
+        "dosageForm": "Viên nén sủi bọt",
+        "brand": "Upsa Sas",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 11215,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 3700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11216,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 37000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007180",
+        "name": "TARDYFERON B9 3X10",
+        "webName": "Thuốc Tardyferon B9 Pierre Fabre dự phòng thiếu sắt, acid folic cho phụ nữ có thai (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_tardyferon_b9_3_vi_x_10_vien_pierre_fabre_00007180_aec7b4c600.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10449,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tardyferon-b9-2068.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 50mg",
+        "dosageForm": "Viên nén",
+        "brand": "Pierre Fabre",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 10449,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10451,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 87000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10450,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 29000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 245,
+      "items": [
+        {
+          "id": 3363722,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0334xxxxxx",
+          "name": "Đặng nhàn",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Uống buổi tối được k ạ",
+          "createdAt": "2026-08-25 22:29:07",
+          "createdAtDisplay": "10 ngày trước",
+          "updatedAt": "2026-08-25 22:29:07",
+          "replies": [
+            {
+              "id": 3363761,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Như Quỳnh",
+                "moderatorEmail": "quynhntn96@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Như Quỳnh",
+              "email": "quynhntn96@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Đặng Nhàn,</p><p>Dạ nên uống thuốc PM Procare Diamond vào buổi sáng hoặc buổi trưa ngay sau bữa ăn, không nên uống vào buổi tối ạ.</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-08-26 08:24:27",
+              "createdAtDisplay": "10 ngày trước",
+              "updatedAt": "2026-08-25 22:29:07",
+              "replies": []
+            },
+            {
+              "id": 3363780,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0334xxxxxx",
+              "name": "Đặng Nhàn",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Uống cùng canxi được k ạ? Hiện tại mình đang uống 2 viên Megacal 1000 chia sáng 1v, trưa 1v. Nếu vtm uống sáng hoặc trưa thì nên uống thế nào?",
+              "createdAt": "2026-08-26 08:52:54",
+              "createdAtDisplay": "10 ngày trước",
+              "updatedAt": "2026-08-25 22:29:07",
+              "replies": []
+            },
+            {
+              "id": 3363794,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0334xxxxxx",
+              "name": "Đặng nhàn",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Và tại sao k nên uống buổi tối ạ? Mình duy trì uống buổi tối viên vtm tổng hợp này đc khoảng 4 tháng rồi, do trước đây bạn nhân viên tư vấn uống tối",
+              "createdAt": "2026-08-26 09:11:07",
+              "createdAtDisplay": "10 ngày trước",
+              "updatedAt": "2026-08-25 22:29:07",
+              "replies": []
+            },
+            {
+              "id": 3363819,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Phương Vân",
+                "moderatorEmail": "vanntp@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Phương Vân",
+              "email": "vanntp@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Nhàn,</p><p>Dạ không nên uống Procare vào buổi tối vì các thành phần vitamin và khoáng chất trong thuốc có thể gây ảnh hưởng đến chất lượng giấc ngủ hoặc khó hấp thu tối ưu ạ</p><p>Nhà thuốc thông tin đến chị</p><p>Thân mến!</p>",
+              "createdAt": "2026-08-26 09:28:58",
+              "createdAtDisplay": "10 ngày trước",
+              "updatedAt": "2026-08-25 22:29:07",
+              "replies": []
+            },
+            {
+              "id": 3363821,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Phương Vân",
+                "moderatorEmail": "vanntp@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Phương Vân",
+              "email": "vanntp@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Nhàn,</p><p>Dạ do trong sản phẩm cũng có chứa canci nên để tránh quá liều chị vui lòng tham khảo ý kiến bác sĩ trước khi dùng để đảm bảo an toàn ạ</p><p>Nhà thuốc thông tin đến chị</p><p>Thân mến!</p>",
+              "createdAt": "2026-08-26 09:29:57",
+              "createdAtDisplay": "10 ngày trước",
+              "updatedAt": "2026-08-25 22:29:07",
+              "replies": []
+            }
+          ],
+          "totalReplies": 8
+        },
+        {
+          "id": 3356052,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0847xxxxxx",
+          "name": "Phạm Thủy Tiên",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tôi có dự định mang thai thì bổ sung sản phẩm này rồi, có phải bổ sung thêm vitamin nào khác k ạ? Và thời gian dùng thuốc là vào buổi nào?",
+          "createdAt": "2026-08-12 08:22:42",
+          "createdAtDisplay": "24 ngày trước",
+          "updatedAt": "2026-08-12 08:22:42",
+          "replies": [
+            {
+              "id": 3356169,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Trần Thủy Tiên",
+                "moderatorEmail": "tienntt19@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Trần Thủy Tiên",
+              "email": "tienntt19@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Tiên,</p><p>Dạ Viên uống Diamond đang hỗ trợ bổ sung khá đầy đủ dưỡng chất cần thiết cho phụ nữ có thai và cho con bú. Chị có thể dùng 1 viên Procare Diamond mỗi ngày.</p><p>Nhà thuốc xin phép thông tin đến chị ạ.</p>",
+              "createdAt": "2026-08-12 10:23:34",
+              "createdAtDisplay": "24 ngày trước",
+              "updatedAt": "2026-08-12 08:22:42",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3349576,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0327xxxxxx",
+          "name": "chị cúc",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "loại này k có thai và cho con bú uống đc k ạ",
+          "createdAt": "2026-07-31 14:02:06",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-31 14:02:06",
+          "replies": [
+            {
+              "id": 3349578,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Chu Thị Tuyết Nhung",
+                "moderatorEmail": "nhungctt3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Chu Thị Tuyết Nhung",
+              "email": "nhungctt3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Cúc,</p><p>Viên uống Procare Diamond không có thai và cho con bú mình vẫn có thể sử dụng ạ</p><p>Nhà thuốc thông tin tới chị.</p>",
+              "createdAt": "2026-07-31 14:05:50",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-31 14:02:06",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3326440,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0366xxxxxx",
+          "name": "Nguyễn Huyền",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc này tôi mua cho người lớn bạn nam\n Uống để bổ xung các vitamin nhóm B do hiến máu về thiếu hụt gây cảm giác mệt mỏi",
+          "createdAt": "2026-06-22 18:05:53",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-22 18:05:53",
+          "replies": [
+            {
+              "id": 3326447,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Bùi Cường Vi",
+                "moderatorEmail": "vibc@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Bùi Cường Vi",
+              "email": "vibc@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Huyền,</p><p>Dạ mặc dù Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú&nbsp; có chứa các vitamin nhóm B, sản phẩm này được bào chế với công thức và hàm lượng vi chất đặc thù riêng cho phụ nữ có thai và cho con bú. Do đó, nam giới không nên uống loại thuốc này để bù máu trừ khi có chỉ định cụ thể từ bác sĩ ạ.</p><p>Nhà thuốc thông tin đến chị ạ.</p>",
+              "createdAt": "2026-06-22 18:15:55",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-22 18:05:53",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3324660,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0869xxxxxx",
+          "name": "CHỊ HÂN",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mình uống thuốc này cùng lúc với sắt có được không ạ",
+          "createdAt": "2026-06-18 12:13:42",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-18 12:13:42",
+          "replies": [
+            {
+              "id": 3324666,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Phương Lan",
+                "moderatorEmail": "lannp9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Phương Lan",
+              "email": "lannp9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hân,</p><p>Dạ Procare Diamond đã chứa sẵn 24mg sắt nguyên tố (dưới dạng Sắt Fumarat) trong mỗi viên. Do đó, trong hầu hết các trường hợp, không cần uống thêm sắt bên ngoài để tránh tình trạng dư thừa sắt. Nếu được chỉ định dùng thêm sắt mình có thể dùng chung với sắt ạ.</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-06-18 12:23:52",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-18 12:13:42",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 55,
+      "items": [
+        {
+          "id": 3322951,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0862xxxxxx",
+          "name": "Nguyễn Thị Kiều Thương",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "dạ mình uống viên này trước hay sau ăn ạ",
+          "createdAt": "2026-06-15 18:32:52",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-15 18:32:52",
+          "replies": [
+            {
+              "id": 3322956,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Quỳnh Trâm Anh",
+                "moderatorEmail": "anhmqt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mai Quỳnh Trâm Anh",
+              "email": "anhmqt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Thương,</p><p>Dạ chị có thể dùng sau bửa ăn ạ.</p><p>Nhà thuốc thông tin tới Chị.</p>",
+              "createdAt": "2026-06-15 18:47:48",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-15 18:32:52",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3290528,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0965xxxxxx",
+          "name": "chi thơ",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "loại này với loại procare với procare diamond loại nào tốt hơn ạ.",
+          "createdAt": "2026-04-14 11:43:13",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-14 11:43:13",
+          "replies": [
+            {
+              "id": 3290536,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Lê Hải Bình",
+                "moderatorEmail": "binhtlh@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Lê Hải Bình",
+              "email": "binhtlh@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Thơ,</p><p>Dạ khác với sản phẩm Thuốc PM Procare Catalent bổ sung DHA, EPA, Vitamin và khoáng chất (30 viên) thì sản phẩm Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên) đặc biệt dùng được cho giai đoạn trước trong và sau khi mang thai nhằm đáp ứng nhu cầu vitamin và khoáng chất tăng lên của cơ thể người phụ nữ trong giai đoạn này. Cung cấp acid folic, nếu dùng hàng ngày từ 1 tháng trước khi thụ thai và trong suốt thời kỳ mang thai giúp cho việc mang thai được bình thường và khỏe mạnh ạ.</p><p>Tùy vào tình trạng hiện tại, chị có thể tham khảo thêm ý kiến bác sĩ để đảm bảo an toàn vào hiệu quả ạ.</p><p>Nhà thuốc xin phép thông tin đến chị ạ.</p>",
+              "createdAt": "2026-04-14 12:06:34",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-14 11:43:13",
+              "replies": []
+            },
+            {
+              "id": 3301631,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0978xxxxxx",
+              "name": "Đinh Xuân",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Sản phẩm này còn hàng không, tôi muốn mua 3 lọ",
+              "createdAt": "2026-05-05 16:20:24",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-14 11:43:13",
+              "replies": []
+            },
+            {
+              "id": 3301634,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Vũ Tiến Thành",
+                "moderatorEmail": "thanhvt57@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Vũ Tiến Thành",
+              "email": "thanhvt57@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Xuân,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-05-05 16:24:22",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-14 11:43:13",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3279209,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0868xxxxxx",
+          "name": "NGUYỄN THỊ SAN",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mình uống loại này xong nên uống thêm sắt với canxxi ko ạ",
+          "createdAt": "2026-03-24 11:07:59",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-24 11:07:59",
+          "replies": [
+            {
+              "id": 3279222,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Ngọc Lan Vi",
+                "moderatorEmail": "vilnl@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Ngọc Lan Vi",
+              "email": "vilnl@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị San,</p><p>Dạ tuỳ theo tình trạng sức khỏe sẽ có nhu cầu bổ sung vitamin và khoáng chất khác nhau. Sản phẩm cung cấp lượng vitamin và khoáng chất thiết yếu, giúp cân bằng dinh dưỡng cho phụ nữ đang mang thai và cho con bú ạ.</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-03-24 11:27:41",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-24 11:07:59",
+              "replies": []
+            },
+            {
+              "id": 3289818,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0888xxxxxx",
+              "name": "Nguyễn Thị Huệ",
+              "email": "annhien2017.h@gmail.com",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Hôm qua mua mà quên hỏi cách hướng dẫn sử dụng , không biết uống buổi nào trước hay sau ăn \n\n",
+              "createdAt": "2026-04-13 08:54:55",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-03-24 11:07:59",
+              "replies": []
+            },
+            {
+              "id": 3289870,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Quý",
+                "moderatorEmail": "quyntn@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Ngọc Quý",
+              "email": "quyntn@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị <strong>Nguyễn Thị Huệ,</strong></p><p>Dạ Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên) chị uống 1 viên Procare Diamond mỗi ngày, sau ăn ạ</p><p>Nhà thuốc thông tin tới chị.</p>",
+              "createdAt": "2026-04-13 09:55:59",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-03-24 11:07:59",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3266786,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0374xxxxxx",
+          "name": "Bùi Lệ",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mình mua về uống nhưng chắc thuốc bị vỡ, viên thuốc bết dính, nồng mùi dầu cá. Mình có nên uống không và nếu có thì bảo quản thế nào? mong nhà thuốc phản hồi ạ.",
+          "createdAt": "2026-03-01 07:33:30",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-03-01 07:33:30",
+          "replies": [
+            {
+              "id": 3266808,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Mạnh Hà",
+                "moderatorEmail": "hahm5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Mạnh Hà",
+              "email": "hahm5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Lệ,</p><p>Dạ Bảo quản ở nhiệt độ dưới 25°C ở nơi khô ráo tránh nóng và ánh sáng mặt trời. Tránh ẩm.Cần vặn chặt nắp sau mỗi lần mở lọ.</p><p>Không để thuốc trong ngăn đá tủ lạnh - Không vứt bỏ gói chống ẩm trong lọ thuốc trong suốt quá trình sử dụng.</p><p>Không để thuốc trong cốp xe, gần bếp hay gần nguồn nhiệt khác. (Lưu ý: Một số trường hợp lọ thuốc có lớp dầu bao quanh viên nhiều, gói hút ẩm khô tơi có màu trắng đến ngà nhẹ: Chất lượng thuốc vẫn đảm bảo).</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-03-01 08:21:11",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-03-01 07:33:30",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3256027,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0332xxxxxx",
+          "name": "Quỳnh",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "E mới bầu được 5 tuần thì uống loại này luôn có muộn chưa ạ? Liều dùng mỗi ngày là bao nhiêu viên và uống vào khi nào là tốt nhất ạ?",
+          "createdAt": "2026-02-04 11:06:25",
+          "createdAtDisplay": "7 tháng trước",
+          "updatedAt": "2026-02-04 11:06:25",
+          "replies": [
+            {
+              "id": 3256030,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Đỗ Diệp Minh",
+                "moderatorEmail": "minhdd38@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Đỗ Diệp Minh",
+              "email": "minhdd38@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Quỳnh,</p><p>Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên) bầu 5 tháng mình có thể uống. Chị uống 1 viên Procare Diamond mỗi ngày hoặc theo chỉ định của bác sỹ.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-02-04 11:15:38",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-02-04 11:06:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 4.9,
+      "ratingLev": {
+        "totalLv1": 1,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 54
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_7021_60ee_large_89e91ba6fb.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_1391_60ee_large_9e2677f146.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_6084_60ee_large_069c93753c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_2161_6116_large_77022108a8_34dac5e581.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_1245_6116_large_b1e442d7ec.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Viên uống “Procare Diamond” do công ty Catalent Australia Pty Ltd – Úc sản xuất, nhóm vitamin khoáng chất nhằm đáp ứng nhu cầu vitamin và khoáng chất tăng lên của cơ thể người phụ nữ có thai và cho con bú.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.9",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Trần Thị Dương"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "55"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/procare-diamond-216mg-2522.html",
+        "priceCurrency": "VND",
+        "price": 420000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Thuốc bổ Procare Diamond 216mg cho bà bầu (Hộp 30 viên)",
+      "description": "Procare Diamond bổ sung các nhóm vitamin, khoáng chất cần thiết nhằm đáp ứng nhu cầu cho phụ nữ có thai và cho con bú. Xem ngay thành phần và giá bán!",
+      "openGraph": {
+        "title": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên)",
+        "description": "Viên uống&nbsp;“Procare Diamond” do công ty Catalent Australia Pty Ltd – Úc sản xuất, nhóm vitamin&nbsp;khoáng chất nhằm&nbsp;đáp ứng nhu cầu vitamin và khoáng chất tăng lên của cơ thể người phụ nữ&nbsp;có thai và cho con bú.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_7021_60ee_large_89e91ba6fb.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/procare-diamond-216mg-2522.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/procare-diamond-216mg-2522.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

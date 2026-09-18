@@ -1,0 +1,772 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/cttoren-400-us-pharma-usa-1-vi-x-10-vien-34085.html",
+  "ingestion_timestamp": "2026-09-05T09:05:16.282510+00:00",
+  "file_hash": "2bf46e68171c91b9d525d1deeb741d2a501f509fd32192800ff905006504b9af",
+  "lineage_hash": "3e5bf2119d44357a68e4a6a45f472cdeeb3062c80a55c3bb91544a45cae39d7b",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/cttoren-400-us-pharma-usa-1-vi-x-10-vien-34085.html",
+    "product": {
+      "sku": "00500009",
+      "webName": "Thuốc Cttoren 400 USP điều trị nhiễm khuẩn (1 vỉ x 10 viên)",
+      "name": "CTTOREN 400 US PHARMA USA 1X10",
+      "shortName": "CTTOREN 400 US PHARMA USA 1X10",
+      "headingText": "Thuốc Cttoren 400",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cttoren_1932c9a797.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 731,
+          "name": "Thuốc kháng sinh, kháng nấm",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 781,
+          "name": "Thuốc kháng sinh",
+          "parentName": "Thuốc kháng sinh, kháng nấm",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 1 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "1 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/cttoren-400-us-pharma-usa-1-vi-x-10-vien-34085.html",
+      "ingredient": [
+        {
+          "id": 43466,
+          "ingredientId": 13571,
+          "shortDescription": "400mg",
+          "name": "Cefditoren",
+          "isPrimary": false,
+          "slug": "thanh-phan/cefditoren"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-34221-20",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc Cttoren 400 dùng đường uống, nên uống nguyên viên thuốc cùng với bữa ăn nhằm làm tăng hấp thu thuốc vào máu.</p><h3>Liều dùng</h3><p><i>Liều cho người lớn và trẻ em trên 12 tuổi:</i> 200 – 400 mg/lần, 2 lần/ngày.</p><p><i>Viêm phổi mắc phải cộng đồng:</i> 400 mg/lần, 2 lần/ngày. Thời gian điều trị 14 ngày.</p><p><i>Đợt cấp của viêm phế quản mạn: </i>400 mg/lần, 2 lần/ngày. Thời gian điều trị 10 ngày.</p><p><i>Viêm họng và viêm amidan: </i>200 mg/lần, 2 lần/ngày. Thời gian điều trị 10 ngày.</p><p><i>Nhiễm khuẩn da và tổ chức dưới da: </i>200 mg/lần, 2 lần/ngày. Thời gian điều trị 10 ngày.</p><p>Liều cho bệnh nhân suy thận:</p><ul><li>Suy thận nhẹ (Clcr 50 – 80 ml/phút): Không cần hiệu chỉnh liều.</li><li>Suy thận vừa (Clcr 30 – 49 ml/phút): Khuyến cáo chỉ dùng tối đa 200 mg/lần, 2 lần/ngày.</li><li>Suy thận nặng (Clcr &lt; 30 ml/phút): Khuyến cáo chỉ dùng tối đa 200 mg/lần, 1 lần/ngày.</li><li>Suy thận giai đoạn cuối: Chưa xác định được liều phù hợp.</li></ul><p>Liều cho bệnh nhân suy gan:</p><ul><li>Suy gan nhẹ và vừa: Không cần hiệu chỉnh liều.</li><li>Suy gan nặng: Chưa có thông tin về dược động học của cefditoren ở những bệnh nhân này.</li></ul><p>Liều cho người cao tuổi:</p><ul><li>Không có khuyến cáo nếu bệnh nhân có chức năng thận bình thường.</li></ul><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Không có thông tin về việc dùng quá liều cefditoren pivoxil ở người. Tuy nhiên, như các kháng sinh beta-lactam khác, tác dụng không mong muốn sau khi dùng quá liều bao gồm buồn nôn, nôn mửa, đau vùng thượng vị, tiêu chảy, và co giật. Thẩm phân máu có thể hỗ trợ trong việc loại bỏ cefditoren khỏi cơ thể, đặc biệt nếu chức năng thận bị tổn thương (giảm 30% nồng độ trong huyết tương sau 4 giờ thẩm phân máu).</p><p>Nếu có bất cứ triệu chứng quá liều nào thì ngưng dùng thuốc ngay và thông báo ngay cho bác sĩ.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3>Làm gì khi quên 1 liều?</h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/cttoren-400-us-pharma-usa-1-vi-x-10-vien-34085.html\">Thuốc Cttoren 400</a> dùng cho những trường hợp sau:</p><ul><li>Cefditoren được chỉ định cho những trường hợp nhiễm khuẩn do vi khuẩn Gram âm, Gram dương nhạy cảm, bao gồm các nhiễm khuẩn đường hô hấp, nhiễm khuẩn da và tổ chức dưới da.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/viem-phoi-180.html\">Viêm phổi</a> mắc phải cộng đồng do các tác nhân Haemophilus influenzae (gồm cả chủng sinh beta-lactamase), Haemophilus parainfluenzae (gồm cả chủng sinh beta-lactamase), Moraxella catarrhalis (gồm cả chủng sinh beta-lactamase), Streptococcus pneumoniae (chủng nhạy cảm với penicillin).</li><li>Đợt cấp của <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phe-quan-man-tinh-179.html\">viêm phế quản mạn</a> cũng do các tác nhân Haemophilus influenzae (gồm cả chủng sinh beta-lactamase), Haemophilus parainfluenzae (gồm cả chủng sinh beta-lactamase), Moraxella catarrhalis (gồm cả chủng sinh beta-lactamase), Streptococcus pneumoniae (chủng nhạy cảm với penicillin).</li><li>Viêm họng và <a href=\"https://nhathuoclongchau.com.vn/benh/viem-amidan-467.html\">viêm amiđan</a> do Streptococcus pyogenes (liên cầu beta tan máu nhóm A) nhạy cảm.</li><li>Nhiễm khuẩn da và tổ chức dưới da do Staphylococcus aureus (gồm cả chủng sinh beta-lactamase) và Streptococcus pyogenes nhạy cảm.</li></ul><h3>Dược lực học</h3><p>Cefditoren pivoxil là một kháng sinh bán tổng hợp nhóm cephalosporin thế hệ 3 được sử dụng theo đường uống dùng trong điều trị các bệnh nhiễm khuẩn cấp tính hoặc đợt cấp của viêm phế quản mạn tính, viêm phổi mắc phải tại cộng đồng do các vi khuẩn nhạy cảm gây ra, bao gồm: Haemophilus influenzae, Haemophilus parainfluenzae, Streptococcus pneumoniae nhạy cảm với penicillin, Moraxella catarrhalis, viêm họng (Streptococcus pyogenes), nhiễm trùng da và tổ chức da không biến chứng (Staphylococcus aureus không có đa kháng, Streptococcus pyogenes).</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/cefditoren\">Cefditoren</a> bền vững với nhiều loại beta-lactamase (bao gồm penicillinase và một số cephalosporin) do các vi khuẩn Gram âm và Gram dương sinh ra. Tương tự như các cephalosporin thế hệ 3 hiện nay (cefdinir, cefixim, ceftibuten, cefpodoxim) cefditoren có phổ kháng các vi khuẩn Gram âm rộng hơn so với cephalosporin thế hệ thứ nhất và thứ hai. Hơn nữa, cefditoren tác dụng với các vi khuẩn Gram dương tốt hơn so với các cephalosporin thế hệ thứ ba khác vì cấu trúc cefditoren có nhóm methylthiazolyl, trong khi các cephalosporin thế hệ thứ ba khác không có.</p><p>Cơ chế tác dụng của cefditoren pivoxil tương tự như các kháng sinh thuộc nhóm cephalosporin thế hệ 3. Cefditoren pivoxil là một tiền thuốc (prodrug) có rất ít tác dụng kháng khuẩn. Cefditoren pivoxil được hấp thu theo đường tiêu hóa và bị thủy phân bởi các esterase để giải phóng thành cefditoren có hoạt tính và pivalat vào trong máu. Cefditoren có tác dụng ức chế tổng hợp thành tế bào vi khuẩn bằng cách gắn vào một hoặc nhiều protein gắn penicillin (penicillin binding protein – PBPs) làm ức chế bước cuối cùng chuyển acid amin giữa các chuỗi peptid của tổng hợp peptidoglycan ở thành tế bào vi khuẩn, do đó ức chế sinh tổng hợp thành tế bào vi khuẩn. Vi khuẩn bị ly giải do hoạt tính của các emzym autolysin và murein hydrolase.</p><h3>Dược động học</h3><p><i>Hấp thu: </i>Cefditoren pivoxil được hấp thu theo đường tiêu hóa và bị thủy phân bởi các esterase thành cefditoren có hoạt tính và pivalat vào trong máu. Khi uống lúc đói liều 200 mg cefditoren, nồng độ cao nhất đạt được trong huyết tương khoảng 1,8 microgram/ml sau khi uống 1,5 – 3 giờ. Sinh khả dụng khi uống lúc đói đạt được khoảng 14% và tăng lên nếu uống cùng bữa ăn có nhiều mỡ.</p><p><i>Phân bố:</i> Thể tích phân bố là 9,3 ± 1,6 lít. Tỷ lệ gắn với protein huyết tương của cefditoren là 88%.</p><p><i>Chuyển hóa và thải trừ:</i> Cefditoren không bị chuyển hoá nhiều và bài tiết chính qua nước tiểu dưới dạng không đổi bằng lọc ở cầu thận và bài tiết ở ống thận. Thuốc có thể được thải trừ bằng lọc máu ngoài thận. Thời gian bán thải của thuốc khoảng 1,6 giờ và kéo dài hơn ở những bệnh nhân suy giảm chức năng thận. Pivalat được hình thành do quá trình thủy phân cefditoren pivoxil sẽ kết hợp với cartinin trong máu tạo thành pivaloylcartinin và được bài tiết ra ngoài qua nước tiểu.</p><p><strong>Đối tượng đặc biệt:</strong></p><p><i>Người cao tuổi:</i></p><p>Ảnh hưởng của tuổi tác trên dược động học của cefditoren đã được đánh giá trên 48 đối tượng nam và nữ từ 25 đến 75 tuổi được cho uống 400 mg cefditoren pivoxil (ngày 2 lần) trong 7 ngày. Các thay đổi về sinh lý liên quan đến tuổi cho thấy có sự gia tăng nồng độ cefditoren trong <a href=\"https://nhathuoclongchau.com.vn/bai-viet/huyet-tuong-la-gi-huyet-tuong-co-chuc-nang-gi-72674.html\">huyết tương</a>, cụ thể là Cmax cao hơn 26% và AUC cao hơn 33% ở các đối tượng từ 65 tuổi trở lên so với các đối tượng trẻ hơn. Nồng độ thanh thải cefditoren từ huyết tương thấp hơn trên các đối tượng ≥ 65 tuổi, với thời gian bán thải dài hơn 16-26% so với đối tượng trẻ hơn.</p><p>Độ thanh thải cefditoren ở thận ở những bệnh nhân tuổi từ 65 trở lên thấp hơn 20-24% so với người trẻ.</p><p>Không cần điều chỉnh liều ở những bệnh nhân cao tuổi có chức năng thận bình thường.</p><p><i>Giới tính:</i></p><p>Ảnh hưởng của giới tính lên dược động học của cefditoren đã được đánh giá ở 24 nam và 24 nữ được dùng 400 mg cefditoren pivoxil (ngày 2 lần) trong 7 ngày. Nồng độ cefditoren trong huyết tương của nữ giới cao hơn so với nam giới, bằng chứng là Cmax cao hơn 14% và AUC cao hơn 16%. Độ thanh thải cefditoren ở thận ở nữ giới là thấp hơn 13% so với nam giới.</p><p>Tuy nhiên không cần điều chỉnh liều theo giới tính.</p><p><i>Bệnh nhân suy thận:</i></p><p>Dược động học cefditoren được nghiên cứu trên 24 đối tượng người lớn với mức độ chức năng thận khác sau khi dùng cefditoren pivoxil 400 mg (ngày 2 lần) trong 7 ngày.</p><p>Việc giảm độ thanh thải creatinin (Clcr) có liên quan với sự gia tăng tỷ lệ cefditoren không liên kết trong huyết tương và giảm tỷ lệ thải trừ cefditoren, dẫn đến nồng độ huyết tương cefditoren cao hơn ở những bệnh nhân bị suy thận.</p><p>Không liều cần điều chỉnh cho bệnh nhân suy thận nhẹ (Clcr: 50 - 80 ml/phút/1.73m<sup>2</sup>). Không nên dùng hơn 200 mg (ngày 2 lần) cho bệnh nhân suy thận trung bình (Clcr: 30 - 49 ml/phút/1.73m<sup>2</sup>) và 200 mg (ngày 1 lần) cho bệnh nhân suy thận nặng (Clcr: &lt;30 ml/phút/1.73m<sup>2</sup>).</p><p><i>Thẩm phân máu:</i></p><p>Nghiên cứu dược động học cefditoren ở 6 người trưởng thành bị bệnh thận giai đoạn cuối (ESRD) đang được thẩm tách máu với một liều duy nhất 400 mg cefditoren pivoxil là rất khác nhau. Thời gian bán thải trung bình là 4,7 giờ và dao động từ 1,5 đến 15 giờ. Thẩm phân máu (4 giờ) loại bỏ khoảng 30% cefditoren và không làm thay đổi thời gian bán hủy cuối cùng. Liều thích hợp cho bệnh nhân ESRD chưa được xác định.</p><p><i>Bệnh nhân suy gan:</i></p><p>Nghiên cứu dược động học cefditoren ở 6 đối tượng người lớn có bệnh suy giảm chức năng gan nhẹ (Child-Pugh A) và 6 trường hợp suy gan trung bình (Child - Pugh B), sau khi dùng cefditoren pivoxil 400 mg (ngày 2 lần) trong 7 ngày, giá trị Cmax và AUC trung bình ở mức cao hơn một chút (&lt;15%) so với những người có chức năng gan bình thường. Không cần điều chỉnh liều cho bệnh nhân suy gan nhẹ hoặc trung bình (Child - Pugh A hoặc B). Dược động học của cefditoren trên những người bị suy gan nặng (Child - Pugh C) chưa được nghiên cứu.</p>",
+      "brand": "Usp",
+      "brandType": null,
+      "adverseEffect": "<p>Các tác dụng không mong muốn do cefditoren thường nhẹ bao gồm:</p><p><i>ADR &gt; 10%: </i>Tiêu chảy.</p><p><i>1% &lt; ADR &lt; 10%:</i></p><ul><li>Hệ thần kinh trung ương: Đau đầu.</li><li>Nội tiết và chuyển hóa: Tăng glucose máu.</li><li>Tiêu hóa: Buồn nôn, đau bụng, chán ăn, nôn.</li><li>Sinh dục: Viêm âm đạo.</li><li>Huyết học: Giảm hematocrit.</li><li>Thận: Tiểu ra máu, bạch cầu niệu.</li></ul><p><i>ADR &lt; 1%: </i>Hiếm gặp nhưng nguy hiểm hoặc gây đe dọa tính mạng.</p><p>Suy thận cấp, dị ứng, đau khớp, hen phế quản, giảm calci máu, tăng thời gian đông máu, tăng glucose huyết, viêm phổi kẽ, giảm bạch cầu, tăng kali máu, giảm natri máu, nhiễm nấm, hội chứng Stevens – Johnson, triệu chứng viêm đại tràng giả mạc, xuất huyết giảm tiểu cầu, hoại tử da nhiễm độc.</p><p><i>Hướng dẫn cách xử trí ADR:</i></p><p>Nếu quá mẫn xảy ra, nên ngừng thuốc, trường hợp quá mẫn nặng, cần điều trị hỗ trợ (dùng epinephrine, oxygen, kháng histamin, corticosteroid).</p><p>Giảm tác dụng của prothrombin có thể xảy ra với những đối tượng có nguy cơ (người suy thận, suy gan, dinh dưỡng kém, sử dụng kháng sinh kéo dài, điều trị dài hạn thuốc chống đông), cần phải theo dõi thời gian đông máu và bổ sung vitamin K.</p><p>Nếu có co giật, ngừng cefditoren và dùng thuốc chống co giật.</p><p>Tiêu chảy do C. difficile và viêm đại tràng màng giả, nếu nhẹ chỉ cần ngừng thuốc. Với các trường hợp vừa và nặng cần truyền dịch, điện giải, bổ sung protein và điều trị bằng metronidazol.</p><p>Thông báo cho bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Hộp 1 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "CÔNG TY CỔ PHẨN US PHARMA USA",
+      "shortDescription": "<p>Thuốc Cttoren 400 dùng cho những trường hợp nhiễm khuẩn do vi khuẩn Gram âm, Gram dương nhạy cảm, bao gồm các nhiễm khuẩn đường hô hấp, nhiễm khuẩn da và tổ chức dưới da.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/usp",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "CTTOREN 400",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 1 Vỉ x 10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 781,
+        "name": "Thuốc kháng sinh",
+        "parentName": "Thuốc kháng sinh, kháng nấm",
+        "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cttoren_1932c9a797.jpg",
+          "alternativeText": "Thuốc Cttoren 400 USP điều trị nhiễm khuẩn (1 vỉ x 10 viên) 1"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc kháng sinh, kháng nấm",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam"
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh"
+      }
+    ],
+    "content": {
+      "sku": "00500009",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc Cttoren 400 dùng đường uống, nên uống nguyên viên thuốc cùng với bữa ăn nhằm làm tăng hấp thu thuốc vào máu.</p><h3>Liều dùng</h3><p><i>Liều cho người lớn và trẻ em trên 12 tuổi:</i> 200 – 400 mg/lần, 2 lần/ngày.</p><p><i>Viêm phổi mắc phải cộng đồng:</i> 400 mg/lần, 2 lần/ngày. Thời gian điều trị 14 ngày.</p><p><i>Đợt cấp của viêm phế quản mạn: </i>400 mg/lần, 2 lần/ngày. Thời gian điều trị 10 ngày.</p><p><i>Viêm họng và viêm amidan: </i>200 mg/lần, 2 lần/ngày. Thời gian điều trị 10 ngày.</p><p><i>Nhiễm khuẩn da và tổ chức dưới da: </i>200 mg/lần, 2 lần/ngày. Thời gian điều trị 10 ngày.</p><p>Liều cho bệnh nhân suy thận:</p><ul><li>Suy thận nhẹ (Clcr 50 – 80 ml/phút): Không cần hiệu chỉnh liều.</li><li>Suy thận vừa (Clcr 30 – 49 ml/phút): Khuyến cáo chỉ dùng tối đa 200 mg/lần, 2 lần/ngày.</li><li>Suy thận nặng (Clcr &lt; 30 ml/phút): Khuyến cáo chỉ dùng tối đa 200 mg/lần, 1 lần/ngày.</li><li>Suy thận giai đoạn cuối: Chưa xác định được liều phù hợp.</li></ul><p>Liều cho bệnh nhân suy gan:</p><ul><li>Suy gan nhẹ và vừa: Không cần hiệu chỉnh liều.</li><li>Suy gan nặng: Chưa có thông tin về dược động học của cefditoren ở những bệnh nhân này.</li></ul><p>Liều cho người cao tuổi:</p><ul><li>Không có khuyến cáo nếu bệnh nhân có chức năng thận bình thường.</li></ul><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Không có thông tin về việc dùng quá liều cefditoren pivoxil ở người. Tuy nhiên, như các kháng sinh beta-lactam khác, tác dụng không mong muốn sau khi dùng quá liều bao gồm buồn nôn, nôn mửa, đau vùng thượng vị, tiêu chảy, và co giật. Thẩm phân máu có thể hỗ trợ trong việc loại bỏ cefditoren khỏi cơ thể, đặc biệt nếu chức năng thận bị tổn thương (giảm 30% nồng độ trong huyết tương sau 4 giờ thẩm phân máu).</p><p>Nếu có bất cứ triệu chứng quá liều nào thì ngưng dùng thuốc ngay và thông báo ngay cho bác sĩ.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3>Làm gì khi quên 1 liều?</h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<p>Tham khảo thông tin nhà sản xuất thuốc.</p>",
+      "adverseEffect": "<p>Các tác dụng không mong muốn do cefditoren thường nhẹ bao gồm:</p><p><i>ADR &gt; 10%: </i>Tiêu chảy.</p><p><i>1% &lt; ADR &lt; 10%:</i></p><ul><li>Hệ thần kinh trung ương: Đau đầu.</li><li>Nội tiết và chuyển hóa: Tăng glucose máu.</li><li>Tiêu hóa: Buồn nôn, đau bụng, chán ăn, nôn.</li><li>Sinh dục: Viêm âm đạo.</li><li>Huyết học: Giảm hematocrit.</li><li>Thận: Tiểu ra máu, bạch cầu niệu.</li></ul><p><i>ADR &lt; 1%: </i>Hiếm gặp nhưng nguy hiểm hoặc gây đe dọa tính mạng.</p><p>Suy thận cấp, dị ứng, đau khớp, hen phế quản, giảm calci máu, tăng thời gian đông máu, tăng glucose huyết, viêm phổi kẽ, giảm bạch cầu, tăng kali máu, giảm natri máu, nhiễm nấm, hội chứng Stevens – Johnson, triệu chứng viêm đại tràng giả mạc, xuất huyết giảm tiểu cầu, hoại tử da nhiễm độc.</p><p><i>Hướng dẫn cách xử trí ADR:</i></p><p>Nếu quá mẫn xảy ra, nên ngừng thuốc, trường hợp quá mẫn nặng, cần điều trị hỗ trợ (dùng epinephrine, oxygen, kháng histamin, corticosteroid).</p><p>Giảm tác dụng của prothrombin có thể xảy ra với những đối tượng có nguy cơ (người suy thận, suy gan, dinh dưỡng kém, sử dụng kháng sinh kéo dài, điều trị dài hạn thuốc chống đông), cần phải theo dõi thời gian đông máu và bổ sung vitamin K.</p><p>Nếu có co giật, ngừng cefditoren và dùng thuốc chống co giật.</p><p>Tiêu chảy do C. difficile và viêm đại tràng màng giả, nếu nhẹ chỉ cần ngừng thuốc. Với các trường hợp vừa và nặng cần truyền dịch, điện giải, bổ sung protein và điều trị bằng metronidazol.</p><p>Thông báo cho bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p>Bảo quản thuốc ở nơi khô thoáng, nhiệt độ dưới 30<sup>o</sup>C, tránh ánh sáng.</p>",
+      "usage": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/cttoren-400-us-pharma-usa-1-vi-x-10-vien-34085.html\">Thuốc Cttoren 400</a> dùng cho những trường hợp sau:</p><ul><li>Cefditoren được chỉ định cho những trường hợp nhiễm khuẩn do vi khuẩn Gram âm, Gram dương nhạy cảm, bao gồm các nhiễm khuẩn đường hô hấp, nhiễm khuẩn da và tổ chức dưới da.</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/viem-phoi-180.html\">Viêm phổi</a> mắc phải cộng đồng do các tác nhân Haemophilus influenzae (gồm cả chủng sinh beta-lactamase), Haemophilus parainfluenzae (gồm cả chủng sinh beta-lactamase), Moraxella catarrhalis (gồm cả chủng sinh beta-lactamase), Streptococcus pneumoniae (chủng nhạy cảm với penicillin).</li><li>Đợt cấp của <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phe-quan-man-tinh-179.html\">viêm phế quản mạn</a> cũng do các tác nhân Haemophilus influenzae (gồm cả chủng sinh beta-lactamase), Haemophilus parainfluenzae (gồm cả chủng sinh beta-lactamase), Moraxella catarrhalis (gồm cả chủng sinh beta-lactamase), Streptococcus pneumoniae (chủng nhạy cảm với penicillin).</li><li>Viêm họng và <a href=\"https://nhathuoclongchau.com.vn/benh/viem-amidan-467.html\">viêm amiđan</a> do Streptococcus pyogenes (liên cầu beta tan máu nhóm A) nhạy cảm.</li><li>Nhiễm khuẩn da và tổ chức dưới da do Staphylococcus aureus (gồm cả chủng sinh beta-lactamase) và Streptococcus pyogenes nhạy cảm.</li></ul><h3>Dược lực học</h3><p>Cefditoren pivoxil là một kháng sinh bán tổng hợp nhóm cephalosporin thế hệ 3 được sử dụng theo đường uống dùng trong điều trị các bệnh nhiễm khuẩn cấp tính hoặc đợt cấp của viêm phế quản mạn tính, viêm phổi mắc phải tại cộng đồng do các vi khuẩn nhạy cảm gây ra, bao gồm: Haemophilus influenzae, Haemophilus parainfluenzae, Streptococcus pneumoniae nhạy cảm với penicillin, Moraxella catarrhalis, viêm họng (Streptococcus pyogenes), nhiễm trùng da và tổ chức da không biến chứng (Staphylococcus aureus không có đa kháng, Streptococcus pyogenes).</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/cefditoren\">Cefditoren</a> bền vững với nhiều loại beta-lactamase (bao gồm penicillinase và một số cephalosporin) do các vi khuẩn Gram âm và Gram dương sinh ra. Tương tự như các cephalosporin thế hệ 3 hiện nay (cefdinir, cefixim, ceftibuten, cefpodoxim) cefditoren có phổ kháng các vi khuẩn Gram âm rộng hơn so với cephalosporin thế hệ thứ nhất và thứ hai. Hơn nữa, cefditoren tác dụng với các vi khuẩn Gram dương tốt hơn so với các cephalosporin thế hệ thứ ba khác vì cấu trúc cefditoren có nhóm methylthiazolyl, trong khi các cephalosporin thế hệ thứ ba khác không có.</p><p>Cơ chế tác dụng của cefditoren pivoxil tương tự như các kháng sinh thuộc nhóm cephalosporin thế hệ 3. Cefditoren pivoxil là một tiền thuốc (prodrug) có rất ít tác dụng kháng khuẩn. Cefditoren pivoxil được hấp thu theo đường tiêu hóa và bị thủy phân bởi các esterase để giải phóng thành cefditoren có hoạt tính và pivalat vào trong máu. Cefditoren có tác dụng ức chế tổng hợp thành tế bào vi khuẩn bằng cách gắn vào một hoặc nhiều protein gắn penicillin (penicillin binding protein – PBPs) làm ức chế bước cuối cùng chuyển acid amin giữa các chuỗi peptid của tổng hợp peptidoglycan ở thành tế bào vi khuẩn, do đó ức chế sinh tổng hợp thành tế bào vi khuẩn. Vi khuẩn bị ly giải do hoạt tính của các emzym autolysin và murein hydrolase.</p><h3>Dược động học</h3><p><i>Hấp thu: </i>Cefditoren pivoxil được hấp thu theo đường tiêu hóa và bị thủy phân bởi các esterase thành cefditoren có hoạt tính và pivalat vào trong máu. Khi uống lúc đói liều 200 mg cefditoren, nồng độ cao nhất đạt được trong huyết tương khoảng 1,8 microgram/ml sau khi uống 1,5 – 3 giờ. Sinh khả dụng khi uống lúc đói đạt được khoảng 14% và tăng lên nếu uống cùng bữa ăn có nhiều mỡ.</p><p><i>Phân bố:</i> Thể tích phân bố là 9,3 ± 1,6 lít. Tỷ lệ gắn với protein huyết tương của cefditoren là 88%.</p><p><i>Chuyển hóa và thải trừ:</i> Cefditoren không bị chuyển hoá nhiều và bài tiết chính qua nước tiểu dưới dạng không đổi bằng lọc ở cầu thận và bài tiết ở ống thận. Thuốc có thể được thải trừ bằng lọc máu ngoài thận. Thời gian bán thải của thuốc khoảng 1,6 giờ và kéo dài hơn ở những bệnh nhân suy giảm chức năng thận. Pivalat được hình thành do quá trình thủy phân cefditoren pivoxil sẽ kết hợp với cartinin trong máu tạo thành pivaloylcartinin và được bài tiết ra ngoài qua nước tiểu.</p><p><strong>Đối tượng đặc biệt:</strong></p><p><i>Người cao tuổi:</i></p><p>Ảnh hưởng của tuổi tác trên dược động học của cefditoren đã được đánh giá trên 48 đối tượng nam và nữ từ 25 đến 75 tuổi được cho uống 400 mg cefditoren pivoxil (ngày 2 lần) trong 7 ngày. Các thay đổi về sinh lý liên quan đến tuổi cho thấy có sự gia tăng nồng độ cefditoren trong <a href=\"https://nhathuoclongchau.com.vn/bai-viet/huyet-tuong-la-gi-huyet-tuong-co-chuc-nang-gi-72674.html\">huyết tương</a>, cụ thể là Cmax cao hơn 26% và AUC cao hơn 33% ở các đối tượng từ 65 tuổi trở lên so với các đối tượng trẻ hơn. Nồng độ thanh thải cefditoren từ huyết tương thấp hơn trên các đối tượng ≥ 65 tuổi, với thời gian bán thải dài hơn 16-26% so với đối tượng trẻ hơn.</p><p>Độ thanh thải cefditoren ở thận ở những bệnh nhân tuổi từ 65 trở lên thấp hơn 20-24% so với người trẻ.</p><p>Không cần điều chỉnh liều ở những bệnh nhân cao tuổi có chức năng thận bình thường.</p><p><i>Giới tính:</i></p><p>Ảnh hưởng của giới tính lên dược động học của cefditoren đã được đánh giá ở 24 nam và 24 nữ được dùng 400 mg cefditoren pivoxil (ngày 2 lần) trong 7 ngày. Nồng độ cefditoren trong huyết tương của nữ giới cao hơn so với nam giới, bằng chứng là Cmax cao hơn 14% và AUC cao hơn 16%. Độ thanh thải cefditoren ở thận ở nữ giới là thấp hơn 13% so với nam giới.</p><p>Tuy nhiên không cần điều chỉnh liều theo giới tính.</p><p><i>Bệnh nhân suy thận:</i></p><p>Dược động học cefditoren được nghiên cứu trên 24 đối tượng người lớn với mức độ chức năng thận khác sau khi dùng cefditoren pivoxil 400 mg (ngày 2 lần) trong 7 ngày.</p><p>Việc giảm độ thanh thải creatinin (Clcr) có liên quan với sự gia tăng tỷ lệ cefditoren không liên kết trong huyết tương và giảm tỷ lệ thải trừ cefditoren, dẫn đến nồng độ huyết tương cefditoren cao hơn ở những bệnh nhân bị suy thận.</p><p>Không liều cần điều chỉnh cho bệnh nhân suy thận nhẹ (Clcr: 50 - 80 ml/phút/1.73m<sup>2</sup>). Không nên dùng hơn 200 mg (ngày 2 lần) cho bệnh nhân suy thận trung bình (Clcr: 30 - 49 ml/phút/1.73m<sup>2</sup>) và 200 mg (ngày 1 lần) cho bệnh nhân suy thận nặng (Clcr: &lt;30 ml/phút/1.73m<sup>2</sup>).</p><p><i>Thẩm phân máu:</i></p><p>Nghiên cứu dược động học cefditoren ở 6 người trưởng thành bị bệnh thận giai đoạn cuối (ESRD) đang được thẩm tách máu với một liều duy nhất 400 mg cefditoren pivoxil là rất khác nhau. Thời gian bán thải trung bình là 4,7 giờ và dao động từ 1,5 đến 15 giờ. Thẩm phân máu (4 giờ) loại bỏ khoảng 30% cefditoren và không làm thay đổi thời gian bán hủy cuối cùng. Liều thích hợp cho bệnh nhân ESRD chưa được xác định.</p><p><i>Bệnh nhân suy gan:</i></p><p>Nghiên cứu dược động học cefditoren ở 6 đối tượng người lớn có bệnh suy giảm chức năng gan nhẹ (Child-Pugh A) và 6 trường hợp suy gan trung bình (Child - Pugh B), sau khi dùng cefditoren pivoxil 400 mg (ngày 2 lần) trong 7 ngày, giá trị Cmax và AUC trung bình ở mức cao hơn một chút (&lt;15%) so với những người có chức năng gan bình thường. Không cần điều chỉnh liều cho bệnh nhân suy gan nhẹ hoặc trung bình (Child - Pugh A hoặc B). Dược động học của cefditoren trên những người bị suy gan nặng (Child - Pugh C) chưa được nghiên cứu.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p>Thuốc Cttoren 400 chống chỉ định trong các trường hợp sau:</p><ul><li>Bệnh nhân dị ứng với cefditoren, kháng sinh nhóm cephalosporin, mẫn cảm với penicilin hay bất cứ thành phần nào của thuốc.</li><li>Bệnh nhân thiếu hụt carnitin hoặc rối loạn chuyển hóa bẩm sinh dẫn đến thiếu hụt carnitin trên lâm sàng.</li></ul><h3>Thận trọng khi sử dụng</h3><p>Cũng như <a href=\"https://nhathuoclongchau.com.vn/bai-viet/pho-khang-sinh-va-khang-sinh-pho-rong-la-gi-46543.html\">các kháng sinh phổ rộng</a> khác, việc điều trị lâu ngày với cefditoren có thể gây phát sinh các vi khuẩn đề kháng thuốc. Cần theo dõi bệnh nhân chặt chẽ, nếu có hiện tượng tái nhiễm trong lúc điều trị cần phải đổi sang kháng sinh khác thích hợp.</p><p>Cẩn trọng khi dùng cho bệnh nhân có tiền sử viêm đại tràng do cefditoren có thể làm mất cân bằng hệ vi sinh ở đại tràng, làm cho Clostridium difficile phát triển quá mức.</p><p>Có phản ứng chéo giữa các cephalosporin và các kháng sinh beta-lactam khác. Vì vậy, trước khi bắt đầu điều trị bằng cefditoren, phải điều tra kỹ về tiền sử dị ứng của người bệnh với cephalosporin, penicillin hoặc thuốc khác.</p><p>Người có nguy cơ dị ứng và phản ứng phản vệ.</p><p>Khi sử dụng cefditoren có thể cho kết quả Test Coomb’s trực tiếp dương tính, test ferricyanid âm tính giả, test glucose niệu dương tính giả khi dùng Clinitest.</p><p>Thận trọng khi sử dụng cho người bệnh có tiền sử co giật, nếu trong trường hợp có kèm theo suy thận, nguy cơ co giật tăng cao.</p><p>Sử dụng thận trọng cho người bệnh suy gan, suy thận, hiệu chỉnh liều nếu người bệnh suy thận nặng.</p><p>Với người bệnh thiếu hụt carnitin, không sử dụng cefditoren kéo dài do cefditoren gây tăng đào thải carnitin.</p><p>Cefditoren có thể kéo dài thời gian prothrombin, vì vậy cần thận trọng khi sử dụng ở những người bệnh có rối loạn chảy máu.</p><p>Thận trọng khi sử dụng cho trẻ dưới 12 tuổi.</p><p>Do sản phẩm có chứa tá dược dầu thầu dầu nên cần lưu ý các tác dụng không mong muốn đã được báo cáo với dầu thầu dầu như buồn nôn, nôn mửa, đau bụng và tiêu chảy. Sản phẩm có chứa dầu thầu dầu không nên dùng trong trường hợp tắc nghẽn hoặc hẹp ruột, mất trương lực (mất vận động bình thường trong cơ ruột), viêm ruột thừa, bệnh viêm đại tràng, đau bụng không rõ nguyên nhân và mất nước trầm trọng.</p><p>Sản phẩm có chứa tá dược màu Quinolein yellow lake có thể gây ra một số phản ứng dị ứng ở một vài bệnh nhân. Nên tham khảo ý kiến của bác sĩ trước khi sử dụng nếu tiền sử đã từng có phản ứng dị ứng với màu Quinolein yellow lake.</p><h3>Sử dụng thuốc cho phụ nữ trong thời kỳ mang thai và cho con bú</h3><p><strong>Sử dụng thuốc cho phụ nữ mang thai:</strong></p><p>Nghiên cứu trên động vật không thấy các phản ứng bất lợi đối với thai nhi. Các cephalosporin qua được nhau thai và được coi là an toàn với thai nhi. Nguy cơ trên thai kỳ theo FDA: Mức độ B.</p><p><strong>Sử dụng thuốc cho phụ nữ cho con bú:</strong></p><p>Thuốc phân bố được vào trong sữa mẹ vì vậy, sử dụng thận trọng với phụ nữ cho con bú.</p><h3>Ảnh hưởng của thuốc lên khả năng lái xe và vận hành máy móc</h3><p>Chưa được nghiên cứu trên các đối tượng này.</p><h3>Tương tác thuốc</h3><p><i>Tăng tác dụng/độc tính: </i>Probenecid làm tăng nồng độ cefditoren trong huyết tương do đó làm tăng tác dụng/độc tính của cefditoren.</p><p><i>Giảm tác dụng: </i>Các antacid, thuốc ức chế bơm proton và thuốc đối kháng thụ thể H2 làm giảm hấp thu cefditoren, vì vậy làm giảm tác dụng của cefditoren.</p><p><i>Tương tác với thức ăn: </i>Thức ăn làm tăng hấp thu cefditoren. Bữa ăn có nhiều mỡ có thể làm sinh khả dụng của thuốc tăng lên tối đa.</p><p><i>Tương tác về xét nghiệm: </i>Có thể gây ra phản ứng Coombs trực tiếp dương tính, test ferricyanid âm tính giả, test glucose niệu dương tính giả khi dùng Clinitest.</p><p><i>Thuốc tránh thai: </i>Cefditoren pivoxil không ảnh hưởng đến dược động học của ethinylestradiol, thành phần estrogen trong hầu hết các thuốc ngừa thai dùng đường uống.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Ngô Kim Thúy",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp loại giỏi trường Đại học Y Dược Huế. Từng tham gia nghiên cứu khoa học đề tài về Dược liệu. Nhiều năm kinh nghiệm làm việc trong lĩnh vực Dược phẩm. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-ngo-kim-thuy",
+        "isLegit": true,
+        "id": 9,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Nguyen_Kim_Thuy_ea92026f36.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Cttoren 400 USP điều trị nhiễm khuẩn (1 vỉ x 10 viên)",
+        "metaDescription": "Thuốc Cttoren 400 dùng cho những trường hợp nhiễm khuẩn do vi khuẩn Gram âm, Gram dương nhạy cảm, bao gồm các nhiễm khuẩn đường hô hấp, nhiễm khuẩn da.",
+        "id": 38303,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cttoren_1932c9a797.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Cttoren 400 USP điều trị nhiễm khuẩn (1 vỉ x 10 viên)",
+            "description": "Thuốc Cttoren 400 dùng cho những trường hợp nhiễm khuẩn do vi khuẩn Gram âm, Gram dương nhạy cảm, bao gồm các nhiễm khuẩn đường hô hấp, nhiễm khuẩn da và tổ chức dưới da."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 17972,
+        "title": "Thuốc Cttoren 400 USP chứa thành phần gì?",
+        "content": "<p>Thuốc Cttoren 400 USP chứa thành phần Cefditoren là một kháng sinh bán tổng hợp nhóm cephalosporin thế hệ 3 được sử dụng theo đường uống dùng trong điều trị các bệnh nhiễm khuẩn cấp tính hoặc đợt cấp của viêm phế quản mạn tính, viêm phổi mắc phải tại cộng đồng do các vi khuẩn nhạy cảm gây ra.</p>"
+      },
+      {
+        "id": 17973,
+        "title": "Thuốc Cttoren 400 USP có dùng cho trẻ em dưới 12 tuổi không?",
+        "content": "<p>Thận trọng khi sử dụng thuốc Cttoren 400 USP cho trẻ dưới 12 tuổi.</p>"
+      },
+      {
+        "id": 17975,
+        "title": "Nguy cơ trên thai kỳ theo FDA của thuốc Cttoren 400 USP thuộc mức độ nào?",
+        "content": "<p>Nguy cơ trên thai kỳ theo FDA của thuốc Cttoren 400 USP thuộc mức độ B. Nghiên cứu trên động vật không thấy các phản ứng bất lợi đối với thai nhi. Các cephalosporin qua được nhau thai và được coi là an toàn với thai nhi.</p>"
+      },
+      {
+        "id": 17976,
+        "title": "Thuốc Cttoren 400 USP có gây tương tác về xét nghiệm nào không?",
+        "content": "<p>Thuốc Cttoren 400 USP có thể gây ra phản ứng Coombs trực tiếp dương tính, test ferricyanid âm tính giả, test glucose niệu dương tính giả khi dùng Clinitest.</p>"
+      },
+      {
+        "id": 17974,
+        "title": "Thuốc Cttoren 400 USP có gây dị ứng tá dược nào không?",
+        "content": "<p>Thuốc Cttoren 400 USP có chứa tá dược dầu thầu dầu không nên dùng trong trường hợp tắc nghẽn hoặc hẹp ruột, mất trương lực (mất vận động bình thường trong cơ ruột), viêm ruột thừa, bệnh viêm đại tràng, đau bụng không rõ nguyên nhân và mất nước trầm trọng.</p><p>Sản phẩm có chứa tá dược màu Quinolein yellow lake có thể gây ra một số phản ứng dị ứng ở một vài bệnh nhân. Nên tham khảo ý kiến của bác sĩ trước khi sử dụng nếu tiền sử đã từng có phản ứng dị ứng với màu Quinolein yellow lake.</p>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 11,
+      "items": [
+        {
+          "id": 3359786,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0929xxxxxx",
+          "name": "như",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cho em xin giá  nhé",
+          "createdAt": "2026-08-18 18:33:06",
+          "createdAtDisplay": "17 ngày trước",
+          "updatedAt": "2026-08-18 18:33:06",
+          "replies": [
+            {
+              "id": 3359798,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Mai Anh",
+                "moderatorEmail": "anhnm70@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Mai Anh",
+              "email": "anhnm70@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Như,</p><p> Hiện tại, sản phẩm Thuốc Cttoren 400 USP điều trị nhiễm khuẩn (1 vỉ x 10 viên) có giá 480.000đ/ hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-08-18 18:37:58",
+              "createdAtDisplay": "17 ngày trước",
+              "updatedAt": "2026-08-18 18:33:06",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3297491,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0989xxxxxx",
+          "name": "Bảo Ngọc",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 hộp giá bao nhiêu ạ",
+          "createdAt": "2026-04-27 16:36:49",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-27 16:36:49",
+          "replies": [
+            {
+              "id": 3297493,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Đăng Dương",
+                "moderatorEmail": "duongnd46@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Đăng Dương",
+              "email": "duongnd46@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Ngọc,</p><p>Hiện tại, sản phẩm Thuốc Cttoren 400 USP điều trị nhiễm khuẩn (1 vỉ x 10 viên) có giá 480,000 ₫/Hộp. </p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a> <a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-04-27 16:39:24",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-27 16:36:49",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3274716,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0965xxxxxx",
+          "name": "Cường",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "nay thuốc này bao nhiêu vậy?",
+          "createdAt": "2026-03-16 10:57:58",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-16 10:57:58",
+          "replies": [
+            {
+              "id": 3274743,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thanh Ngọc",
+                "moderatorEmail": "ngocht18@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Thanh Ngọc",
+              "email": "ngocht18@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Cường,</p><p>Hiện tại, sản phẩm Thuốc Cttoren 400 USP điều trị nhiễm khuẩn (1 vỉ x 10 viên) có giá 480,000/Hộp</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-03-16 11:59:28",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-16 10:57:58",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3238397,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0865xxxxxx",
+          "name": "LÂM HẠNH",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá",
+          "createdAt": "2025-12-31 19:32:56",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2025-12-31 19:32:56",
+          "replies": [
+            {
+              "id": 3238401,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Nhật Tân",
+                "moderatorEmail": "tannn23@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Nhật Tân",
+              "email": "tannn23@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Hạnh</p><p> Hiện tại, sản phẩm Thuốc Cttoren 400 USP có giá 480,000 ₫</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2025-12-31 19:38:28",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-12-31 19:32:56",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3152085,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0369xxxxxx",
+          "name": "kim liên",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mua 1h nhiêu vậy nhà thuốc",
+          "createdAt": "2025-07-28 12:56:54",
+          "createdAtDisplay": "28/07/2025",
+          "updatedAt": "2025-07-28 12:56:36",
+          "replies": [
+            {
+              "id": 3152086,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Chu Thị Quỳnh",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Chu Thị Quỳnh",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Kim Liên, </p><p>Hiện tại, sản phẩm có giá 480,000 ₫/hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p>",
+              "createdAt": "2025-07-28 12:57:51",
+              "createdAtDisplay": "28/07/2025",
+              "updatedAt": "2025-07-28 12:56:36",
+              "replies": []
+            },
+            {
+              "id": 3195257,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0999xxxxxx",
+              "name": "Uyên",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "5 viên bao nhiêu",
+              "createdAt": "2025-10-13 10:39:21",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-07-28 12:56:36",
+              "replies": []
+            },
+            {
+              "id": 3195259,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Quỳnh Trang",
+                "moderatorEmail": "trangntq31@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Quỳnh Trang",
+              "email": "trangntq31@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn <strong>Uyên</strong>,</p><p>Tư vấn viên nhà thuốc Long Châu sẽ liên hệ theo SĐT bạn đã để lại ạ.</p>",
+              "createdAt": "2025-10-13 10:42:28",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-07-28 12:56:36",
+              "replies": []
+            },
+            {
+              "id": 3197050,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0937xxxxxx",
+              "name": "ANH Chí",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "1vien là nhiêu vậy anh chị ",
+              "createdAt": "2025-10-16 10:34:03",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-07-28 12:56:36",
+              "replies": []
+            },
+            {
+              "id": 3197055,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Ngọc Hân",
+                "moderatorEmail": "hanltn7@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Ngọc Hân",
+              "email": "hanltn7@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn anh Chí,</p><p> Hiện tại, sản phẩm có giá 48,000 đ/viên, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2025-10-16 10:41:46",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-07-28 12:56:36",
+              "replies": []
+            }
+          ],
+          "totalReplies": 5
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Cttoren 400 USP điều trị nhiễm khuẩn (1 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cttoren_1932c9a797.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Cttoren 400 dùng cho những trường hợp nhiễm khuẩn do vi khuẩn Gram âm, Gram dương nhạy cảm, bao gồm các nhiễm khuẩn đường hô hấp, nhiễm khuẩn da và tổ chức dưới da.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ngô Kim Thúy"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Cttoren 400 USP điều trị nhiễm khuẩn (1 vỉ x 10 viên)",
+      "description": "Thuốc Cttoren 400 dùng cho những trường hợp nhiễm khuẩn do vi khuẩn Gram âm, Gram dương nhạy cảm, bao gồm các nhiễm khuẩn đường hô hấp, nhiễm khuẩn da.",
+      "openGraph": {
+        "title": "Thuốc Cttoren 400 USP điều trị nhiễm khuẩn (1 vỉ x 10 viên)",
+        "description": "Thuốc Cttoren 400 dùng cho những trường hợp nhiễm khuẩn do vi khuẩn Gram âm, Gram dương nhạy cảm, bao gồm các nhiễm khuẩn đường hô hấp, nhiễm khuẩn da và tổ chức dưới da.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cttoren_1932c9a797.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/cttoren-400-us-pharma-usa-1-vi-x-10-vien-34085.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/cttoren-400-us-pharma-usa-1-vi-x-10-vien-34085.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

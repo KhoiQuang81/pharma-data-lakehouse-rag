@@ -1,0 +1,2077 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/maecran-kolmar-3129.html",
+  "ingestion_timestamp": "2026-09-05T10:22:38.237197+00:00",
+  "file_hash": "2e6efe62cb8e37ca7eef689b87bb77d35d9b02dc2f38310b3414e27c65147e3a",
+  "lineage_hash": "4dada86957fb8e405a7c841a92a62bff31325a9cc6a61e3250211c6258cdde87",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/maecran-kolmar-3129.html",
+    "product": {
+      "sku": "00004648",
+      "webName": "Viên nang mềm Maecran Kolmar Pharma chống lão hóa, cung cấp vitamin (12 vỉ x 5 viên)",
+      "name": "MAECRAN GENUPHARMA 12X5",
+      "shortName": "MAECRAN 12X5",
+      "headingText": "Viên nang mềm Maecran",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_2476_5b27_large_7ece20449b.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_4068_5b27_large_8b97626a8f.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_6051_5b27_large_a43b3383d4.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_8740_5b27_large_8ffde1220f.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_4526_5b27_large_0afbb1569d.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_3343_60e2_large_5a1913a0b5.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_1625464498_6044b6bc65.JPG",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 727,
+          "name": "Thuốc bổ & vitamin",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-bo-and-vitamin",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 752,
+          "name": "Thuốc bổ",
+          "parentName": "Thuốc bổ & vitamin",
+          "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 369000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 12 Vỉ x 5 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": 30750,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "12 Vỉ x 5 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 6150,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "5 Viên"
+        }
+      ],
+      "slug": "thuoc/maecran-kolmar-3129.html",
+      "ingredient": [
+        {
+          "id": 22226,
+          "ingredientId": 26506,
+          "shortDescription": "4.613mg",
+          "name": "Mangan",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 22227,
+          "ingredientId": 18476,
+          "shortDescription": "1.252mg",
+          "name": "Đồng",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 22228,
+          "ingredientId": 24482,
+          "shortDescription": "9.377mg",
+          "name": "Kẽm",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 22229,
+          "ingredientId": 10717,
+          "shortDescription": "10mg",
+          "name": "Beta carotene",
+          "isPrimary": false,
+          "slug": "thanh-phan/beta-carotene"
+        },
+        {
+          "id": 22230,
+          "ingredientId": 38865,
+          "shortDescription": "200mg",
+          "name": "Tocopherol acetate",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 22231,
+          "ingredientId": 35775,
+          "shortDescription": "15mg",
+          "name": "Selenium Sulfide",
+          "isPrimary": false,
+          "slug": "thanh-phan/selenium-sulfide"
+        },
+        {
+          "id": 22232,
+          "ingredientId": 40349,
+          "shortDescription": "250mg",
+          "name": "Vitamin C",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-c"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "880100008000",
+      "manufactor": "Hàn Quốc",
+      "dosageForm": "Viên nang mềm",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Dùng đường uống.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p><em>Liều dùng thuốc Maecran cho trẻ em từ 12 tuổi trở lên và người lớn như thế nào?</em></p>\n\n<p>Trẻ em từ 12 tuổi trở lên và người lớn: Uống 1 viên nang mỗi ngày, uống sau bữa ăn.</p>\n\n<p><em>Liều dùng thuốc Maecran cho trẻ em dưới 12 tuổi như thế nào?</em></p>\n\n<p>Chưa có báo cáo. Dùng theo chỉ định của bác sĩ.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi quá liều?</strong></h3>\n\n<p>Không dùng quá liều lượng được kê.</p>\n\n<p>Dùng thuốc nhiều hơn sẽ không cải thiện triệu chứng của bạn; thay vào đó chúng có thể gây ngộ độc hoặc những tác dụng phụ nghiêm trọng.</p>\n\n<p>Nếu bạn nghi vấn rằng bạn hoặc ai khác có thể đã sử dụng quá liều Maecran vui lòng đến phòng cấp cứu tại bệnh viện hoặc viện chăm sóc gần nhất.</p>\n\n<p>Mang theo hộp, vỏ, hoặc nhãn hiệu thuốc với bạn để giúp các bác sĩ có thông tin cần thiết.</p>\n\n<p>Dùng thuốc quá liều có thể gặp các triệu chứng như: Nôn mửa, buồn nôn, tăng oxalate niệu, suy tim xung huyết.</p>\n\n<p>Khi quá liều xảy ra, không có biện pháp giải độc đặc hiệu. Sử dụng các biện pháp thông thường như gây nôn, rửa dạ dày, điều trị triệu chứng và hỗ trợ. </p>\n\n<p>Không đưa thuốc của bạn cho người khác dù bạn biết họ có cùng bệnh chứng hoặc trông có vẻ như họ có thể có bệnh chứng tương tự. Điều này có thể dẫn tới việc dùng quá liều.</p>\n\n<p>Vui lòng tham khảo ý kiến bác sĩ hoặc dược sĩ hoặc gói sản phẩm để có thêm thông tin.</p>\n\n<h3><strong>Làm gì khi quên liều?</strong></h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy uống càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và uống liều kế tiếp vào thời điểm như kế hoạch. Không uống gấp đôi liều đã quy định.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Maecran được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Thuốc được chỉ định trong các trường hợp:</p>\n\n<ul>\n\t<li>\n\t<p>Chống lão hóa.</p>\n\t</li>\n\t<li>\n\t<p>Cung cấp vitamin trong các trường hợp sau: Phụ nữ có thai, đang cho con bú, suy nhược, lão suy.</p>\n\t</li>\n\t<li>\n\t<p>Cải thiện các triệu chứng sau trong trường hợp rối loạn hệ tuần hoàn ngoại biên và trong thời kỳ bắt đầu suy yếu: Đau xóc ở cổ và vai, tê cóng và ớn lạnh tay chân.</p>\n\t</li>\n\t<li>\n\t<p>Cải thiện hắc tố da (Melassma, tàn nhang).</p>\n\t</li>\n\t<li>\n\t<p>Phòng ngừa chảy máu răng, chảy máu mũi.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Vitamin A là vitamin tan trong dầu.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Tocopherol acetate (vitamin E): Vitamin E hấp thu tốt qua đường tiêu hóa.</p>\n\n<p>Acid ascorbic (vitamin C)</p>\n\n<ul>\n\t<li>\n\t<p>Hấp thu: Vitamin C hấp thu tốt qua đường uống. Nồng độ vitamin C trong máu khoảng 10 đến 20mcg/ml.</p>\n\t</li>\n\t<li>\n\t<p>Phân bố: Tỷ lệ liên kết của vitamin C với protein huyết tương khoảng 25%. Thể tích phân bố vitamin C trong cơ thể khá lớn.</p>\n\t</li>\n\t<li>\n\t<p>Chuyển hóa: Trong cơ thể, một phần vitamin C chuyển hóa thành dạng không còn hoạt tính.</p>\n\t</li>\n\t<li>\n\t<p>Thải trừ: Vitamin C được thải trừ chủ yếu qua nước tiểu.</p>\n\t</li>\n</ul>\n\n<p>β-Caroten (dẫn chất vitamin A)</p>\n\n<ul>\n\t<li>\n\t<p>Hấp thu: Vitamin A hấp thu tốt qua đường tiêu hóa và đường tiêm. Để hấp thu được vào cơ thể qua đường tiêu hóa, cần có đủ lượng chất nhũ hóa cần thiết là acid mật.</p>\n\t</li>\n\t<li>\n\t<p>Phân bố: Tỷ lệ liên kết của vitamin A protein huyết tương tương đối thấp, phân bố tại một số cơ quan, nhiều nhất là tại gan.</p>\n\t</li>\n\t<li>\n\t<p>Chuyển hóa: Vitamin A chuyển hóa chủ yếu qua gan.</p>\n\t</li>\n\t<li>\n\t<p>Thải trừ: Vitamin A thải trừ chủ yếu qua thận và một phần qua mật.</p>\n\t</li>\n</ul>",
+      "brand": "GENUPHARMA",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Maecran, bạn có thể gặp các tác dụng không mong muốn (ADR). Một số tác dụng phụ được ghi nhận trong các nghiên cứu trên người dùng thuốc này là:</p>\n\n<p>Trong vài trường hợp có thể gặp bị nôn mửa, buồn nôn, tiêu chảy, ngứa, khó chịu vùng dạ dày, tiêu chảy, táo bón, ban đỏ trong thời gian sử dụng Maecran, nên ngưng sử dụng thuốc và hỏi ý kiến bác sĩ hoặc dược sĩ.</p>\n\n<p>Chu kỳ và lượng máu trong thời kỳ kinh nguyệt có thể thay đổi.</p>\n\n<p>Ở những phụ nữ dùng thuốc ngừa thai đường uống hoặc những bệnh nhân có khả năng bị huyết khối có thể tăng nguy cơ đông vón máu.</p>\n\n<p>Trường hợp dùng thuốc liều cao, kéo dài có thể gây dung nạp thuốc.</p>\n\n<p>Đây không phải là danh mục đầy đủ tất cả các tác dụng phụ và có thể xảy ra những tác dụng phụ khác. Nếu bạn gặp phải bất kỳ tác dụng không mong muốn nào, hãy ngưng dùng thuốc và thông báo ngay cho bác sĩ hoặc đến ngay cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 12 Vỉ x 5 Viên",
+      "indications": [
+        {
+          "id": 233,
+          "name": "Suy nhược cơ thể",
+          "slug": "benh/suy-nhuoc-co-the-701.html"
+        },
+        {
+          "id": 1151,
+          "name": "Viêm thần kinh ngoại biên",
+          "slug": null
+        },
+        {
+          "id": 1341,
+          "name": "Ớn lạnh",
+          "slug": null
+        }
+      ],
+      "brandOrigin": "Hàn Quốc",
+      "producer": "GENUPharma Inc.",
+      "shortDescription": "<p>Thuốc Maecran của Nhà sản xuất Kolmar, thành phần chính tocopherol acetate, là thuốc dùng để điều trị chống lão hóa. Cung cấp vitamin trong các trường hợp sau: Phụ nữ có thai, đang cho con bú, suy nhược, lão suy. Cải thiện các triệu chứng sau trong trường hợp rối loạn hệ tuần hoàn ngoại biên và trong thời kỳ bắt đầu suy yếu: Đau xóc ở cổ và vai, tê cóng và ớn lạnh tay chân…</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "Trên 12 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Bệnh Wilson",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": false,
+      "brandSlug": "thuong-hieu/genupharma",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "MAECRAN",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 257,
+        "attributeName": "Hàn Quốc",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Han_Quoc_760f524a89.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": 6150,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "5 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 752,
+        "name": "Thuốc bổ",
+        "parentName": "Thuốc bổ & vitamin",
+        "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_2476_5b27_large_7ece20449b.JPG",
+          "alternativeText": "Viên nang mềm Maecran Kolmar Pharma chống lão hóa, cung cấp vitamin (12 vỉ x 5 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_4068_5b27_large_8b97626a8f.JPG",
+          "alternativeText": "Viên nang mềm Maecran Kolmar Pharma chống lão hóa, cung cấp vitamin (12 vỉ x 5 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_6051_5b27_large_a43b3383d4.JPG",
+          "alternativeText": "Viên nang mềm Maecran Kolmar Pharma chống lão hóa, cung cấp vitamin (12 vỉ x 5 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_8740_5b27_large_8ffde1220f.JPG",
+          "alternativeText": "Viên nang mềm Maecran Kolmar Pharma chống lão hóa, cung cấp vitamin (12 vỉ x 5 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_4526_5b27_large_0afbb1569d.JPG",
+          "alternativeText": "Viên nang mềm Maecran Kolmar Pharma chống lão hóa, cung cấp vitamin (12 vỉ x 5 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_3343_60e2_large_5a1913a0b5.JPG",
+          "alternativeText": "Viên nang mềm Maecran Kolmar Pharma chống lão hóa, cung cấp vitamin (12 vỉ x 5 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_1625464498_6044b6bc65.JPG",
+          "alternativeText": "Viên nang mềm Maecran Kolmar Pharma chống lão hóa, cung cấp vitamin (12 vỉ x 5 viên) 7"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 369000,
+        "itemCode": "00004648",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 369000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 30750,
+        "itemCode": "00004648",
+        "unitCode": 13,
+        "maxValue": 0,
+        "price": 30750,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 6150,
+        "itemCode": "00004648",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 6150,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc bổ & vitamin",
+        "slug": "/thuoc/thuoc-bo-and-vitamin"
+      },
+      {
+        "name": "Thuốc bổ",
+        "slug": "/thuoc/thuoc-bo-and-vitamin/thuoc-bo"
+      }
+    ],
+    "content": {
+      "sku": "00004648",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Dùng đường uống.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p><em>Liều dùng thuốc Maecran cho trẻ em từ 12 tuổi trở lên và người lớn như thế nào?</em></p>\n\n<p>Trẻ em từ 12 tuổi trở lên và người lớn: Uống 1 viên nang mỗi ngày, uống sau bữa ăn.</p>\n\n<p><em>Liều dùng thuốc Maecran cho trẻ em dưới 12 tuổi như thế nào?</em></p>\n\n<p>Chưa có báo cáo. Dùng theo chỉ định của bác sĩ.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi quá liều?</strong></h3>\n\n<p>Không dùng quá liều lượng được kê.</p>\n\n<p>Dùng thuốc nhiều hơn sẽ không cải thiện triệu chứng của bạn; thay vào đó chúng có thể gây ngộ độc hoặc những tác dụng phụ nghiêm trọng.</p>\n\n<p>Nếu bạn nghi vấn rằng bạn hoặc ai khác có thể đã sử dụng quá liều Maecran vui lòng đến phòng cấp cứu tại bệnh viện hoặc viện chăm sóc gần nhất.</p>\n\n<p>Mang theo hộp, vỏ, hoặc nhãn hiệu thuốc với bạn để giúp các bác sĩ có thông tin cần thiết.</p>\n\n<p>Dùng thuốc quá liều có thể gặp các triệu chứng như: Nôn mửa, buồn nôn, tăng oxalate niệu, suy tim xung huyết.</p>\n\n<p>Khi quá liều xảy ra, không có biện pháp giải độc đặc hiệu. Sử dụng các biện pháp thông thường như gây nôn, rửa dạ dày, điều trị triệu chứng và hỗ trợ. </p>\n\n<p>Không đưa thuốc của bạn cho người khác dù bạn biết họ có cùng bệnh chứng hoặc trông có vẻ như họ có thể có bệnh chứng tương tự. Điều này có thể dẫn tới việc dùng quá liều.</p>\n\n<p>Vui lòng tham khảo ý kiến bác sĩ hoặc dược sĩ hoặc gói sản phẩm để có thêm thông tin.</p>\n\n<h3><strong>Làm gì khi quên liều?</strong></h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy uống càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và uống liều kế tiếp vào thời điểm như kế hoạch. Không uống gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<p>https://drugbank.vn/<br><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"></labs-tailwind-structural-element-view-v2></p><div class=\"paragraph heading4 ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"867\"><b class=\"ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"867\"><strong>1.1. Câu hỏi: Viên nang mềm Maecran là gì và có công dụng chính nào?</strong></b></div><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph normal ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"935\">Maecran là một sản phẩm dược phẩm được sử dụng với các mục đích chính sau:</div></labs-tailwind-structural-element-view-v2><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph normal ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"1009\">• Hỗ trợ chống lão hóa.</div></labs-tailwind-structural-element-view-v2><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph normal ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"1030\">• Cung cấp vitamin cho các đối tượng có nhu cầu đặc biệt.</div></labs-tailwind-structural-element-view-v2><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph normal ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"1085\">• Cải thiện các triệu chứng liên quan đến rối loạn tuần hoàn ngoại biên.</div></labs-tailwind-structural-element-view-v2><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph normal ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"1155\">• Cải thiện các vấn đề về hắc tố da.</div></labs-tailwind-structural-element-view-v2><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph normal ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"1189\">• Phòng ngừa một số tình trạng chảy máu nhẹ.</div></labs-tailwind-structural-element-view-v2><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph heading4 ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"867\"><b class=\"ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"867\">1.1. Câu hỏi: Viên nang mềm Maecran là gì và có công dụng chính nào?</b></div></labs-tailwind-structural-element-view-v2><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph normal ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"935\">Maecran là một sản phẩm dược phẩm được sử dụng với các mục đích chính sau:</div></labs-tailwind-structural-element-view-v2><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph normal ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"1009\">• Hỗ trợ chống lão hóa.</div></labs-tailwind-structural-element-view-v2><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph normal ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"1030\">• Cung cấp vitamin cho các đối tượng có nhu cầu đặc biệt.</div></labs-tailwind-structural-element-view-v2><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph normal ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"1085\">• Cải thiện các triệu chứng liên quan đến rối loạn tuần hoàn ngoại biên.</div></labs-tailwind-structural-element-view-v2><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph normal ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"1155\">• Cải thiện các vấn đề về hắc tố da.</div></labs-tailwind-structural-element-view-v2><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph normal ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"1189\">• Phòng ngừa một số tình trạng chảy máu nhẹ.</div></labs-tailwind-structural-element-view-v2><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph heading4 ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"867\"><b class=\"ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"867\">1.1. Câu hỏi: Viên nang mềm Maecran là gì và có công dụng chính nào?</b></div></labs-tailwind-structural-element-view-v2><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph normal ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"935\">Maecran là một sản phẩm dược phẩm được sử dụng với các mục đích chính sau:</div></labs-tailwind-structural-element-view-v2><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph normal ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"1009\">• Hỗ trợ chống lão hóa.</div></labs-tailwind-structural-element-view-v2><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"><div class=\"paragraph normal ng-star-inserted\" _ngcontent-ng-c3468504902=\"\" data-start-index=\"1030\">• Cung cấp vitamin cho các đối tượng có nhu cầu đặc biệt.</div></labs-tailwind-structural-element-view-v2><p>&nbsp;</p>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Maecran, bạn có thể gặp các tác dụng không mong muốn (ADR). Một số tác dụng phụ được ghi nhận trong các nghiên cứu trên người dùng thuốc này là:</p>\n\n<p>Trong vài trường hợp có thể gặp bị nôn mửa, buồn nôn, tiêu chảy, ngứa, khó chịu vùng dạ dày, tiêu chảy, táo bón, ban đỏ trong thời gian sử dụng Maecran, nên ngưng sử dụng thuốc và hỏi ý kiến bác sĩ hoặc dược sĩ.</p>\n\n<p>Chu kỳ và lượng máu trong thời kỳ kinh nguyệt có thể thay đổi.</p>\n\n<p>Ở những phụ nữ dùng thuốc ngừa thai đường uống hoặc những bệnh nhân có khả năng bị huyết khối có thể tăng nguy cơ đông vón máu.</p>\n\n<p>Trường hợp dùng thuốc liều cao, kéo dài có thể gây dung nạp thuốc.</p>\n\n<p>Đây không phải là danh mục đầy đủ tất cả các tác dụng phụ và có thể xảy ra những tác dụng phụ khác. Nếu bạn gặp phải bất kỳ tác dụng không mong muốn nào, hãy ngưng dùng thuốc và thông báo ngay cho bác sĩ hoặc đến ngay cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Bạn nên bảo quản ở nhiệt độ phòng, tránh ẩm và tránh ánh sáng. Không bảo quản trong phòng tắm hoặc trong ngăn đá.</p>\n\n<p>Bạn nên nhớ rằng mỗi loại thuốc có thể có các phương pháp bảo quản khác nhau. Vì vậy, bạn nên đọc kỹ hướng dẫn bảo quản trên bao bì hoặc hỏi dược sĩ.</p>\n\n<p>Giữ thuốc tránh xa tầm tay trẻ em và thú nuôi.</p>\n\n<p>Hạn sử dụng: 36 tháng kể từ ngày sản xuất.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Maecran được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Thuốc được chỉ định trong các trường hợp:</p>\n\n<ul>\n\t<li>\n\t<p>Chống lão hóa.</p>\n\t</li>\n\t<li>\n\t<p>Cung cấp vitamin trong các trường hợp sau: Phụ nữ có thai, đang cho con bú, suy nhược, lão suy.</p>\n\t</li>\n\t<li>\n\t<p>Cải thiện các triệu chứng sau trong trường hợp rối loạn hệ tuần hoàn ngoại biên và trong thời kỳ bắt đầu suy yếu: Đau xóc ở cổ và vai, tê cóng và ớn lạnh tay chân.</p>\n\t</li>\n\t<li>\n\t<p>Cải thiện hắc tố da (Melassma, tàn nhang).</p>\n\t</li>\n\t<li>\n\t<p>Phòng ngừa chảy máu răng, chảy máu mũi.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Vitamin A là vitamin tan trong dầu.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Tocopherol acetate (vitamin E): Vitamin E hấp thu tốt qua đường tiêu hóa.</p>\n\n<p>Acid ascorbic (vitamin C)</p>\n\n<ul>\n\t<li>\n\t<p>Hấp thu: Vitamin C hấp thu tốt qua đường uống. Nồng độ vitamin C trong máu khoảng 10 đến 20mcg/ml.</p>\n\t</li>\n\t<li>\n\t<p>Phân bố: Tỷ lệ liên kết của vitamin C với protein huyết tương khoảng 25%. Thể tích phân bố vitamin C trong cơ thể khá lớn.</p>\n\t</li>\n\t<li>\n\t<p>Chuyển hóa: Trong cơ thể, một phần vitamin C chuyển hóa thành dạng không còn hoạt tính.</p>\n\t</li>\n\t<li>\n\t<p>Thải trừ: Vitamin C được thải trừ chủ yếu qua nước tiểu.</p>\n\t</li>\n</ul>\n\n<p>β-Caroten (dẫn chất vitamin A)</p>\n\n<ul>\n\t<li>\n\t<p>Hấp thu: Vitamin A hấp thu tốt qua đường tiêu hóa và đường tiêm. Để hấp thu được vào cơ thể qua đường tiêu hóa, cần có đủ lượng chất nhũ hóa cần thiết là acid mật.</p>\n\t</li>\n\t<li>\n\t<p>Phân bố: Tỷ lệ liên kết của vitamin A protein huyết tương tương đối thấp, phân bố tại một số cơ quan, nhiều nhất là tại gan.</p>\n\t</li>\n\t<li>\n\t<p>Chuyển hóa: Vitamin A chuyển hóa chủ yếu qua gan.</p>\n\t</li>\n\t<li>\n\t<p>Thải trừ: Vitamin A thải trừ chủ yếu qua thận và một phần qua mật.</p>\n\t</li>\n</ul>",
+      "ingredient": "",
+      "careful": "<h3><strong>Chống chỉ định</strong></h3>\n\n<p>Thuốc được chống chỉ định trong các trường hợp:</p>\n\n<ul>\n\t<li>Bệnh nhân mẫn cảm với thành phần của thuốc;</li>\n\t<li>Bệnh nhân bị bệnh Wilson's;</li>\n\t<li>Trẻ em dưới 12 tuổi.</li>\n</ul>\n\n<h3><strong>Thận trọng khi dùng thuốc</strong></h3>\n\n<p><em>Trước khi dùng thuốc Maecran bạn nên biết những gì?</em></p>\n\n<p>Trước khi dùng Maecran, bạn nên lưu ý một số điều sau:</p>\n\n<p>Cẩn thận khi dùng cho những bệnh nhân sau:</p>\n\n<ul>\n\t<li>\n\t<p>Bệnh nhân tăng oxalate niệu.</p>\n\t</li>\n\t<li>\n\t<p>Phụ nữ mang thai hoặc đang cho con bú.</p>\n\t</li>\n\t<li>\n\t<p>Bệnh nhân rối loạn chức năng tim và hệ tuần hoàn.</p>\n\t</li>\n\t<li>\n\t<p>Bệnh nhân thận hư.</p>\n\t</li>\n\t<li>\n\t<p>Bệnh nhân giảm protein huyết.</p>\n\t</li>\n</ul>\n\n<p>Khi dùng vitamin A, không nên dùng quá 5000 I.U/ngày.</p>\n\n<p>Tuân theo sự chỉ dẫn của thầy thuốc về liều dùng và cách dùng.</p>\n\n<p>Sử dụng đúng liều khuyên dùng.</p>\n\n<p>Nên hỏi ý kiến bác sĩ nếu các triệu chứng bệnh trên lâm sàng không cải thiện sau một tháng điều trị.</p>\n\n<p>Thuốc có thể gây trở ngại cho việc phát hiện glucose trong xét nghiệm nước tiểu.</p>\n\n<p>Thông báo cho bác sĩ và dược sĩ nếu bạn bị dị ứng với Maecran, bất kỳ loại thuốc nào khác hoặc bất kỳ thành phần trong thuốc. Bạn cũng có thể hỏi dược sĩ để biết danh sách các thành phần.</p>\n\n<h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3>\n\n<p>Không có tác động nào đối với khả năng lái xe và vận hành máy móc được ghi nhận khi sử dụng thuốc.</p>\n\n<h3><strong>Thời kỳ mang thai và cho con bú</strong></h3>\n\n<p><em>Thời kỳ mang thai</em></p>\n\n<p>Theo một số báo cáo đã có ghi nhận khả năng gây quái thai nếu người mẹ mang thai dùng quá nhiều vitamin A (hơn 10.000 I.U/ngày), đặc biệt là trong 3 tháng đầu của thai kỳ. Vì vậy, cần thận trọng khi dùng thuốc cho phụ nữ mang thai và dự định có thai, trong trường hợp cần uống vitamin A thì không nên dùng quá 5.000 I.U mỗi ngày.</p>\n\n<p><em>Thời kỳ cho con bú</em></p>\n\n<p>Hiện nay chưa rõ thuốc có bài tiết qua sữa hay không. Hãy tham khảo ý kiến bác sĩ hoặc dược sĩ để cân nhắc lợi ích và nguy cơ. Trong thời gian điều trị với thuốc này, nên tạm ngừng cho con bú.</p>\n\n<h3><strong>Các đối tượng đặc biệt khác (người già, trẻ em, dị ứng)</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Tương tác thuốc</strong></h3>\n\n<p><em>Thuốc Maecran có thể tương tác với thuốc nào?</em></p>\n\n<p>Tương tác thuốc có thể làm thay đổi khả năng hoạt động của thuốc hoặc gia tăng ảnh hưởng của các tác dụng phụ.</p>\n\n<p>Tốt nhất là bạn viết một danh sách những thuốc bạn đang dùng (bao gồm thuốc được kê toa, không kê toa và thực phẩm chức năng) và cho bác sĩ hoặc dược sĩ xem.</p>\n\n<p>Không được tự ý dùng thuốc, ngưng hoặc thay đổi liều lượng của thuốc mà không có sự cho phép của bác sĩ, đặc biệt là:</p>\n\n<ul>\n\t<li>Dùng thuốc đồng thời với antialdorteron hoặc triamteron, tăng oxalate niệu có thể xảy ra.</li>\n\t<li>Không dùng đồng thời với những thuốc sau: Muối phosphate, muối calcium, tetracycline, thuốc kháng acid.</li>\n\t<li>Không uống trà có chứa tanin trong thời gian dùng thuốc. </li>\n</ul>\n\n<p><em>Thức ăn và rượu bia có tương tác với thuốc Maecran không?</em></p>\n\n<p>Hãy tham khảo ý kiến bác sĩ về việc uống thuốc cùng thức ăn, rượu và thuốc lá.</p>\n\n<p><em>Tình trạng sức khỏe nào ảnh hưởng tới thuốc Maecran?</em></p>\n\n<p>Tình trạng sức khỏe của bạn có thể ảnh hưởng đến việc sử dụng thuốc này. Báo cho bác sĩ biết nếu bạn có bất kỳ vấn đề sức khỏe nào.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_2476_5b27_large_7ece20449b.JPG",
+              "alternativeText": null
+            },
+            "title": "Viên nang mềm Maecran Kolmar Pharma chống lão hóa, cung cấp vitamin (12 vỉ x 5 viên)",
+            "description": "Thuốc Maecran của Nhà sản xuất Kolmar, thành phần chính tocopherol acetate, là thuốc dùng để điều trị chống lão hóa. Cung cấp vitamin trong các trường hợp sau: Phụ nữ có thai, đang cho con bú, suy nhược, lão suy. Cải thiện các triệu chứng sau trong trường hợp rối loạn hệ tuần hoàn ngoại biên và trong thời kỳ bắt đầu suy yếu: Đau xóc ở cổ và vai, tê cóng và ớn lạnh tay chân…"
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 35048,
+        "title": "Maecran Kolmar Pharma có thể tương tác với những loại thuốc hoặc thực phẩm nào?",
+        "content": "<p>Tương tác thuốc có thể xảy ra khi dùng Maecran đồng thời với một số loại thuốc khác. Cần tránh dùng chung với antialdorteron hoặc triamteron (có thể gây tăng oxalate niệu), muối phosphate, muối calcium, tetracycline, và thuốc kháng acid. Ngoài ra, không nên uống trà có chứa tanin trong thời gian dùng thuốc. Luôn thông báo cho bác sĩ hoặc dược sĩ về tất cả các loại thuốc, thực phẩm chức năng đang sử dụng để tránh tương tác không mong muốn.</p>"
+      },
+      {
+        "id": 35047,
+        "title": "Những tác dụng phụ nào có thể xảy ra khi dùng Maecran Kolmar Pharma?",
+        "content": "<p>Trong quá trình sử dụng Maecran, một số tác dụng không mong muốn (ADR) có thể xảy ra bao gồm nôn mửa, buồn nôn, tiêu chảy, ngứa, khó chịu vùng dạ dày, táo bón, và ban đỏ. Ngoài ra, chu kỳ và lượng máu trong thời kỳ kinh nguyệt có thể thay đổi. Ở phụ nữ dùng thuốc ngừa thai đường uống hoặc bệnh nhân có nguy cơ huyết khối, có thể tăng nguy cơ đông vón máu. Dùng thuốc liều cao, kéo dài có thể gây dung nạp thuốc. Nếu gặp bất kỳ tác dụng phụ nào, cần ngưng dùng thuốc và tham khảo ý kiến bác sĩ.</p>"
+      },
+      {
+        "id": 35046,
+        "title": "Ai không nên sử dụng Maecran Kolmar Pharma?",
+        "content": "<p>Thuốc Maecran Kolmar Pharma chống chỉ định trong các trường hợp sau: Bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc, bệnh nhân mắc bệnh Wilson (do hàm lượng Đồng trong thuốc), và trẻ em dưới 12 tuổi.</p>"
+      },
+      {
+        "id": 35045,
+        "title": "Liều dùng và cách dùng Maecran Kolmar Pharma như thế nào?",
+        "content": "<p>Maecran Kolmar Pharma được dùng theo đường uống. Liều dùng khuyến nghị cho trẻ em từ 12 tuổi trở lên và người lớn là 1 viên nang mỗi ngày, uống sau bữa ăn. Đối với trẻ em dưới 12 tuổi, liều dùng chưa có báo cáo cụ thể và cần theo chỉ định của bác sĩ. Điều quan trọng là không được dùng quá liều lượng được kê.</p>"
+      },
+      {
+        "id": 35044,
+        "title": "Viên nang mềm Maecran là gì và có công dụng chính nào?",
+        "content": "<p><labs-tailwind-structural-element-view-v2 class=\"ng-star-inserted\" _ngcontent-ng-c3713476049=\"\" _nghost-ng-c3468504902=\"\"></labs-tailwind-structural-element-view-v2>Maecran là một sản phẩm dược phẩm được sử dụng với các mục đích chính sau:</p><p>• Hỗ trợ chống lão hóa.</p><p>• Cung cấp vitamin cho các đối tượng có nhu cầu đặc biệt.</p><p>• Cải thiện các triệu chứng liên quan đến rối loạn tuần hoàn ngoại biên.</p><p>• Cải thiện các vấn đề về hắc tố da.</p><p>• Phòng ngừa một số tình trạng chảy máu nhẹ.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00029004",
+        "name": "POKEMINE MEDISUN 20X10ML",
+        "webName": "Dung dịch uống Pokemine 50mg Medisun bổ sung sắt cho bệnh nhân thiếu máu (20 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/pokemine_20x10ml_medisun_00029004_18974a7442.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37079,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 152000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pokemine-medisun-20x10ml-29296.html",
+        "ingredients": "Sắt 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Medisun",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 20 ống X 10ml",
+        "prices": [
+          {
+            "id": 37079,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 152000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 37078,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 7600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00047080",
+        "name": "MYHEMO RELIV 3X10",
+        "webName": "Thuốc Myhemo 305mg Reliv dự phòng thiếu sắt và folic acid (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_myhemo_reliv_3x10_00047080_42c390f09b.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 73453,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 165000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/myhemo-reliv-3-x10.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 100mg",
+        "dosageForm": "Viên bao đường",
+        "brand": "Reliv",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 73453,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 165000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 73454,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 73455,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007450",
+        "name": "TOTHEMA 2X10 ỐNG 10ML",
+        "webName": "Dung dịch Tot'héma Innothera điều trị thiếu máu do sắt (2 vỉ x 10 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04101_788e84a74a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10875,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 120000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tothema-1952.html",
+        "ingredients": "Mangan gluconat 1.33mg, Đồng gluconat 0.7mg, Sắt gluconat 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Innothera",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 10 Ống x 10ml",
+        "prices": [
+          {
+            "id": 10875,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 120000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10873,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10874,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049621",
+        "name": "VITAMIN A-D HDPHARMA 10X10",
+        "webName": "Thuốc Vitamin A-D Hdpharma dùng dự phòng và điều trị các triệu chứng do thiếu vitamin A - D (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_vitamin_a_d_10x10_hdpharma_00049621_f8bba8c44a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 78290,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 32000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vitamin-a-d-hdpharma-10-x10.html",
+        "ingredients": "Vitamin A 5000iu, Vitamin D3 400iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Hdpharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 78290,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 32000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 78291,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 3200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 78292,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 320,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049065",
+        "name": "MAZZGIN DHG PHARMA 10X10",
+        "webName": "Thuốc Mazzgin DHG Pharma điều trị các trường hợp thiếu magnesi riêng biệt hay kết hợp (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_mazzgin_dhg_pharma_10x10_00049065_82218241b8.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 77246,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 53550,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/mazzgin-dhg-pharma-10-x10.html",
+        "ingredients": "Magnesi lactat dihydrat 470mg, Vitamin B6 5mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Dhg",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 77246,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 53550,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 77247,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 5355,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 77248,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 536,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00041155",
+        "name": "CARDIOTON LIPA 6X10",
+        "webName": "Thuốc Cardioton Lipa Pharma điều trị suy tim, tăng huyết áp, bổ sung năng lượng (6 vỉ x 10 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_cardioton_lipa_6x10_00041155_9ecff2b28f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 62161,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 7667,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cardioton-lipa-6-x10.html",
+        "ingredients": "Ubidecarenone 30mg, D-alpha tocopherol 6.71mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "LIPA PHARMACEUTICALSLTD",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 62161,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 62159,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 460000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 62160,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 76667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500658",
+        "name": "ZY-10 FORTE 100MG Y-MED 3X10",
+        "webName": "Thuốc Zy-10 Forte 100mg Y-Med điều trị bệnh suy tim xung huyết, thiếu hụt coenzym Q10 (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/5_9e44bd6ebd.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48922,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 15600,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/zy-10-forte-100mg-hop-3-vi-x-10-vien-ha-tay-34787.html",
+        "ingredients": "Ubidecarenone 100mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Y-MED",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48922,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 15600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 48924,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 468000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 48923,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 156000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 249,
+          "attributeName": "Ấn Độ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/in_India_090039de61.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009723",
+        "name": "BEROCCA BAYER 10V",
+        "webName": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1758_33831b7cab.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12974,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 75000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/berocca-1515.html",
+        "ingredients": "Vitamin B1 15mg, Vitamin B2 15mg, Vitamin B6 10mg, Vitamin B12 0.01mg, Vitamin B3 50mg, Vitamin B5 23mg, Magnesia 100mg, Vitamin C 500mg, Calcium 100mg, Vitamin B8 0.15mg, Kẽm 10mg",
+        "dosageForm": "Viên sủi",
+        "brand": "Bayer",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 12973,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 7500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12974,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 75000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00008451",
+        "name": "LONG HUYẾT PH 2X12 - TAN BẦM TÍM GIẢM PHÙ NỀ",
+        "webName": "Thuốc Long Huyết P/H Phúc Hưng đặc trị tan bầm tím, mau lành vết thương (2 vỉ x 12 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1039_fba416224d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12490,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 47000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/long-huyet-ph-tan-bam-tim-chua-lanh-vet-thuong-1590.html",
+        "ingredients": "Cao khô huyết giác 280mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Phúc Hưng",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 2 vỉ x 12 viên",
+        "prices": [
+          {
+            "id": 12488,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1958,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12489,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 23500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 12490,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 47000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007678",
+        "name": "UPSA-C 10V",
+        "webName": "Viên sủi UPSA-C UPSA SAS hỗ trợ điều trị tình trạng thiếu hụt vitamin C (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1794_11051dc2c2.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11216,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 37000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/upsa-c-1000mg-1878.html",
+        "ingredients": "Vitamin C 1000mg",
+        "dosageForm": "Viên nén sủi bọt",
+        "brand": "Upsa Sas",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 11215,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 3700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11216,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 37000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007180",
+        "name": "TARDYFERON B9 3X10",
+        "webName": "Thuốc Tardyferon B9 Pierre Fabre dự phòng thiếu sắt, acid folic cho phụ nữ có thai (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_tardyferon_b9_3_vi_x_10_vien_pierre_fabre_00007180_aec7b4c600.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10449,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tardyferon-b9-2068.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 50mg",
+        "dosageForm": "Viên nén",
+        "brand": "Pierre Fabre",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 10449,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10451,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 87000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10450,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 29000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006109",
+        "name": "PROCARE DIAMOND 216MG CATALENT 30V",
+        "webName": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_7021_60ee_large_89e91ba6fb.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8834,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 420000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/procare-diamond-216mg-2522.html",
+        "ingredients": "Vitamin B1 5mg, Vitamin B2 5mg, Nicotinamide 5mg, Vitamin D3 200iu, Vitamin B6 5mg, Vitamin B12 10mcg, Vitamin E 10iu, Folic Acid 500mcg, Calcium 59mg, Phosphorus 46.6mg, Magnesium ion 30mg, Vitamin C 50mg, Zinc 8mg, Iron 24mg, Iodine 200mcg, Omega 3 500mg, Betacarotene 1mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "PROCARE",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 30 Viên",
+        "prices": [
+          {
+            "id": 8833,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 14000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 8834,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 420000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 254,
+          "attributeName": "Tây Ban Nha",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/es_Spain_03bf620563.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 27,
+      "items": [
+        {
+          "id": 3367971,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0942xxxxxx",
+          "name": "Trần Hiền",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "tôi muốn mua thuóc Maecran , giá bán một hộp bao nhieu ạ",
+          "createdAt": "2026-09-03 22:20:04",
+          "createdAtDisplay": "1 ngày trước",
+          "updatedAt": "2026-09-03 22:20:04",
+          "replies": [
+            {
+              "id": 3368018,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Vũ Tiến Thành",
+                "moderatorEmail": "thanhvt57@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Vũ Tiến Thành",
+              "email": "thanhvt57@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hiền,</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-09-04 08:10:46",
+              "createdAtDisplay": "1 ngày trước",
+              "updatedAt": "2026-09-03 22:20:04",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3316813,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0987xxxxxx",
+          "name": "Truonng Kim",
+          "email": "truongthikim08@gmail.com",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tôi 51 tuổi, tiền sử loét dạ dày đã khỏi có thể nổi xung thuốc này được ko. Tôi đang uống glucosamine của Nhật",
+          "createdAt": "2026-06-03 12:01:49",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-06-03 12:01:49",
+          "replies": [
+            {
+              "id": 3316815,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Vũ Tiến Thành",
+                "moderatorEmail": "thanhvt57@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Vũ Tiến Thành",
+              "email": "thanhvt57@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Kim,</p><p>Dạ sản phẩm Viên nang mềm Maecran Kolmar Pharma chống lão hóa, cung cấp vitamin (12 vỉ x 5 viên) dùng cho người loét dạ dày có sung huyết nên được tham khảo ý kiến bác sĩ ạ.</p><p>Nhà thuốc thông tin đến anh.</p>",
+              "createdAt": "2026-06-03 12:04:11",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-06-03 12:01:49",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3291939,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0397xxxxxx",
+          "name": "Lê Thị Quỳnh",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cho con bú có đfng được k ạ",
+          "createdAt": "2026-04-16 13:04:21",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-16 13:04:21",
+          "replies": [
+            {
+              "id": 3291959,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Cù Thị Thu",
+                "moderatorEmail": "thuct5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Cù Thị Thu",
+              "email": "thuct5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Quỳnh,</p><p>Thuốc Maecran cung cấp vitamin trong các trường hợp sau: Phụ nữ có thai, đang cho con bú, suy nhược, lão suy. Cải thiện các triệu chứng sau trong trường hợp rối loạn hệ tuần hoàn ngoại biên và trong thời kỳ bắt đầu suy yếu: Đau xóc ở cổ và vai, tê cóng và ớn lạnh tay chân… Chị có thể sử dụng ạ.</p>",
+              "createdAt": "2026-04-16 13:25:41",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-16 13:04:21",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3272533,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0982xxxxxx",
+          "name": "Lý",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Sp này bao nhiêu vậy",
+          "createdAt": "2026-03-12 09:40:51",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-12 09:40:51",
+          "replies": [
+            {
+              "id": 3272537,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Quý",
+                "moderatorEmail": "quyntn@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Ngọc Quý",
+              "email": "quyntn@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Lý,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ. </p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-03-12 09:43:28",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-12 09:40:51",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3271640,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0917xxxxxx",
+          "name": "chị ngọc",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "em uống thuốc này 2 tháng tóc rụng nhiều kinh khủng, ngưng uống thì nó giảm rụng từ từ, mới uống lại mấy hôm thì lại rụng thì nên ngưng lun ko ạ",
+          "createdAt": "2026-03-10 15:50:52",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-10 15:50:52",
+          "replies": [
+            {
+              "id": 3271658,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Tuyết Nhi",
+                "moderatorEmail": "nhiltt17@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Tuyết Nhi",
+              "email": "nhiltt17@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Ngọc,</p><p>Dạ nếu cơ địa không hợp chị có thể ngưng sản phẩm và cân nhắc đổi sang loại khác ạ</p><p>Nhà thuốc thông tin đến chị ạ</p><p><br></p>",
+              "createdAt": "2026-03-10 16:05:26",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-10 15:50:52",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 2,
+      "items": [
+        {
+          "id": 3237983,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0818xxxxxx",
+          "name": "Tạ Thị Vân Trang",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc này có loại nào same same bảng thành phần nhưng giá thành mềm hơn không ạ?",
+          "createdAt": "2025-12-30 20:37:59",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2025-12-30 20:37:59",
+          "replies": [
+            {
+              "id": 3237990,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thị Phượng",
+                "moderatorEmail": "phuonght34@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Thị Phượng",
+              "email": "phuonght34@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Vân Trang,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2025-12-30 20:47:11",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-12-30 20:37:59",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 2359215,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0982xxxxxx",
+          "name": "Le thi nga",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc nay co dung lâu dài được ko",
+          "createdAt": "2024-10-07 20:29:19",
+          "createdAtDisplay": "07/10/2024",
+          "updatedAt": "2024-10-07 20:32:26",
+          "replies": [
+            {
+              "id": 2359241,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thuỳ Linh",
+                "moderatorEmail": "LinhNTT77@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Thị Thuỳ Linh",
+              "email": "LinhNTT77@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Le Thi Nga,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sản phẩm chưa có thông tin dùng lâu dài, mình vui lòng tham khảo ý kiến bác sĩ ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Nhà thuốc thông tin đến bạn.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p>",
+              "createdAt": "2024-10-07 20:32:26",
+              "createdAtDisplay": "07/10/2024",
+              "updatedAt": "2024-10-07 20:32:26",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 2
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Viên nang mềm Maecran Kolmar Pharma chống lão hóa, cung cấp vitamin (12 vỉ x 5 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_2476_5b27_large_7ece20449b.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_4068_5b27_large_8b97626a8f.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_6051_5b27_large_a43b3383d4.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_8740_5b27_large_8ffde1220f.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_4526_5b27_large_0afbb1569d.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_3343_60e2_large_5a1913a0b5.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Maecran của Nhà sản xuất Kolmar, thành phần chính tocopherol acetate, là thuốc dùng để điều trị chống lão hóa. Cung cấp vitamin trong các trường hợp sau: Phụ nữ có thai, đang cho con bú, suy nhược, lão suy. Cải thiện các triệu chứng sau trong trường hợp rối loạn hệ tuần hoàn ngoại biên và trong thời kỳ bắt đầu suy yếu: Đau xóc ở cổ và vai, tê cóng và ớn lạnh tay chân…",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "2"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/maecran-kolmar-3129.html",
+        "priceCurrency": "VND",
+        "price": 6150,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Viên nang mềm Maecran Kolmar Pharma chống lão hóa, cung cấp vitamin (12 vỉ x 5 viên) - Nhà thuốc FPT Long Châu",
+      "description": "Thuốc Maecran của Nhà sản xuất Kolmar, thành phần chính tocopherol acetate, là thuốc dùng để điều trị chống lão hóa. Cung cấp vitamin trong các trường hợp sau: Phụ nữ có thai, đang cho con bú, suy nhược, lão suy. Cải thiện các triệu chứng sau trong trường hợp rối loạn hệ tuần hoàn ngoại biên và trong thời kỳ bắt đầu suy yếu: Đau xóc ở cổ và vai, tê cóng và ớn lạnh tay chân…",
+      "openGraph": {
+        "title": "Viên nang mềm Maecran Kolmar Pharma chống lão hóa, cung cấp vitamin (12 vỉ x 5 viên)",
+        "description": "Thuốc Maecran của Nhà sản xuất Kolmar, thành phần chính tocopherol acetate, là thuốc dùng để điều trị chống lão hóa. Cung cấp vitamin trong các trường hợp sau: Phụ nữ có thai, đang cho con bú, suy nhược, lão suy. Cải thiện các triệu chứng sau trong trường hợp rối loạn hệ tuần hoàn ngoại biên và trong thời kỳ bắt đầu suy yếu: Đau xóc ở cổ và vai, tê cóng và ớn lạnh tay chân…",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004648_maecran_kolmar_2476_5b27_large_7ece20449b.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/maecran-kolmar-3129.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/maecran-kolmar-3129.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

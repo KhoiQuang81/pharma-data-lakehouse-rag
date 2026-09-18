@@ -1,0 +1,731 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/quincef-125-2474.html",
+  "ingestion_timestamp": "2026-09-05T11:03:03.103135+00:00",
+  "file_hash": "1c2721b73de23d1ae202e097c7748cee57dd4621d5f2c28f96be61d86d776d8a",
+  "lineage_hash": "e2578571f769141e5cbef9a0813c94dda59671b3ee9583add38a6effd409ad12",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/quincef-125-2474.html",
+    "product": {
+      "sku": "00006228",
+      "webName": "Thuốc bột uống Quincef 125 Mekophar điều trị nhiễm khuẩn đường hô hấp trên (10 gói x 3.8g)",
+      "name": "QUINCEF 125MG MEKOPHAR 10 GÓI",
+      "shortName": "QUINCEF 125 MKP 10 GÓI",
+      "headingText": "Thuốc bột uống Quincef 125",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_3414_5bce_large_be05723ae8.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_3818_5bce_large_d3ae7e0424.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_6799_5bce_large_b7138a6e5d.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_9980_5bce_large_cf1ef07ee2.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_7409_5bce_large_e30ffa4122.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 731,
+          "name": "Thuốc kháng sinh, kháng nấm",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 781,
+          "name": "Thuốc kháng sinh",
+          "parentName": "Thuốc kháng sinh, kháng nấm",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 10 Gói x 3.8g"
+        },
+        {
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Gói x 3.8g"
+        }
+      ],
+      "slug": "thuoc/quincef-125-2474.html",
+      "ingredient": [
+        {
+          "id": 23038,
+          "ingredientId": 13658,
+          "shortDescription": "125mg",
+          "name": "Cefuroxim",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 gói",
+      "registNum": "893110149025",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Bột pha hỗn dịch uống",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Thuốc dùng đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Theo chỉ dẫn của bác sĩ.</p>\n\n<p><strong>Liều đề nghị</strong></p>\n\n<p><em>Người lớn</em></p>\n\n<p>Hầu hết các nhiễm khuẩn: 250mg x 2 lần/ngày.</p>\n\n<p>Nhiễm khuẩn tiết niệu: 125mg x 2 lần/ngày.</p>\n\n<p>Viêm phế quản và viêm phổi: 500mg x 2 lần/ngày.</p>\n\n<p><em>Trẻ em</em></p>\n\n<p>Hầu hết các nhiễm khuẩn: 125mg x 2 lần/ngày.</p>\n\n<p>Trẻ em từ 2 tuổi trở lên bị viêm tai giữa hoặc bị nhiễm khuẩn nặng hơn: 250mg x 2 lần/ngày.</p>\n\n<p>Thời gian điều trị từ 5 - 10 ngày. Nên uống thuốc sau khi ăn để đạt được hấp thu tối ưu.</p>\n\n<p>Không cần thiết phải chỉnh liều trong trường hợp suy thận, bệnh nhân đang làm thẩm phân thận hay ở người già, nếu dùng không quá mức tối đa 1g/ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p><em>Triệu chứng</em></p>\n\n<p>Phần lớn thuốc chỉ gây buồn nôn, nôn và tiêu chảy. Tuy nhiên có thể gây phản ứng tăng kích thích thần kinh cơ và cơn co giật, nhất là ở người suy thận.</p>\n\n<p><em>Cách xử trí</em></p>\n\n<p>Bảo vệ đường hô hấp của người bệnh, hỗ trợ thông thoáng khí và truyền dịch. Nếu phát triển các cơn co giật, ngừng ngay sử dụng thuốc; có thể sử dụng liệu pháp chống co giật nếu có chỉ định về lâm sàng. Thẩm tách máu có thể loại bỏ thuốc khỏi máu, nhưng phần lớn việc điều trị là hỗ trợ và giải quyết triệu chứng</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Quincef 125</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Thuốc được chỉ định điều trị những nhiễm khuẩn do vi khuẩn nhạy cảm gây ra:</p>\n\n<ul>\n\t<li>\n\t<p>Đường hô hấp trên: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\">Viêm tai giữa</a></strong>, viêm xoang, viêm amiđan và viêm họng.</p>\n\t</li>\n\t<li>\n\t<p>Đường hô hấp dưới: Viêm phổi, viêm phế quản cấp và những đợt cấp của <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-phe-quan-1271.html\">viêm phế quản mạn tính</a></strong>.</p>\n\t</li>\n\t<li>\n\t<p>Đường niệu - sinh dục: Viêm thận - bể thận, viêm bàng quang và viêm niệu đạo,....</p>\n\t</li>\n\t<li>\n\t<p>Da và mô mềm: Bệnh nhọt, bệnh mủ da, chốc lở.</p>\n\t</li>\n\t<li>\n\t<p><strong><a href=\"https://nhathuoclongchau.com.vn/benh/lau-587.html\">Bệnh lậu</a></strong>: Viêm niệu đạo cấp không biến chứng do lậu cầu và viêm cổ tử cung.</p>\n\t</li>\n\t<li>\n\t<p>Cefuroxime axetil cũng được uống để điều trị bệnh Lyme thời kỳ đầu.</p>\n\t</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p><strong>Cefuroxime</strong> là kháng sinh bán tổng hợp có phổ kháng khuẩn rộng, thuộc nhóm Cephalosporin. Cefuroxime có hoạt tính kháng khuẩn do ức chế tổng hợp vách tế bào vi khuẩn bằng cách gắn vào các protein đích thiết yếu.</p>\n\n<p>Cefuroxime có hoạt tính kháng cầu khuẩn Gram dương và Gram âm ưa khí và kỵ khí, kể cả hầu hết các chủng <em>Staphylococcus </em>tiết penicillinase, và có hoạt tính kháng vi khuẩn đường ruột Gram âm. Cefuroxime thường có tác dụng đối với các vi khuẩn sau: Gram âm hiếu khí: <em>Haemophilus influenzae</em> (kể cả chúng đề kháng ampicillin), <em>Moraxella catarrhalis, Neisseria gonorrheae, Escherichia coli, Klebsiella, Proteus;</em> Gram dương hiếu khí: <em>Staphylococcus aureus, Staph. epidermidis, Streptococcus pneumoniae, Streptococcus</em> nhóm B; kỵ khí: Cầu khuẩn Gram dương và Gram âm (kể cả <em>Peptococcus</em> và <em>Peptostreptococcus </em>species), trực khuẩn Gram dương (kể cả <em>Clostridium species</em>), trực khuẩn Gram âm (kể cả <em>Bacteroides</em> và <em>Fusobacterium </em>species)</p>\n\n<h3>Dược động học</h3>\n\n<p>Cefuroxime axetil sẽ được hấp thu qua đường tiêu hóa và nhanh chóng thủy phân tại lớp niêm mạc ruột và trong máu để phóng thích cefuroxime vào hệ tuần hoàn.</p>\n\n<p>Cefuroxime phân bố rộng khắp cơ thể, kể cả dịch màng phổi, đờm, xương, hoạt dịch và thủy dịch.</p>\n\n<p>Cefuroxime không bị chuyển hóa và được thải trừ ở dạng không biến đổi, khoảng 50% qua lọc cầu thận và khoảng 50% qua bài tiết ở ống thận. Cefuroxime chỉ thải trừ qua mật với lượng rất nhỏ.</p>",
+      "brand": "Mekophar",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc Quincef 125</strong>, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp</em></p>\n\n<ul>\n\t<li>Tiêu chảy, ban da dạng sần.</li>\n</ul>\n\n<p><em>Ít gặp</em></p>\n\n<ul>\n\t<li>Phản ứng phản vệ, nhiễm nấm Candida, tăng bạch cầu ưa eosin, giảm bạch cầu, giảm bạch cầu trung tính, thử nghiệm Coombs dương tính, buồn nôn, nôn, nổi mày đay, ngứa, tăng creatinin trong huyết thanh.</li>\n</ul>\n\n<p><em>Hiếm gặp</em></p>\n\n<ul>\n\t<li>Sốt, thiếu máu tan máu, viêm đại tràng màng giả, ban đỏ đa hình, hội chứng Stevens - Johnson, hoại tử biểu bì nhiễm độc, vàng da ứ mật, tăng nhẹ AST và ALT, nhiễm độc thận có tăng tạm thời urê huyết, creatinin huyết, viêm thận kẽ, co giật, đau đầu, kích động, đau khớp. </li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Thông báo cho bác sỹ những tác dụng phụ không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Hộp 10 Gói x 3.8g",
+      "indications": [
+        {
+          "id": 8,
+          "name": "Viêm amidan",
+          "slug": "benh/viem-amidan-467.html"
+        },
+        {
+          "id": 15,
+          "name": "Viêm tai giữa",
+          "slug": "benh/viem-tai-giua-474.html"
+        },
+        {
+          "id": 43,
+          "name": "Viêm xoang",
+          "slug": "benh/viem-xoang-479.html"
+        },
+        {
+          "id": 112,
+          "name": "Nhiễm trùng tiết niệu",
+          "slug": "benh/nhiem-trung-tiet-nieu-355.html"
+        },
+        {
+          "id": 229,
+          "name": "Nhiễm trùng da và mô mềm",
+          "slug": null
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "MEKOPHAR",
+      "shortDescription": "<p><strong>Quincef 125</strong> được sản xuất bởi <i>Công ty Cổ phần Hóa – Dược phẩm Mekophar</i>, thành phần chính là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/cefuroxime\"><strong>cefuroxime</strong></a>, là thuốc kháng sinh được chỉ định điều trị những nhiễm khuẩn do vi khuẩn nhạy cảm gây ra như: <a href=\"https://nhathuoclongchau.com.vn/bai-viet/dau-hieu-nhan-biet-nhiem-khuan-duong-ho-hap-va-cach-phong-tranh-41379.html\"><strong>Nhiễm khuẩn đường hô hấp trên</strong></a>, nhiễm khuẩn đường hô hấp dưới, nhiễm khuẩn đường niệu - sinh dục, nhiễm khuẩn da và mô mềm,…</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Từ 2 tuổi trở lên",
+      "objectUse": [
+        "Người lớn",
+        "Trẻ em"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Phụ nữ cho con bú",
+        "Suy gan thận"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Dị ứng thuốc",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/mekophar",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "QUINCEF 125",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 14,
+        "measureUnitName": "Gói",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Gói x 3.8g"
+      },
+      "highestLevelCategory": {
+        "id": 781,
+        "name": "Thuốc kháng sinh",
+        "parentName": "Thuốc kháng sinh, kháng nấm",
+        "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_3414_5bce_large_be05723ae8.JPG",
+          "alternativeText": "Thuốc bột uống Quincef 125 Mekophar điều trị nhiễm khuẩn đường hô hấp trên (10 gói x 3.8g) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_3818_5bce_large_d3ae7e0424.JPG",
+          "alternativeText": "Thuốc bột uống Quincef 125 Mekophar điều trị nhiễm khuẩn đường hô hấp trên (10 gói x 3.8g) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_6799_5bce_large_b7138a6e5d.JPG",
+          "alternativeText": "Thuốc bột uống Quincef 125 Mekophar điều trị nhiễm khuẩn đường hô hấp trên (10 gói x 3.8g) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_9980_5bce_large_cf1ef07ee2.JPG",
+          "alternativeText": "Thuốc bột uống Quincef 125 Mekophar điều trị nhiễm khuẩn đường hô hấp trên (10 gói x 3.8g) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_7409_5bce_large_e30ffa4122.JPG",
+          "alternativeText": "Thuốc bột uống Quincef 125 Mekophar điều trị nhiễm khuẩn đường hô hấp trên (10 gói x 3.8g) 5"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc kháng sinh, kháng nấm",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam"
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh"
+      }
+    ],
+    "content": {
+      "sku": "00006228",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Thuốc dùng đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Theo chỉ dẫn của bác sĩ.</p>\n\n<p><strong>Liều đề nghị</strong></p>\n\n<p><em>Người lớn</em></p>\n\n<p>Hầu hết các nhiễm khuẩn: 250mg x 2 lần/ngày.</p>\n\n<p>Nhiễm khuẩn tiết niệu: 125mg x 2 lần/ngày.</p>\n\n<p>Viêm phế quản và viêm phổi: 500mg x 2 lần/ngày.</p>\n\n<p><em>Trẻ em</em></p>\n\n<p>Hầu hết các nhiễm khuẩn: 125mg x 2 lần/ngày.</p>\n\n<p>Trẻ em từ 2 tuổi trở lên bị viêm tai giữa hoặc bị nhiễm khuẩn nặng hơn: 250mg x 2 lần/ngày.</p>\n\n<p>Thời gian điều trị từ 5 - 10 ngày. Nên uống thuốc sau khi ăn để đạt được hấp thu tối ưu.</p>\n\n<p>Không cần thiết phải chỉnh liều trong trường hợp suy thận, bệnh nhân đang làm thẩm phân thận hay ở người già, nếu dùng không quá mức tối đa 1g/ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p><em>Triệu chứng</em></p>\n\n<p>Phần lớn thuốc chỉ gây buồn nôn, nôn và tiêu chảy. Tuy nhiên có thể gây phản ứng tăng kích thích thần kinh cơ và cơn co giật, nhất là ở người suy thận.</p>\n\n<p><em>Cách xử trí</em></p>\n\n<p>Bảo vệ đường hô hấp của người bệnh, hỗ trợ thông thoáng khí và truyền dịch. Nếu phát triển các cơn co giật, ngừng ngay sử dụng thuốc; có thể sử dụng liệu pháp chống co giật nếu có chỉ định về lâm sàng. Thẩm tách máu có thể loại bỏ thuốc khỏi máu, nhưng phần lớn việc điều trị là hỗ trợ và giải quyết triệu chứng</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Quincef 125.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc Quincef 125</strong>, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp</em></p>\n\n<ul>\n\t<li>Tiêu chảy, ban da dạng sần.</li>\n</ul>\n\n<p><em>Ít gặp</em></p>\n\n<ul>\n\t<li>Phản ứng phản vệ, nhiễm nấm Candida, tăng bạch cầu ưa eosin, giảm bạch cầu, giảm bạch cầu trung tính, thử nghiệm Coombs dương tính, buồn nôn, nôn, nổi mày đay, ngứa, tăng creatinin trong huyết thanh.</li>\n</ul>\n\n<p><em>Hiếm gặp</em></p>\n\n<ul>\n\t<li>Sốt, thiếu máu tan máu, viêm đại tràng màng giả, ban đỏ đa hình, hội chứng Stevens - Johnson, hoại tử biểu bì nhiễm độc, vàng da ứ mật, tăng nhẹ AST và ALT, nhiễm độc thận có tăng tạm thời urê huyết, creatinin huyết, viêm thận kẽ, co giật, đau đầu, kích động, đau khớp. </li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Thông báo cho bác sỹ những tác dụng phụ không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p style=\"text-align:justify;\">Nơi khô (độ ẩm 70%). Nhiệt độ 30°C. Tránh ánh sáng.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Quincef 125</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Thuốc được chỉ định điều trị những nhiễm khuẩn do vi khuẩn nhạy cảm gây ra:</p>\n\n<ul>\n\t<li>\n\t<p>Đường hô hấp trên: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\">Viêm tai giữa</a></strong>, viêm xoang, viêm amiđan và viêm họng.</p>\n\t</li>\n\t<li>\n\t<p>Đường hô hấp dưới: Viêm phổi, viêm phế quản cấp và những đợt cấp của <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-phe-quan-1271.html\">viêm phế quản mạn tính</a></strong>.</p>\n\t</li>\n\t<li>\n\t<p>Đường niệu - sinh dục: Viêm thận - bể thận, viêm bàng quang và viêm niệu đạo,....</p>\n\t</li>\n\t<li>\n\t<p>Da và mô mềm: Bệnh nhọt, bệnh mủ da, chốc lở.</p>\n\t</li>\n\t<li>\n\t<p><strong><a href=\"https://nhathuoclongchau.com.vn/benh/lau-587.html\">Bệnh lậu</a></strong>: Viêm niệu đạo cấp không biến chứng do lậu cầu và viêm cổ tử cung.</p>\n\t</li>\n\t<li>\n\t<p>Cefuroxime axetil cũng được uống để điều trị bệnh Lyme thời kỳ đầu.</p>\n\t</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p><strong>Cefuroxime</strong> là kháng sinh bán tổng hợp có phổ kháng khuẩn rộng, thuộc nhóm Cephalosporin. Cefuroxime có hoạt tính kháng khuẩn do ức chế tổng hợp vách tế bào vi khuẩn bằng cách gắn vào các protein đích thiết yếu.</p>\n\n<p>Cefuroxime có hoạt tính kháng cầu khuẩn Gram dương và Gram âm ưa khí và kỵ khí, kể cả hầu hết các chủng <em>Staphylococcus </em>tiết penicillinase, và có hoạt tính kháng vi khuẩn đường ruột Gram âm. Cefuroxime thường có tác dụng đối với các vi khuẩn sau: Gram âm hiếu khí: <em>Haemophilus influenzae</em> (kể cả chúng đề kháng ampicillin), <em>Moraxella catarrhalis, Neisseria gonorrheae, Escherichia coli, Klebsiella, Proteus;</em> Gram dương hiếu khí: <em>Staphylococcus aureus, Staph. epidermidis, Streptococcus pneumoniae, Streptococcus</em> nhóm B; kỵ khí: Cầu khuẩn Gram dương và Gram âm (kể cả <em>Peptococcus</em> và <em>Peptostreptococcus </em>species), trực khuẩn Gram dương (kể cả <em>Clostridium species</em>), trực khuẩn Gram âm (kể cả <em>Bacteroides</em> và <em>Fusobacterium </em>species)</p>\n\n<h3>Dược động học</h3>\n\n<p>Cefuroxime axetil sẽ được hấp thu qua đường tiêu hóa và nhanh chóng thủy phân tại lớp niêm mạc ruột và trong máu để phóng thích cefuroxime vào hệ tuần hoàn.</p>\n\n<p>Cefuroxime phân bố rộng khắp cơ thể, kể cả dịch màng phổi, đờm, xương, hoạt dịch và thủy dịch.</p>\n\n<p>Cefuroxime không bị chuyển hóa và được thải trừ ở dạng không biến đổi, khoảng 50% qua lọc cầu thận và khoảng 50% qua bài tiết ở ống thận. Cefuroxime chỉ thải trừ qua mật với lượng rất nhỏ.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định</h3>\n\n<p>Thuốc Quincef 125 chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Bệnh nhân có tiền sử dị ứng với kháng sinh nhóm Cephalosporin.</p>\n\t</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Cần thận trọng đặc biệt khi chỉ định cho những bệnh nhân có tiền sử sốc phản vệ với Penicillin.</p>\n\n<p>Thận trọng khi cho người bệnh dùng đồng thời với các thuốc lợi tiểu mạnh, vì có thể có tác dụng bất lợi đến chức năng thận.</p>\n\n<p>Dùng cefuroxime dài ngày có thể làm các chủng không nhạy cảm phát triển quá mức, cần theo dõi người bệnh cần thận, nếu bị bội nhiễm trong khi điều trị, phải ngừng sử dụng thuốc.</p>\n\n<p>Đã có báo cáo viêm đại tràng màng giả xảy ra khi sử dụng kháng sinh phổ rộng, nên hết sức thận trọng.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Thận trọng khi sử dụng cho người lái tàu xe hoặc vận hành máy.</p>\n\n<h3>Thời kỳ mang thai </h3>\n\n<p>Thận trọng khi sử dụng thuốc cho phụ nữ mang thai trong những tháng đầu của thai kỳ.</p>\n\n<h3>Thời kỳ cho con bú</h3>\n\n<p>Thận trọng khi sử dụng thuốc cho phụ nữ cho con bú.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Ranitidine với sodium bicarbonate làm giảm sinh khả dụng của cefuroxime axetil. Nên dùng cefuroxime axetil cách ít nhất 2 giờ sau khi uống thuốc kháng acid hoặc thuốc phong bế H2, vì những thuốc này có thể làm tăng pH dạ dày.</p>\n\n<p>Dùng probenecid liều cao làm giảm nồng độ thanh thải cefuroxime ở thận, làm cho nồng độ cefuroxime trong huyết tương cao hơn và kéo dài hơn.</p>\n\n<p>Dùng chung với aminoglycoside làm tăng khả năng gây nhiễm độc thận.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Quincef 125mg điều trị viêm tai giữa, viêm xoang (10 gói)",
+        "metaDescription": "Thuốc Quincef 125mg Mekophar là thuốc kháng sinh được chỉ định điều trị nhiễm khuẩn đường hô hấp trên, nhiễm khuẩn đường hô hấp dưới,...",
+        "id": 2717,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_3414_5bce_large_be05723ae8.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc bột uống Quincef 125 Mekophar điều trị nhiễm khuẩn đường hô hấp trên (10 gói x 3.8g)",
+            "description": "Quincef 125 được sản xuất bởi Công ty Cổ phần Hóa – Dược phẩm Mekophar, thành phần chính là cefuroxime, là thuốc kháng sinh được chỉ định điều trị những nhiễm khuẩn do vi khuẩn nhạy cảm gây ra như: Nhiễm khuẩn đường hô hấp trên, nhiễm khuẩn đường hô hấp dưới, nhiễm khuẩn đường niệu - sinh dục, nhiễm khuẩn da và mô mềm,…"
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 34702,
+        "title": "Ai không nên sử dụng thuốc Quincef 125?",
+        "content": "<p>Quincef 125 chống chỉ định trong các trường hợp sau:</p><ul><li>Bệnh nhân có tiền sử dị ứng với kháng sinh nhóm Cephalosporin (vì Cefuroxime thuộc nhóm này).</li><li>Ngoài ra, cần thận trọng đặc biệt khi chỉ định cho những bệnh nhân có tiền sử sốc phản vệ với Penicillin.</li></ul>"
+      },
+      {
+        "id": 34703,
+        "title": "Dược lực học và dược động học của thuốc Quincef 125 là gì?",
+        "content": "<ul><li><strong>Dược lực học:</strong> Là nghiên cứu về các ảnh hưởng sinh hóa, sinh lý, và phân tử của thuốc trên cơ thể. Nó giải thích cách thuốc tương tác với các thụ thể và các hiệu ứng sau thụ thể để tạo ra tác dụng điều trị. Cefuroxime có hoạt tính kháng khuẩn do ức chế tổng hợp vách tế bào vi khuẩn.</li><li><strong>Dược động học:</strong> Là những tác động của cơ thể đối với thuốc trong suốt quá trình thuốc đi vào, ở trong và đi ra khỏi cơ thể. Bao gồm các quá trình hấp thụ, sinh khả dụng, phân bố, chuyển hóa và thải trừ. Cefuroxime axetil được hấp thu qua đường tiêu hóa, thủy phân thành cefuroxime, phân bố rộng khắp cơ thể và được thải trừ qua thận dưới dạng không biến đổi.</li></ul>"
+      },
+      {
+        "id": 34701,
+        "title": "Liều dùng và cách sử dụng Quincef 125 như thế nào?",
+        "content": "<p>Thuốc Quincef 125 được dùng theo đường uống. Liều dùng cụ thể cần theo chỉ dẫn của bác sĩ, tuy nhiên liều đề nghị như sau:</p><p class=\"ql-indent-1\"><strong>Người lớn:&nbsp;</strong></p><ul><li class=\"ql-indent-1\">Hầu hết các nhiễm khuẩn: 250mg x 2 lần/ngày.</li><li class=\"ql-indent-1\">Nhiễm khuẩn tiết niệu: 125mg x 2 lần/ngày.</li><li class=\"ql-indent-1\">Viêm phế quản và viêm phổi: 500mg x 2 lần/ngày.</li></ul><p class=\"ql-indent-1\"><strong>Trẻ em:&nbsp;</strong></p><ul><li class=\"ql-indent-1\">Hầu hết các nhiễm khuẩn: 125mg x 2 lần/ngày.</li><li class=\"ql-indent-1\">Trẻ em từ 2 tuổi trở lên bị viêm tai giữa hoặc nhiễm khuẩn nặng hơn: 250mg x 2 lần/ngày. Thời gian điều trị thường từ 5 - 10 ngày. Nên uống thuốc sau khi ăn để đạt được hấp thu tối ưu. Không cần điều chỉnh liều cho bệnh nhân suy thận, bệnh nhân đang thẩm phân thận hoặc người già nếu dùng không quá 1g/ngày.</li></ul>"
+      },
+      {
+        "id": 34699,
+        "title": "Quincef 125 Mekophar là thuốc gì và thành phần chính của nó là gì?",
+        "content": "<p>Quincef 125 Mekophar là một loại thuốc kháng sinh dạng bột uống. Thành phần chính của thuốc là Cefuroxime với hàm lượng 125mg trên mỗi gói. Cefuroxime là một kháng sinh bán tổng hợp thuộc nhóm Cephalosporin, có phổ kháng khuẩn rộng, hoạt động bằng cách ức chế tổng hợp vách tế bào vi khuẩn.</p>"
+      },
+      {
+        "id": 34700,
+        "title": "Thuốc Quincef 125 được chỉ định điều trị những bệnh gì?",
+        "content": "<p>Quincef 125 được chỉ định để điều trị nhiều loại nhiễm khuẩn do vi khuẩn nhạy cảm gây ra, bao gồm:</p><ul><li><strong>Nhiễm khuẩn đường hô hấp trên:</strong> Viêm tai giữa, viêm xoang, viêm amiđan và viêm họng.</li><li><strong>Nhiễm khuẩn đường hô hấp dưới:</strong> Viêm phổi, viêm phế quản cấp và những đợt cấp của viêm phế quản mạn tính.</li><li><strong>Nhiễm khuẩn đường niệu - sinh dục:</strong> Viêm thận - bể thận, viêm bàng quang và viêm niệu đạo.</li><li><strong>Nhiễm khuẩn da và mô mềm:</strong> Bệnh nhọt, bệnh mủ da, chốc lở.</li><li><strong>Bệnh lậu:</strong> Viêm niệu đạo cấp không biến chứng do lậu cầu và viêm cổ tử cung.</li><li>Ngoài ra, thuốc cũng được dùng để điều trị bệnh Lyme thời kỳ đầu.</li></ul>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 17,
+      "items": [
+        {
+          "id": 3316486,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0355xxxxxx",
+          "name": "Bàn Thị Mai",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "hộp này bao nhiêu tiền ạ",
+          "createdAt": "2026-06-02 19:40:56",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-06-02 19:40:56",
+          "replies": [
+            {
+              "id": 3316487,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Bảo Nghi",
+                "moderatorEmail": "nghintb2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Bảo Nghi",
+              "email": "nghintb2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Mai,</p><p>Dạ Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p><p><br></p>",
+              "createdAt": "2026-06-02 19:42:24",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-06-02 19:40:56",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3316288,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0355xxxxxx",
+          "name": "Bàn Thị Mai",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "hộp này bao nhiêu tiền ạ",
+          "createdAt": "2026-06-02 12:29:50",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-06-02 12:29:50",
+          "replies": [
+            {
+              "id": 3316289,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Bùi Cường Vi",
+                "moderatorEmail": "vibc@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Bùi Cường Vi",
+              "email": "vibc@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Mai,</p><p>Hiện tại, sản phẩm Thuốc bột uống Quincef 125 Mekophar điều trị nhiễm khuẩn đường hô hấp trên (10 gói x 3.8g) có giá 37,000 ₫/hộp ạ.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-06-02 12:32:04",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-06-02 12:29:50",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3287769,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0392xxxxxx",
+          "name": "Loan",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mua ở nhà thuốc LC là có phải k ạ",
+          "createdAt": "2026-04-09 09:13:23",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-09 09:13:23",
+          "replies": [
+            {
+              "id": 3287776,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Trọng Nghĩa",
+                "moderatorEmail": "nghiant56@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Trọng Nghĩa",
+              "email": "nghiant56@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Loan, </p><p>Hiện tại, QUINCEF 125 MKP 10 GÓI có giá 37,000 ₫/hộp ạ.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại ứng dụng Long Châu/ZALO OA Nhà thuốc FPT Long Châu để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-04-09 09:22:48",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-09 09:13:23",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3278603,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0702xxxxxx",
+          "name": "Huy",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cho anh xin giá hộp với nha",
+          "createdAt": "2026-03-23 11:26:25",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-23 11:26:25",
+          "replies": [
+            {
+              "id": 3278615,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Đỗ Diệp Minh",
+                "moderatorEmail": "minhdd38@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Đỗ Diệp Minh",
+              "email": "minhdd38@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Huy,</p><p>Hiện tại, sản phẩm Thuốc bột uống Quincef 125 Mekophar điều trị nhiễm khuẩn đường hô hấp trên (10 gói x 3.8g) có giá 37.000d/hộp</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a>&nbsp;</strong>để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p><p>\t</p><p><br></p>",
+              "createdAt": "2026-03-23 11:32:55",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-23 11:26:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3278602,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0703xxxxxx",
+          "name": "Thuy Binh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Bao nhiêu 1 hộp vậy ạ",
+          "createdAt": "2026-03-23 11:24:42",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-23 11:24:42",
+          "replies": [
+            {
+              "id": 3278614,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Đỗ Diệp Minh",
+                "moderatorEmail": "minhdd38@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Đỗ Diệp Minh",
+              "email": "minhdd38@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Thuy Binh,</p><p>Hiện tại, sản phẩm Thuốc bột uống Quincef 125 Mekophar điều trị nhiễm khuẩn đường hô hấp trên (10 gói x 3.8g) có giá 37.000d/hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> </strong>để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-03-23 11:32:12",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-23 11:24:42",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc bột uống Quincef 125 Mekophar điều trị nhiễm khuẩn đường hô hấp trên (10 gói x 3.8g)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_3414_5bce_large_be05723ae8.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_3818_5bce_large_d3ae7e0424.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_6799_5bce_large_b7138a6e5d.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_9980_5bce_large_cf1ef07ee2.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_7409_5bce_large_e30ffa4122.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "Quincef 125 được sản xuất bởi Công ty Cổ phần Hóa – Dược phẩm Mekophar, thành phần chính là cefuroxime, là thuốc kháng sinh được chỉ định điều trị những nhiễm khuẩn do vi khuẩn nhạy cảm gây ra như: Nhiễm khuẩn đường hô hấp trên, nhiễm khuẩn đường hô hấp dưới, nhiễm khuẩn đường niệu - sinh dục, nhiễm khuẩn da và mô mềm,…",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Quincef 125mg điều trị viêm tai giữa, viêm xoang (10 gói)",
+      "description": "Thuốc Quincef 125mg Mekophar là thuốc kháng sinh được chỉ định điều trị nhiễm khuẩn đường hô hấp trên, nhiễm khuẩn đường hô hấp dưới,...",
+      "openGraph": {
+        "title": "Thuốc bột uống Quincef 125 Mekophar điều trị nhiễm khuẩn đường hô hấp trên (10 gói x 3.8g)",
+        "description": "Quincef 125 được sản xuất bởi Công ty Cổ phần Hóa – Dược phẩm Mekophar, thành phần chính là cefuroxime, là thuốc kháng sinh được chỉ định điều trị những nhiễm khuẩn do vi khuẩn nhạy cảm gây ra như: Nhiễm khuẩn đường hô hấp trên, nhiễm khuẩn đường hô hấp dưới, nhiễm khuẩn đường niệu - sinh dục, nhiễm khuẩn da và mô mềm,…",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006228_quincef_125_3414_5bce_large_be05723ae8.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/quincef-125-2474.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/quincef-125-2474.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

@@ -1,0 +1,1892 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/ecosip-h20g-17337.html",
+  "ingestion_timestamp": "2026-09-05T09:30:25.870139+00:00",
+  "file_hash": "e22a886b68a5dbf4568436137189898964d7d818c79545b45b884f00de3efce9",
+  "lineage_hash": "aed3368b88b564155711e76bcd1ad07e17e02c72e77909c0267f4bbae87b1182",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/ecosip-h20g-17337.html",
+    "product": {
+      "sku": "00002699",
+      "webName": "Cao dán thảo dược Ecosip Tatra giảm đau vai, đau lưng (20 gói x 5 miếng)",
+      "name": "ECOSIP H/20G",
+      "shortName": "ECOSIP H/20G",
+      "headingText": "Cao dán thảo dược Ecosip",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_2909_63db_large_d34753c9f1.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_9271_63db_large_5a858afe10.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_3288_63db_large_7e0f873ac6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_1877_63db_large_fbc48354a4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_6642_63db_large_adba895386.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_5037_63db_large_d5cd475b78.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_6571_63db_large_1a22f6f87e.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 688,
+          "name": "Miếng dán, cao xoa, dầu",
+          "parentName": "Thuốc",
+          "slug": "thuoc/mieng-dan-cao-xoa-dau",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 745,
+          "name": "Miếng dán giảm đau",
+          "parentName": "Miếng dán, cao xoa, dầu",
+          "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 320000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 20 Gói"
+        },
+        {
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": 16000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "20 Gói"
+        }
+      ],
+      "slug": "thuoc/ecosip-h20g-17337.html",
+      "ingredient": [
+        {
+          "id": 14141,
+          "ingredientId": 38062,
+          "shortDescription": "30mg",
+          "name": "Thăng ma",
+          "isPrimary": false,
+          "slug": "thanh-phan/thang-ma"
+        },
+        {
+          "id": 14142,
+          "ingredientId": 22536,
+          "shortDescription": "30mg",
+          "name": "Hồng hoa",
+          "isPrimary": false,
+          "slug": "thanh-phan/hong-hoa-100124"
+        },
+        {
+          "id": 14143,
+          "ingredientId": 10069,
+          "shortDescription": "30mg",
+          "name": "Bạch cập",
+          "isPrimary": false,
+          "slug": "thanh-phan/bach-cap"
+        },
+        {
+          "id": 14144,
+          "ingredientId": 16564,
+          "shortDescription": "30mg",
+          "name": "Đại hoàng",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 14145,
+          "ingredientId": 25764,
+          "shortDescription": "40mg",
+          "name": "Lô hội",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 14146,
+          "ingredientId": 14013,
+          "shortDescription": "30mg",
+          "name": "Chè dây",
+          "isPrimary": false,
+          "slug": "thanh-phan/che-day"
+        },
+        {
+          "id": 14147,
+          "ingredientId": 27307,
+          "shortDescription": "10mg",
+          "name": "Methyl salicylate",
+          "isPrimary": false,
+          "slug": "thanh-phan/methyl-salicylate"
+        },
+        {
+          "id": 14148,
+          "ingredientId": 24482,
+          "shortDescription": "30mg",
+          "name": "Kẽm",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 14149,
+          "ingredientId": 26940,
+          "shortDescription": "40mg",
+          "name": "Menthol",
+          "isPrimary": false,
+          "slug": "thanh-phan/menthol"
+        },
+        {
+          "id": 14150,
+          "ingredientId": 12473,
+          "shortDescription": "30mg",
+          "name": "Cam thảo",
+          "isPrimary": false,
+          "slug": "thanh-phan/cam-thao"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 gói",
+      "registNum": "VN-19095-15",
+      "manufactor": "Đài Loan",
+      "dosageForm": "Miếng dán",
+      "dosage": "<h3>Cách dùng</h3><p>Dán ngoài da.</p><p>Rửa sạch và lau khô vùng bị đau. Có thể cắt miếng dán theo kích cỡ chỗ dán. Gỡ miếng cao ra khỏi miếng phim rồi dán vào chỗ bị đau.</p><h3>Liều dùng</h3><p><i>Người lớn và trẻ em trên 12 tuổi</i></p><p>Không dùng quá 3 lần/ngày. Không dùng quá 7 ngày liên tục.&nbsp;</p><p>Mỗi miếng dán không dùng quá 8 tiếng.&nbsp;</p><p><i>Trẻ em dưới 12 tuổi và phụ nữ mang thai</i></p><p>Cần&nbsp;hỏi ý kiến bác sĩ.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Chưa có báo cáo.</p><h3>Làm gì khi quên 1 liều?</h3><p>Thuốc chỉ sử dụng khi cần và không theo lịch trình, nên trường hợp quên liều gần như không xảy ra.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Cao dán Ecosip được chỉ định dùng trong các trường hợp: Bầm tím, bong gân, đau cơ, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-khop-797.html\">đau khớp</a>, đau vai, đau dây thần kinh, mỏi cơ, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-lung-64.html\">đau lưng</a>.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "brand": "TATRA",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng Cao dán Ecosip, bạn có thể gặp các tác dụng không mong muốn (ADR). </p>\n\n<p>Kích thích tại chỗ, gây ngứa rát.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 20 Gói",
+      "indications": [
+        {
+          "id": 513,
+          "name": "Đau nhức toàn thân",
+          "slug": "benh/dau-nhuc-toan-than-63.html"
+        },
+        {
+          "id": 1067,
+          "name": "Đau nhức cơ thể",
+          "slug": null
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "SHENG CHUN TANG PHARM",
+      "shortDescription": "<p>Cao dán Ecosip là loại cao dán thảo dược, do Công ty Sheng Chun Tang Pharm (Đài Loan) sản xuất, có thành phần chính từ các dược liệu, phối hợp với methyl salicylate, kẽm, menthol... Cao dán Ecosip được dùng trong các trường hợp bầm tím, bong gân, đau cơ, đau khớp, đau vai, đau dây thần kinh, mỏi cơ, đau lưng.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "Trên 2 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Phụ nữ cho con bú",
+        "Trẻ em"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": false,
+      "brandSlug": "thuong-hieu/tatra",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "ECOSIP",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 14,
+        "measureUnitName": "Gói",
+        "isSellDefault": true,
+        "price": 16000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "20 Gói"
+      },
+      "highestLevelCategory": {
+        "id": 745,
+        "name": "Miếng dán giảm đau",
+        "parentName": "Miếng dán, cao xoa, dầu",
+        "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_2909_63db_large_d34753c9f1.jpg",
+          "alternativeText": "Cao dán thảo dược Ecosip Tatra giảm đau vai, đau lưng (20 gói x 5 miếng) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_9271_63db_large_5a858afe10.jpg",
+          "alternativeText": "Cao dán thảo dược Ecosip Tatra giảm đau vai, đau lưng (20 gói x 5 miếng) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_3288_63db_large_7e0f873ac6.jpg",
+          "alternativeText": "Cao dán thảo dược Ecosip Tatra giảm đau vai, đau lưng (20 gói x 5 miếng) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_1877_63db_large_fbc48354a4.jpg",
+          "alternativeText": "Cao dán thảo dược Ecosip Tatra giảm đau vai, đau lưng (20 gói x 5 miếng) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_6642_63db_large_adba895386.jpg",
+          "alternativeText": "Cao dán thảo dược Ecosip Tatra giảm đau vai, đau lưng (20 gói x 5 miếng) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_5037_63db_large_d5cd475b78.jpg",
+          "alternativeText": "Cao dán thảo dược Ecosip Tatra giảm đau vai, đau lưng (20 gói x 5 miếng) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_6571_63db_large_1a22f6f87e.jpg",
+          "alternativeText": "Cao dán thảo dược Ecosip Tatra giảm đau vai, đau lưng (20 gói x 5 miếng) 7"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 320000,
+        "itemCode": "00002699",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 320000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 16000,
+        "itemCode": "00002699",
+        "unitCode": 14,
+        "maxValue": 0,
+        "price": 16000,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Miếng dán, cao xoa, dầu",
+        "slug": "/thuoc/mieng-dan-cao-xoa-dau"
+      },
+      {
+        "name": "Miếng dán giảm đau",
+        "slug": "/thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau"
+      }
+    ],
+    "content": {
+      "sku": "00002699",
+      "dosage": "<h3>Cách dùng</h3><p>Dán ngoài da.</p><p>Rửa sạch và lau khô vùng bị đau. Có thể cắt miếng dán theo kích cỡ chỗ dán. Gỡ miếng cao ra khỏi miếng phim rồi dán vào chỗ bị đau.</p><h3>Liều dùng</h3><p><i>Người lớn và trẻ em trên 12 tuổi</i></p><p>Không dùng quá 3 lần/ngày. Không dùng quá 7 ngày liên tục.&nbsp;</p><p>Mỗi miếng dán không dùng quá 8 tiếng.&nbsp;</p><p><i>Trẻ em dưới 12 tuổi và phụ nữ mang thai</i></p><p>Cần&nbsp;hỏi ý kiến bác sĩ.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Chưa có báo cáo.</p><h3>Làm gì khi quên 1 liều?</h3><p>Thuốc chỉ sử dụng khi cần và không theo lịch trình, nên trường hợp quên liều gần như không xảy ra.</p>",
+      "referenceSource": "<html><body><p>Tờ hướng dẫn sử dụng Cao dán Ecosip.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng Cao dán Ecosip, bạn có thể gặp các tác dụng không mong muốn (ADR). </p>\n\n<p>Kích thích tại chỗ, gây ngứa rát.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p style=\"text-align:justify;\">Bảo quản dưới 30°C, tránh ánh nắng trực tiếp. Ngoài tầm tay trẻ em.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Cao dán Ecosip được chỉ định dùng trong các trường hợp: Bầm tím, bong gân, đau cơ, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-khop-797.html\">đau khớp</a>, đau vai, đau dây thần kinh, mỏi cơ, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-lung-64.html\">đau lưng</a>.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p>Cao dán Ecosip chống chỉ định trong các trường hợp sau:</p><p>Trẻ em dưới 2 tuổi và phụ nữ mang thai 3 tháng đầu, mụn nhọt đã vỡ.</p><p>Người mẫn cảm với bất cứ thành phần nào của thuốc.</p><h3>Thận trọng khi sử dụng</h3><p>Chỉ dùng theo chỉ dẫn và đúng liều.&nbsp;</p><p>Không dán lên mắt, xung quanh mắt, niêm mạc và vùng da bị tổn thương.&nbsp;</p><p>Ngưng sử dụng và hỏi ý kiến bác sĩ nếu chỗ dán bị ngứa rát, nổi mẩn.&nbsp;</p><p>Chỉ dùng ngoài da.</p><h3>Khả năng lái xe và vận hành máy móc</h3><p>Chưa có báo cáo.</p><h3>Thời kỳ mang thai&nbsp;</h3><p>Không dùng phụ nữ có thai.</p><h3>Thời kỳ cho con bú</h3><p>Chưa có báo cáo.</p><h3>Tương tác thuốc</h3><p>Chưa có báo cáo.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Cao dán giảm đau Ecosip giảm đau cơ xương khớp",
+        "metaDescription": "Cao dán giảm đau Ecosip dùng để giảm đau, kháng viêm trong các cơn đau liên quan đến đau lưng, đau vai, đau cơ, mỏi cơ, đau, thấp khớp, bầm tím, bong gân, đau đầu, đau răng.",
+        "id": 351,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_2909_63db_large_d34753c9f1.jpg",
+              "alternativeText": null
+            },
+            "title": "Cao dán thảo dược Ecosip Tatra giảm đau vai, đau lưng (20 gói x 5 miếng)",
+            "description": "Cao dán Ecosip là loại cao dán thảo dược, do Công ty Sheng Chun Tang Pharm (Đài Loan) sản xuất, có thành phần chính từ các dược liệu, phối hợp với methyl salicylate, kẽm, menthol... Cao dán Ecosip được dùng trong các trường hợp bầm tím, bong gân, đau cơ, đau khớp, đau vai, đau dây thần kinh, mỏi cơ, đau lưng."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 9001,
+        "title": "Cao dán thảo dược Ecosip không dùng được cho đối tượng nào?",
+        "content": "<p>Cao dán thảo dược Ecosip chống chỉ định đối với các trường hợp dưới đây:</p><ul><li>Trẻ em dưới 2 tuổi.</li><li>Phụ nữ mang thai trong 3 tháng đầu.</li><li>Nốt <a href=\"https://nhathuoclongchau.com.vn/benh/mun-nhot-1036.html\">mụn nhọt</a> đã bị vỡ.</li><li>Người mẫn cảm với bất kì thành phần nào có trong cao dán.</li></ul>"
+      },
+      {
+        "id": 9003,
+        "title": "Mỗi ngày nên dùng mấy miếng dán Ecosip?",
+        "content": "<p>Đối với người lớn và trẻ em trên 12 tuổi: Mỗi miếng dán không dùng quá 8 tiếng, không dùng quá 2 lần/ngày và không dùng quá 7 ngày liên tục.&nbsp;</p><p>Đối với trẻ em dưới 12 tuổi và phụ nữ mang thai cần hỏi ý kiến của bác sĩ để đảm bảo an toàn.</p>"
+      },
+      {
+        "id": 9002,
+        "title": "Có thể dùng Ecosip trên các vết thương hở không?",
+        "content": "<p>Không được dán cao dán Ecosip lên các vết thương hở, mắt, xung quan mắt, niêm mạc và các vùng da bị tổn thương khác. Ngoài ra, ngưng sử dụng và hỏi ý kiến bác sĩ nếu vùng da dán cao dán bị rát, nổi <a href=\"https://nhathuoclongchau.com.vn/benh/noi-man-ngua-870.html\">mẩn ngứa</a>.</p>"
+      },
+      {
+        "id": 9000,
+        "title": "Cao dán Ecosip được dùng như thế nào?",
+        "content": "<p>Cao dán Ecosip được dùng để dán ngoài da. Trước khi dán cần rửa sạch và lau khô vùng bị đau. Có thể cắt miếng dán theo kích cỡ chỗ dán, gỡ miếng cao ra khỏi miếng phim rồi dán vào chỗ bị đau.</p>"
+      },
+      {
+        "id": 8999,
+        "title": "Cao dán Ecosip có tác dụng gì?",
+        "content": "<p>Cao dán Ecosip là loại cao dán thảo dược, có thành phần chính từ các dược liệu, phối hợp với methyl salicylate, kẽm, menthol. Cao dán Ecosip được dùng trong các trường hợp bầm tím, bong gân, đau cơ, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-khop-797.html\">đau khớp</a>, đau vai, đau dây thần kinh, mỏi cơ, đau lưng.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00049164",
+        "name": "SALONPAS DICLOFENAC PATCH HISAMITSU 15 GÓI X 2 MIẾNG",
+        "webName": "Cao dán Salonpas Diclofenac Patch Hisamitsu giảm đau, kháng viêm đau cơ, đau vai (15 gói x 2 miếng)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09429_8cea307452.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 745,
+            "name": "Miếng dán giảm đau",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 77393,
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": 45000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/salonpas-diclofenac-patch-hisamitsu-15-goi-x-2-mieng.html",
+        "ingredients": "Diclofenac Sodium 15mg",
+        "dosageForm": "Cao dán",
+        "brand": "Hisamitsu",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 15 Gói x 2 Miếng",
+        "prices": [
+          {
+            "id": 77392,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 675000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 77393,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 45000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 251,
+          "attributeName": "Nhật Bản",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Nhat_Ban_f1f2d4043f.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009915",
+        "name": "SALONPAS PAIN RELIEF PATCH HISAMITSU 5 MIẾNG",
+        "webName": "Cao dán giảm đau Salonpas Pain Relief Patch dùng trong các cơn đau vai, đau cổ (7cm x 10 cm - 5 miếng)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1960_7852abba21.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 745,
+            "name": "Miếng dán giảm đau",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 13313,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 45000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/salonpas-h5m-1454.html",
+        "ingredients": "Methyl salicylate 10%, L-menthol 3%",
+        "dosageForm": "Miếng dán",
+        "brand": "Hisamitsu",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 5 miếng",
+        "prices": [
+          {
+            "id": 13312,
+            "measureUnitCode": 3,
+            "measureUnitName": "Miếng",
+            "isSellDefault": false,
+            "price": 9000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 13313,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 45000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 251,
+          "attributeName": "Nhật Bản",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Nhat_Ban_f1f2d4043f.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00017084",
+        "name": "SALONPAS 6.5CM X 4.2CM HISAMITSU 2 GÓI X 10 MIẾNG",
+        "webName": "Cao dán Salonpas Hisamitsu giảm đau vai, đau lưng, đau cơ (2 gói x 10 miếng)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00017084_cao_dan_salonpas_20_mieng_65cm_x_42cm_6443_5f9b_large_e5d308c2f5.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 745,
+            "name": "Miếng dán giảm đau",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 20975,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 29000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cao-dan-salonpas-20-mieng-65cm-x-42cm-18413.html",
+        "ingredients": "Methyl salicylate 6.29%, L-menthol 5.71%, DL-camphor 1.24%, Tocopheryl acetate 2%",
+        "dosageForm": "Miếng dán",
+        "brand": "Hisamitsu",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 2 Gói x 10 Miếng",
+        "prices": [
+          {
+            "id": 20974,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": false,
+            "price": 14500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 20975,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 29000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 251,
+          "attributeName": "Nhật Bản",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Nhat_Ban_f1f2d4043f.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00044958",
+        "name": "SALONSIP GELPATCH HISAMITSU 8X3",
+        "webName": "Cao dán Salonsip Gel - Patch Hisamitsu giảm đau, kháng viêm do mỏi cơ, đau cơ (8 gói x 3 miếng)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00638_2f20f0ff6a.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 745,
+            "name": "Miếng dán giảm đau",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 69311,
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": 34000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/salonsip-gelpatch-hisamitsu-8-x3.html",
+        "ingredients": "L-menthol 1g, DL-camphor 0.3g, Glycol salicylate 1.25g, Tocopherol acetat 1g",
+        "dosageForm": "Miếng dán",
+        "brand": "Hisamitsu",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 8 Gói x 3 Miếng",
+        "prices": [
+          {
+            "id": 69311,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 34000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 69312,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 272000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 251,
+          "attributeName": "Nhật Bản",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Nhat_Ban_f1f2d4043f.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500953",
+        "name": "SALONPAS 6.5CM X 4.2CM HISAMITSU 24 GÓI X 10 MIẾNG",
+        "webName": "Cao dán Salonpas Hisamitsu giảm đau vai, đau lưng, đau cơ (24 gói x 10 miếng)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500953_cao_dan_salonpas_hisamitsu_10_mieng_x_24_bao_1794_62e9_large_d62420f2d2.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 745,
+            "name": "Miếng dán giảm đau",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 49494,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 348000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cao-dan-salonpas-hisamitsu-10-mieng-x-24-bao-35093.html",
+        "ingredients": "Tocopherol acetate 2%, L-menthol 5.71%, DL-camphor 1.24%, Methyl salicylate 6.29%",
+        "dosageForm": "Cao dán",
+        "brand": "Hisamitsu",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 24 Gói x 10 Miếng",
+        "prices": [
+          {
+            "id": 49493,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": false,
+            "price": 14500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 49494,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 348000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 251,
+          "attributeName": "Nhật Bản",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Nhat_Ban_f1f2d4043f.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500746",
+        "name": "TIGER BALM PLASTER-RD 10X14CM",
+        "webName": "Miếng dán Tiger Balm Plaster - RD Haw Par giảm mỏi cơ, đau và nhức cơ (10cm x 14cm)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500746_tiger_balm_plaster_rd_10x14cm_4341_62bd_large_8d2676d091.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 745,
+            "name": "Miếng dán giảm đau",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 49095,
+          "measureUnitCode": 21,
+          "measureUnitName": "Túi",
+          "isSellDefault": true,
+          "price": 63000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tiger-balm-plaster-rd-10x14cm-34865.html",
+        "ingredients": "Dementholised Mint Oil 0.6%, Camphor 1%, Menthol 0.3%, Eucalyptus oil 0.5%, Capsicum extract 0.2%",
+        "dosageForm": "Miếng dán",
+        "brand": "Haw Par",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 12 Túi x 3 Miếng",
+        "prices": [
+          {
+            "id": 49095,
+            "measureUnitCode": 21,
+            "measureUnitName": "Túi",
+            "isSellDefault": true,
+            "price": 63000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 49096,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 756000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 241,
+          "attributeName": "Singapore",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/sg_Singapore_9f4a4a9cd9.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500745",
+        "name": "TIGER BALM PLASTER-RD 7X10CM",
+        "webName": "Miếng dán Tiger Balm Plaster - RD Haw Par giảm mỏi cơ, đau và nhức cơ (7cm x 10cm)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500745_tiger_balm_plaster_rd_7x10cm_4417_62bd_large_4776af9b3f.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 745,
+            "name": "Miếng dán giảm đau",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 49093,
+          "measureUnitCode": 21,
+          "measureUnitName": "Túi",
+          "isSellDefault": true,
+          "price": 46000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tiger-balm-plaster-rd-7x10cm-34866.html",
+        "ingredients": "Dementholised Mint Oil 0.6%, Camphor 1%, Menthol 0.3%, Eucalyptus oil 0.5%, Capsicum extract 0.2%",
+        "dosageForm": "Miếng dán",
+        "brand": "Haw Par",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 12 Túi x 3 Miếng",
+        "prices": [
+          {
+            "id": 49094,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 552000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 49093,
+            "measureUnitCode": 21,
+            "measureUnitName": "Túi",
+            "isSellDefault": true,
+            "price": 46000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 241,
+          "attributeName": "Singapore",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/sg_Singapore_9f4a4a9cd9.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009914",
+        "name": "SALONPAS PAIN RELIEF PATCH HISAMITSU 3 MIẾNG",
+        "webName": "Cao dán giảm đau Salonpas Pain Relief Patch dùng trong các cơn đau vai, đau cổ (7cm x 10 cm - 3 miếng)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009914_salonpas_h3m_7198_6098_large_7011309497.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 745,
+            "name": "Miếng dán giảm đau",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 13311,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 30000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/salonpas-h3m-1455.html",
+        "ingredients": "Methyl Salicylat 10%, Menthol 3%",
+        "dosageForm": "Miếng dán",
+        "brand": "Hisamitsu",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 3 miếng",
+        "prices": [
+          {
+            "id": 13310,
+            "measureUnitCode": 3,
+            "measureUnitName": "Miếng",
+            "isSellDefault": false,
+            "price": 10000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 13311,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 30000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 251,
+          "attributeName": "Nhật Bản",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Nhat_Ban_f1f2d4043f.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00051348",
+        "name": "TIGER BALM PLASTER COOL 7X10CM 12 GÓI X 3 MIẾNG",
+        "webName": "Miếng dán Tiger Balm Plaster Cool Haw Par giảm mỏi cơ, đau và nhức cơ (7cm x 10cm) (12 gói x 3 miếng)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/mieng_dan_tiger_balm_plaster_cool_7x10cm_12_goi_x_3_mieng_00051348_1_e053e0e18f.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 745,
+            "name": "Miếng dán giảm đau",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 81369,
+          "measureUnitCode": 9,
+          "measureUnitName": "Bịch",
+          "isSellDefault": false,
+          "price": 480000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tiger-balm-plaster-cool-7-x10-cm-12-goi-x-3-mieng.html",
+        "ingredients": "Camphor 1% (kl/kl), Tinh dầu bạc hà 0.6% (kl/kl), Tinh dầu khuynh diệp 0.5% (kl/kl), Menthol 0.3% (kl/kl)",
+        "dosageForm": "Miếng dán",
+        "brand": "Haw Par",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 40,
+        "productRanking": 0,
+        "specification": "Bịch 12 Gói x 3 Miếng",
+        "prices": [
+          {
+            "id": 81369,
+            "measureUnitCode": 9,
+            "measureUnitName": "Bịch",
+            "isSellDefault": false,
+            "price": 480000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 81370,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 40000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 241,
+          "attributeName": "Singapore",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/sg_Singapore_9f4a4a9cd9.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049459",
+        "name": "SALONPAS 6.5CM X 4.2CM HISAMITSU 5 HỘP LẺ X 4 GÓI",
+        "webName": "Thuốc Salonpas 6.5cm x 4.2cm Hisamitsu hỗ trợ giảm đau, kháng viêm (5 hộp x 4 gói)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09855_642b533080.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 745,
+            "name": "Miếng dán giảm đau",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 77982,
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": 14500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/salonpas-6-5-cm-x-4-2-cm-hisamitsu-5-hop-le-x-4-goi-1.html",
+        "ingredients": "Tocopherol acetate 2%, L-menthol 5.71%, DL-camphor 1.24%, Methyl salicylate 6.29%",
+        "dosageForm": "Cao dán",
+        "brand": "Hisamitsu",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 40,
+        "productRanking": 0,
+        "specification": "Hộp 5 Hộp lẻ x 4 Gói",
+        "prices": [
+          {
+            "id": 77980,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 290000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 77981,
+            "measureUnitCode": 1007,
+            "measureUnitName": "Hộp lẻ",
+            "isSellDefault": false,
+            "price": 58000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 77982,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 14500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 251,
+          "attributeName": "Nhật Bản",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Nhat_Ban_f1f2d4043f.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00008355",
+        "name": "KEFENTECH PLASTER 20 GÓI",
+        "webName": "Cao dán KefenTech Plaster Jeil kháng viêm, giảm đau viêm khớp, viêm bao gân, đau cơ (20 gói)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008355_kefentech_plaster_7338_5bbc_large_0d7924c60a.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 745,
+            "name": "Miếng dán giảm đau",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/mieng-dan-giam-dau",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12318,
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": 82000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/kefentech-plaster-1619.html",
+        "ingredients": "Ketoprofen 30mg",
+        "dosageForm": "Cao dán",
+        "brand": "Jeil Pharm",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 40,
+        "productRanking": 0,
+        "specification": "Hộp 20 Gói",
+        "prices": [
+          {
+            "id": 12319,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 1640000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 12318,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 82000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 257,
+          "attributeName": "Hàn Quốc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Han_Quoc_760f524a89.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 28,
+      "items": [
+        {
+          "id": 3335661,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0974xxxxxx",
+          "name": "Anh Tiệp",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "lần đầu thấy có món long châu bán mắc hơn pharmacity nè hihi",
+          "createdAt": "2026-07-08 18:43:57",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-08 18:43:57",
+          "replies": [
+            {
+              "id": 3335673,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phạm Thị Kiều Anh",
+                "moderatorEmail": "anhptk10@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phạm Thị Kiều Anh",
+              "email": "anhptk10@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Tiệp ạ,</p><p>Nhà thuốc Long Châu rất cảm ơn ý kiến đóng góp của Anh. Long Châu luôn cố gắng mang đến cho khách hàng sản phẩm tốt với giá cả hợp lý. Tuy nhiên giá sản phẩm sẽ thay đổi tùy thuộc vào nhà cung cấp, mong Anh thông cảm ạ.</p>",
+              "createdAt": "2026-07-08 19:07:21",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-08 18:43:57",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3329289,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0799xxxxxx",
+          "name": "Nguyễn Thị Loan",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "miếng dán này có chắc chắn không ạ,dán lâu không hay gặp mồ hôi có bong tróc không ạ ",
+          "createdAt": "2026-06-27 19:33:09",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-27 19:33:09",
+          "replies": [
+            {
+              "id": 3329294,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Văn Tâm",
+                "moderatorEmail": "tamtv19@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Văn Tâm",
+              "email": "tamtv19@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Loan ạ,</p><p>Miếng dán thường được thiết kế với lớp keo acrylic y tế chuyên dụng giúp bám dính cực kỳ chắc chắn trên bề mặt da. Khả năng chịu nước và mồ hôi của các dòng miếng dán hiện nay rất tốt, giúp duy trì hiệu quả bền bỉ suốt thời gian dài mà không lo bong tróc khi vận động ạ.</p><p>Để miếng dán bám chắc nhất, Chị nên vệ sinh sạch và lau thật khô vùng da trước khi dán ạ.</p><p>Chúc Chị và gia đình luôn dồi dào sức khỏe ạ.</p>",
+              "createdAt": "2026-06-27 19:39:53",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-27 19:33:09",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3319819,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0908xxxxxx",
+          "name": "chú Hai",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Hàng này còn không? Giá bao nhiêu vậy?",
+          "createdAt": "2026-06-09 15:02:05",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-09 15:02:05",
+          "replies": [
+            {
+              "id": 3319823,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Minh Tiến",
+                "moderatorEmail": "tiennm50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Minh Tiến",
+              "email": "tiennm50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chú Hai ạ,</p><p>Dạ sản phẩm Cao dán Ecosip Tatra hiện đang sẵn có tại hệ thống nhà thuốc giúp giảm đau nhức xương khớp hiệu quả ạ.</p><p>Thông tin sản phẩm: Cao dán thảo dược Ecosip Tatra giảm đau vai, đau lưng (20 gói x 5 miếng)</p><p>Giá sản phẩm: 14.750đ/ gói</p><p>Link sản phẩm &amp; Miễn phí giao hàng: https://nhathuoclongchau.com.vn/thuoc/ecosip-h20g-17337.html</p><p>Chúc chú Hai luôn dồi dào sức khỏe ạ.</p>",
+              "createdAt": "2026-06-09 15:04:58",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-09 15:02:05",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3296555,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0767xxxxxx",
+          "name": "anh AN",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cao dán này có nóng như Salonpas hay cao hổ không ạ",
+          "createdAt": "2026-04-24 23:17:35",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-24 23:17:35",
+          "replies": [
+            {
+              "id": 3296653,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Như Ngọc",
+                "moderatorEmail": "ngocln10@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Như Ngọc",
+              "email": "ngocln10@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh An,</p><p>Dạ sản phẩm Cao dán thảo dược Ecosip Tatra giảm đau vai, đau lưng (20 gói x 5 miếng) là loại dán nóng ạ.</p><p>Nhà thuốc thông tin đến anh.</p>",
+              "createdAt": "2026-04-25 09:23:58",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-24 23:17:35",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3230341,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0987xxxxxx",
+          "name": "0987xxxxxx",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "kích thước miếng dán là bn",
+          "createdAt": "2025-12-16 19:28:08",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2025-12-16 19:28:08",
+          "replies": [
+            {
+              "id": 3230343,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Nhật Tân",
+                "moderatorEmail": "tannn23@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Nhật Tân",
+              "email": "tannn23@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Qúy khách</p><p>Dạ Cao dán thảo dược Ecosip Tatra giảm đau vai, đau lưng (20 gói x 5 miếng) có kích thuốc 7,5 cm x 10 cm ạ</p><p>Nhà thuốc thông tin đến Qúy khách</p><p><br></p>",
+              "createdAt": "2025-12-16 19:33:39",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-12-16 19:28:08",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 2092645,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0321xxxxxx",
+          "name": "nga",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin tt miếng dán lạnh",
+          "createdAt": "2024-09-09 10:18:34",
+          "createdAtDisplay": "09/09/2024",
+          "updatedAt": "2024-09-09 10:20:04",
+          "replies": [
+            {
+              "id": 2092661,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thu Phương",
+                "moderatorEmail": "phuongtt124@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Trần Thu Phương",
+              "email": "phuongtt124@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Nga,</span><br><span>Dạ Cao dán Ecosip là loại cao dán thảo dược, do Công ty Sheng Chun Tang Pharm (Đài Loan) sản xuất, có thành phần chính từ các dược liệu, phối hợp với methyl salicylate, kẽm, menthol... Cao dán Ecosip được dùng trong các trường hợp bầm tím, bong gân, đau cơ, đau khớp, đau vai, đau dây thần kinh, mỏi cơ, đau lưng.</span><br><span>Nhà thuốc thông tin đến bạn.</span><br><span>Thân mến!</span></p>",
+              "createdAt": "2024-09-09 10:20:04",
+              "createdAtDisplay": "09/09/2024",
+              "updatedAt": "2024-09-09 10:20:04",
+              "replies": []
+            },
+            {
+              "id": 2092694,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0321xxxxxx",
+              "name": "nga",
+              "email": "",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "có dán lạnh k xin link ",
+              "createdAt": "2024-09-09 10:22:04",
+              "createdAtDisplay": "09/09/2024",
+              "updatedAt": "2024-09-09 10:20:04",
+              "replies": []
+            },
+            {
+              "id": 2092744,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thu Phương",
+                "moderatorEmail": "phuongtt124@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Trần Thu Phương",
+              "email": "phuongtt124@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Nga,</span><br><span>Dạ bạn có thể tham khảo sản phẩm phù hợp là Cao dán - gel Salonship giảm đau, kháng viêm do bầm tím, bong gân&nbsp;, tham khảo thêm thông tin sản phẩm tại </span><a class=\"editor-link\" rel=\"noopener\" href=\"https://nhathuoclongchau.com.vn/thuoc/salonsip-gelpatch-2338.html\"><u><b><strong class=\"editor-text-bold editor-text-underline\">link</strong></b></u></a><span>.</span><br><span>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</span><br><span>Thân mến!</span></p>",
+              "createdAt": "2024-09-09 10:25:53",
+              "createdAtDisplay": "09/09/2024",
+              "updatedAt": "2024-09-09 10:20:04",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Cao dán thảo dược Ecosip Tatra giảm đau vai, đau lưng (20 gói x 5 miếng)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_2909_63db_large_d34753c9f1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_9271_63db_large_5a858afe10.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_3288_63db_large_7e0f873ac6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_1877_63db_large_fbc48354a4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_6642_63db_large_adba895386.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_5037_63db_large_d5cd475b78.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_6571_63db_large_1a22f6f87e.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Cao dán Ecosip là loại cao dán thảo dược, do Công ty Sheng Chun Tang Pharm (Đài Loan) sản xuất, có thành phần chính từ các dược liệu, phối hợp với methyl salicylate, kẽm, menthol... Cao dán Ecosip được dùng trong các trường hợp bầm tím, bong gân, đau cơ, đau khớp, đau vai, đau dây thần kinh, mỏi cơ, đau lưng.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/ecosip-h20g-17337.html",
+        "priceCurrency": "VND",
+        "price": 16000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Cao dán giảm đau Ecosip giảm đau cơ xương khớp",
+      "description": "Cao dán giảm đau Ecosip dùng để giảm đau, kháng viêm trong các cơn đau liên quan đến đau lưng, đau vai, đau cơ, mỏi cơ, đau, thấp khớp, bầm tím, bong gân, đau đầu, đau răng.",
+      "openGraph": {
+        "title": "Cao dán thảo dược Ecosip Tatra giảm đau vai, đau lưng (20 gói x 5 miếng)",
+        "description": "Cao dán Ecosip là loại cao dán thảo dược, do Công ty Sheng Chun Tang Pharm (Đài Loan) sản xuất, có thành phần chính từ các dược liệu, phối hợp với methyl salicylate, kẽm, menthol... Cao dán Ecosip được dùng trong các trường hợp bầm tím, bong gân, đau cơ, đau khớp, đau vai, đau dây thần kinh, mỏi cơ, đau lưng.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002699_ecosip_h20g_2909_63db_large_d34753c9f1.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/ecosip-h20g-17337.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/ecosip-h20g-17337.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

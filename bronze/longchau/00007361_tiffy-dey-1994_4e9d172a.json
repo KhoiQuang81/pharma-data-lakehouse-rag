@@ -1,0 +1,2226 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/tiffy-dey-1994.html",
+  "ingestion_timestamp": "2026-09-05T11:27:14.249633+00:00",
+  "file_hash": "52a629ef2c1f71000ef8e3ae04d4b23ccce6ed686a7819a46694fb71eaedcbeb",
+  "lineage_hash": "c0fbf5a77ae4c174a2c6437ae38ac967e69f12f460e265aec2a59bcd30907a2e",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/tiffy-dey-1994.html",
+    "product": {
+      "sku": "00007361",
+      "webName": "Thuốc Tiffy Dey Thai Nakorn Patana điều trị nghẹt mũi, sổ mũi (25 vỉ x 4 viên)",
+      "name": "TIFFY NAKORN 25X4",
+      "shortName": "TIFFY NAKORN 25X4",
+      "headingText": "Thuốc Tiffy Dey",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6379_6d8abac855.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6380_535a78b2f6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6381_f8a4189f93.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6382_66880f4bc2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6383_6d142f8c79.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6386_fd2685bd97.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6387_4fa048e753.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tiffy_dey_1_5b6f7538ba.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tiffydey_2_71faafdb93.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 729,
+          "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 768,
+          "name": "Thuốc giảm đau hạ sốt",
+          "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+          "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 112500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 25 Vỉ x 4 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": true,
+          "price": 4500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "25 Vỉ x 4 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": 1125,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "4 Viên"
+        }
+      ],
+      "slug": "thuoc/tiffy-dey-1994.html",
+      "ingredient": [
+        {
+          "id": 34201,
+          "ingredientId": 31537,
+          "shortDescription": "500mg",
+          "name": "Paracetamol",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 34202,
+          "ingredientId": 14504,
+          "shortDescription": "2mg",
+          "name": "Chlorpheniramine",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 34203,
+          "ingredientId": 32319,
+          "shortDescription": "10mg",
+          "name": "Phenylephrine",
+          "isPrimary": false,
+          "slug": "thanh-phan/phenylephrine"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-19229-13",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc Tiffy Dey dùng đường uống.</p><h3>Liều dùng</h3><p>Người lớn: uống mỗi lần từ 1 - 2 viên, 4 - 6 giờ mỗi lần.</p><p>Trẻ em từ 6 – 12 tuổi: uống mỗi lần 1 viên, 4 – 6 giờ mỗi lần.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p><i>Paracetamol</i></p><p><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">Rối loạn tiêu hóa</a> (như tiêu chảy, giảm cảm giác thèm ăn, buồn nôn, nôn, đau bụng); vã mồ hôi; nhiễm độc gan (như đau, sưng tấy ở phần bụng trên) có thể xuất hiện trong 2 đến 4 ngày sau khi sử dụng quá liều.</p><p>Chú ý: Mặc dù rối loạn tiêu hóa và vã mồ hôi thường không xảy ra, nhưng các triệu chứng này thỉnh thoảng xuất hiện trong vòng (6 đến 14 tiếng sau khi dùng thuốc quá liều và sẽ kéo dài trong khoảng 24 tiếng).</p><p>Dấu hiệu đầu tiên của tổn thương gan và các bất thường trong chức năng gan có thể không xuất hiện trong vòng 2 đến 4 ngày sau khi dùng thuốc quá liều. Chức năng gan bị thay đổi lớn nhất thường sau 3 đến 4 ngày sau khi dùng thuốc quá liều.</p><p>Suy gan có thể xảy ra sau 4 đến 6 ngày sau khi quá liều thuốc. Các bệnh về thần kinh (như loạn tâm thần, lú lẫn, lo âu hoặc sững sờ), co giật, ức chế hô hấp, hôn mê, phù não, chảy máu dạ dày, rối loạn đông máu, hạ đường huyết, nhiễm acid chuyển hóa, ngừng tim có thể xuất hiện.</p><p>Hoại tử ống thận gây suy thận (dấu hiệu có thể bao gồm nước tiểu màu đục hoặc màu máu, lượng nước tiểu giảm đột ngột) cũng được ghi nhận khi quá liều paracetamol, thường đi cùng với ảnh hưởng nhiễm độc gan.</p><p><i>Chlorpheniramin maleat</i></p><p>Quá liều chlorpheniramin maleat ở người lớn thường gây ức chế hệ thần kinh trung ương như ngủ gà, hôn mê. Ở trẻ em và người lớn, phù não, thận hư, hôn mê sâu, mạch nhanh, khoảng QRS kéo dài, block tim, ngừng tim và tử vong có thể xảy ra.</p><p><i>Phenylephrin HCl</i></p><p>Quá liều phenylephrin HCI có thể gây ra tăng huyết áp, đau đầu, co giật, xuất huyết não, đánh trống ngực, dị cảm hoặc nôn. Đau đầu có thể là triệu chứng của tăng huyết áp, có thể uống thuốc ức chế alpha-adrenergic (như <a href=\"https://nhathuoclongchau.com.vn/thuoc-goc/phentolamine\">phentolamin</a>).</p><p>Phenylephrin có thể gây ra co mạch ngoại vi và nội tạng, giảm lưu lượng máu đến các tổ chức quan trọng, giảm lưu lượng lọc thận, và có thể gây giảm lượng nước tiểu gây acid chuyển hóa. Phenylephrin HCI còn có thể gây ra chậm nhịp tim và giảm lưu lượng tim, gây hoại tử mô nếu bị tràn mạch máu.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc Tiffy Dey, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/tiffy-dey-1994.html\"><i>Tiffy Dey</i></a><i> làm giảm các triệu chứng cảm thông thường như: </i><a href=\"https://nhathuoclongchau.com.vn/benh/nghet-mui-855.html\"><i>nghẹt mũi</i></a><i>, sổ mũi, hắt hơi, </i><a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><i>nhức đầu</i></a><i> và </i><a href=\"https://nhathuoclongchau.com.vn/benh/sot-618.html\"><i>sốt</i></a><i>.</i></p><h3>Dược lực học</h3><p>Chưa có báo cáo.</p><h3>Dược động học</h3><p>Chưa có báo cáo.&nbsp;</p>",
+      "brand": "Thai Nakorn Patana",
+      "brandType": null,
+      "adverseEffect": "<p><i>Thường gặp, ADR &gt; 1/100</i></p><ul><li>Chưa có báo cáo.</li></ul><p><i>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</i></p><p>Chưa có báo cáo.</p><p><i>Không rõ tần suất</i></p><p>Da: phản ứng quá mẫn, <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mề đay</a>, vàng da;</p><p>Thần kinh: bồn chồn, lo lắng, hốt hoảng, chóng mặt, mất khả năng phối hợp;</p><p>Tiêu hóa: đau vùng thượng vị, khó chịu;</p><p>Máu và hệ bạch huyết: thiếu máu, giảm bạch cầu trung tính, giảm bạch cầu, giảm toàn thể huyết cầu/ tiểu cầu;</p><p>Cận lâm sàng: giảm glucose máu;</p><p>Toàn thân: sốt, run, xanh xao, nhợt nhạt;</p><p>Hô hấp: truỵ hô hấp;</p><p>Cơ xương khớp: yếu cơ.</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc Tiffy Dey, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 25 Vỉ x 4 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "Nakorn",
+      "shortDescription": "<p>Tiffy Dey là sản phẩm của Công ty TNHH Thai Nakorn Patana (Việt Nam), thành phần chính bao gồm paracetamol, chlorpheniramin maleat và phenylephrin HCl. Thuốc được dùng để điều trị các triệu chứng cảm thông thường như: nghẹt mũi, sổ mũi, hắt hơi, nhức đầu và sốt.</p><p>Tiffy Dey được bào chế dạng viên nén và đóng gói theo quy cách 25 vỉ x 4 viên.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "Từ 6 tháng tuổi trở lên",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Phụ nữ cho con bú",
+        "Lái tàu xe"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/thai-nakorn-patana",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "TIFFI",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "60 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 13,
+        "measureUnitName": "Vỉ",
+        "isSellDefault": true,
+        "price": 4500,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 2,
+        "productSpecs": "25 Vỉ x 4 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 768,
+        "name": "Thuốc giảm đau hạ sốt",
+        "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+        "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6379_6d8abac855.jpg",
+          "alternativeText": "Thuốc Tiffy Dey Thai Nakorn Patana điều trị nghẹt mũi, sổ mũi (25 vỉ x 4 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6380_535a78b2f6.jpg",
+          "alternativeText": "Thuốc Tiffy Dey Thai Nakorn Patana điều trị nghẹt mũi, sổ mũi (25 vỉ x 4 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6381_f8a4189f93.jpg",
+          "alternativeText": "Thuốc Tiffy Dey Thai Nakorn Patana điều trị nghẹt mũi, sổ mũi (25 vỉ x 4 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6382_66880f4bc2.jpg",
+          "alternativeText": "Thuốc Tiffy Dey Thai Nakorn Patana điều trị nghẹt mũi, sổ mũi (25 vỉ x 4 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6383_6d142f8c79.jpg",
+          "alternativeText": "Thuốc Tiffy Dey Thai Nakorn Patana điều trị nghẹt mũi, sổ mũi (25 vỉ x 4 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6386_fd2685bd97.jpg",
+          "alternativeText": "Thuốc Tiffy Dey Thai Nakorn Patana điều trị nghẹt mũi, sổ mũi (25 vỉ x 4 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6387_4fa048e753.jpg",
+          "alternativeText": "Thuốc Tiffy Dey Thai Nakorn Patana điều trị nghẹt mũi, sổ mũi (25 vỉ x 4 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tiffy_dey_1_5b6f7538ba.jpg",
+          "alternativeText": "Thuốc Tiffy Dey Thai Nakorn Patana điều trị nghẹt mũi, sổ mũi (25 vỉ x 4 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tiffydey_2_71faafdb93.jpg",
+          "alternativeText": "Thuốc Tiffy Dey Thai Nakorn Patana điều trị nghẹt mũi, sổ mũi (25 vỉ x 4 viên) 9"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 112500,
+        "itemCode": "00007361",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 112500,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 4500,
+        "itemCode": "00007361",
+        "unitCode": 13,
+        "maxValue": 0,
+        "price": 4500,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 1125,
+        "itemCode": "00007361",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 1125,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+        "slug": "/thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+      },
+      {
+        "name": "Thuốc giảm đau hạ sốt",
+        "slug": "/thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot"
+      }
+    ],
+    "content": {
+      "sku": "00007361",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc Tiffy Dey dùng đường uống.</p><h3>Liều dùng</h3><p>Người lớn: uống mỗi lần từ 1 - 2 viên, 4 - 6 giờ mỗi lần.</p><p>Trẻ em từ 6 – 12 tuổi: uống mỗi lần 1 viên, 4 – 6 giờ mỗi lần.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p><i>Paracetamol</i></p><p><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">Rối loạn tiêu hóa</a> (như tiêu chảy, giảm cảm giác thèm ăn, buồn nôn, nôn, đau bụng); vã mồ hôi; nhiễm độc gan (như đau, sưng tấy ở phần bụng trên) có thể xuất hiện trong 2 đến 4 ngày sau khi sử dụng quá liều.</p><p>Chú ý: Mặc dù rối loạn tiêu hóa và vã mồ hôi thường không xảy ra, nhưng các triệu chứng này thỉnh thoảng xuất hiện trong vòng (6 đến 14 tiếng sau khi dùng thuốc quá liều và sẽ kéo dài trong khoảng 24 tiếng).</p><p>Dấu hiệu đầu tiên của tổn thương gan và các bất thường trong chức năng gan có thể không xuất hiện trong vòng 2 đến 4 ngày sau khi dùng thuốc quá liều. Chức năng gan bị thay đổi lớn nhất thường sau 3 đến 4 ngày sau khi dùng thuốc quá liều.</p><p>Suy gan có thể xảy ra sau 4 đến 6 ngày sau khi quá liều thuốc. Các bệnh về thần kinh (như loạn tâm thần, lú lẫn, lo âu hoặc sững sờ), co giật, ức chế hô hấp, hôn mê, phù não, chảy máu dạ dày, rối loạn đông máu, hạ đường huyết, nhiễm acid chuyển hóa, ngừng tim có thể xuất hiện.</p><p>Hoại tử ống thận gây suy thận (dấu hiệu có thể bao gồm nước tiểu màu đục hoặc màu máu, lượng nước tiểu giảm đột ngột) cũng được ghi nhận khi quá liều paracetamol, thường đi cùng với ảnh hưởng nhiễm độc gan.</p><p><i>Chlorpheniramin maleat</i></p><p>Quá liều chlorpheniramin maleat ở người lớn thường gây ức chế hệ thần kinh trung ương như ngủ gà, hôn mê. Ở trẻ em và người lớn, phù não, thận hư, hôn mê sâu, mạch nhanh, khoảng QRS kéo dài, block tim, ngừng tim và tử vong có thể xảy ra.</p><p><i>Phenylephrin HCl</i></p><p>Quá liều phenylephrin HCI có thể gây ra tăng huyết áp, đau đầu, co giật, xuất huyết não, đánh trống ngực, dị cảm hoặc nôn. Đau đầu có thể là triệu chứng của tăng huyết áp, có thể uống thuốc ức chế alpha-adrenergic (như <a href=\"https://nhathuoclongchau.com.vn/thuoc-goc/phentolamine\">phentolamin</a>).</p><p>Phenylephrin có thể gây ra co mạch ngoại vi và nội tạng, giảm lưu lượng máu đến các tổ chức quan trọng, giảm lưu lượng lọc thận, và có thể gây giảm lượng nước tiểu gây acid chuyển hóa. Phenylephrin HCI còn có thể gây ra chậm nhịp tim và giảm lưu lượng tim, gây hoại tử mô nếu bị tràn mạch máu.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc Tiffy Dey, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Tiffy Dey của Công ty TNHH Thai Nakorn Patana (Việt Nam)</p></body></html>",
+      "adverseEffect": "<p><i>Thường gặp, ADR &gt; 1/100</i></p><ul><li>Chưa có báo cáo.</li></ul><p><i>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</i></p><p>Chưa có báo cáo.</p><p><i>Không rõ tần suất</i></p><p>Da: phản ứng quá mẫn, <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mề đay</a>, vàng da;</p><p>Thần kinh: bồn chồn, lo lắng, hốt hoảng, chóng mặt, mất khả năng phối hợp;</p><p>Tiêu hóa: đau vùng thượng vị, khó chịu;</p><p>Máu và hệ bạch huyết: thiếu máu, giảm bạch cầu trung tính, giảm bạch cầu, giảm toàn thể huyết cầu/ tiểu cầu;</p><p>Cận lâm sàng: giảm glucose máu;</p><p>Toàn thân: sốt, run, xanh xao, nhợt nhạt;</p><p>Hô hấp: truỵ hô hấp;</p><p>Cơ xương khớp: yếu cơ.</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc Tiffy Dey, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Bảo quản nơi khô mát, không quá 30°C.</p>",
+      "usage": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/tiffy-dey-1994.html\"><i>Tiffy Dey</i></a><i> làm giảm các triệu chứng cảm thông thường như: </i><a href=\"https://nhathuoclongchau.com.vn/benh/nghet-mui-855.html\"><i>nghẹt mũi</i></a><i>, sổ mũi, hắt hơi, </i><a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><i>nhức đầu</i></a><i> và </i><a href=\"https://nhathuoclongchau.com.vn/benh/sot-618.html\"><i>sốt</i></a><i>.</i></p><h3>Dược lực học</h3><p>Chưa có báo cáo.</p><h3>Dược động học</h3><p>Chưa có báo cáo.&nbsp;</p>",
+      "ingredient": "",
+      "careful": "<h3>Chống chỉ định của thuốc Tiffy Dey</h3><p>Tiffy Dey không dùng cho trẻ em dưới 6 tuổi.</p><p>Đối với paracetamol: Mẫn cảm với paracetamol hay bất cứ thành phần nào của thuốc.</p><p>Đối với chlorpheniramin maleat: Mẫn cảm với thuốc kháng histamin, trẻ sơ sinh, trẻ sinh non, phụ nữ cho con bú, bệnh glaucoma góc hẹp, loét đường tiêu hóa, phì đại tuyến tiền liệt, bệnh hen suyễn, tắc cổ bàng quang, tắc môn vị - tá tràng, bệnh nhân đang sử dụng thuốc ức chế monoamine oxidase (IMAO).</p><p>Đối với phenylephrin HCl:</p><p>Chống chỉ định đối với bệnh nhân mẫn cảm với thuốc, bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">cao huyết áp</a> nặng hay có bệnh nhịp nhanh tâm thất. Nếu dùng cho bệnh nhân bị viêm gan hay viêm tụy cấp có thể làm tăng chứng thiếu máu cục bộ ở tụy hay gan.</p><p>Phenylephrin HCI không dùng cho bệnh nhân có bệnh huyết khối ngoại biên hay mạch màng treo ruột bởi vì chứng thiếu máu cục bộ có thể bị tăng lên và diện tích tổn thương bị mở rộng. Trong trường hợp dùng chung với thuộc gây tê tại chỗ, phenylephrin HCl không được dùng tại các vùng ở ngón tay, ngón chân, tai, mũi và cơ quan sinh dục ngoài.</p><h3>Thận trọng khi sử dụng Tiffy Dey</h3><p><strong>Cảnh báo</strong></p><p><i><strong>Paracetamol</strong></i></p><p><i>Suy yếu chức năng gan</i>:</p><ul><li>Nhiễm độc gan và suy gan nặng xảy ra ở những bệnh nhân nghiện rượu kinh niên khi dùng thuốc ở liều điều trị.</li><li>Độc tính trên gan là do ảnh hưởng cảm ứng men dẫn đến tăng sự tạo thành các chất chuyển hóa độc hại, hoặc do giảm lượng glutathion là chất kết hợp với các chất chuyển hóa độc hại.</li><li>Liều an toàn cho những bệnh nhân này chưa được xác định. Cảnh báo cho người nghiện rượu kinh niên là không dùng quá 2 g/ngày.</li></ul><p><i><strong>Chlorpheniramin maleat</strong></i></p><p><i>Bệnh về hô hấp:</i>&nbsp;</p><p>Nói chung, các chất kháng histamin không được chỉ định để điều trị làm giảm triệu chứng của các bệnh đường hô hấp dưới như bệnh hen suyễn, do tác dụng kháng cholinergic của chúng có thể làm đặc dịch tiết và khó long đờm. Tuy nhiên, một vài nghiên cứu chỉ ra rằng các chất kháng histamin có thể an toàn cho bệnh nhân hen suyễn với chứng viêm mũi kinh niên.</p><p><i>An thần, ức chế thần kinh trung ương</i>:</p><p>Tránh dùng chung với các thuốc an thần và ức chế thần kinh trung ương ở bệnh nhân có tiền sử ngừng thở khi ngủ.</p><p><i>Phản ứng dị ứng</i>:</p><p>Phản ứng quá mẫn có thể xảy ra, bất cứ biểu hiện dị ứng thuốc nào cũng có thể xảy ra. Phải có ngay epinephrin 1:1000 để cấp cứu. Tham khảo cách xử lý khi bị dị ứng cấp tính.</p><p><i>Người già</i>:</p><p>Thuốc kháng histamin có thể gây ra chóng mặt, ngất, hạ huyết áp và lẫn lộn ở người già. Có thể giảm liều nếu cần.</p><p><i>Phụ nữ có thai</i>:</p><p>Một vài trường hợp liên quan tới dị tật đã được phát hiện, tuy nhiên chưa có ý nghĩa lâm sàng. Sử dụng chlorpheniramin maleat khi thật sự cần thiết và khi đã cân nhắc giữa lợi ích mang lại và nguy cơ có thể gặp phải cho bào thai. Không sử dụng trong thời gian 3 tháng cuối thai kỳ. Trẻ sơ sinh và trẻ sinh thiếu tháng có thể gặp phản ứng nghiêm trọng (như co giật,....).</p><p><i>Phụ nữ cho con bú</i>:</p><p>Sự có mặt của thuốc kháng histamin trong sữa mẹ chưa được báo cáo.&nbsp;</p><p><i>Trẻ em:</i></p><p><i>Q</i>uá liều thuốc kháng histamin có thể gây ảo giác, co giật và tử vong ở trẻ em. Các thuốc này có thể gây mất trí. Ngược lại, đối với trẻ sơ sinh có thể gây kích thích.</p><p><i><strong>Phenylephrin HCl</strong></i></p><p><i>Phụ nữ có thai:</i>&nbsp;</p><ul><li>Dùng phenylephrin HCI cho bệnh nhân vào cuối thai kỳ hay sắp sinh có thể gây giảm oxy của thai và làm chậm nhịp tim thai nhi vì làm co tử cung và giảm tốc độ máu lưu thông trong tử cung. Nếu thuốc làm tăng huyết áp được dùng cùng với thuốc thúc sanh thì hiệu quả tăng huyết áp tăng lên và có thể có các phản ứng có hại trầm trọng.</li><li>Các nghiên cứu trên sinh sản ở động vật chưa được thực hiện đối với phenylephrin HCI, cũng như chưa biết chắc rằng phenylephrin HCI có gây ảnh hưởng xấu tới thai nhi hay không khi người mẹ mang thai uống thuốc này.</li><li>Phenylephrin HCI chỉ nên dùng cho phụ nữ mang thai khi thực sự cần thiết, và khi đã cân nhắc giữa lợi ích chữa bệnh với tác hại đối với người mẹ và thai nhi.</li></ul><p><i>Phụ nữ cho con bú:</i></p><p>Cho đến nay chưa biết thuốc có được phân bố vào sữa mẹ hay không vì vậy phải thận trọng đối với phụ nữ cho con bú.</p><p><strong>Thận trọng</strong></p><p><i><strong>Paracetamol</strong></i></p><p>Nếu có phản ứng quá mẫn, ngưng sử dụng thuốc. Nếu có cơn đau trầm trọng, sốt cao hay tiếp tục sốt thì có thể bệnh đã nặng. Nếu cơn đau kéo dài hơn 5 ngày, và khớp viêm vẫn còn đỏ ở trẻ dưới 12 tuổi, cần tham khảo ý kiến của bác sĩ ngay lập tức.</p><p>Phản ứng phụ nghiêm trọng trên da mặc dủ tỉ lệ mắc phải là không cao nhưng nghiêm trọng, thậm chí đe dọa tính mạng bao gồm hội chứng Steven-Johnson (SJS), hội chứng hoại tử da nhiễm độc: toxic epidermal necrolysis (TEN) hay hội chứng Lyell, hội chứng ngoại ban mụn mủ toàn thân cấp tính: acute generalized exanthematous pustulosis (AGEP).</p><p>Triệu chứng của các hội chứng trên được mô tả như sau:</p><p><i>Hội chứng Steven-Johnson (SJS):</i>&nbsp;Là dị ứng thuốc thể bọng nước, bọng nước khu trú ở quanh các hốc tự nhiên: mắt, mũi, miệng, tai, bộ phận sinh dục và hậu môn. Ngoài ra có thể kèm sốt cao, viêm phổi, rối loạn chức năng gan thận. Chẩn đoán hội chứng Steven-Johnson (SJS) khi có ít nhất 2 hốc tự nhiên bị tổn thương.</p><p><i>Hội chứng hoại tử da nhiễm độc (TEN</i>): Là thể dị ứng thuốc nặng nhất, gồm: các tổn thương đa dạng ở da: ban dạng sởi, ban dạng tinh hồng nhiệt, hồng ban hoặc các bọng nước bùng nhùng, các tổn thương nhanh chóng lan tỏa khắp người; tổn thương niêm mạc mắt: viêm giác mạc, viêm kết mạc mủ, loét giác mạc; tổn thương niêm mạc đường tiêu hóa: viêm miệng, trợt niêm mạc miệng, loét hầu, họng, thực quản, dạ dày, ruột; tổn thương niêm mạc đường sinh dục, tiết niệu; ngoài ra còn có các triệu chứng toàn thân trầm trọng như sốt, xuất huyết đường tiêu hóa, viêm phổi, viêm cầu thận, viêm gan,... tỷ lệ tử vong cao 15 - 30%.</p><p><i>Hội chứng ngoại ban mụn mủ toàn thân cấp tính (AGEP</i>): Mụn mủ vô trùng nhỏ phát sinh trên nền hồng ban lan rộng. Tổn thương thường xuất hiện ở các nếp gấp như nách, bẹn và mặt, sau đó có thể lan rộng toàn thân. Triệu chứng toàn thân thường có là sốt, xét nghiệm máu bạch cầu trung tính tăng cao.</p><p>Khi phát hiện những dấu hiệu phát ban trên da đầu tiên hoặc bất kỳ dấu hiệu phản ứng quá mẫn nào khác, bệnh nhân cần phải ngừng sử dụng thuốc. Người đã từng bị các phản ứng trên da nghiêm trọng do paracetamol gây ra thì không được dùng thuốc trở lại và khi đến khám chữa bệnh cần phải thông báo cho nhân viên y tế biết về vấn đề này.</p><p><i><strong>Chlorpheniramin maleate</strong></i></p><p><i>Tác dụng kháng cholinergic:</i></p><ul><li>Thuốc kháng histamin cũng có tác dụng giống atropin nhưng ở các mức độ khác nhau. Thận trọng khi dùng cho bệnh nhân bị bí tiểu bẩm sinh, có tiền sử hen phế quản, tăng áp suất nội nhãn, cường tuyến giáp, bệnh tim mạch (cao huyết áp).</li><li>Các thuốc kháng histamin có thể làm đặc dịch phổi do tác dụng kháng cholinergic và có thể ức chế khạc đờm và sự dẫn lưu ở xoang.</li></ul><p><i>Sự nhạy cảm với ánh sáng:</i>&nbsp;</p><p>Có thể xảy ra, đo đó bệnh nhân cần đội mũ, nón rộng vành, áo quần bảo hộ... để tránh tiếp xúc với tia cực tím hay ánh sáng mặt trời.</p><p><i><strong>Phenylephrin HCI&nbsp;</strong></i></p><p>Phenylephrin HCI thường được sử dụng phối hợp với các thuốc khác, vì vậy phải chú ý đến tất cả các thành phần trong công thức.</p><p><strong>Thận trọng và cảnh báo đặc biệt khi sử dụng thuốc Tiffy Dey</strong></p><p>Bác sĩ cần cảnh báo bệnh nhân về các dấu hiệu của phản ứng trên da nghiêm trọng như hội chứng Steven-Johnson (SJS), hội chứng hoại tử da nhiễm độc (TEN) hay hội chứng Lyell, hội chứng ngoại ban mụn mủ toàn thân cấp tính (AGEP).</p><h3>Khả năng lái xe và vận hành máy móc</h3><p>Chưa có báo cáo.</p><h3>Thời kỳ mang thai&nbsp;</h3><p><i>Paracetamol</i></p><p>Paracetamol qua được nhau thai. Dùng trong thời gian mang thai với liều điều trị trong thời gian ngắn thì an toàn. Dùng liều cao hàng ngày liên tục sẽ gây thiếu máu trầm trọng ở người mẹ và bệnh thận nguy hiểm ở trẻ sơ sinh.</p><p><i>Chlorpheniramin maleat</i></p><ul><li>Không có đầy đủ các nghiên cứu được kiểm soát trong việc sử dụng chlorpheniramin maleat hay dexchlorpheniramin cho phụ nữ có thai và thuốc này chỉ được sử dụng trong 6 tháng đầu của thai kỳ khi thật cần thiết.</li><li>Trong một nghiên cứu về dịch tễ học, sử dụng chlorpheniramin maleat không làm tăng nguy cơ gây quái thai. Tuy nhiên, chỉ một số lượng có hạn phụ nữ mang thai nhận thuốc trong nghiên cứu này. Vì nguy cơ gây ra phản ứng nghiêm trọng đối với trẻ sơ sinh, chlorpheniramin maleat hay dexchlorpheniramin không nên sử dụng từ tháng thứ 7 trở đi của thai kỳ.</li></ul><p><i>Phenylephrin HCI</i></p><ul><li>Dùng phenylephrin HCI cho bệnh nhân vào cuối thai kỳ hay sắp sinh có thể gây giảm oxy của thai và làm chậm nhịp tim thai nhi vì làm co tử cung và giảm tốc độ máu lưu thông trong tử cung.</li><li>Nếu thuốc làm tăng huyết áp được dùng cùng với thuốc thúc sanh thì hiệu quả tăng huyết áp tăng lên và có thể có các phản ứng có hại trầm trọng. Các nghiên cứu trên sinh sản ở động vật chưa được thực hiện đối với phenylephrin HCI.</li><li>Cũng như chưa biết chắc chắn rằng phenylephrin HCl có gây ảnh hưởng xấu tới trẻ sơ sinh hay không khi mà người mẹ mang thai uống thuốc này. Phenylephrin HCI chỉ nên dùng cho phụ nữ mang thai khi thực sự cần thiết, phải cân nhắc giữa lợi ích của việc chữa bệnh với tác hại đối với người mẹ và thai nhi.</li></ul><h3>Thời kỳ cho con bú</h3><p><i>Paracetamol</i></p><p>Paracetamol bài tiết qua sữa mẹ với nồng độ thấp; không có các phản ứng có hại trên trẻ bú mẹ được báo cáo.</p><p><i>Chlorpheniramin maleat</i></p><p>Không biết chắc chắn rằng chlorpheniramin maleat hay dexchlorpheniramin có phân bố vào sữa mẹ hay không nhưng các thuốc kháng histamin khác (ví dụ như diphenhydramin) đã được tìm thấy trong sữa mẹ. Vì có khả năng gây ra phản ứng có hại nghiêm trọng đối với trẻ còn bú sữa mẹ, cần cân nhắc giữa việc ngừng cho con bú và ngừng uống thuốc, có tính đến tầm quan trọng của thuốc đối với người mẹ.</p><p><i>Phenylephrin HCI</i></p><p>Cho đến nay chưa biết thuốc có được phân bố vào sữa mẹ hay không, vì vậy phải dùng thật thận trọng đối với phụ nữ cho con bú.</p><h3>Tương tác thuốc Tiffy Dey</h3><p><i>Paracetamol&nbsp;</i></p><p>Khả năng gây nhiễm độc gan của paracetamol có thể tăng lên khi dùng liều cao hay dùng trong thời gian dài bởi các tác nhân gây cảm ứng men gan.</p><p>Hiệu quả điều trị của paracetamol có thể bị giảm khi dùng chung với: barbiturat, rifampicin, hydantoin, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/carbamazepine\">carbamazepin</a>, sulfinpyrazon.</p><p>Cồn ethanol: Khi uống cùng với thuốc có thể làm tăng khả năng gây độc khi uống liều lớn hay quá liều.</p><p>Than hoạt: Uống ngay lập tức để giảm sự hấp thu paracetamol.</p><p><i>Chlorpheniramin maleat</i></p><p>Các thuốc ức chế MAO có thể làm tăng tác dụng kháng cholinergic của các thuốc kháng <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/histamine\">histamin</a>. Tác dụng cộng hưởng gây trầm cảm hệ thần kinh trung ương có thể xuất hiện.</p><p><i>Phenylephrin HCI</i></p><p>Tác dụng làm tăng huyết áp của phenylephrin giảm đi khi trước đó bệnh nhân đã dùng thuốc chẹn alpha-adrenergic như phentolamin mesylat. Phentolamin có thể được dùng để điều trị tăng huyết áp do quá trình dùng phenylephrin HCI gây ra.&nbsp;</p><p>Khi một chất gây co mạch được sử dụng kết hợp với các thuốc thúc sanh tác dụng tăng huyết áp bị tăng lên. Nếu phenylephrin HCI được dùng cho sản phụ trong quá trình sinh đẻ để làm mất tác dụng hạ huyết áp hoặc được thêm vào dung dịch gây tê tại chỗ, bác sĩ sản khoa nên chú ý rằng một vài thuốc thúc sanh có thể gây tăng huyết áp trầm trọng trong thời gian dài và có thể làm vỡ mạch máu não trong quá trình hậu sản.&nbsp;</p><p>Các sản phẩm kết hợp chứa phenylephrin HCI và một tác nhân kích thích thần kinh giao cảm gây giãn phế quản không nên dùng cùng với epinephrin hay các tác nhân kích thích thần kinh giao cảm khác bởi vì có thể gây ra tim đập nhanh hay loạn nhịp tim trầm trọng.&nbsp;</p><p>Các tác dụng trên tim gây co mạch của phenylephrin tăng lên khi trước đó dùng chất ức chế men monoaminoxidase vì sự chuyển hóa của phenylephrin bị giảm. Atropin sulfat ngăn phản xạ nhịp tim chậm và làm tăng phản ứng co mạch gây ra bởi phenylephrin HCI.&nbsp;</p><p>Sự tăng áp lực máu có thể xảy ra nếu dùng phenylephrin HCI cho bệnh nhân đang dùng sản phẩm tiêm alkaloid cựa lúa mạch như ergonovin maleat.&nbsp;</p><p>Dùng thuốc furosemid hay thuốc lợi tiểu khác có thể làm giảm sự đáp ứng với chất gây tăng huyết áp như phenylephrin HCI.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Trần Thị Dương",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp Đại Học Dược Hà Nội và có nhiều kinh nghiệm trong lĩnh vực Dược phẩm. Nhiều năm công tác giảng dạy tại các trường trung cấp và cao đẳng dược. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-tran-thi-duong",
+        "isLegit": true,
+        "id": 14,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bac_si_thi_duong_1_dd3472f2fb.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Tiffy Dey trị cảm cúm, sổ mũi, hắt hơi (25 vỉ x 4 viên)",
+        "metaDescription": "Thuốc cảm cúm Tiffy Dey dùng để điều trị các triệu chứng cảm thông thường như: nghẹt mũi, sổ mũi, hắt hơi, nhức đầu và sốt. Mua Tiffy Dey giá tốt tại Long Châu",
+        "id": 2859,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6379_6d8abac855.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Tiffy Dey Thai Nakorn Patana điều trị nghẹt mũi, sổ mũi (25 vỉ x 4 viên)",
+            "description": "Tiffy Dey là sản phẩm của Công ty TNHH Thai Nakorn Patana (Việt Nam), thành phần chính bao gồm paracetamol, chlorpheniramin maleat và phenylephrin HCl. Thuốc được dùng để điều trị các triệu chứng cảm thông thường như: nghẹt mũi, sổ mũi, hắt hơi, nhức đầu và sốt.Tiffy Dey được bào chế dạng viên nén và đóng gói theo quy cách 25 vỉ x 4 viên."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 17015,
+        "title": "Những đối tượng nào cần thận trọng khi dùng Tiffy Dey?",
+        "content": "<ul><li aria-level=\"1\">Ở bệnh nhân nghiện rượu kinh niên, nguy cơ nhiễm độc gan và suy gan tăng lên khi sử dụng paracetamol ở liều điều trị. Liều an toàn cho đối tượng này chưa được xác định. Do đó, người nghiện rượu kinh niên không nên dùng paracetamol quá 2 g một ngày.</li><li aria-level=\"1\">Chlorpheniramin maleat có tác dụng kháng cholinergic. Do đó cần thận trọng với bệnh nhân bị bí tiểu bẩm sinh, tiền sử hen phế quản, tăng áp lực nội nhãn, cường giáp, bệnh tim mạch (cao huyết áp).</li><li aria-level=\"1\">Thuốc kháng histamin có thể gây chóng mặt, ngất, hạ huyết áp và lẫn lộn ở người cao tuổi. Nên giảm liều nếu cần.&nbsp;</li></ul>"
+      },
+      {
+        "id": 17014,
+        "title": "Thuốc Tiffy Dey có ảnh hưởng đến khả năng lái xe và vận hành máy móc không?",
+        "content": "<p>Thuốc có thể gây ra tình trạng đau đầu, chóng mặt. Do đó, cần thận trọng khi sử dụng thuốc với đối tượng cần phải tập trung cao độ khi làm việc.</p>"
+      },
+      {
+        "id": 17013,
+        "title": "Bị cảm cúm uống Tiffy Dey hay Decolgen?",
+        "content": "<p>Tiffy Dey và <a href=\"https://nhathuoclongchau.com.vn/thuoc/decolgen-nd-4063.html\">Decolgen</a> đều có thành phần hoạt chất và hàm lượng tương tự nhau. Mặc dù cả 2 loại thuốc có thành phần tá dược không giống nhau nhưng điều này không ảnh hưởng đến hiệu quả điều trị. Do đó, khi bị cảm cúm có thể uống Tiffy Dey hay Decolgen đều được.&nbsp;</p>"
+      },
+      {
+        "id": 17012,
+        "title": "Phụ nữ đang cho con bú có uống được thuốc Tiffy Dey không?",
+        "content": "<p>Không sử dụng Tiffy Dey với phụ nữ đang cho con bú. Để an toàn, tốt nhất nên ngừng cho bú khi mẹ đang dùng thuốc.</p>"
+      },
+      {
+        "id": 17011,
+        "title": "Trẻ em có uống được thuốc Tiffy Dey không?",
+        "content": "<p>Thuốc Tiffy Dey không dùng cho trẻ em dưới 6 tuổi.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00032865",
+        "name": "PARACETAMOL STADA 500MG 10X10",
+        "webName": "Viên nén Paracetamol Stada 500mg điều trị các cơn đau đầu, đau thần kinh, đau răng (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00032865_paracetamol_stada_500mg_10x10_4111_61af_large_6bbfac12ff.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 45183,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 50000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/paracetamol-stada-500mg-10x10-32980.html",
+        "ingredients": "Paracetamol 500mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Stada",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 45181,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 45182,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 5000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 45183,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 50000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00030902",
+        "name": "TOVALGAN EF 500MG TRƯỜNG THỌ 5X4 SỦI",
+        "webName": "Viên sủi Tovalgan Ef Trường Thọ Pharma giảm đau, hạ sốt (5 vỉ x 4 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/tovalgan_ef_500mg_5x4_sui_truong_tho_00030902_823d4ec704.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 41165,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 40000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tolvagan-ef-500mg-truong-tho-5x4-sui-31045.html",
+        "ingredients": "Paracetamol 500mg",
+        "dosageForm": "Viên nén sủi bọt",
+        "brand": "Trường Thọ Pharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 4 Viên",
+        "prices": [
+          {
+            "id": 41163,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 2000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 41164,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 8000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 41165,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 40000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00033763",
+        "name": "ACTADOL 500MG MEDIPHARCO 10X10",
+        "webName": "Thuốc Actadol 500 Medipharco điều trị các chứng đau và sốt từ nhẹ đến vừa (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_actadol_500mg_medipharco_10x10_00033763_1b03ff906f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 47271,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/actadol-500mg-medipharco-10x10-33851.html",
+        "ingredients": "Paracetamol 500mg",
+        "dosageForm": "Viên nén",
+        "brand": "Medipharco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 100,
+        "productRanking": 0,
+        "specification": "Hộp 10 vỉ x 10 viên",
+        "prices": [
+          {
+            "id": 47271,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 47273,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 50000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 47272,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 5000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00051542",
+        "name": "ALAXAN FR 325MG/200MG UNITED 10X10",
+        "webName": "Thuốc Alaxan FR United giảm đau nhanh các cơn đau đầu, đau cơ xương khớp, đau răng và hạ sốt (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_alaxan_fr_325mg_200mg_united_10x10_00051542_1_becda2a6b8.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 81759,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 150000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/alaxan-fr-325-mg-200-mg-united-10-x10.html",
+        "ingredients": "Paracetamol micronized 325mg, Ibuprofen 200mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "United",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 81759,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 150000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 81760,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 15000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 81761,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 1500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049475",
+        "name": "AMEFLU KHÔNG GÂY BUỒN NGỦ OPV 10X10",
+        "webName": "Thuốc Ameflu Không Gây Buồn Ngủ OPV điều trị các triệu chứng cảm lạnh và cảm cúm (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_ameflu_khong_gay_buon_ngu_10x10_opv_00049475_1_b7a48276fe.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 78005,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 1100,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/ameflu-khong-gay-buon-ngu-opv-10-x10.html",
+        "ingredients": "Paracetamol 500mg, Phenylephrine hydrochloride 5mg, Caffeine 25mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Opv",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 78003,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 110000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 78004,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 11000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 78005,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 1100,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00503075",
+        "name": "PANACTOL 250MG KHAPHARCO 48 GÓI X 1.5G",
+        "webName": "Bột sủi Panactol 250mg Khapharco vị ngọt, không đắng, hạ sốt, giảm đau cho trẻ (48 gói x 1.5g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503075_panactol_250mg_khapharco_48_goi_x_15g_6773_63b6_large_ce8166f80d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 53628,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 81600,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/panactol-250mg-khapharco-48-goi-x-15g-37384.html",
+        "ingredients": "Paracetamol 250mg",
+        "dosageForm": "Bột sủi bọt",
+        "brand": "Khapharco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 48 Gói x 1.5g",
+        "prices": [
+          {
+            "id": 53627,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 1700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 53628,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 81600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00503072",
+        "name": "PANACTOL 150MG KHAPHARCO 48 GÓI X 1.5G",
+        "webName": "Bột sủi Panactol 150mg Khapharco vị ngọt, không đắng, hạ sốt, giảm đau cho trẻ (48 gói x 1.5g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503072_panactol_150mg_khapharco_48_goi_x_15g_3643_63b6_large_5888de4a0b.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 53621,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 72000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/panactol-150mg-khapharco-48-goi-x-15g-37387.html",
+        "ingredients": "Paracetamol 150mg",
+        "dosageForm": "Bột sủi bọt",
+        "brand": "Khapharco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 48 Gói x 1.5g",
+        "prices": [
+          {
+            "id": 53621,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 72000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 53620,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 1500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00033576",
+        "name": "PANACTOL 500MG KHÁNH HÒA 10X10",
+        "webName": "Viên nén Panactol 500mg Khapharco giảm đau, hạ sốt, điều trị đau đầu, đau răng (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_panactol_500mg_khanh_hoa_10x10_00033576_9d2006dbed.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 46946,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 400,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/panactol-500mg-khanh-hoa-10x10-33672.html",
+        "ingredients": "Paracetamol 500mg",
+        "dosageForm": "Viên nén",
+        "brand": "Khapharco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 46948,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 40000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 46947,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 4000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 46946,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00018235",
+        "name": "GLOTADOL 650 ABBOTT 200V",
+        "webName": "Thuốc Glotadol 650 Abbott hỗ trợ hạ sốt và giảm đau (200 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00068_62b230be69.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 23050,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 130000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/glotadol-650-glomex-200v-19557.html",
+        "ingredients": "Acetaminophen 650mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Abbott",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 200 Viên",
+        "prices": [
+          {
+            "id": 23050,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 130000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 23049,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 650,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 248,
+          "attributeName": "Hoa Kỳ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/us_United_States_of_America_usa_59e1ad3af3.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00021697",
+        "name": "PANACTOL EXTRA KHAPHARCO PHARM 10X10 ĐỎ",
+        "webName": "Viên nén Panactol Extra Khapharco hạ sốt, giảm đau (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/panactol_extra_10x10_do_khapharco_pharm_00021697_21633db3bf.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 27305,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 60000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/panactol-extra-kh-10x10-22050.html",
+        "ingredients": "Cafein 65mg, Paracetamol 500mg",
+        "dosageForm": "Viên nén",
+        "brand": "Khapharco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 27303,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 27305,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 27304,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00030828",
+        "name": "GLOTADOL 250MG ABBOTT 20 GÓI X 2.5G",
+        "webName": "Bột Glotadol 250 Abbott hỗ trợ hạ sốt và giảm đau (20 gói x 2.5g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/glotadol_250mg_20_goi_x_2_5g_abbott_00030828_d0843f0a83.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 40995,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 48000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/glotadol-250mg-abbott-glomed-20-goi-x-25g-30975.html",
+        "ingredients": "Paracetamol 250mg",
+        "dosageForm": "Bột pha hỗn dịch uống",
+        "brand": "Abbott",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 20 gói X 2.5g",
+        "prices": [
+          {
+            "id": 40994,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": false,
+            "price": 2400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 40995,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 48000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 248,
+          "attributeName": "Hoa Kỳ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/us_United_States_of_America_usa_59e1ad3af3.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00030829",
+        "name": "GLOTADOL 150MG ABBOTT 20 GÓI X 2G",
+        "webName": "Bột Glotadol 150 Abbott hỗ trợ hạ sốt và giảm các cơn đau do cảm cúm (20 gói x 2g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/glotadol_150mg_20_goi_x_2g_abbott_00030829_2b2121f398.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 40997,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 44000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/glotadol-150mg-abbott-glomed-20-goi-x-2g-30976.html",
+        "ingredients": "Paracetamol 150mg",
+        "dosageForm": "Bột pha hỗn dịch uống",
+        "brand": "Abbott",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 20 gói X 2g",
+        "prices": [
+          {
+            "id": 40996,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": false,
+            "price": 2200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 40997,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 44000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 248,
+          "attributeName": "Hoa Kỳ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/us_United_States_of_America_usa_59e1ad3af3.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 23,
+      "items": [
+        {
+          "id": 3354869,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0822xxxxxx",
+          "name": "Thuong",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "một lần dùng 2v đc không ạ? mình ng lớn",
+          "createdAt": "2026-08-10 00:41:32",
+          "createdAtDisplay": "26 ngày trước",
+          "updatedAt": "2026-08-10 00:41:32",
+          "replies": [
+            {
+              "id": 3354930,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Hoàng Phi",
+                "moderatorEmail": "phinh15@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Hoàng Phi",
+              "email": "phinh15@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Thuong ạ,</p><p>Đối với thuốc Tiffy Dey, liều dùng cho người lớn thông thường là từ 1 đến 2 viên mỗi lần, nên Chị hoàn toàn có thể dùng 2 viên một lần ạ. Khoảng cách giữa các lần dùng nên cách nhau từ 4 đến 6 giờ và lưu ý không dùng quá 8 viên trong vòng 24 giờ ạ. Do thuốc có chứa thành phần gây buồn ngủ, Chị nên thận trọng khi lái xe hoặc làm việc cần tỉnh táo ạ.</p><p>Chúc Chị và gia đình luôn dồi dào sức khỏe ạ.</p>",
+              "createdAt": "2026-08-10 08:46:03",
+              "createdAtDisplay": "26 ngày trước",
+              "updatedAt": "2026-08-10 00:41:32",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3228306,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0358xxxxxx",
+          "name": "anh nguyên",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cách dùng và liều lượng dùng",
+          "createdAt": "2025-12-12 19:38:03",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2025-12-12 19:38:03",
+          "replies": [
+            {
+              "id": 3228307,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Tiểu Thanh Trúc",
+                "moderatorEmail": "trucptt5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Tiểu Thanh Trúc",
+              "email": "trucptt5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Nguyên,</p><p>Dạ Người lớn: uống mỗi lần từ 1 - 2 viên, 4 - 6 giờ mỗi lần.</p><p>Trẻ em từ 6 – 12 tuổi: uống mỗi lần 1 viên, 4 – 6 giờ mỗi lần ạ.</p><p>Nhà thuốc thông tin đến anh.</p><p>Thân mến!</p>",
+              "createdAt": "2025-12-12 19:40:16",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-12-12 19:38:03",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3206277,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0332xxxxxx",
+          "name": "0332xxxxxx",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc tiffy dey gây buồn ngủ không ạ",
+          "createdAt": "2025-11-02 14:38:38",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-11-02 14:38:35",
+          "replies": [
+            {
+              "id": 3206280,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ánh",
+                "moderatorEmail": "anhnth44@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ánh",
+              "email": "anhnth44@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn,</p><p>Dạ Tiffy Dey có thể gây buồn ngủ nhẹ.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p>",
+              "createdAt": "2025-11-02 14:44:42",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-11-02 14:38:35",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3201572,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0988xxxxxx",
+          "name": "chị Kim",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bé 2 tuổi uống đc k",
+          "createdAt": "2025-10-24 16:12:44",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-24 16:12:27",
+          "replies": [
+            {
+              "id": 3201574,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Mai Anh",
+                "moderatorEmail": "anhnm70@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Mai Anh",
+              "email": "anhnm70@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào <strong>chị Kim</strong>,</p><p>Dạ sản phẩm phù hợp dùng cho trẻ từ 6 tuổi trở lên ạ. Chưa có thông tin an toàn cho trẻ 2 tuổi, chị nên tham khảo ý kiến bác sĩ trước khi dùng ạ.</p><p>Nhà thuốc thông tin đến chị.</p><p><br></p>",
+              "createdAt": "2025-10-24 16:15:51",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-24 16:12:27",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3197938,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0793xxxxxx",
+          "name": "chi thương",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "tôi bị nghẹt mũi có uống được ko ",
+          "createdAt": "2025-10-17 21:16:12",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-17 21:15:59",
+          "replies": [
+            {
+              "id": 3197942,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thanh Ngọc",
+                "moderatorEmail": "ngocht18@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Thanh Ngọc",
+              "email": "ngocht18@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Thương,</p><p>Dạ Tiffy Dey làm giảm các triệu chứng cảm thông thường như: nghẹt mũi, sổ mũi, hắt hơi, nhức đầu và sốt. Dạ mình dùng theo liều:</p><p>- Người lớn: uống mỗi lần từ 1 - 2 viên, 4 - 6 giờ mỗi lần.</p><p>- Trẻ em từ 6 – 12 tuổi: uống mỗi lần 1 viên, 4 – 6 giờ mỗi lần.</p><p>Nhà thuốc thông tin đến chị.</p><p>Thân mến!</p>",
+              "createdAt": "2025-10-17 21:19:57",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-17 21:15:59",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 12,
+      "items": [
+        {
+          "id": 3311517,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0396xxxxxx",
+          "name": "Hà Văn Đối",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-05-23 19:22:45",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-23 19:22:45",
+          "replies": [
+            {
+              "id": 3311518,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trịnh Thị Mỹ Vi",
+                "moderatorEmail": "vittm2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trịnh Thị Mỹ Vi",
+              "email": "vittm2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Đối</p><p> Dạ nhà thuốc FPT Long Châu rất cảm ơn anh luôn tin tưởng và ủng hộ. Chúc anh nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-05-23 19:23:47",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-23 19:22:45",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3100440,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0928xxxxxx",
+          "name": "0928xxxxxx",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2025-05-02 12:02:30",
+          "createdAtDisplay": "02/05/2025",
+          "updatedAt": "2025-05-02 12:02:30",
+          "replies": [
+            {
+              "id": 3100447,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Từ Thị Tú Uyên",
+                "moderatorEmail": "uyenttt19@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Từ Thị Tú Uyên",
+              "email": "uyenttt19@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn,&nbsp;</p><p>Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu.&nbsp;</p><p>Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.&nbsp;&nbsp;</p><p>Thân mến!</p>",
+              "createdAt": "2025-05-02 12:04:34",
+              "createdAtDisplay": "02/05/2025",
+              "updatedAt": "2025-05-02 12:02:30",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3100439,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0928xxxxxx",
+          "name": "0928xxxxxx",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2025-05-02 12:02:26",
+          "createdAtDisplay": "02/05/2025",
+          "updatedAt": "2025-05-02 12:02:26",
+          "replies": [
+            {
+              "id": 3100446,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Từ Thị Tú Uyên",
+                "moderatorEmail": "uyenttt19@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Từ Thị Tú Uyên",
+              "email": "uyenttt19@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn,&nbsp;</p><p>Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu.&nbsp;</p><p>Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.&nbsp;&nbsp;</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-05-02 12:04:24",
+              "createdAtDisplay": "02/05/2025",
+              "updatedAt": "2025-05-02 12:02:26",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3075630,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0387xxxxxx",
+          "name": "Phạm Thị Cẩm Ly",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giao hàng nhanh, shipper rất thân thiện, nói chuyện dễ thương, lễ phép, giao hàng đủ, mk hay mua onl cho tiện",
+          "createdAt": "2025-03-25 14:13:21",
+          "createdAtDisplay": "25/03/2025",
+          "updatedAt": "2025-03-25 14:13:21",
+          "replies": [
+            {
+              "id": 3075632,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Quỳnh Chu",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Quỳnh Chu",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Phạm Thị Cẩm Ly,</p><p>Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu. Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.</p><p>Thân mến!</p>",
+              "createdAt": "2025-03-25 14:13:52",
+              "createdAtDisplay": "25/03/2025",
+              "updatedAt": "2025-03-25 14:13:21",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3038032,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0344xxxxxx",
+          "name": "Chi",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mình nghẹt mũi với hơi ho thì uống terpincold cùng tiffy dc k? Có cần cách mấy tiếng không",
+          "createdAt": "2025-02-02 19:54:27",
+          "createdAtDisplay": "02/02/2025",
+          "updatedAt": "2025-02-02 19:54:27",
+          "replies": [
+            {
+              "id": 3038033,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Quỳnh Chu",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Quỳnh Chu",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Chi,</p><p>Dạ mình có thể sử dụng chung được ạ.</p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p>",
+              "createdAt": "2025-02-02 19:56:30",
+              "createdAtDisplay": "02/02/2025",
+              "updatedAt": "2025-02-02 19:54:27",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 12
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Tiffy Dey Thai Nakorn Patana điều trị nghẹt mũi, sổ mũi (25 vỉ x 4 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6379_6d8abac855.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6380_535a78b2f6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6381_f8a4189f93.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6382_66880f4bc2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6383_6d142f8c79.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6386_fd2685bd97.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6387_4fa048e753.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tiffy_dey_1_5b6f7538ba.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tiffydey_2_71faafdb93.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Tiffy Dey là sản phẩm của Công ty TNHH Thai Nakorn Patana (Việt Nam), thành phần chính bao gồm paracetamol, chlorpheniramin maleat và phenylephrin HCl. Thuốc được dùng để điều trị các triệu chứng cảm thông thường như: nghẹt mũi, sổ mũi, hắt hơi, nhức đầu và sốt.Tiffy Dey được bào chế dạng viên nén và đóng gói theo quy cách 25 vỉ x 4 viên.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Trần Thị Dương"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "12"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/tiffy-dey-1994.html",
+        "priceCurrency": "VND",
+        "price": 4500,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Tiffy Dey trị cảm cúm, sổ mũi, hắt hơi (25 vỉ x 4 viên)",
+      "description": "Thuốc cảm cúm Tiffy Dey dùng để điều trị các triệu chứng cảm thông thường như: nghẹt mũi, sổ mũi, hắt hơi, nhức đầu và sốt. Mua Tiffy Dey giá tốt tại Long Châu",
+      "openGraph": {
+        "title": "Thuốc Tiffy Dey Thai Nakorn Patana điều trị nghẹt mũi, sổ mũi (25 vỉ x 4 viên)",
+        "description": "Tiffy Dey là sản phẩm của Công ty TNHH Thai Nakorn Patana (Việt Nam), thành phần chính bao gồm paracetamol, chlorpheniramin maleat và phenylephrin HCl. Thuốc được dùng để điều trị các triệu chứng cảm thông thường như: nghẹt mũi, sổ mũi, hắt hơi, nhức đầu và sốt.Tiffy Dey được bào chế dạng viên nén và đóng gói theo quy cách 25 vỉ x 4 viên.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6379_6d8abac855.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/tiffy-dey-1994.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/tiffy-dey-1994.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

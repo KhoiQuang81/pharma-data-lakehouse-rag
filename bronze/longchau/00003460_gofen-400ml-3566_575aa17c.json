@@ -1,0 +1,2135 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/gofen-400ml-3566.html",
+  "ingestion_timestamp": "2026-09-05T09:45:32.217230+00:00",
+  "file_hash": "9b73b06abce32a18cd3e4a33424a2fb87f6d2b9cd07df25eb2e3420b01c5d895",
+  "lineage_hash": "5ed8e820cfa07686c6a522ba18355fa65b19c4c00156eef0bb87a3a584560850",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/gofen-400ml-3566.html",
+    "product": {
+      "sku": "00003460",
+      "webName": "Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên)",
+      "name": "GOFEN 400MG MEGA 5X10",
+      "shortName": "GOFEN 400 MEGA 5X10",
+      "headingText": "Thuốc Gofen 400",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_gofen_400_5_vi_x_10_vien_mega_we_care_00003460_565d3a853b.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_3920_63db_large_a4178128a3.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_5448_63db_large_7e13d9a613.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_8891_63db_large_ca06453203.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_3414_63db_large_fc8ad51df3.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_1922_63db_large_56435eabe3.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_1434_63db_large_ff5127951f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_2393_63db_large_b7fd167a7e.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_7439_63db_large_c4375f215b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_7911_63db_large_3a11457e53.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_1675321372_5d91d13dd4.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 729,
+          "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 769,
+          "name": "Thuốc giảm đau kháng viêm",
+          "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+          "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 194000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 5 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": 38800,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "5 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 3880,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/gofen-400ml-3566.html",
+      "ingredient": [
+        {
+          "id": 21613,
+          "ingredientId": 23189,
+          "shortDescription": "400mg",
+          "name": "Ibuprofen",
+          "isPrimary": false,
+          "slug": "thanh-phan/ibuprofen"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "885100077723",
+      "manufactor": "Thái Lan",
+      "dosageForm": "Viên nang mềm",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Dùng đường uống.</p><h3><strong>Liều dùng</strong></h3><p>Người lớn và trẻ em trên 12 tuổi: 1 viên mỗi 4 - 6 giờ.&nbsp;</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p><i>Triệu chứng</i></p><p>Triệu chứng quá liều là buồn nôn, nôn, chóng mặt, co giật, mất ý thức và trầm cảm. Thông thường liều lớn được hấp thu tốt khi không sử dụng kết hợp với các thuốc khác.</p><p><i>Xử trí quá liều</i></p><ul><li>Nếu đã uống quá liều thì cần áp dụng những biện pháp sau đây nhằm tăng đào thải và bất hoạt thuốc: Rửa dạ dày, gây nôn và lợi tiểu, cho uống than hoạt hoặc thuốc tây muối.</li><li>Nếu nặng: Thẩm tách máu hoặc truyền máu. Vì thuốc gây toan hóa và đào thải qua nước tiểu nên về lý thuốc sẽ có lợi khi truyền dịch kiềm và lợi tiểu.</li></ul><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Gofen 400 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Giảm đau do cảm cúm, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">đau đầu</a>, đau răng, đau nhức cơ, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-lung-64.html\">đau lưng</a>, đau nhẹ do viêm khớp, đau do bong gân, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-bung-kinh-567.html\">đau bụng kinh</a>.</li><li>Hạ sốt.</li></ul><h3><strong>Dược lực học</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ibuprofen\">Ibuprofen</a> là thuốc chống viêm không steroid, dẫn xuất từ acid propionic. Giống như các thuốc chống viêm không steroid khác, ibuprofen có tác dụng giảm đau, hạ sốt và kháng viêm. Cơ chế tác dụng của thuốc là ức chế các prostaglandin synthetase và do đó ngăn tạo ra prostaglandin, thromboxan và các sản phẩm khác của cyclooxygenase.</p><p>Ibuprofen cũng ức chế tổng hợp prostacyclin ở thận và có thể gây nguy cơ ứ nước do làm giảm dòng máu tới thận. Cần phải để ý đến điều này đối với các người bệnh suy thận, suy tim, suy gan và các bệnh có rối loạn về thể tích huyết tương.</p><p>Tác dụng chống viêm của ibuprofen xuất hiện sau hai ngày điều trị. Ibuprofen có tác dụng hạ sốt nhanh hơn aspirin, nhưng kém indomethacin. Thuốc có tác dụng chống viêm tốt và có tác dụng giảm đau tốt trong điều trị viêm đa khớp dạng thấp thiếu niên.</p><p>Ibuprofen là thuốc an toàn nhất trong các thuốc chống viêm không steroid.&nbsp;</p><h3><strong>Dược động học</strong></h3><p><i>Hấp thu</i></p><p>Ibuprofen hấp thu nhanh từ đường tiêu hoá và nồng độ đỉnh trong huyết tương đạt được 1 đến 2 giờ sau khi uống.</p><p><i>Phân bố</i></p><p>Ibuprofen gắn mạnh (99%) với protein huyết tương, nhưng thuốc chỉ chiếm một phần nhỏ trong tổng số các điểm gắn với thuốc ở nồng độ thông thường. Ibuprofen thấm qua chậm vào hoạt dịch và nồng độ trong hoạt dịch có thể cao hơn trong huyết tương. Trên động vật thí nghiệm, ibuprofen và các chất chuyển hoá của nó thấm dễ dàng qua nhau thai.</p><p><i>Chuyển hoá</i></p><p>Ibuprofen được chuyển hoá ở gan tạo thành 2 chất chuyển hoá không hoạt tính, những chất này được đào thải qua thận cùng với ibuprofen dưới dạng không đổi hoặc ở dạng liên hợp của chúng. Sự đào thải qua thận là nhanh và hoàn toàn.</p><p><i>Thải trừ</i></p><p>Ibuprofen thải trừ nhanh và hoàn toàn. Trên 90% liều uống thải trừ qua nước tiểu dưới dạng chất chuyển hoá hoặc liên hợp và dạng ibuprofen chưa chuyển hoá trong nước tiểu. Phần lớn chất chuyển hoá dưới dạng hydroxylat và carboxylat. Thời gian bán thải trong huyết tương khoảng 2 giờ.</p>",
+      "brand": "MEGA We care",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Gofen, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Toàn thân: Sốt, mệt mỏi.</p>\n\t</li>\n\t<li>\n\t<p>Tiêu hóa: Chướng bụng, buồn nôn, nôn.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Nhức đầu, hoa mắt, <a href=\"https://nhathuoclongchau.com.vn/benh/chong-mat-763.html\">chóng mặt</a>, bồn chồn.</p>\n\t</li>\n\t<li>\n\t<p>Da: Mẩn ngứa, mày đay.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Miễn dịch: Phản ứng dị ứng (đặc biệt co thắt phế quản ở người bị hen), viêm mũi, nổi <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mày đay</a>.</p>\n\t</li>\n\t<li>\n\t<p>Tiêu hóa: Đau bụng, chảy máu dạ dày - ruột, làm loét dạ dày tiến triển.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Lơ mơ, mất ngủ. </p>\n\t</li>\n\t<li>\n\t<p>Rối loạn khác: <a href=\"https://nhathuoclongchau.com.vn/benh/u-tai-572.html\">Ù tai</a>, rối loạn thị giác, thính lực giảm, chảy máu kéo dài.</p>\n\t</li>\n</ul>\n\n<p><em>Hiếm gặp, ADR&lt;1/1000</em></p>\n\n<ul>\n\t<li>\n\t<p>Toàn thân: Phù, nổi ban, hội chứng Steven - Johnson, rụng tóc.</p>\n\t</li>\n\t<li>\n\t<p>Tâm thần: Trầm cảm.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Viêm màng não vô khuẩn, nhìn mờ, rối loạn nhìn màu.</p>\n\t</li>\n\t<li>\n\t<p>Huyết học: Giảm bạch cầu, <a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-267.html\">thiếu máu</a>.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn khác: Nhiễm độc gan, rối loạn co bóp túi mật, viêm bàng quang, đái ra máu, suy thận cấp, viêm thận kẽ, hội chứng thận hư, nguy cơ huyết khối tim mạch, giảm thị lực do ngộ độc thuốc.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 5 Vỉ x 10 Viên",
+      "indications": [
+        {
+          "id": 217,
+          "name": "Đau đầu",
+          "slug": null
+        },
+        {
+          "id": 302,
+          "name": "Đau bụng kinh",
+          "slug": "benh/dau-bung-kinh-567.html"
+        },
+        {
+          "id": 495,
+          "name": "Đau lưng",
+          "slug": "benh/dau-lung-64.html"
+        },
+        {
+          "id": 655,
+          "name": "Viêm khớp",
+          "slug": "benh/viem-khop-253.html"
+        },
+        {
+          "id": 1067,
+          "name": "Đau nhức cơ thể",
+          "slug": null
+        },
+        {
+          "id": 1338,
+          "name": "Hạ thân nhiệt",
+          "slug": "benh/ha-than-nhiet-951.html"
+        }
+      ],
+      "brandOrigin": "Thái Lan",
+      "producer": "Mega",
+      "shortDescription": "<p>Gofen 400&nbsp;của Công ty Mega Lifesciences Public Company Limited, có thành phần chính ibuprofen, là một thuốc kháng viêm không steroid. Đây là thuốc dùng để điều trị <strong>hạ sốt, giảm đau</strong> do cảm cúm, đau đầu, đau răng, đau nhức cơ, đau lưng, đau nhẹ do viêm khớp, đau do bong gân, đau bụng kinh.</p>",
+      "description": "<p><strong>Giới thiệu thuốc Gofen 400:</strong></p><ul><li><strong>Chỉ định: </strong>Giảm đau do cảm cúm, đau đầu, đau răng, đau nhức cơ, đau lưng, đau nhẹ do viêm khớp, đau do bong gân, đau bụng kinh. Hạ sốt.</li><li><strong>Cách dùng:</strong> Dùng đường uống.</li><li><strong>Đối tượng sử dụng:</strong> Người lớn và trẻ em trên 12 tuổi cần giảm đau, hạ sốt.</li><li><strong>Lưu ý khi sử dụng: </strong>Không nên dùng cho phụ nữ có thai (nhất là trong 3 tháng đầu và 3 tháng cuối của thai kỳ), đang chuyển dạ hay phụ nữ đang cho con bú.</li><li><strong>Chống chỉ định:</strong> Mẫn cảm với ibuprofen và các thành phần khác của thuốc.</li></ul>",
+      "prescription": false,
+      "ageUse": "Trên 12 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Trẻ em"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Suy gan, Suy thận, Dị ứng thuốc, Hen phế quản, Suy tim",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/mega-we-care",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "GOFEN",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 262,
+        "attributeName": "Thái Lan",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/th_Thailand_cdaa8c1601.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": 3880,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 769,
+        "name": "Thuốc giảm đau kháng viêm",
+        "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+        "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_gofen_400_5_vi_x_10_vien_mega_we_care_00003460_565d3a853b.jpg",
+          "alternativeText": "Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_3920_63db_large_a4178128a3.jpg",
+          "alternativeText": "Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_5448_63db_large_7e13d9a613.jpg",
+          "alternativeText": "Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_8891_63db_large_ca06453203.jpg",
+          "alternativeText": "Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_3414_63db_large_fc8ad51df3.jpg",
+          "alternativeText": "Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_1922_63db_large_56435eabe3.jpg",
+          "alternativeText": "Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_1434_63db_large_ff5127951f.jpg",
+          "alternativeText": "Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_2393_63db_large_b7fd167a7e.jpg",
+          "alternativeText": "Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_7439_63db_large_c4375f215b.jpg",
+          "alternativeText": "Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_7911_63db_large_3a11457e53.jpg",
+          "alternativeText": "Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên) 10"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_1675321372_5d91d13dd4.jpg",
+          "alternativeText": "Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên) 11"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 194000,
+        "itemCode": "00003460",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 194000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 38800,
+        "itemCode": "00003460",
+        "unitCode": 13,
+        "maxValue": 0,
+        "price": 38800,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 3880,
+        "itemCode": "00003460",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 3880,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+        "slug": "/thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+      },
+      {
+        "name": "Thuốc giảm đau kháng viêm",
+        "slug": "/thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem"
+      }
+    ],
+    "content": {
+      "sku": "00003460",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Dùng đường uống.</p><h3><strong>Liều dùng</strong></h3><p>Người lớn và trẻ em trên 12 tuổi: 1 viên mỗi 4 - 6 giờ.&nbsp;</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p><i>Triệu chứng</i></p><p>Triệu chứng quá liều là buồn nôn, nôn, chóng mặt, co giật, mất ý thức và trầm cảm. Thông thường liều lớn được hấp thu tốt khi không sử dụng kết hợp với các thuốc khác.</p><p><i>Xử trí quá liều</i></p><ul><li>Nếu đã uống quá liều thì cần áp dụng những biện pháp sau đây nhằm tăng đào thải và bất hoạt thuốc: Rửa dạ dày, gây nôn và lợi tiểu, cho uống than hoạt hoặc thuốc tây muối.</li><li>Nếu nặng: Thẩm tách máu hoặc truyền máu. Vì thuốc gây toan hóa và đào thải qua nước tiểu nên về lý thuốc sẽ có lợi khi truyền dịch kiềm và lợi tiểu.</li></ul><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Gofen 400.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Gofen, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Toàn thân: Sốt, mệt mỏi.</p>\n\t</li>\n\t<li>\n\t<p>Tiêu hóa: Chướng bụng, buồn nôn, nôn.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Nhức đầu, hoa mắt, <a href=\"https://nhathuoclongchau.com.vn/benh/chong-mat-763.html\">chóng mặt</a>, bồn chồn.</p>\n\t</li>\n\t<li>\n\t<p>Da: Mẩn ngứa, mày đay.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Miễn dịch: Phản ứng dị ứng (đặc biệt co thắt phế quản ở người bị hen), viêm mũi, nổi <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mày đay</a>.</p>\n\t</li>\n\t<li>\n\t<p>Tiêu hóa: Đau bụng, chảy máu dạ dày - ruột, làm loét dạ dày tiến triển.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Lơ mơ, mất ngủ. </p>\n\t</li>\n\t<li>\n\t<p>Rối loạn khác: <a href=\"https://nhathuoclongchau.com.vn/benh/u-tai-572.html\">Ù tai</a>, rối loạn thị giác, thính lực giảm, chảy máu kéo dài.</p>\n\t</li>\n</ul>\n\n<p><em>Hiếm gặp, ADR&lt;1/1000</em></p>\n\n<ul>\n\t<li>\n\t<p>Toàn thân: Phù, nổi ban, hội chứng Steven - Johnson, rụng tóc.</p>\n\t</li>\n\t<li>\n\t<p>Tâm thần: Trầm cảm.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Viêm màng não vô khuẩn, nhìn mờ, rối loạn nhìn màu.</p>\n\t</li>\n\t<li>\n\t<p>Huyết học: Giảm bạch cầu, <a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-267.html\">thiếu máu</a>.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn khác: Nhiễm độc gan, rối loạn co bóp túi mật, viêm bàng quang, đái ra máu, suy thận cấp, viêm thận kẽ, hội chứng thận hư, nguy cơ huyết khối tim mạch, giảm thị lực do ngộ độc thuốc.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Bảo quản nơi khô mát, dưới 30°C. Tránh ánh sáng trực tiếp.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Gofen 400 được chỉ định dùng trong các trường hợp sau:</p><ul><li>Giảm đau do cảm cúm, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">đau đầu</a>, đau răng, đau nhức cơ, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-lung-64.html\">đau lưng</a>, đau nhẹ do viêm khớp, đau do bong gân, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-bung-kinh-567.html\">đau bụng kinh</a>.</li><li>Hạ sốt.</li></ul><h3><strong>Dược lực học</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ibuprofen\">Ibuprofen</a> là thuốc chống viêm không steroid, dẫn xuất từ acid propionic. Giống như các thuốc chống viêm không steroid khác, ibuprofen có tác dụng giảm đau, hạ sốt và kháng viêm. Cơ chế tác dụng của thuốc là ức chế các prostaglandin synthetase và do đó ngăn tạo ra prostaglandin, thromboxan và các sản phẩm khác của cyclooxygenase.</p><p>Ibuprofen cũng ức chế tổng hợp prostacyclin ở thận và có thể gây nguy cơ ứ nước do làm giảm dòng máu tới thận. Cần phải để ý đến điều này đối với các người bệnh suy thận, suy tim, suy gan và các bệnh có rối loạn về thể tích huyết tương.</p><p>Tác dụng chống viêm của ibuprofen xuất hiện sau hai ngày điều trị. Ibuprofen có tác dụng hạ sốt nhanh hơn aspirin, nhưng kém indomethacin. Thuốc có tác dụng chống viêm tốt và có tác dụng giảm đau tốt trong điều trị viêm đa khớp dạng thấp thiếu niên.</p><p>Ibuprofen là thuốc an toàn nhất trong các thuốc chống viêm không steroid.&nbsp;</p><h3><strong>Dược động học</strong></h3><p><i>Hấp thu</i></p><p>Ibuprofen hấp thu nhanh từ đường tiêu hoá và nồng độ đỉnh trong huyết tương đạt được 1 đến 2 giờ sau khi uống.</p><p><i>Phân bố</i></p><p>Ibuprofen gắn mạnh (99%) với protein huyết tương, nhưng thuốc chỉ chiếm một phần nhỏ trong tổng số các điểm gắn với thuốc ở nồng độ thông thường. Ibuprofen thấm qua chậm vào hoạt dịch và nồng độ trong hoạt dịch có thể cao hơn trong huyết tương. Trên động vật thí nghiệm, ibuprofen và các chất chuyển hoá của nó thấm dễ dàng qua nhau thai.</p><p><i>Chuyển hoá</i></p><p>Ibuprofen được chuyển hoá ở gan tạo thành 2 chất chuyển hoá không hoạt tính, những chất này được đào thải qua thận cùng với ibuprofen dưới dạng không đổi hoặc ở dạng liên hợp của chúng. Sự đào thải qua thận là nhanh và hoàn toàn.</p><p><i>Thải trừ</i></p><p>Ibuprofen thải trừ nhanh và hoàn toàn. Trên 90% liều uống thải trừ qua nước tiểu dưới dạng chất chuyển hoá hoặc liên hợp và dạng ibuprofen chưa chuyển hoá trong nước tiểu. Phần lớn chất chuyển hoá dưới dạng hydroxylat và carboxylat. Thời gian bán thải trong huyết tương khoảng 2 giờ.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3><strong>Chống chỉ định</strong></h3><p>Thuốc Gofen 400 chống chỉ định trong các trường hợp sau:</p><ul><li>Mẫn cảm với ibuprofen và các thành phần khác của thuốc.</li><li>Bệnh nhân loét dạ dày tá tràng tiến triển.</li><li>Bệnh nhân có tiền sử hen, mày đay hoặc mẫn cảm với aspirin và các thuốc kháng viêm không steroid khác.</li><li>Bệnh nhân có tiền sử chảy máu hoặc thủng đường tiêu hoá có liên quan đến việc sử dụng các thuốc kháng viêm không steroid khác trước đó.</li><li>Người bệnh bị hen hay bị co thắt phế quản, rối loạn chảy máu, bệnh tim mạch.</li><li>Người bệnh đang được điều trị bằng thuốc chống đông coumarin.</li><li>Người bệnh bị suy tim sung huyết, bị giảm khối lượng tuần hoàn do thuốc lợi niệu hoặc bị suy thận (tăng nguy cơ rối loạn chức năng thận).</li><li>Người bị bệnh tạo keo (có nguy cơ bị viêm màng não vô khuẩn, cần chú ý là tất cả các người bệnh bị viêm màng não vô khuẩn đều đã có tiền sử mắc một bệnh tự miễn).</li><li>Suy chức năng gan và thận nặng.</li><li>3 tháng cuối của thai kỳ.</li></ul><h3><strong>Thận trọng khi sử dụng</strong></h3><p>Không phối hợp ibuprofen với aspirin và các thuốc kháng viêm không steroid khác vì có nguy cơ gây kích ứng đường tiêu hoá.</p><p>Không uống thuốc chung với thức uống có cồn.</p><p>Thận trọng với bệnh nhân bị loét dạ dày tá tràng.</p><p>Ngưng dùng ibuprofen và hỏi ý kiến bác sĩ nếu vẫn còn sốt sau 3 ngày hoặc còn đau sau 10 ngày dùng thuốc.</p><p><i>Nguy cơ huyết khối tim mạch</i></p><p>Các thuốc chống viêm không steroid (NSAIDs), không phải aspirin, dùng đường toàn thân, có thể làm tăng nguy cơ xuất hiện biến cố huyết khối tim mạch, bao gồm cả nhồi máu cơ tim và đột quỵ, có thể dẫn đến tử vong. Nguy cơ này có thể xuất hiện sớm trong vài tuần đầu dùng thuốc và có thể tăng lên theo thời gian dùng thuốc. Nguy cơ huyết khối tim mạch được ghi nhận chủ yếu ở liều cao.</p><p>Bác sĩ cần đánh giá định kỳ sự xuất hiện của các biến cố tim mạch, ngay cả khi bệnh nhân không có các triệu chứng tim mạch trước đó.</p><p>Bệnh nhân cần được cảnh báo về các triệu chứng của biến cố tim mạch nghiêm trọng và cần thăm khám bác sĩ ngay khi xuất hiện các triệu chứng này. Để giảm thiểu nguy cơ xuất hiện biến cố bất lợi, cần sử dụng Gofen 400 ở liều hàng ngày thấp nhất có hiệu quả trong thời gian ngắn nhất có thể.</p><h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3><p>Không lái xe hoặc vận hành máy móc nếu bạn thấy bị chóng mặt, hoa mắt, ngủ lơ mơ hoặc rối loạn tầm nhìn sau khi dùng thuốc.</p><h3><strong>Thời kỳ mang thai&nbsp;</strong></h3><p>Không nên dùng cho phụ nữ có thai (nhất là trong 3 tháng đầu và 3 tháng cuối của thai kỳ), đang chuyển dạ hay phụ nữ đang cho con bú. Các thuốc chống viêm không steroid cũng có thể gây tăng áp lực phổi nặng và suy hô hấp nặng trẻ sơ sinh do đóng sớm ống động mạch trong tử cung. Các thuốc chống viêm có thể ức chế co bóp tử cung và làm chậm đẻ. Các thuốc chống viêm cũng có thể ức chế chức năng tiểu cầu, làm tăng nguy cơ chảy máu.</p><h3><strong>Thời kỳ cho con bú</strong></h3><p>Ibuprofen vào sữa mẹ rất ít, không đáng kể. Ít khả năng xảy ra nguy cơ cho trẻ ở liều bình thường với mẹ.</p><h3><strong>Tương tác thuốc</strong></h3><p>Không phối hợp với:</p><ul><li>Các thuốc kháng viêm không steroid khác, bao gồm các salicylat liều cao: Có nguy cơ gây loét và xuất huyết đường tiêu hoá do hiệp đồng tác dụng.</li><li>Magnesi hydroxyd làm tăng sự hấp thu ban đầu của ibuprofen, nhưng nếu nhóm nhôm hydroxyd cùng có mặt thì lại không có tác dụng này.</li><li>Với các thuốc kháng viêm không steroid khác: Tăng nguy cơ chảy máu và gây loét.</li><li>Các thuốc chống đông đường uống, heparin tiêm và ticlopidin: Làm tăng nguy cơ xuất huyết do ức chế chức năng tiểu cầu và làm suy yếu niêm mạc dạ dày tá tràng.</li><li>Lithi: Tăng lithi máu.</li><li>Methotrexat: Tăng độc tính về huyết học của chất này, đặc biệt khi dùng methotrexat với liều trên 15mg/tuần.</li><li>Các sulfamid hạ đường huyết: Do tăng hiệu quả hạ đường huyết.</li></ul><p>Thận trọng khi phối hợp với:&nbsp;</p><ul><li>Các thuốc lợi tiểu: Nguy cơ gây suy thận cấp ở những bệnh nhân bị mất nước do giảm độ lọc tiểu cầu.</li><li>Nên cân nhắc khi phối hợp với các thuốc điều trị cao huyết áp (chẹn beta, ức chế men chuyển, lợi tiểu): Giảm tác dụng các thuốc này do ức chế prostaglandin dãn mạch.</li><li>Digoxin: Làm gia tăng nồng độ digoxin trong máu.</li></ul>",
+      "description": "<p><strong>Giới thiệu thuốc Gofen 400:</strong></p><ul><li><strong>Chỉ định: </strong>Giảm đau do cảm cúm, đau đầu, đau răng, đau nhức cơ, đau lưng, đau nhẹ do viêm khớp, đau do bong gân, đau bụng kinh. Hạ sốt.</li><li><strong>Cách dùng:</strong> Dùng đường uống.</li><li><strong>Đối tượng sử dụng:</strong> Người lớn và trẻ em trên 12 tuổi cần giảm đau, hạ sốt.</li><li><strong>Lưu ý khi sử dụng: </strong>Không nên dùng cho phụ nữ có thai (nhất là trong 3 tháng đầu và 3 tháng cuối của thai kỳ), đang chuyển dạ hay phụ nữ đang cho con bú.</li><li><strong>Chống chỉ định:</strong> Mẫn cảm với ibuprofen và các thành phần khác của thuốc.</li></ul>",
+      "isApproved": true,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Gofen 400mg Mega giảm đau, kháng viêm và hạ sốt",
+        "metaDescription": "Thuốc Gofen 400mg (5 vỉ x 10 viên) có thành phần chính ibuprofen, là một thuốc kháng viêm không steroid, dùng để điều trị hạ sốt, giảm đau do cảm cúm, đau đầu, đau răng,...",
+        "id": 2414,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_gofen_400_5_vi_x_10_vien_mega_we_care_00003460_565d3a853b.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên)",
+            "description": "Gofen 400&nbsp;của Công ty Mega Lifesciences Public Company Limited, có thành phần chính ibuprofen, là một thuốc kháng viêm không steroid. Đây là thuốc dùng để điều trị hạ sốt, giảm đau do cảm cúm, đau đầu, đau răng, đau nhức cơ, đau lưng, đau nhẹ do viêm khớp, đau do bong gân, đau bụng kinh."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 9280,
+        "title": "Thuốc Gofen 400mg có tác dụng gì?",
+        "content": "<p>Gofen 400mg có thành phần chính <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ibuprofen\">ibuprofen</a>, là một thuốc kháng viêm không steroid. Đây là thuốc dùng để điều trị hạ sốt, giảm đau do cảm cúm, đau đầu, đau răng, đau nhức cơ, đau lưng, đau nhẹ do viêm khớp, đau do bong gân, đau bụng kinh.</p>"
+      },
+      {
+        "id": 9281,
+        "title": "Cách dùng thuốc Gofen 400mg hỗ trợ giảm đau, hạ sốt?",
+        "content": "<p>Thuốc Gofen 400mg được bào chế dưới dạng viên nang mềm, được dùng bằng đường uống.&nbsp;</p><p>Người lớn và trẻ em trên 12 tuổi: Khuyến cáo dùng 1 viên mỗi 4 - 6 giờ giúp hỗ trợ giảm đau, hạ sốt.</p><p>Liều dùng cụ thể của thuốc tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh, cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>"
+      },
+      {
+        "id": 9282,
+        "title": "Khi dùng Gofen 400mg cùng các loại thuốc khác có ảnh hưởng gì không?",
+        "content": "<p>Khi đang sử dụng Gofen 400mg không phối hợp với:&nbsp;</p><ul><li>Các thuốc kháng viêm không steroid khác, bao gồm các salicylat liều cao: Có nguy cơ gây loét và xuất huyết đường tiêu hoá .&nbsp;</li><li>Magnesi hydroxyd làm tăng sự hấp thu ban đầu của<a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ibuprofen\"> ibuprofen</a>, nhưng nếu nhóm nhôm hydroxyd cùng có mặt thì lại không có tác dụng này.&nbsp;</li><li>Các thuốc chống đông đường uống, heparin tiêm và ticlopidin: Làm tăng nguy cơ xuất huyết do ức chế chức năng tiểu cầu và làm suy yếu niêm mạc dạ dày tá tràng.&nbsp;</li><li>Lithi: Tăng lithi máu.&nbsp;</li><li>Methotrexat: Tăng độc tính về huyết học của chất này, đặc biệt khi dùng methotrexat với liều trên 15mg/tuần.&nbsp;</li><li>Các sulfamid hạ đường huyết: Do tăng hiệu quả hạ đường huyết.</li></ul>"
+      },
+      {
+        "id": 9283,
+        "title": "Sau khi dùng thuốc Gofen 400mg có nên lái xe không?",
+        "content": "<p>Không lái xe hoặc vận hành máy móc nếu bạn thấy bị <a href=\"https://nhathuoclongchau.com.vn/benh/hoa-mat-chong-mat-14.html\">chóng mặt</a>, hoa mắt, ngủ lơ mơ hoặc rối loạn tầm nhìn sau khi dùng thuốc.</p>"
+      },
+      {
+        "id": 9284,
+        "title": "Phụ nữ có thai và cho con bú có sử dụng Gofen 400mg được không?",
+        "content": "<p>Thuốc Gofen 400mg không nên dùng cho phụ nữ có thai (nhất là trong 3 tháng đầu và 3 tháng cuối của thai kỳ), đang chuyển dạ hay phụ nữ đang cho con bú. Nên đến cơ sở y tế để được thăm khám và được bác sĩ chỉ định điều trị phù hợp.<o:p></o:p></p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00050166",
+        "name": "HAPACOL EVA GIẢM ĐAU BỤNG KINH DHG PHARMA 10X5",
+        "webName": "Thuốc Hapacol Eva giảm đau bụng kinh Dhg Pharma (10 vỉ x 5 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_hapacol_eva_giam_dau_bung_kinh_dhg_pharma_10x5_00050166_43c17a09ed.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 79196,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 42000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/hapacol-eva-giam-dau-bung-kinh-dhg-pharma-10-x5.html",
+        "ingredients": "Paracetamol 325mg, Ibuprofen 200mg",
+        "dosageForm": "Viên nén",
+        "brand": "Dhg",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 5 Viên",
+        "prices": [
+          {
+            "id": 79196,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 42000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 79197,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 4200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 79198,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 840,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00011052",
+        "name": "FASTUM GEL MENARINI 30G",
+        "webName": "Gel Fastum Menarini giảm đau và kháng viêm cơ xương khớp (30g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4326_efa7ccd69b.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 15269,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 56000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/fastum-gel-30g-1153.html",
+        "ingredients": "Ketoprofen 2.5%",
+        "dosageForm": "Gel",
+        "brand": "Menarini",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp X 30g",
+        "prices": [
+          {
+            "id": 15269,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 56000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 259,
+          "attributeName": "Ý",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Y_7fc103d37f.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00008077",
+        "name": "VOLTAREN EMULGEL HALEON 20G",
+        "webName": "Gel bôi Voltaren Emulgel Novartis điều trị giảm đau do chấn thương hoặc thấp khớp (20g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02012_b5c0680262.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11872,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 69000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/voltaren-emulgel-20g-1737.html",
+        "ingredients": "Diclofenac diethylamine 1.16g",
+        "dosageForm": "Gel",
+        "brand": "HALEON",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp x 20g",
+        "prices": [
+          {
+            "id": 11872,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 69000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 87,
+          "attributeName": "Thụy Sĩ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/ch_Switzerland_8023147879.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00021344",
+        "name": "DOBUTANE SPRAY UNISON 60ML",
+        "webName": "Xịt Dobutane Spray Unison giảm đau, chống viêm trong bệnh lý cơ xương và khớp (60ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/dobutane_spray_unison_60ml_00021344_1_e2ffe7d92c.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 26665,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 184000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/dobutane-spray-unison-60ml-21700.html",
+        "ingredients": "Diclofenac 1%",
+        "dosageForm": "Dung dịch xịt",
+        "brand": "Unison",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 60ml",
+        "prices": [
+          {
+            "id": 26665,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 184000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 262,
+          "attributeName": "Thái Lan",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/th_Thailand_cdaa8c1601.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00050692",
+        "name": "NAPROFAZT 250MG MEGA 5X10",
+        "webName": "Thuốc Naprofazt 250mg Chống viêm không steroid (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/NAPROFAZT_250_MG_MEGA_5_X10_00050692_6_0802576e45.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 80100,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 5000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/naprofazt-250-mg-mega-5-x10.html",
+        "ingredients": "Naproxen 250mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "MEGA We care",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 80098,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 250000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 80099,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 50000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 80100,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 262,
+          "attributeName": "Thái Lan",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/th_Thailand_cdaa8c1601.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00038668",
+        "name": "AMIFULL 300MG MEDIPLANTEX 6X10",
+        "webName": "Thuốc Amifull 300mg Mediplantex giúp giảm đau lưng, đau khớp, đau cơ (6 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00038668_b916336cc4.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 57341,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 678000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/amifull-300-mg-mediplantex-6-x10.html",
+        "ingredients": "Cao khô Devil's Claw 300mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Mediplantex",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 57341,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 678000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 57342,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 113000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 57343,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 11300,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00502868",
+        "name": "BROMETIC 2MG/10ML CPC1 4 VỈ X 5 ỐNG",
+        "webName": "Thuốc Brometic 2mg/10ml làm loãng đờm trong các bệnh phế quản phổi cấp và mạn tính (4 vỉ x 5 ống)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502868_5b2d455b4b.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 53201,
+          "measureUnitCode": 15,
+          "measureUnitName": "Ống",
+          "isSellDefault": true,
+          "price": 5000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-brometic-2mg10ml-cpc1-hop-4-vi-x-5-ong-37169.html",
+        "ingredients": "Bromhexin hydroclorid 2mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "CPC1HN",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 4 Vỉ x 5 Ống",
+        "prices": [
+          {
+            "id": 53203,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 100000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 53201,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": true,
+            "price": 5000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 53202,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 25000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00003886",
+        "name": "IBUMED 400MG ABBOTT 10X10",
+        "webName": "Thuốc Ibumed 400 Glomed giảm đau do cảm cúm, cảm lạnh, viêm khớp dạng thấp (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_ibumed_400_10_vi_x_10_vien_glomed_00003886_7882e54e7e.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 5376,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 800,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/ibumed-400mg-3430.html",
+        "ingredients": "Ibuprofen 400mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Abbott",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 5376,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 800,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 5378,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 80000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 5377,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 8000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 248,
+          "attributeName": "Hoa Kỳ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/us_United_States_of_America_usa_59e1ad3af3.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00002522",
+        "name": "DOLFENAL UNITED 25X4",
+        "webName": "Thuốc Dolfenal United giảm đau bụng kinh, đau răng, đau do chấn thương (25 vỉ x 4 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/dolfenal_25x4_united_00002522_5bf9e7d125.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 3258,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 1500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/dolfenal-3968.html",
+        "ingredients": "Mefenamic acid 500mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "United",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 25 Vỉ x 4 Viên",
+        "prices": [
+          {
+            "id": 3260,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 150000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 3258,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 1500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 3259,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001412",
+        "name": "BOSTANEX 5MG BOSTON 3X10",
+        "webName": "Thuốc Bostanex Boston giảm viêm mũi dị ứng, hắt hơi, sổ mũi, ngứa mũi (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/bostanex_94c08abeb7.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1531,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 63000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bostanex-5mg-boston-pharma-4461.html",
+        "ingredients": "Desloratadine 5mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Boston",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 1529,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2100,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1531,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 63000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 1530,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 21000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00013630",
+        "name": "ROSIDEN GEL DAEWON 20G",
+        "webName": "Gel Rosiden Deawoo giảm đau và kháng viêm (20g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013630_rosiden_gel_20g_9813_6103_large_cccb2cea4e.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 16205,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 14000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/rosiden-gel-20g-15924.html",
+        "ingredients": "Piroxicam 100mg",
+        "dosageForm": "Gel",
+        "brand": "Daewon",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Tuýp x 20g",
+        "prices": [
+          {
+            "id": 16205,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 14000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 257,
+          "attributeName": "Hàn Quốc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Han_Quoc_760f524a89.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 39,
+      "items": [
+        {
+          "id": 3336029,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0877xxxxxx",
+          "name": "Quyên",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "đau bụng kinh thì uống bn viên 1 ngày ạ",
+          "createdAt": "2026-07-09 12:35:02",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-09 12:35:02",
+          "replies": [
+            {
+              "id": 3336060,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Minh Tiến",
+                "moderatorEmail": "tiennm50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Minh Tiến",
+              "email": "tiennm50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Quyên,</p><p>Thuốc Gofen 400 MEGA có liều dùng 1 viên mỗi 4 - 6 giờ. Hoặc &nbsp;tùy thuộc vào thể trạng và mức độ diễn tiến đau a.</p>",
+              "createdAt": "2026-07-09 13:45:33",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-09 12:35:02",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3335820,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0978xxxxxx",
+          "name": "Anh Toàn",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc có hại dạ dầy ko ",
+          "createdAt": "2026-07-09 06:11:32",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-09 06:11:32",
+          "replies": [
+            {
+              "id": 3335871,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Hồ Thanh Nhã",
+                "moderatorEmail": "nhahht@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Hồ Thanh Nhã",
+              "email": "nhahht@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Toàn  ạ,</p><p>Dạ sản phẩm Gofen 400 Clearcap chứa Ibuprofen có tác dụng giảm đau hiệu quả nhưng có thể gây kích ứng niêm mạc dạ dày, vì vậy Chị nên uống thuốc ngay sau khi ăn no để đảm bảo an toàn cho hệ tiêu hóa ạ.</p><p>Chúc Anh và gia đình luôn dồi dào sức khỏe ạ.</p>",
+              "createdAt": "2026-07-09 08:55:31",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-09 06:11:32",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3325835,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0901xxxxxx",
+          "name": "Phúc Phạm",
+          "email": "phucph.pp@gmail.com",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tôi bị sổ mũi và ho nhẹ thì có uống thuốc này được không",
+          "createdAt": "2026-06-21 11:41:19",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-21 11:41:19",
+          "replies": [
+            {
+              "id": 3325851,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Quý",
+                "moderatorEmail": "quyntn@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Ngọc Quý",
+              "email": "quyntn@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh <strong>Phúc Phạm,</strong></p><p>Dạ với tình trạng sổ mũi và ho nhẹ, anh không nên dùng thuốc Gofen 400. Thuốc chỉ có tác dụng <strong>giảm đau</strong> (đau đầu, đau răng, đau cơ...) và <strong>hạ sốt</strong> (khi sốt cao). Không có tác dụng trị ho, sổ mũi ạ.</p><p>Nhà thuốc thông tin tới Anh.</p>",
+              "createdAt": "2026-06-21 12:26:42",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-21 11:41:19",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3324008,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0963xxxxxx",
+          "name": "chị trang",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc có trị đau bụng kinh hok",
+          "createdAt": "2026-06-17 10:17:19",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-17 10:17:19",
+          "replies": [
+            {
+              "id": 3324030,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Minh Tiến",
+                "moderatorEmail": "tiennm50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Minh Tiến",
+              "email": "tiennm50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Trang, </p><p>Thuốc Gofen 400 MEGA&nbsp;chứa hoạt chất Ibuprofen 400mg giúp giảm các cơn co thắt tử cung và điều trị đau bụng kinh rất hiệu quả ạ.</p>",
+              "createdAt": "2026-06-17 11:20:04",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-17 10:17:19",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3277819,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0877xxxxxx",
+          "name": "Nhi",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Nhà Thuốc ơi cho mìh hỏi, loại này có thể dùg kết hợp với paracetamol 325mg để giảm đau vai,lưg đc ko ?? Mog đc phản hồi ,Thanks...",
+          "createdAt": "2026-03-21 16:57:05",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-21 16:57:05",
+          "replies": [
+            {
+              "id": 3277823,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Ngọc Trâm",
+                "moderatorEmail": "tramnn18@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Ngọc Trâm",
+              "email": "tramnn18@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Nhi,</p><p>Dạ Gofen 400 MEGA là thuốc dùng để điều trị giảm đau hạ sốt, chị nên dùng theo liều lượng chỉ định, không tự ý kết hợp thêm sản phẩm, thuốc khác khi không có chỉ định bác sĩ ạ</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-03-21 17:04:04",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-21 16:57:05",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 4,
+      "items": [
+        {
+          "id": 3340655,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0968xxxxxx",
+          "name": "e linh",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-07-16 19:15:45",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-16 19:15:45",
+          "replies": [
+            {
+              "id": 3340658,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Đỗ Thị Thu Trà",
+                "moderatorEmail": "tradtt6@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Đỗ Thị Thu Trà",
+              "email": "tradtt6@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Linh, </p><p>Hiện tại, sản phẩm Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên) có giá 194.000đ/&nbsp;Hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a> <a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-07-16 19:31:40",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-16 19:15:45",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 2394435,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0813xxxxxx",
+          "name": "NGUYỄN THÁI BÌNH",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "good",
+          "createdAt": "2024-10-11 13:06:18",
+          "createdAtDisplay": "11/10/2024",
+          "updatedAt": "2024-10-11 13:06:55",
+          "replies": [
+            {
+              "id": 2394437,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Minh Hằng",
+                "moderatorEmail": "hangnm31@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Minh Hằng",
+              "email": "hangnm31@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Thái Bình,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ cảm ơn bạn tin tưởng và ủng hộ nhà thuốc FPT Long châu. Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.  </span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p>",
+              "createdAt": "2024-10-11 13:06:55",
+              "createdAtDisplay": "11/10/2024",
+              "updatedAt": "2024-10-11 13:06:55",
+              "replies": []
+            },
+            {
+              "id": 2642807,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0897xxxxxx",
+              "name": "Wuang",
+              "email": "",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "hiện bán nhiêu ạ",
+              "createdAt": "2024-11-06 11:34:55",
+              "createdAtDisplay": "06/11/2024",
+              "updatedAt": "2024-10-11 13:06:55",
+              "replies": []
+            },
+            {
+              "id": 2642838,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Phương Lan",
+                "moderatorEmail": "LanNP9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Phương Lan",
+              "email": "LanNP9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Wuang,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sản phẩm có giá 194,000 ₫/Hộp.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sẽ có tư vấn viên của Nhà thuốc Long Châu liên hệ theo SĐT bạn để lại ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p>",
+              "createdAt": "2024-11-06 11:37:42",
+              "createdAtDisplay": "06/11/2024",
+              "updatedAt": "2024-10-11 13:06:55",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 1239308,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0917xxxxxx",
+          "name": "Nguyễn Thị Thùy Linh ",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2024-05-22 08:06:00",
+          "createdAtDisplay": "22/05/2024",
+          "updatedAt": "2024-05-22 08:06:49",
+          "replies": [
+            {
+              "id": 1239314,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Phương Lan",
+                "moderatorEmail": "LanNP9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Phương Lan",
+              "email": "LanNP9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Nguyễn Thị Thùy Linh, </span><br><span>Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu. Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.  </span><br><span>Thân mến!</span><br></p>",
+              "createdAt": "2024-05-22 08:06:49",
+              "createdAtDisplay": "22/05/2024",
+              "updatedAt": "2024-05-22 08:06:49",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 873747,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0868xxxxxx",
+          "name": "c Hương",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2024-03-09 20:54:54",
+          "createdAtDisplay": "09/03/2024",
+          "updatedAt": "2024-03-09 20:56:05",
+          "replies": [
+            {
+              "id": 873755,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Cao Thị Ngọc Nhi",
+                "moderatorEmail": "Nhictn2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Cao Thị Ngọc Nhi",
+              "email": "Nhictn2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào chị Hương,</span><br><span>Dạ rất cảm ơn tình cảm của chị dành cho nhà thuốc FPT Long châu. Bất cứ khi nào chị cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.  </span><br><span>Thân mến!</span></p>",
+              "createdAt": "2024-03-09 20:56:05",
+              "createdAtDisplay": "09/03/2024",
+              "updatedAt": "2024-03-09 20:56:05",
+              "replies": []
+            },
+            {
+              "id": 1971027,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0999xxxxxx",
+              "name": "Linh",
+              "email": "",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "1 vỉ bán nhiu",
+              "createdAt": "2024-08-20 15:58:37",
+              "createdAtDisplay": "20/08/2024",
+              "updatedAt": "2024-03-09 20:56:05",
+              "replies": []
+            },
+            {
+              "id": 1971064,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thuỳ Linh",
+                "moderatorEmail": "LinhNTT77@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Thị Thuỳ Linh",
+              "email": "LinhNTT77@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Linh,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Dạ sản phẩm có giá 38,800đ/ vỉ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Thân mến!</span></p>",
+              "createdAt": "2024-08-20 16:01:02",
+              "createdAtDisplay": "20/08/2024",
+              "updatedAt": "2024-03-09 20:56:05",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 4
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_gofen_400_5_vi_x_10_vien_mega_we_care_00003460_565d3a853b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_3920_63db_large_a4178128a3.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_5448_63db_large_7e13d9a613.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_8891_63db_large_ca06453203.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_3414_63db_large_fc8ad51df3.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_1922_63db_large_56435eabe3.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_1434_63db_large_ff5127951f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_2393_63db_large_b7fd167a7e.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_7439_63db_large_c4375f215b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003460_gofen_400ml_7911_63db_large_3a11457e53.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Gofen 400 của Công ty Mega Lifesciences Public Company Limited, có thành phần chính ibuprofen, là một thuốc kháng viêm không steroid. Đây là thuốc dùng để điều trị hạ sốt, giảm đau do cảm cúm, đau đầu, đau răng, đau nhức cơ, đau lưng, đau nhẹ do viêm khớp, đau do bong gân, đau bụng kinh.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "4"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/gofen-400ml-3566.html",
+        "priceCurrency": "VND",
+        "price": 3880,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Thuốc Gofen 400mg Mega giảm đau, kháng viêm và hạ sốt",
+      "description": "Thuốc Gofen 400mg (5 vỉ x 10 viên) có thành phần chính ibuprofen, là một thuốc kháng viêm không steroid, dùng để điều trị hạ sốt, giảm đau do cảm cúm, đau đầu, đau răng,...",
+      "openGraph": {
+        "title": "Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên)",
+        "description": "Gofen 400&nbsp;của Công ty Mega Lifesciences Public Company Limited, có thành phần chính ibuprofen, là một thuốc kháng viêm không steroid. Đây là thuốc dùng để điều trị hạ sốt, giảm đau do cảm cúm, đau đầu, đau răng, đau nhức cơ, đau lưng, đau nhẹ do viêm khớp, đau do bong gân, đau bụng kinh.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_gofen_400_5_vi_x_10_vien_mega_we_care_00003460_565d3a853b.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/gofen-400ml-3566.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/gofen-400ml-3566.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

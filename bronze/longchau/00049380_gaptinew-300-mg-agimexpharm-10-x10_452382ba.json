@@ -1,0 +1,955 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/gaptinew-300-mg-agimexpharm-10-x10.html",
+  "ingestion_timestamp": "2026-09-05T09:49:41.942473+00:00",
+  "file_hash": "a3231ec86222cc567a8b730f8f6c05db02423f289f03e6f1f2abc0df8a892f62",
+  "lineage_hash": "1ddea67f33a9b6018cbd3fca609014d1e1142ed5c64b96fba13a043150790fd2",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/gaptinew-300-mg-agimexpharm-10-x10.html",
+    "product": {
+      "sku": "00049380",
+      "webName": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên)",
+      "name": "GAPTINEW 300MG AGIMEXPHARM 10X10",
+      "shortName": "GAPTINEW 300MG AGIMEXPHARM 10X10",
+      "headingText": "Thuốc Gaptinew 300mg",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_gaptinew_300mg_10x10_agimexpharm_00049380_85c7f0d36d.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00021_4846339c78.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00022_abf68f6655.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00023_817446d534.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00024_09af2b9e87.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00025_27c6bb168d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00026_0597b14a0e.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00028_7b749c8b77.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00029_6e99357f3b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/gaptinew_1_31d4dc5b29.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/gaptinew_2_44e770ab98.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/gaptinew_3_99ac08f22a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/gaptinew_4_6daeb5973e.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 733,
+          "name": "Thuốc hệ thần kinh",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-than-kinh",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 798,
+          "name": "Thuốc thần kinh",
+          "parentName": "Thuốc hệ thần kinh",
+          "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Hộp 10 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 2,
+          "productSpecs": "10 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/gaptinew-300-mg-agimexpharm-10-x10.html",
+      "ingredient": [
+        {
+          "id": 59744,
+          "ingredientId": 20846,
+          "shortDescription": "300mg",
+          "name": "Gabapentin",
+          "isPrimary": true,
+          "slug": "thanh-phan/gabapentin"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "",
+      "registNum": "893110258223",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang cứng",
+      "dosage": "<h3 dir=\"ltr\">Cách dùng</h3><p dir=\"ltr\">Gabapentin được dùng qua đường uống với lượng đủ nước, thời điểm uống thuốc không phụ thuộc vào bữa ăn.</p><h3 dir=\"ltr\">Liều dùng</h3><p>Trong tất cả các chỉ định, điều chỉnh tăng liều khi bắt đầu điều trị đối với người lớn và thanh thiếu niên từ 12 tuổi trở lên như sau:</p><figure class=\"table\" style=\"width:78.84%;\"><table class=\"ck-table-resized\"><colgroup><col style=\"width:29.48%;\"><col style=\"width:35.7%;\"><col style=\"width:34.82%;\"></colgroup><thead><tr><th colspan=\"3\"><p style=\"text-align:center;\">Sơ đồ phân liều - Điều chỉnh tăng liều ban đầu</p></th></tr></thead><tbody><tr><td><p style=\"text-align:center;\">Ngày 1</p></td><td><p style=\"text-align:center;\">Ngày 2</p></td><td><p style=\"text-align:center;\">Ngày 3</p></td></tr><tr><td><p style=\"text-align:center;\">300 mg x 1 lần/ngày</p></td><td><p style=\"text-align:center;\">300 mg x 2 lần/ngày</p></td><td><p style=\"text-align:center;\">300 mg x 3 lần/ngày</p></td></tr></tbody></table><figcaption>Bảng 1</figcaption></figure><p><i>Ngưng sử dụng gabapentin:</i></p><p>Nếu cần ngưng sử dụng gabapentin, nên ngừng thuốc từ từ trong thời gian tối thiểu 1 tuần không phụ thuộc vào chỉ định.</p><p><strong>Điều trị động kinh:</strong></p><p>Bệnh động kinh thường đòi hỏi phải điều trị lâu dài. Liều dùng được xác định bởi bác sỹ điều trị dựa trên sự đáp ứng của thuốc và hiệu quả điều trị của từng cá nhân.</p><p><i>Người lớn và thanh thiếu niên:</i></p><p>Các thử nghiệm lâm sàng cho thấy liều điều trị hiệu quả trong khoảng từ 900 - 3600 mg/ngày. Điều trị có thể bắt đầu bằng cách điều chỉnh tăng liều dần như trình bày ở bảng 1.</p><p>Hoặc ngày đầu cho uống 300 mg x 3 lần/ngày.</p><p>Sau đó, dựa vào đáp ứng và dung nạp của từng bệnh nhân, liều có thể tăng thêm từng bước 300 mg/ngày, cách 2 - 3 ngày tăng 1 lần, cho đến khi đạt liều tối đa 3600 mg/ngày. Điều chỉnh tăng liều chậm hơn có thể phù hợp đối với từng bệnh nhân. Thời gian tối thiểu để đạt liều 1800 mg/ngày là 1 tuần, đạt tới liều 2400 mg/ngày trong 2 tuần và liều 3600 mg/ngày trong 3 tuần.</p><p>Trong nghiên cứu lâm sàng dài hạn, liều lên đến 4800 mg/ngày được dung nạp tốt. Nên chia đều tổng liều hàng ngày cho 3 lần dùng thuốc và khoảng cách tối đa dùng thuốc không nên quá 12 giờ để tránh các cơn co giật bùng phát.</p><p><strong>Điều trị bệnh đau thần kinh ngoại biên:</strong></p><p><i>Người lớn:</i></p><p>Điều trị có thể bắt đầu bằng cách điều chỉnh tăng liều như mô tả trong bảng 1 hoặc liều bắt đầu 900 mg/ngày chia thành 3 liều đơn bằng nhau.</p><p>Sau đó, dựa vào đáp ứng và dung nạp của từng bệnh nhân, liều có thể tăng thêm từng bước 300 mg/ngày, cách 2 - 3 ngày tăng 1 lần, cho đến khi đạt liều tối đa 3600 mg/ngày. Điều chỉnh tăng liều chậm hơn có thể phù hợp đối với từng bệnh nhân. Thời gian tối thiểu để đạt liều 1800 mg/ngày là 1 tuần, đạt tới liều 2400 mg/ngày trong 2 tuần và liều 3600 mg/ngày trong 3 tuần.</p><p>Khi điều trị đau thần kinh ngoại biên chẳng hạn đau dây thần kinh trong bệnh đái tháo đường và đau dây thần kinh sau zona, hiệu quả và an toàn chưa được khảo sát đối với các đợt điều trị kéo dài hơn 5 tháng. Nếu bệnh nhân cần dùng liều dài hơn 5 tháng để điều trị đau thần kinh ngoại vi, bác sỹ điều trị phải đánh giá tình trạng lâm sàng của bệnh nhân và xác định sự cần thiết điều trị bổ sung.</p><p><strong>Hướng dẫn đối với tất cả các chỉ định:</strong></p><p>Nếu bệnh nhân có tổng trạng sức khỏe kém như nhẹ cân, sau khi ghép tạng.., liều dùng phải được điều chỉnh chậm hơn, hoặc dùng dạng thuốc có hàm lượng thấp hơn hoặc tăng khoảng cách giữa các liều.</p><p><i>Bệnh nhân cao tuổi (trên 65 tuổi):</i></p><p>Cần điều chỉnh liều đối với bệnh nhân cao tuổi do suy giảm chức năng thận theo tuổi. Chứng buồn ngủ, phù ngoại biên và suy nhược cơ thể có thể xảy ra thường hơn với bệnh nhân cao tuổi.</p><p><i>Bệnh nhân suy thận:</i></p><p>Cần phải điều chỉnh liều dùng cho bệnh nhân suy thận (theo bảng 2) và/hoặc đang thẩm phân máu. Có thể khuyến cáo dùng viên nang gabapentin 100 mg cho bệnh nhân suy thận.</p><figure class=\"table\" style=\"width:73.35%;\"><table class=\"ck-table-resized\"><colgroup><col style=\"width:47.52%;\"><col style=\"width:52.48%;\"></colgroup><thead><tr><th colspan=\"2\"><p style=\"text-align:center;\">Liều dùng gabapentin ở người trưởng thành dựa trên chức năng thận</p></th></tr></thead><tbody><tr><td><p style=\"text-align:center;\">Độ thanh thải creatinin (ml/phút)</p></td><td><p style=\"text-align:center;\">Tổng liều hàng ngày<sup>a</sup> (mg/ngày)</p></td></tr><tr><td><p style=\"text-align:center;\">≥ 80</p></td><td><p style=\"text-align:center;\">900 - 3600</p></td></tr><tr><td><p style=\"text-align:center;\">50 - 79</p></td><td><p style=\"text-align:center;\">600 - 1800</p></td></tr><tr><td><p style=\"text-align:center;\">30 - 49</p></td><td><p style=\"text-align:center;\">300 - 900</p></td></tr><tr><td><p style=\"text-align:center;\">15 - 29</p></td><td><p style=\"text-align:center;\">150<sup>b</sup> - 600</p></td></tr><tr><td><p style=\"text-align:center;\">&lt; 15<sup>c</sup></p></td><td><p style=\"text-align:center;\">150<sup>b</sup> - 300</p></td></tr></tbody></table></figure><p>a: Tổng liều hàng ngày được chia thành 3 lần. Giảm liều ở bệnh nhân suy thận (Độ thanh thải creatinin &lt; 79ml/phút).</p><p>b: Được chỉ định 300 mg uống cách ngày.</p><p>c: Đối với bệnh nhân có độ thanh thải creatinin &lt; 15 ml/phút, liều hàng ngày được giảm tỷ lệ với độ thanh thải creatinin (ví dụ: Bệnh nhân có độ thanh thải creatinin &lt;7,5 ml/phút thì liều dùng hàng ngày giảm phân nửa so với bệnh nhân có độ thanh thải creatinin &lt; 15 ml/phút).</p><p><i>Bệnh nhân đang thẩm phân máu:</i></p><ul><li>Đối với bệnh nhân vô niệu đang thẩm phân máu chưa sử dụng gabapentin nên dùng liều nạp là 300 - 400 mg, sau đó 200 - 300 mg sau mỗi 4 giờ thẩm phân máu.Vào những ngày không thẩm phân máu thì không dùng gabapentin.</li><li>Đối với bệnh nhân suy thận đang thẩm phân máu, liều duy trì nên dựa vào khuyến cáo phân liều theo bảng 2.</li></ul><p>Ngoài liều duy trì, khuyến cáo bổ sung liều 200 - 300 mg sau mỗi 4 giờ thẩm phân máu.</p><p><strong>Một số lưu ý đặc biệt về xử lý thuốc trước và sau khi sử dụng thuốc:</strong></p><p>Không có yêu cầu đặc biệt về xử lý thuốc sau khi sử dụng.</p><p dir=\"ltr\">Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3 dir=\"ltr\">Làm gì khi dùng quá liều?</h3><p><strong>Quá liều:</strong></p><p>Khi dùng quá liều gabapentin đến 49 g cũng không thấy độc tính cấp đe dọa tính mạng.</p><p>Triệu chứng quá liều bao gồm choáng váng, nhìn đôi, nói líu ríu, ngủ gà, mất ý thức, ngủ lịm và tiêu chảy nhẹ.</p><p>Quá liều gabapentin, đặc biệt khi phối hợp với các thuốc ức chế hệ thần kinh trung ương khác có thể dẫn đến hôn mê.</p><p><strong>Xử trí:</strong></p><p>Hầu hết các trường hợp quá liều đều hồi phục sau khi sử dụng các biện pháp điều trị hỗ trợ. Giảm hấp thu liều cao gabapentin có thể hạn chế sự hấp thu thuốc ở thời điểm dùng thuốc quá liều, do đó giảm độc tính do quá liều.</p><p>Mặc dù gabapentin có thể được loại bỏ bằng cách thẩm phân máu, dựa trên kinh nghiệm trước đó điều này thường không được yêu cầu. Tuy nhiên ở những bệnh nhân suy thận nặng thẩm phân máu có thể được chỉ định.</p><p dir=\"ltr\">Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3 dir=\"ltr\">Làm gì khi quên 1 liều?</h3><p dir=\"ltr\">Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Gaptinew được chỉ định dùng trong các trường hợp sau:</p><p>Điều trị động kinh ở người lớn và thanh thiếu niên từ 12 tuổi trở lên:</p><ul><li>Gabapentin được chỉ định như liệu pháp hỗ trợ trong điều trị động kinh cục bộ có hoặc không có cơn co giật toàn thể tái phát.</li><li>Gabapentin được chỉ định đơn trị liệu trong điều trị động kinh cục bộ, có hoặc không có cơn co giật toàn thể tái phát.</li></ul><p>Điều trị bệnh đau thần kinh ngoại biên: Gabapentin được chỉ định trong điều trị đau thần kinh ngoại biên như đau dây thần kinh trong bệnh đái tháo đường và đau dây thần kinh sau zona ở người lớn.</p><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Nhóm dược lý: Thuốc chống động kinh, điều trị đau thần kinh.</strong></p><p><strong>Mã ATC: N03AX12.</strong></p><p>Gabapentin là thuốc chống động kinh và giảm đau do thần kinh, cơ chế hiện chưa rõ. Trên động vật thực nghiệm, thuốc có tác dụng chống cơn duỗi các chi sau khi làm sốc điện và cũng ức chế được cơn co giật do pentylentetrazol. Hiệu quả ở thí nghiệm cũng tương tự như đối với acid valproic nhưng khác với phenytoin và carbamazepin. Cấu trúc hóa học của gabapentin tương tự chất ức chế dẫn truyền thần kinh là acid gama-aminobutyric (GABA), nhưng gabapentin không tác động trực tiếp lên các thụ thể GABA, không làm thay đổi cấu trúc, giải phóng, chuyển hóa và hấp thu GABA. Các vị trí gắn gabapentin có ái lực cao khu trú ở khắp não, các vị trí này tương ứng với sự hiện diện của các kênh calci phụ thuộc điện thế đặc trưng có đơn vị phụ alpha-2-delta-1. Kênh này nằm ở tiền synap và có thể điều hòa giải phóng các chất dẫn truyền thần kinh kích thích thúc đẩy gây co giật và đau.</p><h3 dir=\"ltr\">Dược động học</h3><p><strong>Hấp thu: </strong>Gabapentin hấp thu qua đường tiêu hóa theo cơ chế bão hòa (khi liều tăng, sinh khả dụng lại giảm).</p><p>Thuốc đạt nồng độ đỉnh trong huyết tương sau khi uống 2 - 3 giờ và đạt nồng độ ổn định sau 1 - 2 ngày. Nồng độ huyết thanh có hiệu quả của thuốc chưa được xác định. Tuy vậy, trong một nghiên cứu, số lần co giật chỉ thấy giảm ở những người có nồng độ huyết thanh gabapentin trên 2 mg/lít (11,7 micromol/lít). Nồng độ trong huyết tương của gabapentin nói chung nằm trong phạm vi từ 2 mg/lít (2 microgam/ml) tới 20 mg/lít (20 microgam/ml).</p><p>Sinh khả dụng khoảng 60% khi dùng với liều 900 mg/24 giờ và không tương ứng với liều dùng, thậm chí khi liều tăng thì sinh khả dụng lại giảm (sinh khả dụng khoảng 27% khi dùng với liều 4,8 g/24 giờ). Thức ăn ít ảnh hưởng đến tốc độ và mức độ hấp thu.</p><p><strong>Phân bố:</strong> Gabapentin phân bố khắp cơ thể, vào được sữa mẹ, liên kết với protein huyết tương rất thấp (&lt; 3%). Thể tích phân bố của thuốc là 58 ± 6 lít ở người lớn.</p><p><strong>Chuyển hóa, thải trừ: </strong>Gabapentin hầu như không chuyển hóa trong cơ thể và thải trừ chủ yếu qua thận dưới dạng không đổi. Nửa đời của gabapentin khoảng 5 đến 7 giờ ở người có chức năng thận bình thường. Nếu vô niệu: 132 giờ, trong khi thẩm phân: 3,8 giờ.</p><p>Gabapentin không làm thay đổi dược động học của các thuốc chống động kinh thường dùng (như carbamazepin, phenytoin, valproat, phenobarbital, diltiazem) hoặc thuốc tránh thai uống. Ngoài ra dược động học của gabapentin cũng không bị thay đổi nhiều khi dùng phối hợp với các thuốc chống co giật khác.</p><p>Ở người bệnh cao tuổi và người suy thận, độ thanh thải gabapentin huyết tương bị giảm. Gabapentin có thể bị loại khỏi huyết tương bằng thẩm phân máu, vì vậy cần điều chỉnh liều đối với những người bệnh này.</p><p>Trẻ em dưới 5 tuổi có độ thanh thải gabapentin cao hơn khi chuẩn hóa theo cân nặng so với trẻ em ≥ 5 tuổi. Độ thanh thải của thuốc ở trẻ em ≥ 5 tuổi phù hợp với độ thanh thải của người lớn sau khi dùng một liều duy nhất.</p><p>Do đó, ở trẻ em 3 - 5 tuổi, phải dùng liều hằng ngày cao hơn mới đạt được nồng độ thuốc trung bình trong huyết tương tương tự như trẻ em 25 tuổi. Trẻ dưới 1 tuổi có độ thanh thải thuốc thay đổi nhiều.</p>",
+      "brand": "Agimexpharm",
+      "brandType": null,
+      "adverseEffect": "<p>Các phản ứng có hại được phân nhóm theo tần suất: Rất thường gặp (ADR ≥ 1/10), thường gặp (1/100 ≤ ADR &lt; 1/10), ít gặp (1/1.000 ≤ ADR &lt; 1/100), hiếm gặp (1/10.000 ≤ ADR &lt; 1/1.000), rất hiếm gặp (ADR &lt; 1/10.000); không thể ước lượng tần suất được liệt kê \"Chưa rõ tần suất\".</p><p><i>Nhiễm trùng và ký sinh trùng:</i></p><ul><li>Rất thường gặp: Nhiễm virus.</li><li>Thường gặp: Viêm phổi, nhiễm trùng đường hô hấp, nhiễm trùng đường tiểu, nhiễm trùng, viêm tai giữa.</li></ul><p><i>Rối loạn máu và hệ bạch huyết:</i></p><ul><li>Thường gặp: Giảm bạch cầu.</li><li>Chưa biết: Giảm tiểu cầu.</li></ul><p><i>Rối loạn hệ thống miễn dịch:</i></p><ul><li>Ít gặp: Phản ứng dị ứng (ví dụ: Nổi mề đay).</li><li>Chưa biết: Quá mẫn, hội chứng quá mẫn, phản ứng toàn thân với triệu chứng thay đổi có thể bao gồm sốt, phát ban, viêm gan, bệnh hạch bạch huyết, tăng bạch cầu ái toan và đôi khi có các dấu hiệu và triệu chứng khác.</li></ul><p><i>Rối loạn dinh dưỡng và chuyển hóa:</i></p><ul><li>Thường gặp: Chán ăn, tăng thèm ăn.</li><li>Ít gặp: Tăng đường huyết (thường gặp nhất ở bệnh nhân tiểu đường).</li><li>Hiếm gặp: Hạ đường huyết (thường gặp nhất ở bệnh nhân tiểu đường).</li><li>Chưa biết: Giảm natri huyết.</li></ul><p><i>Rối loạn tâm thần:&nbsp;</i></p><ul><li>Thường gặp: Biểu hiện thù địch, lẫn lộn và dễ thay đổi cảm xúc, trầm cảm, lo lắng, căng thẳng, suy nghĩ bất thường.</li><li>Ít gặp: Kích động.</li><li>Chưa biết: Ảo giác.</li></ul><p><i>Rối loạn hệ thần kinh:</i></p><ul><li>Rất thường gặp: Buồn ngủ, chóng mặt, mất điều hòa.</li><li>Thường gặp: Co giật, tăng động, chứng loạn vận ngôn, mất trí nhớ, run, mất ngủ, nhức đầu, các cảm giác như dị cảm, giảm cảm giác, phối hợp bất thường, rung giật nhãn cầu, tăng, giảm hoặc mất phản xạ.</li><li>Ít gặp: Giảm chức năng vận động, sa sút tinh thần.</li><li>Hiếm gặp: Mất ý thức.</li><li>Chưa biết: Các rối loạn vận động khác (ví dụ: Múa vờn, loạn vận động, loạn trương lực cơ).</li></ul><p><i>Rối loạn mắt:&nbsp;</i></p><ul><li>Thường gặp: Rối loạn thị giác như giảm thị lực, nhìn đôi.</li></ul><p><i>Rối loạn tai và tai trong:</i></p><ul><li>Thường gặp: Chóng mặt.</li><li>Chưa biết: Ù tai.</li></ul><p><i>Rối loạn tim:</i></p><ul><li>Ít gặp: Đánh trống ngực.</li></ul><p><i>Rối loạn mạch máu:</i></p><ul><li>Thường gặp: Tăng huyết áp, giãn mạch.</li></ul><p><i>Rối loạn hô hấp, ngực và trung thất:</i></p><ul><li>Thường gặp: Khó thở, viêm phế quản, viêm họng, ho, viêm mũi.</li></ul><p><i>Rối loạn tiêu hóa:</i></p><ul><li>Thường gặp: Nôn mửa, buồn nôn, bất thường về răng, viêm nướu, tiêu chảy, đau bụng, khó tiêu, táo bón, khô miệng hoặc họng, đầy hơi.</li><li>Chưa biết: Viêm tụy.</li></ul><p><i>Rối loạn gan mật:</i></p><ul><li>Chưa biết: Viêm gan, vàng da.</li></ul><p><i>Rối loạn da và mô dưới da:</i></p><ul><li>Thường gặp: Phù mặt, ban xuất huyết thường được mô tả như bầm tím do chấn thương thể chất, phát ban, ngứa, mụn trứng cá.</li><li>Chưa biết: Hội chứng Stevens-Johnson, phù mạch, ban đỏ đa dạng, rụng tóc, phát ban do thuốc với triệu chứng tăng bạch cầu ưa acid và các triệu chứng toàn thân.</li></ul><p><i>Rối loạn cơ xương và mô liên kết:</i></p><ul><li>Thường gặp: Đau khớp, đau cơ, đau lưng, co giật cơ.</li><li>Chưa biết: Tiêu cơ vân, giật rung cơ.</li></ul><p><i>Rối loạn thận và tiết niệu:</i></p><ul><li>Chưa biết: Suy thận cấp, tiểu không kiềm chế.</li></ul><p><i>Rối loạn hệ thống sinh sản và tuyến vú:</i></p><ul><li>Thường gặp: Liệt dương.</li><li>Chưa biết: Phì đại tuyến vú, vú to ở nam giới, rối loạn chức năng tình dục (bao gồm thay đổi ham muốn tình dục, rối loạn xuất tinh và mất khoái cảm).</li></ul><p><i>Rối loạn tổng quát và tình trạng tại nơi dùng thuốc:</i></p><ul><li>Rất thường gặp: Mệt mỏi, sốt.</li><li>Thường gặp: Phù ngoại vi, dáng đi bất thường, suy nhược, đau, khó ở, hội chứng cúm.</li><li>Ít gặp: Phù toàn thân.</li><li>Chưa biết: Triệu chứng cai thuốc (chủ yếu lo lắng, mất ngủ, buồn nôn, đau, đổ mồ hôi), đau ngực. Đã có báo cáo về các trường hợp tử vong đột ngột chưa giải thích được, nguyên nhân có liên quan với việc điều trị bằng gabapentin chưa được xác định.</li></ul><p><i>Xét nghiệm:</i></p><ul><li>Thường gặp: Giảm bạch cầu, tăng cân.</li><li>Ít gặp: Xét nghiệm chức năng gan tăng SGOT (AST), SGPT (ALT) và bilirubin.</li><li>Chưa biết: Tăng creatin phosphokinase máu.</li></ul><p><i>Thương tích và nhiễm độc:&nbsp;</i></p><ul><li>Phổ biến: Thương tích bất ngờ, gãy xương, trầy da.</li><li>Ít gặp: Ngã.</li></ul><p><i>Khác:&nbsp;</i></p><p>Các trường hợp viêm tụy cấp khi điều trị với gabapentin đã được báo cáo. Nguyên nhân do gabapentin chưa rõ. Ở bệnh nhân thẩm phân máu do suy thận giai đoạn cuối, chứng đau cơ với nồng độ creatin kinase tăng cao đã được báo cáo.&nbsp;</p><p>Nhiễm trùng đường hô hấp, viêm tai giữa, co giật và viêm phế quản chỉ được báo cáo trong các nghiên cứu lâm sàng ở trẻ em. Ngoài ra, trong các nghiên cứu lâm sàng ở trẻ em, thường có báo cáo về hành vi hung hăng và tăng động.</p><p><i><strong>Hướng dẫn cách xử trí ADR:</strong></i></p><p>Mất phối hợp vận động thường liên quan đến liều dùng. Nếu giảm liều mà không đỡ, phải ngừng thuốc.</p><p>Nếu nghi ngờ có hội chứng Stevens- Johnson, phải ngừng thuốc.</p><p>Không nên dừng thuốc đột ngột vì có thể làm tăng tần suất các cơn động kinh. Trước khi ngừng thuốc hoặc chuyển sang sử dụng thuốc chống động kinh khác cần phải giảm liều từ từ trong vòng ít nhất là 7 ngày.</p>",
+      "specification": "Hộp 10 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "CHI NHÁNH CÔNG TY CỔ PHẦN DƯỢC PHẨM AGIMEXPHARM - NHÀ MÁY SẢN XUẤT DƯỢC PHẨM AGIMEXPHARM - VIỆT NAM",
+      "shortDescription": "<p>Thuốc Gaptinew là sản phẩm của Agimexpharm, có thành phần chính là Gabapentin. Đây là thuốc được sử dụng để điều trị động kinh ở người lớn và thanh thiếu niên từ 12 tuổi trở lên; điều trị bệnh đau thần kinh ngoại biên.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/agimexpharm",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "GAPTINEW",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 798,
+        "name": "Thuốc thần kinh",
+        "parentName": "Thuốc hệ thần kinh",
+        "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_gaptinew_300mg_10x10_agimexpharm_00049380_85c7f0d36d.png",
+          "alternativeText": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00021_4846339c78.jpg",
+          "alternativeText": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00022_abf68f6655.jpg",
+          "alternativeText": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00023_817446d534.jpg",
+          "alternativeText": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00024_09af2b9e87.jpg",
+          "alternativeText": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00025_27c6bb168d.jpg",
+          "alternativeText": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00026_0597b14a0e.jpg",
+          "alternativeText": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00028_7b749c8b77.jpg",
+          "alternativeText": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00029_6e99357f3b.jpg",
+          "alternativeText": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/gaptinew_1_31d4dc5b29.jpg",
+          "alternativeText": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên) 10"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/gaptinew_2_44e770ab98.jpg",
+          "alternativeText": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên) 11"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/gaptinew_3_99ac08f22a.jpg",
+          "alternativeText": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên) 12"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/gaptinew_4_6daeb5973e.jpg",
+          "alternativeText": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên) 13"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc hệ thần kinh",
+        "slug": "/thuoc/thuoc-than-kinh"
+      },
+      {
+        "name": "Thuốc thần kinh",
+        "slug": "/thuoc/thuoc-than-kinh/thuoc-than-kinh"
+      }
+    ],
+    "content": {
+      "sku": "00049380",
+      "dosage": "<h3 dir=\"ltr\">Cách dùng</h3><p dir=\"ltr\">Gabapentin được dùng qua đường uống với lượng đủ nước, thời điểm uống thuốc không phụ thuộc vào bữa ăn.</p><h3 dir=\"ltr\">Liều dùng</h3><p>Trong tất cả các chỉ định, điều chỉnh tăng liều khi bắt đầu điều trị đối với người lớn và thanh thiếu niên từ 12 tuổi trở lên như sau:</p><figure class=\"table\" style=\"width:78.84%;\"><table class=\"ck-table-resized\"><colgroup><col style=\"width:29.48%;\"><col style=\"width:35.7%;\"><col style=\"width:34.82%;\"></colgroup><thead><tr><th colspan=\"3\"><p style=\"text-align:center;\">Sơ đồ phân liều - Điều chỉnh tăng liều ban đầu</p></th></tr></thead><tbody><tr><td><p style=\"text-align:center;\">Ngày 1</p></td><td><p style=\"text-align:center;\">Ngày 2</p></td><td><p style=\"text-align:center;\">Ngày 3</p></td></tr><tr><td><p style=\"text-align:center;\">300 mg x 1 lần/ngày</p></td><td><p style=\"text-align:center;\">300 mg x 2 lần/ngày</p></td><td><p style=\"text-align:center;\">300 mg x 3 lần/ngày</p></td></tr></tbody></table><figcaption>Bảng 1</figcaption></figure><p><i>Ngưng sử dụng gabapentin:</i></p><p>Nếu cần ngưng sử dụng gabapentin, nên ngừng thuốc từ từ trong thời gian tối thiểu 1 tuần không phụ thuộc vào chỉ định.</p><p><strong>Điều trị động kinh:</strong></p><p>Bệnh động kinh thường đòi hỏi phải điều trị lâu dài. Liều dùng được xác định bởi bác sỹ điều trị dựa trên sự đáp ứng của thuốc và hiệu quả điều trị của từng cá nhân.</p><p><i>Người lớn và thanh thiếu niên:</i></p><p>Các thử nghiệm lâm sàng cho thấy liều điều trị hiệu quả trong khoảng từ 900 - 3600 mg/ngày. Điều trị có thể bắt đầu bằng cách điều chỉnh tăng liều dần như trình bày ở bảng 1.</p><p>Hoặc ngày đầu cho uống 300 mg x 3 lần/ngày.</p><p>Sau đó, dựa vào đáp ứng và dung nạp của từng bệnh nhân, liều có thể tăng thêm từng bước 300 mg/ngày, cách 2 - 3 ngày tăng 1 lần, cho đến khi đạt liều tối đa 3600 mg/ngày. Điều chỉnh tăng liều chậm hơn có thể phù hợp đối với từng bệnh nhân. Thời gian tối thiểu để đạt liều 1800 mg/ngày là 1 tuần, đạt tới liều 2400 mg/ngày trong 2 tuần và liều 3600 mg/ngày trong 3 tuần.</p><p>Trong nghiên cứu lâm sàng dài hạn, liều lên đến 4800 mg/ngày được dung nạp tốt. Nên chia đều tổng liều hàng ngày cho 3 lần dùng thuốc và khoảng cách tối đa dùng thuốc không nên quá 12 giờ để tránh các cơn co giật bùng phát.</p><p><strong>Điều trị bệnh đau thần kinh ngoại biên:</strong></p><p><i>Người lớn:</i></p><p>Điều trị có thể bắt đầu bằng cách điều chỉnh tăng liều như mô tả trong bảng 1 hoặc liều bắt đầu 900 mg/ngày chia thành 3 liều đơn bằng nhau.</p><p>Sau đó, dựa vào đáp ứng và dung nạp của từng bệnh nhân, liều có thể tăng thêm từng bước 300 mg/ngày, cách 2 - 3 ngày tăng 1 lần, cho đến khi đạt liều tối đa 3600 mg/ngày. Điều chỉnh tăng liều chậm hơn có thể phù hợp đối với từng bệnh nhân. Thời gian tối thiểu để đạt liều 1800 mg/ngày là 1 tuần, đạt tới liều 2400 mg/ngày trong 2 tuần và liều 3600 mg/ngày trong 3 tuần.</p><p>Khi điều trị đau thần kinh ngoại biên chẳng hạn đau dây thần kinh trong bệnh đái tháo đường và đau dây thần kinh sau zona, hiệu quả và an toàn chưa được khảo sát đối với các đợt điều trị kéo dài hơn 5 tháng. Nếu bệnh nhân cần dùng liều dài hơn 5 tháng để điều trị đau thần kinh ngoại vi, bác sỹ điều trị phải đánh giá tình trạng lâm sàng của bệnh nhân và xác định sự cần thiết điều trị bổ sung.</p><p><strong>Hướng dẫn đối với tất cả các chỉ định:</strong></p><p>Nếu bệnh nhân có tổng trạng sức khỏe kém như nhẹ cân, sau khi ghép tạng.., liều dùng phải được điều chỉnh chậm hơn, hoặc dùng dạng thuốc có hàm lượng thấp hơn hoặc tăng khoảng cách giữa các liều.</p><p><i>Bệnh nhân cao tuổi (trên 65 tuổi):</i></p><p>Cần điều chỉnh liều đối với bệnh nhân cao tuổi do suy giảm chức năng thận theo tuổi. Chứng buồn ngủ, phù ngoại biên và suy nhược cơ thể có thể xảy ra thường hơn với bệnh nhân cao tuổi.</p><p><i>Bệnh nhân suy thận:</i></p><p>Cần phải điều chỉnh liều dùng cho bệnh nhân suy thận (theo bảng 2) và/hoặc đang thẩm phân máu. Có thể khuyến cáo dùng viên nang gabapentin 100 mg cho bệnh nhân suy thận.</p><figure class=\"table\" style=\"width:73.35%;\"><table class=\"ck-table-resized\"><colgroup><col style=\"width:47.52%;\"><col style=\"width:52.48%;\"></colgroup><thead><tr><th colspan=\"2\"><p style=\"text-align:center;\">Liều dùng gabapentin ở người trưởng thành dựa trên chức năng thận</p></th></tr></thead><tbody><tr><td><p style=\"text-align:center;\">Độ thanh thải creatinin (ml/phút)</p></td><td><p style=\"text-align:center;\">Tổng liều hàng ngày<sup>a</sup> (mg/ngày)</p></td></tr><tr><td><p style=\"text-align:center;\">≥ 80</p></td><td><p style=\"text-align:center;\">900 - 3600</p></td></tr><tr><td><p style=\"text-align:center;\">50 - 79</p></td><td><p style=\"text-align:center;\">600 - 1800</p></td></tr><tr><td><p style=\"text-align:center;\">30 - 49</p></td><td><p style=\"text-align:center;\">300 - 900</p></td></tr><tr><td><p style=\"text-align:center;\">15 - 29</p></td><td><p style=\"text-align:center;\">150<sup>b</sup> - 600</p></td></tr><tr><td><p style=\"text-align:center;\">&lt; 15<sup>c</sup></p></td><td><p style=\"text-align:center;\">150<sup>b</sup> - 300</p></td></tr></tbody></table></figure><p>a: Tổng liều hàng ngày được chia thành 3 lần. Giảm liều ở bệnh nhân suy thận (Độ thanh thải creatinin &lt; 79ml/phút).</p><p>b: Được chỉ định 300 mg uống cách ngày.</p><p>c: Đối với bệnh nhân có độ thanh thải creatinin &lt; 15 ml/phút, liều hàng ngày được giảm tỷ lệ với độ thanh thải creatinin (ví dụ: Bệnh nhân có độ thanh thải creatinin &lt;7,5 ml/phút thì liều dùng hàng ngày giảm phân nửa so với bệnh nhân có độ thanh thải creatinin &lt; 15 ml/phút).</p><p><i>Bệnh nhân đang thẩm phân máu:</i></p><ul><li>Đối với bệnh nhân vô niệu đang thẩm phân máu chưa sử dụng gabapentin nên dùng liều nạp là 300 - 400 mg, sau đó 200 - 300 mg sau mỗi 4 giờ thẩm phân máu.Vào những ngày không thẩm phân máu thì không dùng gabapentin.</li><li>Đối với bệnh nhân suy thận đang thẩm phân máu, liều duy trì nên dựa vào khuyến cáo phân liều theo bảng 2.</li></ul><p>Ngoài liều duy trì, khuyến cáo bổ sung liều 200 - 300 mg sau mỗi 4 giờ thẩm phân máu.</p><p><strong>Một số lưu ý đặc biệt về xử lý thuốc trước và sau khi sử dụng thuốc:</strong></p><p>Không có yêu cầu đặc biệt về xử lý thuốc sau khi sử dụng.</p><p dir=\"ltr\">Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3 dir=\"ltr\">Làm gì khi dùng quá liều?</h3><p><strong>Quá liều:</strong></p><p>Khi dùng quá liều gabapentin đến 49 g cũng không thấy độc tính cấp đe dọa tính mạng.</p><p>Triệu chứng quá liều bao gồm choáng váng, nhìn đôi, nói líu ríu, ngủ gà, mất ý thức, ngủ lịm và tiêu chảy nhẹ.</p><p>Quá liều gabapentin, đặc biệt khi phối hợp với các thuốc ức chế hệ thần kinh trung ương khác có thể dẫn đến hôn mê.</p><p><strong>Xử trí:</strong></p><p>Hầu hết các trường hợp quá liều đều hồi phục sau khi sử dụng các biện pháp điều trị hỗ trợ. Giảm hấp thu liều cao gabapentin có thể hạn chế sự hấp thu thuốc ở thời điểm dùng thuốc quá liều, do đó giảm độc tính do quá liều.</p><p>Mặc dù gabapentin có thể được loại bỏ bằng cách thẩm phân máu, dựa trên kinh nghiệm trước đó điều này thường không được yêu cầu. Tuy nhiên ở những bệnh nhân suy thận nặng thẩm phân máu có thể được chỉ định.</p><p dir=\"ltr\">Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3 dir=\"ltr\">Làm gì khi quên 1 liều?</h3><p dir=\"ltr\">Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<p>Tham khảo thông tin tờ hướng dẫn sử dụng thuốc.</p>",
+      "adverseEffect": "<p>Các phản ứng có hại được phân nhóm theo tần suất: Rất thường gặp (ADR ≥ 1/10), thường gặp (1/100 ≤ ADR &lt; 1/10), ít gặp (1/1.000 ≤ ADR &lt; 1/100), hiếm gặp (1/10.000 ≤ ADR &lt; 1/1.000), rất hiếm gặp (ADR &lt; 1/10.000); không thể ước lượng tần suất được liệt kê \"Chưa rõ tần suất\".</p><p><i>Nhiễm trùng và ký sinh trùng:</i></p><ul><li>Rất thường gặp: Nhiễm virus.</li><li>Thường gặp: Viêm phổi, nhiễm trùng đường hô hấp, nhiễm trùng đường tiểu, nhiễm trùng, viêm tai giữa.</li></ul><p><i>Rối loạn máu và hệ bạch huyết:</i></p><ul><li>Thường gặp: Giảm bạch cầu.</li><li>Chưa biết: Giảm tiểu cầu.</li></ul><p><i>Rối loạn hệ thống miễn dịch:</i></p><ul><li>Ít gặp: Phản ứng dị ứng (ví dụ: Nổi mề đay).</li><li>Chưa biết: Quá mẫn, hội chứng quá mẫn, phản ứng toàn thân với triệu chứng thay đổi có thể bao gồm sốt, phát ban, viêm gan, bệnh hạch bạch huyết, tăng bạch cầu ái toan và đôi khi có các dấu hiệu và triệu chứng khác.</li></ul><p><i>Rối loạn dinh dưỡng và chuyển hóa:</i></p><ul><li>Thường gặp: Chán ăn, tăng thèm ăn.</li><li>Ít gặp: Tăng đường huyết (thường gặp nhất ở bệnh nhân tiểu đường).</li><li>Hiếm gặp: Hạ đường huyết (thường gặp nhất ở bệnh nhân tiểu đường).</li><li>Chưa biết: Giảm natri huyết.</li></ul><p><i>Rối loạn tâm thần:&nbsp;</i></p><ul><li>Thường gặp: Biểu hiện thù địch, lẫn lộn và dễ thay đổi cảm xúc, trầm cảm, lo lắng, căng thẳng, suy nghĩ bất thường.</li><li>Ít gặp: Kích động.</li><li>Chưa biết: Ảo giác.</li></ul><p><i>Rối loạn hệ thần kinh:</i></p><ul><li>Rất thường gặp: Buồn ngủ, chóng mặt, mất điều hòa.</li><li>Thường gặp: Co giật, tăng động, chứng loạn vận ngôn, mất trí nhớ, run, mất ngủ, nhức đầu, các cảm giác như dị cảm, giảm cảm giác, phối hợp bất thường, rung giật nhãn cầu, tăng, giảm hoặc mất phản xạ.</li><li>Ít gặp: Giảm chức năng vận động, sa sút tinh thần.</li><li>Hiếm gặp: Mất ý thức.</li><li>Chưa biết: Các rối loạn vận động khác (ví dụ: Múa vờn, loạn vận động, loạn trương lực cơ).</li></ul><p><i>Rối loạn mắt:&nbsp;</i></p><ul><li>Thường gặp: Rối loạn thị giác như giảm thị lực, nhìn đôi.</li></ul><p><i>Rối loạn tai và tai trong:</i></p><ul><li>Thường gặp: Chóng mặt.</li><li>Chưa biết: Ù tai.</li></ul><p><i>Rối loạn tim:</i></p><ul><li>Ít gặp: Đánh trống ngực.</li></ul><p><i>Rối loạn mạch máu:</i></p><ul><li>Thường gặp: Tăng huyết áp, giãn mạch.</li></ul><p><i>Rối loạn hô hấp, ngực và trung thất:</i></p><ul><li>Thường gặp: Khó thở, viêm phế quản, viêm họng, ho, viêm mũi.</li></ul><p><i>Rối loạn tiêu hóa:</i></p><ul><li>Thường gặp: Nôn mửa, buồn nôn, bất thường về răng, viêm nướu, tiêu chảy, đau bụng, khó tiêu, táo bón, khô miệng hoặc họng, đầy hơi.</li><li>Chưa biết: Viêm tụy.</li></ul><p><i>Rối loạn gan mật:</i></p><ul><li>Chưa biết: Viêm gan, vàng da.</li></ul><p><i>Rối loạn da và mô dưới da:</i></p><ul><li>Thường gặp: Phù mặt, ban xuất huyết thường được mô tả như bầm tím do chấn thương thể chất, phát ban, ngứa, mụn trứng cá.</li><li>Chưa biết: Hội chứng Stevens-Johnson, phù mạch, ban đỏ đa dạng, rụng tóc, phát ban do thuốc với triệu chứng tăng bạch cầu ưa acid và các triệu chứng toàn thân.</li></ul><p><i>Rối loạn cơ xương và mô liên kết:</i></p><ul><li>Thường gặp: Đau khớp, đau cơ, đau lưng, co giật cơ.</li><li>Chưa biết: Tiêu cơ vân, giật rung cơ.</li></ul><p><i>Rối loạn thận và tiết niệu:</i></p><ul><li>Chưa biết: Suy thận cấp, tiểu không kiềm chế.</li></ul><p><i>Rối loạn hệ thống sinh sản và tuyến vú:</i></p><ul><li>Thường gặp: Liệt dương.</li><li>Chưa biết: Phì đại tuyến vú, vú to ở nam giới, rối loạn chức năng tình dục (bao gồm thay đổi ham muốn tình dục, rối loạn xuất tinh và mất khoái cảm).</li></ul><p><i>Rối loạn tổng quát và tình trạng tại nơi dùng thuốc:</i></p><ul><li>Rất thường gặp: Mệt mỏi, sốt.</li><li>Thường gặp: Phù ngoại vi, dáng đi bất thường, suy nhược, đau, khó ở, hội chứng cúm.</li><li>Ít gặp: Phù toàn thân.</li><li>Chưa biết: Triệu chứng cai thuốc (chủ yếu lo lắng, mất ngủ, buồn nôn, đau, đổ mồ hôi), đau ngực. Đã có báo cáo về các trường hợp tử vong đột ngột chưa giải thích được, nguyên nhân có liên quan với việc điều trị bằng gabapentin chưa được xác định.</li></ul><p><i>Xét nghiệm:</i></p><ul><li>Thường gặp: Giảm bạch cầu, tăng cân.</li><li>Ít gặp: Xét nghiệm chức năng gan tăng SGOT (AST), SGPT (ALT) và bilirubin.</li><li>Chưa biết: Tăng creatin phosphokinase máu.</li></ul><p><i>Thương tích và nhiễm độc:&nbsp;</i></p><ul><li>Phổ biến: Thương tích bất ngờ, gãy xương, trầy da.</li><li>Ít gặp: Ngã.</li></ul><p><i>Khác:&nbsp;</i></p><p>Các trường hợp viêm tụy cấp khi điều trị với gabapentin đã được báo cáo. Nguyên nhân do gabapentin chưa rõ. Ở bệnh nhân thẩm phân máu do suy thận giai đoạn cuối, chứng đau cơ với nồng độ creatin kinase tăng cao đã được báo cáo.&nbsp;</p><p>Nhiễm trùng đường hô hấp, viêm tai giữa, co giật và viêm phế quản chỉ được báo cáo trong các nghiên cứu lâm sàng ở trẻ em. Ngoài ra, trong các nghiên cứu lâm sàng ở trẻ em, thường có báo cáo về hành vi hung hăng và tăng động.</p><p><i><strong>Hướng dẫn cách xử trí ADR:</strong></i></p><p>Mất phối hợp vận động thường liên quan đến liều dùng. Nếu giảm liều mà không đỡ, phải ngừng thuốc.</p><p>Nếu nghi ngờ có hội chứng Stevens- Johnson, phải ngừng thuốc.</p><p>Không nên dừng thuốc đột ngột vì có thể làm tăng tần suất các cơn động kinh. Trước khi ngừng thuốc hoặc chuyển sang sử dụng thuốc chống động kinh khác cần phải giảm liều từ từ trong vòng ít nhất là 7 ngày.</p>",
+      "preservation": "<p>Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p><p>Để xa tầm tay trẻ em, đọc kỹ hướng dẫn sử dụng trước khi dùng.</p>",
+      "usage": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Gaptinew được chỉ định dùng trong các trường hợp sau:</p><p>Điều trị động kinh ở người lớn và thanh thiếu niên từ 12 tuổi trở lên:</p><ul><li>Gabapentin được chỉ định như liệu pháp hỗ trợ trong điều trị động kinh cục bộ có hoặc không có cơn co giật toàn thể tái phát.</li><li>Gabapentin được chỉ định đơn trị liệu trong điều trị động kinh cục bộ, có hoặc không có cơn co giật toàn thể tái phát.</li></ul><p>Điều trị bệnh đau thần kinh ngoại biên: Gabapentin được chỉ định trong điều trị đau thần kinh ngoại biên như đau dây thần kinh trong bệnh đái tháo đường và đau dây thần kinh sau zona ở người lớn.</p><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Nhóm dược lý: Thuốc chống động kinh, điều trị đau thần kinh.</strong></p><p><strong>Mã ATC: N03AX12.</strong></p><p>Gabapentin là thuốc chống động kinh và giảm đau do thần kinh, cơ chế hiện chưa rõ. Trên động vật thực nghiệm, thuốc có tác dụng chống cơn duỗi các chi sau khi làm sốc điện và cũng ức chế được cơn co giật do pentylentetrazol. Hiệu quả ở thí nghiệm cũng tương tự như đối với acid valproic nhưng khác với phenytoin và carbamazepin. Cấu trúc hóa học của gabapentin tương tự chất ức chế dẫn truyền thần kinh là acid gama-aminobutyric (GABA), nhưng gabapentin không tác động trực tiếp lên các thụ thể GABA, không làm thay đổi cấu trúc, giải phóng, chuyển hóa và hấp thu GABA. Các vị trí gắn gabapentin có ái lực cao khu trú ở khắp não, các vị trí này tương ứng với sự hiện diện của các kênh calci phụ thuộc điện thế đặc trưng có đơn vị phụ alpha-2-delta-1. Kênh này nằm ở tiền synap và có thể điều hòa giải phóng các chất dẫn truyền thần kinh kích thích thúc đẩy gây co giật và đau.</p><h3 dir=\"ltr\">Dược động học</h3><p><strong>Hấp thu: </strong>Gabapentin hấp thu qua đường tiêu hóa theo cơ chế bão hòa (khi liều tăng, sinh khả dụng lại giảm).</p><p>Thuốc đạt nồng độ đỉnh trong huyết tương sau khi uống 2 - 3 giờ và đạt nồng độ ổn định sau 1 - 2 ngày. Nồng độ huyết thanh có hiệu quả của thuốc chưa được xác định. Tuy vậy, trong một nghiên cứu, số lần co giật chỉ thấy giảm ở những người có nồng độ huyết thanh gabapentin trên 2 mg/lít (11,7 micromol/lít). Nồng độ trong huyết tương của gabapentin nói chung nằm trong phạm vi từ 2 mg/lít (2 microgam/ml) tới 20 mg/lít (20 microgam/ml).</p><p>Sinh khả dụng khoảng 60% khi dùng với liều 900 mg/24 giờ và không tương ứng với liều dùng, thậm chí khi liều tăng thì sinh khả dụng lại giảm (sinh khả dụng khoảng 27% khi dùng với liều 4,8 g/24 giờ). Thức ăn ít ảnh hưởng đến tốc độ và mức độ hấp thu.</p><p><strong>Phân bố:</strong> Gabapentin phân bố khắp cơ thể, vào được sữa mẹ, liên kết với protein huyết tương rất thấp (&lt; 3%). Thể tích phân bố của thuốc là 58 ± 6 lít ở người lớn.</p><p><strong>Chuyển hóa, thải trừ: </strong>Gabapentin hầu như không chuyển hóa trong cơ thể và thải trừ chủ yếu qua thận dưới dạng không đổi. Nửa đời của gabapentin khoảng 5 đến 7 giờ ở người có chức năng thận bình thường. Nếu vô niệu: 132 giờ, trong khi thẩm phân: 3,8 giờ.</p><p>Gabapentin không làm thay đổi dược động học của các thuốc chống động kinh thường dùng (như carbamazepin, phenytoin, valproat, phenobarbital, diltiazem) hoặc thuốc tránh thai uống. Ngoài ra dược động học của gabapentin cũng không bị thay đổi nhiều khi dùng phối hợp với các thuốc chống co giật khác.</p><p>Ở người bệnh cao tuổi và người suy thận, độ thanh thải gabapentin huyết tương bị giảm. Gabapentin có thể bị loại khỏi huyết tương bằng thẩm phân máu, vì vậy cần điều chỉnh liều đối với những người bệnh này.</p><p>Trẻ em dưới 5 tuổi có độ thanh thải gabapentin cao hơn khi chuẩn hóa theo cân nặng so với trẻ em ≥ 5 tuổi. Độ thanh thải của thuốc ở trẻ em ≥ 5 tuổi phù hợp với độ thanh thải của người lớn sau khi dùng một liều duy nhất.</p><p>Do đó, ở trẻ em 3 - 5 tuổi, phải dùng liều hằng ngày cao hơn mới đạt được nồng độ thuốc trung bình trong huyết tương tương tự như trẻ em 25 tuổi. Trẻ dưới 1 tuổi có độ thanh thải thuốc thay đổi nhiều.</p>",
+      "ingredient": "",
+      "careful": "<p dir=\"ltr\">Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3 dir=\"ltr\">Chống chỉ định</h3><p dir=\"ltr\">Thuốc Gaptinew chống chỉ định trong các trường hợp sau:</p><ul><li dir=\"ltr\">Mẫn cảm với gabapentin hoặc bất cứ thành phần nào của thuốc.</li></ul><h3 dir=\"ltr\">Thận trọng khi sử dụng</h3><p dir=\"ltr\">Cần rất thận trọng khi dùng thuốc cho người bệnh trong các trường hợp sau:</p><p><i>Ý định và hành vi tự sát:</i></p><p>Ý tưởng và hành vi tự sát đã được báo cáo ở những bệnh nhân được điều trị bằng thuốc chống động kinh trong một số chỉ định. Phân tích tổng hợp các thử nghiệm ngẫu nhiên có kiểm soát của thuốc chống động kinh đối chứng với giả dược cũng cho thấy có nguy cơ tăng nhẹ về ý định và hành vi tự tử. Cơ chế của nguy cơ này không được biết và dữ liệu sẵn có không loại trừ khả năng của nguy cơ gia tăng là do gabapentin.</p><p>Do đó bệnh nhân phải được theo dõi về các dấu hiệu của ý định và hành vi tự tử và điều trị thích hợp phải được xem xét. Bệnh nhân (và người chăm sóc bệnh nhân) cần được tư vấn để được hướng dẫn kiến thức y học về dấu hiệu ý định hoặc hành vi tự sát.</p><p><i>Phản ứng quá mẫn:</i></p><p>Gabapentin có thể gây phản ứng quá mẫn. Dấu hiệu và triệu chứng trong các trường hợp đã báo cáo bao gồm khó thở, sưng môi, họng, và lưỡi, và hạ huyết áp cần điều trị khẩn cấp. Bệnh nhân phải ngừng dùng gabapentin và cần được chăm sóc y tế ngay nếu họ có các dấu hiệu hoặc triệu chứng của phản ứng quá mẫn.</p><p><i>Viêm tụy cấp:</i></p><p>Nếu bệnh nhân bị viêm tụy cấp khi điều trị bằng gabapentin, phải xem xét việc ngưng dùng gabapentin.</p><p><i>Co giật:</i></p><p>Mặc dù không có bằng chứng về cơn động kinh hồi ứng với gabapentin, việc ngừng thuốc chống co giật đột ngột ở bệnh nhân động kinh có thể làm trầm trọng thêm tình trạng động kinh.</p><p>Giống như các thuốc chống động kinh khác, một số bệnh nhân có thể bị tăng tần suất co giật hoặc bắt đầu các kiểu co giật mới với gabapentin.</p><p>Giống như các thuốc chống động kinh khác, những cố gắng nhằm rút bớt các thuốc chống động kinh dùng cùng lúc trong điều trị các bệnh nhân kháng thuốc phải dùng nhiều hơn một loại thuốc chống động kinh, để đạt được liệu pháp đơn trị với gabapentin có tỷ lệ thành công thấp.</p><p>Gabapentin không được xem là có hiệu quả chống lại cơn động kinh toàn thể nguyên phát chẳng hạn như cơn vắng ý thức và có thể làm trầm trọng thêm cơn co giật ở một số bệnh nhân. Vì thế, gabapentin nên được sử dụng cẩn thận đối với những bệnh nhân có co giật hỗn hợp bao gồm cả con vắng ý thức.</p><p>Điều trị với gabapentin có liên quan đến chóng mặt và buồn ngủ, có thể làm tăng thương tích ngẫu nhiên (té ngã). Cũng có những báo cáo sau khi tiếp thị về sự mất ý thức, nhầm lẫn và suy giảm tinh thần. Vì vậy, nên khuyên bệnh nhân thận trọng cho đến khi họ đã quen thuộc với những tác động tiềm ẩn của sản phẩm.</p><p><i>Sử dụng đồng thời với opioid:</i></p><p>Bệnh nhân cần điều trị đồng thời với opioid nên được theo dõi cần thận để nhận biết các dấu hiệu ức chế hệ thống thần kinh trung ương (CNS) như buồn ngủ, an thần và suy hô hấp. Bệnh nhân sử dụng gabapentin và morphin đồng thời có thể gặp tình trạng tăng nồng độ gabapentin. Cần giảm một cách thích hợp liều dùng của gabapentin hoặc opioid.</p><p><i>Sử dụng ở bệnh nhân cao tuổi (trên 65 tuổi):</i></p><p>Chưa có nghiên cứu có hệ thống nào ở bệnh nhân từ 65 tuổi trở lên được tiến hành với gabapentin. Trong một nghiên cứu mù đôi ở bệnh nhân đau thần kinh, buồn ngủ, phù ngoại vi và suy nhược đã xảy ra với tỷ lệ phần trăm cao hơn ở bệnh nhân từ 65 tuổi trở lên, so với ở bệnh nhân trẻ tuổi. Ngoài những phát hiện này, các cuộc điều tra lâm sàng trong nhóm tuổi này không cho thấy có biến cố bất lợi nào khác với những gì đã thấy ở những bệnh nhân trẻ tuổi hơn.</p><p><i>Trẻ em:</i></p><p>Hiệu quả của liệu pháp điều trị lâu dài với gabapentin (hơn 36 tuần) đối với học tập, trí thông minh và sự phát triển ở trẻ em và thanh thiếu niên chưa được nghiên cứu đầy đủ. Lợi ích của điều trị kéo dài phải được cân nhắc so với những nguy cơ tiềm ẩn của liệu pháp này.</p><p><i>Lạm dụng và lệ thuộc:</i></p><p>Các trường hợp lạm dụng và lệ thuộc đã được báo cáo trong cơ sở dữ liệu sau khi tiếp thị. Cẩn thận đánh giá bệnh nhân về tiền sử lạm dụng thuốc và quan sát các dấu hiệu có thể do lạm dụng gabapentin của họ, ví dụ hành vi tìm kiếm thuốc, tăng liều, tăng dung nạp.</p><p><i>Hội chứng phát ban do thuốc với tăng bạch cầu ái toan và nhiều triệu chứng toàn thân (DRESS):</i></p><p>Các phản ứng quá mẫn toàn thân nghiêm trọng, đe dọa đến mạng sống, như Hội chứng phát ban do thuốc với tăng bạch cầu ái toan và nhiều triệu chứng toàn thân (DRESS) đã được báo cáo ở bệnh nhân dùng thuốc chống động kinh bao gồm gabapentin.</p><p>Điều quan trọng cần lưu ý là những biểu hiện sớm của quá mẫn, như sốt hoặc bệnh hạch bạch huyết, có thể xảy ra ngay cả khi phát ban không rõ ràng. Nếu có dấu hiệu hoặc triệu chứng như vậy, bệnh nhân cần được đánh giá ngay lập tức. Cần ngưng dùng gabapentin nếu nguyên nhân khác hơn gây ra các dấu hiệu hoặc triệu chứng không thể xác lập.</p><p><i>Xét nghiệm:</i></p><p>Thuốc có thể gây ra kết quả dương tính giả khi bán định lượng urê toàn phần bằng phương pháp que thử nước tiểu. Vì thế cần kiểm tra lại kết quả khi dùng phương pháp que thử bằng các phương pháp dựa trên một nguyên tắc phân tích khác như phương pháp Biuret, các phương pháp đo độ đục hoặc kết hợp với phẩm màu hoặc sử dụng các phương pháp thay thế này ngay từ đầu.</p><h3 dir=\"ltr\">Ảnh hưởng của thuốc lên khả năng lái xe và vận hành máy móc</h3><p dir=\"ltr\">Thận trọng khi dùng thuốc cho người đang lái xe hay vận hành máy móc vì thuốc có thể gây mệt mỏi, chóng mặt, buồn ngủ, mất phối hợp vận động.</p><h3 dir=\"ltr\">Sử dụng thuốc cho phụ nữ trong thời kỳ mang thai và cho con bú</h3><p><strong>Thời kỳ có thai:</strong></p><p><i>Nguy cơ liên quan đến bệnh động kinh và các thuốc chống động kinh nói chung</i></p><p>Nguy cơ dị tật bẩm sinh tăng lên gấp 2 - 3 lần đối với con của các bà mẹ được điều trị bằng thuốc chống động kinh. Thường gặp nhất là sứt môi, dị dạng tim mạch và khuyết tật ống thần kinh. Điều trị với nhiều thuốc chống động kinh gắn liền với nguy cơ dị tật bẩm sinh cao hơn so với đơn trị liệu. Vì vậy, điều quan trọng là đơn trị liệu được thực hiện bất cứ khi nào có thể.</p><p>Cần tư vấn cho phụ nữ có khả năng mang thai khi điều trị bệnh động kinh và nên xem xét điều trị động kinh cho phụ nữ dự định mang thai.</p><p>Không được ngưng điều trị động kinh đột ngột vì điều này dẫn đến bộc phát cơn co giật gây hậu quả nghiêm trọng cho cả mẹ và con.</p><p>Hiếm gặp sự chậm phát triển ở trẻ em có mẹ bị bệnh động kinh. Không phân biệt được sự chậm phát triển ở trẻ là do yếu tố di truyền, xã hội hay do mẹ bị bệnh động kinh hay điều trị bệnh động kinh.</p><p><i>Nguy cơ liên quan đến gabapentin</i></p><p>Không có dữ liệu đầy đủ về việc sử dụng gabapentin ở phụ nữ có thai.</p><p>Các nghiên cứu trên động vật chứng minh độc tính sinh sản. Nguy cơ tiềm ẩn đối với người chưa được biết.</p><p>Tuy nhiên, chỉ dùng thuốc cho người mang thai khi thực sự cần thiết và có cân nhắc kỹ lợi ích cho người mẹ cao hơn với nguy cơ cho thai nhi.</p><p>Không có kết luận rõ ràng nào về việc trị liệu bằng gabapentin có liên quan với tăng nguy cơ dị tật bẩm sinh khi dùng trong thời kỳ mang thai, bởi vì tự thân bệnh động kinh và việc sử dụng đồng thời các thuốc chống động kinh trong mỗi giai đoạn mang thai được báo cáo.</p><p>Phụ nữ có khả năng mang thai hoặc đang sử dụng các biện pháp tránh thai hoặc đang mang thai nên tham khảo ý kiến bác sỹ cần thận trước khi điều trị với thuốc này.</p><p><strong>Thời kỳ cho con bú:</strong></p><p>Gabapentin qua được sữa mẹ, vì tác động của gabapentin ở trẻ bú mẹ không được biết, chỉ dùng gabapentin cho phụ nữ trong thời kỳ cho con bú khi thật cần thiết và đã cân nhắc kỹ lợi ích rõ ràng cao hơn nguy cơ.</p><h3 dir=\"ltr\">Tương tác thuốc</h3><p>Đã có các báo cáo về tình trạng suy hô hấp và/hoặc an thần liên quan đến sử dụng gabapentin và opioid. Cần quan tâm đặc biệt đối với sự kết hợp giữa gabapentin và opioid, đặc biệt ở bệnh nhân cao tuổi.</p><p>Trong một nghiên cứu trên những tình nguyện viên khỏe mạnh (N = 12), khi uống viên nang morphin 60 mg phóng thích có kiểm soát 2 giờ trước khi uống viên nang gabapentin 600 mg, diện tích dưới đường cong (AUC) của gabapentin tăng 44% so với khi uống gabapentin mà không có morphin. Do đó, những bệnh nhân cần điều trị đồng thời opioid nên được theo dõi cẩn thận các dấu hiệu suy nhược thần kinh trung ương, như buồn ngủ, an thần và suy hô hấp và liều dùng của gabapentin hoặc opioid cần phải được giảm thích hợp.</p><p>Chưa thấy có tương tác giữa gabapentin và các thuốc chống động kinh thường dùng như carbamazepin, phenytoin, acid valproic, phenobarbital.</p><p>Dược động học trạng thái ổn định của gabapentin tương tự đối với người khỏe mạnh và bệnh nhân động kinh đang dùng các thuốc chống động kinh này.</p><p>Sử dụng cùng lúc gabapentin với thuốc ngừa thai uống có chứa norethindron và/hoặc ethinyl estradiol không ảnh hưởng đến dược động học trạng thái ổn định của cả hai thành phần.</p><p>Sử dụng cùng lúc gabapentin với các thuốc kháng acid có chứa nhôm và magnesi làm giảm sinh khả dụng gabapentin lên đến 24%. Nên dùng gabapentin ít nhất 2 giờ sau khi dùng thuốc kháng acid.</p><p>Probenecid không làm thay đổi sự bài tiết qua thận của gabapentin.</p><p>Thanh thải qua thận của gabapentin giảm nhẹ khi dùng cùng lúc với cimetidin (điều này không có ý nghĩa lâm sàng).</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Trần Huỳnh Minh Nhật",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Dược sĩ chuyên khoa Dược lý - Dược lâm sàng. Tốt nghiệp 2 trường đại học Mở và Y Dược TP. Hồ Chí Minh. Có kinh nghiệm nghiên cứu về lĩnh vực sức khỏe, đạt được nhiều giải thưởng khoa học. Hiện là Dược sĩ chuyên môn phụ trách xây dựng nội dung và triển khai dự án đào tạo - Hội đồng chuyên môn tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-tran-huynh-minh-nhat",
+        "isLegit": true,
+        "id": 10,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tran_huynh_minh_nhat_905ca436dd.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_gaptinew_300mg_10x10_agimexpharm_00049380_85c7f0d36d.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên)",
+            "description": "Thuốc Gaptinew là sản phẩm của Agimexpharm, có thành phần chính là Gabapentin. Đây là thuốc được sử dụng để điều trị động kinh ở người lớn và thanh thiếu niên từ 12 tuổi trở lên; điều trị bệnh đau thần kinh ngoại biên."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 36866,
+        "title": "Thuốc Gaptinew có tương tác với những thuốc nào và cần điều chỉnh như thế nào?",
+        "content": "<p>Opioid (Ví dụ: Morphin): Dùng đồng thời gabapentin và morphin có thể làm tăng nồng độ gabapentin trong huyết tương (tăng 44% AUC của gabapentin). Cần theo dõi cẩn thận các dấu hiệu ức chế thần kinh trung ương (như buồn ngủ, suy hô hấp) và cần giảm liều gabapentin hoặc opioid một cách thích hợp.</p><p>Thuốc kháng acid: Sử dụng cùng lúc thuốc kháng acid có chứa nhôm và magnesi làm giảm sinh khả dụng gabapentin lên đến 24%. Nên dùng gabapentin ít nhất 2 giờ sau khi dùng thuốc kháng acid.</p>"
+      },
+      {
+        "id": 36865,
+        "title": "Cần lưu ý gì khi cần ngưng sử dụng thuốc Gaptinew?",
+        "content": "<p>Nếu cần ngưng sử dụng gabapentin, nên ngừng thuốc từ từ trong thời gian tối thiểu là 1 tuần, không phụ thuộc vào chỉ định điều trị. Việc ngừng thuốc chống co giật đột ngột ở bệnh nhân động kinh có thể làm trầm trọng thêm tình trạng động kinh.</p>"
+      },
+      {
+        "id": 36864,
+        "title": "Cơ chế hoạt động của Gabapentin (Gaptinew) trong cơ thể là gì?",
+        "content": "<p>Gabapentin là thuốc chống động kinh và giảm đau do thần kinh. Thuốc không tác động trực tiếp lên các thụ thể GABA nhưng có các vị trí gắn ái lực cao khu trú ở khắp não, tương ứng với các kênh calci phụ thuộc điện thế. Kênh này nằm ở tiền synap và có thể điều hòa giải phóng các chất dẫn truyền thần kinh kích thích thúc đẩy gây co giật và đau.</p>"
+      },
+      {
+        "id": 36863,
+        "title": "Thuốc Gaptinew được chỉ định để điều trị bệnh lý động kinh như thế nào?",
+        "content": "<p>Thuốc Gaptinew được chỉ định dùng để điều trị động kinh ở người lớn và thanh thiếu niên từ 12 tuổi trở lên. Thuốc có thể được dùng như liệu pháp hỗ trợ hoặc đơn trị liệu trong điều trị động kinh cục bộ có hoặc không có cơn co giật toàn thể tái phát.</p>"
+      },
+      {
+        "id": 36862,
+        "title": "Thành phần hoạt chất chính và hàm lượng trong mỗi viên thuốc Gaptinew là gì?",
+        "content": "<p>Thành phần hoạt chất chính của thuốc Gaptinew 300mg là Gabapentin với hàm lượng 300mg trong mỗi viên.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00501102",
+        "name": "CHỐNG SAY TÀU XE MOMVINA HADIPHAR 25X4",
+        "webName": "Thuốc chống say tàu xe Momvina Hadiphar điều trị chứng buồn nôn, nôn, chóng mặt (25 vỉ x 4 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02663_072b3867e3.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 733,
+            "name": "Thuốc hệ thần kinh",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-than-kinh",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 798,
+            "name": "Thuốc thần kinh",
+            "parentName": "Thuốc hệ thần kinh",
+            "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 49787,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 91000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-chong-say-tau-xe-momvina-hadiphar-hop-25-vi-x-4-vien-35248.html",
+        "ingredients": "Dimenhydrinate 50mg",
+        "dosageForm": "Viên nén",
+        "brand": "Hadiphar",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 80,
+        "productRanking": 0,
+        "specification": "Hộp 25 Vỉ x 4 Viên",
+        "prices": [
+          {
+            "id": 49785,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 910,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 49786,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 3640,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 49787,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 91000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00029346",
+        "name": "TEBURAP 120MG DONGKOO 10X10",
+        "webName": "Viên nang mềm Teburap 120mg Dongkoo điều trị rối loạn tuần hoàn ngoại biên (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00029346_teburap_120mg_dongkoo_10x10_5076_60af_large_2712737258.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 733,
+            "name": "Thuốc hệ thần kinh",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-than-kinh",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 798,
+            "name": "Thuốc thần kinh",
+            "parentName": "Thuốc hệ thần kinh",
+            "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37750,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 6400,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/teburap-120mg-dongkoo-10x10-29782.html",
+        "ingredients": "Ginkgo biloba leaf extract 120mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Dongkoo",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 37750,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 6400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 37752,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 640000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 37751,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 64000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 257,
+          "attributeName": "Hàn Quốc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Han_Quoc_760f524a89.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00053171",
+        "name": "BẢO CHI ĐAN TÙNG LỘC 3X10",
+        "webName": "Thuốc Bảo chi đan Tùng lộc điều trị chứng ra mồ hôi tay (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_1_382664ddea.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 733,
+            "name": "Thuốc hệ thần kinh",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-than-kinh",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 798,
+            "name": "Thuốc thần kinh",
+            "parentName": "Thuốc hệ thần kinh",
+            "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 85258,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 180000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bao-chi-dan-tung-loc-3-x10.html",
+        "ingredients": "Bạch truật 800mg, Hoạt thạch 160mg, Sài Hồ 160mg, Bán hạ 400mg, Khương hoạt 160mg, Thăng ma 160mg, Cam thảo 160mg, Phục Linh 400mg, Hoàng liên 400mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "TÙNG LỘC",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 40,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 85258,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 180000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 85259,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 85260,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 2,
+      "items": [
+        {
+          "id": 3284068,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0333xxxxxx",
+          "name": "Linh Tâm",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "nhà thuốc còn hàng này không? xin giá sản phẩm",
+          "createdAt": "2026-04-02 10:20:58",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-04-02 10:20:58",
+          "replies": [
+            {
+              "id": 3284069,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Đăng Dương",
+                "moderatorEmail": "duongnd46@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Đăng Dương",
+              "email": "duongnd46@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Linh,</p><p>Hiện tại, sản phẩm Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên) có giá 124,000 ₫/Hộp. </p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a> <a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-04-02 10:23:18",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-04-02 10:20:58",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3197794,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0909xxxxxx",
+          "name": "Thiện",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Giá bao nhiêu ạ",
+          "createdAt": "2025-10-17 16:50:33",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-17 16:50:20",
+          "replies": [
+            {
+              "id": 3197796,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Châu",
+                "moderatorEmail": "chauntn9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Ngọc Châu",
+              "email": "chauntn9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn <strong>Thiện</strong>,</p><p>Dạ, hiện tại sản phẩm Gaptinew&nbsp;đang trong quá trình chờ bổ sung từ nhà cung cấp.</p><p>Bạn có thể tham khảo sản phẩm tương tự là Neurontin 300mg VIATRIS, có cùng công dụng . Sản phẩm được sản xuất tại Hoa Kỳ, xem thêm thông tin tại <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc/neurontin-300mg-2884.html\" rel=\"noopener noreferrer\" target=\"_blank\">link</a></strong>.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2025-10-17 16:54:38",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-17 16:50:20",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_gaptinew_300mg_10x10_agimexpharm_00049380_85c7f0d36d.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00021_4846339c78.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00022_abf68f6655.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00023_817446d534.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00024_09af2b9e87.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00025_27c6bb168d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00026_0597b14a0e.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00028_7b749c8b77.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00029_6e99357f3b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/gaptinew_1_31d4dc5b29.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/gaptinew_2_44e770ab98.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/gaptinew_3_99ac08f22a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/gaptinew_4_6daeb5973e.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Gaptinew là sản phẩm của Agimexpharm, có thành phần chính là Gabapentin. Đây là thuốc được sử dụng để điều trị động kinh ở người lớn và thanh thiếu niên từ 12 tuổi trở lên; điều trị bệnh đau thần kinh ngoại biên.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Trần Huỳnh Minh Nhật"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên) - Nhà thuốc FPT Long Châu",
+      "description": "Thuốc Gaptinew là sản phẩm của Agimexpharm, có thành phần chính là Gabapentin. Đây là thuốc được sử dụng để điều trị động kinh ở người lớn và thanh thiếu niên từ 12 tuổi trở lên; điều trị bệnh đau thần kinh ngoại biên.",
+      "openGraph": {
+        "title": "Thuốc Gaptinew 300mg Agimexpharm điều trị động kinh và đau thần kinh ngoại biên (10 vỉ x 10 viên)",
+        "description": "Thuốc Gaptinew là sản phẩm của Agimexpharm, có thành phần chính là Gabapentin. Đây là thuốc được sử dụng để điều trị động kinh ở người lớn và thanh thiếu niên từ 12 tuổi trở lên; điều trị bệnh đau thần kinh ngoại biên.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_gaptinew_300mg_10x10_agimexpharm_00049380_85c7f0d36d.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/gaptinew-300-mg-agimexpharm-10-x10.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/gaptinew-300-mg-agimexpharm-10-x10.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

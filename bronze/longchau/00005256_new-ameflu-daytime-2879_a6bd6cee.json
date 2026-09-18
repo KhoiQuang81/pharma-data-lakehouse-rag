@@ -1,0 +1,2111 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/new-ameflu-daytime-2879.html",
+  "ingestion_timestamp": "2026-09-05T08:44:16.447993+00:00",
+  "file_hash": "f5cdcde79aa9d0d617c1a5d924a976e188685db337376806d1a56b48f8bbda77",
+  "lineage_hash": "a4330572594f518f7ee8139e5e086c7ab6a020f18b1140ef00b235eb905640b1",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/new-ameflu-daytime-2879.html",
+    "product": {
+      "sku": "00005256",
+      "webName": "Thuốc Ameflu Day Time OPV giảm các triệu chứng cảm lạnh và cảm cúm (10 vỉ x 10 viên)",
+      "name": "AMEFLU DAY TIME OPV 10X10",
+      "shortName": "AMEFLU DAY TIME OPV 10X10",
+      "headingText": "Thuốc Ameflu Day Time",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_ameflu_day_time_10_vi_x_10_vien_opv_00005256_03fe830c5b.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_9908_62a7_large_603a19ab17.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_4998_62a7_large_683a060a50.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_8437_62a7_large_9c0b7ca1c5.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_6948_62a7_large_25d8b34686.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_8312_62a7_large_75aca87208.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_1627297017_f2f5ff4b9e.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 729,
+          "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 768,
+          "name": "Thuốc giảm đau hạ sốt",
+          "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+          "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 10 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "10 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/new-ameflu-daytime-2879.html",
+      "ingredient": [
+        {
+          "id": 43681,
+          "ingredientId": 7283,
+          "shortDescription": "500mg",
+          "name": "Acetaminophen",
+          "isPrimary": false,
+          "slug": "thanh-phan/acetaminophen"
+        },
+        {
+          "id": 43682,
+          "ingredientId": 21754,
+          "shortDescription": "200mg",
+          "name": "Guaifenesin",
+          "isPrimary": false,
+          "slug": "thanh-phan/guaifenesin"
+        },
+        {
+          "id": 43683,
+          "ingredientId": 32319,
+          "shortDescription": "10mg",
+          "name": "Phenylephrine",
+          "isPrimary": false,
+          "slug": "thanh-phan/phenylephrine"
+        },
+        {
+          "id": 43684,
+          "ingredientId": 17337,
+          "shortDescription": "15mg",
+          "name": "Dextromethorphan",
+          "isPrimary": false,
+          "slug": "thanh-phan/dextromethorphan"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893110706724",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Thuốc dùng đường uống.</p><h3><strong>Liều dùng</strong></h3><p>Người lớn và trẻ em từ 12 tuổi trở lên: Uống 1 viên, cách mỗi 6 giờ. Không dùng quá 6 viên/24 giờ.</p><p>Trẻ&nbsp;em 6 – 11 tuổi: Uống 1/2 viên cách mỗi 6 giờ. Không dùng quá 3 viên/24 giờ.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng điều trị cảm cúm bằng Ameflu cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Acetaminophen: Xử lý tùy thuộc vào nồng độ trong huyết tương. Acetylcysteine bảo vệ gan nếu dùng trong khoảng 24 giờ kể từ khi quá liều acetaminophen (hiệu quả nhất nếu dùng trong khoảng 8 giờ). Liều uống đầu tiên là 140mg/kg (liều tải), sau đó cho tiếp 17 liều nữa, mỗi liều 70mg/kg cách nhau 4 giờ một lần. Than hoạt hoặc rửa dạ dày có thể được thực hiện để giảm sự hấp thu của acetaminophen.</p><p>Phenylephrine hydrochloride: Nên điều trị triệu chứng và hỗ trợ.</p><p>Dextromethorphan: Điều trị hỗ trợ và điều trị triệu chứng. Có thế dùng naloxone 2mg tiêm tĩnh mạch, dùng lặp lại nếu cần.</p><p>Quá liều guaifenesin không gây ra các triệu chứng nguy hiểm đến tính mạng.</p><p>Trong trường hợp dùng quá liều, phải liên hệ ngay bác sĩ hoặc đến bệnh viện gần nhất.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/new-ameflu-daytime-2879.html\">Ameflu Day Time</a> được chỉ định dùng trong các trường hợp sau: Làm giảm các triệu chứng trong <a href=\"https://nhathuoclongchau.com.vn/benh/cam-lanh-583.html\">cảm lạnh</a> và cảm <a href=\"https://nhathuoclongchau.com.vn/benh/cum-434.html\">cúm</a> như sốt, ho, các cơn đau, đau họng, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, sung huyết mũi (nghẹt mũi), làm loãng đàm (chất nhầy) và làm loãng dịch tiết phế quản giúp dễ ho hơn.</p><h3><strong>Dược lực học</strong></h3><p>Acetaminophen là chất chuyển hóa có hoạt tính của phenacetin, có tác dụng giảm đau bằng cách ngăn chặn sự phát sinh xung động gây đau ở ngoại vi. Thuốc có tác dụng hạ sốt bằng cách ức chế trung khu điều nhiệt vùng dưới đồi.</p><p>Guaifenesin là một thuốc long đàm, có tác động thúc đẩy hoặc dễ dàng loại bỏ các chất bài tiết từ đường hô hấp.</p><p>Phenylephrine hydrochloride là thuốc giống thần kinh giao cảm có tác dụng trực tiếp lên các thụ thể&nbsp;alpha - 1 adrenergic gây co mạch, giảm sung huyết mũi và xoang.</p><p>Dextromethorphan hydrobromide là thuốc giảm ho, tác dụng lên trung tâm ho ở hành tủy. <a href=\"https://nhathuoclongchau.com.vn/thuoc\">Thuốc</a> không có tác dụng giảm đau và ít tác dụng an thần.</p><h3><strong>Dược động học</strong></h3><p>Acetaminophen được hấp thu nhanh từ đường tiêu hóa với nồng độ đỉnh trong huyết tương đạt được khoảng 30 – 60 phút sau khi uống. Acetaminophen được phân bố trong hầu hết các mô của cơ thể. Acetaminophen qua nhau thai và hiện diện trong sữa mẹ. Thuốc gắn kết với protein huyết tương không đáng kể ở nồng độ điều trị thông thường nhưng tỷ lệ gắn kết sẽ tăng khi nồng độ tăng. Thời gian bán hủy của acetaminophen thay đổi khoảng 1–3 giờ.</p><p>Acetaminophen được chuyển hóa chủ yếu ở gan và bài tiết trong nước tiểu chủ yếu dưới dạng liên hợp glucuronide (60 – 80%) và liên hợp sulfate (20 – 30%). Dưới 5% được bài tiết dưới dạng acetaminophen không đổi. Một phần nhỏ (dưới 4%) được chuyển hóa thông qua hệ thống cytochrome P450.</p><p>Guaifenesin được hấp thu tốt qua đường tiêu hóa. Thuốc được chuyển hóa và sau đó thải trừ qua nước tiểu.</p><p>Phenylephrine hydrochloride được hấp thu bất thường qua đường tiêu hóa và trải qua quá trình chuyển hóa giai đoạn đầu ở ruột và gan nhờ enzyme monoamine oxidase. Phenylephrine được thải trừ gần như hoàn toàn qua nước tiểu.</p><p>Dextromethorphan hydrobromide được hấp thu nhanh qua đường tiêu hóa và có tác dụng trong vòng 15 – 30 phút sau khi uống, kéo dài khoảng 6 – 8 giờ. Thuốc được chuyển hóa ở gan và bài xuất qua nước tiểu dưới dạng không đổi và các chất chuyển hóa demethyl bao gồm dextrophan, cũng có tác dụng giảm ho.</p>",
+      "brand": "Opv",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Ameflu Day Time, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p>Một số trường hợp dị ứng với thuốc hiếm khi xảy ra như phát ban da, ban đỏ, <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mày đay</a>, giảm tiểu cầu, suy gan. Táo dụng phụ khác có thể có là bồn chồn, mất ngủ, tăng huyết áp, loạn nhịp tim, <a href=\"https://nhathuoclongchau.com.vn/benh/hoa-mat-chong-mat-14.html\">chóng mặt</a>, buồn nôn, nôn, kích ứng dạ dày, run, người yếu mệt, ảo giác và khó thở.</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 10 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "OPV",
+      "shortDescription": "<p>Ameflu Day Time dùng để làm giảm các triệu chứng trong cảm lạnh và cảm cúm như sốt, ho, đau họng, nhức đầu, sung huyết mũi (nghẹt mũi), làm loãng đàm (chất nhầy) và làm loãng dịch tiết phế quản giúp dễ ho hơn.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Trên 6 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Lái tàu xe"
+      ],
+      "specialFeatures": [],
+      "displayCode": 3,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/opv",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "AMEFLU DAYTIME",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 768,
+        "name": "Thuốc giảm đau hạ sốt",
+        "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+        "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_ameflu_day_time_10_vi_x_10_vien_opv_00005256_03fe830c5b.jpg",
+          "alternativeText": "Thuốc Ameflu Day Time OPV giảm các triệu chứng cảm lạnh và cảm cúm (10 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_9908_62a7_large_603a19ab17.jpg",
+          "alternativeText": "Thuốc Ameflu Day Time OPV giảm các triệu chứng cảm lạnh và cảm cúm (10 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_4998_62a7_large_683a060a50.jpg",
+          "alternativeText": "Thuốc Ameflu Day Time OPV giảm các triệu chứng cảm lạnh và cảm cúm (10 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_8437_62a7_large_9c0b7ca1c5.jpg",
+          "alternativeText": "Thuốc Ameflu Day Time OPV giảm các triệu chứng cảm lạnh và cảm cúm (10 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_6948_62a7_large_25d8b34686.jpg",
+          "alternativeText": "Thuốc Ameflu Day Time OPV giảm các triệu chứng cảm lạnh và cảm cúm (10 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_8312_62a7_large_75aca87208.jpg",
+          "alternativeText": "Thuốc Ameflu Day Time OPV giảm các triệu chứng cảm lạnh và cảm cúm (10 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_1627297017_f2f5ff4b9e.jpg",
+          "alternativeText": "Thuốc Ameflu Day Time OPV giảm các triệu chứng cảm lạnh và cảm cúm (10 vỉ x 10 viên) 7"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+        "slug": "/thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+      },
+      {
+        "name": "Thuốc giảm đau hạ sốt",
+        "slug": "/thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot"
+      }
+    ],
+    "content": {
+      "sku": "00005256",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Thuốc dùng đường uống.</p><h3><strong>Liều dùng</strong></h3><p>Người lớn và trẻ em từ 12 tuổi trở lên: Uống 1 viên, cách mỗi 6 giờ. Không dùng quá 6 viên/24 giờ.</p><p>Trẻ&nbsp;em 6 – 11 tuổi: Uống 1/2 viên cách mỗi 6 giờ. Không dùng quá 3 viên/24 giờ.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng điều trị cảm cúm bằng Ameflu cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Acetaminophen: Xử lý tùy thuộc vào nồng độ trong huyết tương. Acetylcysteine bảo vệ gan nếu dùng trong khoảng 24 giờ kể từ khi quá liều acetaminophen (hiệu quả nhất nếu dùng trong khoảng 8 giờ). Liều uống đầu tiên là 140mg/kg (liều tải), sau đó cho tiếp 17 liều nữa, mỗi liều 70mg/kg cách nhau 4 giờ một lần. Than hoạt hoặc rửa dạ dày có thể được thực hiện để giảm sự hấp thu của acetaminophen.</p><p>Phenylephrine hydrochloride: Nên điều trị triệu chứng và hỗ trợ.</p><p>Dextromethorphan: Điều trị hỗ trợ và điều trị triệu chứng. Có thế dùng naloxone 2mg tiêm tĩnh mạch, dùng lặp lại nếu cần.</p><p>Quá liều guaifenesin không gây ra các triệu chứng nguy hiểm đến tính mạng.</p><p>Trong trường hợp dùng quá liều, phải liên hệ ngay bác sĩ hoặc đến bệnh viện gần nhất.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Ameflu Day Time.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Ameflu Day Time, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p>Một số trường hợp dị ứng với thuốc hiếm khi xảy ra như phát ban da, ban đỏ, <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mày đay</a>, giảm tiểu cầu, suy gan. Táo dụng phụ khác có thể có là bồn chồn, mất ngủ, tăng huyết áp, loạn nhịp tim, <a href=\"https://nhathuoclongchau.com.vn/benh/hoa-mat-chong-mat-14.html\">chóng mặt</a>, buồn nôn, nôn, kích ứng dạ dày, run, người yếu mệt, ảo giác và khó thở.</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Ở nhiệt độ dưới 30°C, nơi khô ráo, tránh ánh sáng.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/new-ameflu-daytime-2879.html\">Ameflu Day Time</a> được chỉ định dùng trong các trường hợp sau: Làm giảm các triệu chứng trong <a href=\"https://nhathuoclongchau.com.vn/benh/cam-lanh-583.html\">cảm lạnh</a> và cảm <a href=\"https://nhathuoclongchau.com.vn/benh/cum-434.html\">cúm</a> như sốt, ho, các cơn đau, đau họng, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, sung huyết mũi (nghẹt mũi), làm loãng đàm (chất nhầy) và làm loãng dịch tiết phế quản giúp dễ ho hơn.</p><h3><strong>Dược lực học</strong></h3><p>Acetaminophen là chất chuyển hóa có hoạt tính của phenacetin, có tác dụng giảm đau bằng cách ngăn chặn sự phát sinh xung động gây đau ở ngoại vi. Thuốc có tác dụng hạ sốt bằng cách ức chế trung khu điều nhiệt vùng dưới đồi.</p><p>Guaifenesin là một thuốc long đàm, có tác động thúc đẩy hoặc dễ dàng loại bỏ các chất bài tiết từ đường hô hấp.</p><p>Phenylephrine hydrochloride là thuốc giống thần kinh giao cảm có tác dụng trực tiếp lên các thụ thể&nbsp;alpha - 1 adrenergic gây co mạch, giảm sung huyết mũi và xoang.</p><p>Dextromethorphan hydrobromide là thuốc giảm ho, tác dụng lên trung tâm ho ở hành tủy. <a href=\"https://nhathuoclongchau.com.vn/thuoc\">Thuốc</a> không có tác dụng giảm đau và ít tác dụng an thần.</p><h3><strong>Dược động học</strong></h3><p>Acetaminophen được hấp thu nhanh từ đường tiêu hóa với nồng độ đỉnh trong huyết tương đạt được khoảng 30 – 60 phút sau khi uống. Acetaminophen được phân bố trong hầu hết các mô của cơ thể. Acetaminophen qua nhau thai và hiện diện trong sữa mẹ. Thuốc gắn kết với protein huyết tương không đáng kể ở nồng độ điều trị thông thường nhưng tỷ lệ gắn kết sẽ tăng khi nồng độ tăng. Thời gian bán hủy của acetaminophen thay đổi khoảng 1–3 giờ.</p><p>Acetaminophen được chuyển hóa chủ yếu ở gan và bài tiết trong nước tiểu chủ yếu dưới dạng liên hợp glucuronide (60 – 80%) và liên hợp sulfate (20 – 30%). Dưới 5% được bài tiết dưới dạng acetaminophen không đổi. Một phần nhỏ (dưới 4%) được chuyển hóa thông qua hệ thống cytochrome P450.</p><p>Guaifenesin được hấp thu tốt qua đường tiêu hóa. Thuốc được chuyển hóa và sau đó thải trừ qua nước tiểu.</p><p>Phenylephrine hydrochloride được hấp thu bất thường qua đường tiêu hóa và trải qua quá trình chuyển hóa giai đoạn đầu ở ruột và gan nhờ enzyme monoamine oxidase. Phenylephrine được thải trừ gần như hoàn toàn qua nước tiểu.</p><p>Dextromethorphan hydrobromide được hấp thu nhanh qua đường tiêu hóa và có tác dụng trong vòng 15 – 30 phút sau khi uống, kéo dài khoảng 6 – 8 giờ. Thuốc được chuyển hóa ở gan và bài xuất qua nước tiểu dưới dạng không đổi và các chất chuyển hóa demethyl bao gồm dextrophan, cũng có tác dụng giảm ho.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3><strong>Chống chỉ định</strong></h3><p>Thuốc Ameflu Day Time chống chỉ định trong các trường hợp sau:</p><ul><li>Quá mẫn với bất kỳ thành phần nào của thuốc.</li><li>Bệnh nhân đang dùng các thuốc MAOIs.</li><li>Bệnh nhân có bệnh mạch vành và cao huyết áp nặng.</li><li>Thiếu hụt G6PD.</li><li>Bệnh nhân bị suy gan nặng.</li><li>Trẻ em dưới 6 tuổi.</li></ul><h3><strong>Thận trọng khi sử dụng</strong></h3><p>Khi dùng thuốc có chứa acetaminophen, báo sĩ cần cảnh báo cho bệnh nhân về các dấu hiệu của phản ứng trên da nghiêm trọng như <a href=\"https://nhathuoclongchau.com.vn/benh/hoi-chung-stevens-johnson-1098.html\">hội chứng Stevens – Johnson</a> (SJS), hội chứng hoại tử da nhiễm độc (TEN), hay hội chứng lyell, hội chứng ngoại ban mụn mủ toàn thân cấp tính (AGEP).</p><p>Không dùng với các thuốc khác có chứa acetaminophen.</p><p>Tham khảo ý kiến bác sĩ nếu bạn có bệnh tim mạch, bệnh gan, đái tháo đường, cường giáp, ho tiết rất nhiều đàm, cao huyết áp, suy thận, tăng nhãn áp, tiểu khó do phì đại tuyến tiền liệt và ho mạn tính kéo dài do hút thuốc lá, do hen phế quản, viêm phế quản mạn tính hoặc khí phế thủng.</p><p>Ngưng dùng thuốc và tham khảo ý kiến bác sĩ nếu có các triệu chứng mới, đỏ da hoặc sưng phù, cơn đau, sung huyết mũi, ho nặng hơn hoặc kéo dài hơn 7 ngày, sốt nặng hơn hoặc kéo dài hơn 3 ngày, cảm giác bồn chồn, chóng mặt hoặc mất&nbsp;ngủ, ho tái phát hoặc có kèm theo sốt, phát ban da hoặc nhức đầu kéo dài. Đây có thể là dấu hiệu của bệnh lý trầm trọng hơn.</p><h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3><p>Dùng thận trọng khi đang lái xe hoặc vận hành máy móc.</p><h3><strong>Thời kỳ mang thai</strong></h3><p>Nên tham khảo ý kiến bác sĩ trước khi dùng thuốc này.</p><h3><strong>Thời kỳ cho con bú</strong></h3><p>Nên tham khảo ý kiến bác sĩ trước khi dùng thuốc này.</p><h3><strong>Tương tác thuốc</strong></h3><p>Không dùng Ameflu Day Time nếu đang dùng các thuốc ức chế men monoamine oxidase (MAOIs) (một vài thuốc điều trị trầm cảm, bệnh lý tâm thần hay cảm xúc hoặc bệnh Parkinson) hoặc trong vòng 2 tuần sau khi ngưng dùng các thuốc MAOIs. Nếu không biết rõ thuốc đang dùng theo đơn bác sĩ có chứa MAOIs hay không, phải tham khảo ý kiến của bác sĩ hoặc dược sĩ trước khi dùng Ameflu Day Time.</p><p>Các thuốc chống co giật (gồm phenytoin, barbiturate, carbamazepine), isoniazid có thể làm tăng độc tính của acetaminophen trên gan.</p><p>Dùng đồng thời phenylephrine với các amine có tác dụng giống thần kinh giao cảm có thể làm tăng các tác dụng không mong muốn về tim mạch.</p><p>Phenylephrine có thể làm giảm hiệu lực của các thuốc chẹn beta và các thuốc chống tăng huyết áp (bao gồm debrisoquine, guanethidine, reserpine, methyldopa). Nguy cơ tăng huyết áp và các tác dụng không mong muốn trên tim mạch có thể gia tăng.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/thuoc-than-kinh/thuoc-chong-tram-cam\">Thuốc chống trầm cảm</a> ba vòng (amitriptyline, imipramine) có thể làm tăng các tác dụng không mong muốn về tim mạch của phenylephrine.</p><p>Dùng đồng thời phenylephrine với alcaloid nấm cựa gà (ergotamine và methylsergide) làm tăng ngộ độc nấm cựa gà.</p><p>Dùng đồng thời phenylephrine với digoxin làm tăng nguy cơ nhịp tim không bình thường hoặc đau tim.</p><p>Dùng đồng thời phenylephrine với atropine sẽ phong bế tác dụng chậm nhịp tim phản xạ do phenylephrine gây ra.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Ngô Kim Thúy",
+        "position": "Giảng viên TTĐT Long Châu",
+        "bio": "Tốt nghiệp loại giỏi trường Đại học Y Dược Huế. Từng tham gia nghiên cứu khoa học đề tài về Dược liệu. Nhiều năm kinh nghiệm làm việc trong lĩnh vực Dược phẩm. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "",
+        "isLegit": false,
+        "id": 8,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thumbs/thumbnail_Thuy_NK_6_eec089d53d.jpg",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Ameflu Daytime giảm triệu chứng cảm lạnh, cúm",
+        "metaDescription": "Thuốc Ameflu Daytime giúp giảm các triệu chứng trong cảm lạnh và cảm cúm như sốt, ho, đau họng, nhức đầu, sung huyết mũi. Mua ngay tại Long Châu giá tốt",
+        "id": 2774,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_ameflu_day_time_10_vi_x_10_vien_opv_00005256_03fe830c5b.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Ameflu Day Time OPV giảm các triệu chứng cảm lạnh và cảm cúm (10 vỉ x 10 viên)",
+            "description": "Ameflu Day Time dùng để làm giảm các triệu chứng trong cảm lạnh và cảm cúm như sốt, ho, đau họng, nhức đầu, sung huyết mũi (nghẹt mũi), làm loãng đàm (chất nhầy) và làm loãng dịch tiết phế quản giúp dễ ho hơn."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 16501,
+        "title": "Thuốc Ameflu Day Time có tác dụng gì?",
+        "content": "<p>Thuốc Ameflu Day Time được chỉ định dùng trong các trường hợp sau: Làm giảm các triệu chứng trong cảm lạnh và cảm <a href=\"https://nhathuoclongchau.com.vn/benh/cum-434.html\">cúm</a> như sốt, ho, các cơn đau, đau họng, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, sung huyết mũi (nghẹt mũi), làm loãng đàm (chất nhầy) và làm loãng dịch tiết phế quản giúp dễ ho hơn.</p>"
+      },
+      {
+        "id": 16499,
+        "title": "Thuốc Ameflu Day Time có dùng cho trẻ em dưới 6 tuổi không?",
+        "content": "<p>Thuốc Ameflu không dùng cho trẻ em dưới 6 tuổi.</p>"
+      },
+      {
+        "id": 16500,
+        "title": "Những trường hợp không nên dùng thuốc Ameflu Day Time?",
+        "content": "<p>Bệnh nhân đang dùng các thuốc MAOIs, bệnh mạch vành và cao huyết áp nặng, thiếu hụt G6PD, bị suy gan nặng và trẻ em dưới 6 tuổi không nên dùng thuốc Ameflu.</p>"
+      },
+      {
+        "id": 16502,
+        "title": "Khoảng thời gian cách liều của thuốc Ameflu Day Time là bao lâu?",
+        "content": "<p>Thuốc Ameflu Day Time làm giảm các triệu chứng trong cảm lạnh và cảm cúm như sốt, ho, các cơn đau, đau họng, nhức đầu, sung huyết mũi (nghẹt mũi), làm loãng đàm (chất nhầy) và làm loãng dịch tiết phế quản giúp dễ ho hơn.</p>"
+      },
+      {
+        "id": 16503,
+        "title": "Thuốc chống trầm cảm ba vòng (amitriptyline, imipramine) có ảnh hưởng đến thuốc Ameflu Day Time như thế nào?",
+        "content": "<p>Thuốc chống trầm cảm ba vòng (amitriptyline, imipramine) có thể làm tăng các tác dụng không mong muốn về tim mạch của phenylephrine trong Ameflu Day Time.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00032865",
+        "name": "PARACETAMOL STADA 500MG 10X10",
+        "webName": "Viên nén Paracetamol Stada 500mg điều trị các cơn đau đầu, đau thần kinh, đau răng (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00032865_paracetamol_stada_500mg_10x10_4111_61af_large_6bbfac12ff.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 45183,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 50000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/paracetamol-stada-500mg-10x10-32980.html",
+        "ingredients": "Paracetamol 500mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Stada",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 45181,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 45182,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 5000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 45183,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 50000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00030902",
+        "name": "TOVALGAN EF 500MG TRƯỜNG THỌ 5X4 SỦI",
+        "webName": "Viên sủi Tovalgan Ef Trường Thọ Pharma giảm đau, hạ sốt (5 vỉ x 4 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/tovalgan_ef_500mg_5x4_sui_truong_tho_00030902_823d4ec704.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 41165,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 40000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tolvagan-ef-500mg-truong-tho-5x4-sui-31045.html",
+        "ingredients": "Paracetamol 500mg",
+        "dosageForm": "Viên nén sủi bọt",
+        "brand": "Trường Thọ Pharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 4 Viên",
+        "prices": [
+          {
+            "id": 41163,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 2000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 41164,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 8000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 41165,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 40000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00033763",
+        "name": "ACTADOL 500MG MEDIPHARCO 10X10",
+        "webName": "Thuốc Actadol 500 Medipharco điều trị các chứng đau và sốt từ nhẹ đến vừa (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_actadol_500mg_medipharco_10x10_00033763_1b03ff906f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 47271,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/actadol-500mg-medipharco-10x10-33851.html",
+        "ingredients": "Paracetamol 500mg",
+        "dosageForm": "Viên nén",
+        "brand": "Medipharco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 100,
+        "productRanking": 0,
+        "specification": "Hộp 10 vỉ x 10 viên",
+        "prices": [
+          {
+            "id": 47271,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 47273,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 50000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 47272,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 5000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00051542",
+        "name": "ALAXAN FR 325MG/200MG UNITED 10X10",
+        "webName": "Thuốc Alaxan FR United giảm đau nhanh các cơn đau đầu, đau cơ xương khớp, đau răng và hạ sốt (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_alaxan_fr_325mg_200mg_united_10x10_00051542_1_becda2a6b8.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 81759,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 150000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/alaxan-fr-325-mg-200-mg-united-10-x10.html",
+        "ingredients": "Paracetamol micronized 325mg, Ibuprofen 200mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "United",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 81759,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 150000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 81760,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 15000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 81761,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 1500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049475",
+        "name": "AMEFLU KHÔNG GÂY BUỒN NGỦ OPV 10X10",
+        "webName": "Thuốc Ameflu Không Gây Buồn Ngủ OPV điều trị các triệu chứng cảm lạnh và cảm cúm (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_ameflu_khong_gay_buon_ngu_10x10_opv_00049475_1_b7a48276fe.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 78005,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 1100,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/ameflu-khong-gay-buon-ngu-opv-10-x10.html",
+        "ingredients": "Paracetamol 500mg, Phenylephrine hydrochloride 5mg, Caffeine 25mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Opv",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 78003,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 110000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 78004,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 11000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 78005,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 1100,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00503075",
+        "name": "PANACTOL 250MG KHAPHARCO 48 GÓI X 1.5G",
+        "webName": "Bột sủi Panactol 250mg Khapharco vị ngọt, không đắng, hạ sốt, giảm đau cho trẻ (48 gói x 1.5g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503075_panactol_250mg_khapharco_48_goi_x_15g_6773_63b6_large_ce8166f80d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 53628,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 81600,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/panactol-250mg-khapharco-48-goi-x-15g-37384.html",
+        "ingredients": "Paracetamol 250mg",
+        "dosageForm": "Bột sủi bọt",
+        "brand": "Khapharco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 48 Gói x 1.5g",
+        "prices": [
+          {
+            "id": 53627,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 1700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 53628,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 81600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00503072",
+        "name": "PANACTOL 150MG KHAPHARCO 48 GÓI X 1.5G",
+        "webName": "Bột sủi Panactol 150mg Khapharco vị ngọt, không đắng, hạ sốt, giảm đau cho trẻ (48 gói x 1.5g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503072_panactol_150mg_khapharco_48_goi_x_15g_3643_63b6_large_5888de4a0b.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 53621,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 72000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/panactol-150mg-khapharco-48-goi-x-15g-37387.html",
+        "ingredients": "Paracetamol 150mg",
+        "dosageForm": "Bột sủi bọt",
+        "brand": "Khapharco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 48 Gói x 1.5g",
+        "prices": [
+          {
+            "id": 53621,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 72000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 53620,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 1500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00033576",
+        "name": "PANACTOL 500MG KHÁNH HÒA 10X10",
+        "webName": "Viên nén Panactol 500mg Khapharco giảm đau, hạ sốt, điều trị đau đầu, đau răng (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_panactol_500mg_khanh_hoa_10x10_00033576_9d2006dbed.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 46946,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 400,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/panactol-500mg-khanh-hoa-10x10-33672.html",
+        "ingredients": "Paracetamol 500mg",
+        "dosageForm": "Viên nén",
+        "brand": "Khapharco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 46948,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 40000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 46947,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 4000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 46946,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00018235",
+        "name": "GLOTADOL 650 ABBOTT 200V",
+        "webName": "Thuốc Glotadol 650 Abbott hỗ trợ hạ sốt và giảm đau (200 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00068_62b230be69.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 23050,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 130000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/glotadol-650-glomex-200v-19557.html",
+        "ingredients": "Acetaminophen 650mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Abbott",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 200 Viên",
+        "prices": [
+          {
+            "id": 23050,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 130000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 23049,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 650,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 248,
+          "attributeName": "Hoa Kỳ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/us_United_States_of_America_usa_59e1ad3af3.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00021697",
+        "name": "PANACTOL EXTRA KHAPHARCO PHARM 10X10 ĐỎ",
+        "webName": "Viên nén Panactol Extra Khapharco hạ sốt, giảm đau (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/panactol_extra_10x10_do_khapharco_pharm_00021697_21633db3bf.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 27305,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 60000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/panactol-extra-kh-10x10-22050.html",
+        "ingredients": "Cafein 65mg, Paracetamol 500mg",
+        "dosageForm": "Viên nén",
+        "brand": "Khapharco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 27303,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 27305,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 27304,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00030828",
+        "name": "GLOTADOL 250MG ABBOTT 20 GÓI X 2.5G",
+        "webName": "Bột Glotadol 250 Abbott hỗ trợ hạ sốt và giảm đau (20 gói x 2.5g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/glotadol_250mg_20_goi_x_2_5g_abbott_00030828_d0843f0a83.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 40995,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 48000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/glotadol-250mg-abbott-glomed-20-goi-x-25g-30975.html",
+        "ingredients": "Paracetamol 250mg",
+        "dosageForm": "Bột pha hỗn dịch uống",
+        "brand": "Abbott",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 20 gói X 2.5g",
+        "prices": [
+          {
+            "id": 40994,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": false,
+            "price": 2400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 40995,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 48000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 248,
+          "attributeName": "Hoa Kỳ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/us_United_States_of_America_usa_59e1ad3af3.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00030829",
+        "name": "GLOTADOL 150MG ABBOTT 20 GÓI X 2G",
+        "webName": "Bột Glotadol 150 Abbott hỗ trợ hạ sốt và giảm các cơn đau do cảm cúm (20 gói x 2g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/glotadol_150mg_20_goi_x_2g_abbott_00030829_2b2121f398.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 768,
+            "name": "Thuốc giảm đau hạ sốt",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-ha-sot",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 40997,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 44000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/glotadol-150mg-abbott-glomed-20-goi-x-2g-30976.html",
+        "ingredients": "Paracetamol 150mg",
+        "dosageForm": "Bột pha hỗn dịch uống",
+        "brand": "Abbott",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 20 gói X 2g",
+        "prices": [
+          {
+            "id": 40996,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": false,
+            "price": 2200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 40997,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 44000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 248,
+          "attributeName": "Hoa Kỳ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/us_United_States_of_America_usa_59e1ad3af3.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 42,
+      "items": [
+        {
+          "id": 3367033,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0987xxxxxx",
+          "name": "thanh vũ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá sao shop",
+          "createdAt": "2026-09-02 10:09:45",
+          "createdAtDisplay": "3 ngày trước",
+          "updatedAt": "2026-09-02 10:09:45",
+          "replies": [
+            {
+              "id": 3367037,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Chu Thị Quỳnh",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Chu Thị Quỳnh",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Vũ, </p><p>Hiện tại, sản phẩm có giá 145,000 ₫/hộp ạ</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-09-02 10:10:35",
+              "createdAtDisplay": "3 ngày trước",
+              "updatedAt": "2026-09-02 10:09:45",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3351322,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0929xxxxxx",
+          "name": "vĩnh tường",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá 1 hộp",
+          "createdAt": "2026-08-03 19:23:34",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-08-03 19:23:34",
+          "replies": [
+            {
+              "id": 3351356,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trương Anh Thư",
+                "moderatorEmail": "thuta13@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trương Anh Thư",
+              "email": "thuta13@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Tường,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-08-03 19:45:22",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-08-03 19:23:34",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3309316,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0980xxxxxx",
+          "name": "kiến",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 hộp",
+          "createdAt": "2026-05-19 15:41:13",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-19 15:41:13",
+          "replies": [
+            {
+              "id": 3309317,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Bùi Cường Vi",
+                "moderatorEmail": "vibc@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Bùi Cường Vi",
+              "email": "vibc@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Kiến,</p><p>Hiện tại, sản phẩm Thuốc Ameflu Day Time OPV giảm các triệu chứng cảm lạnh và cảm cúm (10 vỉ x 10 viên) có giá 145,000 ₫/hộp ạ.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-05-19 15:41:51",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-19 15:41:13",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3283292,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0333xxxxxx",
+          "name": "chị liễu",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cho chị xin giá 1 hộp",
+          "createdAt": "2026-03-31 20:40:27",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-31 20:40:27",
+          "replies": [
+            {
+              "id": 3283297,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Mạnh Hà",
+                "moderatorEmail": "hahm5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Mạnh Hà",
+              "email": "hahm5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Liễu,</p><p>Hiện tại, sản phẩm AMEFLU DAY TIME OPV 10X10 có giá 145,000 ₫/ 1 hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> </strong>để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-03-31 20:44:03",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-31 20:40:27",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3258912,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0980xxxxxx",
+          "name": "tâm",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 hộp vậy ?",
+          "createdAt": "2026-02-09 14:37:43",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-09 14:37:43",
+          "replies": [
+            {
+              "id": 3258931,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Mạnh Hà",
+                "moderatorEmail": "hahm5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Mạnh Hà",
+              "email": "hahm5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Tâm,</p><p>Hiện tại, sản phẩm AMEFLU DAY TIME OPV 10X10  có giá 145,000 ₫/1 hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> </strong>để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-02-09 15:04:26",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-09 14:37:43",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 3,
+      "items": [
+        {
+          "id": 176528,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0897xxxxxx",
+          "name": "Ngọc Khánh",
+          "email": "",
+          "score": 4,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này giá bán sao ạ",
+          "createdAt": "2023-07-03 20:54:56",
+          "createdAtDisplay": "03/07/2023",
+          "updatedAt": "2023-07-03 20:55:46",
+          "replies": [
+            {
+              "id": 176530,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thanh Tân",
+                "moderatorEmail": "tanht11@fpt.com.vn",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Hoàng Thanh Tân",
+              "email": "tanht11@fpt.com.vn",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<div style=\"font-family: Roboto;\">Chào bạn Khánh,</div><div style=\"font-family: Roboto;\">Dạ sản phẩm có giá 145.000 đồng/hộp. Dạ sẽ có dược sĩ liên hệ tư vấn theo SĐT bạn đã để lại ạ.\nThân mến!\n</div>",
+              "createdAt": "2023-07-03 20:55:47",
+              "createdAtDisplay": "03/07/2023",
+              "updatedAt": "2023-07-03 20:55:46",
+              "replies": []
+            },
+            {
+              "id": 2365740,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0912xxxxxx",
+              "name": "Tâm",
+              "email": "",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "giờ giá bao nhiêu rồi ak",
+              "createdAt": "2024-10-08 15:07:54",
+              "createdAtDisplay": "08/10/2024",
+              "updatedAt": "2023-07-03 20:55:46",
+              "replies": []
+            },
+            {
+              "id": 2365746,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Cao Thị Ngọc Nhi",
+                "moderatorEmail": "Nhictn2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Cao Thị Ngọc Nhi",
+              "email": "Nhictn2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Tâm,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Dạ sản phẩm có giá 145.000đ/ hộp.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Thân mến!</span></p>",
+              "createdAt": "2024-10-08 15:08:27",
+              "createdAtDisplay": "08/10/2024",
+              "updatedAt": "2023-07-03 20:55:46",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 173999,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0777xxxxxx",
+          "name": "Đức Cương",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2023-06-29 17:15:03",
+          "createdAtDisplay": "29/06/2023",
+          "updatedAt": "2023-06-29 17:16:40",
+          "replies": [
+            {
+              "id": 174004,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Đặng Thị Cẩm Tiên",
+                "moderatorEmail": "TienDTC7@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Đặng Thị Cẩm Tiên",
+              "email": "TienDTC7@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<div style=\"font-family: Roboto;\"><p>Chào bạn Đức Cương,</p></div><div style=\"font-family: Roboto;\"><div class=\"headerText___1ftRt\"></div></div><div style=\"font-family: Roboto;\"><p>Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu. Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được hỗ trợ tư vấn và đặt hàng. Thân mến!</p><br class=\"Apple-interchange-newline\"></div>",
+              "createdAt": "2023-06-29 17:16:41",
+              "createdAtDisplay": "29/06/2023",
+              "updatedAt": "2023-06-29 17:16:40",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 157657,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0385xxxxxx",
+          "name": "Mỹ Hương",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mua ngay đợt khuyến mãi của LC thích quá",
+          "createdAt": "2023-05-24 16:50:12",
+          "createdAtDisplay": "24/05/2023",
+          "updatedAt": "2023-05-24 16:50:12",
+          "replies": [
+            {
+              "id": 157659,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Huỳnh Khánh Uyên",
+                "moderatorEmail": "UyenMHK@fpt.com.vn",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Mai Huỳnh Khánh Uyên",
+              "email": "UyenMHK@fpt.com.vn",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<div style=\"font-family: Roboto;\">Chào bạn Hương,&nbsp;</div><div style=\"font-family: Roboto;\">Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu. Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được hỗ trợ tư vấn và đặt hàng. \nThân mến!\n</div>",
+              "createdAt": "2023-05-24 16:50:50",
+              "createdAtDisplay": "24/05/2023",
+              "updatedAt": "2023-05-24 16:50:12",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 4.6,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 1,
+        "totalLv5": 2
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Ameflu Day Time OPV giảm các triệu chứng cảm lạnh và cảm cúm (10 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_ameflu_day_time_10_vi_x_10_vien_opv_00005256_03fe830c5b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_9908_62a7_large_603a19ab17.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_4998_62a7_large_683a060a50.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_8437_62a7_large_9c0b7ca1c5.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_6948_62a7_large_25d8b34686.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005256_new_ameflu_daytime_8312_62a7_large_75aca87208.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Ameflu Day Time dùng để làm giảm các triệu chứng trong cảm lạnh và cảm cúm như sốt, ho, đau họng, nhức đầu, sung huyết mũi (nghẹt mũi), làm loãng đàm (chất nhầy) và làm loãng dịch tiết phế quản giúp dễ ho hơn.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.6",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ngô Kim Thúy"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.6",
+        "reviewCount": "3"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Ameflu Daytime giảm triệu chứng cảm lạnh, cúm",
+      "description": "Thuốc Ameflu Daytime giúp giảm các triệu chứng trong cảm lạnh và cảm cúm như sốt, ho, đau họng, nhức đầu, sung huyết mũi. Mua ngay tại Long Châu giá tốt",
+      "openGraph": {
+        "title": "Thuốc Ameflu Day Time OPV giảm các triệu chứng cảm lạnh và cảm cúm (10 vỉ x 10 viên)",
+        "description": "Ameflu Day Time dùng để làm giảm các triệu chứng trong cảm lạnh và cảm cúm như sốt, ho, đau họng, nhức đầu, sung huyết mũi (nghẹt mũi), làm loãng đàm (chất nhầy) và làm loãng dịch tiết phế quản giúp dễ ho hơn.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_ameflu_day_time_10_vi_x_10_vien_opv_00005256_03fe830c5b.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/new-ameflu-daytime-2879.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/new-ameflu-daytime-2879.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

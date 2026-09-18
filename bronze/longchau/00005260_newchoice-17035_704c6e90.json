@@ -1,0 +1,1551 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/newchoice-17035.html",
+  "ingestion_timestamp": "2026-09-05T10:42:28.529961+00:00",
+  "file_hash": "f4d60b8be9e208545c583d1e997e40f48b8e85c3526c316680de383ea38078c4",
+  "lineage_hash": "7f7469cf2097b23809211750edc395942ae35df37e0ee184f28454bade5c70cd",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/newchoice-17035.html",
+    "product": {
+      "sku": "00005260",
+      "webName": "Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên)",
+      "name": "NEWCHOICE NAM HÀ 25 HỘP X 28V",
+      "shortName": "NEWCHOICE NAM HÀ 25 HỘP X 28V",
+      "headingText": "Thuốc Newchoice",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_6143_63db_large_40874d33b8.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_4268_63db_large_dfa33c524b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_2943_63db_large_57829ddbab.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_8540_63db_large_b8fb4f756f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_1636_63db_large_447d3fe5b7.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_2999_63db_large_3506521612.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_3490_63db_large_76a96557d2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_8420_63db_large_3efee43f2f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_5549_63db_large_a28b66b97e.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_6413_63db_large_b18e9ac6f5.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_1675319692_2c79b35dae.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 738,
+          "name": "Thuốc tiết niệu - sinh dục",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 817,
+          "name": "Thuốc tránh thai",
+          "parentName": "Thuốc tiết niệu - sinh dục",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tranh-thai",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 19,
+          "measureUnitName": "Kít",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Kít 25 Hộp x 28 Viên"
+        },
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "25 Hộp x 28 Viên"
+        }
+      ],
+      "slug": "thuoc/newchoice-17035.html",
+      "ingredient": [
+        {
+          "id": 35045,
+          "ingredientId": 20215,
+          "shortDescription": "75mg",
+          "name": "Ferrous fumarate",
+          "isPrimary": false,
+          "slug": "thanh-phan/ferrous-fumarate"
+        },
+        {
+          "id": 35046,
+          "ingredientId": 19608,
+          "shortDescription": "0.03mg",
+          "name": "Ethinylestradiol",
+          "isPrimary": false,
+          "slug": "thanh-phan/ethinylestradiol"
+        },
+        {
+          "id": 35047,
+          "ingredientId": 25436,
+          "shortDescription": "0.125mg",
+          "name": "Levonorgestrel",
+          "isPrimary": false,
+          "slug": "thanh-phan/levonorgestrel"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893110641024",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p style=\"text-align:justify;\">Thuốc dùng đường uống.</p><h3><strong>Liều dùng</strong></h3><p><i>Cách bắt đầu uống vỉ NewChoice đầu tiên:</i></p><p>Uống viên vàng thứ nhất vào ngày đầu tiên của chu kỳ kinh nguyệt (ngày bắt đầu hành kinh). Uống mỗi ngày một viên cho đến khi hết vỉ thuốc.</p><p>Uống hết 21 viên vàng trước khi uống 7 viên nâu. Hết vỉ thuốc này uống vỉ thuốc khác không cần chờ kỳ kinh mới. Chỉ bắt đầu một vì mới khi đã uống hết vỉ thuốc cũ.</p><p>Nếu uống viên thuốc đầu tiên vào ngày đầu hành kinh và không quên một viên nào trong vỉ thuốc thì không cần phải dùng thêm bất kỳ một biện pháp tránh thai hỗ trợ nào khác.</p><p><i>Sau sảy thai hoặc nạo hút thai:</i></p><p>Nên bắt đầu uống viên NewChoice đầu tiên trong vòng 5 ngày sau khi sảy thai hoặc nạo hút thai.</p><p>Nếu lỡ quên một hoặc nhiều viên thuốc tránh thai (viên màu vàng):</p><p>Lỡ quên uống 1 - 2 viên thuốc ở bất kỳ thời điểm nào; cần uống viên bị quên cuối cùng đó ngay khi nhớ ra (bỏ qua viên quên trước đó) và uống các viên kế tiếp như thường lệ. Không cần sử dụng thêm biện pháp tránh thai bổ sung hay biện pháp tránh thai khẩn cấp. Trong trường hợp nếu bắt đầu một vị thuốc mới mà uống muộn mất 1 - 2 ngày thì cũng áp dụng cách uống này.</p><p>Lỡ quên uống 3 viên thuốc hoặc nhiều hơn ở bất kỳ thời điểm nào:&nbsp;</p><p>Uống viên bị quên cuối cùng đó ngay khi nhớ ra (bỏ qua các viên trước đó) và uống các viên kế tiếp như thường lệ.<br>Nên dùng bao cao su hoặc kiêng giao hợp cho đến khi uống liên tiếp được 7 viên tránh thai.&nbsp;</p><p>Ngoài ra: Trong trường hợp nếu bắt đầu uống một vị thuốc mới muộn mất 3 ngày hoặc muộn hơn thì cũng áp dụng cách uống này. Ngoài ra nên áp dụng 1 biện pháp tránh thai khẩn cấp nếu các viên bị quên uống ở tuần đầu tiên và có giao hợp không bảo vệ khi đang uống viên sắt của vỉ thuốc trước hoặc đúng trong tuần đầu quên thuốc (tuần đầu tiên).</p><p>Nếu lỡ quên uống thuốc ở tuần thứ 3, uống viên bị quân cuối cùng đó ngay khi nhớ ra và uống hết viên tránh thai, sau đó bỏ qua 7 viên sắt (viên màu nâu) của vỉ đang uống và bắt đầu uống ngay 1 vì thuốc mới sau khi đã dùng hết viên tránh thai của vị cũ.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p style=\"text-align:justify;\">Trong trường hợp quá liều, gọi ngay cho bác sĩ, hoặc nếu bệnh nhân có dấu hiệu quá liều như suy hô hấp hãy gọi trung tâm cấp cứu 115.</p><h3><strong>Làm gì khi quên liều?</strong></h3><p style=\"text-align:justify;\">Nếu lỡ quên một ngày thì hôm sau uống ngay viên bỏ quên cộng với viên quy định; lỡ quên hai ngày thì hôm tiếp sau uống ngay 2 viên đã quên cộng với viên quy định; cần bổ sung biện pháp tránh thai khác như bao cao su hoặc kiêng giao hợp.<br>Nếu tiêu chảy hoặc ói mửa trong vòng 4 giờ sau khi uống thuốc thì nên dùng bổ sung biện pháp tránh thai khác như đã nói.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc tránh thai NewChoice có thể dùng để tránh thai thường nhật hay khẩn cấp.</p><h3><strong>Dược lực học</strong></h3><p>Các chất nội tiết tố có trong viên uống tránh thai làm cho người phụ nữ vẫn có kinh nhưng không rụng trứng nên không có thai. Các chất này cũng làm cho chất nhờn ở cổ dạ con đặc lại ngăn cản không cho tinh trùng đi vào buồng dạ con để thụ tinh và làm cho bề mặt của dạ con không thích hợp để cho trứng làm tổ.</p><h3><strong>Dược động học</strong></h3><p>Ethinylestradiol có trong NEWCHOICE sau khi uống khả dụng sinh học là 51 ± 9%. Bài tiết qua nước tiểu: 1 - 5%. Gắn với huyết tương: 95 - 98%.</p><p>Độ thanh thải: 5,4 ± 2,1ml.phút<sup>-1</sup>kg<sup>-1</sup>.</p><p>Thể tích phân bố: 3,5 ± 1,0 lít/kg. Nửa đời: 10 ± 6 giờ. Khả dụng sinh học khi uống đặc biệt cao do có nhóm ethinyl ở vị trí C17, điều này ức chế chuyển hóa lần đầu ở gan.</p><p>Ethinylestradiol được chuyển hóa qua quá trình 2 - hydroxyl hóa và tạo nên 2 và 3 - methyl ester tương ứng, sau đó Ethinylestradiol được thanh thải chậm và nửa đời thải trừ được một số công trình thông báo là 13 - 27 giờ.</p><p>Sau khi uống Levonorgestrel có trong thuốc được hấp thu nhanh chóng và hoàn toàn ở đường tiêu hóa và không bị chuyển hóa bước đầu ở gan.</p><p>Sinh khả dụng của levonorgestrel hầu như bằng 100%. Trong huyết thanh levonorgestrel liên kết với globulin gắn hormon sinh dục (SHBG) và với albumin.</p><p>Con đường chuyển hóa quan trọng nhất của levonorgestrel là khử oxy tiếp sau là liên hợp. Tốc độ thanh thải của thuốc có thể khác nhau nhiều lần giữa các cá thể nửa đời thải trừ của thuốc ở trạng thái ổn định xấp xỉ 36 ± 13 giờ. Levonorgestrel và các chất chuyển hóa bài tiết qua nước tiểu và phân.</p>",
+      "brand": "Nam Hà",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc tránh thai NewChoice thường gặp các tác dụng không mong muốn (ADR).</p><ul><li>Hiếm gặp, đôi khi buồn nôn, đau đầu, cǎng tức vú, tǎng cân... Những biểu hiện này thường mất đi sau vài chu kỳ đầu dùng thuốc. Trong thời gian dùng thuốc có thể ra máu bất thường giữa hai kỳ kinh do cơ thể đang điều chỉnh để thích nghi thuốc; tuy nhiên hiện tượng này thường nhẹ, sẽ hết trong 1 - 2 ngày, không cần ngừng thuốc.</li><li style=\"text-align:justify;\">Có các biểu hiện bất thường nặng như đau đầu nặng hoặc bất cứ khó chịu nào; ra máu nặng và kéo dài, không kinh thì nên gặp ngay thầy thuốc.</li></ul>",
+      "specification": "Kít 25 Hộp x 28 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "Nam Hà",
+      "shortDescription": "<p style=\"text-align:justify;\">Thuốc tránh thai NewChoice là sản phẩm của Công ty Cổ phần Dược phẩm Nam Hà chứa hoạt chất&nbsp;Levonorgestrel có thể dùng để tránh thai thường nhật hay khẩn cấp (tùy vào liều dùng), vì vậy NewChoice là sản phẩm được lựa chọn bởi số đông phụ nữ Việt Nam.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Suy gan thận"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/nam-ha",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "NEW CHOI.V28V",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "60 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 2,
+        "productSpecs": "25 Hộp x 28 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 817,
+        "name": "Thuốc tránh thai",
+        "parentName": "Thuốc tiết niệu - sinh dục",
+        "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tranh-thai",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_6143_63db_large_40874d33b8.jpg",
+          "alternativeText": "Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_4268_63db_large_dfa33c524b.jpg",
+          "alternativeText": "Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_2943_63db_large_57829ddbab.jpg",
+          "alternativeText": "Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_8540_63db_large_b8fb4f756f.jpg",
+          "alternativeText": "Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_1636_63db_large_447d3fe5b7.jpg",
+          "alternativeText": "Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_2999_63db_large_3506521612.jpg",
+          "alternativeText": "Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_3490_63db_large_76a96557d2.jpg",
+          "alternativeText": "Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_8420_63db_large_3efee43f2f.jpg",
+          "alternativeText": "Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_5549_63db_large_a28b66b97e.jpg",
+          "alternativeText": "Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_6413_63db_large_b18e9ac6f5.jpg",
+          "alternativeText": "Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên) 10"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_1675319692_2c79b35dae.jpg",
+          "alternativeText": "Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên) 11"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiết niệu - sinh dục",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc"
+      },
+      {
+        "name": "Thuốc tránh thai",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tranh-thai"
+      }
+    ],
+    "content": {
+      "sku": "00005260",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p style=\"text-align:justify;\">Thuốc dùng đường uống.</p><h3><strong>Liều dùng</strong></h3><p><i>Cách bắt đầu uống vỉ NewChoice đầu tiên:</i></p><p>Uống viên vàng thứ nhất vào ngày đầu tiên của chu kỳ kinh nguyệt (ngày bắt đầu hành kinh). Uống mỗi ngày một viên cho đến khi hết vỉ thuốc.</p><p>Uống hết 21 viên vàng trước khi uống 7 viên nâu. Hết vỉ thuốc này uống vỉ thuốc khác không cần chờ kỳ kinh mới. Chỉ bắt đầu một vì mới khi đã uống hết vỉ thuốc cũ.</p><p>Nếu uống viên thuốc đầu tiên vào ngày đầu hành kinh và không quên một viên nào trong vỉ thuốc thì không cần phải dùng thêm bất kỳ một biện pháp tránh thai hỗ trợ nào khác.</p><p><i>Sau sảy thai hoặc nạo hút thai:</i></p><p>Nên bắt đầu uống viên NewChoice đầu tiên trong vòng 5 ngày sau khi sảy thai hoặc nạo hút thai.</p><p>Nếu lỡ quên một hoặc nhiều viên thuốc tránh thai (viên màu vàng):</p><p>Lỡ quên uống 1 - 2 viên thuốc ở bất kỳ thời điểm nào; cần uống viên bị quên cuối cùng đó ngay khi nhớ ra (bỏ qua viên quên trước đó) và uống các viên kế tiếp như thường lệ. Không cần sử dụng thêm biện pháp tránh thai bổ sung hay biện pháp tránh thai khẩn cấp. Trong trường hợp nếu bắt đầu một vị thuốc mới mà uống muộn mất 1 - 2 ngày thì cũng áp dụng cách uống này.</p><p>Lỡ quên uống 3 viên thuốc hoặc nhiều hơn ở bất kỳ thời điểm nào:&nbsp;</p><p>Uống viên bị quên cuối cùng đó ngay khi nhớ ra (bỏ qua các viên trước đó) và uống các viên kế tiếp như thường lệ.<br>Nên dùng bao cao su hoặc kiêng giao hợp cho đến khi uống liên tiếp được 7 viên tránh thai.&nbsp;</p><p>Ngoài ra: Trong trường hợp nếu bắt đầu uống một vị thuốc mới muộn mất 3 ngày hoặc muộn hơn thì cũng áp dụng cách uống này. Ngoài ra nên áp dụng 1 biện pháp tránh thai khẩn cấp nếu các viên bị quên uống ở tuần đầu tiên và có giao hợp không bảo vệ khi đang uống viên sắt của vỉ thuốc trước hoặc đúng trong tuần đầu quên thuốc (tuần đầu tiên).</p><p>Nếu lỡ quên uống thuốc ở tuần thứ 3, uống viên bị quân cuối cùng đó ngay khi nhớ ra và uống hết viên tránh thai, sau đó bỏ qua 7 viên sắt (viên màu nâu) của vỉ đang uống và bắt đầu uống ngay 1 vì thuốc mới sau khi đã dùng hết viên tránh thai của vị cũ.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p style=\"text-align:justify;\">Trong trường hợp quá liều, gọi ngay cho bác sĩ, hoặc nếu bệnh nhân có dấu hiệu quá liều như suy hô hấp hãy gọi trung tâm cấp cứu 115.</p><h3><strong>Làm gì khi quên liều?</strong></h3><p style=\"text-align:justify;\">Nếu lỡ quên một ngày thì hôm sau uống ngay viên bỏ quên cộng với viên quy định; lỡ quên hai ngày thì hôm tiếp sau uống ngay 2 viên đã quên cộng với viên quy định; cần bổ sung biện pháp tránh thai khác như bao cao su hoặc kiêng giao hợp.<br>Nếu tiêu chảy hoặc ói mửa trong vòng 4 giờ sau khi uống thuốc thì nên dùng bổ sung biện pháp tránh thai khác như đã nói.</p>",
+      "referenceSource": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<?xml encoding=\"utf-8\" ?>\n",
+      "adverseEffect": "<p>Khi sử dụng thuốc tránh thai NewChoice thường gặp các tác dụng không mong muốn (ADR).</p><ul><li>Hiếm gặp, đôi khi buồn nôn, đau đầu, cǎng tức vú, tǎng cân... Những biểu hiện này thường mất đi sau vài chu kỳ đầu dùng thuốc. Trong thời gian dùng thuốc có thể ra máu bất thường giữa hai kỳ kinh do cơ thể đang điều chỉnh để thích nghi thuốc; tuy nhiên hiện tượng này thường nhẹ, sẽ hết trong 1 - 2 ngày, không cần ngừng thuốc.</li><li style=\"text-align:justify;\">Có các biểu hiện bất thường nặng như đau đầu nặng hoặc bất cứ khó chịu nào; ra máu nặng và kéo dài, không kinh thì nên gặp ngay thầy thuốc.</li></ul>",
+      "preservation": "<p style=\"text-align:justify;\">Bảo quản ở nơi khô thoáng, 30 độ C.</p>\n\n<p style=\"text-align:justify;\">Tránh ánh sáng trực tiếp.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc tránh thai NewChoice có thể dùng để tránh thai thường nhật hay khẩn cấp.</p><h3><strong>Dược lực học</strong></h3><p>Các chất nội tiết tố có trong viên uống tránh thai làm cho người phụ nữ vẫn có kinh nhưng không rụng trứng nên không có thai. Các chất này cũng làm cho chất nhờn ở cổ dạ con đặc lại ngăn cản không cho tinh trùng đi vào buồng dạ con để thụ tinh và làm cho bề mặt của dạ con không thích hợp để cho trứng làm tổ.</p><h3><strong>Dược động học</strong></h3><p>Ethinylestradiol có trong NEWCHOICE sau khi uống khả dụng sinh học là 51 ± 9%. Bài tiết qua nước tiểu: 1 - 5%. Gắn với huyết tương: 95 - 98%.</p><p>Độ thanh thải: 5,4 ± 2,1ml.phút<sup>-1</sup>kg<sup>-1</sup>.</p><p>Thể tích phân bố: 3,5 ± 1,0 lít/kg. Nửa đời: 10 ± 6 giờ. Khả dụng sinh học khi uống đặc biệt cao do có nhóm ethinyl ở vị trí C17, điều này ức chế chuyển hóa lần đầu ở gan.</p><p>Ethinylestradiol được chuyển hóa qua quá trình 2 - hydroxyl hóa và tạo nên 2 và 3 - methyl ester tương ứng, sau đó Ethinylestradiol được thanh thải chậm và nửa đời thải trừ được một số công trình thông báo là 13 - 27 giờ.</p><p>Sau khi uống Levonorgestrel có trong thuốc được hấp thu nhanh chóng và hoàn toàn ở đường tiêu hóa và không bị chuyển hóa bước đầu ở gan.</p><p>Sinh khả dụng của levonorgestrel hầu như bằng 100%. Trong huyết thanh levonorgestrel liên kết với globulin gắn hormon sinh dục (SHBG) và với albumin.</p><p>Con đường chuyển hóa quan trọng nhất của levonorgestrel là khử oxy tiếp sau là liên hợp. Tốc độ thanh thải của thuốc có thể khác nhau nhiều lần giữa các cá thể nửa đời thải trừ của thuốc ở trạng thái ổn định xấp xỉ 36 ± 13 giờ. Levonorgestrel và các chất chuyển hóa bài tiết qua nước tiểu và phân.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3><strong>Chống chỉ định</strong></h3><p>Thuốc tránh thai NewChoice chống chỉ định trong các trường hợp sau:</p><ul><li>Phụ nữ mang thai.</li><li>Bệnh nhân&nbsp;mắc các bệnh liên quan đến gan mật.</li><li>Người có tiền sử vàng da khi mang thai, người mắc xuất huyết âm đạo, người mắc ung thư buồng trứng, tử cung.</li></ul><h3><strong>Thận trọng khi sử dụng</strong></h3><p>Với những người bị bệnh tim, bệnh gan, huyết áp cao, đái đường, người trên 35 tuổi hút thuốc lá, người đang sử dụng thuốc chữa lao và những người phát hiện có ung thư ở vú hoặc cơ quan sinh dục.</p><h3><strong>Tương tác thuốc</strong></h3><p>Xem thông tin chi tiết trên tờ hướng dẫn sử dụng trong hộp thuốc.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Từ Vĩnh Khánh Tường",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp Khoa Dược trường Đại học Võ Trường Toản. Có nhiều năm kinh nghiệm trong ngành Dược. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-tu-vinh-khanh-tuong",
+        "isLegit": true,
+        "id": 7,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ds_khanh_tuong_1_592bf2eb07.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_6143_63db_large_40874d33b8.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên)",
+            "description": "Thuốc tránh thai NewChoice là sản phẩm của Công ty Cổ phần Dược phẩm Nam Hà chứa hoạt chất&nbsp;Levonorgestrel có thể dùng để tránh thai thường nhật hay khẩn cấp (tùy vào liều dùng), vì vậy NewChoice là sản phẩm được lựa chọn bởi số đông phụ nữ Việt Nam."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 9599,
+        "title": "Cách sử dụng thuốc tránh thai NewChoice?",
+        "content": "<p>Cách bắt đầu uống vỉ NewChoice đầu tiên: Uống viên vàng thứ nhất vào ngày đầu tiên của chu kỳ kinh nguyệt (ngày bắt đầu hành kinh). Uống mỗi ngày 1 viên cho đến khi hết vỉ thuốc. Uống hết 21 viên vàng trước khi uống 7 viên nâu. Hết vỉ thuốc này uống vỉ thuốc khác không cần chờ kỳ kinh mới. Chỉ bắt đầu một vỉ mới khi đã uống hết vỉ thuốc cũ.</p>"
+      },
+      {
+        "id": 9601,
+        "title": "Bệnh nhân sau nạo hút thai bao lâu có thể sử thuốc tránh thai NewChoice?",
+        "content": "<p>Bệnh nhân sau <a href=\"https://nhathuoclongchau.com.vn/benh/nao-pha-thai-489.html\">nạo hút thai</a> trong vòng 5 ngày nên bắt đầu uống viên Newchoice đầu tiên (viên màu vàng) để đạt hiệu quả tránh thai tốt nhất.</p>"
+      },
+      {
+        "id": 9603,
+        "title": "Nếu sử dụng quá liều thuốc tránh thai NewChoice thì cần làm gì?",
+        "content": "<p>Người dùng nếu sử dụng quá liều thuốc tránh thai NewChoice có thể bị buồn <a href=\"https://nhathuoclongchau.com.vn/benh/non-873.html\">nôn</a> và khi ngừng thuốc có thể gây chảy máu. Cần thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được điều trị triệu chứng và hỗ trợ.</p>"
+      },
+      {
+        "id": 9602,
+        "title": "Nếu lỡ quên uống thuốc tránh thai NewChoice ở tuần thứ 3 cần làm gì?",
+        "content": "<p>Nếu lỡ quên một hoặc nhiều viên thuốc tránh thai (viên màu vàng) ở tuần thứ 3, người dùng cần uống viên bị quên cuối cùng đó ngay khi nhớ ra và uống hết viên tránh thai, sau đó bỏ qua 7 viên sắt (viên màu nâu) của vỉ đang uống và bắt đầu uống ngay 1 vỉ thuốc mới sau khi đã dùng hết viên tránh thai của vỉ cũ.</p>"
+      },
+      {
+        "id": 9600,
+        "title": "Khi dùng thuốc NewChoice có cần phải dùng thêm biện pháp hỗ trợ nào khác không?",
+        "content": "<p>Nếu uống viên thuốc đầu tiên (màu vàng) vào ngày đầu hành kinh và không quên một viên nào trong vỉ thuốc thì không cần phải dùng thêm bất kỳ một biện pháp tránh thai hỗ trợ nào khác.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00500857",
+        "name": "BK-1 STELLA 1X1",
+        "webName": "Thuốc tránh thai khẩn cấp BK-1 Stellapharm trong vòng 72 giờ sau khi giao hợp (1 vỉ x 1 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/bk1_650f4d1628.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 817,
+            "name": "Thuốc tránh thai",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tranh-thai",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 49328,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 15000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bk-1-stella-1x1-35002.html",
+        "ingredients": "Levonorgestrel 1.5mg",
+        "dosageForm": "Viên nén",
+        "brand": "Stella Pharm",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 1 Vỉ x 1 Viên",
+        "prices": [
+          {
+            "id": 49328,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 15000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00048392",
+        "name": "AVALO DAY 0.03MG HÓA DƯỢC 1X28",
+        "webName": "Thuốc tránh thai hằng ngày Avalo Day 0,03mg Hóa Dược (1 vỉ x 28 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/avalo_day_3c02a35d68.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 817,
+            "name": "Thuốc tránh thai",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tranh-thai",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 76009,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 25000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/avalo-day-0-03-mg-hoa-duoc-1-x28.html",
+        "ingredients": "Levonorgestrel 0.03mg",
+        "dosageForm": "Viên nén",
+        "brand": "Hóa Dược",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 1 Vỉ x 28 Viên",
+        "prices": [
+          {
+            "id": 76009,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 25000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 76010,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 25000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00502564",
+        "name": "CERCIORAT 1.5MG EXELTIS 1V",
+        "webName": "Thuốc tránh thai khẩn cấp Cerciorat 1.5mg Exeltis (1 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4057_2e72c4766a.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 817,
+            "name": "Thuốc tránh thai",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tranh-thai",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 52617,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 35990,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cerciorat-15mg-exeltis-1v-36831.html",
+        "ingredients": "Levonorgestrel 1.5mg",
+        "dosageForm": "Viên nén",
+        "brand": "Exeltis",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 1 Vỉ x 1 Viên",
+        "prices": [
+          {
+            "id": 52617,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 35990,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 254,
+          "attributeName": "Tây Ban Nha",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/es_Spain_03bf620563.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006049",
+        "name": "POSTINOR 1 GEDEON 1V",
+        "webName": "Thuốc Postinor 1 Gedeon dùng tránh thai khẩn cấp trong vòng 72 giờ sau giao hợp (1 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_postinor_1_1_vien_gedeon_00006049_a7d9fa0ec5.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 817,
+            "name": "Thuốc tránh thai",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tranh-thai",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8714,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 40000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/postinor-1-2561.html",
+        "ingredients": "Levonorgestrel 1.5mg",
+        "dosageForm": "Viên nén",
+        "brand": "Gedeon",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 1 Viên",
+        "prices": [
+          {
+            "id": 8714,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 40000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 58,
+          "attributeName": "Hungary",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/hu_Hungary_025bdc77ac.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00032436",
+        "name": "NEWCHOICE IZZI-FEM 1.5 NAM HÀ 1V",
+        "webName": "Viên uống tránh thai khẩn cấp New Choice Izzi-Fem 1.5mg Nam Hà tránh thụ thai trong vòng 72 giờ (1 vỉ x 1 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/NEWCHOICE_IZZI_FEM_1_5_NAM_HA_1_V_00032436_1_4e930e8eff.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 817,
+            "name": "Thuốc tránh thai",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tranh-thai",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 44381,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 33000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/new-choice-ec-izzi-1-5-nam-ha-1-v.html",
+        "ingredients": "Levonorgestrel 1.5mg",
+        "dosageForm": "Viên nén",
+        "brand": "Nam Hà",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 1 Vỉ x 1 Viên",
+        "prices": [
+          {
+            "id": 44381,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 33000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00051439",
+        "name": "VICTORIA ONE STEP HÓA DƯỢC 1X1",
+        "webName": "Thuốc Victoria 1,5mg Hóa Dược dùng để tránh thai khẩn cấp, dùng trong vòng 72 giờ sau giao hợp (1 vỉ x 1 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_victoria_one_step_hoa_duoc_1x1_00051439_5_4c6fa219dd.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 817,
+            "name": "Thuốc tránh thai",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tranh-thai",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 81575,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 18000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/victoria-one-step-hoa-duoc-1-x1.html",
+        "ingredients": "Levonorgestrel 1.5mg",
+        "dosageForm": "Viên nén",
+        "brand": "Hóa Dược",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 1 Vỉ x 1 Viên",
+        "prices": [
+          {
+            "id": 81575,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 18000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 146,
+      "items": [
+        {
+          "id": 3342118,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0386xxxxxx",
+          "name": "Cô Toan",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá bán bao nhiêu tiền một hộp, có còn hàng không nhỉ ",
+          "createdAt": "2026-07-19 10:21:18",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-19 10:21:18",
+          "replies": [
+            {
+              "id": 3342129,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Như Quỳnh",
+                "moderatorEmail": "quynhntn96@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Như Quỳnh",
+              "email": "quynhntn96@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Cô Toan, </p><p>Hiện tại, sản phẩm NEWCHOICE NAM HÀ 25 HỘP X 28V có giá 12,000 ₫/hộp . Cô có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại ứng dụng Long Châu/ZALO OA Nhà thuốc FPT Long Châu để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p><p><br></p><p><br></p><p><br></p><p><br></p>",
+              "createdAt": "2026-07-19 10:32:42",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-19 10:21:18",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3336159,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0344xxxxxx",
+          "name": "0344xxxxxx",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá như thế nào vậy shop",
+          "createdAt": "2026-07-09 16:30:00",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-09 16:30:00",
+          "replies": [
+            {
+              "id": 3336164,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Thị Minh Hạ",
+                "moderatorEmail": "haptm2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Thị Minh Hạ",
+              "email": "haptm2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý Khách,</p><p>Hiện tại, sản phẩm NEWCHOICE NAM HÀ có giá 12,000 ₫/hộp</p><p>Quý khách có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-07-09 16:35:14",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-09 16:30:00",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3329659,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0904xxxxxx",
+          "name": "Lệ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mẫu mới là loại này à shop New choice Levo-fem",
+          "createdAt": "2026-06-28 17:46:44",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-28 17:46:44",
+          "replies": [
+            {
+              "id": 3329662,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Lê Hải Bình",
+                "moderatorEmail": "binhtlh@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Lê Hải Bình",
+              "email": "binhtlh@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Lệ, </p><p>Dạ theo thông tin hiện tại, sản phẩm newChoice LEVO-FEM Fe có cùng thành phần hoạt chất, hàm lượng và quy cách với NewChoice Nam Hà. Chị có thể tham khảo sử dụng theo chỉ định của bác sĩ. </p><p>Nhà thuốc thông tin đến chị ạ.</p>",
+              "createdAt": "2026-06-28 18:04:41",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-28 17:46:44",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3321233,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0362xxxxxx",
+          "name": "Bạn Nguyệt",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "có bán lẻ ko ạ ",
+          "createdAt": "2026-06-12 06:45:24",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-12 06:45:24",
+          "replies": [
+            {
+              "id": 3321304,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Tuyết Nhi",
+                "moderatorEmail": "nhiltt17@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Tuyết Nhi",
+              "email": "nhiltt17@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Nguyệt</p><p>Hiện tại, sản phẩm NEWCHOICE NAM HÀ 25 HỘP X 28V có giá 12,000 ₫/ hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-06-12 09:09:47",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-12 06:45:24",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3305206,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0964xxxxxx",
+          "name": "Minh Anh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Bao nhiêu 1 Hộp vậy shop",
+          "createdAt": "2026-05-11 17:38:47",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-11 17:38:47",
+          "replies": [
+            {
+              "id": 3305224,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thu Hà",
+                "moderatorEmail": "hantt135@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thu Hà",
+              "email": "hantt135@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Minh Anh,</p><p>Hiện tại, sản phẩm NEWCHOICE NAM HÀ có giá 12,000 ₫/hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-05-11 17:43:49",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-11 17:38:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 19,
+      "items": [
+        {
+          "id": 3308425,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0329xxxxxx",
+          "name": "Chị Nguyễn Kiều Anh",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá bao nhiêu một vỉ ạ",
+          "createdAt": "2026-05-17 21:13:50",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-17 21:13:50",
+          "replies": [
+            {
+              "id": 3308431,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Hồng Khuyên",
+                "moderatorEmail": "khuyennh4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Hồng Khuyên",
+              "email": "khuyennh4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý khách, </p><p>Hiện tại, sản phẩm Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên) có giá 12,000 ₫/ Hộp 28 viên. Quý khách có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại ứng dụng Long Châu/ZALO OA Nhà thuốc FPT Long Châu để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-05-17 21:19:19",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-17 21:13:50",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3300023,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0388xxxxxx",
+          "name": "Dung Nhi",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 kít ak",
+          "createdAt": "2026-05-03 15:19:16",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-05-03 15:19:16",
+          "replies": [
+            {
+              "id": 3300024,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trịnh Thu Nga",
+                "moderatorEmail": "ngatt24@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trịnh Thu Nga",
+              "email": "ngatt24@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Dung Nhi,</p><p>Hiện tại, sản phẩm NEWCHOICE NAM HÀ 25 HỘP X 28V có giá 300,000 ₫/kít. </p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a> <a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p><p><br></p>",
+              "createdAt": "2026-05-03 15:21:36",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-05-03 15:19:16",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3243849,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0984xxxxxx",
+          "name": "bn như",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-01-11 16:36:07",
+          "createdAtDisplay": "7 tháng trước",
+          "updatedAt": "2026-01-11 16:36:07",
+          "replies": [
+            {
+              "id": 3243850,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ánh",
+                "moderatorEmail": "anhnth44@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ánh",
+              "email": "anhnth44@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị <strong>Như</strong>,</p><p>Dạ rất cảm ơn tình cảm của chị dành cho Nhà thuốc FPT Long Châu. Chúc chị nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-01-11 16:37:53",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-01-11 16:36:07",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3220656,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0353xxxxxx",
+          "name": "chị Duyên",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá bao nhiêu 1 hộp to ạ",
+          "createdAt": "2025-11-27 09:53:07",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-27 09:53:07",
+          "replies": [
+            {
+              "id": 3220657,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Châu",
+                "moderatorEmail": "chauntn9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Ngọc Châu",
+              "email": "chauntn9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị <strong>Duyên</strong>,</p><p>Hiện tại, sản phẩm có giá <strong>225,000 ₫</strong>₫/hộp lớn (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm</p>",
+              "createdAt": "2025-11-27 09:56:45",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-27 09:53:07",
+              "replies": []
+            },
+            {
+              "id": 3220660,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0353xxxxxx",
+              "name": "chị Duyên",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "kít thì giá nhiêu ạ",
+              "createdAt": "2025-11-27 10:00:40",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-27 09:53:07",
+              "replies": []
+            },
+            {
+              "id": 3220663,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Châu",
+                "moderatorEmail": "chauntn9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Ngọc Châu",
+              "email": "chauntn9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị&nbsp;<strong>Duyên</strong>,</p><p>Hiện tại, sản phẩm có giá&nbsp;<strong>225,000 ₫</strong>₫/hộp lớn (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm</p>",
+              "createdAt": "2025-11-27 10:03:11",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-27 09:53:07",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3168900,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0977xxxxxx",
+          "name": "anh bình",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá nhiêu ạ?",
+          "createdAt": "2025-08-25 14:59:08",
+          "createdAtDisplay": "25/08/2025",
+          "updatedAt": "2025-08-25 14:58:57",
+          "replies": [
+            {
+              "id": 3168901,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Vi",
+                "moderatorEmail": "vit2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Vi",
+              "email": "vit2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Bình,</p><p>Hiện tại, sản phẩm có giá 205,000 ₫/kít, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-08-25 14:59:45",
+              "createdAtDisplay": "25/08/2025",
+              "updatedAt": "2025-08-25 14:58:57",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 19
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_6143_63db_large_40874d33b8.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_4268_63db_large_dfa33c524b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_2943_63db_large_57829ddbab.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_8540_63db_large_b8fb4f756f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_1636_63db_large_447d3fe5b7.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_2999_63db_large_3506521612.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_3490_63db_large_76a96557d2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_8420_63db_large_3efee43f2f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_5549_63db_large_a28b66b97e.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_6413_63db_large_b18e9ac6f5.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc tránh thai NewChoice là sản phẩm của Công ty Cổ phần Dược phẩm Nam Hà chứa hoạt chất Levonorgestrel có thể dùng để tránh thai thường nhật hay khẩn cấp (tùy vào liều dùng), vì vậy NewChoice là sản phẩm được lựa chọn bởi số đông phụ nữ Việt Nam.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Từ Vĩnh Khánh Tường"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "19"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên) - Nhà thuốc FPT Long Châu",
+      "description": "Thuốc tránh thai NewChoice là sản phẩm của Công ty Cổ phần Dược phẩm Nam Hà chứa hoạt chất&nbsp;Levonorgestrel có thể dùng để tránh thai thường nhật hay khẩn cấp (tùy vào liều dùng), vì vậy NewChoice là sản phẩm được lựa chọn bởi số đông phụ nữ Việt Nam.",
+      "openGraph": {
+        "title": "Thuốc Newchoice Nam Hà dùng để tránh thai (25 vỉ x 28 viên)",
+        "description": "Thuốc tránh thai NewChoice là sản phẩm của Công ty Cổ phần Dược phẩm Nam Hà chứa hoạt chất&nbsp;Levonorgestrel có thể dùng để tránh thai thường nhật hay khẩn cấp (tùy vào liều dùng), vì vậy NewChoice là sản phẩm được lựa chọn bởi số đông phụ nữ Việt Nam.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005260_newchoice_6143_63db_large_40874d33b8.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/newchoice-17035.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/newchoice-17035.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

@@ -1,0 +1,1356 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/coaprovel-150125-1500.html",
+  "ingestion_timestamp": "2026-09-05T09:03:47.493549+00:00",
+  "file_hash": "7a995710ffb9e8c79c4460d3175e0bf24ab0d743991da9b22cb9ae6b9644a5d2",
+  "lineage_hash": "e08b4f4969cf15224a279b63cb7b6e1a685ddd946fbaa4e868420332b7749d74",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/coaprovel-150125-1500.html",
+    "product": {
+      "sku": "00009759",
+      "webName": "Thuốc Coaprovel 150mg/12.5mg Sanofi điều trị tăng huyết áp nguyên phát (2 vỉ x 14 viên)",
+      "name": "COAPROVEL 150/12.5 SANOFI 2X14",
+      "shortName": "COAPROVEL 150/12.5 SNF 2X14",
+      "headingText": "Thuốc Coaprovel 150mg/12.5mg",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_9406_5b95_large_c98d5ab22e.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_6892_5b95_large_35f824c031.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_1399_5b95_large_0fc47b0674.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_5118_5b95_large_07a76e99d1.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_1292_5b95_large_3866c3cdfe.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_2002_5b95_large_d7c39aed71.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_1628156507_d5a5148d3a.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 737,
+          "name": "Thuốc tim mạch & máu",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tim-mach-and-mau",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 811,
+          "name": "Thuốc tim mạch huyết áp",
+          "parentName": "Thuốc tim mạch & máu",
+          "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 2 Vỉ x 14 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "2 Vỉ x 14 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "14 Viên"
+        }
+      ],
+      "slug": "thuoc/coaprovel-150125-1500.html",
+      "ingredient": [
+        {
+          "id": 24134,
+          "ingredientId": 23981,
+          "shortDescription": "150mg",
+          "name": "Irbesartan",
+          "isPrimary": false,
+          "slug": "thanh-phan/irbesartan"
+        },
+        {
+          "id": 24135,
+          "ingredientId": 22905,
+          "shortDescription": "12.5mg",
+          "name": "Hydrochlorothiazide",
+          "isPrimary": false,
+          "slug": "thanh-phan/hydrochlorothiazide"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VN-16721-13",
+      "manufactor": "Pháp",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Dùng bằng đường uống. Viên thuốc nên được nuốt với một lượng chất lỏng thích hợp (như một ly nước). Coaprovel có thể được uống trong hoặc ngoài bữa ăn. Bạn nên uống liều thuốc hàng ngày vào cùng một thời điểm trong ngày. Điều quan trọng là bạn phải sử dụng Coaprovel liên tục cho đến khi bác sĩ quyết định dùng phương cách khác.</p>\n\n<p>Hiệu quả hạ áp tối đa đạt được trong vòng 6 - 8 tuần sau khi bắt đầu điều trị.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Liều thông thường của Coaprovel là 1 hoặc 2 viên một ngày. Thông thường Coaprovel được bác sĩ kê toa cho bạn khi các điều trị tăng huyết áp trước đó không đủ để hạ huyết áp của bạn. Bác sĩ sẽ hướng dẫn bạn cách chuyển từ điều trị trước đó sang điều trị với Coaprovel.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Nếu nhỡ uống quá nhiều viên thuốc, phải đến gặp bác sĩ ngay lập tức. Biểu hiện quá liều của irbesartan thường gặp là tụt huyết áp và thay đổi nhịp tim. Quá liều do hydrochlorothiazid thường đi kèm với sụt giảm các chất điện giải trong huyết thanh và mất nước do lợi tiểu quá mức. Các triệu chứng hay gặp là buồn nôn và buồn ngủ lơ mơ.</p>\n\n<p>Bệnh nhân cần được giám sát chặt chẽ, điều trị triệu chứng và nâng đỡ. Việc xử lý phụ thuộc vào thời gian kể từ lúc uống vào và độ nặng của các triệu chứng. Các biện pháp đề nghị trong xử trí quá liều bao gồm gây nôn và/hoặc rửa dạ dày, có thể sử dụng than hoạt. </p>\n\n<p>Phải theo dõi thường xuyên các chất điện giải và creatinin huyết thanh. Nếu tụt huyết áp xảy ra, bệnh nhân nên được đặt ở tư thế nằm ngửa, nhanh chóng bù nước và điện giải.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Nếu bạn tình cờ quên uống một liều hàng ngày, cứ uống liều kế tiếp như bình thường. Không được uống gấp đôi liều để bù cho liều đã quên.</p>\n\n<p>Nếu bạn có thêm bất cứ thắc mắc nào về việc sử dụng thuốc này, hãy hỏi bác sĩ hay dược sĩ của bạn.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Coaprovel là một phối hợp của 2 hoạt chất, <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/irbesartan\">irbesartan</a></strong> và hydrochlorothiazid. Irbesartan thuộc nhóm thuốc đối kháng thụ thể angiotensin-II. Angiotensin-II là một chất do cơ thể sinh ra, khi gắn lên thụ thể của nó ở mạch máu làm co mạch máu. Kết quả là làm tăng huyết áp. </p>\n\n<p>Irbesartan ngăn chặn việc gắn của angiotensin-II lên thụ thể này do đó làm mạch máu giãn ra và làm hạ huyết áp. Hydrochlorothiazid là một thuốc trong nhóm thuốc lợi tiểu thiazide có tác dụng làm tăng lượng nước tiểu và do đó làm giảm huyết áp.</p>\n\n<p>Hai hoạt chất trong Coaprovel cùng làm hạ huyết áp tốt hơn là khi dùng riêng lẻ từng thành phần.</p>\n\n<p>Coaprovel được chỉ định dùng cho những bệnh nhân <strong><a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">tăng huyết áp</a></strong> (tăng huyết áp nguyên phát), khi điều trị riêng lẻ với irbesartan hoặc hydrochlorothiazid mà vẫn không kiểm soát được huyết áp một cách thỏa đáng.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Nhóm dược lý điều trị: Đối kháng thụ thể angiotensin II, phối hợp ATC code C09DA04.</p>\n\n<p>Coaprovel là phối hợp của một thuốc đối kháng thụ thể angiotensin-II là irbesartan, và một thuốc lợi tiểu thiazide là hydrochlorothiazid. Sự phối hợp của các thành phần này tạo ra hiệu quả trị tăng huyết áp cộng thêm, làm giảm huyết áp nhiều hơn so với khi dùng riêng lẻ từng thành phần.</p>\n\n<p>Irbesartan là một thuốc mạnh, tác động qua đường uống, đối kháng chọn lọc trên thụ thể angiotensin-II (phân nhóm AT1). Thuốc ngăn chặn toàn bộ tác động của angiotensin-II qua trung gian thụ thể AT1 bất kể nguồn gốc hoặc con đường tổng hợp của angiotensin-II. </p>\n\n<p>Đối kháng chọn lọc thụ thể của angiotensin-II (AT­1) làm tăng nồng độ renin huyết tương và nồng độ angiotensin-II, làm giảm nồng độ aldosteron huyết tương. Irbesartan có tác động mà không cần phải qua chuyển hóa chất hoạt động.</p>\n\n<p>Hydrochlorothiazid là một thuốc lợi tiểu thiazid. Thiazid tác động trên cơ chế tái hấp thu điện giải tại ống thận, làm tăng trực tiếp sự bài tiết natri và clo với số lượng xấp xỉ nhau. Tác động của hydrochlorothiazid làm giảm thể tích huyết tương, tăng hoạt tính renin huyết tương, tăng bài tiết aldosteron kéo theo làm tăng mất kali và bicarbonat, làm giảm kali huyết tương. </p>\n\n<p>Thông qua tác động chẹn hệ thống renin - angiotensin - aldosteron của irbesartan, việc sử dụng đồng thời irbesartan với hydrochlorothiazid có khuynh hướng bù trừ lại việc mất kali. Khi dùng hydrochlorothiazid, tác dụng lợi tiểu khởi phát trong vòng 2 giờ, và tác động đạt mức cao nhất trong vòng 4 giờ và kéo dài tác dụng từ 6 - 12 giờ.</p>\n\n<p>Việc phối hợp hydrochlorothiazid và irbesartan tạo ra việc giảm huyết áp với hiệu ứng cộng thêm qua suốt biên độ liều điều trị của thuốc.</p>\n\n<p>Tác động làm hạ huyết áp của irbesartan khi kết hợp với hydrochlorothiazid là thấy rõ sau liều đầu tiên và hiện diện về căn bản sau 1-2 tuần, hiệu quả này đạt tối đa sau 6 - 8 tuần.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Việc sử dụng đồng thời hydrochlorothiazid và irbesartan không tác động lên dược động học của mỗi thuốc.</p>\n\n<p>Irbesartan và hydrochlorothiazid là những thuốc tác động qua đường uống và không đòi hỏi phải chuyển dạng sinh học để có hoạt tính. Khi dùng Coaprovel qua đường uống, độ sinh khả dụng tuyệt đối là 60 - 80% cho irbesartan và 50 - 80% cho hydrochlorothiazid. Thức ăn không gây ảnh hưởng lên độ sinh khả dụng của Coaprovel. Nồng độ đỉnh huyết tương của thuốc sau khi uống đạt được trong 1,5 - 2 giờ với irbesartan và 1 - 2,5 giờ với hydrochlorothiazid.</p>\n\n<p>Tỷ lệ gắn kết của irbesartan với protein huyết tương là khoảng 96%, gắn kết không đáng kể với các thành phần tế bào máu. Thể tích phân bố của irbesartan là 53 - 93 lít. Hydrochlorothiazid gắn kết 68% với protein huyết tương và thể tích phân bố biểu kiến là 0,83 - 1,14 l/kg.</p>\n\n<p>Thời gian bán hủy của irbesartan là 11 - 15 giờ. Trạng thái ổn định của nồng độ thuốc trong huyết tương đạt được sau 3 ngày sau khi khởi trị theo phác đồ uống một lần mỗi ngày. Không cần thiết chỉnh liều ở người cao tuổi. Thời gian bán hủy trung bình trong huyết tương của hydrochlorothiazid thay đổi từ 5 -15 giờ. Irbesartan được chuyển hóa ở gan qua glucuronide liên hợp và oxy hóa. </p>\n\n<p>Có dưới 2% liều dùng được bài tiết qua nước tiểu là irbesartan ở dạng không thay đổi. Hydrochlorothiazid không được chuyển hóa nhưng nhanh chóng bị thận thải trừ. Có ít nhất 61% liều uống vào được thải trừ dưới dạng không đổi trong vòng 24giờ. Hydrochlorothiazid qua được nhau thai nhưng không qua được hàng rào máu não, và được bài tiết vào sữa mẹ.</p>\n\n<p>Suy thận: Ở những bệnh nhân bị <strong><a href=\"https://nhathuoclongchau.com.vn/chuyen-de/suy-than\">suy thận</a></strong> hoặc những bệnh nhân đang thẩm tách máu, các thông số dược động học của irbesartan không bị thay đổi đáng kể. Irbesartan không bị thẩm tách máu loại trừ. Ở những bệnh nhân có độ thanh thải creatinin &lt; 20ml/phút, thời gian bán hủy của hydrochlorothiazid được ghi nhận tăng đến 21 giờ.</p>\n\n<p>Suy gan: Ở những bệnh nhân bị xơ gan nhẹ đến vừa, các thông số dược lý của irbesartan không bị thay đổi đáng kể. Các nghiên cứu chưa được thực hiện ở những bệnh nhân bị suy gan nặng.</p>",
+      "brand": "Sanofi",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Coaprovel 150/12,5, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p>Giống tất cả các thuốc, Coaprovel có thể gây ra những tác dụng không mong muốn. Một vài tác dụng phụ có thể trầm trọng và đòi hỏi phải được theo dõi y khoa.</p>\n\n<p>Hiếm gặp các phản ứng dị ứng da (phát ban, nổi mề đay), cũng như sưng phồng khu trú ở mặt, môi và/hoặc lưỡi ở các bệnh nhân uống irbesartan.</p>\n\n<p>Nếu bạn có những triệu chứng như trên hoặc khó thở nên ngưng dùng Coaprovel và đi gặp bác sĩ của bạn ngay lập tức.</p>\n\n<p>Trong các nghiên cứu lâm sàng đối với bệnh nhân dùng Coaprovel, các tác dụng phụ sau đây đã được báo cáo:</p>\n\n<p><em>Thường gặp, ADR &gt;1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Buồn nôn/nôn.</p>\n\t</li>\n\t<li>\n\t<p>Tiểu bất thường.</p>\n\t</li>\n\t<li>\n\t<p><strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/co-the-met-moi-thieu-suc-song-la-tai-sao-44169.html\">Mệt mỏi</a>.</strong></p>\n\t</li>\n\t<li>\n\t<p>Choáng váng (bao gồm khi đứng lên từ tư thế nằm hoặc ngồi).</p>\n\t</li>\n\t<li>\n\t<p>Các xét nghiệm máu cho thấy tăng nồng độ men đo lường chức năng của cơ và của tim (creatin kinase) hoặc tăng nồng độ của các chất đo lường chức năng thận (urê máu, creatinin).</p>\n\t</li>\n\t<li>\n\t<p>Nếu bạn gặp bất kỳ tác dụng phụ nào kể trên, hãy báo ngay cho bác sĩ.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p><strong><a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">Tiêu chảy</a>.</strong></p>\n\t</li>\n\t<li>\n\t<p>Huyết áp thấp.</p>\n\t</li>\n\t<li>\n\t<p><strong><a href=\"https://nhathuoclongchau.com.vn/benh/ngat-23.html\">Ngất</a>.</strong></p>\n\t</li>\n\t<li>\n\t<p>Tăng nhịp tim.</p>\n\t</li>\n\t<li>\n\t<p>Phừng đỏ mặt.</p>\n\t</li>\n\t<li>\n\t<p>Sưng phồng.</p>\n\t</li>\n</ul>\n\n<p>Nếu bạn gặp bất kỳ tác dụng phụ nào kể trên, hãy báo ngay cho bác sĩ.</p>\n\n<p>Một số tác dụng phụ ngoại ý được báo cáo kể từ khi Coaprovel lưu hành trên thị trường nhưng không rõ tần số như: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">Đau đầu</a></strong>, kêu vo vo ở tai, ho, rối loạn vị giác, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/kho-tieu-578.html\">khó tiêu</a></strong>, đau nhức khớp và cơ, rối loạn chức năng gan và giảm chức năng thận, tăng kali máu, và các phản ứng dị ứng như phát ban, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">nổi mề đay</a></strong>, sưng phồng mặt, môi, miệng, lưỡi hoặc họng. Hiếm gặp các trường hợp vàng da (vàng da và/hoặc vàng tròng trắng của mắt).</p>\n\n<p>Giống như bất cứ phối hợp hai hoạt chất thuốc, không thể loại trừ các tác dụng phụ đi kèm với từng hoạt chất.</p>\n\n<p><em>Tác dụng không mong muốn khi dùng irbesartan đơn thuần</em></p>\n\n<p>Ở những bệnh nhân uống irbesartan đơn thuần, ngoài các tác dụng phụ kể trên, còn có thể gặp đau ngực.</p>\n\n<p><em>Tác dụng không mong muốn khi dùng hydrochlorothiazid đơn thuần</em></p>\n\n<p>Ăn mất ngon; kích thích dạ dày; co thắt dạ dày; <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a></strong>; vàng da và/hoặc vàng mắt; viêm tụy có đặc điểm là đau nhiều ở vùng thượng vị, thường có buồn nôn và nôn; rối loạn giấc ngủ; <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tram-cam-79.html\">trầm cảm</a></strong>; mờ mắt; giảm bạch cầu có thể dẫn đến hay bị nhiễm trùng; sốt; giảm tiểu cầu (một loại tế bào máu có vai trò quan trọng trong đông máu); giảm hồng cầu (<strong><a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-267.html\">thiếu máu</a></strong>) biểu hiện như mệt mỏi, đau đầu, khó thở khi gắng sức, chóng mặt, và niêm mạc tái; bệnh thận; các rắc rối về phổi bao gồm viêm phổi hoặc tăng tiết dịch trong phổi; da tăng cảm với ánh sáng mặt trời; viêm các mạch máu; bệnh ở da biểu hiện tróc da toàn thân, lupus ban đỏ biểu hiện phát ban trên mặt, cổ và da đầu; các phản ứng dị ứng; yếu cơ và co thắt cơ; thay đổi nhịp tim; tụt huyết áp tư thế; sưng phồng tuyến nước bọt; tăng đường huyết; có đường trong nước tiểu; tăng vài loại mỡ trong máu; tăng nồng độ acid uric trong máu có thể dẫn đến <strong><a href=\"https://nhathuoclongchau.com.vn/benh/gut-564.html\">bệnh gout</a></strong>.</p>\n\n<p>Các tác dụng phụ đi kèm với hydrochlorothiazid có thể tăng với liều dùng cao hơn. </p>\n\n<p>Nếu bạn gặp bất kỳ tác dụng phụ nào trở nên trầm trọng hoặc chưa được liệt kê trong tờ hướng dẫn sử dụng thuốc này, hãy thông báo cho bác sĩ hoặc dược sĩ của bạn.</p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>\n\n<ul>\n\t<li>\n\t<p>Rối loạn chức năng tình dục và <strong><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-cuong-duong-494.html\">cương dương</a>.</strong></p>\n\t</li>\n\t<li>\n\t<p>Xét nghiệm máu cho thấy nồng độ kali và natri trong máu thấp.</p>\n\t</li>\n</ul>",
+      "specification": "Hộp 2 Vỉ x 14 Viên",
+      "indications": [
+        {
+          "id": 670,
+          "name": "Cao huyết áp",
+          "slug": "benh/cao-huyet-ap-225.html"
+        }
+      ],
+      "brandOrigin": "Pháp",
+      "producer": "SANOFI",
+      "shortDescription": "<p>Thuốc Coaprovel 150/12,5mg là sản phẩm của công ty Sanofi Aventis, thuốc phối hợp của 2 hoạt chất, irbesartan và hydrochlorothiazid. Hai hoạt chất trong Coaprovel 150/12,5mg cùng làm hạ huyết áp tốt hơn là khi dùng riêng lẻ từng thành phần.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Suy gan thận",
+        "Phụ nữ cho con bú",
+        "Lái tàu xe"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Mang thai, Tăng canxi máu, Suy gan, Suy thận, Huyết áp thấp, Dị ứng thuốc, Bí tiểu, Hạ kali máu",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/sanofi",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "CO-APROVEL",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 261,
+        "attributeName": "Pháp",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "14 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 811,
+        "name": "Thuốc tim mạch huyết áp",
+        "parentName": "Thuốc tim mạch & máu",
+        "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_9406_5b95_large_c98d5ab22e.JPG",
+          "alternativeText": "Thuốc Coaprovel 150mg/12.5mg Sanofi điều trị tăng huyết áp nguyên phát (2 vỉ x 14 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_6892_5b95_large_35f824c031.JPG",
+          "alternativeText": "Thuốc Coaprovel 150mg/12.5mg Sanofi điều trị tăng huyết áp nguyên phát (2 vỉ x 14 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_1399_5b95_large_0fc47b0674.JPG",
+          "alternativeText": "Thuốc Coaprovel 150mg/12.5mg Sanofi điều trị tăng huyết áp nguyên phát (2 vỉ x 14 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_5118_5b95_large_07a76e99d1.JPG",
+          "alternativeText": "Thuốc Coaprovel 150mg/12.5mg Sanofi điều trị tăng huyết áp nguyên phát (2 vỉ x 14 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_1292_5b95_large_3866c3cdfe.JPG",
+          "alternativeText": "Thuốc Coaprovel 150mg/12.5mg Sanofi điều trị tăng huyết áp nguyên phát (2 vỉ x 14 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_2002_5b95_large_d7c39aed71.JPG",
+          "alternativeText": "Thuốc Coaprovel 150mg/12.5mg Sanofi điều trị tăng huyết áp nguyên phát (2 vỉ x 14 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_1628156507_d5a5148d3a.jpg",
+          "alternativeText": "Thuốc Coaprovel 150mg/12.5mg Sanofi điều trị tăng huyết áp nguyên phát (2 vỉ x 14 viên) 7"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tim mạch & máu",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau"
+      },
+      {
+        "name": "Thuốc tim mạch huyết áp",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap"
+      }
+    ],
+    "content": {
+      "sku": "00009759",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Dùng bằng đường uống. Viên thuốc nên được nuốt với một lượng chất lỏng thích hợp (như một ly nước). Coaprovel có thể được uống trong hoặc ngoài bữa ăn. Bạn nên uống liều thuốc hàng ngày vào cùng một thời điểm trong ngày. Điều quan trọng là bạn phải sử dụng Coaprovel liên tục cho đến khi bác sĩ quyết định dùng phương cách khác.</p>\n\n<p>Hiệu quả hạ áp tối đa đạt được trong vòng 6 - 8 tuần sau khi bắt đầu điều trị.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Liều thông thường của Coaprovel là 1 hoặc 2 viên một ngày. Thông thường Coaprovel được bác sĩ kê toa cho bạn khi các điều trị tăng huyết áp trước đó không đủ để hạ huyết áp của bạn. Bác sĩ sẽ hướng dẫn bạn cách chuyển từ điều trị trước đó sang điều trị với Coaprovel.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Nếu nhỡ uống quá nhiều viên thuốc, phải đến gặp bác sĩ ngay lập tức. Biểu hiện quá liều của irbesartan thường gặp là tụt huyết áp và thay đổi nhịp tim. Quá liều do hydrochlorothiazid thường đi kèm với sụt giảm các chất điện giải trong huyết thanh và mất nước do lợi tiểu quá mức. Các triệu chứng hay gặp là buồn nôn và buồn ngủ lơ mơ.</p>\n\n<p>Bệnh nhân cần được giám sát chặt chẽ, điều trị triệu chứng và nâng đỡ. Việc xử lý phụ thuộc vào thời gian kể từ lúc uống vào và độ nặng của các triệu chứng. Các biện pháp đề nghị trong xử trí quá liều bao gồm gây nôn và/hoặc rửa dạ dày, có thể sử dụng than hoạt. </p>\n\n<p>Phải theo dõi thường xuyên các chất điện giải và creatinin huyết thanh. Nếu tụt huyết áp xảy ra, bệnh nhân nên được đặt ở tư thế nằm ngửa, nhanh chóng bù nước và điện giải.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Nếu bạn tình cờ quên uống một liều hàng ngày, cứ uống liều kế tiếp như bình thường. Không được uống gấp đôi liều để bù cho liều đã quên.</p>\n\n<p>Nếu bạn có thêm bất cứ thắc mắc nào về việc sử dụng thuốc này, hãy hỏi bác sĩ hay dược sĩ của bạn.</p>",
+      "referenceSource": "<html><body><p>Tham khảo theo tờ hướng dẫn sử dụng đính kèm.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Coaprovel 150/12,5, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p>Giống tất cả các thuốc, Coaprovel có thể gây ra những tác dụng không mong muốn. Một vài tác dụng phụ có thể trầm trọng và đòi hỏi phải được theo dõi y khoa.</p>\n\n<p>Hiếm gặp các phản ứng dị ứng da (phát ban, nổi mề đay), cũng như sưng phồng khu trú ở mặt, môi và/hoặc lưỡi ở các bệnh nhân uống irbesartan.</p>\n\n<p>Nếu bạn có những triệu chứng như trên hoặc khó thở nên ngưng dùng Coaprovel và đi gặp bác sĩ của bạn ngay lập tức.</p>\n\n<p>Trong các nghiên cứu lâm sàng đối với bệnh nhân dùng Coaprovel, các tác dụng phụ sau đây đã được báo cáo:</p>\n\n<p><em>Thường gặp, ADR &gt;1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Buồn nôn/nôn.</p>\n\t</li>\n\t<li>\n\t<p>Tiểu bất thường.</p>\n\t</li>\n\t<li>\n\t<p><strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/co-the-met-moi-thieu-suc-song-la-tai-sao-44169.html\">Mệt mỏi</a>.</strong></p>\n\t</li>\n\t<li>\n\t<p>Choáng váng (bao gồm khi đứng lên từ tư thế nằm hoặc ngồi).</p>\n\t</li>\n\t<li>\n\t<p>Các xét nghiệm máu cho thấy tăng nồng độ men đo lường chức năng của cơ và của tim (creatin kinase) hoặc tăng nồng độ của các chất đo lường chức năng thận (urê máu, creatinin).</p>\n\t</li>\n\t<li>\n\t<p>Nếu bạn gặp bất kỳ tác dụng phụ nào kể trên, hãy báo ngay cho bác sĩ.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p><strong><a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">Tiêu chảy</a>.</strong></p>\n\t</li>\n\t<li>\n\t<p>Huyết áp thấp.</p>\n\t</li>\n\t<li>\n\t<p><strong><a href=\"https://nhathuoclongchau.com.vn/benh/ngat-23.html\">Ngất</a>.</strong></p>\n\t</li>\n\t<li>\n\t<p>Tăng nhịp tim.</p>\n\t</li>\n\t<li>\n\t<p>Phừng đỏ mặt.</p>\n\t</li>\n\t<li>\n\t<p>Sưng phồng.</p>\n\t</li>\n</ul>\n\n<p>Nếu bạn gặp bất kỳ tác dụng phụ nào kể trên, hãy báo ngay cho bác sĩ.</p>\n\n<p>Một số tác dụng phụ ngoại ý được báo cáo kể từ khi Coaprovel lưu hành trên thị trường nhưng không rõ tần số như: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">Đau đầu</a></strong>, kêu vo vo ở tai, ho, rối loạn vị giác, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/kho-tieu-578.html\">khó tiêu</a></strong>, đau nhức khớp và cơ, rối loạn chức năng gan và giảm chức năng thận, tăng kali máu, và các phản ứng dị ứng như phát ban, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">nổi mề đay</a></strong>, sưng phồng mặt, môi, miệng, lưỡi hoặc họng. Hiếm gặp các trường hợp vàng da (vàng da và/hoặc vàng tròng trắng của mắt).</p>\n\n<p>Giống như bất cứ phối hợp hai hoạt chất thuốc, không thể loại trừ các tác dụng phụ đi kèm với từng hoạt chất.</p>\n\n<p><em>Tác dụng không mong muốn khi dùng irbesartan đơn thuần</em></p>\n\n<p>Ở những bệnh nhân uống irbesartan đơn thuần, ngoài các tác dụng phụ kể trên, còn có thể gặp đau ngực.</p>\n\n<p><em>Tác dụng không mong muốn khi dùng hydrochlorothiazid đơn thuần</em></p>\n\n<p>Ăn mất ngon; kích thích dạ dày; co thắt dạ dày; <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a></strong>; vàng da và/hoặc vàng mắt; viêm tụy có đặc điểm là đau nhiều ở vùng thượng vị, thường có buồn nôn và nôn; rối loạn giấc ngủ; <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tram-cam-79.html\">trầm cảm</a></strong>; mờ mắt; giảm bạch cầu có thể dẫn đến hay bị nhiễm trùng; sốt; giảm tiểu cầu (một loại tế bào máu có vai trò quan trọng trong đông máu); giảm hồng cầu (<strong><a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-267.html\">thiếu máu</a></strong>) biểu hiện như mệt mỏi, đau đầu, khó thở khi gắng sức, chóng mặt, và niêm mạc tái; bệnh thận; các rắc rối về phổi bao gồm viêm phổi hoặc tăng tiết dịch trong phổi; da tăng cảm với ánh sáng mặt trời; viêm các mạch máu; bệnh ở da biểu hiện tróc da toàn thân, lupus ban đỏ biểu hiện phát ban trên mặt, cổ và da đầu; các phản ứng dị ứng; yếu cơ và co thắt cơ; thay đổi nhịp tim; tụt huyết áp tư thế; sưng phồng tuyến nước bọt; tăng đường huyết; có đường trong nước tiểu; tăng vài loại mỡ trong máu; tăng nồng độ acid uric trong máu có thể dẫn đến <strong><a href=\"https://nhathuoclongchau.com.vn/benh/gut-564.html\">bệnh gout</a></strong>.</p>\n\n<p>Các tác dụng phụ đi kèm với hydrochlorothiazid có thể tăng với liều dùng cao hơn. </p>\n\n<p>Nếu bạn gặp bất kỳ tác dụng phụ nào trở nên trầm trọng hoặc chưa được liệt kê trong tờ hướng dẫn sử dụng thuốc này, hãy thông báo cho bác sĩ hoặc dược sĩ của bạn.</p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>\n\n<ul>\n\t<li>\n\t<p>Rối loạn chức năng tình dục và <strong><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-cuong-duong-494.html\">cương dương</a>.</strong></p>\n\t</li>\n\t<li>\n\t<p>Xét nghiệm máu cho thấy nồng độ kali và natri trong máu thấp.</p>\n\t</li>\n</ul>",
+      "preservation": "<p>Để thuốc ngoài tầm với và tầm nhìn của trẻ em.</p>\n\n<p>Không dùng thuốc quá hạn dùng đã ghi trên vỏ hộp và trên vỉ thuốc.</p>\n\n<p>Bảo quản thuốc ở nhiệt độ dưới 30°C.</p>\n\n<p>Bảo quản thuốc trong hộp thuốc để tránh bị hút ẩm.</p>\n\n<p>Không được bỏ thuốc vào nước thải hoặc thùng rác gia đình. Hãy hỏi dược sĩ cách hủy thuốc không còn dùng nữa. Các cách xử lý này giúp bảo vệ môi trường.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Coaprovel là một phối hợp của 2 hoạt chất, <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/irbesartan\">irbesartan</a></strong> và hydrochlorothiazid. Irbesartan thuộc nhóm thuốc đối kháng thụ thể angiotensin-II. Angiotensin-II là một chất do cơ thể sinh ra, khi gắn lên thụ thể của nó ở mạch máu làm co mạch máu. Kết quả là làm tăng huyết áp. </p>\n\n<p>Irbesartan ngăn chặn việc gắn của angiotensin-II lên thụ thể này do đó làm mạch máu giãn ra và làm hạ huyết áp. Hydrochlorothiazid là một thuốc trong nhóm thuốc lợi tiểu thiazide có tác dụng làm tăng lượng nước tiểu và do đó làm giảm huyết áp.</p>\n\n<p>Hai hoạt chất trong Coaprovel cùng làm hạ huyết áp tốt hơn là khi dùng riêng lẻ từng thành phần.</p>\n\n<p>Coaprovel được chỉ định dùng cho những bệnh nhân <strong><a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">tăng huyết áp</a></strong> (tăng huyết áp nguyên phát), khi điều trị riêng lẻ với irbesartan hoặc hydrochlorothiazid mà vẫn không kiểm soát được huyết áp một cách thỏa đáng.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Nhóm dược lý điều trị: Đối kháng thụ thể angiotensin II, phối hợp ATC code C09DA04.</p>\n\n<p>Coaprovel là phối hợp của một thuốc đối kháng thụ thể angiotensin-II là irbesartan, và một thuốc lợi tiểu thiazide là hydrochlorothiazid. Sự phối hợp của các thành phần này tạo ra hiệu quả trị tăng huyết áp cộng thêm, làm giảm huyết áp nhiều hơn so với khi dùng riêng lẻ từng thành phần.</p>\n\n<p>Irbesartan là một thuốc mạnh, tác động qua đường uống, đối kháng chọn lọc trên thụ thể angiotensin-II (phân nhóm AT1). Thuốc ngăn chặn toàn bộ tác động của angiotensin-II qua trung gian thụ thể AT1 bất kể nguồn gốc hoặc con đường tổng hợp của angiotensin-II. </p>\n\n<p>Đối kháng chọn lọc thụ thể của angiotensin-II (AT­1) làm tăng nồng độ renin huyết tương và nồng độ angiotensin-II, làm giảm nồng độ aldosteron huyết tương. Irbesartan có tác động mà không cần phải qua chuyển hóa chất hoạt động.</p>\n\n<p>Hydrochlorothiazid là một thuốc lợi tiểu thiazid. Thiazid tác động trên cơ chế tái hấp thu điện giải tại ống thận, làm tăng trực tiếp sự bài tiết natri và clo với số lượng xấp xỉ nhau. Tác động của hydrochlorothiazid làm giảm thể tích huyết tương, tăng hoạt tính renin huyết tương, tăng bài tiết aldosteron kéo theo làm tăng mất kali và bicarbonat, làm giảm kali huyết tương. </p>\n\n<p>Thông qua tác động chẹn hệ thống renin - angiotensin - aldosteron của irbesartan, việc sử dụng đồng thời irbesartan với hydrochlorothiazid có khuynh hướng bù trừ lại việc mất kali. Khi dùng hydrochlorothiazid, tác dụng lợi tiểu khởi phát trong vòng 2 giờ, và tác động đạt mức cao nhất trong vòng 4 giờ và kéo dài tác dụng từ 6 - 12 giờ.</p>\n\n<p>Việc phối hợp hydrochlorothiazid và irbesartan tạo ra việc giảm huyết áp với hiệu ứng cộng thêm qua suốt biên độ liều điều trị của thuốc.</p>\n\n<p>Tác động làm hạ huyết áp của irbesartan khi kết hợp với hydrochlorothiazid là thấy rõ sau liều đầu tiên và hiện diện về căn bản sau 1-2 tuần, hiệu quả này đạt tối đa sau 6 - 8 tuần.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Việc sử dụng đồng thời hydrochlorothiazid và irbesartan không tác động lên dược động học của mỗi thuốc.</p>\n\n<p>Irbesartan và hydrochlorothiazid là những thuốc tác động qua đường uống và không đòi hỏi phải chuyển dạng sinh học để có hoạt tính. Khi dùng Coaprovel qua đường uống, độ sinh khả dụng tuyệt đối là 60 - 80% cho irbesartan và 50 - 80% cho hydrochlorothiazid. Thức ăn không gây ảnh hưởng lên độ sinh khả dụng của Coaprovel. Nồng độ đỉnh huyết tương của thuốc sau khi uống đạt được trong 1,5 - 2 giờ với irbesartan và 1 - 2,5 giờ với hydrochlorothiazid.</p>\n\n<p>Tỷ lệ gắn kết của irbesartan với protein huyết tương là khoảng 96%, gắn kết không đáng kể với các thành phần tế bào máu. Thể tích phân bố của irbesartan là 53 - 93 lít. Hydrochlorothiazid gắn kết 68% với protein huyết tương và thể tích phân bố biểu kiến là 0,83 - 1,14 l/kg.</p>\n\n<p>Thời gian bán hủy của irbesartan là 11 - 15 giờ. Trạng thái ổn định của nồng độ thuốc trong huyết tương đạt được sau 3 ngày sau khi khởi trị theo phác đồ uống một lần mỗi ngày. Không cần thiết chỉnh liều ở người cao tuổi. Thời gian bán hủy trung bình trong huyết tương của hydrochlorothiazid thay đổi từ 5 -15 giờ. Irbesartan được chuyển hóa ở gan qua glucuronide liên hợp và oxy hóa. </p>\n\n<p>Có dưới 2% liều dùng được bài tiết qua nước tiểu là irbesartan ở dạng không thay đổi. Hydrochlorothiazid không được chuyển hóa nhưng nhanh chóng bị thận thải trừ. Có ít nhất 61% liều uống vào được thải trừ dưới dạng không đổi trong vòng 24giờ. Hydrochlorothiazid qua được nhau thai nhưng không qua được hàng rào máu não, và được bài tiết vào sữa mẹ.</p>\n\n<p>Suy thận: Ở những bệnh nhân bị <strong><a href=\"https://nhathuoclongchau.com.vn/chuyen-de/suy-than\">suy thận</a></strong> hoặc những bệnh nhân đang thẩm tách máu, các thông số dược động học của irbesartan không bị thay đổi đáng kể. Irbesartan không bị thẩm tách máu loại trừ. Ở những bệnh nhân có độ thanh thải creatinin &lt; 20ml/phút, thời gian bán hủy của hydrochlorothiazid được ghi nhận tăng đến 21 giờ.</p>\n\n<p>Suy gan: Ở những bệnh nhân bị xơ gan nhẹ đến vừa, các thông số dược lý của irbesartan không bị thay đổi đáng kể. Các nghiên cứu chưa được thực hiện ở những bệnh nhân bị suy gan nặng.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3><strong>Chống chỉ định</strong></h3>\n\n<p>Không được dùng Coaprovel 150/12,5</p>\n\n<ul>\n\t<li>\n\t<p>Nếu bạn bị dị ứng với irbesartan hoặc bất kỳ thành phần nào chứa trong Coaprovel.</p>\n\t</li>\n\t<li>\n\t<p>Nếu bạn bị dị ứng với hydrochlorothiazid hoặc bất kỳ thuốc có dẫn xuất sulfonamid.</p>\n\t</li>\n\t<li>\n\t<p>Nếu bạn đang có thai hơn 3 tháng (tốt nhất là nên tránh dùng Coaprovel từ lúc bắt đầu có thai - xem mục Phụ nữ có thai).</p>\n\t</li>\n\t<li>\n\t<p>Nếu bạn đang bị bệnh gan hay thận nặng.</p>\n\t</li>\n\t<li>\n\t<p>Nếu cơ thể bạn gặp các cản trở tạo ra nước tiểu.</p>\n\t</li>\n\t<li>\n\t<p>Nếu bạn có bệnh lý làm tăng lượng calci hay giảm lượng kali kéo dài trong máu.</p>\n\t</li>\n\t<li>\n\t<p>Không dùng Coaprovel cho trẻ em (dưới 18 tuổi).</p>\n\t</li>\n</ul>\n\n<h3><strong>Thận trọng khi sử dụng</strong></h3>\n\n<p>Hãy báo cho bác sĩ nếu bạn gặp một trong các tình trạng sau:</p>\n\n<ul>\n\t<li>\n\t<p><strong><a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">Tiêu chảy</a></strong> hay ói mửa nhiều</p>\n\t</li>\n\t<li>\n\t<p>Vấn đề về thận, hoặc đang ghép thận</p>\n\t</li>\n\t<li>\n\t<p>Vấn đề về tim</p>\n\t</li>\n\t<li>\n\t<p>Vấn đề về gan</p>\n\t</li>\n\t<li>\n\t<p>Đái tháo đường</p>\n\t</li>\n\t<li>\n\t<p><strong><a href=\"https://nhathuoclongchau.com.vn/benh/lupus-ban-do-526.html\">Lupus ban đỏ</a></strong> (còn được gọi là bệnh luput ban đỏ rải rác)</p>\n\t</li>\n\t<li>\n\t<p>Tăng aldosteron nguyên phát (bệnh có liên quan đến sản xuất ra nhiều hormon aldosteron, là nguyên nhân lưu giữ natri và kế đến làm tăng huyết áp).</p>\n\t</li>\n</ul>\n\n<p>Bạn cũng cần phải báo cho bác sĩ nếu:</p>\n\n<ul>\n\t<li>\n\t<p>Bạn đang theo chế độ ăn kiêng ít muối.</p>\n\t</li>\n\t<li>\n\t<p>Bạn có những dấu hiệu như khát nước bất thường, khô miệng, mệt nhọc, buồn ngủ, co thắt cơ gây đau, buồn nôn, nôn hay nhịp tim nhanh bất thường có thể chỉ điểm cho một tác động quá mức của hydrochlorothiazid (chứa trong viên Coaprovel).</p>\n\t</li>\n\t<li>\n\t<p>Bạn đã từng bị tăng nhạy cảm da với ánh sáng mặt trời với các triệu chứng bỏng nắng (như đỏ bừng, ngứa, sưng phồng, giộp da) xuất hiện nhanh hơn bình thường.</p>\n\t</li>\n\t<li>\n\t<p>Bạn sắp phải phẫu thuật hoặc phải gây mê.</p>\n\t</li>\n</ul>\n\n<p>Hydrochlorothiazid chứa trong viên thuốc này có thể cho kết quả dương tính khi xét nghiệm chống doping.</p>\n\n<h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3>\n\n<p>Chưa thực hiện nghiên cứu nào về tác động của Coaprovel đối với khả năng lái xe và vận hành máy móc. Coaprovel không chắc có gây ảnh hưởng đến khả năng lái xe hoặc điều khiển máy móc. Tuy nhiên, trong thời gian điều trị tăng huyết áp, choáng váng hoặc mệt mỏi đôi khi có thể xảy ra. Nếu có những triệu chứng này, bạn cần phải tham khảo ý kiến của bác sĩ trước khi lái xe hoặc vận hành máy móc.</p>\n\n<h3><strong>Thời kỳ mang thai </strong></h3>\n\n<p>Cần báo cho bác sĩ biết nếu bạn có thai, hoặc có thể có thai. Thông thường bác sĩ sẽ khuyên bạn ngưng dùng Coaprovel trước khi có thai hoặc ngay khi bạn biết mình có thai và sẽ khuyên bạn dùng thuốc khác thay thế cho Coaprovel, Coaprovel không được khuyên dùng trong các tháng đầu của thai kỳ và không được dùng khi đã mang thai hơn 3 tháng, vì thuốc có thể là nguyên nhân gây nguy hiểm cho trẻ nếu người mẹ dùng thuốc này sau 3 tháng đầu của thai kỳ.</p>\n\n<h3><strong>Thời kỳ cho con bú</strong></h3>\n\n<p>Cần báo cho bác sĩ biết nếu bạn đang hoặc bắt đầu nuôi con bằng sữa mẹ.</p>\n\n<p>Không được dùng Coaprovel cho phụ nữ đang nuôi con bằng sữa mẹ, và bác sĩ sẽ chọn hướng điều trị khác cho bạn, nhất là khi con bạn còn sơ sinh hoặc thiếu tháng.</p>\n\n<h3><strong>Tương tác thuốc</strong></h3>\n\n<p>Thông báo cho bác sĩ hoặc dược sĩ của bạn biết các thuốc bạn đang sử dụng hoặc vừa sử dụng, bao gồm cả các thuốc không cần kê toa.</p>\n\n<ul>\n\t<li>\n\t<p>Các thuốc điều trị tăng huyết áp khác: Hiệu quả trị tăng huyết áp của Coaprovel có thể tăng thêm khi dùng đồng thời với các thuốc trị tăng huyết áp khác.</p>\n\t</li>\n\t<li>\n\t<p>Lithium: Khuyến cáo không nên phối hợp lithium và Coaprovel. Nếu sự phối hợp được chứng tỏ là cần thiết thì khuyến cáo phải theo dõi cẩn thận nồng độ lithium huyết thanh.</p>\n\t</li>\n\t<li>\n\t<p>Các thuốc ảnh hưởng đến kali: Tác động mất kali của hydrochlorothiazid được làm yếu đi do tác động giữ kali của irbesartan. Sử dụng đồng thời với các thuốc lợi tiểu giữ kali, bổ sung kali, các muối thay thế có chứa kali hoặc các thuốc khác có thể tăng mức độ kali huyết thanh (như natri heparin) có thể dẫn đến tăng kali huyết thanh. Khuyến cáo theo dõi thỏa đáng nồng độ kali huyết thanh ở những bệnh nhân nguy cơ.</p>\n\t</li>\n\t<li>\n\t<p>Các thuốc bị ảnh hưởng bởi sự rối loạn kali huyết thanh (như các glycoside digitalis, các thuốc chống loạn nhịp): Cần theo dõi định kỳ kail huyết.</p>\n\t</li>\n\t<li>\n\t<p>Các thuốc kháng viêm không steroid: Tác dụng trị tăng huyết áp của Coaprovel có thể bị giảm đi.</p>\n\t</li>\n</ul>\n\n<p><em>Các thông tin bổ sung về tương tác của hydrochlorothiazid</em></p>\n\n<ul>\n\t<li>\n\t<p>Rượu: Có khả năng xảy ra tụt huyết áp tư thế.</p>\n\t</li>\n\t<li>\n\t<p>Các thuốc trị đái tháo đường (các thuốc uống và insulin): Có thể phải điều chỉnh liều của các thuốc trị đái tháo đường.</p>\n\t</li>\n\t<li>\n\t<p>Các nhựa trao đổi ion colestyramine và colestipol: Sự hấp thu hydrochlorothiazid kém đi.</p>\n\t</li>\n\t<li>\n\t<p>Các corticosteroid, ACTH: Gia tăng mất các chất điện giải, nhất là hạ kali huyết.</p>\n\t</li>\n\t<li>\n\t<p>Các glycoside digitalis: Thiazide gây ra hạ kali huyết hoặc hạ magnesi huyết làm dễ khởi phát rối loạn nhịp tim gây ra do digitalis.</p>\n\t</li>\n\t<li>\n\t<p>Các thuốc chống viêm không steroid: Có thể làm giảm tác động lợi tiểu, giảm bài tiết sodium niệu và giảm tác động hạ huyết áp của thuốc lợi tiểu thiazide ở một số bệnh nhân.</p>\n\t</li>\n\t<li>\n\t<p>Các amin tăng huyết áp (như noradrenaline): Tác động của các amin tăng huyết áp có thể bị giảm đi, nhưng không đủ để ngăn cản việc sử dụng chúng.</p>\n\t</li>\n\t<li>\n\t<p>Các thuốc giãn cơ vân không khử cực (như tubocurarine): Hydrochlorothiazid làm tăng tác động giãn cơ vân không khử cực.</p>\n\t</li>\n\t<li>\n\t<p>Thuốc trị bệnh gout: Hydrochlorothiazid có thể làm tăng acid uric huyết thanh, tăng tỷ lệ phản ứng quá mẫn với allopurinol.</p>\n\t</li>\n\t<li>\n\t<p>Các muối canxi: Thuốc lợi tiểu thiazide có thể làm tăng nồng độ canxi huyết thanh do làm giảm bài tiết canxi.</p>\n\t</li>\n</ul>\n\n<p>Cần phải xét nghiệm máu nếu bạn sử dụng:</p>\n\n<ul>\n\t<li>\n\t<p>Những loại thuốc bổ sung kali</p>\n\t</li>\n\t<li>\n\t<p>Các chất muối thay thế có chứa kali</p>\n\t</li>\n\t<li>\n\t<p>Các loại thuốc giữ kali hoặc các thuốc lợi tiểu khác</p>\n\t</li>\n\t<li>\n\t<p>Thuốc nhuận trường</p>\n\t</li>\n\t<li>\n\t<p>Thuốc điều trị bệnh gout</p>\n\t</li>\n\t<li>\n\t<p>Thuốc bổ sung <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/vitamin-d\">vitamin D</a></strong></p>\n\t</li>\n\t<li>\n\t<p>Thuốc kiểm soát nhịp tim</p>\n\t</li>\n\t<li>\n\t<p>Các thuốc trị đái tháo đường (dạng uống hoặc insulin)</p>\n\t</li>\n\t<li>\n\t<p><strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/carbamazepine\">Carbamazepine</a></strong> (một loại thuốc điều trị động kinh)</p>\n\t</li>\n</ul>\n\n<p>Cần thông báo cho bác sĩ nếu bạn đang dùng thuốc hạ huyết áp khác, các steroid, thuốc điều trị ung thư, thuốc giảm đau, hoặc thuốc trị viêm khớp.</p>\n\n<p><em>Dùng Coaprovel chung với thức ăn và thức uống</em></p>\n\n<ul>\n\t<li>\n\t<p>Coaprovel có thể được uống cùng hoặc không cùng với thức ăn.</p>\n\t</li>\n\t<li>\n\t<p>Do hydrochlorothiazid chứa trong Coaprovel, nếu bạn uống rượu trong khi đang điều trị thuốc này, có thể bạn có cảm giác choáng váng ở tư thế đứng, nhất là khi đứng lên từ tư thế ngồi.</p>\n\t</li>\n</ul>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Coaprovel 150/12.5mg là thuốc gì? Công dụng, liều dùng và lưu ý",
+        "metaDescription": "Coaprovel 150/12,5 thuốc phối hợp của 2 hoạt chất, irbesartan và hydrochlorothiazid giúp làm hạ huyết áp tốt hơn là khi dùng riêng lẻ từng thành phần.",
+        "id": 3195,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_9406_5b95_large_c98d5ab22e.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc Coaprovel 150mg/12.5mg Sanofi điều trị tăng huyết áp nguyên phát (2 vỉ x 14 viên)",
+            "description": "Thuốc Coaprovel 150/12,5mg là sản phẩm của công ty Sanofi Aventis, thuốc phối hợp của 2 hoạt chất, irbesartan và hydrochlorothiazid. Hai hoạt chất trong Coaprovel 150/12,5mg cùng làm hạ huyết áp tốt hơn là khi dùng riêng lẻ từng thành phần."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 33683,
+        "title": "Liều dùng và cách dùng Coaprovel 150/12.5mg như thế nào?",
+        "content": "<p>Coaprovel 150/12.5mg dùng đường uống, có thể uống trong hoặc ngoài bữa ăn. Liều thông thường là 1 hoặc 2 viên mỗi ngày, tùy thuộc vào tình trạng bệnh và chỉ định của bác sĩ. Nên uống thuốc vào cùng một thời điểm mỗi ngày và uống với một lượng chất lỏng thích hợp. Hiệu quả hạ áp tối đa đạt được sau 6-8 tuần điều trị.</p>"
+      },
+      {
+        "id": 33681,
+        "title": "Cần lưu ý những gì khi sử dụng Coaprovel 150/12.5mg?",
+        "content": "<p>Cần báo cho bác sĩ nếu có các tình trạng như tiêu chảy hoặc ói mửa nhiều, vấn đề về thận, tim, gan, <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">đái tháo đường</a>, lupus ban đỏ, tăng aldosteron nguyên phát. Cũng cần báo cho bác sĩ nếu đang theo chế độ ăn kiêng ít muối, có các dấu hiệu mất nước hoặc rối loạn điện giải, từng bị nhạy cảm da với ánh sáng mặt trời, sắp phẫu thuật hoặc gây mê. Hydrochlorothiazide có thể cho kết quả dương tính khi xét nghiệm chống doping. Thuốc không chắc chắn ảnh hưởng đến khả năng lái xe hoặc vận hành máy móc, nhưng nếu gặp choáng váng hoặc mệt mỏi cần tham khảo ý kiến bác sĩ. Coaprovel không được khuyên dùng cho phụ nữ có thai và đang cho con bú. Cần thông báo cho bác sĩ về tất cả các loại thuốc đang sử dụng để tránh tương tác, đặc biệt là các thuốc ảnh hưởng đến kali, lithium, thuốc kháng viêm không steroid, rượu, thuốc trị đái tháo đường, nhựa trao đổi ion, corticosteroid, ACTH, glycoside digitalis, amin tăng huyết áp, thuốc giãn cơ vân không khử cực, thuốc trị bệnh gout và muối canxi.</p>"
+      },
+      {
+        "id": 33680,
+        "title": "Những ai không nên sử dụng Coaprovel 150/12.5mg?",
+        "content": "<p>Coaprovel 150/12.5mg chống chỉ định trong các trường hợp sau: Dị ứng với Irbesartan, Hydrochlorothiazide hoặc các dẫn xuất sulfonamid; phụ nữ đang mang thai hơn 3 tháng (tốt nhất là tránh từ khi bắt đầu mang thai); bệnh gan hoặc thận nặng; cơ thể gặp cản trở tạo ra nước tiểu; bệnh lý làm tăng lượng calci hay giảm lượng kali kéo dài trong máu; trẻ em dưới 18 tuổi.</p>"
+      },
+      {
+        "id": 33679,
+        "title": "Tác dụng phụ thường gặp và ít gặp của Coaprovel 150/12.5mg là gì?",
+        "content": "<p>Tác dụng phụ thường gặp (ADR &gt;1/100) bao gồm buồn nôn/nôn, tiểu bất thường, mệt mỏi, choáng váng, và thay đổi kết quả xét nghiệm máu liên quan đến chức năng cơ, tim và thận. Tác dụng phụ ít gặp (1/1000 &lt; ADR &lt; 1/100) bao gồm tiêu chảy, huyết áp thấp, ngất, tăng nhịp tim, phừng đỏ mặt và sưng phồng. Ngoài ra, còn có các tác dụng phụ hiếm gặp hoặc không rõ tần suất như phản ứng dị ứng da, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">đau đầu</a>, ho, rối loạn vị giác, đau nhức khớp và cơ, rối loạn chức năng gan, giảm chức năng thận, tăng kali máu và vàng da. Tác dụng phụ của từng thành phần Irbesartan và Hydrochlorothiazide khi dùng đơn độc cũng có thể xảy ra.</p>"
+      },
+      {
+        "id": 33678,
+        "title": "Coaprovel 150/12.5mg được chỉ định điều trị bệnh gì?",
+        "content": "<p>Thuốc Coaprovel 150/12.5mg được chỉ định dùng cho những bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/tang-huyet-ap.html\">tăng huyết áp</a> (tăng huyết áp nguyên phát) mà huyết áp chưa được kiểm soát thỏa đáng khi điều trị riêng lẻ bằng Irbesartan hoặc Hydrochlorothiazide.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00005718",
+        "name": "PANANGIN GEDEON 50V",
+        "webName": "Viên nén Panangin Gedeon bổ sung kali, magnesi dùng trong suy tim (50 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2062_d16aeaf713.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8218,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2820,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/panangin-2715.html",
+        "ingredients": "Kali aspartat khan 158mg, Magie 140mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Gedeon",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 50 Viên",
+        "prices": [
+          {
+            "id": 8219,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 141000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 8218,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2820,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 58,
+          "attributeName": "Hungary",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/hu_Hungary_025bdc77ac.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001598",
+        "name": "CARDIOTON 30MG  3X10",
+        "webName": "Thuốc Cardioton Lipa Pharmaceuticals điều trị suy tim, tăng huyết áp, thiếu máu cơ tim (3 vỉ x 10 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/cardioton_30mg_3x10_00001598_efd03b68ec.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1797,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 7647,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cardilopin-30mg-4382.html",
+        "ingredients": "Ubidecarenone 30mg, D-alpha tocopherol 6.71mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "LIPA PHARMACEUTICALSLTD",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 1799,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 229400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 1797,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7647,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1798,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 76467,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "A052300000450",
+        "name": "ANBA-QE PHƯƠNG ĐÔNG 3X10",
+        "webName": "Thuốc Anba-QE Phương Đông điều trị thiểu năng tuần hoàn, thiếu máu cơ tim, tăng huyết áp động mạch (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/36_5f16613b76.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 56221,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 540000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/anba-qe-phuong-dong-3-x10.html",
+        "ingredients": "Ubidecarenone 100mg, Vitamin E 12.31mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Phương Đông",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 56221,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 540000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 56222,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 180000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 56223,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 18000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00022504",
+        "name": "BESTIMAC Q10 30MG MEDIPLANTEX 6X10",
+        "webName": "Thuốc Bestimac Q10 30mg Mediplantex điều trị tăng cholesterol máu, suy tim sung huyết (6 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00022504_bestimac_q10_30mg_mediplantex_6x10_7525_609b_large_619f0b04cf.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 28906,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 286000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bestimac-q10-30mg-mediplantex-6x10-22830.html",
+        "ingredients": "Ubidecarenone 30mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Mediplantex",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 28904,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 4767,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 28906,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 286000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 28905,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 47667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00050619",
+        "name": "PAVICARDI 50MG/250IU CPC1HN 2X15",
+        "webName": "Thuốc Parvicardi CPC1 bổ sung năng lượng cho cơ tim, điều trị các bệnh tim mạch (2 vỉ x 15 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_pavicardi_50mg_250iu_2x15_cpc1hn_00050619_82c96ce76a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 79961,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 16000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pavicardi-50-mg-250-iu-cpc-1-hn-2-x15.html",
+        "ingredients": "Coenzym Q10 50mg, Vitamin E 250iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "CPC1HN",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 15 Viên",
+        "prices": [
+          {
+            "id": 79959,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 480000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 79960,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 240000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 79961,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 16000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00000769",
+        "name": "AN THẦN BỔ TÂM-F FITO 40V",
+        "webName": "Thuốc An Thần Bổ Tâm - F Fito dưỡng tâm, an thần (40 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_4882_599f_large_1e78644b05.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 571,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 66000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vien-uong-an-than-bo-tam-f-516.html",
+        "ingredients": "Táo Nhân 133.3mg, Mạch môn 133.3mg, Sinh Địa 400mg, Thiên môn đông 133.3mg, Bá tử nhân 133.3mg, Huyền sâm 66.7mg, Viễn chí 66.7mg, Ngũ vị tử 66.7mg, Đảng Sâm 53.3mg, Đương quy 53.3mg, Đan sâm 46.7mg, Phục thần 46.7mg, Cát cánh 26.7mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Fito",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 40 viên",
+        "prices": [
+          {
+            "id": 570,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1650,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 571,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 66000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 27,
+      "items": [
+        {
+          "id": 3351208,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0946xxxxxx",
+          "name": "Thu",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Nhiêu tiền 1 hộp vậy ạ",
+          "createdAt": "2026-08-03 16:43:37",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-08-03 16:43:38",
+          "replies": [
+            {
+              "id": 3351210,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Tiểu Thanh Trúc",
+                "moderatorEmail": "trucptt5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Tiểu Thanh Trúc",
+              "email": "trucptt5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị <strong>Thu,</strong></p><p>Hiện tại, sản phẩm có giá 302,400 ₫/hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-08-03 16:46:33",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-08-03 16:43:38",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3339645,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0823xxxxxx",
+          "name": "cHỊ NHUNG",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "e xin giá",
+          "createdAt": "2026-07-15 14:05:13",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-15 14:05:13",
+          "replies": [
+            {
+              "id": 3339682,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Võ Nguyễn Hồng Ngọc",
+                "moderatorEmail": "ngocvnh3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Võ Nguyễn Hồng Ngọc",
+              "email": "ngocvnh3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Nhung ạ,</p><p>Dạ sản phẩm Coaprovel 150/12.5 Sanofi có giá bán niêm yết hiện tại là 302.400đ / hộp ạ.</p><p>Để nhận được tư vấn kỹ hơn cũng như cập nhật các thông tin mới nhất, Chị vui lòng gửi yêu cầu tư vấn trực tiếp ngay trên website để Dược sĩ Long Châu chủ động liên hệ tư vấn chi tiết cho mình ạ.</p>",
+              "createdAt": "2026-07-15 14:44:25",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-15 14:05:13",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3318107,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0917xxxxxx",
+          "name": "Chị Hiền",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 hộp giá bao nhiêu ạ",
+          "createdAt": "2026-06-05 16:29:09",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-06-05 16:29:09",
+          "replies": [
+            {
+              "id": 3318110,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Ngọc Trâm",
+                "moderatorEmail": "tramnn18@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Ngọc Trâm",
+              "email": "tramnn18@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hiền,</p><p>Hiện tại, sản phẩm COAPROVEL 150/12.5 SNF có giá 302,400 ₫/hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-06-05 16:33:21",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-06-05 16:29:09",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3316989,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0333xxxxxx",
+          "name": "nga thùy",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 hộp bao nhiêu vậy",
+          "createdAt": "2026-06-03 15:27:03",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-06-03 15:27:03",
+          "replies": [
+            {
+              "id": 3317029,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Tú Chi",
+                "moderatorEmail": "chintt3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Tú Chi",
+              "email": "chintt3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Nga</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với Chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-06-03 16:12:33",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-06-03 15:27:03",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3286645,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0987xxxxxx",
+          "name": "thủy",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá 1 hộp",
+          "createdAt": "2026-04-07 09:21:25",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-07 09:21:25",
+          "replies": [
+            {
+              "id": 3286690,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Trà Giang",
+                "moderatorEmail": "giangntt47@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Trà Giang",
+              "email": "giangntt47@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Thủy, </p><p>Hiện tại, sản phẩm COAPROVEL 150/12.5 SNF 2X14 có giá 302.400đ/ hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a> <a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-04-07 09:38:23",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-07 09:21:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 3095627,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0914xxxxxx",
+          "name": "Nguyễn Bẩy",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Sử dụng thuốc này huyết áp rất ổn định từ 120- dưới 130/80",
+          "createdAt": "2025-04-24 07:01:27",
+          "createdAtDisplay": "24/04/2025",
+          "updatedAt": "2025-04-24 07:01:27",
+          "replies": [
+            {
+              "id": 3095646,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Vi Trần",
+                "moderatorEmail": "vit2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Vi Trần",
+              "email": "vit2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Nguyễn Bẩy,</p><p>Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu. Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-04-24 07:58:29",
+              "createdAtDisplay": "24/04/2025",
+              "updatedAt": "2025-04-24 07:01:27",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Coaprovel 150mg/12.5mg Sanofi điều trị tăng huyết áp nguyên phát (2 vỉ x 14 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_9406_5b95_large_c98d5ab22e.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_6892_5b95_large_35f824c031.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_1399_5b95_large_0fc47b0674.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_5118_5b95_large_07a76e99d1.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_1292_5b95_large_3866c3cdfe.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_2002_5b95_large_d7c39aed71.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Coaprovel 150/12,5mg là sản phẩm của công ty Sanofi Aventis, thuốc phối hợp của 2 hoạt chất, irbesartan và hydrochlorothiazid. Hai hoạt chất trong Coaprovel 150/12,5mg cùng làm hạ huyết áp tốt hơn là khi dùng riêng lẻ từng thành phần.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Coaprovel 150/12.5mg là thuốc gì? Công dụng, liều dùng và lưu ý",
+      "description": "Coaprovel 150/12,5 thuốc phối hợp của 2 hoạt chất, irbesartan và hydrochlorothiazid giúp làm hạ huyết áp tốt hơn là khi dùng riêng lẻ từng thành phần.",
+      "openGraph": {
+        "title": "Thuốc Coaprovel 150mg/12.5mg Sanofi điều trị tăng huyết áp nguyên phát (2 vỉ x 14 viên)",
+        "description": "Thuốc Coaprovel 150/12,5mg là sản phẩm của công ty Sanofi Aventis, thuốc phối hợp của 2 hoạt chất, irbesartan và hydrochlorothiazid. Hai hoạt chất trong Coaprovel 150/12,5mg cùng làm hạ huyết áp tốt hơn là khi dùng riêng lẻ từng thành phần.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009759_coaprovel_150125_9406_5b95_large_c98d5ab22e.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/coaprovel-150125-1500.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/coaprovel-150125-1500.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

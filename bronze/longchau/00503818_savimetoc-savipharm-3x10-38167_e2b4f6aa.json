@@ -1,0 +1,870 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/savimetoc-savipharm-3x10-38167.html",
+  "ingestion_timestamp": "2026-09-05T11:17:18.372773+00:00",
+  "file_hash": "ac406cc1aff3a52bcccd33385cdf9975d1e361afe3f02fe9823927c4477c5868",
+  "lineage_hash": "3244b0eeaf9ef9d0d86335ba22f4b37df085d6548df6483065ea835de4aadef6",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/savimetoc-savipharm-3x10-38167.html",
+    "product": {
+      "sku": "00503818",
+      "webName": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên)",
+      "name": "SAVIMETOC SAVIPHARM 3X10",
+      "shortName": "SAVIMETOC SAVIPHARM 3X10",
+      "headingText": "Thuốc SaViMetoc",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03687_832df2ceba.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03687_832df2ceba.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03688_0e749f11b1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03689_f4589f8f56.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03690_cd64993900.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03691_4f8578402f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03692_535eade5c3.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03693_ac73fa0cc2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03694_1cc84595ab.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/savi_metoc_2_6d30915fea.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/savi_metoc_3_fc2227d003.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/savi_metoc_4_b0cc61319d.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/savi_metoc_1_59479d33a8.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 726,
+          "name": "Cơ - xương - khớp",
+          "parentName": "Thuốc",
+          "slug": "thuoc/co-xuong-khop",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 741,
+          "name": "Thuốc giãn cơ",
+          "parentName": "Cơ - xương - khớp",
+          "slug": "thuoc/co-xuong-khop/thuoc-gian-co",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/savimetoc-savipharm-3x10-38167.html",
+      "ingredient": [
+        {
+          "id": 51743,
+          "ingredientId": 31537,
+          "shortDescription": "325mg",
+          "name": "Paracetamol",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 51744,
+          "ingredientId": 27186,
+          "shortDescription": "400mg",
+          "name": "Methocarbamol",
+          "isPrimary": false,
+          "slug": "thanh-phan/methocarbamol"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893110371523",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc SaViMetoc dùng đường uống.</p><h3>Liều dùng</h3><p>Thuốc phải được dùng theo chỉ dẫn của bác sĩ. Sử dụng liều nhỏ nhất có hiệu quả.</p><p><i>Người lớn và trẻ em từ 12 tuổi trở lên:</i></p><p>Uống 2 viên/lần, cách 6 giờ uống 1 lần. Không dùng quá 8 viên/ngày.</p><p><i>Trẻ em dưới 12 tuổi:</i></p><p>Không dùng SaViMetoc cho trẻ em dưới 12 tuổi.<br>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p><strong>Liên quan đến paracetamol</strong></p><p><i>Triệu chứng</i></p><p>Nhiễm độc paracetamol có thể dùng một liều độc duy nhất, hoặc do uống lập lại liều lớn paracetamol (ví dụ 7,5 - 10 g mỗi ngày, trong 1 - 2 ngày), hoặc do uống thuốc dài ngày. Hoại tử gan phụ thuộc liều là tác dụng độc cấp tính nghiêm trọng nhất do quá liều và có thể gây tử vong.</p><p>Buồn nôn, nôn và đau bụng thường xảy ra trong vòng 2 - 3 giờ sau khi uống liều độc của thuốc. Methemoglobin máu, dẫn đến chứng xanh tím da, niêm mạc và móng tay là một dấu hiệu đặc trưng nhiễm độc cấp tính dẫn chất p- aminophenol; một lượng nhỏ sulfhemoglobin cũng có thể được sản sinh. Trẻ em có khuynh hướng tạo methemoglobin dễ hơn người lớn sau khi uống paracetamol.</p><p>Khi bị ngộ độc nặng, ban đầu có thể kích thích hệ thần kinh trung ương, kích động và mê sảng. Tiếp theo có thể là ức chế hệ thần kinh trung ương: Sững sờ, hạ thân nhiệt, mệt lả, thở nhanh, nông; mạch nhanh, yếu, không đều, huyết áp thấp và suy tuần hoàn. Trụy mạch do giảm oxy huyết tương đối và do tác dụng ức chế trung tâm, tác dụng này chỉ xảy ra với liều rất lớn. Sốc có thể xảy ra nếu giãn mạch nhiều. Cơn co giật nghẹt thở gây tử vong có thể xảy ra. Thường hôn mê xảy ra trước khi chết đột ngột hoặc sau vài ngày hôn mê.</p><p>Dấu hiệu lâm sàng thương tổn gan trở nên rõ rệt trong vòng 2 đến 4 ngày sau khi uống liều độc. Aminotransferase huyết tương tăng (đôi khi tăng rất cao) và nồng độ bilirubin trong huyết tương cũng có thể tăng; thêm nữa, khi thương tổn gan lan rộng, thời gian prothrombin kéo dài. Có thể 10% người bệnh bị ngộ độc không được điều trị đặc hiệu đã có thương tổn gan nghiêm trọng; trong số đó 10% đến 20% cuối cùng chết vì suy gan. Suy thận cấp cũng xảy ra ở một số người bệnh.</p><p>Sinh thiết gan phát hiện hoại tử trung tâm tiểu thùy trừ vùng quanh tĩnh mạch cửa. Ở những trường hợp không tử vong, thương tổn gan phục hồi sau nhiều tuần hoặc nhiều tháng.</p><p><i>Xử trí</i></p><p>Chẩn đoán sớm rất quan trọng trong điều trị quá liều paracetamol. Có những phương pháp xác định nhanh nồng độ thuốc trong huyết tương. Tuy vậy, không được trì hoãn điều trị trong khi chờ kết quả xét nghiệm nếu bệnh sử gợi ý là quá liều nặng. Khi nhiễm độc nặng, điều quan trọng là phải điều trị hỗ trợ tích cực. Cần rửa dạ dày trong mọi trường hợp, tốt nhất trong vòng 4 giờ sau khi uống.</p><p>Liệu pháp giải độc chính là dùng những hợp chất sulfhydryl, có lẽ tác động một phần do bổ sung dự trữ glutathion ở gan. N-acetylcystein có tác dụng khi uống hoặc tiêm tĩnh mạch. Phải dùng thuốc giải độc ngay lập tức, càng sớm càng tốt nếu chưa đến 36 giờ kể từ khi uống paracetamol. Điều trị với N-acetylcystein có hiệu quả hơn khi cho thuốc trong thời gian dưới 10 giờ sau khi uống paracetamol. Khi cho uống, hòa loãng dung dịch N-acetylcystein với nước hoặc đồ uống không có rượu để đạt dung dịch 5% và phải uống trong vòng 1 giờ sau khi pha. Cho uống N-acetylcystein với liều đầu tiên là 140 mg/kg, sau đó cho tiếp 17 liều nữa, với mỗi liều 70 mg/kg cách nhau 4 giờ một lần.</p><p>Chấm dứt điều trị nếu xét nghiệm paracetamol trong huyết tương cho thấy nguy cơ độc hại gan thấp. Cũng có thể dùng N-acetylcystein theo đường tĩnh mạch: liều ban đầu là 150mg/kg, pha loãng 200 ml glucose 5%, tiêm tĩnh mạch trong 15 phút; sau đó truyền tĩnh mạch liều 50 mg/kg trong 500 ml glucose 5% trong 4 giờ; tiếp theo là 100 mg/kg trong 1 lít dung dịch trong vòng 16 giờ tiếp theo.</p><p>Nếu không có dung dịch glucose 5% thì có thể dùng dung dịch natri clorid 0,9%.</p><p>Tác dụng không mong muốn của N-acetylcystein gồm ban da (gồm cả mày đay, không yêu cầu phải ngừng thuốc), buồn nôn, nôn, tiêu chảy, và phản ứng kiểu phản vệ.&nbsp;</p><p>Nếu không có N-acetylcystein, có thể dùng methionin.</p><p>Nếu đã dùng than hoạt trước khi dùng methionin thì phải hút than hoạt ra khỏi dạ dày trước. Ngoài ra có thể dùng than hoạt và/hoặc thuốc tẩy muối, chúng có khả năng làm giảm hấp thụ paracetamol.</p><p><strong>Liên quan đến methocarbamol</strong></p><p>Dữ liệu liên quan đến quá liều methocarbamol ở người còn hạn chế.</p><p><i>Triệu chứng</i></p><p>Quá liều methocarbamol có thể gây buồn nôn, buồn ngủ, nhìn mờ, hạ huyết áp, động kinh và hôn mê, bất tỉnh. Quá liều methocarbamol thường xảy ra khi người bệnh uống rượu hay các thuốc ức chế hệ thần kinh trung ương khi đang điều trị với methocarbamol. Một người đã sống sót sau khi cố ý uống 22 - 30 g methocarbamol mà không gây độc tính gì nghiêm trọng, một người khác đã sống sót sau khi uống liều 30 - 50 g. Triệu chứng điển hình nhất của cả 2 trường hợp trên là cực kỳ buồn ngủ.</p><p>Tuy nhiên, đã có trường hợp tử vong do quá liều methocarbamol.</p><p><i>Xử trí</i></p><p>Điều trị quá liều methocarbamol bao gồm điều trị triệu chứng và hỗ trợ. Biện pháp hỗ trợ bao gồm giữ thông đường thở, theo dõi lượng nước tiểu và các dấu hiệu của sự sống, truyền dịch khi cần. Chưa biết rõ lợi ích của chạy thận nhân tạo trong xử trí quá liều methocarbamol.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3>Làm gì khi quên 1 liều?</h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc SaViMetoc giúp giảm đau liên quan đến co thắt cơ như đau lưng, co cứng cổ, <a href=\"https://nhathuoclongchau.com.vn/benh/trat-khop-1210.html\">trật khớp</a> hoặc bong gân.</p><h3>Dược lực học</h3><p><strong>Nhóm dược lý: Thuốc giảm đau, giãn cơ</strong></p><p><strong>Mä ATC: N02BE51</strong></p><p>Tác dụng của thuốc dựa trên sự kết hợp giữa tác dụng giãn cơ của methocarbamol và tác dụng giảm đau hạ sốt của paracetamol. SaViMetoc làm tăng ngưỡng chịu đau, tăng lưu lượng máu qua da, giảm thân nhiệt, tăng tiết mồ hồi.</p><p><strong>Methocarbamol</strong></p><p>Methocarbamol được dùng trong hỗ trợ điều trị các chứng rối loạn cơ xương cấp tính liên quan đến co thắt cơ bắp.</p><p>Cơ chế tác động của methocarbamol ở người chưa được biết rõ, tuy nhiên có thể là do ức chế hệ thần kinh trung ương. Methocarbamol không có tác động trực tiếp lên co thắt cơ vân, tấm vận động hay các sợi thần kinh.</p><p><strong>Paracetamol</strong></p><p>Paracetamol (acetaminophen hay N-acetyl-p-aminophenol) là chất chuyển hóa có hoạt tính của phenacetin, là <a href=\"https://nhathuoclongchau.com.vn/bai-viet/phan-loai-cac-nhom-thuoc-giam-dau-va-nhung-dieu-can-chu-y-khi-su-dung.html\">thuốc giảm đau</a> - hạ sốt hữu hiệu có thể thay thế aspirin; tuy vậy, khác với aspirin, paracetamol không có hiệu quả điều trị viêm. Với liều ngang nhau tỉnh theo gam, paracetamol có tác dụng giảm đau và hạ sốt tương tự như aspirin.</p><p>Paracetamol làm giảm thân nhiệt ở người bệnh sốt, nhưng hiếm khi làm giảm thân nhiệt ở người bình thường. Thuốc tác động lên vùng dưới đồi gây hạ nhiệt, tỏa nhiệt tăng do giãn mạch và tăng lưu lượng máu ngoại biên.</p><p>Paracetamol, với liều điều trị, ít tác động đến hệ tim mạch và hô hấp, không làm thay đổi cân bằng acid - base, không gây kích ứng, xước hoặc chảy máu dạ dày như khi dùng salicylat. Tác dụng của paracetamol trên hoạt tính cyclooxygenase chưa được biết đầy đủ.</p><p>Paracetamol không có tác dụng trên tiểu cầu hoặc thời gian chảy máu.</p><h3>Dược động học</h3><p><strong>Methocarbamol</strong></p><p><i>Hấp thụ</i></p><p>Methocarbamol được hấp thu nhanh chóng và hoàn toàn qua đường tiêu hóa. Nồng độ đỉnh trong huyết tương đạt được sau khoảng 1 - 3 giờ.</p><p><i>Phân bố</i></p><p>Chưa biết liệu methocarbamol có tiết vào sữa mẹ hay không.</p><p><i>Chuyển hóa và thải trừ</i></p><p>Nửa đời thải trừ của methocarbamol khoảng 2 giờ.</p><p>Methocarbamol và hai chất chuyển hóa chính của nó gắn với glucuronic và acid sulfuric và được thải trừ gần như hoàn toàn qua thận. Khoảng 50% liều sau khi uống thải trừ qua nước tiểu, chỉ có một phần nhỏ thải trừ dưới dạng không thay đổi.</p><p><strong>Paracetamol</strong></p><p><i>Hấp thụ</i></p><p>Paracetamol được hấp thu nhanh và hầu như hoàn toàn qua đường tiêu hóa. Thức ăn giàu carbon hydrat làm giảm tỷ lệ hấp thu của paracetamol. Nồng độ đỉnh trong huyết tương đạt trong vòng 30 - 60 phút sau khi uống với liều điều trị.</p><p><i>Phân bố</i></p><p>Paracetamol phân bố nhanh và đồng đều trong phần lớn các mô của cơ thể. Khoảng 25% paracetamol trong máu kết hợp với protein huyết tương.</p><p><i>Chuyển hóa</i></p><p>Paracetamol chuyển hóa chủ yếu qua phản ứng liên hợp sulfat và glucuronid. Một lượng nhỏ chuyển hóa thành chất chuyển hóa độc, N-acetyl-p-benzoquinonimin (NAPQI). NAPQI được khử độc bằng glutathion và đào thải vào nước tiểu và/hoặc mật. Khi chất chuyển hóa không được liên hợp với glutathion sẽ gây độc cho các tế bào gan và gây hoại tử tế bào. Paracetamol thưởng an toàn với liều điều trị, vì lượng NAPQI được tạo thành tương đối ít và glutathion tạo thành trong tế bào gan đủ liên hợp với NAPQI.</p><p><i>Thải trừ</i></p><p>Nửa đời thải trừ của paracetamol là 1,25 - 3 giờ, có thể kéo dài với liều gây độc hoặc ở người bệnh có tổn thương gan.</p><p>Sau liều điều trị, có thể tìm thấy 90% đến 100% thuốc trong nước tiểu trong ngày thứ nhất, chủ yếu sau khi liên hợp trong gan với acid glucuronic (khoảng 60%), acid sulfuric (khoảng 35%) hoặc cystein (khoảng 3%); cũng phát hiện thấy một lượng nhỏ những chất chuyển hóa hydroxyl hoá và khử acetyl. Trẻ nhỏ ít khả năng glucuro liên hợp với thuốc hơn so với người lớn.</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/acetaminophen\">Paracetamol</a> bị N-hydroxyl hóa bởi cytochrom Paso để tạo nên N-acetyl-benzoquinonimin, một chất trung gian có tính phản ứng cao. Chất chuyển hóa này bình thường phản ứng với các nhóm sulfhydryl trong glutathion và như vậy bị khử hoạt tính. Tuy nhiên, nếu uống liều cao paracetamol, chất chuyển hóa này được tạo thành với lượng đủ để làm cạn kiệt glutathion của gan; trong tình trạng đó, phản ứng của nó với nhóm sulfhydryl của protein gan tăng lên, có thể dẫn đến hoại tử gan.</p><p><strong>Dược động học của những trường hợp đặc biệt</strong></p><p><i>Suy thận</i></p><p>Ở người bệnh suy thận đang chạy thận nhân tạo, độ thanh thải của methocarbamol giảm hơn 40% so với người bình thường; trong khi đó, nửa đời thải trừ không thay đổi nhiều so với người bình thường.</p><p><i>Suy gan</i></p><p>Ở người bệnh xơ gan thứ phát do rượu, độ thanh thải tổng cộng trung bình của methocarbamol giảm khoảng 70% so với người bình thường, nửa đời thải trừ kéo dài đến khoảng 3,4 giờ. Khoảng 40% - 45% methocarbamol gắn với protein huyết tương; trong khi đó, ở người bình thường cùng độ tuổi và cân nặng, tỉ lệ này là 46% - 50%.</p>",
+      "brand": "Savi",
+      "brandType": null,
+      "adverseEffect": "<p>Ngưng thuốc và đến gặp bác sỹ hoặc cơ sở y tế gần nhất ngay nếu xuất hiện các phản ứng dị ứng như thở khò khè, phát ban và ngứa.</p><p>Các tác dụng không mong muốn được phân chia theo tần suất gặp như sau: Rất thường gặp ≥1/10), thường gặp (≥1/100 đến &lt; 1/10), ít gặp (1/1.000 đến &lt;1/100), hiếm gặp (≥1/10.000 đến &lt;1/1.000), rất hiếm gặp (&lt;1/10.000) và không rõ tần suất.</p><p><strong>Liên quan đến paracetamol</strong></p><p>Phản ứng da nghiêm trọng như hội chứng Stevens-Johnson, hội chứng Lyell, hoại tử biểu bì nhiễm độc, mụn mủ ban đỏ toàn thân cấp tuy hiếm xảy ra, nhưng có khả năng gây tử vong. Nếu thấy xuất hiện ban da hay các biểu hiện khác về da, phải ngừng dùng thuốc.</p><p>Ban da và những phản ứng dị ứng khác thỉnh thoảng xảy ra. Thường là ban đỏ hoặc mày đay, nhưng đôi khi nặng hơn và có thể kèm theo sốt do thuốc và thương tổn niêm mạc. Nếu thấy sốt, bọng nước quanh các hốc tự nhiên, nên nghĩ đến hội chứng Stevens-Johnson. Quá liều paracetamol có thể dẫn đến tổn thương gan nặng và đôi khi hoại tử ống thận cấp. Người bệnh mẫn cảm với salicylat hiếm mẫn cảm với paracetamol và những thuốc có liên quan. Trong một số ít trường hợp riêng lẻ, paracetamol đã gây giảm bạch cầu trung tính, giảm tiểu cầu và giảm toàn thể huyết cầu.</p><p><i>Hệ miễn dịch</i></p><ul><li>Quá mẫn cảm bao gồm phát ban.</li><li>Không rõ tần suất: Sốc phản vệ, phù mạch.</li></ul><p><i>Máu và hệ bạch huyết</i></p><ul><li>Không rõ tần suất: Giảm tiểu cầu, giảm bạch cầu hạt.</li></ul><p><i>Da</i></p><ul><li>Rất hiếm gặp: Hội chứng Steven-Johnson (SJS), hội chứng hoại tử da nhiễm độc (TEN) hay hội chứng Lyell, hội chứng ngoại ban mụn mủ toàn thân cấp tính (AGEP).</li></ul><p><strong>Liên quan đến methocarbamol</strong></p><p>Tác dụng phụ thường gặp nhất của methocarbamol là đau đầu.</p><p><i>Chung</i></p><ul><li>Hiếm gặp: Đau đầu, sốt, phù nề do thần kinh.</li></ul><p><i>Tiêu hóa</i></p><ul><li>Rất hiếm gặp: Buồn nôn, nôn.</li></ul><p><i>Hệ thần kinh</i></p><ul><li>Hiếm gặp: Choáng váng.</li><li>Rất hiếm gặp: Nhìn mờ, buồn ngủ, run, co giật.</li></ul><p><i>Tâm thần</i></p><ul><li>Rất hiếm gặp: Bồn chồn, lo lắng, lú lẫn, chán ăn.</li></ul><p><i>Da</i></p><ul><li>Hiếm gặp: Phản ứng dị ứng (mề đay, phát ban, ngứa)</li></ul><p><i>Mắt</i></p><ul><li>Hiếm gặp: Viêm kết mạc kèm nghẹt mũi.</li></ul><p><strong>Các tác dụng không mong muốn sau đây đã được báo cáo</strong></p><p>Máu và bạch huyết: Giảm bạch cầu.</p><p>Tim mạch: Chậm nhịp, mặt đỏ bừng, hạ huyết áp, ngất.</p><p>Toàn thân: Phản ứng phản vệ.</p><p>Tiêu hóa: Rối loạn tiêu hóa, vàng da (bao gồm vàng da ứ mật).</p><p>Hệ thần kinh: Chóng mặt, mất phối hợp cơ bắp nhẹ, mất trí nhớ, nhìn đôi, rung giật nhãn cầu, mất ngủ, co giật.</p><p>Các giác quan đặc biệt: Rối loạn vị giác.</p><p><strong>Hướng dẫn cách xử trí ADR:</strong></p><p>Thông báo cho thầy thuốc các tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "CÔNG TY CP DƯỢC PHẨM SAVI (SAVIPHARM)",
+      "shortDescription": "<p>Thuốc SaViMetoc chứa hoạt chất Paracetamol và Methocarbamol giúp giảm đau liên quan đến co thắt cơ như đau lưng, co cứng cổ, trật khớp hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/bong-gan-co-chan.html\">bong gân</a>.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/savi",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": null,
+      "officialProductName": "SAVIMETOC",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 741,
+        "name": "Thuốc giãn cơ",
+        "parentName": "Cơ - xương - khớp",
+        "slug": "thuoc/co-xuong-khop/thuoc-gian-co",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03687_832df2ceba.jpg",
+          "alternativeText": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03687_832df2ceba.jpg",
+          "alternativeText": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03688_0e749f11b1.jpg",
+          "alternativeText": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03689_f4589f8f56.jpg",
+          "alternativeText": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03690_cd64993900.jpg",
+          "alternativeText": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03691_4f8578402f.jpg",
+          "alternativeText": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03692_535eade5c3.jpg",
+          "alternativeText": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03693_ac73fa0cc2.jpg",
+          "alternativeText": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03694_1cc84595ab.jpg",
+          "alternativeText": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/savi_metoc_2_6d30915fea.jpg",
+          "alternativeText": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên) 10"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/savi_metoc_3_fc2227d003.jpg",
+          "alternativeText": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên) 11"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/savi_metoc_4_b0cc61319d.jpg",
+          "alternativeText": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên) 12"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/savi_metoc_1_59479d33a8.jpg",
+          "alternativeText": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên) 13"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Cơ - xương - khớp",
+        "slug": "/thuoc/co-xuong-khop"
+      },
+      {
+        "name": "Thuốc giãn cơ",
+        "slug": "/thuoc/co-xuong-khop/thuoc-gian-co"
+      }
+    ],
+    "content": {
+      "sku": "00503818",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc SaViMetoc dùng đường uống.</p><h3>Liều dùng</h3><p>Thuốc phải được dùng theo chỉ dẫn của bác sĩ. Sử dụng liều nhỏ nhất có hiệu quả.</p><p><i>Người lớn và trẻ em từ 12 tuổi trở lên:</i></p><p>Uống 2 viên/lần, cách 6 giờ uống 1 lần. Không dùng quá 8 viên/ngày.</p><p><i>Trẻ em dưới 12 tuổi:</i></p><p>Không dùng SaViMetoc cho trẻ em dưới 12 tuổi.<br>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p><strong>Liên quan đến paracetamol</strong></p><p><i>Triệu chứng</i></p><p>Nhiễm độc paracetamol có thể dùng một liều độc duy nhất, hoặc do uống lập lại liều lớn paracetamol (ví dụ 7,5 - 10 g mỗi ngày, trong 1 - 2 ngày), hoặc do uống thuốc dài ngày. Hoại tử gan phụ thuộc liều là tác dụng độc cấp tính nghiêm trọng nhất do quá liều và có thể gây tử vong.</p><p>Buồn nôn, nôn và đau bụng thường xảy ra trong vòng 2 - 3 giờ sau khi uống liều độc của thuốc. Methemoglobin máu, dẫn đến chứng xanh tím da, niêm mạc và móng tay là một dấu hiệu đặc trưng nhiễm độc cấp tính dẫn chất p- aminophenol; một lượng nhỏ sulfhemoglobin cũng có thể được sản sinh. Trẻ em có khuynh hướng tạo methemoglobin dễ hơn người lớn sau khi uống paracetamol.</p><p>Khi bị ngộ độc nặng, ban đầu có thể kích thích hệ thần kinh trung ương, kích động và mê sảng. Tiếp theo có thể là ức chế hệ thần kinh trung ương: Sững sờ, hạ thân nhiệt, mệt lả, thở nhanh, nông; mạch nhanh, yếu, không đều, huyết áp thấp và suy tuần hoàn. Trụy mạch do giảm oxy huyết tương đối và do tác dụng ức chế trung tâm, tác dụng này chỉ xảy ra với liều rất lớn. Sốc có thể xảy ra nếu giãn mạch nhiều. Cơn co giật nghẹt thở gây tử vong có thể xảy ra. Thường hôn mê xảy ra trước khi chết đột ngột hoặc sau vài ngày hôn mê.</p><p>Dấu hiệu lâm sàng thương tổn gan trở nên rõ rệt trong vòng 2 đến 4 ngày sau khi uống liều độc. Aminotransferase huyết tương tăng (đôi khi tăng rất cao) và nồng độ bilirubin trong huyết tương cũng có thể tăng; thêm nữa, khi thương tổn gan lan rộng, thời gian prothrombin kéo dài. Có thể 10% người bệnh bị ngộ độc không được điều trị đặc hiệu đã có thương tổn gan nghiêm trọng; trong số đó 10% đến 20% cuối cùng chết vì suy gan. Suy thận cấp cũng xảy ra ở một số người bệnh.</p><p>Sinh thiết gan phát hiện hoại tử trung tâm tiểu thùy trừ vùng quanh tĩnh mạch cửa. Ở những trường hợp không tử vong, thương tổn gan phục hồi sau nhiều tuần hoặc nhiều tháng.</p><p><i>Xử trí</i></p><p>Chẩn đoán sớm rất quan trọng trong điều trị quá liều paracetamol. Có những phương pháp xác định nhanh nồng độ thuốc trong huyết tương. Tuy vậy, không được trì hoãn điều trị trong khi chờ kết quả xét nghiệm nếu bệnh sử gợi ý là quá liều nặng. Khi nhiễm độc nặng, điều quan trọng là phải điều trị hỗ trợ tích cực. Cần rửa dạ dày trong mọi trường hợp, tốt nhất trong vòng 4 giờ sau khi uống.</p><p>Liệu pháp giải độc chính là dùng những hợp chất sulfhydryl, có lẽ tác động một phần do bổ sung dự trữ glutathion ở gan. N-acetylcystein có tác dụng khi uống hoặc tiêm tĩnh mạch. Phải dùng thuốc giải độc ngay lập tức, càng sớm càng tốt nếu chưa đến 36 giờ kể từ khi uống paracetamol. Điều trị với N-acetylcystein có hiệu quả hơn khi cho thuốc trong thời gian dưới 10 giờ sau khi uống paracetamol. Khi cho uống, hòa loãng dung dịch N-acetylcystein với nước hoặc đồ uống không có rượu để đạt dung dịch 5% và phải uống trong vòng 1 giờ sau khi pha. Cho uống N-acetylcystein với liều đầu tiên là 140 mg/kg, sau đó cho tiếp 17 liều nữa, với mỗi liều 70 mg/kg cách nhau 4 giờ một lần.</p><p>Chấm dứt điều trị nếu xét nghiệm paracetamol trong huyết tương cho thấy nguy cơ độc hại gan thấp. Cũng có thể dùng N-acetylcystein theo đường tĩnh mạch: liều ban đầu là 150mg/kg, pha loãng 200 ml glucose 5%, tiêm tĩnh mạch trong 15 phút; sau đó truyền tĩnh mạch liều 50 mg/kg trong 500 ml glucose 5% trong 4 giờ; tiếp theo là 100 mg/kg trong 1 lít dung dịch trong vòng 16 giờ tiếp theo.</p><p>Nếu không có dung dịch glucose 5% thì có thể dùng dung dịch natri clorid 0,9%.</p><p>Tác dụng không mong muốn của N-acetylcystein gồm ban da (gồm cả mày đay, không yêu cầu phải ngừng thuốc), buồn nôn, nôn, tiêu chảy, và phản ứng kiểu phản vệ.&nbsp;</p><p>Nếu không có N-acetylcystein, có thể dùng methionin.</p><p>Nếu đã dùng than hoạt trước khi dùng methionin thì phải hút than hoạt ra khỏi dạ dày trước. Ngoài ra có thể dùng than hoạt và/hoặc thuốc tẩy muối, chúng có khả năng làm giảm hấp thụ paracetamol.</p><p><strong>Liên quan đến methocarbamol</strong></p><p>Dữ liệu liên quan đến quá liều methocarbamol ở người còn hạn chế.</p><p><i>Triệu chứng</i></p><p>Quá liều methocarbamol có thể gây buồn nôn, buồn ngủ, nhìn mờ, hạ huyết áp, động kinh và hôn mê, bất tỉnh. Quá liều methocarbamol thường xảy ra khi người bệnh uống rượu hay các thuốc ức chế hệ thần kinh trung ương khi đang điều trị với methocarbamol. Một người đã sống sót sau khi cố ý uống 22 - 30 g methocarbamol mà không gây độc tính gì nghiêm trọng, một người khác đã sống sót sau khi uống liều 30 - 50 g. Triệu chứng điển hình nhất của cả 2 trường hợp trên là cực kỳ buồn ngủ.</p><p>Tuy nhiên, đã có trường hợp tử vong do quá liều methocarbamol.</p><p><i>Xử trí</i></p><p>Điều trị quá liều methocarbamol bao gồm điều trị triệu chứng và hỗ trợ. Biện pháp hỗ trợ bao gồm giữ thông đường thở, theo dõi lượng nước tiểu và các dấu hiệu của sự sống, truyền dịch khi cần. Chưa biết rõ lợi ích của chạy thận nhân tạo trong xử trí quá liều methocarbamol.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3>Làm gì khi quên 1 liều?</h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<p>Tham khảo thông tin tờ hướng dẫn sử dụng của thuốc.</p>",
+      "adverseEffect": "<p>Ngưng thuốc và đến gặp bác sỹ hoặc cơ sở y tế gần nhất ngay nếu xuất hiện các phản ứng dị ứng như thở khò khè, phát ban và ngứa.</p><p>Các tác dụng không mong muốn được phân chia theo tần suất gặp như sau: Rất thường gặp ≥1/10), thường gặp (≥1/100 đến &lt; 1/10), ít gặp (1/1.000 đến &lt;1/100), hiếm gặp (≥1/10.000 đến &lt;1/1.000), rất hiếm gặp (&lt;1/10.000) và không rõ tần suất.</p><p><strong>Liên quan đến paracetamol</strong></p><p>Phản ứng da nghiêm trọng như hội chứng Stevens-Johnson, hội chứng Lyell, hoại tử biểu bì nhiễm độc, mụn mủ ban đỏ toàn thân cấp tuy hiếm xảy ra, nhưng có khả năng gây tử vong. Nếu thấy xuất hiện ban da hay các biểu hiện khác về da, phải ngừng dùng thuốc.</p><p>Ban da và những phản ứng dị ứng khác thỉnh thoảng xảy ra. Thường là ban đỏ hoặc mày đay, nhưng đôi khi nặng hơn và có thể kèm theo sốt do thuốc và thương tổn niêm mạc. Nếu thấy sốt, bọng nước quanh các hốc tự nhiên, nên nghĩ đến hội chứng Stevens-Johnson. Quá liều paracetamol có thể dẫn đến tổn thương gan nặng và đôi khi hoại tử ống thận cấp. Người bệnh mẫn cảm với salicylat hiếm mẫn cảm với paracetamol và những thuốc có liên quan. Trong một số ít trường hợp riêng lẻ, paracetamol đã gây giảm bạch cầu trung tính, giảm tiểu cầu và giảm toàn thể huyết cầu.</p><p><i>Hệ miễn dịch</i></p><ul><li>Quá mẫn cảm bao gồm phát ban.</li><li>Không rõ tần suất: Sốc phản vệ, phù mạch.</li></ul><p><i>Máu và hệ bạch huyết</i></p><ul><li>Không rõ tần suất: Giảm tiểu cầu, giảm bạch cầu hạt.</li></ul><p><i>Da</i></p><ul><li>Rất hiếm gặp: Hội chứng Steven-Johnson (SJS), hội chứng hoại tử da nhiễm độc (TEN) hay hội chứng Lyell, hội chứng ngoại ban mụn mủ toàn thân cấp tính (AGEP).</li></ul><p><strong>Liên quan đến methocarbamol</strong></p><p>Tác dụng phụ thường gặp nhất của methocarbamol là đau đầu.</p><p><i>Chung</i></p><ul><li>Hiếm gặp: Đau đầu, sốt, phù nề do thần kinh.</li></ul><p><i>Tiêu hóa</i></p><ul><li>Rất hiếm gặp: Buồn nôn, nôn.</li></ul><p><i>Hệ thần kinh</i></p><ul><li>Hiếm gặp: Choáng váng.</li><li>Rất hiếm gặp: Nhìn mờ, buồn ngủ, run, co giật.</li></ul><p><i>Tâm thần</i></p><ul><li>Rất hiếm gặp: Bồn chồn, lo lắng, lú lẫn, chán ăn.</li></ul><p><i>Da</i></p><ul><li>Hiếm gặp: Phản ứng dị ứng (mề đay, phát ban, ngứa)</li></ul><p><i>Mắt</i></p><ul><li>Hiếm gặp: Viêm kết mạc kèm nghẹt mũi.</li></ul><p><strong>Các tác dụng không mong muốn sau đây đã được báo cáo</strong></p><p>Máu và bạch huyết: Giảm bạch cầu.</p><p>Tim mạch: Chậm nhịp, mặt đỏ bừng, hạ huyết áp, ngất.</p><p>Toàn thân: Phản ứng phản vệ.</p><p>Tiêu hóa: Rối loạn tiêu hóa, vàng da (bao gồm vàng da ứ mật).</p><p>Hệ thần kinh: Chóng mặt, mất phối hợp cơ bắp nhẹ, mất trí nhớ, nhìn đôi, rung giật nhãn cầu, mất ngủ, co giật.</p><p>Các giác quan đặc biệt: Rối loạn vị giác.</p><p><strong>Hướng dẫn cách xử trí ADR:</strong></p><p>Thông báo cho thầy thuốc các tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p dir=\"ltr\">Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc SaViMetoc giúp giảm đau liên quan đến co thắt cơ như đau lưng, co cứng cổ, <a href=\"https://nhathuoclongchau.com.vn/benh/trat-khop-1210.html\">trật khớp</a> hoặc bong gân.</p><h3>Dược lực học</h3><p><strong>Nhóm dược lý: Thuốc giảm đau, giãn cơ</strong></p><p><strong>Mä ATC: N02BE51</strong></p><p>Tác dụng của thuốc dựa trên sự kết hợp giữa tác dụng giãn cơ của methocarbamol và tác dụng giảm đau hạ sốt của paracetamol. SaViMetoc làm tăng ngưỡng chịu đau, tăng lưu lượng máu qua da, giảm thân nhiệt, tăng tiết mồ hồi.</p><p><strong>Methocarbamol</strong></p><p>Methocarbamol được dùng trong hỗ trợ điều trị các chứng rối loạn cơ xương cấp tính liên quan đến co thắt cơ bắp.</p><p>Cơ chế tác động của methocarbamol ở người chưa được biết rõ, tuy nhiên có thể là do ức chế hệ thần kinh trung ương. Methocarbamol không có tác động trực tiếp lên co thắt cơ vân, tấm vận động hay các sợi thần kinh.</p><p><strong>Paracetamol</strong></p><p>Paracetamol (acetaminophen hay N-acetyl-p-aminophenol) là chất chuyển hóa có hoạt tính của phenacetin, là <a href=\"https://nhathuoclongchau.com.vn/bai-viet/phan-loai-cac-nhom-thuoc-giam-dau-va-nhung-dieu-can-chu-y-khi-su-dung.html\">thuốc giảm đau</a> - hạ sốt hữu hiệu có thể thay thế aspirin; tuy vậy, khác với aspirin, paracetamol không có hiệu quả điều trị viêm. Với liều ngang nhau tỉnh theo gam, paracetamol có tác dụng giảm đau và hạ sốt tương tự như aspirin.</p><p>Paracetamol làm giảm thân nhiệt ở người bệnh sốt, nhưng hiếm khi làm giảm thân nhiệt ở người bình thường. Thuốc tác động lên vùng dưới đồi gây hạ nhiệt, tỏa nhiệt tăng do giãn mạch và tăng lưu lượng máu ngoại biên.</p><p>Paracetamol, với liều điều trị, ít tác động đến hệ tim mạch và hô hấp, không làm thay đổi cân bằng acid - base, không gây kích ứng, xước hoặc chảy máu dạ dày như khi dùng salicylat. Tác dụng của paracetamol trên hoạt tính cyclooxygenase chưa được biết đầy đủ.</p><p>Paracetamol không có tác dụng trên tiểu cầu hoặc thời gian chảy máu.</p><h3>Dược động học</h3><p><strong>Methocarbamol</strong></p><p><i>Hấp thụ</i></p><p>Methocarbamol được hấp thu nhanh chóng và hoàn toàn qua đường tiêu hóa. Nồng độ đỉnh trong huyết tương đạt được sau khoảng 1 - 3 giờ.</p><p><i>Phân bố</i></p><p>Chưa biết liệu methocarbamol có tiết vào sữa mẹ hay không.</p><p><i>Chuyển hóa và thải trừ</i></p><p>Nửa đời thải trừ của methocarbamol khoảng 2 giờ.</p><p>Methocarbamol và hai chất chuyển hóa chính của nó gắn với glucuronic và acid sulfuric và được thải trừ gần như hoàn toàn qua thận. Khoảng 50% liều sau khi uống thải trừ qua nước tiểu, chỉ có một phần nhỏ thải trừ dưới dạng không thay đổi.</p><p><strong>Paracetamol</strong></p><p><i>Hấp thụ</i></p><p>Paracetamol được hấp thu nhanh và hầu như hoàn toàn qua đường tiêu hóa. Thức ăn giàu carbon hydrat làm giảm tỷ lệ hấp thu của paracetamol. Nồng độ đỉnh trong huyết tương đạt trong vòng 30 - 60 phút sau khi uống với liều điều trị.</p><p><i>Phân bố</i></p><p>Paracetamol phân bố nhanh và đồng đều trong phần lớn các mô của cơ thể. Khoảng 25% paracetamol trong máu kết hợp với protein huyết tương.</p><p><i>Chuyển hóa</i></p><p>Paracetamol chuyển hóa chủ yếu qua phản ứng liên hợp sulfat và glucuronid. Một lượng nhỏ chuyển hóa thành chất chuyển hóa độc, N-acetyl-p-benzoquinonimin (NAPQI). NAPQI được khử độc bằng glutathion và đào thải vào nước tiểu và/hoặc mật. Khi chất chuyển hóa không được liên hợp với glutathion sẽ gây độc cho các tế bào gan và gây hoại tử tế bào. Paracetamol thưởng an toàn với liều điều trị, vì lượng NAPQI được tạo thành tương đối ít và glutathion tạo thành trong tế bào gan đủ liên hợp với NAPQI.</p><p><i>Thải trừ</i></p><p>Nửa đời thải trừ của paracetamol là 1,25 - 3 giờ, có thể kéo dài với liều gây độc hoặc ở người bệnh có tổn thương gan.</p><p>Sau liều điều trị, có thể tìm thấy 90% đến 100% thuốc trong nước tiểu trong ngày thứ nhất, chủ yếu sau khi liên hợp trong gan với acid glucuronic (khoảng 60%), acid sulfuric (khoảng 35%) hoặc cystein (khoảng 3%); cũng phát hiện thấy một lượng nhỏ những chất chuyển hóa hydroxyl hoá và khử acetyl. Trẻ nhỏ ít khả năng glucuro liên hợp với thuốc hơn so với người lớn.</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/acetaminophen\">Paracetamol</a> bị N-hydroxyl hóa bởi cytochrom Paso để tạo nên N-acetyl-benzoquinonimin, một chất trung gian có tính phản ứng cao. Chất chuyển hóa này bình thường phản ứng với các nhóm sulfhydryl trong glutathion và như vậy bị khử hoạt tính. Tuy nhiên, nếu uống liều cao paracetamol, chất chuyển hóa này được tạo thành với lượng đủ để làm cạn kiệt glutathion của gan; trong tình trạng đó, phản ứng của nó với nhóm sulfhydryl của protein gan tăng lên, có thể dẫn đến hoại tử gan.</p><p><strong>Dược động học của những trường hợp đặc biệt</strong></p><p><i>Suy thận</i></p><p>Ở người bệnh suy thận đang chạy thận nhân tạo, độ thanh thải của methocarbamol giảm hơn 40% so với người bình thường; trong khi đó, nửa đời thải trừ không thay đổi nhiều so với người bình thường.</p><p><i>Suy gan</i></p><p>Ở người bệnh xơ gan thứ phát do rượu, độ thanh thải tổng cộng trung bình của methocarbamol giảm khoảng 70% so với người bình thường, nửa đời thải trừ kéo dài đến khoảng 3,4 giờ. Khoảng 40% - 45% methocarbamol gắn với protein huyết tương; trong khi đó, ở người bình thường cùng độ tuổi và cân nặng, tỉ lệ này là 46% - 50%.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p>Thuốc SaViMetoc chống chỉ định trong các trường hợp sau:</p><ul><li>Quá mẫn với methocarbamol, paracetamol hoặc bất cứ thành phần nào của thuốc.</li><li>Suy gan nặng.</li><li>Tổn thương não, động kinh.</li><li>Hôn mê hoặc tiền hôn mê.</li><li>Nhược cơ.</li></ul><h3>Thận trọng khi sử dụng</h3><p>Không dùng các thuốc khác có chứa paracetamol hoặc methocarbamol. Không dùng liều cao hơn liều khuyến cáo trừ khi được bác sỹ chỉ định. Nên dùng liều nhỏ nhất có hiệu quả. Dùng quá liều tối đa có thể gây tổn thương gan nghiêm trọng dẫn đến tử vong.</p><p>Ngưng thuốc ngay và thông báo với bác sỹ nếu xuất hiện các phản ứng dị ứng như thở khò khè, phát ban và ngứa; hoặc nếu các triệu chứng kéo dài hơn 5 ngày hoặc sốt kéo dài hơn 3 ngày.</p><p>Thông báo với bác sỹ nếu người bệnh nghiện rượu, suy gan hoặc suy thận, người bệnh là phụ nữ có thai hoặc đang cho con bú.</p><p>Không dùng SaViMetoc khi đang dùng các chất ức chế MAO (Monoamin oxidase) hoặc đã ngưng thuốc ức chế MAO trong vòng 2 tuần trước đó.</p><p><strong>Liên quan đến paracetamol</strong></p><p>Paracetamol tương đối không độc với liều điều trị. Đôi khi có những phản ứng da gồm ban dát sẩn ngứa và mày đay; những phản ứng mẫn cảm khác gồm phù thanh quản, phù mạch, và những phản ứng kiểu phản vệ có thể ít khi xảy ra. Giảm tiểu cầu, giảm bạch cầu, và giảm toàn thể huyết cầu đã xảy ra với việc sử dụng những dẫn chất p-aminophenol, đặc biệt khi dùng kéo dài các liều lớn. Giảm bạch cầu trung tính và ban xuất huyết giảm tiểu cầu đã xảy ra khi dùng paracetamol. Hiếm gặp mất bạch cầu hạt ở người bệnh dùng paracetamol.</p><p>Thận trọng khi dùng paracetamol cho người bị suy gan, suy thận, người nghiện rượu, suy dinh dưỡng mạn tính hoặc bị mất nước. Uống nhiều rượu có thể gây tăng độc tính với gan của paracetamol, nên tránh và hạn chế uống rượu.</p><p>Dùng paracetamol thận trọng ở những người bệnh có thiếu máu từ trước, vì chứng xanh tím có thể không biểu lộ rõ, mặc dù có nồng độ cao nguy hiểm của methemoglobin trong máu.</p><p>Phản ứng phụ nghiêm trọng trên da: Bác sĩ cần cảnh báo bệnh nhân về các dấu hiệu của phản ứng trên da nghiêm trọng. Mặc dù tỉ lệ mắc phải là không cao nhưng nghiêm trọng, thậm chí đe dọa tính mạng bao gồm hội chứng Steven-Johnson (SJS), hội chứng hoại tử da nhiễm độc: Toxic epidermal necrolysis (TEN) hay hội chứng Lyell, hội chứng ngoại ban mụn mủ toàn thân cấp tính: Acute generalized exanthematous (AGEP).</p><p><i>Hội chứng Stevens-Johnson (SJS): </i>Là dị ứng thuốc thể bọng nước, bọng nước khu trú ở quanh các hốc mắt tự nhiên: Mắt, mũi, miệng, tai, bộ phận sinh dục và hậu môn. Ngoài ra, có thể kèm sốt cao, viêm phổi, rối loạn chức năng gan thận. Chẩn đoán hội chứng Stevens-Johnson (SJS) khi có ít nhất 2 hốc tự nhiên bị tổn thương.</p><p><i>Hội chứng hoại tử da nhiễm độc (TEN): </i>Là thể dị ứng thuốc nặng nhất, gồm: Tổn thương niêm mặc mắt (viêm giác mạc, viêm kết mạc mù, loét giác mạc); tổn thương niêm mạc đường tiêu hóa (viêm miệng, trợt niêm mạc miệng, loét hầu, họng thực quản, dạ dày, ruột); tổn thương niêm mạc đường sinh dục, tiết niệu; ngoài ra, còn có các triệu chứng toàn thân trầm trọng như sốt xuất huyết đường tiêu hóa, viêm phổi, viêm cầu thận, viêm gan... tỷ lệ tử vong cao 15 - 30%.</p><p><i>Hội chứng ngoại ban mụn mủ toàn thân cấp tính (AGEP): </i>Mụn mủ vô trùng nhỏ phát sinh trên hồng ban lan rộng. Tổn thương thường xuất hiện ở các nếp gấp như nách, bẹn và mặt, sau đó có thể lan rộng toàn thân. Triệu chứng toàn thân thường có sốt, xét nghiệm máu bạch cầu múi trung tính tăng cao.</p><p><strong>Liên quan đến methocarbamol</strong></p><p>Thận trọng khi dùng methocarbamol ở người bị suy gan, suy thận.</p><p>Methocarbamol có thể làm thay đổi màu của nước tiểu sang màu nâu, đen, xanh hay xanh lá.</p><p>Methocarbamol cho kết quả dương tính giả (có thể là do một chất chuyển hóa của thuốc gây ra) trong xét nghiệm 5-HIAA (5-hydroxyindolacetic acid) sử dụng thuốc thử nitrosonaphtol (phương pháp định lượng của Udenfriend) và xét nghiệm VMA (vanillylmandelic acid) trong nước tiểu theo phương pháp của Gitlow (Phương pháp định lượng của Sunderman không bị ảnh hưởng).</p><p>Methocarbamol có thể gây ức chế thần kinh trung ương, do đó cần thận trọng khi uống rượu và kết hợp với các thuốc ức chế thần kinh trung ương khác.</p><h3>Ảnh hưởng của thuốc lên khả năng lái xe và vận hành máy móc</h3><p>Paracetamol không gây ảnh hưởng đến khả năng lái xe và vận hành máy móc. Tuy nhiên, methocarbamol có thể gây choáng váng và buồn ngủ. Do đó, không nên dùng SaViMetoc khi lái xe và vận hành máy móc, đặc biệt là khi uống rượu hoặc đang dùng chung với các thuốc khác có khả năng gây buồn ngủ.</p><h3>Sử dụng thuốc cho phụ nữ trong thời kỳ mang thai và cho con bú</h3><p><strong>Phụ nữ có thai</strong></p><p>Không nên dùng SaViMetoc ở phụ nữ có thai trừ khi lợi ích mang lại vượt hẳn nguy cơ.</p><p><i>Liên quan đến paracetamol</i></p><p>Các nghiên cứu dịch tễ học trong thai kỳ của con người cho thấy paracetamol không gây tác dụng xấu khi sử dụng liều khuyến cáo, nhưng người bệnh không nên tự ý sử dụng mà phải tuân theo chỉ định của bác sĩ. Một số lượng lớn dữ liệu về phụ nữ mang thai cho thấy paracetamol không gây dị dạng, không gây độc tính cho bào thai hay trẻ sơ sinh.</p><p>Paracetamol có thể được sử dụng trong thời kỳ mang thai nếu cần thiết về mặt lâm sàng tuy nhiên nên sử dụng liều thấp nhất có hiệu quả trong thời gian ngắn nhất và ở tần suất thấp nhất có thể.</p><p><i>Liên quan đến methocarbamol</i></p><p>Chưa xác định được tính an toàn của methocarbamol dùng khi có thai liên quan đến tác dụng không mong muốn có thể có đối với sự phát triển của thai nhi. Đã có các báo cáo hiếm gặp bất thường ở thai nhi sau khi phơi nhiễm với methocarbamol. Vì vậy, không nên dùng methocarbamol ở phụ nữ có khả năng mang thai và phụ nữ có thai trừ khi lợi ích mang lại vượt hẳn nguy cơ.</p><p><strong>Phụ nữ cho con bú</strong></p><p>Nghiên cứu ở người cho con bú, dùng paracetamol không thấy có tác dụng không mong muốn ở trẻ nhỏ bú mẹ. Tuy nhiên, chưa biết methocarbamol có tiết vào sữa mẹ hay không. Do đó, nên sử dụng thuốc thận trọng ở phụ nữ đang cho con bú.</p><h3>Tương tác thuốc</h3><p><strong>Methocarbamol có thể tương tác với các thuốc sau</strong></p><p>Methocarbamol làm tăng tác dụng của một số chất ức chế và kích thích hệ thần kinh trung ương bao gồm rượu, barbiturat, thuốc gây mê và các chất ức chế thèm ǎn.</p><p>Methocarbamol cũng làm tăng tác dụng của các thuốc kháng cholinergic (như atropin) và các thuốc hướng thần.</p><p>Methocarbamol ức chế tác dụng của pyridostigminbromid. Do đó, cần thận trọng khi dùng methocarbamol ở những bệnh nhân nhược cơ có dùng các tác nhân ức chế cholinesterase.</p><p><strong>Paracetamol có thể tương tác với các thuốc sau</strong></p><p><i>Chống động coumarin và dẫn chất indandion:</i> Uống dài ngày liều cao paracetamol làm tăng nhẹ tác dụng của chống động coumarin và dẫn chất indandion.</p><p><i>Dùng đồng thời phenothiazin và liệu pháp hạ nhiệt với paracetamol: </i>Cần phải chú ý đến khả năng gây hạ thân nhiệt nghiêm trọng ở người bệnh.</p><p><i>Rượu: </i>Uống rượu quá nhiều và dài ngày có thể làm tăng nguy cơ gây độc cho gan của paracetamol.</p><p><i>Thuốc chống co giật (gồm phenytoin, barbiturat, carbamazepin - gây cảm ứng enzym ở microsom thể gan): </i>Có thể làm tăng tính độc hại gan của paracetamol do tăng chuyển hóa thuốc thành những chất độc hại với gan.</p><p><i>Dùng đồng thời isoniazid với paracetamol: </i>Cũng có thể dẫn đến tăng nguy cơ độc tính với gan, nhưng chưa xác định được cơ chế chính xác tương tác này.</p><p><i>Probenecid:</i> Có thể làm giảm đào thải paracetamol và làm tăng nửa đời thải trừ trong huyết tương của paracetamol.</p><p><i>Các thuốc chống lao: </i>Làm tăng độc tính của paracetamol đối với gan.</p><p>Tốc độ hấp thu của paracetamol tăng lên khi dùng đồng thời với metoclopramid hoặc domperidon, tốc độ hấp thu của paracetamol giảm đi khi dùng đồng thời với colestyramin.</p><p><strong>Tương kỵ của thuốc</strong></p><p>Do không có các nghiên cứu về tính tương kỵ của thuốc, không trộn lẫn thuốc này với các thuốc khác.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Ngô Kim Thúy",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp loại giỏi trường Đại học Y Dược Huế. Từng tham gia nghiên cứu khoa học đề tài về Dược liệu. Nhiều năm kinh nghiệm làm việc trong lĩnh vực Dược phẩm. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-ngo-kim-thuy",
+        "isLegit": true,
+        "id": 9,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Nguyen_Kim_Thuy_ea92026f36.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên)",
+        "metaDescription": "Thuốc SaViMetoc chứa hoạt chất Paracetamol và Methocarbamol giúp giảm đau liên quan đến co thắt cơ như đau lưng, co cứng cổ, trật khớp hoặc bong gân.",
+        "id": 38513,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03687_832df2ceba.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên)",
+            "description": "Thuốc SaViMetoc chứa hoạt chất Paracetamol và Methocarbamol giúp giảm đau liên quan đến co thắt cơ như đau lưng, co cứng cổ, trật khớp hoặc bong gân."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 373,
+        "title": "Dược lực học là gì?",
+        "content": "<p>\r\n\r\nDược lực học l&agrave; nghi&ecirc;n cứu c&aacute;c ảnh hưởng sinh h&oacute;a, sinh l&yacute;, v&agrave; ph&acirc;n tử của thuốc tr&ecirc;n cơ thể v&agrave; li&ecirc;n quan đến thụ thể li&ecirc;n kết, hiệu ứng sau thụ thể, v&agrave; tương t&aacute;c h&oacute;a học. Dược lực học, với dược động học, gi&uacute;p giải th&iacute;ch mối quan hệ giữa liều v&agrave; đ&aacute;p ứng, tức l&agrave; c&aacute;c t&aacute;c dụng của thuốc. Đ&aacute;p ứng dược l&yacute; phụ thuộc v&agrave;o sự li&ecirc;n kết của thuốc với đ&iacute;ch t&aacute;c dụng. Nồng độ thuốc ở vị tr&iacute; thụ thể ảnh hưởng đến t&aacute;c dụng của thuốc.</p>"
+      },
+      {
+        "id": 372,
+        "title": "Dược động học là gì?",
+        "content": "<p>\r\n\r\nDược động học l&agrave; những t&aacute;c động của cơ thể đối với thuốc trong suốt qu&aacute; tr&igrave;nh thuốc đi v&agrave;o, ở trong v&agrave; đi ra khỏi cơ thể- bao gồm c&aacute;c qu&aacute; tr&igrave;nh hấp thụ, sinh khả dụng, ph&acirc;n bố, chuyển h&oacute;a, v&agrave; thải trừ.</p>"
+      },
+      {
+        "id": 371,
+        "title": "Tác dụng phụ của thuốc là gì? Cách phòng tránh tác dụng phụ của thuốc",
+        "content": "<p>\r\n\r\nT&aacute;c dụng phụ l&agrave; những triệu chứng kh&ocirc;ng mong muốn xảy ra khi ch&uacute;ng ta uống thuốc. C&aacute;c t&aacute;c dụng phụ n&agrave;y c&oacute; thể kh&ocirc;ng nghi&ecirc;m trọng, chẳng hạn chỉ g&acirc;y <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><strong>đau đầu</strong></a> hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mieng-312.html\"><strong>kh&ocirc; miệng</strong></a>. Nhưng cũng c&oacute; những t&aacute;c dụng phụ đe dọa t&iacute;nh mạng. Cẩn ph&ograve;ng tr&aacute;nh t&aacute;c dụng phụ của <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> như: Th&ocirc;ng b&aacute;o c&aacute;c loại thuốc đang sử dụng với b&aacute;c sĩ, c&aacute;c <strong><a href=\"https://nhathuoclongchau.com.vn/benh\">bệnh</a></strong> l&yacute; nền hiện tại, c&aacute;c tương t&aacute;c của thuốc đến thực phẩm hằng ng&agrave;y. Đọc kỹ hướng dẫn sử dụng thuốc v&agrave; nếu gặp t&aacute;c dụng phụ cần b&aacute;o ngay cho b&aacute;c sĩ.</p>"
+      },
+      {
+        "id": 370,
+        "title": "Sử dụng thuốc đúng cách như thế nào?",
+        "content": "<p>\r\n\r\nSử dụng <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> đ&uacute;ng c&aacute;ch l&agrave; uống thuốc theo chỉ dẫn của dược sĩ, b&aacute;c sĩ. Ngo&agrave;i ra kh&ocirc;ng d&ugrave;ng nước quả, nước kho&aacute;ng hoặc c&aacute;c loại nước ngọt đ&oacute;ng hộp c&oacute; gas để uống thuốc. Kh&ocirc;ng d&ugrave;ng sữa để uống thuốc v&igrave; trong th&agrave;nh phần của sữa c&oacute; chứa <strong><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/canxi\">canxi</a></strong>. Kh&ocirc;ng d&ugrave;ng c&agrave; ph&ecirc; hay nước ch&egrave; để uống thuốc. Chỉ n&ecirc;n uống c&ugrave;ng nước lọc.</p>"
+      },
+      {
+        "id": 369,
+        "title": "Các dạng bào chế của thuốc?",
+        "content": "<p>\r\n\r\nC&oacute; c&aacute;c dạng b&agrave;o chế thuốc như<br />\r\nTheo thể chất:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc thể rắn (thuốc bột, thuốc vi&ecirc;n).</li>\r\n\t<li>C&aacute;c dạng thuốc thể mềm (thuốc cao, thuốc mỡ, gel).</li>\r\n\t<li>C&aacute;c dạng thuốc thể lỏng (dung dịch, hỗn dịch, nhũ dịch, xiro).</li>\r\n</ul>\r\n\r\n<p>Theo đường d&ugrave;ng:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc uống (vi&ecirc;n, bột, dung dịch, nhũ dịch, hỗn dịch).</li>\r\n\t<li>C&aacute;c dạng thuốc ti&ecirc;m (dung dịch, hỗn dịch, nhũ dịch, bột pha ti&ecirc;m, dịch truyền).</li>\r\n\t<li>C&aacute;c dạng thuốc d&ugrave;ng ngo&agrave;i (thuốc b&ocirc;i tr&ecirc;n da, thuốc nhỏ l&ecirc;n ni&ecirc;m mạc, thuốc s&uacute;c miệng).</li>\r\n\t<li>C&aacute;c dạng thuốc đặt v&agrave;o c&aacute;c hốc tự nhi&ecirc;n tr&ecirc;n cơ thể (thuốc đặt hậu m&ocirc;n, thuốc trứng đặt &acirc;m đạo...).</li>\r\n</ul>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 11,
+      "items": [
+        {
+          "id": 3265534,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0980xxxxxx",
+          "name": "bảo",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá 1h",
+          "createdAt": "2026-02-26 20:09:02",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-26 20:09:02",
+          "replies": [
+            {
+              "id": 3265566,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Châu",
+                "moderatorEmail": "chauntn9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Ngọc Châu",
+              "email": "chauntn9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Bảo </p><p>Hiện tại, sản phẩm có giá 131.000d/ hộp </p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-02-26 20:21:41",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-26 20:09:02",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3224898,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0929xxxxxx",
+          "name": "quỳnh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bán bao nhiêu 1  hộp vậy",
+          "createdAt": "2025-12-05 20:21:39",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2025-12-05 20:21:39",
+          "replies": [
+            {
+              "id": 3224902,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Phương Lan",
+                "moderatorEmail": "lannp9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Phương Lan",
+              "email": "lannp9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Bạn Quỳnh,</p><p> Dạ sản phẩm có giá 131,000 ₫/ Hộp.</p><p> Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p>",
+              "createdAt": "2025-12-05 20:24:03",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-12-05 20:21:39",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3187460,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0779xxxxxx",
+          "name": "MINH THƯ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "XIN GIÁ Ạ",
+          "createdAt": "2025-09-28 15:22:16",
+          "createdAtDisplay": "11 tháng trước",
+          "updatedAt": "2025-09-28 15:22:15",
+          "replies": [
+            {
+              "id": 3187461,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Huệ",
+                "moderatorEmail": "huent39@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Huệ",
+              "email": "huent39@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị <strong>MINH THƯ</strong>,</p><p>Hiện tại, sản phẩm có giá 131,000 ₫/hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-09-28 15:25:03",
+              "createdAtDisplay": "11 tháng trước",
+              "updatedAt": "2025-09-28 15:22:15",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3139595,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0835xxxxxx",
+          "name": "Lê Thụy Vũ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Uống vào có bị táo bón không?bệnh gout uống được không?",
+          "createdAt": "2025-07-05 12:43:01",
+          "createdAtDisplay": "05/07/2025",
+          "updatedAt": "2025-07-05 12:42:56",
+          "replies": [
+            {
+              "id": 3139597,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Tạ Bích Loan",
+                "moderatorEmail": "loantb@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Tạ Bích Loan",
+              "email": "loantb@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Lê Thuỵ Vũ,</p><p>Dạ sản phẩm Thuốc SaViMetoc giảm đau do co thắt cơ không gây ra tình trạng táo bón và nên tham khảo ý kiến của bác sĩ trước khi sử dụng với đối tượng bị gout ạ.</p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p>",
+              "createdAt": "2025-07-05 12:45:51",
+              "createdAtDisplay": "05/07/2025",
+              "updatedAt": "2025-07-05 12:42:56",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3139593,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0915xxxxxx",
+          "name": "Hoàng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Đau gối uống được không?",
+          "createdAt": "2025-07-05 12:34:50",
+          "createdAtDisplay": "05/07/2025",
+          "updatedAt": "2025-07-05 12:34:46",
+          "replies": [
+            {
+              "id": 3139594,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Tạ Bích Loan",
+                "moderatorEmail": "loantb@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Tạ Bích Loan",
+              "email": "loantb@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Hoàng,</p><p>Dạ sản phẩm Thuốc SaViMetoc giảm đau do co thắt cơ mình có thể sử dụng cho đau gối và theo dõi thêm ạ.</p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p>",
+              "createdAt": "2025-07-05 12:36:41",
+              "createdAtDisplay": "05/07/2025",
+              "updatedAt": "2025-07-05 12:34:46",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 3349773,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0918xxxxxx",
+          "name": "Nguyễn Đình Khánh",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-08-01 07:31:14",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-08-01 07:31:14",
+          "replies": [
+            {
+              "id": 3349778,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Vi",
+                "moderatorEmail": "vit2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Vi",
+              "email": "vit2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Nguyễn Đình Khánh,</p><p>Dạ rất cảm ơn tình cảm của anh dành cho Nhà thuốc FPT Long Châu. Chúc anh nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-08-01 08:00:39",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-08-01 07:31:14",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03687_832df2ceba.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03687_832df2ceba.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03688_0e749f11b1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03689_f4589f8f56.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03690_cd64993900.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03691_4f8578402f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03692_535eade5c3.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03693_ac73fa0cc2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03694_1cc84595ab.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/savi_metoc_2_6d30915fea.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/savi_metoc_3_fc2227d003.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/savi_metoc_4_b0cc61319d.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc SaViMetoc chứa hoạt chất Paracetamol và Methocarbamol giúp giảm đau liên quan đến co thắt cơ như đau lưng, co cứng cổ, trật khớp hoặc bong gân.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ngô Kim Thúy"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên)",
+      "description": "Thuốc SaViMetoc chứa hoạt chất Paracetamol và Methocarbamol giúp giảm đau liên quan đến co thắt cơ như đau lưng, co cứng cổ, trật khớp hoặc bong gân.",
+      "openGraph": {
+        "title": "Thuốc SaViMetoc giảm đau do co thắt cơ (3 vỉ x 10 viên)",
+        "description": "Thuốc SaViMetoc chứa hoạt chất Paracetamol và Methocarbamol giúp giảm đau liên quan đến co thắt cơ như đau lưng, co cứng cổ, trật khớp hoặc bong gân.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03687_832df2ceba.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/savimetoc-savipharm-3x10-38167.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/savimetoc-savipharm-3x10-38167.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

@@ -1,0 +1,1389 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/codiovan-16025-4198.html",
+  "ingestion_timestamp": "2026-09-05T09:05:45.819561+00:00",
+  "file_hash": "9b60fafe07882ee8a175321dfad1f67e29f08bf121223d92bc7857a4b0d5bb96",
+  "lineage_hash": "3c377ae1d30350fa856c6e0c37ffec9a6895f0354aac6a812f1c9f7e88c617a4",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/codiovan-16025-4198.html",
+    "product": {
+      "sku": "00002000",
+      "webName": "Thuốc Codiovan 160mg/25mg Novartis điều trị tăng huyết áp (2 vỉ x 14 viên)",
+      "name": "CODIOVAN 160/25 NOVARTIS 2X14",
+      "shortName": "CODIOVAN 160/25 2X14",
+      "headingText": "Thuốc Codiovan 160mg/25mg",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_7000_605c_large_54e1b37235.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_4129_605c_large_bbcebc8d4a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_8436_605c_large_507b892244.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_3670_605c_large_6cf4969055.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_9811_6072_large_89bf8ab0b6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_3721_6072_large_f76d21cdbc.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_2966_6072_large_4fd1af7538.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_5880_6072_large_cc9019a131.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_8844_6072_large_56bb5221cb.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_1618130038_e6772bf213.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 737,
+          "name": "Thuốc tim mạch & máu",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tim-mach-and-mau",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 811,
+          "name": "Thuốc tim mạch huyết áp",
+          "parentName": "Thuốc tim mạch & máu",
+          "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 2 Vỉ x 14 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "2 Vỉ x 14 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "14 Viên"
+        }
+      ],
+      "slug": "thuoc/codiovan-16025-4198.html",
+      "ingredient": [
+        {
+          "id": 20788,
+          "ingredientId": 40025,
+          "shortDescription": "160mg",
+          "name": "Valsartan",
+          "isPrimary": false,
+          "slug": "thanh-phan/valsartan"
+        },
+        {
+          "id": 20789,
+          "ingredientId": 22905,
+          "shortDescription": "25mg",
+          "name": "Hydrochlorothiazide",
+          "isPrimary": false,
+          "slug": "thanh-phan/hydrochlorothiazide"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VN-19285-15",
+      "manufactor": "Ý",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Dùng đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<p><em>Người lớn</em></p>\n\n<p>Liều khuyến cáo điều trị của Co-Diovan là một viên nén bao phim mỗi ngày. Để đạt được hiệu quả lâm sàng có thể dùng 80 mg valsartan và 12,5 mg hydrochlorothiazide hoặc 160 mg valsartan và 12,5 mg hydrochlorothiazide hoặc 320 mg valsartan và 12,5 mg hydrochlorothiazide. Trong trường hợp cần thiết có thể dùng tới 160 mg valsartan và 25 mg hydrochlorothiazide hoặc 320 mg valsartan và 25 mg hydrochlorothiazide.</p>\n\n<p>Đối với điều trị khởi đầu, liều khởi đầu thông thường của Co-Diovan 160/12.5 mg là mỗi ngày một lần. Liều dùng có thể được tăng lên sau 1 - 2 tuần với mức điều trị tối đa là một viên thuốc 320/25 mg một lần mỗi ngày khi cần thiết để kiểm soát huyết áp. Co-Diovan không được khuyến cáo như điều trị khởi đầu ở những bệnh nhân với sự suy giảm thể tích máu nội mạch.</p>\n\n<p>Liều dùng hàng ngày tối đa là 320/25 mg.</p>\n\n<p>Tác dụng hạ áp tối đa được quan sát thấy trong vòng từ 2 đến 4 tuần.</p>\n\n<p><em>Trẻ em</em></p>\n\n<p>Tính an toàn và hiệu quả của Co-Diovan chưa được xác định ở trẻ em dưới 18 tuổi.</p>\n\n<p><em>Đối tượng khác</em></p>\n\n<p>Suy thận</p>\n\n<p>Không cần điều chỉnh liều lượng cho bệnh nhân suy thận nhẹ đến trung bình (Tốc độ lọc cầu thận (GFR) ≥ 30 ml / phút). Do thành phần hydrochlorothiazide, Co-Diovan chống chỉ định ở những bệnh nhân vô niệu và phải được dùng thận trọng ở những bệnh nhân suy thận nặng (GFR &lt;30 ml/ phút). Thuốc lợi tiểu thiazide đơn trị liệu không hiệu quả trong suy thận nặng (GFR &lt;30 ml / phút), nhưng có thể hữu ích khi được sử dụng với sự thận trọng thích đáng trong kết hợp với một thuốc lợi tiểu quai ngay cả ở những bệnh nhân với GFR &lt; 30ml/phút.</p>\n\n<p>Suy gan</p>\n\n<p>Không cần điều chỉnh liều lượng ở những bệnh nhân suy gan mức độ nhẹ đến vừa. Do thành phần hydrochlorothiazide, Co-Diovan nên được sử dụng đặc biệt thận trọng ở những bệnh nhân suy gan nặng. Do thành phần valsartan, Co-Diovan nên được sử dụng thận trọng đặc biệt ở những bệnh nhân bị rối loạn tắc nghẽn đường mật.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Quá liều valsartan có thể gây hạ huyết áp rõ rệt, có thể dẫn đến giảm ý thức, trụy tuần hoàn và/hoặc sốc. Nếu mới uống, có thể gây nôn. Ngoài ra, biện pháp xử lý thường dùng là truyền tĩnh mạch nước muối sinh lý.</p>\n\n<p>Valsartan không thể bị loại bỏ bằng lọc máu bởi vì nó gắn kết mạnh với huyết tương, trong khi hydrochlorothiazide có thể loại bỏ được bằng thẩm tách.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc Co-Diovan 160/25 mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">tăng huyết áp</a> cho người lớn, 18 tuổi trở lên.</li>\n\t<li>Co-Diovan được sử dụng để điều trị tăng huyết áp ở bệnh nhân huyết áp không được kiểm soát đúng mức khi điều trị bằng phương pháp đơn trị liệu.</li>\n\t<li>Co-Diovan có thể được sử dụng như điều trị khởi đầu ở những bệnh nhân có thể cần dùng nhiều thuốc để đạt được mục tiêu huyết áp. Sự lựa chọn Co-Diovan như điều trị khởi đầu cho cao huyết áp nên được dựa trên việc đánh giá tiềm năng lợi ích và nguy cơ.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Hormon hoạt tính cùa hệ renin-angiotensin-aldoslerone (RAAS) là angiotensin II, được tạo thành từ angiotensin I nhờ xúc tác của men chuyển angiotensin (ACE). Angiotensin II gắn với các thụ thể đặc hiệu trên màng tế bào của nhiều loại mô khác nhau. Angiotensin II có nhiều tác dụng sinh lý, bao gồm cả tác dụng trực tiếp và gián tiếp lên sự điều hòa huyết áp. Vì là tác nhân co mạch mạnh, angiotensin II có ảnh hưởng trực tiếp lên huyết áp. Thêm vào đó nó còn gây ứ natri và kích thích bài tiết aldosterone.</p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/valsartan\">Valsartan</a> là một thuốc đối kháng thụ thể angiotensin II có hoạt tính mạnh và đặc hiệu, dùng đường uống. Valsartan tác động chọn lọc trên tiểu thụ thể AT1 mà thụ thể này kiểm soát hoạt động của angiotensin II. Nồng độ angiotensin II tăng lên trong huyết tương sau khi dùng thuốc chẹn thụ thể AT1 với valsartan có thể gây kích thích các thụ thể AT2 không bị chẹn và điều này tạo đối trọng với hiệu quả của thụ thể AT1. Valsartan không có bất cứ hoạt động đồng vận nào đối với thụ thể AT1 và có ái lực với thụ thể AT1 mạnh gấp nhiều lần (gấp 20.000 lần) so với thụ thể AT1.</p>\n\n<p>Valsartan không ức chế men chuyển angiotensin (ACE), tên là kininase II, vốn chuyển angiotensin I thành angiotensin II và thoái biến bradykinin. Những tác dụng phụ liên quan đến bradykinin không xảy ra. Trong các thử nghiệm lâm sàng so sánh nhóm điều trị bằng valsartan với nhóm điều trị bằng thuốc ức chế men chuyển angiotensin (ACE), tỷ lệ ho khan thấp hơn đáng kể (P&lt;0,05) ở nhóm bệnh nhân điều trị bằng valsartan so với nhóm điều trị chất ức chế men chuyển angiotensin (2,6% so với 7,9%). Ở một thử nghiệm lâm sàng với nhóm bệnh nhân có tiền sử ho khan khi điều trị bằng thuốc ức chế men chuyển angiotensin, 19,5% bệnh nhân điều trị valsartan và 19% bệnh nhân điều trị bằng thuốc lợi tiểu thiazide bị ho so với 68,5% bệnh nhân điều trị chất ức chế men chuyển angiotensin (P&lt;0,05). Valsartan không gắn kết cũng như không chẹn các thụ thể hormon hay kênh ion khác được biết là rất quan trọng đối với điều hòa hệ tim mạch.</p>\n\n<p>Vị trí tác động của thuốc lợi tiểu thiazide chủ yếu xảy ra trên ống lượn xa của thận. Trên vỏ thận nó gắn kết với một thụ thể có ái lực cao với vị trí gắn kết chính để phát huy tác dụng lợi tiểu và nó ức chế vận chuyển NaCI ở ống lượn xa. Tác dụng của các thiazide là thông qua ức chế chất vận chuyển Na+CI- có lẽ nhờ vào tranh chấp vị trí của Cl- do đó ảnh hưởng tới cơ chế tái hấp thu chất điện giải: trực tiếp là làm tăng bài tiết Na và Cl với khối lượng tương đương, gián tiếp là làm lợi tiểu dẫn đến giảm thể tích huyết tương, kết quả là tăng cường hoạt tính của renin trong huyết tương, tăng cường bài tiết aldosterone, tăng lượng kali bài tiết qua nước tiểu, và giảm nồng độ kali trong huyết thanh. Mối liên hệ giữa renin-aldosterone được angiotensin II làm trung gian, do đó việc dùng phối hợp với thuốc đối kháng với receptor angiotensin II làm phục hồi lượng kali bị mất do các thuốc lợi tiểu nhóm này.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Valsartan</em></p>\n\n<p>Hấp thu: Sau uống valsartan đơn độc, nồng độ đỉnh trong huyết tương của valsartan đạt được trong 2-4 giờ. Khả dụng sinh học tuyệt đối trung bình của valsartan là 23%. Khi valsartan uống chung với thức ăn, diện tích dưới đường cong nồng độ trong huyết tương của valsartan giảm 48% mặc dù nồng độ trong huyết tương lúc 8 giờ sau uống thuốc ở nhóm đói và nhóm no là như nhau. </p>\n\n<p>Phân bố: Thể tích phân bố ở trạng thái ổn định của valsartan sau khi tiêm tĩnh mạch là khoảng 17 lít, chỉ ra rằng valsartan không được phân phối vào các mô rộng rãi. Valsartan gắn kết mạnh với protein huyết thanh (94-97%), chủ yếu là albumin huyết thanh.</p>\n\n<p>Chuyển hóa: Valsartan không được chuyển hóa ở mức độ cao, chỉ khoảng 20% liều dùng được tìm thấy dưới dạng các chất chuyển hóa. Một chất chuyển hóa hydroxy đã được xác định trong huyết tương ở nồng độ thấp (ít hơn 10% AUC valsartan). Chất chuyển hóa này là dược chất không hoạt động.</p>\n\n<p>Thải trừ: Valsartan được chủ yếu là thải trừ qua phân (khoảng 83% liều dùng) và nước tiểu (khoảng 13% liều dùng), chủ yếu là ở dạng không đổi. Sau khi tiêm tĩnh mạch, độ thanh thải của Valsartan trong huyết tương là khoảng 2 L/h và độ thanh thải ở thận là 0,62 L/h (khoảng 30% tổng số lượng giải phóng). Thời gian bán hủy của valsartan là 6 giờ.</p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/hydrochlorothiazide\"><em>Hydrochlorothiazide</em></a></p>\n\n<p>Hấp thu: Hấp thu hydrochlorothiazide rất nhanh sau khi uống (tmax khoảng 2 giờ). Diện tích dưới đường cong trung binh tăng tuyến tính và tỷ lệ theo liều dùng trong khoảng liều điều trị. Sinh khả dụng tuyệt đối của hydrochlorothiazide là 70% sau khi uống.</p>\n\n<p>Phân bố: Thể tích phân bố biểu kiến là 4-8 L/kg. Hydrochlorothiazide trong tuần hoàn gắn với protein huyết thanh (40-70%), chủ yếu là albumin huyết thanh. Hydrochlorothiazide cũng tích lũy trong hồng cầu cao hơn xấp xỉ gấp 3 lần trong huyết tương.</p>\n\n<p>Chuyển hóa: Hydrochlorothiazide được thải trừ chủ yếu dưới dạng không đổi.</p>\n\n<p>Thải trừ: Thời gian bán thải khỏi huyết tương của Hydrochlorothiazide trung bình từ 6 đến 15 giờ trong thì thải trừ tận cùng. Hơn 95% liều hấp thu được bài tiết theo nước tiểu dưới dạng không dổi.</p>\n\n<p><em>Valsartan/hydrochlorothiazide</em></p>\n\n<p>Độ khả dụng toàn thân của hydrochlorothiazide giảm xuống 30% khi dùng phối hợp với valsartan. Dược động của valsartan không bị ảnh hưởng đáng kể khi dùng phối hợp với hydrochlorothiazide. Sự tương tác này không ảnh hưởng tới sự phối hợp thuốc giữa valsartan và hydrochlorothiazide, bởi vì trong các nghiên cứu đối chứng trên lâm sàng cho thấy khi dùng phối hợp như trên thì tác dụng chống tăng huyết áp mạnh hơn hẳn so với dùng đơn lẻ từng thuốc hoặc so với giả dược.</p>",
+      "brand": "Novartis",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Co-Diovan 160/25 mg, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt;1/100</em></p>\n\n<ul>\n\t<li>Chuyển hóa: Hạ magie máu và tăng acid uric máu.</li>\n\t<li>Da: Nổi mề đay và các hình thức phát ban.</li>\n\t<li>Tiêu hóa: Giảm sự thèm ăn, buồn nôn và ói mửa nhẹ. </li>\n\t<li>Tim mạch: Hạ huyết áp tư thế đứng, có thể trầm trọng hơn do rượu, thuốc mê hoặc thuốc an thần.</li>\n\t<li>Hệ thống sinh sản: Bất lực.</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>Toàn thân: Mất nước, mệt mỏi.</li>\n\t<li>Chuyển hóa: Tăng lipid máu.</li>\n\t<li>Thần kinh: Cảm giác bất thường, chóng mặt.</li>\n\t<li>Mắt: Nhìn mờ.</li>\n\t<li>Tai: Ù tai.</li>\n\t<li>Tim mạch: Hạ huyết áp.</li>\n\t<li>Hô hấp: Ho.</li>\n\t<li>Cơ xương: Đau cơ.</li>\n\t<li>Tiêu hóa: Đau bụng.</li>\n</ul>\n\n<p><em>Hiếm gặp, 1/10000 &lt; ADR &lt; 1/1000</em></p>\n\n<ul>\n\t<li>Thần kinh: Chóng mặt, ngất, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, rối loạn giấc ngủ, trầm cảm, dị cảm.</li>\n\t<li>Chuyển hóa: Chứng tăng calci huyết, tăng đường huyết, đường niệu và làm xấu đi tình trạng chuyển hóa ở bệnh tiểu đường.</li>\n\t<li>Da: Phản ứng nhạy cảm ánh sáng.</li>\n\t<li>Tiêu hóa: Khó chịu ở bụng, <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a> và tiêu chảy. Viêm tụy. Ứ mật hoặc vàng da.</li>\n\t<li>Tim mạch: Rối loạn nhịp tim.</li>\n\t<li>Mắt: Thị giác suy giảm đặc biệt trong vài tuần điều trị đầu tiên.</li>\n\t<li>Hệ thống máu và bạch huyết: Giảm tiểu cầu đôi khi có ban xuất huyết.</li>\n\t<li>Hô hấp: Phản ứng quá mẫn suy hô hấp bao gồm viêm phổi và phù phổi.</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 2 vỉ x 14 viên",
+      "indications": [
+        {
+          "id": 670,
+          "name": "Cao huyết áp",
+          "slug": "benh/cao-huyet-ap-225.html"
+        }
+      ],
+      "brandOrigin": "Thụy Sĩ",
+      "producer": "Novartis",
+      "shortDescription": "<p>Thuốc “Co-Diovan 160/25 mg” của công ty Novartis Farma S.p.A  là thuốc đối kháng thụ thể angiotensin II (valsartan) kết hợp với thuốc lợi tiểu (hydrochlorothiazide). Thuốc có hình dạng viên nén bao phim hình bầu dục, không bẻ được, kích thước chiều dài khoảng 14,2 mm, chiều ngang 5,7 mm, dày 4,5 mm và nặng khoảng 310 mg. Viên nén màu cam-nâu, được in chữ HXH trên một mặt và chữ NVR trên mặt kia. Quy cách đóng gói 1 hộp 2 vỉ x 14 viên nén bao phim.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Trên 18 tuổi",
+      "objectUse": [
+        "Người cao tuổi"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Suy gan thận"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Suy gan, Nhồi máu cơ tim, Dị ứng thuốc, Á vảy nến",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/novartis",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "CO-DIOVAN 160/25",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 87,
+        "attributeName": "Thụy Sĩ",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/ch_Switzerland_8023147879.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "14 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 811,
+        "name": "Thuốc tim mạch huyết áp",
+        "parentName": "Thuốc tim mạch & máu",
+        "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_7000_605c_large_54e1b37235.jpg",
+          "alternativeText": "Thuốc Codiovan 160mg/25mg Novartis điều trị tăng huyết áp (2 vỉ x 14 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_4129_605c_large_bbcebc8d4a.jpg",
+          "alternativeText": "Thuốc Codiovan 160mg/25mg Novartis điều trị tăng huyết áp (2 vỉ x 14 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_8436_605c_large_507b892244.jpg",
+          "alternativeText": "Thuốc Codiovan 160mg/25mg Novartis điều trị tăng huyết áp (2 vỉ x 14 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_3670_605c_large_6cf4969055.jpg",
+          "alternativeText": "Thuốc Codiovan 160mg/25mg Novartis điều trị tăng huyết áp (2 vỉ x 14 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_9811_6072_large_89bf8ab0b6.jpg",
+          "alternativeText": "Thuốc Codiovan 160mg/25mg Novartis điều trị tăng huyết áp (2 vỉ x 14 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_3721_6072_large_f76d21cdbc.jpg",
+          "alternativeText": "Thuốc Codiovan 160mg/25mg Novartis điều trị tăng huyết áp (2 vỉ x 14 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_2966_6072_large_4fd1af7538.jpg",
+          "alternativeText": "Thuốc Codiovan 160mg/25mg Novartis điều trị tăng huyết áp (2 vỉ x 14 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_5880_6072_large_cc9019a131.jpg",
+          "alternativeText": "Thuốc Codiovan 160mg/25mg Novartis điều trị tăng huyết áp (2 vỉ x 14 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_8844_6072_large_56bb5221cb.jpg",
+          "alternativeText": "Thuốc Codiovan 160mg/25mg Novartis điều trị tăng huyết áp (2 vỉ x 14 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_1618130038_e6772bf213.jpg",
+          "alternativeText": "Thuốc Codiovan 160mg/25mg Novartis điều trị tăng huyết áp (2 vỉ x 14 viên) 10"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tim mạch & máu",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau"
+      },
+      {
+        "name": "Thuốc tim mạch huyết áp",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap"
+      }
+    ],
+    "content": {
+      "sku": "00002000",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Dùng đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<p><em>Người lớn</em></p>\n\n<p>Liều khuyến cáo điều trị của Co-Diovan là một viên nén bao phim mỗi ngày. Để đạt được hiệu quả lâm sàng có thể dùng 80 mg valsartan và 12,5 mg hydrochlorothiazide hoặc 160 mg valsartan và 12,5 mg hydrochlorothiazide hoặc 320 mg valsartan và 12,5 mg hydrochlorothiazide. Trong trường hợp cần thiết có thể dùng tới 160 mg valsartan và 25 mg hydrochlorothiazide hoặc 320 mg valsartan và 25 mg hydrochlorothiazide.</p>\n\n<p>Đối với điều trị khởi đầu, liều khởi đầu thông thường của Co-Diovan 160/12.5 mg là mỗi ngày một lần. Liều dùng có thể được tăng lên sau 1 - 2 tuần với mức điều trị tối đa là một viên thuốc 320/25 mg một lần mỗi ngày khi cần thiết để kiểm soát huyết áp. Co-Diovan không được khuyến cáo như điều trị khởi đầu ở những bệnh nhân với sự suy giảm thể tích máu nội mạch.</p>\n\n<p>Liều dùng hàng ngày tối đa là 320/25 mg.</p>\n\n<p>Tác dụng hạ áp tối đa được quan sát thấy trong vòng từ 2 đến 4 tuần.</p>\n\n<p><em>Trẻ em</em></p>\n\n<p>Tính an toàn và hiệu quả của Co-Diovan chưa được xác định ở trẻ em dưới 18 tuổi.</p>\n\n<p><em>Đối tượng khác</em></p>\n\n<p>Suy thận</p>\n\n<p>Không cần điều chỉnh liều lượng cho bệnh nhân suy thận nhẹ đến trung bình (Tốc độ lọc cầu thận (GFR) ≥ 30 ml / phút). Do thành phần hydrochlorothiazide, Co-Diovan chống chỉ định ở những bệnh nhân vô niệu và phải được dùng thận trọng ở những bệnh nhân suy thận nặng (GFR &lt;30 ml/ phút). Thuốc lợi tiểu thiazide đơn trị liệu không hiệu quả trong suy thận nặng (GFR &lt;30 ml / phút), nhưng có thể hữu ích khi được sử dụng với sự thận trọng thích đáng trong kết hợp với một thuốc lợi tiểu quai ngay cả ở những bệnh nhân với GFR &lt; 30ml/phút.</p>\n\n<p>Suy gan</p>\n\n<p>Không cần điều chỉnh liều lượng ở những bệnh nhân suy gan mức độ nhẹ đến vừa. Do thành phần hydrochlorothiazide, Co-Diovan nên được sử dụng đặc biệt thận trọng ở những bệnh nhân suy gan nặng. Do thành phần valsartan, Co-Diovan nên được sử dụng thận trọng đặc biệt ở những bệnh nhân bị rối loạn tắc nghẽn đường mật.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Quá liều valsartan có thể gây hạ huyết áp rõ rệt, có thể dẫn đến giảm ý thức, trụy tuần hoàn và/hoặc sốc. Nếu mới uống, có thể gây nôn. Ngoài ra, biện pháp xử lý thường dùng là truyền tĩnh mạch nước muối sinh lý.</p>\n\n<p>Valsartan không thể bị loại bỏ bằng lọc máu bởi vì nó gắn kết mạnh với huyết tương, trong khi hydrochlorothiazide có thể loại bỏ được bằng thẩm tách.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Co-Diovan 160/25 mg, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt;1/100</em></p>\n\n<ul>\n\t<li>Chuyển hóa: Hạ magie máu và tăng acid uric máu.</li>\n\t<li>Da: Nổi mề đay và các hình thức phát ban.</li>\n\t<li>Tiêu hóa: Giảm sự thèm ăn, buồn nôn và ói mửa nhẹ. </li>\n\t<li>Tim mạch: Hạ huyết áp tư thế đứng, có thể trầm trọng hơn do rượu, thuốc mê hoặc thuốc an thần.</li>\n\t<li>Hệ thống sinh sản: Bất lực.</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>Toàn thân: Mất nước, mệt mỏi.</li>\n\t<li>Chuyển hóa: Tăng lipid máu.</li>\n\t<li>Thần kinh: Cảm giác bất thường, chóng mặt.</li>\n\t<li>Mắt: Nhìn mờ.</li>\n\t<li>Tai: Ù tai.</li>\n\t<li>Tim mạch: Hạ huyết áp.</li>\n\t<li>Hô hấp: Ho.</li>\n\t<li>Cơ xương: Đau cơ.</li>\n\t<li>Tiêu hóa: Đau bụng.</li>\n</ul>\n\n<p><em>Hiếm gặp, 1/10000 &lt; ADR &lt; 1/1000</em></p>\n\n<ul>\n\t<li>Thần kinh: Chóng mặt, ngất, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, rối loạn giấc ngủ, trầm cảm, dị cảm.</li>\n\t<li>Chuyển hóa: Chứng tăng calci huyết, tăng đường huyết, đường niệu và làm xấu đi tình trạng chuyển hóa ở bệnh tiểu đường.</li>\n\t<li>Da: Phản ứng nhạy cảm ánh sáng.</li>\n\t<li>Tiêu hóa: Khó chịu ở bụng, <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a> và tiêu chảy. Viêm tụy. Ứ mật hoặc vàng da.</li>\n\t<li>Tim mạch: Rối loạn nhịp tim.</li>\n\t<li>Mắt: Thị giác suy giảm đặc biệt trong vài tuần điều trị đầu tiên.</li>\n\t<li>Hệ thống máu và bạch huyết: Giảm tiểu cầu đôi khi có ban xuất huyết.</li>\n\t<li>Hô hấp: Phản ứng quá mẫn suy hô hấp bao gồm viêm phổi và phù phổi.</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Không bảo quản trên 30°C. Giữ thuốc trong bao bì gốc, tránh ẩm.</p>\n\n<p>Co-Diovan phải để xa tầm tay và tầm nhìn của trẻ em.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc Co-Diovan 160/25 mg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">tăng huyết áp</a> cho người lớn, 18 tuổi trở lên.</li>\n\t<li>Co-Diovan được sử dụng để điều trị tăng huyết áp ở bệnh nhân huyết áp không được kiểm soát đúng mức khi điều trị bằng phương pháp đơn trị liệu.</li>\n\t<li>Co-Diovan có thể được sử dụng như điều trị khởi đầu ở những bệnh nhân có thể cần dùng nhiều thuốc để đạt được mục tiêu huyết áp. Sự lựa chọn Co-Diovan như điều trị khởi đầu cho cao huyết áp nên được dựa trên việc đánh giá tiềm năng lợi ích và nguy cơ.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Hormon hoạt tính cùa hệ renin-angiotensin-aldoslerone (RAAS) là angiotensin II, được tạo thành từ angiotensin I nhờ xúc tác của men chuyển angiotensin (ACE). Angiotensin II gắn với các thụ thể đặc hiệu trên màng tế bào của nhiều loại mô khác nhau. Angiotensin II có nhiều tác dụng sinh lý, bao gồm cả tác dụng trực tiếp và gián tiếp lên sự điều hòa huyết áp. Vì là tác nhân co mạch mạnh, angiotensin II có ảnh hưởng trực tiếp lên huyết áp. Thêm vào đó nó còn gây ứ natri và kích thích bài tiết aldosterone.</p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/valsartan\">Valsartan</a> là một thuốc đối kháng thụ thể angiotensin II có hoạt tính mạnh và đặc hiệu, dùng đường uống. Valsartan tác động chọn lọc trên tiểu thụ thể AT1 mà thụ thể này kiểm soát hoạt động của angiotensin II. Nồng độ angiotensin II tăng lên trong huyết tương sau khi dùng thuốc chẹn thụ thể AT1 với valsartan có thể gây kích thích các thụ thể AT2 không bị chẹn và điều này tạo đối trọng với hiệu quả của thụ thể AT1. Valsartan không có bất cứ hoạt động đồng vận nào đối với thụ thể AT1 và có ái lực với thụ thể AT1 mạnh gấp nhiều lần (gấp 20.000 lần) so với thụ thể AT1.</p>\n\n<p>Valsartan không ức chế men chuyển angiotensin (ACE), tên là kininase II, vốn chuyển angiotensin I thành angiotensin II và thoái biến bradykinin. Những tác dụng phụ liên quan đến bradykinin không xảy ra. Trong các thử nghiệm lâm sàng so sánh nhóm điều trị bằng valsartan với nhóm điều trị bằng thuốc ức chế men chuyển angiotensin (ACE), tỷ lệ ho khan thấp hơn đáng kể (P&lt;0,05) ở nhóm bệnh nhân điều trị bằng valsartan so với nhóm điều trị chất ức chế men chuyển angiotensin (2,6% so với 7,9%). Ở một thử nghiệm lâm sàng với nhóm bệnh nhân có tiền sử ho khan khi điều trị bằng thuốc ức chế men chuyển angiotensin, 19,5% bệnh nhân điều trị valsartan và 19% bệnh nhân điều trị bằng thuốc lợi tiểu thiazide bị ho so với 68,5% bệnh nhân điều trị chất ức chế men chuyển angiotensin (P&lt;0,05). Valsartan không gắn kết cũng như không chẹn các thụ thể hormon hay kênh ion khác được biết là rất quan trọng đối với điều hòa hệ tim mạch.</p>\n\n<p>Vị trí tác động của thuốc lợi tiểu thiazide chủ yếu xảy ra trên ống lượn xa của thận. Trên vỏ thận nó gắn kết với một thụ thể có ái lực cao với vị trí gắn kết chính để phát huy tác dụng lợi tiểu và nó ức chế vận chuyển NaCI ở ống lượn xa. Tác dụng của các thiazide là thông qua ức chế chất vận chuyển Na+CI- có lẽ nhờ vào tranh chấp vị trí của Cl- do đó ảnh hưởng tới cơ chế tái hấp thu chất điện giải: trực tiếp là làm tăng bài tiết Na và Cl với khối lượng tương đương, gián tiếp là làm lợi tiểu dẫn đến giảm thể tích huyết tương, kết quả là tăng cường hoạt tính của renin trong huyết tương, tăng cường bài tiết aldosterone, tăng lượng kali bài tiết qua nước tiểu, và giảm nồng độ kali trong huyết thanh. Mối liên hệ giữa renin-aldosterone được angiotensin II làm trung gian, do đó việc dùng phối hợp với thuốc đối kháng với receptor angiotensin II làm phục hồi lượng kali bị mất do các thuốc lợi tiểu nhóm này.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Valsartan</em></p>\n\n<p>Hấp thu: Sau uống valsartan đơn độc, nồng độ đỉnh trong huyết tương của valsartan đạt được trong 2-4 giờ. Khả dụng sinh học tuyệt đối trung bình của valsartan là 23%. Khi valsartan uống chung với thức ăn, diện tích dưới đường cong nồng độ trong huyết tương của valsartan giảm 48% mặc dù nồng độ trong huyết tương lúc 8 giờ sau uống thuốc ở nhóm đói và nhóm no là như nhau. </p>\n\n<p>Phân bố: Thể tích phân bố ở trạng thái ổn định của valsartan sau khi tiêm tĩnh mạch là khoảng 17 lít, chỉ ra rằng valsartan không được phân phối vào các mô rộng rãi. Valsartan gắn kết mạnh với protein huyết thanh (94-97%), chủ yếu là albumin huyết thanh.</p>\n\n<p>Chuyển hóa: Valsartan không được chuyển hóa ở mức độ cao, chỉ khoảng 20% liều dùng được tìm thấy dưới dạng các chất chuyển hóa. Một chất chuyển hóa hydroxy đã được xác định trong huyết tương ở nồng độ thấp (ít hơn 10% AUC valsartan). Chất chuyển hóa này là dược chất không hoạt động.</p>\n\n<p>Thải trừ: Valsartan được chủ yếu là thải trừ qua phân (khoảng 83% liều dùng) và nước tiểu (khoảng 13% liều dùng), chủ yếu là ở dạng không đổi. Sau khi tiêm tĩnh mạch, độ thanh thải của Valsartan trong huyết tương là khoảng 2 L/h và độ thanh thải ở thận là 0,62 L/h (khoảng 30% tổng số lượng giải phóng). Thời gian bán hủy của valsartan là 6 giờ.</p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/hydrochlorothiazide\"><em>Hydrochlorothiazide</em></a></p>\n\n<p>Hấp thu: Hấp thu hydrochlorothiazide rất nhanh sau khi uống (tmax khoảng 2 giờ). Diện tích dưới đường cong trung binh tăng tuyến tính và tỷ lệ theo liều dùng trong khoảng liều điều trị. Sinh khả dụng tuyệt đối của hydrochlorothiazide là 70% sau khi uống.</p>\n\n<p>Phân bố: Thể tích phân bố biểu kiến là 4-8 L/kg. Hydrochlorothiazide trong tuần hoàn gắn với protein huyết thanh (40-70%), chủ yếu là albumin huyết thanh. Hydrochlorothiazide cũng tích lũy trong hồng cầu cao hơn xấp xỉ gấp 3 lần trong huyết tương.</p>\n\n<p>Chuyển hóa: Hydrochlorothiazide được thải trừ chủ yếu dưới dạng không đổi.</p>\n\n<p>Thải trừ: Thời gian bán thải khỏi huyết tương của Hydrochlorothiazide trung bình từ 6 đến 15 giờ trong thì thải trừ tận cùng. Hơn 95% liều hấp thu được bài tiết theo nước tiểu dưới dạng không dổi.</p>\n\n<p><em>Valsartan/hydrochlorothiazide</em></p>\n\n<p>Độ khả dụng toàn thân của hydrochlorothiazide giảm xuống 30% khi dùng phối hợp với valsartan. Dược động của valsartan không bị ảnh hưởng đáng kể khi dùng phối hợp với hydrochlorothiazide. Sự tương tác này không ảnh hưởng tới sự phối hợp thuốc giữa valsartan và hydrochlorothiazide, bởi vì trong các nghiên cứu đối chứng trên lâm sàng cho thấy khi dùng phối hợp như trên thì tác dụng chống tăng huyết áp mạnh hơn hẳn so với dùng đơn lẻ từng thuốc hoặc so với giả dược.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định</h3>\n\n<p>Thuốc Co-Diovan 160/25 mg chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Quá mẫn cảm với valsartan, hydrochlorothiazide, các thuốc khác là dẫn xuất của sulfonamide hoặc bất cứ thành phần nào của Co-Diovan.</li>\n\t<li>Phụ nữ có thai.</li>\n\t<li>Bệnh nhân vô niệu.</li>\n\t<li>\n\t<p>Sử dụng đồng thời thuốc đối kháng thụ thể angiotensin ARBs - bao gồm cả Valsartan - hoặc thuốc ức chế men chuyển ACEIs và Aliskiren đối với bệnh nhân đái tháo đường type II.</p>\n\t</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Những thay đổi chất điện giải trong huyết thanh</p>\n\n<p>Phải cẩn thận khi dùng thuốc bổ sung kali, thuốc lợi tiểu giữ kali, chất thay thế muối có chứa kali, hoặc các thuốc làm tăng nồng độ kali trong huyết thanh (heparin, v.v...). Thuốc lợi tiểu thiazide có thể thúc đẩy sự khởi phát tình trạng hạ kali huyết hoặc làm trầm trọng thêm tình trạng hạ kali huyết có sẵn. Thuốc lợi tiểu thiazide nên được sử dụng thận trọng ở những bệnh nhân có các tình trạng liên quan đến mất kali đáng kể, ví dụ như suy thận trước thận (căn nguyên do tim) và bệnh lý thận mất muối. Nếu hạ kali huyết kèm theo các dấu hiệu lâm sàng (ví dụ như yếu, liệt cơ, hoặc biến đổi trên ECG), nên ngưng sử dụng Co-Diovan. Nên điều chỉnh tình trạng hạ kali huyết và hạ magie huyết có sẵn trước khi bắt đầu sử dụng các thiazide. Nồng độ kali và magie huyết thanh nên được kiểm tra định kỳ. Tất cả các bệnh nhân dùng thuốc lợi tiểu thiazide nên được theo dõi sự mất cân bằng điện giải, đặc biệt là kali.</p>\n\n<p>Thuốc lợi tiểu thiazide có thể thúc đẩy sự khởi phát tình trạng hạ natri huyết và nhiễm kiềm do giảm clo huyết hoặc làm trầm trọng thêm tình trạng hạ natri huyết có sẵn. Hạ natri huyết, kèo theo triệu chứng thần kinh (buồn nôn, mất định hướng tiến triển, trạng thái đờ đẫn) đã được quan sát thấy trong trường hợp cá biệt. Thường xuyên theo dõi nồng độ natri trong huyết thanh cũng được khuyến cáo.</p>\n\n<p>Những trường hợp mất muối và/hoặc mất thể tích tuần hoàn nặng như do dùng liều cao thuốc lợi tiểu, hạ huyết áp có triệu chứng hiếm có thể xảy ra sau khi bắt đầu điều trị Co-Diovan. Co-Diovan chỉ nên được sử dụng sau khi điều chỉnh bất kỳ tình trạng mất thể tích tuần hoàn và / hoặc mất natri nào có sẵn, nếu không điều trị nên bắt đầu dưới sự giám sát y tế chặt chẽ.</p>\n\n<p>Nên thận trọng khi dùng Co-diovan để điều trị tăng huyết áp. Ở bệnh nhân hẹp động mạch thận một hoặc hai bên hoặc hẹp trên bệnh nhân chỉ có một thận vì urê máu và creatinine huyết thanh có thể tăng ở những bệnh nhân này.</p>\n\n<p>Phù mạch, bao gồm sưng thanh quản và thanh môn, gây tắc nghẽn đường thở và / hoặc sưng mặt, môi, cổ họng, và / hoặc lưỡi đã được báo cáo ở những bệnh nhân được điều trị với valsartan, một số những bệnh nhân này trước đây đã bị phù mạch với các thuốc khác bao gồm cả thuốc ức chế men chuyển angiotensin. Co-Diovan nên được ngưng ngay lập tức ở những bệnh nhân phát triển phù mạch, và không nên tái sử dụng Co-Diovan nữa.</p>\n\n<p>Đã có những báo cáo về thuốc lợi tiểu thiazide, bao gồm hydrochlorothiazide làm nặng hoặc kích hoạt bệnh lupus ban đỏ hệ thống.</p>\n\n<p>Thuốc lợi tiểu thiazide, bao gồm hydrochlorothiazide có thể làm thay đổi khả năng dung nạp đường glucose và làm tăng nồng độ của cholesterol và triglyceride.</p>\n\n<p>Giống như các thuốc lợi tiểu khác, hydrochlorothiazide có thể tăng nồng độ acid uric trong huyết thanh do giảm độ thanh thải của acid uric và có thể gây ra hoặc làm trầm trọng thêm tình trạng tăng acid uric máu và thúc đẩy bệnh gút ở những bệnh nhân nhạy cảm.</p>\n\n<p>Thiazide làm giảm bài tiết canxi trong nước tiểu và có thể gây tăng nhẹ canxi trong huyết thanh trong trường hợp không có các rối loạn chuyển hóa canxi.</p>\n\n<p>Thường gặp phản ứng quá mẫn với hydrochlorothiazide ở những bệnh nhân dị ứng và hen suyễn.</p>\n\n<p>Hydrochlorothiazide, là một sulfonamide, đã có liên quan với một phản ứng đặc biệt dẫn đến cận thị thoáng qua cấp tính và bệnh tăng nhãn áp góc đóng cấp tính. Các triệu chứng bao gồm khởi phát cấp tính của tình trạng giảm thị lực hoặc đau nhãn cầu và điển hình là xảy ra trong vòng vài giờ đến vài tuần sau khi bắt đầu dùng thuốc. Tăng nhãn áp góc đóng cấp tính không được điều trị có thể dẫn đến mất thị lực vĩnh viễn. Việc điều trị tiên quyết là ngưng hydrochlorothiazide càng nhanh càng tốt. Yếu tố nguy cơ phát triển tăng nhãn áp góc đóng cấp tính có thể bao gồm tiền sử dị ứng sulfonamide hoặc penicillin.</p>\n\n<p>Bệnh nhân suy tim/sau nhồi máu cơ tim ở những bệnh nhân có chức năng thận phụ thuộc vào hoạt động của hệ thống renin-angiotensin-aldosterone (như bệnh nhân suy tim sung huyết nặng), điều trị bằng thuốc ức chế men chuyển hoặc thuốc đối kháng thụ thể angiotensin liên quan đến thiểu niệu và / hoặc chứng tăng nitơ huyết tiến triển, và trong trường hợp hiếm hoi liên quan với suy thận cấp và / hoặc tử vong. Đánh giá bệnh nhân bi suy tim hoặc sau nhồi máu cơ tim nên luôn luôn đi kèm với đánh giá chức năng thận.</p>\n\n<p>Cần thận trọng khi điều trị đồng thời thuốc đối kháng thụ thể renin - angiotensin ARBs, bao gồm Valsartan, với các thuốc phong tỏa hệ renin - angiotensin khác như thuốc ức chế men chuyến hoặc Aliskiren.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Cẩn thận khi lái xe và vận hành máy móc.</p>\n\n<h3>Thời kỳ mang thai </h3>\n\n<p>Do cơ chế hoạt động các chất đối kháng angiotensin II, nguy cơ ảnh hưởng tới thai nhi không thể bị loại trừ. Dùng thuốc ức chế men chuyển angiotensin (ACE) (một nhóm thuốc đặc hiệu tác động trên hệ renin-angiotensin-aldosterone - RAAS) cho phụ nữ có thai trong 3 tháng giữa và 3 tháng cuối được báo cáo gây tổn thương hoặc chết đối với thai nhi đang phát triển trong tử cung. Ngoài ra, trong các dữ liệu hồi cứu, sử dụng thuốc ức chế men chuyển angiotensin trong 3 tháng đầu có liên quan đến nguy cơ tiềm tàng của dị tật bẩm sinh. Đã có báo cáo về sảy thai tự phát, thiểu ối và rối loạn chức năng thận ở trẻ sơ sinh khi người phụ nữ mang thai vô ý uống nhầm valsartan.</p>\n\n<p>Thuốc lợi tiểu thiazide, bao gồm hydrochlorothiazide liên quan tới vàng da hoặc giảm tiểu cầu ở thai nhi trong tử cung và trẻ sơ sinh, và cũng có thể liên quan tới những tác dụng phụ khác đã xảy ra trên người lớn.</p>\n\n<p>Chống chỉ định sử dụng Co-Diovan trong thời kỳ mang thai.</p>\n\n<h3>Thời kỳ cho con bú</h3>\n\n<p>Chưa rõ valsartan có bài tiết qua sữa mẹ hay không. Valsartan được bài tiết qua sữa của chuột cho con bú. Hydrochlorothiazide qua được nhau thai và được bài tiết qua sữa mẹ. Do đó, không nên dùng Co-Diovan cho phụ nữ cho con bú.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Lithium: Tăng nồng độ Lithium trong máu có thể đảo ngược và độc tính đã được báo cáo khi sử dụng đồng thời Lithium với các chất ức chế ACE, các chất kháng thụ thể Angiotensin II hoặc các Thiazide. Vì độ thanh thải ở thận của Lithium giảm do các Thiazide, nguy cơ độc tính của Lithium có thể tăng hơn với Co-Diovan. Vì vậy theo dõi cẩn thận nồng độ Lithium trong máu trong suốt quá trình điều trị phối hợp được khuyến cáo.</p>\n\n<p>Thuốc phong tỏa kép hệ Renin - Angiotensin (RAS) gồm thuốc đối kháng thụ thể angiotensin, thuốc ức chế men chuyển hoặc aliskiren: </p>\n\n<p>Việc sử dụng đồng thời thuốc đối kháng thụ thể Angiotensin (ARBs), bao gồm valsartan, với các thuốc khác tác dụng lên hệ Renin - Angiotensin có liên quan đến sự tăng tỉ lệ tụt huyết áp, tăng kali huyết, và các thay đổi về chức năng thận so với đơn trị liệu. Cần khuyến cáo theo dõi huyết áp, chức năng thận và điện giải ở các bệnh nhân dùng Co-Diovan và các thuốc khác tác dụng lên hệ Renin - Angiotensin RAS.</p>\n\n<p>Cần tránh việc sử dụng đồng thời các thuốc đối kháng thụ thể Angiotensin bao gồm valsartan hoặc thuốc ức chế men chuyển ACEI với aliskiren ở bệnh nhân suy thận nặng (Tốc độ lọc cầu thận GFR &lt; 30 ml/phút).</p>\n\n<p>Việc sử dụng đồng thời ARBs - bao gồm Valsartan - hoặc thuốc ức chế men chuyển ACEI với Aliskiren là chống chỉ định với bệnh nhân đái tháo đường type 2.</p>\n\n<p>Valsartan đơn trị liệu không có tương tác thuốc đáng kể trên lâm sàng với các thuốc sau: cimetidine, warfarin, furosemide, digoxin, atenolol, indomethacin, hydrochlorothiazide, amlodipine, glibenclamide.</p>\n\n<p>Kali: Cần thận trọng khi dùng thuốc bổ sung kali, thuốc lợi tiểu giữ kali, chất thay thế muối có chứa kali, hoặc các thuốc làm thay đổi nồng độ kali trong huyết thanh (heparin, v.v...) và phải kiểm tra thường xuyên nồng độ kali trong huyết thanh bệnh nhân.</p>\n\n<p>Thuốc chống viêm không steroid (NSAIDs) bao gồm cả các chất ức chế có chọn lọc cyclooxygenase-2 (chất ức chế COX-2): Khi các thuốc đối vận angiotensin II được sử dụng đồng thời với NSAIDs, hiệu quả hạ huyết áp có thể suy giảm. Hơn nữa, ở những bệnh nhân lớn tuổi, thể tích suy giảm (bao gồm cả những người điều trị bằng thuốc lợi tiểu), hoặc bị tổn hại chức năng thận, đồng thời sử dụng thuốc đối vận angiotensin II và NSAIDs có thể dẫn đến gia tăng nguy cơ làm chức năng thận xấu đi. Vì vậy, theo dõi chức năng thận được khuyến cáo khi bắt đầu hoặc thay đổi điều trị ờ những bệnh nhân sử dụng valsartan có dùng đồng thời thuốc NSAID.</p>\n\n<p>Vận chuyển: Kết quả từ một nghiên cứu trong ống nghiệm trên mô gan người cho thấy valsartan đó là một chất nền của chất vận chuyển hấp thu thuốc vào bên trong gan 0ATP1B1 và chất vận chuyển thuốc ra ngoài gan MRP2. Điều trị đồng thời các chất ức chế chất vận chuyển hấp thu (rifampin, ciclosporin) hoặc chất vận chuyển ra ngoài (ritonavir) có thể làm tăng sự tiếp xúc valsartan trong cơ thể.</p>\n\n<p>Các thuốc chống tăng huyết áp khác: Các thiazide làm tăng hiệu quả hạ huyết áp của thuốc điều trị tăng huyết áp khác (ví dụ như guanethidine, methyldopa, thuốc chẹn beta, thuốc giãn mạch, các thuốc chẹn kênh canxi, chát ức chế men chuyển angiotensin (ACE), thuốc chẹn thụ thể Angiotensin (ARB) và thuốc ức chế trực tiếp Renin (DRIs)).</p>\n\n<p>Thuốc giãn cơ xương: Các thiazide bao gồm hydrochlorothiazide làm tăng hoạt động giãn cơ xương như là dẫn chất của curare.</p>\n\n<p>Thuốc ảnh hưởng đến nồng độ kali trong huyết thanh: Tác dụng gây giảm kali huyết của thuốc lợi tiểu có thể tăng lên do dùng đồng thời với thuốc lợi tiểu làm bài tiết kali, corticosteroid, ACTH, amphotericin, carbenoxolone, penicillin G và dẫn chất của acid salicylic hoặc thuốc chống loạn nhịp tim.</p>\n\n<p>Thuốc ảnh hưởng đến lượng natri trong huyết thanh: Tác dụng gây giảm natri của thuốc lợi tiểu có thể được tăng cường do dùng đồng thời các loại thuốc như thuốc chống trầm cảm, thuốc chống loạn thần, thuốc chống động kinh, vv... Thận trọng được khuyến cáo khi sử dụng trong thời gian dài với các thuốc này.</p>\n\n<p>Thuốc chống đái tháo đường: Thiazide có thể làm thay đổi dung nạp glucose. Có thể cần phải điều chỉnh liều insulin và thuốc chống đái tháo đường dạng uống.</p>\n\n<p>Thuốc trợ tim Digitalis glycosides: Tác dụng phụ của thiazide có thể là hạ kali hoặc magiê huyết, làm cho có thể khởi phát loạn nhịp tim do digitalis. </p>\n\n<p>Các thuốc kháng viêm không steroid (NSAIDs) và ức chế chọn lọc Cox-2: Dùng kết hợp với các thuốc kháng viêm không Steroid (ví dụ như dẫn chất của acid salicylic, indomethacin) có thể làm giảm tác dụng lợi tiểu và chống tăng huyết áp của thành phần thiazide trong Co-Diovan. Giảm thể tích máu đồng thời có thể dẫn tới tình trạng suy thận cấp.</p>\n\n<p>Allopurinol: Dùng phối hợp thuốc lợi tiểu thiazide (bao gồm hydrochlorothiazide) có thể làm tăng tỷ lệ bị phản ứng quá mẫn với allopurinol.</p>\n\n<p>Amantadine: Dùng phối hợp thuốc lợi tiểu thiazide (bao gồm hydrochlorothiazide) có thể làm tăng nguy cơ biến cố ngoại ý do amantadine.</p>\n\n<p>Các thuốc chống ung thư (ví dụ như cyclophosphamide, methotrexate): Dùng phối hợp thuốc lợi tiểu thiazide có thể làm giảm bài tiết qua thận đối với những thuốc gây độc tế bào và làm tăng tác dụng ức chế tủy xương của các thuốc này.</p>\n\n<p>Thuốc kháng Cholinergic: Khả dụng sinh học cùa thuốc lợi tiểu dạng thiazide có thể tăng do các thuốc kháng cholinenergic (ví dụ như atropine, biperiden), hiển nhiên là do giảm nhu động dạ dày - ruột và tốc độ làm trống dạ dày. Trái lại, các thuốc tăng nhu động như cisaprid có thể làm giảm sinh khả dụng của các loại thuốc lợi tiểu thiazide.</p>\n\n<p>Các resin trao đổi ion: Sự hấp thu cúa thuốc lợi tiểu thiazide, bao gồm hydrochlorothiazide, sẽ giảm bởi cholestyramin hoặc colestipol. Tuy nhiên, dùng xen kẽ hydrochlorothiazide và resin như khi hydrochlorothiazide được sử dụng ít nhất 4 giờ trước hoặc 4-6 giờ sau khi sử dụng. Resin có khả năng sẽ giảm thiểu sự tương tác.</p>\n\n<p>Vitamin D: Khi dùng thuốc lợi tiểu thiazide, bao gồm hydrochlorothiazide, với vitamin D hoặc muối calcium có nguy cơ làm tăng nồng độ calci trong huyết thanh.</p>\n\n<p>Ciclosporin: Khi phối hợp với cyclosporine có thể gây tăng nguy cơ tăng acid uric huyết và biến chứng dạng gút.</p>\n\n<p>Muối calcium: Khi dùng chung với thuốc lợi tiểu thiazide có thể dẫn đến làm tăng calci huyết do tăng tái hấp thu calci ở ống thận. </p>\n\n<p>Diazoxide: Thuốc lợi tiểu thiazide có thể gây tăng hiệu quả tăng đường huyết của diazoxide.</p>\n\n<p>Methyldopa: Đã có những báo cáo trong y văn về thiếu máu tán huyết xảy ra khi dùng đồng thời hydrochlorothiazide và methyldopa.</p>\n\n<p>Rượu, các loại thuốc an thần nhóm barbiturat hoặc các chất ma tuý: Dùng đồng thời thuốc lợi tiểu thiazide với rượu, các barbiturat, các chất ma tuý có thể làm tăng khả năng hạ huyết áp tư thế.</p>\n\n<p>Các Pressor amines: Hydrochlorothiazide có thể làm giảm đáp ứng với các Pressor amines như noradrenaline. Ý nghĩa lâm sàng của hiệu ứng này là không chắc chắn và không đủ để ngăn cản việc sử dụng các thuốc này.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Codiovan 160/25: Thuốc trị tăng huyết áp (2 vỉ x 14 viên)",
+        "metaDescription": "Thuốc Codiovan 160mg/25mg là thuốc đối kháng thụ thể angiotensin II kết hợp với thuốc lợi tiểu, được chỉ định dùng trong các trường hợp trị tăng huyết áp cho người lớn",
+        "id": 1537,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_7000_605c_large_54e1b37235.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Codiovan 160mg/25mg Novartis điều trị tăng huyết áp (2 vỉ x 14 viên)",
+            "description": "Thuốc “Co-Diovan 160/25 mg” của công ty Novartis Farma S.p.A  là thuốc đối kháng thụ thể angiotensin II (valsartan) kết hợp với thuốc lợi tiểu (hydrochlorothiazide). Thuốc có hình dạng viên nén bao phim hình bầu dục, không bẻ được, kích thước chiều dài khoảng 14,2 mm, chiều ngang 5,7 mm, dày 4,5 mm và nặng khoảng 310 mg. Viên nén màu cam-nâu, được in chữ HXH trên một mặt và chữ NVR trên mặt kia. Quy cách đóng gói 1 hộp 2 vỉ x 14 viên nén bao phim."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 35845,
+        "title": "Các tác dụng phụ không mong muốn thường gặp (ADR > 1/100) của Codiovan 160/25 là gì?",
+        "content": "<p>Các tác dụng phụ thường gặp bao gồm:</p><ul><li>Chuyển hóa: Hạ magie máu và tăng acid uric máu.</li><li>Da: Nổi mề đay và các hình thức phát ban.</li><li>Tiêu hóa: Giảm sự thèm ăn, buồn nôn và ói mửa nhẹ.</li><li>Tim mạch: Hạ huyết áp tư thế đứng (có thể trầm trọng hơn do rượu, thuốc mê hoặc thuốc an thần).</li><li>Hệ thống sinh sản: Bất lực.</li></ul>"
+      },
+      {
+        "id": 35844,
+        "title": "Những trường hợp nào không được sử dụng thuốc Codiovan 160/25?",
+        "content": "<p>Thuốc Co-Diovan 160/25 mg chống chỉ định trong các trường hợp sau:</p><ul><li>Quá mẫn cảm với valsartan, hydrochlorothiazide, các thuốc khác là dẫn xuất của sulfonamide hoặc bất cứ thành phần nào của Co-Diovan.</li><li>Phụ nữ có thai.</li><li>Bệnh nhân vô niệu.</li><li>Sử dụng đồng thời thuốc đối kháng thụ thể angiotensin ARBs (bao gồm Valsartan) hoặc thuốc ức chế men chuyển ACEIs và Aliskiren đối với bệnh nhân đái tháo đường type II.</li></ul>"
+      },
+      {
+        "id": 35843,
+        "title": "Liều dùng khuyến cáo của Codiovan 160/25 cho người lớn là gì và cách dùng như thế nào?",
+        "content": "<p>Thuốc được dùng đường uống.&nbsp;</p><p>Liều khuyến cáo điều trị của Co-Diovan là một viên nén bao phim mỗi ngày. Liều dùng hàng ngày tối đa là 320mg Valsartan/25mg Hydrochlorothiazide. Tác dụng hạ áp tối đa thường được quan sát thấy trong vòng từ 2 đến 4 tuần.</p>"
+      },
+      {
+        "id": 35842,
+        "title": "Thuốc Codiovan 160/25 được sử dụng để điều trị bệnh gì?",
+        "content": "<p>Thuốc được chỉ định để điều trị tăng huyết áp cho người lớn, 18 tuổi trở lên. Co-Diovan được sử dụng cho bệnh nhân tăng huyết áp mà huyết áp không được kiểm soát đúng mức khi điều trị bằng phương pháp đơn trị liệu. Thuốc cũng có thể được sử dụng như điều trị khởi đầu ở những bệnh nhân có thể cần dùng nhiều thuốc để đạt được mục tiêu huyết áp.</p>"
+      },
+      {
+        "id": 35841,
+        "title": "Thuốc Codiovan 160/25 là thuốc gì và có thành phần hoạt chất nào?",
+        "content": "<p>Thuốc Codiovan 160/25 là thuốc đối kháng thụ thể angiotensin II (valsartan) kết hợp với thuốc lợi tiểu (hydrochlorothiazide). Thành phần cho 1 viên bao gồm Valsartan 160mg và Hydrochlorothiazide 25mg. Thuốc được sản xuất bởi Novartis tại Ý, với xuất xứ thương hiệu từ Thụy Sĩ.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00005718",
+        "name": "PANANGIN GEDEON 50V",
+        "webName": "Viên nén Panangin Gedeon bổ sung kali, magnesi dùng trong suy tim (50 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2062_d16aeaf713.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8218,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2820,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/panangin-2715.html",
+        "ingredients": "Kali aspartat khan 158mg, Magie 140mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Gedeon",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 50 Viên",
+        "prices": [
+          {
+            "id": 8219,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 141000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 8218,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2820,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 58,
+          "attributeName": "Hungary",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/hu_Hungary_025bdc77ac.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001598",
+        "name": "CARDIOTON 30MG  3X10",
+        "webName": "Thuốc Cardioton Lipa Pharmaceuticals điều trị suy tim, tăng huyết áp, thiếu máu cơ tim (3 vỉ x 10 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/cardioton_30mg_3x10_00001598_efd03b68ec.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1797,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 7647,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cardilopin-30mg-4382.html",
+        "ingredients": "Ubidecarenone 30mg, D-alpha tocopherol 6.71mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "LIPA PHARMACEUTICALSLTD",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 1799,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 229400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 1797,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7647,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1798,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 76467,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "A052300000450",
+        "name": "ANBA-QE PHƯƠNG ĐÔNG 3X10",
+        "webName": "Thuốc Anba-QE Phương Đông điều trị thiểu năng tuần hoàn, thiếu máu cơ tim, tăng huyết áp động mạch (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/36_5f16613b76.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 56221,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 540000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/anba-qe-phuong-dong-3-x10.html",
+        "ingredients": "Ubidecarenone 100mg, Vitamin E 12.31mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Phương Đông",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 56221,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 540000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 56222,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 180000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 56223,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 18000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00022504",
+        "name": "BESTIMAC Q10 30MG MEDIPLANTEX 6X10",
+        "webName": "Thuốc Bestimac Q10 30mg Mediplantex điều trị tăng cholesterol máu, suy tim sung huyết (6 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00022504_bestimac_q10_30mg_mediplantex_6x10_7525_609b_large_619f0b04cf.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 28906,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 286000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bestimac-q10-30mg-mediplantex-6x10-22830.html",
+        "ingredients": "Ubidecarenone 30mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Mediplantex",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 28904,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 4767,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 28906,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 286000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 28905,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 47667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00050619",
+        "name": "PAVICARDI 50MG/250IU CPC1HN 2X15",
+        "webName": "Thuốc Parvicardi CPC1 bổ sung năng lượng cho cơ tim, điều trị các bệnh tim mạch (2 vỉ x 15 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_pavicardi_50mg_250iu_2x15_cpc1hn_00050619_82c96ce76a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 79961,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 16000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pavicardi-50-mg-250-iu-cpc-1-hn-2-x15.html",
+        "ingredients": "Coenzym Q10 50mg, Vitamin E 250iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "CPC1HN",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 15 Viên",
+        "prices": [
+          {
+            "id": 79959,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 480000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 79960,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 240000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 79961,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 16000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00000769",
+        "name": "AN THẦN BỔ TÂM-F FITO 40V",
+        "webName": "Thuốc An Thần Bổ Tâm - F Fito dưỡng tâm, an thần (40 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_4882_599f_large_1e78644b05.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 571,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 66000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vien-uong-an-than-bo-tam-f-516.html",
+        "ingredients": "Táo Nhân 133.3mg, Mạch môn 133.3mg, Sinh Địa 400mg, Thiên môn đông 133.3mg, Bá tử nhân 133.3mg, Huyền sâm 66.7mg, Viễn chí 66.7mg, Ngũ vị tử 66.7mg, Đảng Sâm 53.3mg, Đương quy 53.3mg, Đan sâm 46.7mg, Phục thần 46.7mg, Cát cánh 26.7mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Fito",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 40 viên",
+        "prices": [
+          {
+            "id": 570,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1650,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 571,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 66000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 21,
+      "items": [
+        {
+          "id": 3317441,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0387xxxxxx",
+          "name": "Hoàng Văn Huỳnh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá 1 hộp",
+          "createdAt": "2026-06-04 10:48:39",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-06-04 10:48:39",
+          "replies": [
+            {
+              "id": 3317444,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Minh Tiến",
+                "moderatorEmail": "tiennm50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Minh Tiến",
+              "email": "tiennm50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Huỳnh,</p><p>Hiện tại, sản phẩm Codiovan 160mg/25mg có giá 500,000 ₫/ hộp.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-06-04 10:51:37",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-06-04 10:48:39",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3302375,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0909xxxxxx",
+          "name": "loan",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bn 1 hop e",
+          "createdAt": "2026-05-06 13:00:15",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-05-06 13:00:15",
+          "replies": [
+            {
+              "id": 3302383,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mạc Thị Tuyết Anh",
+                "moderatorEmail": "anhmtt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mạc Thị Tuyết Anh",
+              "email": "anhmtt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Loan,</p><p>Hiện tại, sản phẩm có giá 500,000 ₫ 1 hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-05-06 13:02:53",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-05-06 13:00:15",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3286945,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0980xxxxxx",
+          "name": "quỳnh nhi",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá 1 hộp",
+          "createdAt": "2026-04-07 14:10:10",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-07 14:10:10",
+          "replies": [
+            {
+              "id": 3286963,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Võ Kiều Nguyệt Nhi",
+                "moderatorEmail": "nhivkn@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Võ Kiều Nguyệt Nhi",
+              "email": "nhivkn@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Quỳnh Nhi</p><p>Hiện tại, sản phẩm Thuốc Codiovan 160mg/25mg Novartis điều trị tăng huyết áp (2 vỉ x 14 viên) có giá 500,000 ₫/Hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a>&nbsp;</strong>để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-04-07 14:19:18",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-07 14:10:10",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3261330,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0904xxxxxx",
+          "name": "Kim",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Xin giá",
+          "createdAt": "2026-02-15 13:30:53",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-15 13:30:53",
+          "replies": [
+            {
+              "id": 3261331,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thị Phượng",
+                "moderatorEmail": "phuonght34@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Thị Phượng",
+              "email": "phuonght34@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Kim,</p><p>Hiện tại, sản phẩm Thuốc Codiovan 160mg/25mg Novartis điều trị tăng huyết áp (2 vỉ x 14 viên) có giá&nbsp;500,000 ₫/hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> </strong>để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-02-15 13:33:15",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-15 13:30:53",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3214292,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0789xxxxxx",
+          "name": "Tho",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mình xin giá 1 hộp ạ",
+          "createdAt": "2025-11-17 20:55:22",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-17 20:55:22",
+          "replies": [
+            {
+              "id": 3214305,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Mai Anh",
+                "moderatorEmail": "anhnm70@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Mai Anh",
+              "email": "anhnm70@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn <strong>Tho</strong>,</p><p> Hiện tại, sản phẩm có giá 500.000đ/ hộp.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2025-11-17 20:59:48",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-17 20:55:22",
+              "replies": []
+            },
+            {
+              "id": 3255573,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0988xxxxxx",
+              "name": "Vy Oanh",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "1 vỉ lẻ bao nhiêu ạ",
+              "createdAt": "2026-02-03 11:07:01",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2025-11-17 20:55:22",
+              "replies": []
+            },
+            {
+              "id": 3255598,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thu Hà",
+                "moderatorEmail": "hantt135@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thu Hà",
+              "email": "hantt135@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Oanh,</p><p>Hiện tại, sản phẩm Thuốc Codiovan có giá 250,000 ₫/vỉ.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại ứng dụng Long Châu/ZALO OA Nhà thuốc FPT Long Châu để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-02-03 11:51:22",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2025-11-17 20:55:22",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Codiovan 160mg/25mg Novartis điều trị tăng huyết áp (2 vỉ x 14 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_7000_605c_large_54e1b37235.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_4129_605c_large_bbcebc8d4a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_8436_605c_large_507b892244.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_3670_605c_large_6cf4969055.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_9811_6072_large_89bf8ab0b6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_3721_6072_large_f76d21cdbc.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_2966_6072_large_4fd1af7538.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_5880_6072_large_cc9019a131.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_8844_6072_large_56bb5221cb.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc “Co-Diovan 160/25 mg” của công ty Novartis Farma S.p.A  là thuốc đối kháng thụ thể angiotensin II (valsartan) kết hợp với thuốc lợi tiểu (hydrochlorothiazide). Thuốc có hình dạng viên nén bao phim hình bầu dục, không bẻ được, kích thước chiều dài khoảng 14,2 mm, chiều ngang 5,7 mm, dày 4,5 mm và nặng khoảng 310 mg. Viên nén màu cam-nâu, được in chữ HXH trên một mặt và chữ NVR trên mặt kia. Quy cách đóng gói 1 hộp 2 vỉ x 14 viên nén bao phim.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Codiovan 160/25: Thuốc trị tăng huyết áp (2 vỉ x 14 viên)",
+      "description": "Thuốc Codiovan 160mg/25mg là thuốc đối kháng thụ thể angiotensin II kết hợp với thuốc lợi tiểu, được chỉ định dùng trong các trường hợp trị tăng huyết áp cho người lớn",
+      "openGraph": {
+        "title": "Thuốc Codiovan 160mg/25mg Novartis điều trị tăng huyết áp (2 vỉ x 14 viên)",
+        "description": "Thuốc “Co-Diovan 160/25 mg” của công ty Novartis Farma S.p.A  là thuốc đối kháng thụ thể angiotensin II (valsartan) kết hợp với thuốc lợi tiểu (hydrochlorothiazide). Thuốc có hình dạng viên nén bao phim hình bầu dục, không bẻ được, kích thước chiều dài khoảng 14,2 mm, chiều ngang 5,7 mm, dày 4,5 mm và nặng khoảng 310 mg. Viên nén màu cam-nâu, được in chữ HXH trên một mặt và chữ NVR trên mặt kia. Quy cách đóng gói 1 hộp 2 vỉ x 14 viên nén bao phim.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002000_codiovan_16025_7000_605c_large_54e1b37235.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/codiovan-16025-4198.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/codiovan-16025-4198.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

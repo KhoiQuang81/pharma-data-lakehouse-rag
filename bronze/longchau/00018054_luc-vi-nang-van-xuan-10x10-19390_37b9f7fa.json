@@ -1,0 +1,1575 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/luc-vi-nang-van-xuan-10x10-19390.html",
+  "ingestion_timestamp": "2026-09-05T10:10:38.671961+00:00",
+  "file_hash": "70a01995d74efa712054673a574f9456a261f04a5782034d432ca1e1c94c580c",
+  "lineage_hash": "1d313fa2bd59b6b7e0283aab9040580b2ce226b9715d943ece506984de1497f5",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/luc-vi-nang-van-xuan-10x10-19390.html",
+    "product": {
+      "sku": "00018054",
+      "webName": "Thuốc Lục Vị Nang Vạn Xuân thận âm suy tổn, chóng mặt, ù tai (10 vỉ x 10 viên)",
+      "name": "LỤC VỊ NANG VẠN XUÂN 10X10",
+      "shortName": "LỤC VỊ NANG VX 10X10",
+      "headingText": "Thuốc Lục Vị Nang",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_1391_5b7f_large_4bde6c0170.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_4065_5b7f_large_b1cdf271a9.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_6542_5b7f_large_f589a04acf.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_5210_5b7f_large_065b59bc1e.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_5400_5b7f_large_9641ce492b.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_1627379549_533430b667.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 738,
+          "name": "Thuốc tiết niệu - sinh dục",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 818,
+          "name": "Thuốc trị bệnh thận",
+          "parentName": "Thuốc tiết niệu - sinh dục",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 76000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 10 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": 7600,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "10 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": 760,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/luc-vi-nang-van-xuan-10x10-19390.html",
+      "ingredient": [
+        {
+          "id": 10741,
+          "ingredientId": 32516,
+          "shortDescription": "90mg",
+          "name": "Phục Linh",
+          "isPrimary": false,
+          "slug": "thanh-phan/phuc-linh"
+        },
+        {
+          "id": 10742,
+          "ingredientId": 39013,
+          "shortDescription": "90mg",
+          "name": "Trạch tả",
+          "isPrimary": false,
+          "slug": "thanh-phan/trach-ta"
+        },
+        {
+          "id": 10743,
+          "ingredientId": 26653,
+          "shortDescription": "90mg",
+          "name": "Mẫu đơn bì (Vỏ rễ)",
+          "isPrimary": false,
+          "slug": "thanh-phan/mau-don-bi"
+        },
+        {
+          "id": 10744,
+          "ingredientId": 36514,
+          "shortDescription": "120mg",
+          "name": "Sơn thù",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 10745,
+          "ingredientId": 22414,
+          "shortDescription": "120mg",
+          "name": "Hoài Sơn",
+          "isPrimary": false,
+          "slug": "thanh-phan/hoai-son"
+        },
+        {
+          "id": 10746,
+          "ingredientId": 38361,
+          "shortDescription": "240mg",
+          "name": "Thục địa",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-27652-17",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang cứng",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Dùng đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Uống 2 viên x 3 lần/ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Những dấu hiệu và triệu chứng khi dùng thuốc quá liều: Đau bụng.</p>\n\n<p>Cách xử trí khi quá liều: Khi dùng thuốc quá liều thì giảm liều hoặc ngưng dùng thuốc và uống nước gừng. </p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Uống thêm 1 liều trong thời gian kế tiếp.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc Lục Vị Nang Vạn Xuân 10X10 được chỉ định dùng trong các trường hợp sau:</p>\n\n<p><em>Thận âm suy tổn, chóng mặt, <a href=\"https://nhathuoclongchau.com.vn/benh/u-tai-572.html\">ù tai</a>, đau thắt lưng, đầu gối mỏi yếu, cốt chưng trào nhiệt, ra mồ hôi trộm, di tinh, tiêu khát.</em></p>\n\n<h3>Dược lực học</h3>\n\n<p>Thuốc có tác dụng tư âm, bổ thận.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "brand": "Vạn Xuân",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Lục Vị Nang Vạn Xuân 10X10 , bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p>Chưa thấy tác dụng không mong muốn.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 10 vỉ x 10 viên",
+      "indications": [
+        {
+          "id": 255,
+          "name": "Suy thận",
+          "slug": "benh/suy-than-679.html"
+        },
+        {
+          "id": 328,
+          "name": "Ù tai",
+          "slug": "benh/u-tai-572.html"
+        },
+        {
+          "id": 377,
+          "name": "Di tinh, mộng tinh",
+          "slug": "benh/di-tinh-mong-tinh-103.html"
+        },
+        {
+          "id": 510,
+          "name": "Đau đầu gối",
+          "slug": "benh/dau-dau-goi-60.html"
+        },
+        {
+          "id": 1042,
+          "name": "Đổ mồ hôi",
+          "slug": null
+        },
+        {
+          "id": 1145,
+          "name": "Đau thắt lưng",
+          "slug": "benh/dau-that-lung-710.html"
+        },
+        {
+          "id": 1196,
+          "name": "Chóng mặt",
+          "slug": "benh/chong-mat-763.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "Vạn Xuân",
+      "shortDescription": "<p style=\"text-align:justify;\">Lục Vị Nang Vạn Xuân 10X10 của Công Ty TNHH Vạn Xuân thành phần chính gồm thục địa, hoài sơn, sơn thù, mẫu đơn bì, phục linh, trạch tả, là thuốc bổ thận, tư âm được sử dụng trong các trường hợp thận âm suy tổn, chóng mặt, ù tai, đau thắt lưng, đầu gối mỏi yếu, cốt chưng trào nhiệt, ra mồ hôi trộm, di tinh, tiêu khát.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "Trên 12 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ cho con bú",
+        "Phụ nữ có thai"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Mang thai, Tiêu chảy, Dị ứng thuốc",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/van-xuan",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": null,
+      "officialProductName": "LỤC VỊ NANG VẠN XUÂN",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "24 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": 76000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 10 Vỉ x 10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 818,
+        "name": "Thuốc trị bệnh thận",
+        "parentName": "Thuốc tiết niệu - sinh dục",
+        "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_1391_5b7f_large_4bde6c0170.JPG",
+          "alternativeText": "Thuốc Lục Vị Nang Vạn Xuân thận âm suy tổn, chóng mặt, ù tai (10 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_4065_5b7f_large_b1cdf271a9.JPG",
+          "alternativeText": "Thuốc Lục Vị Nang Vạn Xuân thận âm suy tổn, chóng mặt, ù tai (10 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_6542_5b7f_large_f589a04acf.JPG",
+          "alternativeText": "Thuốc Lục Vị Nang Vạn Xuân thận âm suy tổn, chóng mặt, ù tai (10 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_5210_5b7f_large_065b59bc1e.JPG",
+          "alternativeText": "Thuốc Lục Vị Nang Vạn Xuân thận âm suy tổn, chóng mặt, ù tai (10 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_5400_5b7f_large_9641ce492b.JPG",
+          "alternativeText": "Thuốc Lục Vị Nang Vạn Xuân thận âm suy tổn, chóng mặt, ù tai (10 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_1627379549_533430b667.jpg",
+          "alternativeText": "Thuốc Lục Vị Nang Vạn Xuân thận âm suy tổn, chóng mặt, ù tai (10 vỉ x 10 viên) 6"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 76000,
+        "itemCode": "00018054",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 76000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 7600,
+        "itemCode": "00018054",
+        "unitCode": 13,
+        "maxValue": 0,
+        "price": 7600,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 760,
+        "itemCode": "00018054",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 760,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiết niệu - sinh dục",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc"
+      },
+      {
+        "name": "Thuốc trị bệnh thận",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than"
+      }
+    ],
+    "content": {
+      "sku": "00018054",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Dùng đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Uống 2 viên x 3 lần/ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Những dấu hiệu và triệu chứng khi dùng thuốc quá liều: Đau bụng.</p>\n\n<p>Cách xử trí khi quá liều: Khi dùng thuốc quá liều thì giảm liều hoặc ngưng dùng thuốc và uống nước gừng. </p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Uống thêm 1 liều trong thời gian kế tiếp.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Lục Vị Nang Vạn Xuân 10X10.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Lục Vị Nang Vạn Xuân 10X10 , bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p>Chưa thấy tác dụng không mong muốn.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p style=\"text-align:justify;\">Nơi khô mát, nhiệt độ dưới 30°C.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc Lục Vị Nang Vạn Xuân 10X10 được chỉ định dùng trong các trường hợp sau:</p>\n\n<p><em>Thận âm suy tổn, chóng mặt, <a href=\"https://nhathuoclongchau.com.vn/benh/u-tai-572.html\">ù tai</a>, đau thắt lưng, đầu gối mỏi yếu, cốt chưng trào nhiệt, ra mồ hôi trộm, di tinh, tiêu khát.</em></p>\n\n<h3>Dược lực học</h3>\n\n<p>Thuốc có tác dụng tư âm, bổ thận.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định</h3>\n\n<p>Thuốc Lục Vị Nang Vạn Xuân 10X10 chống chỉ định trong trường hợp sau:</p>\n\n<p>Ăn không tiêu, đại tiện lỏng do hư hàn hoặc cảm sốt.</p>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Khi sử dụng cho phụ nữ có thai.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Chưa ghi nhận được báo cáo phản ứng bất lợi khi dùng thuốc cho người vận hành máy móc, đang lái tàu xe, người làm việc trên cao và các trường hợp khác.</p>\n\n<h3>Thời kỳ mang thai </h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Thời kỳ cho con bú</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Khi dùng thuốc này nên tránh thuốc tẩy, thuốc xổ.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Lục Vị Nang Vạn Xuân trị âm suy tổn, chóng mặt, ù tai",
+        "metaDescription": "Lục Vị Nang Vạn Xuân thành phần chính gồm thục địa, hoài sơn, sơn thù, mẫu đơn bì, phục linh, trạch tả, là thuốc bổ thận, tư âm được sử dụng trong các trường hợp thận âm suy tổn, chóng mặt, ù tai, đau thắt lưng, đầu gối mỏi yếu.",
+        "id": 7006,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_1391_5b7f_large_4bde6c0170.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc Lục Vị Nang Vạn Xuân thận âm suy tổn, chóng mặt, ù tai (10 vỉ x 10 viên)",
+            "description": "Lục Vị Nang Vạn Xuân 10X10 của Công Ty TNHH Vạn Xuân thành phần chính gồm thục địa, hoài sơn, sơn thù, mẫu đơn bì, phục linh, trạch tả, là thuốc bổ thận, tư âm được sử dụng trong các trường hợp thận âm suy tổn, chóng mặt, ù tai, đau thắt lưng, đầu gối mỏi yếu, cốt chưng trào nhiệt, ra mồ hôi trộm, di tinh, tiêu khát."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 373,
+        "title": "Dược lực học là gì?",
+        "content": "<p>\r\n\r\nDược lực học l&agrave; nghi&ecirc;n cứu c&aacute;c ảnh hưởng sinh h&oacute;a, sinh l&yacute;, v&agrave; ph&acirc;n tử của thuốc tr&ecirc;n cơ thể v&agrave; li&ecirc;n quan đến thụ thể li&ecirc;n kết, hiệu ứng sau thụ thể, v&agrave; tương t&aacute;c h&oacute;a học. Dược lực học, với dược động học, gi&uacute;p giải th&iacute;ch mối quan hệ giữa liều v&agrave; đ&aacute;p ứng, tức l&agrave; c&aacute;c t&aacute;c dụng của thuốc. Đ&aacute;p ứng dược l&yacute; phụ thuộc v&agrave;o sự li&ecirc;n kết của thuốc với đ&iacute;ch t&aacute;c dụng. Nồng độ thuốc ở vị tr&iacute; thụ thể ảnh hưởng đến t&aacute;c dụng của thuốc.</p>"
+      },
+      {
+        "id": 372,
+        "title": "Dược động học là gì?",
+        "content": "<p>\r\n\r\nDược động học l&agrave; những t&aacute;c động của cơ thể đối với thuốc trong suốt qu&aacute; tr&igrave;nh thuốc đi v&agrave;o, ở trong v&agrave; đi ra khỏi cơ thể- bao gồm c&aacute;c qu&aacute; tr&igrave;nh hấp thụ, sinh khả dụng, ph&acirc;n bố, chuyển h&oacute;a, v&agrave; thải trừ.</p>"
+      },
+      {
+        "id": 371,
+        "title": "Tác dụng phụ của thuốc là gì? Cách phòng tránh tác dụng phụ của thuốc",
+        "content": "<p>\r\n\r\nT&aacute;c dụng phụ l&agrave; những triệu chứng kh&ocirc;ng mong muốn xảy ra khi ch&uacute;ng ta uống thuốc. C&aacute;c t&aacute;c dụng phụ n&agrave;y c&oacute; thể kh&ocirc;ng nghi&ecirc;m trọng, chẳng hạn chỉ g&acirc;y <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><strong>đau đầu</strong></a> hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mieng-312.html\"><strong>kh&ocirc; miệng</strong></a>. Nhưng cũng c&oacute; những t&aacute;c dụng phụ đe dọa t&iacute;nh mạng. Cẩn ph&ograve;ng tr&aacute;nh t&aacute;c dụng phụ của <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> như: Th&ocirc;ng b&aacute;o c&aacute;c loại thuốc đang sử dụng với b&aacute;c sĩ, c&aacute;c <strong><a href=\"https://nhathuoclongchau.com.vn/benh\">bệnh</a></strong> l&yacute; nền hiện tại, c&aacute;c tương t&aacute;c của thuốc đến thực phẩm hằng ng&agrave;y. Đọc kỹ hướng dẫn sử dụng thuốc v&agrave; nếu gặp t&aacute;c dụng phụ cần b&aacute;o ngay cho b&aacute;c sĩ.</p>"
+      },
+      {
+        "id": 370,
+        "title": "Sử dụng thuốc đúng cách như thế nào?",
+        "content": "<p>\r\n\r\nSử dụng <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> đ&uacute;ng c&aacute;ch l&agrave; uống thuốc theo chỉ dẫn của dược sĩ, b&aacute;c sĩ. Ngo&agrave;i ra kh&ocirc;ng d&ugrave;ng nước quả, nước kho&aacute;ng hoặc c&aacute;c loại nước ngọt đ&oacute;ng hộp c&oacute; gas để uống thuốc. Kh&ocirc;ng d&ugrave;ng sữa để uống thuốc v&igrave; trong th&agrave;nh phần của sữa c&oacute; chứa <strong><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/canxi\">canxi</a></strong>. Kh&ocirc;ng d&ugrave;ng c&agrave; ph&ecirc; hay nước ch&egrave; để uống thuốc. Chỉ n&ecirc;n uống c&ugrave;ng nước lọc.</p>"
+      },
+      {
+        "id": 369,
+        "title": "Các dạng bào chế của thuốc?",
+        "content": "<p>\r\n\r\nC&oacute; c&aacute;c dạng b&agrave;o chế thuốc như<br />\r\nTheo thể chất:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc thể rắn (thuốc bột, thuốc vi&ecirc;n).</li>\r\n\t<li>C&aacute;c dạng thuốc thể mềm (thuốc cao, thuốc mỡ, gel).</li>\r\n\t<li>C&aacute;c dạng thuốc thể lỏng (dung dịch, hỗn dịch, nhũ dịch, xiro).</li>\r\n</ul>\r\n\r\n<p>Theo đường d&ugrave;ng:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc uống (vi&ecirc;n, bột, dung dịch, nhũ dịch, hỗn dịch).</li>\r\n\t<li>C&aacute;c dạng thuốc ti&ecirc;m (dung dịch, hỗn dịch, nhũ dịch, bột pha ti&ecirc;m, dịch truyền).</li>\r\n\t<li>C&aacute;c dạng thuốc d&ugrave;ng ngo&agrave;i (thuốc b&ocirc;i tr&ecirc;n da, thuốc nhỏ l&ecirc;n ni&ecirc;m mạc, thuốc s&uacute;c miệng).</li>\r\n\t<li>C&aacute;c dạng thuốc đặt v&agrave;o c&aacute;c hốc tự nhi&ecirc;n tr&ecirc;n cơ thể (thuốc đặt hậu m&ocirc;n, thuốc trứng đặt &acirc;m đạo...).</li>\r\n</ul>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00500236",
+        "name": "BÀI THẠCH TRƯỜNG PHÚC 3X10",
+        "webName": "Thuốc Bài Thạch Trường Phúc phòng và hỗ trợ điều trị sỏi thận, sỏi mật (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500236_bai_thach_truong_phuc_3x10_3941_6290_large_5eedfa1569.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48093,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 99000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bai-thach-truong-phuc-3x10-34372.html",
+        "ingredients": "Xa tiền tử 0.8g, Bạch mao căn 0.8g, Sinh Địa 0.8g, Ý Dĩ 0.4g, Kim tiền thảo 3.2g",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "TRƯỜNG PHÚC",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48093,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 99000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00010299",
+        "name": "KIM TIỀN THẢO OPC 100V BP",
+        "webName": "Thuốc trị sỏi thận Kim Tiền Thảo OPC hỗ trợ điều trị sỏi đường tiết niệu, sỏi thận (100 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3085_70edea664e.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 13961,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 70000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/kim-tien-thao-opc-ho-tro-dieu-tri-soi-than-263.html",
+        "ingredients": "Kim tiền thảo 120mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 100 Viên",
+        "prices": [
+          {
+            "id": 13960,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 13961,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 70000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049142",
+        "name": "SÂM NHUNG BỔ THẬN TW3 FORIPHARM 60V",
+        "webName": "Thuốc Sâm nhung bổ thận TW3 giúp tăng cường sức khỏe, cải thiện tiểu đêm, tê mỏi chân tay (60 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_08923_b7e0839494.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 77352,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 295000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/sam-nhung-bo-than-tw-3-foripharm-60-v.html",
+        "ingredients": "Trạch tả 30mg, Thục địa 240mg, Bạch linh 40mg, Liên Nhục 88mg, Hoài Sơn 76mg, Đương quy 40mg, Đảng Sâm 24mg, Câu kỷ tử 40mg, Bách hợp 60mg, Viễn chí 16mg, Xuyên khung 28mg, Tục đoạn 58mg, Thỏ ty tử 40mg, Hà thủ ô đỏ 45mg, Ba kích 60mg, Nhân Sâm 7.2mg, Cam thảo 5mg, Nhung hươu 2.4mg, Ban long 7.2mg, Đỗ trọng 24mg, Nhục thung dung 24mg, Cẩu tích 30mg, Bạch truật 36mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Tw3",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 60 Viên",
+        "prices": [
+          {
+            "id": 77351,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 4917,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 77352,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 295000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00003778",
+        "name": "HOÀN LỤC VỊ BỔ THẬN ÂM OPC 240V",
+        "webName": "Thuốc Hoàn Lục Vị Bổ Thận Âm OPC điều trị các trường hợp tinh huyết suy kém, hoa mắt, chóng mặt 240 viên",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6725_c19aa118a4.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 5225,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 55000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/hoan-luc-vi-bo-than-am-202.html",
+        "ingredients": "Phục Linh 36mg, Trạch tả 36mg, Mẫu đơn 36mg, Sơn thù 48mg, Hoài Sơn 48mg, Thục địa 96mg",
+        "dosageForm": "Hoàn cứng",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 240 Viên",
+        "prices": [
+          {
+            "id": 5224,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 229,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 5225,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006445",
+        "name": "ROWATINEX 10X10",
+        "webName": "Thuốc Rowatinex Rowa điều trị bệnh sỏi niệu, sỏi thận (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006445_rowatinex_100mg_2260_5b09_large_d522b8f519.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 9372,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 371000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/rowatinex-100mg-2367.html",
+        "ingredients": "Olive oil 33mg, Pinene 31mg, Camphene 15mg, Borneol 10mg, Fenchone 4mg, Anethol 4mg, cineol 3mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Rowa",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 9370,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 3710,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 9372,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 371000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 9371,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 37100,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 192,
+          "attributeName": "Ireland",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/ie_Ireland_5204367965.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007570",
+        "name": "TƯ ÂM BỔ THẬN VIÊN NANG HỒNG PHÚC 80V",
+        "webName": "Thuốc Tư Âm Bổ Thận Đại Hồng Phúc cường âm, tráng dương, sinh tân dịch (80 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007570_tu_am_bo_than_dai_hong_phuc_3102_5b1e_large_474a748024.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11074,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 95000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tu-am-bo-than-dai-hong-phuc-432.html",
+        "ingredients": "Củ Mài Dại 0.12, Sơn thù 0.12, Thục địa 0.25, Mẫu đơn bì (Vỏ rễ) 0.11, Mạch môn 0.11, Trạch tả 0.11, Phục Linh 0.11, Thạch hộc 0.09, Đỗ trọng 0.09, Ngưu tất (Rễ) 0.09, Lộc Nhung 0.02",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Hồng Phúc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 80 Viên",
+        "prices": [
+          {
+            "id": 11073,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1188,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11074,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 95000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009811",
+        "name": "ĐÁI DẦM ĐỨC THỊNH 200ML",
+        "webName": "Thuốc trị Đái Dầm Đức Thịnh điều trị đái dầm, đái nhiều, đái không tự chủ (200ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/462638275_3787817538127562_1108483988458020867_n_884b31c096.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 13148,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 100000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/siro-dai-dam-duc-thinh-ho-tro-dieu-tri-dai-dam-492.html",
+        "ingredients": "Viễn chí 5g, Tang phiêu tiêu 15g, Phục Linh 30g, Quy bản 25g, Đương quy 35g, Đảng Sâm 40g, Cam thảo 5g",
+        "dosageForm": "Cao lỏng",
+        "brand": "Đức Thịnh",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp x 200ml",
+        "prices": [
+          {
+            "id": 13148,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 100000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00501745",
+        "name": "LỤC VỊ F BỔ THẬN ÂM FITO PHARMA 40V",
+        "webName": "Thuốc Lục Vị F Bổ thận âm Fito điều trị thận âm suy tổn, chóng mặt, ù tai (40 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/668_a9012bb5da.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 51043,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 70000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/luc-vi-f-bo-than-am-fito-pharma-40v-35891.html",
+        "ingredients": "Bột mịn dược liệu , cao hỗn hợp dược liệu 248mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Fito",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 40 Viên",
+        "prices": [
+          {
+            "id": 51043,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 70000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 51042,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1750,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00053174",
+        "name": "BỔ THẬN HOÀN TÙNG LỘC 282V",
+        "webName": "Thuốc Bổ thận hoàn Tùng lộc chữa các chứng do thận hư gây ra: Di tinh, mộng tinh, hoạt tinh, yếu sinh lý, đau lưng, mỏi gối, cơ thể mệt mỏi (Hộp 282 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/bo_than_hoan_tung_loc_282v_00053174_1_7a513100d4.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 818,
+            "name": "Thuốc trị bệnh thận",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-than",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 85266,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 338000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bo-than-hoan-tung-loc-282-vien.html",
+        "ingredients": "Ba kích 20mg, Hoàng kỳ 10mg, Bạch truật 20mg, Nhân Sâm 10mg, Thục địa 20mg, Câu kỷ tử 4mg, Sài Hồ 1mg, Sơn thù 6mg",
+        "dosageForm": "Viên hoàn cứng",
+        "brand": "TÙNG LỘC",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 40,
+        "productRanking": 0,
+        "specification": "Hộp 282 Viên",
+        "prices": [
+          {
+            "id": 85266,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 338000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 11,
+      "items": [
+        {
+          "id": 3178864,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0909xxxxxx",
+          "name": "Nguyễn Thị mai lan",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Bị đau lưng thoát vị đĩa đệm có uống được kh",
+          "createdAt": "2025-09-12 18:04:28",
+          "createdAtDisplay": "11 tháng trước",
+          "updatedAt": "2025-09-12 18:04:25",
+          "replies": [
+            {
+              "id": 3178867,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Từ Thị Tú Uyên",
+                "moderatorEmail": "uyenttt19@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Từ Thị Tú Uyên",
+              "email": "uyenttt19@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Mai Lan,</p><p>Dạ sản phẩm chỉ hỗ trợ tình trạng âm suy tổn, chóng mặt, ù tai. Nếu có dấu hiệu mình có thể tham khảo sử dụng ạ.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến! </p><p><br></p>",
+              "createdAt": "2025-09-12 18:08:53",
+              "createdAtDisplay": "11 tháng trước",
+              "updatedAt": "2025-09-12 18:04:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3121109,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0359xxxxxx",
+          "name": "Ngọc",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tim mạch huyết áp cao dùng loại nào được ạ",
+          "createdAt": "2025-06-04 20:36:11",
+          "createdAtDisplay": "04/06/2025",
+          "updatedAt": "2025-06-04 20:36:11",
+          "replies": [
+            {
+              "id": 3121119,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trang  Lưu Quỳnh",
+                "moderatorEmail": "tranglq6@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trang  Lưu Quỳnh",
+              "email": "tranglq6@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Ngọc,</p><p>Dạ sản phẩm&nbsp;là thuốc bổ thận, tư âm được sử dụng trong các trường hợp thận âm suy tổn, chóng mặt, ù tai, đau thắt lưng, đầu gối mỏi yếu, cốt chưng trào nhiệt, ra mồ hôi trộm, di tinh, tiêu khát., sản phẩm chưa có thông tin dùng cho người bị tim mạch và huyết áp cao, mình vui lòng tham khảo ý kiến bác sĩ trước khi sử dụng sản phẩm ạ </p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-06-04 20:40:00",
+              "createdAtDisplay": "04/06/2025",
+              "updatedAt": "2025-06-04 20:36:11",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3085367,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0377xxxxxx",
+          "name": "a thắng ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này có chuẩn ko ạ ,có đảm bảo về nguồn gốc sản xuất ko ạ",
+          "createdAt": "2025-04-09 08:39:02",
+          "createdAtDisplay": "09/04/2025",
+          "updatedAt": "2025-04-09 08:39:02",
+          "replies": [
+            {
+              "id": 3085378,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thùy Linh",
+                "moderatorEmail": "linhntt77@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thùy Linh",
+              "email": "linhntt77@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Thắng,</p><p>Dạ nhà thuốc Long Châu cam kết các sản phẩm do nhà thuốc bán ra đều có đầy đủ hóa đơn, chứng từ, nguồn gốc xuất xứ rõ ràng. Anh có thể yên tâm sử dụng ạ. </p><p>Thân mến!</p>",
+              "createdAt": "2025-04-09 08:46:13",
+              "createdAtDisplay": "09/04/2025",
+              "updatedAt": "2025-04-09 08:39:02",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3080934,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0702xxxxxx",
+          "name": "Thanh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thận không vấn đề gì thì sử dụng để bồi bổ thận được không ạ?",
+          "createdAt": "2025-04-02 13:34:47",
+          "createdAtDisplay": "02/04/2025",
+          "updatedAt": "2025-04-02 13:34:47",
+          "replies": [
+            {
+              "id": 3080935,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Phương",
+                "moderatorEmail": "phuongtt124@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Phương",
+              "email": "phuongtt124@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Thanh,</p><p>Dạ sản phẩm là thuốc có tác dụng chữa bệnh, trường hợp bình thường không nên dùng để bổ sung ạ.</p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p>",
+              "createdAt": "2025-04-02 13:36:47",
+              "createdAtDisplay": "02/04/2025",
+              "updatedAt": "2025-04-02 13:34:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3074487,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0915xxxxxx",
+          "name": "Nguyễn Văn Tài",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc lục vị nang uống trước hay sau ăn",
+          "createdAt": "2025-03-23 21:30:44",
+          "createdAtDisplay": "23/03/2025",
+          "updatedAt": "2025-03-23 21:30:44",
+          "replies": [
+            {
+              "id": 3074488,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Nhi",
+                "moderatorEmail": "nhitha@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Nhi",
+              "email": "nhitha@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Nguyễn Văn Tài,</p><p>Dạ sản phẩm nên uống sau ăn khoảng 30 phút để hấp thu tốt hơn ạ.</p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p>",
+              "createdAt": "2025-03-23 21:32:16",
+              "createdAtDisplay": "23/03/2025",
+              "updatedAt": "2025-03-23 21:30:44",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Lục Vị Nang Vạn Xuân thận âm suy tổn, chóng mặt, ù tai (10 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_1391_5b7f_large_4bde6c0170.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_4065_5b7f_large_b1cdf271a9.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_6542_5b7f_large_f589a04acf.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_5210_5b7f_large_065b59bc1e.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_5400_5b7f_large_9641ce492b.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "Lục Vị Nang Vạn Xuân 10X10 của Công Ty TNHH Vạn Xuân thành phần chính gồm thục địa, hoài sơn, sơn thù, mẫu đơn bì, phục linh, trạch tả, là thuốc bổ thận, tư âm được sử dụng trong các trường hợp thận âm suy tổn, chóng mặt, ù tai, đau thắt lưng, đầu gối mỏi yếu, cốt chưng trào nhiệt, ra mồ hôi trộm, di tinh, tiêu khát.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/luc-vi-nang-van-xuan-10x10-19390.html",
+        "priceCurrency": "VND",
+        "price": 76000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Lục Vị Nang Vạn Xuân trị âm suy tổn, chóng mặt, ù tai",
+      "description": "Lục Vị Nang Vạn Xuân thành phần chính gồm thục địa, hoài sơn, sơn thù, mẫu đơn bì, phục linh, trạch tả, là thuốc bổ thận, tư âm được sử dụng trong các trường hợp thận âm suy tổn, chóng mặt, ù tai, đau thắt lưng, đầu gối mỏi yếu.",
+      "openGraph": {
+        "title": "Thuốc Lục Vị Nang Vạn Xuân thận âm suy tổn, chóng mặt, ù tai (10 vỉ x 10 viên)",
+        "description": "Lục Vị Nang Vạn Xuân 10X10 của Công Ty TNHH Vạn Xuân thành phần chính gồm thục địa, hoài sơn, sơn thù, mẫu đơn bì, phục linh, trạch tả, là thuốc bổ thận, tư âm được sử dụng trong các trường hợp thận âm suy tổn, chóng mặt, ù tai, đau thắt lưng, đầu gối mỏi yếu, cốt chưng trào nhiệt, ra mồ hôi trộm, di tinh, tiêu khát.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018054_luc_vi_nang_van_xuan_10x10_1391_5b7f_large_4bde6c0170.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/luc-vi-nang-van-xuan-10x10-19390.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/luc-vi-nang-van-xuan-10x10-19390.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

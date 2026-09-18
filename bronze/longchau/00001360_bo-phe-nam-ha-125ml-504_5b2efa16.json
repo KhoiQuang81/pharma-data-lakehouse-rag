@@ -1,0 +1,2023 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/bo-phe-nam-ha-125ml-504.html",
+  "ingestion_timestamp": "2026-09-05T08:47:22.662883+00:00",
+  "file_hash": "9b1adf846788a75bfc1cfc9d0395f218e0e8a34fcfecd54c879f0cb03ca15423",
+  "lineage_hash": "ed7d2c9820f25304ac4a7ff74f94c84a96968792c0a2aa11f606a1ea1b7c15c4",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/bo-phe-nam-ha-125ml-504.html",
+    "product": {
+      "sku": "00001360",
+      "webName": "Siro ho bổ phế Nam Hà Chỉ Khái Lộ điều trị ho cảm mạo, ho gió, ho khan (125ml)",
+      "name": "BỔ PHẾ NAM HÀ 125ML",
+      "shortName": "BỔ PHẾ NAM HÀ 125ML",
+      "headingText": "Siro ho bổ phế",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3588_1a348efcb8.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3584_3c1002f333.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3585_04cf37e747.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3587_a45b87c441.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3586_7341188225.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3589_afe9302d8c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bo_e_e_phe_e_ue_nam_ha_C_b7c3069096.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3583_1f57aa1f58.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 730,
+          "name": "Thuốc hô hấp",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-ho-hap",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 772,
+          "name": "Siro trị ho cảm",
+          "parentName": "Thuốc hô hấp",
+          "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 55000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Chai x 125ml"
+        }
+      ],
+      "slug": "thuoc/bo-phe-nam-ha-125ml-504.html",
+      "ingredient": [
+        {
+          "id": 50870,
+          "ingredientId": 10043,
+          "shortDescription": "1.666g",
+          "name": "Bạc hà",
+          "isPrimary": false,
+          "slug": "thanh-phan/bac-ha"
+        },
+        {
+          "id": 50871,
+          "ingredientId": 10121,
+          "shortDescription": "0.208g",
+          "name": "Bạch phàn",
+          "isPrimary": false,
+          "slug": "thanh-phan/bach-phan"
+        },
+        {
+          "id": 50872,
+          "ingredientId": 40680,
+          "shortDescription": "0.656g",
+          "name": "Xạ can",
+          "isPrimary": false,
+          "slug": "thanh-phan/xa-can"
+        },
+        {
+          "id": 50873,
+          "ingredientId": 10064,
+          "shortDescription": "6.250g",
+          "name": "Bách bộ",
+          "isPrimary": false,
+          "slug": "thanh-phan/bach-bo"
+        },
+        {
+          "id": 50874,
+          "ingredientId": 37464,
+          "shortDescription": "1.875g",
+          "name": "Tang bạch bì",
+          "isPrimary": false,
+          "slug": "thanh-phan/tang-bach-bi"
+        },
+        {
+          "id": 50875,
+          "ingredientId": 38658,
+          "shortDescription": "0.1g",
+          "name": "Tinh dầu bạc hà",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 50876,
+          "ingredientId": 10274,
+          "shortDescription": "1.875g",
+          "name": "Bán hạ chế",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 50877,
+          "ingredientId": 39705,
+          "shortDescription": "3.250g",
+          "name": "Tỳ bà diệp",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 50878,
+          "ingredientId": 10112,
+          "shortDescription": "0.9g",
+          "name": "Bạch linh",
+          "isPrimary": false,
+          "slug": "thanh-phan/bach-linh"
+        },
+        {
+          "id": 50879,
+          "ingredientId": 13188,
+          "shortDescription": "1.708g",
+          "name": "Cát cánh",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 50880,
+          "ingredientId": 27810,
+          "shortDescription": "1.406g",
+          "name": "Mơ muối",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 50881,
+          "ingredientId": 38199,
+          "shortDescription": "1.208g",
+          "name": "Thiên môn đông",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 50882,
+          "ingredientId": 12473,
+          "shortDescription": "0.591g",
+          "name": "Cam thảo",
+          "isPrimary": false,
+          "slug": "thanh-phan/cam-thao"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "125ml",
+      "registNum": "TCT-00091-22",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Siro",
+      "dosage": "<h3>Cách dùng</h3><p>Lắc trước khi dùng.</p><p>Uống liền hoặc có thể pha thêm với nước chín hoặc đường kính cho hợp vị ngọt.</p><h3>Liều dùng</h3><p>Ngày uống 3 lần.</p><p>Trẻ em dưới 6 tuổi: Mỗi lần uống 5 ml.</p><p>Trẻ em từ 6 - 10 tuổi: Mỗi lần uống 10 ml.</p><p>Người lớn và trẻ em trên 10 tuổi: Mỗi lần uống 15 ml.</p><p>Đợt thường dùng từ 7 - 10 ngày hoặc dùng đến khi hết triệu chứng và uống thêm từ 2 - 3 ngày.</p><h3>Làm gì khi dùng quá liều?</h3><p>Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định của thuốc.</p><p>Tích cực theo dõi để có biện pháp xử trí kịp thời.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc Bổ Phế Nam Hà, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Chuyên trị các trường hợp ho do cảm mạo, <a href=\"https://nhathuoclongchau.com.vn/bai-viet/ho-gio-la-gi-bieu-hien-phong-ngua-va-cach-dieu-tri.html\">ho gió</a>, ho khan, ho có đờm, ho do dị ứng thời tiết, ho lâu ngày không khỏi, đau rát họng, khàn tiếng, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-hong-468.html\">viêm họng</a>, viêm phế quản.</p><h3>Dược lực học</h3><p>Chưa có báo cáo.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+      "brand": "Nam Hà",
+      "brandType": null,
+      "adverseEffect": "<p>Hiện tại chưa ghi nhận được báo cáo về phản ứng có hại của thuốc.</p><p>Thông báo cho bác sỹ hoặc nhà sản xuất nếu gặp phải tác dụng không mong muốn của thuốc.</p>",
+      "specification": "Chai x 125ml",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "Nam Hà",
+      "shortDescription": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/bo-phe-nam-ha-125ml-504.html\">Bổ Phế Nam Hà</a> Chỉ Khái Lộ dùng để <strong data-start=\"305\" data-end=\"403\">chữa ho do cảm mạo, ho gió, ho khan, ho có đờm, ho do dị ứng thời tiết, ho lâu ngày không khỏi</strong>, đồng thời giúp <strong data-start=\"420\" data-end=\"453\">giảm đau rát họng, khản tiếng</strong>, hỗ trợ điều trị <strong data-start=\"471\" data-end=\"499\">viêm họng, viêm phế quản</strong>. Sản phẩm thuộc nhóm thuốc trị ho của Công ty Cổ phần Dược phẩm Nam Hà sản xuất, với thành phần chính gồm: Bạch linh, bán hạ, cát cánh, cam thảo, tỳ bà diệp, bách bộ, tang bạch bì, mơ muối, ma hoàng, phèn chua, thiên môn, tinh dầu bạc hà, bạc hà diệp.&nbsp;</p>",
+      "description": "<h3>Giới thiệu Siro ho bổ phế Nam Hà Chỉ Khái Lộ</h3><ul><li><strong>Chỉ định: </strong>Siro bổ phế Nam Hà Chỉ Khái Lộ trị các dạng ho (<a href=\"https://nhathuoclongchau.com.vn/benh/ho-khan-646.html\">ho khan</a>, ho có đờm, ho do cảm, dị ứng thời tiết), ho kéo dài kèm <a href=\"https://nhathuoclongchau.com.vn/benh/dau-hong-795.html\">đau rát họng</a>, khàn tiếng, viêm họng và <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phe-quan-1271.html\">viêm phế quản</a>.</li><li><strong>Cách dùng:</strong> Uống ngày 3 lần; trẻ dưới 6 tuổi uống 5 ml/lần, trẻ 6 - 10 tuổi uống 10 ml/lần, người lớn và trẻ trên 10 tuổi uống 15 ml/lần. Thời gian dùng 7 - 10 ngày hoặc đến khi hết triệu chứng và uống thêm 2 - 3 ngày.</li><li><strong>Đối tượng sử dụng:</strong> Trẻ em trên 30 tháng tuổi và người lớn bị ho, viêm họng, viêm phế quản.</li><li><strong>Lưu ý khi sử dụng:</strong> Thuốc chứa nhiều đường nên cần thận trọng với người <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">tiểu đường</a>; không ảnh hưởng đến khả năng lái xe và vận hành máy móc; phụ nữ mang thai cần thận trọng khi dùng; dùng được cho phụ nữ đang cho con bú.</li><li><strong>Chống chỉ định: </strong>Không dùng cho trẻ dưới 30 tháng tuổi, trẻ có tiền sử động kinh hoặc co giật do sốt cao và người mẫn cảm với bất kỳ thành phần nào của thuốc.</li></ul>",
+      "prescription": false,
+      "ageUse": "Từ 30 tháng tuổi trở lên",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Tiểu đường"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/nam-ha",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "BỔ PHẾ NAM HÀ",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "48 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 6,
+        "measureUnitName": "Chai",
+        "isSellDefault": true,
+        "price": 55000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Chai x 125ml"
+      },
+      "highestLevelCategory": {
+        "id": 772,
+        "name": "Siro trị ho cảm",
+        "parentName": "Thuốc hô hấp",
+        "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3588_1a348efcb8.jpg",
+          "alternativeText": "Siro ho bổ phế Nam Hà Chỉ Khái Lộ điều trị ho cảm mạo, ho gió, ho khan (125ml) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3584_3c1002f333.jpg",
+          "alternativeText": "Siro ho bổ phế Nam Hà Chỉ Khái Lộ điều trị ho cảm mạo, ho gió, ho khan (125ml) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3585_04cf37e747.jpg",
+          "alternativeText": "Siro ho bổ phế Nam Hà Chỉ Khái Lộ điều trị ho cảm mạo, ho gió, ho khan (125ml) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3587_a45b87c441.jpg",
+          "alternativeText": "Siro ho bổ phế Nam Hà Chỉ Khái Lộ điều trị ho cảm mạo, ho gió, ho khan (125ml) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3586_7341188225.jpg",
+          "alternativeText": "Siro ho bổ phế Nam Hà Chỉ Khái Lộ điều trị ho cảm mạo, ho gió, ho khan (125ml) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3589_afe9302d8c.jpg",
+          "alternativeText": "Siro ho bổ phế Nam Hà Chỉ Khái Lộ điều trị ho cảm mạo, ho gió, ho khan (125ml) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bo_e_e_phe_e_ue_nam_ha_C_b7c3069096.jpg",
+          "alternativeText": "Siro ho bổ phế Nam Hà Chỉ Khái Lộ điều trị ho cảm mạo, ho gió, ho khan (125ml) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3583_1f57aa1f58.jpg",
+          "alternativeText": "Siro ho bổ phế Nam Hà Chỉ Khái Lộ điều trị ho cảm mạo, ho gió, ho khan (125ml) 8"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 55000,
+        "itemCode": "00001360",
+        "unitCode": 6,
+        "maxValue": 0,
+        "price": 55000,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc hô hấp",
+        "slug": "/thuoc/thuoc-ho-hap"
+      },
+      {
+        "name": "Siro trị ho cảm",
+        "slug": "/thuoc/thuoc-ho-hap/siro-tri-ho-cam"
+      }
+    ],
+    "content": {
+      "sku": "00001360",
+      "dosage": "<h3>Cách dùng</h3><p>Lắc trước khi dùng.</p><p>Uống liền hoặc có thể pha thêm với nước chín hoặc đường kính cho hợp vị ngọt.</p><h3>Liều dùng</h3><p>Ngày uống 3 lần.</p><p>Trẻ em dưới 6 tuổi: Mỗi lần uống 5 ml.</p><p>Trẻ em từ 6 - 10 tuổi: Mỗi lần uống 10 ml.</p><p>Người lớn và trẻ em trên 10 tuổi: Mỗi lần uống 15 ml.</p><p>Đợt thường dùng từ 7 - 10 ngày hoặc dùng đến khi hết triệu chứng và uống thêm từ 2 - 3 ngày.</p><h3>Làm gì khi dùng quá liều?</h3><p>Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định của thuốc.</p><p>Tích cực theo dõi để có biện pháp xử trí kịp thời.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc Bổ Phế Nam Hà, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<p>Tờ hướng dẫn sử dụng thuốc Bổ Phế Nam Hà Chỉ Khái Lộ.</p>",
+      "adverseEffect": "<p>Hiện tại chưa ghi nhận được báo cáo về phản ứng có hại của thuốc.</p><p>Thông báo cho bác sỹ hoặc nhà sản xuất nếu gặp phải tác dụng không mong muốn của thuốc.</p>",
+      "preservation": "<p>Nơi khô ráo, tránh ánh sáng, nhiệt độ không quá 30°C.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Chuyên trị các trường hợp ho do cảm mạo, <a href=\"https://nhathuoclongchau.com.vn/bai-viet/ho-gio-la-gi-bieu-hien-phong-ngua-va-cach-dieu-tri.html\">ho gió</a>, ho khan, ho có đờm, ho do dị ứng thời tiết, ho lâu ngày không khỏi, đau rát họng, khàn tiếng, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-hong-468.html\">viêm họng</a>, viêm phế quản.</p><h3>Dược lực học</h3><p>Chưa có báo cáo.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc Bổ Phế Nam Hà Chỉ Khái Lộ bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p>Thuốc Bổ Phế Nam Hà Chỉ Khái Lộ chống chỉ định trong trường hợp sau:</p><ul><li>Trẻ em dưới 30 tháng tuổi.</li><li>Trẻ em có tiền sử động kinh hoặc co giật do sốt cao.</li><li>Không dùng thuốc cho người mẫn cảm với bất cứ thành phần nào của thuốc.</li></ul><h3>Thận trọng khi sử dụng</h3><p>Trong 125 ml siro thuốc có chứa 100 g đường nên lưu ý khi sử dụng thuốc đối với người bị bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">tiểu đường</a>.</p><h3>Khả năng lái xe và vận hành máy móc</h3><p>Thuốc không ảnh hưởng đến khả năng lái xe và vận hành máy móc.</p><h3>Thời kỳ mang thai</h3><p>Phụ nữ có thai cần thận trọng khi dùng thuốc này.</p><h3>Thời kỳ cho con bú</h3><p>Thuốc dùng được cho phụ nữ đang cho con bú.</p><h3>Tương tác thuốc</h3><p>Hiện chưa có tài liệu ghi nhận về tương tác của thuốc.</p><p>Do không có các nghiên cứu về tính tương kỵ của thuốc, không trộn lẫn thuốc này với thuốc khác.</p>",
+      "description": "<h3>Giới thiệu Siro ho bổ phế Nam Hà Chỉ Khái Lộ</h3><ul><li><strong>Chỉ định: </strong>Siro bổ phế Nam Hà Chỉ Khái Lộ trị các dạng ho (<a href=\"https://nhathuoclongchau.com.vn/benh/ho-khan-646.html\">ho khan</a>, ho có đờm, ho do cảm, dị ứng thời tiết), ho kéo dài kèm <a href=\"https://nhathuoclongchau.com.vn/benh/dau-hong-795.html\">đau rát họng</a>, khàn tiếng, viêm họng và <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phe-quan-1271.html\">viêm phế quản</a>.</li><li><strong>Cách dùng:</strong> Uống ngày 3 lần; trẻ dưới 6 tuổi uống 5 ml/lần, trẻ 6 - 10 tuổi uống 10 ml/lần, người lớn và trẻ trên 10 tuổi uống 15 ml/lần. Thời gian dùng 7 - 10 ngày hoặc đến khi hết triệu chứng và uống thêm 2 - 3 ngày.</li><li><strong>Đối tượng sử dụng:</strong> Trẻ em trên 30 tháng tuổi và người lớn bị ho, viêm họng, viêm phế quản.</li><li><strong>Lưu ý khi sử dụng:</strong> Thuốc chứa nhiều đường nên cần thận trọng với người <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">tiểu đường</a>; không ảnh hưởng đến khả năng lái xe và vận hành máy móc; phụ nữ mang thai cần thận trọng khi dùng; dùng được cho phụ nữ đang cho con bú.</li><li><strong>Chống chỉ định: </strong>Không dùng cho trẻ dưới 30 tháng tuổi, trẻ có tiền sử động kinh hoặc co giật do sốt cao và người mẫn cảm với bất kỳ thành phần nào của thuốc.</li></ul>",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Nguyễn Mỹ Huyền",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Dược sĩ Đại học có nhiều năm kinh nghiệm trong việc tư vấn Dược phẩm và hỗ trợ giải đáp thắc mắc về Bệnh học. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-nguyen-my-huyen",
+        "isLegit": true,
+        "id": 6,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ds_my_huyen_780f9bef46.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Siro ho Bổ Phế Nam Hà Chỉ Khái Lộ (Chai 125ml)",
+        "metaDescription": "Siro ho Bổ Phế Nam Hà được dùng để hỗ trợ điều trị, giúp chữa ho tiêu đờm, chuyên trị ho cảm, ho gió, ho khan, viêm phế quản. Xem liều dùng và công dụng.",
+        "id": 3884,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3588_1a348efcb8.jpg",
+              "alternativeText": null
+            },
+            "title": "Siro ho bổ phế Nam Hà Chỉ Khái Lộ điều trị ho cảm mạo, ho gió, ho khan (125ml)",
+            "description": "Bổ Phế Nam Hà Chỉ Khái Lộ dùng để chữa ho do cảm mạo, ho gió, ho khan, ho có đờm, ho do dị ứng thời tiết, ho lâu ngày không khỏi, đồng thời giúp giảm đau rát họng, khản tiếng, hỗ trợ điều trị viêm họng, viêm phế quản. Sản phẩm thuộc nhóm thuốc trị ho của Công ty Cổ phần Dược phẩm Nam Hà sản xuất, với thành phần chính gồm: Bạch linh, bán hạ, cát cánh, cam thảo, tỳ bà diệp, bách bộ, tang bạch bì, mơ muối, ma hoàng, phèn chua, thiên môn, tinh dầu bạc hà, bạc hà diệp.&nbsp;"
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 15711,
+        "title": "Siro thuốc ho ho bổ phế Nam Hà Chỉ Khái Lộ chứa thành phần gì?",
+        "content": "<p><a class=\"text-blue-500\">Siro thuốc ho ho bổ phế Nam Hà Chỉ Khái Lộ chứa thành phần chiết xuất các dược liệu từ hóm thuốc trị ho như: </a><a class=\"text-blue-500\" href=\"https://nhathuoclongchau.com.vn/thanh-phan/bac-ha\">Bạc hà</a>, <a class=\"text-blue-500\" href=\"https://nhathuoclongchau.com.vn/thanh-phan/bach-phan\">bạch phàn</a>, <a class=\"text-blue-500\" href=\"https://nhathuoclongchau.com.vn/thanh-phan/xa-can\">xạ can</a>, <a class=\"text-blue-500\" href=\"https://nhathuoclongchau.com.vn/thanh-phan/bach-bo\">bách bộ</a>, tang bạch bì, tinh dầu bạc hà, bán hạ chế, tỳ bà diệp, bạch linh, cát cánh, mơ muối, thiên môn đông, cam thảo.</p>"
+      },
+      {
+        "id": 15712,
+        "title": "Siro thuốc ho ho bổ phế Nam Hà Chỉ Khái Lộ được sử dụng để điều trị những bệnh gì?",
+        "content": "<p>Siro thuốc ho ho bổ phế Nam Hà Chỉ Khái Lộ được sử dụng để điều trị ho do cảm mạo, ho gió, ho khan, ho có đờm, ho do dị ứng thời tiết, ho lâu ngày không khỏi, đau rát họng, khản tiếng, viêm họng, viêm phế quản.</p>"
+      },
+      {
+        "id": 15715,
+        "title": "Hàm lượng đường có trong siro thuốc ho ho bổ phế Nam Hà Chỉ Khái Lộ là bao nhiêu?",
+        "content": "<p>Trong 125 ml siro thuốc có chứa 100 g đường nên lưu ý khi sử dụng thuốc đối với người bị bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">tiểu đường</a>.</p>"
+      },
+      {
+        "id": 15714,
+        "title": "Siro thuốc ho ho bổ phế Nam Hà Chỉ Khái Lộ dùng cho trẻ em độ tuổi nào?",
+        "content": "<p>Siro thuốc ho ho bổ phế Nam Hà Chỉ Khái Lộ dùng cho trẻ em trên 30 tháng tuổi theo chỉ định của bác sĩ.</p>"
+      },
+      {
+        "id": 15713,
+        "title": "Đợt dùng siro thuốc ho ho bổ phế Nam Hà Chỉ Khái Lộ kéo dài bao lâu?",
+        "content": "<p>Đợt dùng siro thuốc ho ho bổ phế Nam Hà Chỉ Khái Lộ từ 7 đến 10 ngày hoặc dùng đến khi hết triệu chứng và uống thêm từ 2 - 3 ngày.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00046168",
+        "name": "SIRO HOASTEX-S OPC 90ML",
+        "webName": "Siro HoAstex-S 90ml OPC dùng trị ho, giảm ho trong viêm họng, viêm phế quản",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09091_c011071423.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 772,
+            "name": "Siro trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 71698,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 53000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/siro-hoastex-s-opc-90-ml.html",
+        "ingredients": "Húng chanh 45.00g, Núc nác 11.25g, Tinh dầu bạch đàn 119.52mg",
+        "dosageForm": "Siro",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Chai x 90ml",
+        "prices": [
+          {
+            "id": 71698,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 53000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00003786",
+        "name": "HOASTEX OPC 90ML",
+        "webName": "Siro HoAstex OPC điều trị ho, giảm ho trong viêm họng, viêm phế quản (90ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/hoastex_90ml_opc_00003786_1_5ea2ee508b.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 772,
+            "name": "Siro trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 5239,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 48000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/siro-hoastex-giam-ho-hieu-qua-435.html",
+        "ingredients": "cineol 0.08, Húng chanh 45.00",
+        "dosageForm": "Siro",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Chai x 90ml",
+        "prices": [
+          {
+            "id": 5239,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 48000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00029309",
+        "name": "AMBROXOL DANAPHA 60ML",
+        "webName": "Siro Ambroxol Danapha điều trị tiêu chất nhầy đường hô hấp do ho có đờm (60ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/ambroxol_df300ff6c2.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 772,
+            "name": "Siro trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37676,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 30000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/ambroxol-danapha-60ml-29574.html",
+        "ingredients": "Ambroxol hydroclorid 0.3% (kl/tt)",
+        "dosageForm": "Siro",
+        "brand": "Danapha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp X 60ml",
+        "prices": [
+          {
+            "id": 37676,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 30000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00050548",
+        "name": "HOASTEX-S OPC 30 GÓI X 5ML",
+        "webName": "Siro HoAstex-S OPC điều trị ho, giảm ho trong viêm họng, viêm phế quản (30 gói x 5ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00012_267ff6eb5a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 772,
+            "name": "Siro trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 79817,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 102000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/hoastex-s-opc-30-goi-x-5-ml.html",
+        "ingredients": "Húng chanh 2.5g, Núc nác 0.625g, Tinh dầu bạch đàn 6.64mg",
+        "dosageForm": "Siro",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 100,
+        "productRanking": 0,
+        "specification": "Hộp 30 Gói x 5ml",
+        "prices": [
+          {
+            "id": 79817,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 102000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 79818,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 3400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00047186",
+        "name": "ATILENE 2.5MG/5ML AN THIÊN 100ML",
+        "webName": "Thuốc Atilene 2.5mg/5ml An Thiên điều trị các bệnh hô hấp, viêm mũi, hắt hơi, sổ mũi (100ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00075_ccdc02331e.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 772,
+            "name": "Siro trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 73655,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 34000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/atilene-2-5-mg-5-ml-an-thien-100-ml.html",
+        "ingredients": "Alimemazin tartrat 2.5mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "An Thiên",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 100,
+        "productRanking": 0,
+        "specification": "Hộp x 100ml",
+        "prices": [
+          {
+            "id": 73655,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 34000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00021378",
+        "name": "HOASTEX OPC 30 GÓI X 5ML",
+        "webName": "Siro HoAstex OPC điều trị ho, giảm ho trong viêm họng, viêm phế quản (30 gói x 5ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/siro_hoastex_dieu_tri_ho_giam_ho_trong_viem_hong_viem_phe_quan_30_goi_x_5ml_opc_00021378_1_7c07562f9b.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 772,
+            "name": "Siro trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 26732,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 94000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/hoastex-opc-30-goi-x-5ml-21775.html",
+        "ingredients": "Húng chanh 2.5g, cineol 4.625mg, Núc nác 0.625g",
+        "dosageForm": "Siro",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 100,
+        "productRanking": 0,
+        "specification": "Hộp 30 Gói x 5ml",
+        "prices": [
+          {
+            "id": 26732,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 94000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 26731,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": false,
+            "price": 3133,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00033529",
+        "name": "THUỐC HO BỔ PHẾ HÓA ĐỜM BẢO THANH HOA LINH 90ML",
+        "webName": "Siro Bảo Thanh Hoa Linh điều trị ho, bổ phế, hóa đờm (90ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03469_341f7c882a.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 772,
+            "name": "Siro trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 46891,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 50000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-ho-bo-phe-bao-thanh-90ml-hoa-linh-33635.html",
+        "ingredients": "Xuyên bối mẫu 5g, Tỳ bà diệp 12.5g, Sa sâm 2.5g, Phục Linh 2.5g, Trần bì 2.5g, Cát cánh 10g, Bán hạ 2.5g, Ngũ vị tử 1.25g, Qua lâu (Quả) 5g, Viễn chí 2.5g, Khổ hạnh nhân 5g, Can khương 2.5g, Mơ muối 12.5g, Mạch môn 2.5g, Thiên môn đông 1.25g, Cam thảo 2.5g, Tinh dầu bạc hà 17.5g, Mật ong 25g",
+        "dosageForm": "Siro",
+        "brand": "Hoa Linh",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 1 Lọ x 90ml",
+        "prices": [
+          {
+            "id": 46891,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 50000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007321",
+        "name": "THUỐC HO BỔ PHẾ HÓA ĐỜM BẢO THANH HOA LINH 125ML",
+        "webName": "Siro ho Bảo Thanh điều trị các chứng ho, viêm phổi (125ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09075_a2549abf26.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 772,
+            "name": "Siro trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10684,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 70000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-ho-bao-thanh-125ml-496.html",
+        "ingredients": "Xuyên bối mẫu 5g, Tỳ bà diệp 12.5g, Sa sâm 2.5g, Phục Linh 2.5g, Trần bì 2.5g, Cát cánh 10g, Bán hạ 2.5g, Ngũ vị tử 1.25g, Qua lâu (Quả) 5g, Viễn chí 2.5g, Khổ hạnh nhân 5g, Can khương 2.5g, Mơ muối 12.5g, Mạch môn 2.5g, Thiên môn đông 1.25g, Cam thảo 2.5g, Tinh dầu bạc hà 17.5g, Mật ong 25g",
+        "dosageForm": "Siro",
+        "brand": "Hoa Linh",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 125ml",
+        "prices": [
+          {
+            "id": 10684,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 70000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00010000",
+        "name": "OLESOM GRACURE 100ML",
+        "webName": "Siro Olesom Gracure điều trị bệnh hô hấp cấp và mãn tính, viêm phế quản (100ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/olesom_ffa9418982.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 772,
+            "name": "Siro trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 13455,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 53900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/olesom-100ml-1425.html",
+        "ingredients": "Ambroxol 30mg",
+        "dosageForm": "Siro",
+        "brand": "Gracure",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 100ml",
+        "prices": [
+          {
+            "id": 13455,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 53900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 249,
+          "attributeName": "Ấn Độ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/in_India_090039de61.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006137",
+        "name": "PROSPAN ENGELHARD 100ML",
+        "webName": "Siro ho Prospan Engelhard điều trị viêm phế quản mạn tính (100ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006137_prospan_100ml_9655_5c68_large_ad5603e714.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 772,
+            "name": "Siro trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8884,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 93000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/prospan-100ml-2504.html",
+        "ingredients": "Chiết xuất cao khô lá thường xuân 17.5mg",
+        "dosageForm": "Siro",
+        "brand": "Engelhard",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 100ml",
+        "prices": [
+          {
+            "id": 8884,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 93000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/2583_van_de_doi_tuong_1189_628d_large_7d3c29f731.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00002304",
+        "name": "DECOLGEN UNITED 60ML",
+        "webName": "Siro Decolgen Untied điều trị các triệu chứng cảm thông thường, viêm mũi dị ứng (60ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3277_eace978a19.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 772,
+            "name": "Siro trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/siro-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 2925,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 21000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/decolgen-60ml-4062.html",
+        "ingredients": "Paracetamol 100mg, Phenylephrine 2.5mg, Chlorpheniramine 0.33mg",
+        "dosageForm": "Siro",
+        "brand": "United",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 60ml",
+        "prices": [
+          {
+            "id": 2925,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 21000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 95,
+      "items": [
+        {
+          "id": 3306410,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0933xxxxxx",
+          "name": "chị Vinh",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bé 18 tháng dùng được không ạ",
+          "createdAt": "2026-05-13 18:40:25",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-13 18:40:25",
+          "replies": [
+            {
+              "id": 3306417,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Ngọc Diệu",
+                "moderatorEmail": "dieuptn2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Ngọc Diệu",
+              "email": "dieuptn2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Vinh,</p><p> Dạ bé 18 tháng hiện chưa phù hợp để sử dụng sản phẩm này. Tuy nhiên Nhà thuốc có sản phẩm khác có thể sử dụng như Siro ho Prospan Engelhard điều trị viêm phế quản mạn tính (100ml). Sản phẩm được sản xuất tại tại Đức.</p><p> Chị có thể tham khảo và đặt hàng tại link: <a href=\"https://nhathuoclongchau.com.vn/thuoc/prospan-100ml-2504.html\" rel=\"noopener noreferrer\" target=\"_blank\">Tại đây</a></p>",
+              "createdAt": "2026-05-13 18:56:04",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-13 18:40:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3300420,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0964xxxxxx",
+          "name": "c dung",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Bé 30 tháng dùng được không ạ",
+          "createdAt": "2026-05-04 12:52:18",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-05-04 12:52:18",
+          "replies": [
+            {
+              "id": 3300422,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Hân",
+                "moderatorEmail": "hanntn38@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Ngọc Hân",
+              "email": "hanntn38@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị dung,</p><p>Dạ bé có thể sử dụng Mỗi lần uống 5 ml, Ngày uống 3 lần ạ.</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-05-04 12:53:39",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-05-04 12:52:18",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3266655,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0862xxxxxx",
+          "name": "Nguyễn hiền",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Xin giá ạh",
+          "createdAt": "2026-02-28 20:08:50",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-28 20:08:50",
+          "replies": [
+            {
+              "id": 3266665,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thanh Ngọc",
+                "moderatorEmail": "ngocht18@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Thanh Ngọc",
+              "email": "ngocht18@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hiền, </p><p>Hiện tại, sản phẩm Siro ho bổ phế Nam Hà Chỉ Khái Lộ điều trị ho cảm mạo, ho gió, ho khan (125ml)  đang có giá 51.000/Hộp. </p><p>Chị có thể tham khảo và đặt hàng tại <a href=\"https://nhathuoclongchau.com.vn/thuoc/bo-phe-nam-ha-125ml-504.html\" rel=\"noopener noreferrer\" target=\"_blank\">Link</a></p>",
+              "createdAt": "2026-02-28 20:15:37",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-28 20:08:50",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3240309,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0979xxxxxx",
+          "name": "Lê thị hay",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Bé 4 tuổi \nbị trào ngược thì có dùng được ko",
+          "createdAt": "2026-01-04 14:59:28",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2026-01-04 14:59:28",
+          "replies": [
+            {
+              "id": 3240310,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Huệ",
+                "moderatorEmail": "huent39@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Huệ",
+              "email": "huent39@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hay,</p><p>Dạ bé có thể dùng sau ăn và theo dõi thêm ạ.</p><p>Nhà thuốc thông tin đến chị</p>",
+              "createdAt": "2026-01-04 15:01:21",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2026-01-04 14:59:28",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3227652,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0947xxxxxx",
+          "name": "Nguyễn Thảo Vy",
+          "email": "thaorvy1301@gmail.com",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Bổ phế Nam Hà và bổ phế TW3 khác nha như thế nào ạ",
+          "createdAt": "2025-12-11 12:44:37",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2025-12-11 12:44:37",
+          "replies": [
+            {
+              "id": 3227656,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Tiểu Thanh Trúc",
+                "moderatorEmail": "trucptt5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Tiểu Thanh Trúc",
+              "email": "trucptt5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn <strong>Nguyễn Thảo Vy</strong>,</p><p> Tư vấn viên nhà thuốc Long Châu sẽ liên hệ theo SĐT bạn đã để lại ạ.</p>",
+              "createdAt": "2025-12-11 12:51:40",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-12-11 12:44:37",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 12,
+      "items": [
+        {
+          "id": 3355401,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0856xxxxxx",
+          "name": "Vũ văn sáu",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mình vừa mua 1 lọ siro thuốc bổ phế nam hà bên chỗ tổ 11 yên lộ với giá 65.000 trên trang wed đề 55.000.\nNhân viên còn không xin sdt tíc điểm",
+          "createdAt": "2026-08-11 07:37:13",
+          "createdAtDisplay": "25 ngày trước",
+          "updatedAt": "2026-08-11 07:37:14",
+          "replies": [
+            {
+              "id": 3355426,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Ngọc Bình Giao",
+                "moderatorEmail": "giaonnb@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Ngọc Bình Giao",
+              "email": "giaonnb@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Sáu,</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-08-11 08:14:46",
+              "createdAtDisplay": "25 ngày trước",
+              "updatedAt": "2026-08-11 07:37:14",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3352619,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0378xxxxxx",
+          "name": "c hương",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bầu có dùng được không ạ\nmình bị ho khan rát cổ dang không biết dùng loại siro nào an toàn mà mau khỏi ạ🥹",
+          "createdAt": "2026-08-05 18:42:13",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-08-05 18:42:13",
+          "replies": [
+            {
+              "id": 3352621,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Khánh Ngọc",
+                "moderatorEmail": "ngoclk2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Khánh Ngọc",
+              "email": "ngoclk2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hương,</p><p>Dạ với mẹ bầu bị ho khan, đau rát cổ thì chị tham khảo sản phẩm Siro HoAstex OPC điều trị ho, giảm ho trong viêm họng, viêm phế quản (90ml) sẽ phù hợp hơn ạ. Chị có thể tham khảo và đặt hàng tại <u><a href=\"https://nhathuoclongchau.com.vn/thuoc/siro-hoastex-giam-ho-hieu-qua-435.html\" rel=\"noopener noreferrer\" target=\"_blank\">link</a></u></p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-08-05 18:47:39",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-08-05 18:42:13",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3219089,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0395xxxxxx",
+          "name": "chị Yến",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bà bầu ho dùg đc khôg ạ",
+          "createdAt": "2025-11-24 19:40:16",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-24 19:40:16",
+          "replies": [
+            {
+              "id": 3219090,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Tiểu Thanh Trúc",
+                "moderatorEmail": "trucptt5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Tiểu Thanh Trúc",
+              "email": "trucptt5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Yến,</p><p>Dạ sản phẩm chưa có thông tin phù hợp cho phụ nữ đang mai thai. Mình vui lòng tham khảo ý kiến bác sĩ trước khi dùng ạ.</p><p>Nhà thuốc thông tin đến chị.</p><p>Thân mến!</p>",
+              "createdAt": "2025-11-24 19:42:46",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-24 19:40:16",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3167191,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0935xxxxxx",
+          "name": "Anh Tuấn",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mẹ cho con bú có dùng dc ko ạ",
+          "createdAt": "2025-08-21 19:30:26",
+          "createdAtDisplay": "21/08/2025",
+          "updatedAt": "2025-08-21 19:30:16",
+          "replies": [
+            {
+              "id": 3167192,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Quang Đạo",
+                "moderatorEmail": "daolq3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Quang Đạo",
+              "email": "daolq3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Tuấn</p><p>Dạ Siro ho bổ phế Nam Hà Chỉ Khái Lộ điều trị ho cảm mạo, ho gió, ho khan (125ml) dùng được cho phụ nữ đang cho con bú.</p><p>Nhà thuốc thông tin đến anh</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-08-21 19:31:09",
+              "createdAtDisplay": "21/08/2025",
+              "updatedAt": "2025-08-21 19:30:16",
+              "replies": []
+            },
+            {
+              "id": 3167193,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0935xxxxxx",
+              "name": "Anh Tuấn",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "cảm ơn bạn",
+              "createdAt": "2025-08-21 19:32:04",
+              "createdAtDisplay": "21/08/2025",
+              "updatedAt": "2025-08-21 19:30:16",
+              "replies": []
+            },
+            {
+              "id": 3167194,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Quang Đạo",
+                "moderatorEmail": "daolq3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Quang Đạo",
+              "email": "daolq3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Tuấn</p><p>Dạ rất cảm ơn tình cảm của anh dành cho nhà thuốc FPT Long châu. </p><p>Bất cứ khi nào anh cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.  </p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-08-21 19:34:03",
+              "createdAtDisplay": "21/08/2025",
+              "updatedAt": "2025-08-21 19:30:16",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3165221,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0876xxxxxx",
+          "name": "Chị Nhung",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "con mk 1t có dùng đc k ah",
+          "createdAt": "2025-08-18 20:28:20",
+          "createdAtDisplay": "18/08/2025",
+          "updatedAt": "2025-08-18 20:28:13",
+          "replies": [
+            {
+              "id": 3165226,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Khánh Huyền",
+                "moderatorEmail": "huyenttk13@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Khánh Huyền",
+              "email": "huyenttk13@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Nhung</p><p>Dạ sản phẩm Siro ho bổ phế Nam Hà Chỉ Khái Lộ điều trị ho cảm mạo, ho gió, ho khan, dùng cho trẻ từ 30 tháng trở lên ạ</p><p>Nhà thuốc thông tin đến chị</p><p>Thân mến!</p>",
+              "createdAt": "2025-08-18 20:31:36",
+              "createdAtDisplay": "18/08/2025",
+              "updatedAt": "2025-08-18 20:28:13",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 4.9,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 1,
+        "totalLv5": 11
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Siro ho bổ phế Nam Hà Chỉ Khái Lộ điều trị ho cảm mạo, ho gió, ho khan (125ml)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3588_1a348efcb8.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3584_3c1002f333.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3585_04cf37e747.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3587_a45b87c441.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3586_7341188225.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3589_afe9302d8c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bo_e_e_phe_e_ue_nam_ha_C_b7c3069096.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Bổ Phế Nam Hà Chỉ Khái Lộ dùng để chữa ho do cảm mạo, ho gió, ho khan, ho có đờm, ho do dị ứng thời tiết, ho lâu ngày không khỏi, đồng thời giúp giảm đau rát họng, khản tiếng, hỗ trợ điều trị viêm họng, viêm phế quản. Sản phẩm thuộc nhóm thuốc trị ho của Công ty Cổ phần Dược phẩm Nam Hà sản xuất, với thành phần chính gồm: Bạch linh, bán hạ, cát cánh, cam thảo, tỳ bà diệp, bách bộ, tang bạch bì, mơ muối, ma hoàng, phèn chua, thiên môn, tinh dầu bạc hà, bạc hà diệp. ",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.9",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nguyễn Mỹ Huyền"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "12"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/bo-phe-nam-ha-125ml-504.html",
+        "priceCurrency": "VND",
+        "price": 55000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Siro ho Bổ Phế Nam Hà Chỉ Khái Lộ (Chai 125ml)",
+      "description": "Siro ho Bổ Phế Nam Hà được dùng để hỗ trợ điều trị, giúp chữa ho tiêu đờm, chuyên trị ho cảm, ho gió, ho khan, viêm phế quản. Xem liều dùng và công dụng.",
+      "openGraph": {
+        "title": "Siro ho bổ phế Nam Hà Chỉ Khái Lộ điều trị ho cảm mạo, ho gió, ho khan (125ml)",
+        "description": "Bổ Phế Nam Hà Chỉ Khái Lộ dùng để chữa ho do cảm mạo, ho gió, ho khan, ho có đờm, ho do dị ứng thời tiết, ho lâu ngày không khỏi, đồng thời giúp giảm đau rát họng, khản tiếng, hỗ trợ điều trị viêm họng, viêm phế quản. Sản phẩm thuộc nhóm thuốc trị ho của Công ty Cổ phần Dược phẩm Nam Hà sản xuất, với thành phần chính gồm: Bạch linh, bán hạ, cát cánh, cam thảo, tỳ bà diệp, bách bộ, tang bạch bì, mơ muối, ma hoàng, phèn chua, thiên môn, tinh dầu bạc hà, bạc hà diệp.&nbsp;",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3588_1a348efcb8.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/bo-phe-nam-ha-125ml-504.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/bo-phe-nam-ha-125ml-504.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

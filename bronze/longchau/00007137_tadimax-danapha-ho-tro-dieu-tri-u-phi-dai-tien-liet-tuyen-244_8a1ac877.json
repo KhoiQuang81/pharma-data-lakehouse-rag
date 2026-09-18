@@ -1,0 +1,998 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/tadimax-danapha-ho-tro-dieu-tri-u-phi-dai-tien-liet-tuyen-244.html",
+  "ingestion_timestamp": "2026-09-05T16:01:40.248054+00:00",
+  "file_hash": "cf52849e4f3d2736b28dd593e936f9566a7f1664d191b5e0c5cb0e48d0fd7ac6",
+  "lineage_hash": "3c919d8557de43e5fe300fb2c02e5a37c5f81aaef0c799d78b74858129c82746",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/tadimax-danapha-ho-tro-dieu-tri-u-phi-dai-tien-liet-tuyen-244.html",
+    "product": {
+      "sku": "00007137",
+      "webName": "Thuốc Tadimax Danapha điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung (42 viên)",
+      "name": "TADIMAX DANAPHA 42V - CHỦ TRỊ PHÌ ĐẠI LÀNH TÍNH TUYẾN TIỀN LIỆT",
+      "shortName": "TADIMAX DNP 42V",
+      "headingText": "Thuốc Tadimax",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7137_tadimax_danapha_ho_tro_dieu_tri_u_phi_dai_tien_liet_tuyen_2891_599f_large_7a47dc3b82.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7137_tadimax_danapha_ho_tro_dieu_tri_u_phi_dai_tien_liet_tuyen_4948_599f_large_a8bd0fb36b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7137_tadimax_danapha_ho_tro_dieu_tri_u_phi_dai_tien_liet_tuyen_9636_599f_large_4b9995631c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007137_tadimax_danapha_ho_tro_dieu_tri_u_phi_dai_tien_liet_tuyen_6202_612e_large_f6098e057e.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007137_tadimax_danapha_ho_tro_dieu_tri_u_phi_dai_tien_liet_tuyen_1630405966_e1f539d5b5.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 738,
+          "name": "Thuốc tiết niệu - sinh dục",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 820,
+          "name": "Thuốc trị bệnh tuyến tiền liệt",
+          "parentName": "Thuốc tiết niệu - sinh dục",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Hộp 42 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 3,
+          "productSpecs": "42 Viên"
+        }
+      ],
+      "slug": "thuoc/tadimax-danapha-ho-tro-dieu-tri-u-phi-dai-tien-liet-tuyen-244.html",
+      "ingredient": [
+        {
+          "id": 27484,
+          "ingredientId": 29838,
+          "shortDescription": "8.3mg",
+          "name": "Nhục quế",
+          "isPrimary": false,
+          "slug": "thanh-phan/nhuc-que"
+        },
+        {
+          "id": 27485,
+          "ingredientId": 40744,
+          "shortDescription": "500mg",
+          "name": "Xích thược",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27486,
+          "ingredientId": 39013,
+          "shortDescription": "830mg",
+          "name": "Trạch tả",
+          "isPrimary": false,
+          "slug": "thanh-phan/trach-ta"
+        },
+        {
+          "id": 27487,
+          "ingredientId": 16698,
+          "shortDescription": "83mg",
+          "name": "Đào nhân",
+          "isPrimary": false,
+          "slug": "thanh-phan/dao-nhan"
+        },
+        {
+          "id": 27488,
+          "ingredientId": 23210,
+          "shortDescription": "666mg",
+          "name": "Ích mẫu",
+          "isPrimary": false,
+          "slug": "thanh-phan/ich-mau"
+        },
+        {
+          "id": 27489,
+          "ingredientId": 22419,
+          "shortDescription": "666mg",
+          "name": "Hoàng bá",
+          "isPrimary": false,
+          "slug": "thanh-phan/hoang-ba"
+        },
+        {
+          "id": 27490,
+          "ingredientId": 39175,
+          "shortDescription": "666mg",
+          "name": "Tri mẫu",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27491,
+          "ingredientId": 39411,
+          "shortDescription": "2000mg",
+          "name": "Trinh nữ hoàng cung",
+          "isPrimary": false,
+          "slug": "thanh-phan/trinh-nu-hoang-cung"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893210123100",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên bao",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Uống sau bữa ăn. Uống liên tục trong ít nhất 2 tháng.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Ngày uống 3 lần, mỗi lần 2 viên.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định của thuốc.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Tadimax được chỉ định dùng trong các trường hợp điều trị phì đại lành tính tuyến tiền liệt và <strong><a href=\"https://nhathuoclongchau.com.vn/benh/u-xo-tu-cung-375.html\">u xơ tử cung</a></strong>.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Không có thông tin.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Không có thông tin.</p>",
+      "brand": "Danapha",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc Tadimax</strong>, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<ul>\n\t<li>Thuốc có thể gây những tác dụng phụ nhẹ và thoáng qua như <strong><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">rối loạn tiêu hóa</a></strong>, mẩn ngứa, chóng mặt. Các tác dụng này thường hết sau 3 - 5 ngày dùng thuốc, không có trường hợp nào nặng phải ngừng dùng thuốc. Thuốc không ảnh hưởng đến mạch và huyết áp. </li>\n\t<li>Thuốc không làm thay đổi chỉ số PSA, không ảnh hưởng đến huyết học và chức năng gan thận. </li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Thông báo ngay cho Bác sĩ hoặc Dược sĩ những phản ứng có hại gặp phải khi sử dụng thuốc. </p>",
+      "specification": "Hộp 42 viên",
+      "indications": [
+        {
+          "id": 76,
+          "name": "Phì đại tuyến tiền liệt",
+          "slug": "benh/phi-dai-tuyen-tien-liet-492.html"
+        },
+        {
+          "id": 89,
+          "name": "U xơ tử cung",
+          "slug": "benh/u-xo-tu-cung-375.html"
+        },
+        {
+          "id": 90,
+          "name": "U xơ tuyến tiền liệt",
+          "slug": "benh/u-xo-tuyen-tien-liet-376.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "DANAPHA",
+      "shortDescription": "<p><strong>Thuốc “Tadimax”</strong> do <i>công ty cổ phần dược Danapha</i> sản xuất, thành phần chính là cao khô alkaloid Trinh nữ hoàng cung, được chỉ định để điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/danapha",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "TADIMAX",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 1,
+        "productSpecs": "Hộp 42 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 820,
+        "name": "Thuốc trị bệnh tuyến tiền liệt",
+        "parentName": "Thuốc tiết niệu - sinh dục",
+        "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7137_tadimax_danapha_ho_tro_dieu_tri_u_phi_dai_tien_liet_tuyen_2891_599f_large_7a47dc3b82.jpg",
+          "alternativeText": "Thuốc Tadimax Danapha điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung (42 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7137_tadimax_danapha_ho_tro_dieu_tri_u_phi_dai_tien_liet_tuyen_4948_599f_large_a8bd0fb36b.jpg",
+          "alternativeText": "Thuốc Tadimax Danapha điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung (42 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7137_tadimax_danapha_ho_tro_dieu_tri_u_phi_dai_tien_liet_tuyen_9636_599f_large_4b9995631c.jpg",
+          "alternativeText": "Thuốc Tadimax Danapha điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung (42 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007137_tadimax_danapha_ho_tro_dieu_tri_u_phi_dai_tien_liet_tuyen_6202_612e_large_f6098e057e.jpg",
+          "alternativeText": "Thuốc Tadimax Danapha điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung (42 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007137_tadimax_danapha_ho_tro_dieu_tri_u_phi_dai_tien_liet_tuyen_1630405966_e1f539d5b5.jpg",
+          "alternativeText": "Thuốc Tadimax Danapha điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung (42 viên) 5"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiết niệu - sinh dục",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc"
+      },
+      {
+        "name": "Thuốc trị bệnh tuyến tiền liệt",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet"
+      }
+    ],
+    "content": {
+      "sku": "00007137",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Uống sau bữa ăn. Uống liên tục trong ít nhất 2 tháng.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Ngày uống 3 lần, mỗi lần 2 viên.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định của thuốc.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<html><body><p>Tờ hướng dẫn sử dụng thuốc.</p>\n\n<p>http://www.danapha.com/vi/gioi-thieu/gioi-thieu-chung.html.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc Tadimax</strong>, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<ul>\n\t<li>Thuốc có thể gây những tác dụng phụ nhẹ và thoáng qua như <strong><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">rối loạn tiêu hóa</a></strong>, mẩn ngứa, chóng mặt. Các tác dụng này thường hết sau 3 - 5 ngày dùng thuốc, không có trường hợp nào nặng phải ngừng dùng thuốc. Thuốc không ảnh hưởng đến mạch và huyết áp. </li>\n\t<li>Thuốc không làm thay đổi chỉ số PSA, không ảnh hưởng đến huyết học và chức năng gan thận. </li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Thông báo ngay cho Bác sĩ hoặc Dược sĩ những phản ứng có hại gặp phải khi sử dụng thuốc. </p>",
+      "preservation": "<p>Nơi khô thoáng, tránh ánh sáng, nhiệt độ dưới 30°C.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Tadimax được chỉ định dùng trong các trường hợp điều trị phì đại lành tính tuyến tiền liệt và <strong><a href=\"https://nhathuoclongchau.com.vn/benh/u-xo-tu-cung-375.html\">u xơ tử cung</a></strong>.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Không có thông tin.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Không có thông tin.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3><strong>Chống chỉ định</strong></h3>\n\n<p><strong>Thuốc Tadimax</strong> chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Bí tiểu hoàn toàn do các nguyên nhân khác.</p>\n\t</li>\n\t<li>\n\t<p>Phụ nữ có thai và cho con bú.</p>\n\t</li>\n</ul>\n\n<h3><strong>Thận trọng khi sử dụng</strong></h3>\n\n<p>Uống thuốc sau bữa ăn. Thuốc có chứa lactose, những bệnh nhân có vấn đề di truyền hiếm gặp như không dung nạp galactose, thiếu hụt lactase, hoặc kém hấp thu glucose-galactose không nên dùng thuốc này.</p>\n\n<p>Không dùng thuốc quá hạn ghi trên hộp, hoặc khi có nghi ngờ về chất lượng thuốc. Đọc kỹ hướng dẫn sử dụng trước khi dùng. Muốn biết thêm thông tin về thuốc, xin hãy hỏi ý kiến của bác sĩ hoặc Dược sĩ.</p>\n\n<h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3>\n\n<p>Chưa có bằng chứng về ảnh hưởng của thuốc lên khả năng lái xe, vận hành máy móc.</p>\n\n<h3><strong>Thời kỳ mang thai </strong></h3>\n\n<p>Thuốc chống chỉ định đối với phụ nữ có thai.</p>\n\n<h3><strong>Thời kỳ cho con bú</strong></h3>\n\n<p>Thuốc chống chỉ định đối với phụ nữ cho con bú.</p>\n\n<h3><strong>Tương tác thuốc</strong></h3>\n\n<p>Do không có các nghiên cứu về tính tương kỵ của thuốc, không trộn lẫn thuốc này với các thuốc khác.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Tadimax Danapha điều trị u phì đại tiền liệt tuyến (42 viên)",
+        "metaDescription": "Thuốc Tadimax Danapha được chỉ định để điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung. Viên nén dài bao phim màu nâu. Tìm hiểu thêm!",
+        "id": 5230,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7137_tadimax_danapha_ho_tro_dieu_tri_u_phi_dai_tien_liet_tuyen_2891_599f_large_7a47dc3b82.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Tadimax Danapha điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung (42 viên)",
+            "description": "Thuốc “Tadimax” do công ty cổ phần dược Danapha sản xuất, thành phần chính là cao khô alkaloid Trinh nữ hoàng cung, được chỉ định để điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 32609,
+        "title": "Nên bảo quản thuốc Tadimax Danapha như thế nào?",
+        "content": "<p>Thuốc nên được bảo quản nơi khô thoáng, tránh ánh sáng, nhiệt độ dưới 30°C.</p>"
+      },
+      {
+        "id": 32608,
+        "title": "Cần lưu ý gì khi sử dụng thuốc Tadimax Danapha?",
+        "content": "<p>Nên uống thuốc sau bữa ăn. Thuốc có chứa lactose, nên những bệnh nhân có vấn đề di truyền hiếm gặp như không dung nạp galactose, thiếu hụt lactase, hoặc kém hấp thu glucose-galactose không nên dùng thuốc này. Không dùng thuốc quá hạn hoặc khi có nghi ngờ về chất lượng thuốc. Cần đọc kỹ hướng dẫn sử dụng trước khi dùng và hỏi ý kiến bác sĩ hoặc dược sĩ để biết thêm thông tin.</p>"
+      },
+      {
+        "id": 32607,
+        "title": "Những đối tượng nào không nên sử dụng thuốc Tadimax Danapha?",
+        "content": "<p>Thuốc Tadimax chống chỉ định trong các trường hợp bí tiểu hoàn toàn do các nguyên nhân khác, phụ nữ có thai và cho con bú.</p>"
+      },
+      {
+        "id": 32605,
+        "title": "Liều dùng và cách dùng thuốc Tadimax Danapha như thế nào?",
+        "content": "<p>Cách dùng: Uống sau bữa ăn. Uống liên tục trong ít nhất 2 tháng. Liều dùng: Ngày uống 3 lần, mỗi lần 2 viên. Lưu ý đây chỉ là liều tham khảo, liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh, cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>"
+      },
+      {
+        "id": 32604,
+        "title": "Thuốc Tadimax Danapha được chỉ định dùng trong những trường hợp nào?",
+        "content": "<p>Thuốc Tadimax được chỉ định dùng để điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00006444",
+        "name": "ROWACHOL ROWA 10X10",
+        "webName": "Thuốc Rowachol Rowa điều trị làm tan sỏi đường mật (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006444_rowachol_5493_5bba_large_e944596376.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 820,
+            "name": "Thuốc trị bệnh tuyến tiền liệt",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 9369,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 337000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/rowachol-2368.html",
+        "ingredients": "cineol 2mg, Menthol 32mg, Borneol 5mg, Olive oil 33mg, Pinene 17mg, Camphene 5mg, Menthone 6mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Rowa",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 9367,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 3370,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 9368,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 33700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 9369,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 337000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 192,
+          "attributeName": "Ireland",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/ie_Ireland_5204367965.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00013881",
+        "name": "HOÀN XÍCH HƯƠNG HADIPHAR 10 GÓI",
+        "webName": "Thuốc Hoàn Xích Hương Hadiphar điều trị u phì đại lành tính tuyến tiền liệt (10 gói)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013881_hoan_xich_huong_10gh_3997_5b7f_large_e8826cb818.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 820,
+            "name": "Thuốc trị bệnh tuyến tiền liệt",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 16502,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 84000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/hoan-xich-huong-10gh-15830.html",
+        "ingredients": "Than hoạt , Đường trắng , Mật ong 2g, Trạch tả 8g, Bạch linh 8g, Hoài Sơn 10g, Mẫu đơn bì (Vỏ rễ) 8g, Thục địa 10g, Ngấy hương 50g, Xích đồng nam 50g, Parafin ",
+        "dosageForm": "Dạng bột",
+        "brand": "Hadiphar",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 10 gói",
+        "prices": [
+          {
+            "id": 16502,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 84000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 16501,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": false,
+            "price": 8400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 13,
+      "items": [
+        {
+          "id": 3357305,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0376xxxxxx",
+          "name": "Phạm dương cang",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Hiện đang có hàng tại tuy hoà đắk lắk ko ạ..có bán lẻ ko ạ",
+          "createdAt": "2026-08-14 10:31:34",
+          "createdAtDisplay": "22 ngày trước",
+          "updatedAt": "2026-08-14 10:31:34",
+          "replies": [
+            {
+              "id": 3357317,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Hoàng Dũng",
+                "moderatorEmail": "dunglh24@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Hoàng Dũng",
+              "email": "dunglh24@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Dạ chào quý khách ạ,</p><p>Sản phẩm Tadimax hỗ trợ điều trị u phì đại tiền liệt tuyến hiện đang có sẵn hàng tại hệ thống nhà thuốc Long Châu khu vực Tuy Hòa và Đắk Lắk, đồng thời nhà thuốc có hỗ trợ bán lẻ theo vỉ để mình tiện sử dụng ạ.</p><p>📲 Link chi tiết và ưu đãi miễn phí giao hàng trọn đời qua App: https://nhathuoclongchau.com.vn/thuoc/tadimax-danapha-ho-tro-dieu-tri-u-phi-dai-tien-liet-tuyen-244.html</p><p>Quý có thể ghé cửa hàng gần nhất hoặc đặt giao hàng tận nơi để Dược sĩ hỗ trợ sớm nhất cho mình ạ.</p>",
+              "createdAt": "2026-08-14 10:57:14",
+              "createdAtDisplay": "22 ngày trước",
+              "updatedAt": "2026-08-14 10:31:34",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3341006,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0980xxxxxx",
+          "name": "quyên",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá 1 hộp",
+          "createdAt": "2026-07-17 13:38:10",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-17 13:38:10",
+          "replies": [
+            {
+              "id": 3341008,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phạm Hoàng Phương",
+                "moderatorEmail": "phuongph10@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phạm Hoàng Phương",
+              "email": "phuongph10@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Quyên,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-07-17 13:39:12",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-17 13:38:10",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3319234,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0777xxxxxx",
+          "name": "Thu",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá bn 1 lọ ạ",
+          "createdAt": "2026-06-08 08:48:19",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-08 08:48:19",
+          "replies": [
+            {
+              "id": 3319242,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Đăng Dương",
+                "moderatorEmail": "duongnd46@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Đăng Dương",
+              "email": "duongnd46@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Thu,</p><p>Hiện tại, sản phẩm Thuốc Tadimax Danapha điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung (42 viên) có giá 172,200 ₫/Hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a> <a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-06-08 08:52:31",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-08 08:48:19",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3254765,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0766xxxxxx",
+          "name": "Chị Lan Anh",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "có sẵn ko",
+          "createdAt": "2026-02-01 19:02:37",
+          "createdAtDisplay": "7 tháng trước",
+          "updatedAt": "2026-02-01 19:02:37",
+          "replies": [
+            {
+              "id": 3254766,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Phương Lan",
+                "moderatorEmail": "lannp9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Phương Lan",
+              "email": "lannp9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Lan Anh,</p><p> Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-02-01 19:04:32",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-02-01 19:02:37",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3170212,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0918xxxxxx",
+          "name": "Phan",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá",
+          "createdAt": "2025-08-27 20:51:16",
+          "createdAtDisplay": "27/08/2025",
+          "updatedAt": "2025-08-27 20:51:03",
+          "replies": [
+            {
+              "id": 3170214,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Tô Thị Hồng Anh",
+                "moderatorEmail": "anhtth34@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Tô Thị Hồng Anh",
+              "email": "anhtth34@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Phan,</p><p>Dạ sản phẩm hiện đang hết hàng, bạn có thể tham khảo sản phẩm tương tự là Viên uống Vương Bảo Thái Minh dùng cho nam giới bị u xơ tiền liệt tuyến (80 viên) có giá 485.000đ/ Hộp, tham khảo thêm thông tin sản phẩm tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/vuong-bao-lo-80v-15106.html\" rel=\"noopener noreferrer\" target=\"_blank\">link</a></u></strong>.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-08-27 20:52:55",
+              "createdAtDisplay": "27/08/2025",
+              "updatedAt": "2025-08-27 20:51:03",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 2021588,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0788xxxxxx",
+          "name": "CHỊ THẢO",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá bao nhiêu 1 hộp ạ",
+          "createdAt": "2024-08-26 19:13:01",
+          "createdAtDisplay": "26/08/2024",
+          "updatedAt": "2024-08-26 19:16:02",
+          "replies": [
+            {
+              "id": 2021612,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thu Phương",
+                "moderatorEmail": "phuongtt124@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Trần Thu Phương",
+              "email": "phuongtt124@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào chị Thảo,</span><br><span>Dạ sản phẩm hiện đang hết hàng, chị có thể tham khảo sản phẩm tương tự là Viên uống Vương Bảo Thái Minh dùng cho nam giới bị u xơ tiền liệt tuyến (80 viên) có giá 485.000đ/&nbsp;Hộp, tham khảo thêm thông tin sản phẩm tại </span><a class=\"editor-link\" rel=\"noopener\" href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/vuong-bao-lo-80v-15106.html\"><u><b><strong class=\"editor-text-bold editor-text-underline\">link</strong></b></u></a><span>.</span><br><span>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT chị đã để lại ạ.</span><br><span>Thân mến!</span></p>",
+              "createdAt": "2024-08-26 19:16:02",
+              "createdAtDisplay": "26/08/2024",
+              "updatedAt": "2024-08-26 19:16:02",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Tadimax Danapha điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung (42 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7137_tadimax_danapha_ho_tro_dieu_tri_u_phi_dai_tien_liet_tuyen_2891_599f_large_7a47dc3b82.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7137_tadimax_danapha_ho_tro_dieu_tri_u_phi_dai_tien_liet_tuyen_4948_599f_large_a8bd0fb36b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7137_tadimax_danapha_ho_tro_dieu_tri_u_phi_dai_tien_liet_tuyen_9636_599f_large_4b9995631c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007137_tadimax_danapha_ho_tro_dieu_tri_u_phi_dai_tien_liet_tuyen_6202_612e_large_f6098e057e.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc “Tadimax” do công ty cổ phần dược Danapha sản xuất, thành phần chính là cao khô alkaloid Trinh nữ hoàng cung, được chỉ định để điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Tadimax Danapha điều trị u phì đại tiền liệt tuyến (42 viên)",
+      "description": "Thuốc Tadimax Danapha được chỉ định để điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung. Viên nén dài bao phim màu nâu. Tìm hiểu thêm!",
+      "openGraph": {
+        "title": "Thuốc Tadimax Danapha điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung (42 viên)",
+        "description": "Thuốc “Tadimax” do công ty cổ phần dược Danapha sản xuất, thành phần chính là cao khô alkaloid Trinh nữ hoàng cung, được chỉ định để điều trị phì đại lành tính tuyến tiền liệt và u xơ tử cung.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/7137_tadimax_danapha_ho_tro_dieu_tri_u_phi_dai_tien_liet_tuyen_2891_599f_large_7a47dc3b82.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/tadimax-danapha-ho-tro-dieu-tri-u-phi-dai-tien-liet-tuyen-244.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/tadimax-danapha-ho-tro-dieu-tri-u-phi-dai-tien-liet-tuyen-244.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

@@ -1,0 +1,2151 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/drimy-3926.html",
+  "ingestion_timestamp": "2026-09-05T09:18:05.304837+00:00",
+  "file_hash": "53616c1767834a02d35ab5cc6e044089996b92256d2c6f323deb759fb2aa85be",
+  "lineage_hash": "df08a44e7ec09922585e8f9282fbcc37eb51dc928b89b7d66aa4f0de1cd9703d",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/drimy-3926.html",
+    "product": {
+      "sku": "00002604",
+      "webName": "Thuốc Drimy USP bổ sung vitamin, khoáng chất (10 vỉ x 10 viên)",
+      "name": "DRIMY 1000IU USP 10X10",
+      "shortName": "DRIMY 1000IU USP 10X10",
+      "headingText": "Thuốc Drimy",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002604_drimy_7602_5b6b_large_508822d0ca.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002604_drimy_6918_5b6b_large_7a03b13d8e.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002604_drimy_9654_5b6b_large_cc20a37dc3.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002604_drimy_2375_5b6b_large_596cf46380.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 727,
+          "name": "Thuốc bổ & vitamin",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-bo-and-vitamin",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 752,
+          "name": "Thuốc bổ",
+          "parentName": "Thuốc bổ & vitamin",
+          "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 330000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 10 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": 33000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "10 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 3300,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/drimy-3926.html",
+      "ingredient": [
+        {
+          "id": 45048,
+          "ingredientId": 40309,
+          "shortDescription": "1000iu",
+          "name": "Vitamin A",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-a"
+        },
+        {
+          "id": 45049,
+          "ingredientId": 40361,
+          "shortDescription": "400iu",
+          "name": "Vitamin D3",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-d3"
+        },
+        {
+          "id": 45050,
+          "ingredientId": 40316,
+          "shortDescription": "2mg",
+          "name": "Vitamin B1",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b1"
+        },
+        {
+          "id": 45051,
+          "ingredientId": 40324,
+          "shortDescription": "3mg",
+          "name": "Vitamin B2",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b2"
+        },
+        {
+          "id": 45052,
+          "ingredientId": 40333,
+          "shortDescription": "1mg",
+          "name": "Vitamin B6",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 45053,
+          "ingredientId": 20215,
+          "shortDescription": "1.65mg",
+          "name": "Ferrous fumarate",
+          "isPrimary": false,
+          "slug": "thanh-phan/ferrous-fumarate"
+        },
+        {
+          "id": 45054,
+          "ingredientId": 26359,
+          "shortDescription": "6mg",
+          "name": "Magnesium oxide",
+          "isPrimary": false,
+          "slug": "thanh-phan/magnesium-oxide"
+        },
+        {
+          "id": 45055,
+          "ingredientId": 12271,
+          "shortDescription": "21.42mg",
+          "name": "Calci glucoheptonat",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893100220624",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang mềm",
+      "dosage": "<h3>Cách dùng</h3><p>Uống nguyên viên thuốc, uống sau bữa ăn.</p><h3>Liều dùng</h3><p>Liều dùng cho từng trường hợp cụ thể tuỳ theo chỉ định của bác sĩ. Liều thông thường là 1 viên/ngày.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Uống <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/vitamin-a\">vitamin A</a> liều rất cao dẫn đến ngộ độc cấp với các dấu hiệu buồn ngủ, chóng mặt hoa mắt, buồn nôn, nôn, dễ bị kích thích, nhức đầu, mê sảng, <a href=\"https://nhathuoclongchau.com.vn/benh/co-giat-765.html\">co giật</a>, tiêu chảy. Phải ngừng dùng thuốc và điều trị triệu chứng và điều trị hỗ trợ.</p><p>Uống vitamin D liều cao hoặc kéo dài hoặc khi tăng đáp ứng với liều bình thường vitamin D sẽ dẫn đến những biểu hiện lâm sàng rối loạn chuyển hóa calci. Cần ngừng thuốc, ngưng bổ sung calci, duy trì khẩu phần ăn có ít calci, uống nhiều nước hoặc truyền dịch.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc Drimy được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Sử dụng trong các trường hợp cơ thể suy nhược, thể chất yếu, mệt mỏi, tình trạng thiếu hụt dinh dưỡng, sau phẫu thuật.</p>\n\n<p>Bổ sung <a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/vitamin-khoang-chat\">vitamin và khoáng chất</a> (sắt, magie, calci) trong các trường hợp như: Phụ nữ có thai, bà mẹ cho con bú, trẻ đang phát triển, người lớn tuổi.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "brand": "Usp",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Drimy, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p>Vitamin A: Dùng vitamin A liều cao kéo dài có thể dẫn đến ngộ độc vitamin A. Các triệu chứng đặc trưng là: Mệt mỏi, dễ bị kích thích, chán ăn, sút cân, nôn, rối loạn tiêu hóa, sốt, gan - lách to, da bị biến đổi, rụng tóc, tóc khô ròn, môi nứt nẻ và chảy máu, thiếu máu, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, calci huyết cao, phù nề dưới da, đau ở xương và khớp, ở trẻ em các triệu chứng ngộ độc mạn tính còn gồm cả tăng áp lực nội sọ (thóp căng), phù gai mắt, ù tai, rối loạn thị giác, sưng đau dọc các xương dài. Khi ngừng dùng vitamin A thì các triệu chứng cũng mất dần nhưng xương có thể ngừng phát triển do các dầu xương dài đã cốt hóa quá sớm.</p><p>Vitamin D: Tăng calci huyết và nhiễm độc vitamin D có một số tác dụng phụ như sau: Yếu, mệt, ngủ gà, đau đầu. Chán ăn, khô miệng, vị kim loại, buồn nôn, nôn, chuột rút ở bụng, táo bón, ỉa chảy, chóng mặt, <a href=\"https://nhathuoclongchau.com.vn/benh/u-tai-572.html\">ù tai</a>, mất điều hòa, ngoại ban, giảm trương lực cơ, đau cơ, đau xương, và dễ bị kích thích.</p><p>Vitamin B6: Dùng liều vitamin B6 200 mg/ngày và dài ngày (trên 2 tháng) có thể gây bệnh thần kinh ngoại vi nặng, tiến triển từ dáng đi không vững và tê cóng bàn chân đến tê cóng và vụng về bàn tay. Tình trạng này có thể hồi phục khi&nbsp;ngừng thuốc, mặc dù vẫn còn để lại ít nhiều di chứng.</p><p>Vitamin B2: Không thấy có tác dụng không mong muốn khi sử dụng B2. Dùng liều cao B2 thì nước tiểu sẽ chuyển màu vàng nhạt, gây sai lệch đối với một số xét nghiệm nước tiểu trong phòng thí nghiệm</p><p>Vitamin B1: Hiếm gặp: Ra nhiều mồ hôi, sốc quá mẫn, <a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">tăng huyết áp</a> cấp, ban da, ngứa, mày đay, khó thở.</p><p>Calci: Có thể gây <a href=\"https://nhathuoclongchau.com.vn/benh/huyet-ap-thap-592.html\">hạ huyết áp</a> (chóng mặt), giãn mạch ngoại vi, táo bón, đầy hơi, buồn nôn, nôn, vã mồ hôi, loạn nhịp, rối loạn chức năng tim cấp.</p><p>Magie: Có thể gặp trên đường tiêu hóa (tiêu chảy, đau bụng).</p><p>Sắt: Một số phản ứng phụ ở đường tiêu hóa như đau bụng, buồn nôn, nôn, táo bón, phân đen (Không có ý nghĩa lâm sàng).</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Thông báo cho bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Hộp 10 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "USP",
+      "shortDescription": "<p>Drimy của công ty TNHH US Pharma USA, thành phần chính gồm các vitamin (A, D3, B1, B2, B6) và khoáng chất (sắt, magie, calci).&nbsp;Là thuốc được sử dụng trong các trường hợp cơ thể suy nhược, thể chất yếu, mệt mỏi, tình trạng thiếu hụt dinh dưỡng, sau phẫu thuật; bổ sung vitamin và khoáng chất (sắt, magie, cacli) trong các trường hợp như phụ nữ có thai, bà mẹ cho con bú, trẻ đang phát triển, người lớn tuổi.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/usp",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "DRIMY",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": 3300,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 752,
+        "name": "Thuốc bổ",
+        "parentName": "Thuốc bổ & vitamin",
+        "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002604_drimy_7602_5b6b_large_508822d0ca.JPG",
+          "alternativeText": "Thuốc Drimy USP bổ sung vitamin, khoáng chất (10 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002604_drimy_6918_5b6b_large_7a03b13d8e.JPG",
+          "alternativeText": "Thuốc Drimy USP bổ sung vitamin, khoáng chất (10 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002604_drimy_9654_5b6b_large_cc20a37dc3.JPG",
+          "alternativeText": "Thuốc Drimy USP bổ sung vitamin, khoáng chất (10 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002604_drimy_2375_5b6b_large_596cf46380.JPG",
+          "alternativeText": "Thuốc Drimy USP bổ sung vitamin, khoáng chất (10 vỉ x 10 viên) 4"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 330000,
+        "itemCode": "00002604",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 330000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 33000,
+        "itemCode": "00002604",
+        "unitCode": 13,
+        "maxValue": 0,
+        "price": 33000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 3300,
+        "itemCode": "00002604",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 3300,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc bổ & vitamin",
+        "slug": "/thuoc/thuoc-bo-and-vitamin"
+      },
+      {
+        "name": "Thuốc bổ",
+        "slug": "/thuoc/thuoc-bo-and-vitamin/thuoc-bo"
+      }
+    ],
+    "content": {
+      "sku": "00002604",
+      "dosage": "<h3>Cách dùng</h3><p>Uống nguyên viên thuốc, uống sau bữa ăn.</p><h3>Liều dùng</h3><p>Liều dùng cho từng trường hợp cụ thể tuỳ theo chỉ định của bác sĩ. Liều thông thường là 1 viên/ngày.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Uống <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/vitamin-a\">vitamin A</a> liều rất cao dẫn đến ngộ độc cấp với các dấu hiệu buồn ngủ, chóng mặt hoa mắt, buồn nôn, nôn, dễ bị kích thích, nhức đầu, mê sảng, <a href=\"https://nhathuoclongchau.com.vn/benh/co-giat-765.html\">co giật</a>, tiêu chảy. Phải ngừng dùng thuốc và điều trị triệu chứng và điều trị hỗ trợ.</p><p>Uống vitamin D liều cao hoặc kéo dài hoặc khi tăng đáp ứng với liều bình thường vitamin D sẽ dẫn đến những biểu hiện lâm sàng rối loạn chuyển hóa calci. Cần ngừng thuốc, ngưng bổ sung calci, duy trì khẩu phần ăn có ít calci, uống nhiều nước hoặc truyền dịch.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<p>Tờ Hướng dẫn sử dụng thuốc Drimy.</p>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Drimy, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p>Vitamin A: Dùng vitamin A liều cao kéo dài có thể dẫn đến ngộ độc vitamin A. Các triệu chứng đặc trưng là: Mệt mỏi, dễ bị kích thích, chán ăn, sút cân, nôn, rối loạn tiêu hóa, sốt, gan - lách to, da bị biến đổi, rụng tóc, tóc khô ròn, môi nứt nẻ và chảy máu, thiếu máu, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, calci huyết cao, phù nề dưới da, đau ở xương và khớp, ở trẻ em các triệu chứng ngộ độc mạn tính còn gồm cả tăng áp lực nội sọ (thóp căng), phù gai mắt, ù tai, rối loạn thị giác, sưng đau dọc các xương dài. Khi ngừng dùng vitamin A thì các triệu chứng cũng mất dần nhưng xương có thể ngừng phát triển do các dầu xương dài đã cốt hóa quá sớm.</p><p>Vitamin D: Tăng calci huyết và nhiễm độc vitamin D có một số tác dụng phụ như sau: Yếu, mệt, ngủ gà, đau đầu. Chán ăn, khô miệng, vị kim loại, buồn nôn, nôn, chuột rút ở bụng, táo bón, ỉa chảy, chóng mặt, <a href=\"https://nhathuoclongchau.com.vn/benh/u-tai-572.html\">ù tai</a>, mất điều hòa, ngoại ban, giảm trương lực cơ, đau cơ, đau xương, và dễ bị kích thích.</p><p>Vitamin B6: Dùng liều vitamin B6 200 mg/ngày và dài ngày (trên 2 tháng) có thể gây bệnh thần kinh ngoại vi nặng, tiến triển từ dáng đi không vững và tê cóng bàn chân đến tê cóng và vụng về bàn tay. Tình trạng này có thể hồi phục khi&nbsp;ngừng thuốc, mặc dù vẫn còn để lại ít nhiều di chứng.</p><p>Vitamin B2: Không thấy có tác dụng không mong muốn khi sử dụng B2. Dùng liều cao B2 thì nước tiểu sẽ chuyển màu vàng nhạt, gây sai lệch đối với một số xét nghiệm nước tiểu trong phòng thí nghiệm</p><p>Vitamin B1: Hiếm gặp: Ra nhiều mồ hôi, sốc quá mẫn, <a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">tăng huyết áp</a> cấp, ban da, ngứa, mày đay, khó thở.</p><p>Calci: Có thể gây <a href=\"https://nhathuoclongchau.com.vn/benh/huyet-ap-thap-592.html\">hạ huyết áp</a> (chóng mặt), giãn mạch ngoại vi, táo bón, đầy hơi, buồn nôn, nôn, vã mồ hôi, loạn nhịp, rối loạn chức năng tim cấp.</p><p>Magie: Có thể gặp trên đường tiêu hóa (tiêu chảy, đau bụng).</p><p>Sắt: Một số phản ứng phụ ở đường tiêu hóa như đau bụng, buồn nôn, nôn, táo bón, phân đen (Không có ý nghĩa lâm sàng).</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Thông báo cho bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p>Bảo quản thuốc ở nơi khô, thoáng, nhiệt dộ dưới 30°C, tránh ánh sáng.</p><p>Để thuốc xa tầm tay trẻ em.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc Drimy được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Sử dụng trong các trường hợp cơ thể suy nhược, thể chất yếu, mệt mỏi, tình trạng thiếu hụt dinh dưỡng, sau phẫu thuật.</p>\n\n<p>Bổ sung <a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/vitamin-khoang-chat\">vitamin và khoáng chất</a> (sắt, magie, calci) trong các trường hợp như: Phụ nữ có thai, bà mẹ cho con bú, trẻ đang phát triển, người lớn tuổi.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p>Thuốc Drimy chống chỉ định trong các trường hợp sau:</p><ul><li>Không dùng thuốc cho người nhạy cảm với bất kỳ thành phần nào của thuốc.</li><li>Chống chỉ dịnh cho người bệnh thừa vitamin A hay nhạy cảm với vitamin A; người quá mẫn với vitamin D hay tăng calci máu hay nhiễm dộc <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/vitamin-d\">vitamin D</a>.</li><li>Phối hợp với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/levodopa\">levodopa</a> vì có sự hiện diện của vitamin B6.</li></ul><h3>Thận trọng khi sử dụng</h3><p>Cần thận trọng khi dùng các thuốc khác có chứa vitamin A.</p><p>Sarcoidosic hoặc thiểu năng cận giáp (có thể gây nhạy cảm với vitamin D); suy chức năng thận; bệnh tim; sỏi thận; xơ vữa động mạch.</p><p>Trong trường hợp suy thận mức độ vừa, cần thận trọng nhằm phòng ngừa các nguy cơ liên quan đến tăng Magnesi máu.</p><p>Sau thời gian dài dùng pyridoxin với liều 200 mg/ngày, có thể đã thấy biểu hiện độc tính thần kinh (như bệnh thần kinh ngoại vi nặng và bệnh thần kinh cảm giác nặng). Dùng liều 200 mg mỗi ngày, kéo dài trên 30 ngày có thể gây hội chứng lệ thuộc pyridoxin.</p><p>Cần thận trọng khi dùng cho người bệnh có nghi ngờ loét dạ dày, viêm ruột hồi hoặc viêm loét ruột kết mạn.</p><p>Dùng thận trọng với người suy hô hấp hoặc toan máu, tăng calci máu có thể xảy ra khi giảm chức năng thận, cần thiết thường xuyên kiểm tra calci máu.</p><p>Đối với phụ nữ có thai, cần hỏi ý kiến bác sĩ trước khi dùng.</p><h3>Khả năng lái xe và vận hành máy móc</h3><p>Vì thuốc có thể gây ngủ gà, chóng mặt trong trường hợp dùng liều cao kéo dài, nên cẩn thận khi dùng cho người lái xe hay vận hành máy móc.</p><h3>Thời kỳ mang thai&nbsp;</h3><p>Chỉ sử dụng liều bổ sung vitamin D hằng ngày được khuyến cáo (RDA) là 400 IU. Không sử dụng liều lớn hơn RDA cho người mang thai.</p><p>Không dùng vitamin A hay các chế phẩm cùng loại với liều cao cho phụ nữ mang thai vì vitamin A liều cao có thể gây quái thai.</p><h3>Thời kỳ cho con bú</h3><p>Chỉ sử dụng liều bổ sung vitamin D hằng ngày được khuyến cáo (RDA) là 400 IU. Không sử dụng liều lớn hơn RDA cho người cho con bú.</p><h3>Tương tác thuốc</h3><p>Sử dụng đồng thời với thuốc chẹn alpha-adrenergic trị tăng huyết áp có thể dẫn đến hạ huyết áp quá mức, với các thuốc có độc tính với gan có thể làm tăng thêm tác hại cho gan, với carbamazepin huyết tương dẫn đến tăng độc tính.</p><p>Vitamin A và isotretionin dùng đồng thời có thể dẫn đến tình trạng như dùng vitamin A quá liều.</p><p>Không dùng thuốc với cholestyramin, không dùng đồng thời với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/phenobarbital\">phenobarbital</a>, corticosteroid.</p><p>Pyridoxin làm giảm tác dụng của levodopa trong điều trị bệnh Parkinson; điều này không xảy ra với chế phẩm là hỗn hợp levodopa - carbidopa hoặc levodopa - benserazid. Liều dùng pyridoxin 200 mg/ngày có thể gây giảm 40 - 50% nồng độ phenytoin và phenobarbiton trong máu ở một số nguời bệnh. Pyridoxin có thể làm nhẹ bớt trầm cảm ở phụ nữ uống thuốc tránh thai. Thuốc tránh thai uống có thể làm tăng nhu cầu về pyridoxin.</p><p>Đã gặp một số ca \"thiếu riboflavin\" ở người đã dùng clopromazin, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/imipramine\">imipramin</a>, amitriptylin và adriamycin. Rượu có thể gây cản trở hấp thu riboflavin ở ruột. Probenecid sử dụng cùng riboflavin gây giảm hấp thu riboflavin ở dạ dày, ruột.</p><p>Những thuốc sau đây ức chế thải trừ calci qua thận: Các thiazid, clopamid, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/imipramine\">ciprofloxacin</a>, clorthalidon, thuốc chống co giật. Calci làm tăng độc tính của digoxin đối với tim. Nồng độ calci trong máu tăng làm tăng tác dụng ức chế enzym Na+-K+- ATPase của glycosid trợ tim.</p><p>Tránh dùng phối hợp thuốc với ofloxacin, ciprofloxacin, norfloxacin, uống đồng thời với các thuốc kháng acid như calci carbonat, natri carbonat và magnesi trisilicat, hoặc với nước chè có thể làm giảm sự hấp thu sắt. Sắt có thể chelat hóa với các tetracyclin và làm giảm hấp thu của cả hai loại thuốc. Truờng hợp phải điều trị phối hợp với tetracycline đường uống thì phải dùng 2 loại thuốc cách khoảng nhau ít nhất 3 giờ. Sắt có thể làm giảm hấp thu của penicilamin, carbidopa/levodopa, methyldopa, các quinolon, các hormon tuyến giáp và các muối kẽm.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Trần Huỳnh Minh Nhật",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Dược sĩ chuyên khoa Dược lý - Dược lâm sàng. Tốt nghiệp 2 trường đại học Mở và Y Dược TP. Hồ Chí Minh. Có kinh nghiệm nghiên cứu về lĩnh vực sức khỏe, đạt được nhiều giải thưởng khoa học. Hiện là Dược sĩ chuyên môn phụ trách xây dựng nội dung và triển khai dự án đào tạo - Hội đồng chuyên môn tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-tran-huynh-minh-nhat",
+        "isLegit": true,
+        "id": 10,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tran_huynh_minh_nhat_905ca436dd.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Drimy bổ sung Vitamin & Khoáng chất (100 viên)",
+        "metaDescription": "Drimy có thành phần chính gồm các vitamin (A, D3, B1, B2, B6) và khoáng chất (sắt, magie, calci). Là thuốc được sử dụng trong các trường hợp cơ thể suy nhược, thể chất yếu, mệt mỏi...",
+        "id": 2223,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002604_drimy_7602_5b6b_large_508822d0ca.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc Drimy USP bổ sung vitamin, khoáng chất (10 vỉ x 10 viên)",
+            "description": "Drimy của công ty TNHH US Pharma USA, thành phần chính gồm các vitamin (A, D3, B1, B2, B6) và khoáng chất (sắt, magie, calci).&nbsp;Là thuốc được sử dụng trong các trường hợp cơ thể suy nhược, thể chất yếu, mệt mỏi, tình trạng thiếu hụt dinh dưỡng, sau phẫu thuật; bổ sung vitamin và khoáng chất (sắt, magie, cacli) trong các trường hợp như phụ nữ có thai, bà mẹ cho con bú, trẻ đang phát triển, người lớn tuổi."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 8983,
+        "title": "Phụ nữ có thai có sử dụng được Drimy không?",
+        "content": "<p>Thuốc Drimy chứa viatamin D (400 UI) và viatamin A (1000 UI) liều cao, nên cẩn trọng trước khi dùng vì có thể gây quái thai với liều cao hơn, nên tham khảo ý kiến bác sĩ trước khi dùng.&nbsp;<br>&nbsp;</p>"
+      },
+      {
+        "id": 8981,
+        "title": "Sử dụng thuốc Drimy có thể gặp phải những tác dụng phụ nào?",
+        "content": "<p>Một số tác dụng phụ có thể gặp phải khi dùng thuốc Drimy:</p><ul><li>Vitamin A: Dùng vitamin A liều cao kéo dài có thể dẫn đến ngộ độc vitamin A với các triệu chứng đặc trưng như mệt mỏi, dễ bị kích thích, chán ăn, sút cân, nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">rối loạn tiêu hóa</a>, sốt, gan - lách to, da bị biến đổi, rụng tóc, tóc khô giòn, môi nứt nẻ và chảy máu, thiếu máu, nhức đầu, calci huyết cao, phù nề dưới da, đau ở xương và khớp, ở trẻ em các triệu chứng ngộ độc mạn tính còn gồm cả tăng áp lực nội sọ (thóp căng), phù gai mắt, ù tai, rối loạn thị giác, sưng đau dọc các xương dài.</li><li>Vitamin B6: Dùng liều vitamin B6 200 mg/ngày và dài ngày (trên 2 tháng) có thể gây bệnh thần kinh ngoại vi nặng, tiến triển từ dáng đi không vững và tê cóng bàn chân đến tê cóng và vụng về bàn tay. Tình trạng này có thể hồi phục khi ngừng thuốc, mặc dù vẫn còn để lại ít nhiều di chứng.</li><li>Vitamin B2: Không thấy có tác dụng không mong muốn khi sử dụng B2. Dùng liều cao B2 thì nước tiểu sẽ chuyển màu vàng nhạt, gây sai lệch đối với một số xét nghiệm nước tiểu trong phòng thí nghiệm</li><li>Vitamin B1: Hiếm gặp: Ra nhiều mồ hôi, sốc quá mẫn, tăng huyết áp cấp, ban da, ngứa, mày đay, khó thở.</li><li>Calci: Có thể gây hạ huyết áp (chóng mặt), giãn mạch ngoại vi, táo bón, đầy hơi, buồn nôn, nôn, vã mồ hôi, loạn nhịp, rối loạn chức năng tim cấp.</li><li>Vitamin D: Tăng calci huyết và nhiễm độc vitamin D có một số tác dụng phụ như yếu, mệt, ngủ gà, đau đầu. Chán ăn, khô miệng, vị kim loại, buồn nôn, nôn, chuột rút ở bụng, táo bón, ỉa chảy, chóng mặt, ù tai, mất điều hòa, ngoại ban, giảm trương lực cơ, đau cơ, đau xương, và dễ bị kích thích.</li><li>Magie: Có thể gặp trên đường tiêu hóa (tiêu chảy, đau bụng).</li><li>Sắt: Một số phản ứng phụ ở đường tiêu hóa như đau bụng, buồn nôn, nôn, táo bón, phân đen (Không có ý nghĩa lâm sàng).</li></ul>"
+      },
+      {
+        "id": 8979,
+        "title": "Thuốc Drimy được chỉ định điều trị cho những trường hợp nào?",
+        "content": "<p>Thuốc có thành phần chính gồm các vitamin (A, D3, B1, B2, B6) và khoáng chất (sắt, magie, calci), là thuốc được sử dụng trong các trường hợp cơ thể <a href=\"https://nhathuoclongchau.com.vn/benh/suy-nhuoc-co-the-701.html\">suy nhược</a>, thể chất yếu, mệt mỏi, tình trạng thiếu hụt dinh dưỡng, sau phẫu thuật; bổ sung vitamin và khoáng chất (sắt, magie, cacli) trong các trường hợp như phụ nữ có thai, bà mẹ cho con bú, trẻ đang phát triển, người lớn tuổi.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00029004",
+        "name": "POKEMINE MEDISUN 20X10ML",
+        "webName": "Dung dịch uống Pokemine 50mg Medisun bổ sung sắt cho bệnh nhân thiếu máu (20 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/pokemine_20x10ml_medisun_00029004_18974a7442.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37079,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 152000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pokemine-medisun-20x10ml-29296.html",
+        "ingredients": "Sắt 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Medisun",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 20 ống X 10ml",
+        "prices": [
+          {
+            "id": 37079,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 152000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 37078,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 7600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00047080",
+        "name": "MYHEMO RELIV 3X10",
+        "webName": "Thuốc Myhemo 305mg Reliv dự phòng thiếu sắt và folic acid (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_myhemo_reliv_3x10_00047080_42c390f09b.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 73453,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 165000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/myhemo-reliv-3-x10.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 100mg",
+        "dosageForm": "Viên bao đường",
+        "brand": "Reliv",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 73453,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 165000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 73454,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 73455,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007450",
+        "name": "TOTHEMA 2X10 ỐNG 10ML",
+        "webName": "Dung dịch Tot'héma Innothera điều trị thiếu máu do sắt (2 vỉ x 10 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04101_788e84a74a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10875,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 120000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tothema-1952.html",
+        "ingredients": "Mangan gluconat 1.33mg, Đồng gluconat 0.7mg, Sắt gluconat 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Innothera",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 10 Ống x 10ml",
+        "prices": [
+          {
+            "id": 10875,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 120000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10873,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10874,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049621",
+        "name": "VITAMIN A-D HDPHARMA 10X10",
+        "webName": "Thuốc Vitamin A-D Hdpharma dùng dự phòng và điều trị các triệu chứng do thiếu vitamin A - D (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_vitamin_a_d_10x10_hdpharma_00049621_f8bba8c44a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 78290,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 32000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vitamin-a-d-hdpharma-10-x10.html",
+        "ingredients": "Vitamin A 5000iu, Vitamin D3 400iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Hdpharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 78290,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 32000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 78291,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 3200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 78292,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 320,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049065",
+        "name": "MAZZGIN DHG PHARMA 10X10",
+        "webName": "Thuốc Mazzgin DHG Pharma điều trị các trường hợp thiếu magnesi riêng biệt hay kết hợp (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_mazzgin_dhg_pharma_10x10_00049065_82218241b8.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 77246,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 53550,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/mazzgin-dhg-pharma-10-x10.html",
+        "ingredients": "Magnesi lactat dihydrat 470mg, Vitamin B6 5mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Dhg",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 77246,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 53550,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 77247,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 5355,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 77248,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 536,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00041155",
+        "name": "CARDIOTON LIPA 6X10",
+        "webName": "Thuốc Cardioton Lipa Pharma điều trị suy tim, tăng huyết áp, bổ sung năng lượng (6 vỉ x 10 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_cardioton_lipa_6x10_00041155_9ecff2b28f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 62161,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 7667,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cardioton-lipa-6-x10.html",
+        "ingredients": "Ubidecarenone 30mg, D-alpha tocopherol 6.71mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "LIPA PHARMACEUTICALSLTD",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 62161,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 62159,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 460000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 62160,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 76667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500658",
+        "name": "ZY-10 FORTE 100MG Y-MED 3X10",
+        "webName": "Thuốc Zy-10 Forte 100mg Y-Med điều trị bệnh suy tim xung huyết, thiếu hụt coenzym Q10 (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/5_9e44bd6ebd.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48922,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 15600,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/zy-10-forte-100mg-hop-3-vi-x-10-vien-ha-tay-34787.html",
+        "ingredients": "Ubidecarenone 100mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Y-MED",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48922,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 15600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 48924,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 468000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 48923,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 156000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 249,
+          "attributeName": "Ấn Độ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/in_India_090039de61.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009723",
+        "name": "BEROCCA BAYER 10V",
+        "webName": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1758_33831b7cab.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12974,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 75000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/berocca-1515.html",
+        "ingredients": "Vitamin B1 15mg, Vitamin B2 15mg, Vitamin B6 10mg, Vitamin B12 0.01mg, Vitamin B3 50mg, Vitamin B5 23mg, Magnesia 100mg, Vitamin C 500mg, Calcium 100mg, Vitamin B8 0.15mg, Kẽm 10mg",
+        "dosageForm": "Viên sủi",
+        "brand": "Bayer",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 12973,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 7500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12974,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 75000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00008451",
+        "name": "LONG HUYẾT PH 2X12 - TAN BẦM TÍM GIẢM PHÙ NỀ",
+        "webName": "Thuốc Long Huyết P/H Phúc Hưng đặc trị tan bầm tím, mau lành vết thương (2 vỉ x 12 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1039_fba416224d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12490,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 47000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/long-huyet-ph-tan-bam-tim-chua-lanh-vet-thuong-1590.html",
+        "ingredients": "Cao khô huyết giác 280mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Phúc Hưng",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 2 vỉ x 12 viên",
+        "prices": [
+          {
+            "id": 12488,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1958,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12489,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 23500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 12490,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 47000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007678",
+        "name": "UPSA-C 10V",
+        "webName": "Viên sủi UPSA-C UPSA SAS hỗ trợ điều trị tình trạng thiếu hụt vitamin C (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1794_11051dc2c2.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11216,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 37000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/upsa-c-1000mg-1878.html",
+        "ingredients": "Vitamin C 1000mg",
+        "dosageForm": "Viên nén sủi bọt",
+        "brand": "Upsa Sas",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 11215,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 3700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11216,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 37000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007180",
+        "name": "TARDYFERON B9 3X10",
+        "webName": "Thuốc Tardyferon B9 Pierre Fabre dự phòng thiếu sắt, acid folic cho phụ nữ có thai (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_tardyferon_b9_3_vi_x_10_vien_pierre_fabre_00007180_aec7b4c600.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10449,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tardyferon-b9-2068.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 50mg",
+        "dosageForm": "Viên nén",
+        "brand": "Pierre Fabre",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 10449,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10451,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 87000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10450,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 29000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006109",
+        "name": "PROCARE DIAMOND 216MG CATALENT 30V",
+        "webName": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_7021_60ee_large_89e91ba6fb.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8834,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 420000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/procare-diamond-216mg-2522.html",
+        "ingredients": "Vitamin B1 5mg, Vitamin B2 5mg, Nicotinamide 5mg, Vitamin D3 200iu, Vitamin B6 5mg, Vitamin B12 10mcg, Vitamin E 10iu, Folic Acid 500mcg, Calcium 59mg, Phosphorus 46.6mg, Magnesium ion 30mg, Vitamin C 50mg, Zinc 8mg, Iron 24mg, Iodine 200mcg, Omega 3 500mg, Betacarotene 1mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "PROCARE",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 30 Viên",
+        "prices": [
+          {
+            "id": 8833,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 14000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 8834,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 420000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 254,
+          "attributeName": "Tây Ban Nha",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/es_Spain_03bf620563.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 14,
+      "items": [
+        {
+          "id": 3270251,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0394xxxxxx",
+          "name": "Minh Nhựt",
+          "email": "minhnhut25079@gmail.com",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "THA, bệnh tim thiếu máu cục bộ, suy van tĩnh mạch, cường giáp, đái tháo đường, loãng xương, suy thượng thận do thuốc, trào ngược dạ dày uống đc ko",
+          "createdAt": "2026-03-07 21:49:17",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-07 21:49:17",
+          "replies": [
+            {
+              "id": 3270255,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Thị Bích Lựu",
+                "moderatorEmail": "luuntb4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Thị Bích Lựu",
+              "email": "luuntb4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Nhật, </p><p>Dạ sản phẩm Thuốc Drimy USP bổ sung vitamin, khoáng chất&nbsp; chưa có thông tin khuyên dùng cho tình trạng của anh, anh nên tham khảo thêm ý kiến bác sĩ để có chỉ định an toàn và phù hợp ạ. </p><p>Nhà thuốc thông tin đến anh ạ.</p>",
+              "createdAt": "2026-03-07 21:57:24",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-07 21:49:17",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3143062,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0949xxxxxx",
+          "name": "Anh Phát",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "hộp bn viên vây ạ",
+          "createdAt": "2025-07-11 19:42:59",
+          "createdAtDisplay": "11/07/2025",
+          "updatedAt": "2025-07-11 19:42:51",
+          "replies": [
+            {
+              "id": 3143064,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lưu Quỳnh Trang",
+                "moderatorEmail": "tranglq6@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lưu Quỳnh Trang",
+              "email": "tranglq6@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Phát,</p><p>Dạ sản phẩm Thuốc Drimy USP bổ sung vitamin, khoáng chất (10 vỉ x 10 viên) hộp có 100 viên ạ.</p><p>Nhà thuốc thông tin đến anh.</p><p>Thân mến !</p><p><br></p>",
+              "createdAt": "2025-07-11 19:44:16",
+              "createdAtDisplay": "11/07/2025",
+              "updatedAt": "2025-07-11 19:42:51",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3123780,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0964xxxxxx",
+          "name": "Linh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Hải Phòng còn hàng không bạn?",
+          "createdAt": "2025-06-09 14:51:00",
+          "createdAtDisplay": "09/06/2025",
+          "updatedAt": "2025-06-09 14:50:57",
+          "replies": [
+            {
+              "id": 3123783,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thu Phương",
+                "moderatorEmail": "phuongtt124@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thu Phương",
+              "email": "phuongtt124@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Linh,</p><p>Dạ sản phẩm còn hàng trên hệ thống.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-06-09 14:51:14",
+              "createdAtDisplay": "09/06/2025",
+              "updatedAt": "2025-06-09 14:50:57",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 2441544,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0934xxxxxx",
+          "name": "Mai Anh",
+          "email": "",
+          "score": null,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Em xin giá hộp này",
+          "createdAt": "2024-10-16 11:54:34",
+          "createdAtDisplay": "16/10/2024",
+          "updatedAt": "2024-10-16 11:55:04",
+          "replies": [
+            {
+              "id": 2441547,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Tuấn Đại",
+                "moderatorEmail": "DaiNT17@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Tuấn Đại",
+              "email": "DaiNT17@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Mai Anh,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sản phẩm có giá 265,000 ₫/hộp.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sẽ có tư vấn viên của Nhà thuốc Long Châu liên hệ theo SĐT bạn để lại ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p>",
+              "createdAt": "2024-10-16 11:55:04",
+              "createdAtDisplay": "16/10/2024",
+              "updatedAt": "2024-10-16 11:55:04",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 1791573,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0953xxxxxx",
+          "name": "Chú Thanh",
+          "email": "",
+          "score": null,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1h bao nhiêu vậy con",
+          "createdAt": "2024-07-31 17:09:23",
+          "createdAtDisplay": "31/07/2024",
+          "updatedAt": "2024-07-31 17:09:56",
+          "replies": [
+            {
+              "id": 1791582,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lữ Thị Anh Thư",
+                "moderatorEmail": "Thulta11@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Lữ Thị Anh Thư",
+              "email": "Thulta11@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào Chú Thanh,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sản phẩm có giá 265,000&nbsp;đồng/ Hộp ạ. </span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT chú đã để lại ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p>",
+              "createdAt": "2024-07-31 17:09:56",
+              "createdAtDisplay": "31/07/2024",
+              "updatedAt": "2024-07-31 17:09:56",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 4,
+      "items": [
+        {
+          "id": 3202955,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0383xxxxxx",
+          "name": "Võ Kỳ vỹ",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2025-10-27 12:29:12",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-27 12:28:53",
+          "replies": [
+            {
+              "id": 3202959,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Quỳnh Trang",
+                "moderatorEmail": "trangntq31@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Quỳnh Trang",
+              "email": "trangntq31@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn <strong>Võ Kỳ Vỹ</strong>,</p><p>Cảm ơn bạn đã liên hệ đến nhà thuốc FPT Long Châu. Bạn có thể chia sẻ rõ hơn nhu cầu hoặc vấn đề mình đang cần được hỗ trợ không ạ? Nhà thuốc rất sẵn lòng giúp mình ạ. 💙</p>",
+              "createdAt": "2025-10-27 12:36:54",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-27 12:28:53",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3202954,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0383xxxxxx",
+          "name": "Võ Kỳ vỹ",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2025-10-27 12:29:02",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-27 12:28:44",
+          "replies": [
+            {
+              "id": 3202963,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Lê Hải Bình",
+                "moderatorEmail": "binhtlh@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Lê Hải Bình",
+              "email": "binhtlh@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn <strong>Võ Kỳ Vỹ</strong>,</p><p>Dạ rất cảm ơn tình cảm của bạn dành cho Nhà thuốc FPT Long Châu. Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.</p>",
+              "createdAt": "2025-10-27 12:42:11",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-27 12:28:44",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3041778,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0876xxxxxx",
+          "name": "Lê Thanh Huệ",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "em bị bao tử nhưng mà người ốm, ko tăng cân đc, thiếu máu có dùng đc ko ạ",
+          "createdAt": "2025-02-07 10:01:05",
+          "createdAtDisplay": "07/02/2025",
+          "updatedAt": "2025-02-07 10:01:05",
+          "replies": [
+            {
+              "id": 3041780,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Nhi",
+                "moderatorEmail": "nhitha@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Nhi",
+              "email": "nhitha@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Lê Thanh Huệ,</p><p>Dạ sản phẩm Drimy được sử dụng trong các trường hợp cơ thể suy nhược, thể chất yếu, mệt mỏi, tình trạng thiếu hụt dinh dưỡng, sau phẫu thuật; bổ sung vitamin và khoáng chất. Mình có thể sử dụng uống sau bữa ăn ạ. </p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p>",
+              "createdAt": "2025-02-07 10:03:56",
+              "createdAtDisplay": "07/02/2025",
+              "updatedAt": "2025-02-07 10:01:05",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 2298874,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0783xxxxxx",
+          "name": "Anh Ngọc",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "uống chung với thuoc trị tang huyết áp dc kg",
+          "createdAt": "2024-10-01 18:46:55",
+          "createdAtDisplay": "01/10/2024",
+          "updatedAt": "2024-10-01 18:48:17",
+          "replies": [
+            {
+              "id": 2298893,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lữ Thị Anh Thư",
+                "moderatorEmail": "Thulta11@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Lữ Thị Anh Thư",
+              "email": "Thulta11@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Anh Ngọc, </span><br><span>Dạ sản phẩm chưa có thông tin phù hợp khi dùng chung với thuốc huyết áp ạ. Bạn vui lòng tham khảo ý kiến bác sĩ trước khi sử dụng ạ. </span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Nhà Thuốc thông tin đến bạn. </span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p>",
+              "createdAt": "2024-10-01 18:48:17",
+              "createdAtDisplay": "01/10/2024",
+              "updatedAt": "2024-10-01 18:48:17",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 4
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Drimy USP bổ sung vitamin, khoáng chất (10 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002604_drimy_7602_5b6b_large_508822d0ca.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002604_drimy_6918_5b6b_large_7a03b13d8e.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002604_drimy_9654_5b6b_large_cc20a37dc3.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002604_drimy_2375_5b6b_large_596cf46380.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "Drimy của công ty TNHH US Pharma USA, thành phần chính gồm các vitamin (A, D3, B1, B2, B6) và khoáng chất (sắt, magie, calci). Là thuốc được sử dụng trong các trường hợp cơ thể suy nhược, thể chất yếu, mệt mỏi, tình trạng thiếu hụt dinh dưỡng, sau phẫu thuật; bổ sung vitamin và khoáng chất (sắt, magie, cacli) trong các trường hợp như phụ nữ có thai, bà mẹ cho con bú, trẻ đang phát triển, người lớn tuổi.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Trần Huỳnh Minh Nhật"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "4"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/drimy-3926.html",
+        "priceCurrency": "VND",
+        "price": 3300,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Thuốc Drimy bổ sung Vitamin & Khoáng chất (100 viên)",
+      "description": "Drimy có thành phần chính gồm các vitamin (A, D3, B1, B2, B6) và khoáng chất (sắt, magie, calci). Là thuốc được sử dụng trong các trường hợp cơ thể suy nhược, thể chất yếu, mệt mỏi...",
+      "openGraph": {
+        "title": "Thuốc Drimy USP bổ sung vitamin, khoáng chất (10 vỉ x 10 viên)",
+        "description": "Drimy của công ty TNHH US Pharma USA, thành phần chính gồm các vitamin (A, D3, B1, B2, B6) và khoáng chất (sắt, magie, calci).&nbsp;Là thuốc được sử dụng trong các trường hợp cơ thể suy nhược, thể chất yếu, mệt mỏi, tình trạng thiếu hụt dinh dưỡng, sau phẫu thuật; bổ sung vitamin và khoáng chất (sắt, magie, cacli) trong các trường hợp như phụ nữ có thai, bà mẹ cho con bú, trẻ đang phát triển, người lớn tuổi.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002604_drimy_7602_5b6b_large_508822d0ca.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/drimy-3926.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/drimy-3926.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

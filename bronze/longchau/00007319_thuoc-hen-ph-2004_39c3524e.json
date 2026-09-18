@@ -1,0 +1,1194 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/thuoc-hen-ph-2004.html",
+  "ingestion_timestamp": "2026-09-05T16:03:43.658144+00:00",
+  "file_hash": "cf8fcdd00ba581a05e0ec71c3d166e62670ca9a73adee371fc06a568ad390e99",
+  "lineage_hash": "6996f568844e97d79f427977d6ccf8c9a17bb29f86d82c745f9650b59a674e36",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/thuoc-hen-ph-2004.html",
+    "product": {
+      "sku": "00007319",
+      "webName": "Cao lỏng thuốc hen P/H điều trị các thể hen phế quản (250ml)",
+      "name": "THUỐC HEN PH 250ML",
+      "shortName": "THUỐC HEN PH 250ML",
+      "headingText": "Cao lỏng thuốc hen P/H",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_6471_5b98_large_e7251b8c4e.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_5376_5b98_large_77e0c225de.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_6220_5b98_large_c71af9f120.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_1883_5b98_large_9431e78c4b.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_1140_5b98_large_3025a986ea.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_3190_6087_large_011d501e13.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_1619524232_7d07a838f4.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 730,
+          "name": "Thuốc hô hấp",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-ho-hap",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 775,
+          "name": "Thuốc trị hen suyễn",
+          "parentName": "Thuốc hô hấp",
+          "slug": "thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Chai x 250ml"
+        }
+      ],
+      "slug": "thuoc/thuoc-hen-ph-2004.html",
+      "ingredient": [
+        {
+          "id": 40984,
+          "ingredientId": 26198,
+          "shortDescription": "20 ",
+          "name": "Ma hoàng",
+          "isPrimary": false,
+          "slug": "thanh-phan/ma-hoang"
+        },
+        {
+          "id": 40985,
+          "ingredientId": 10272,
+          "shortDescription": "30 ",
+          "name": "Bán hạ (Thân, Rễ)",
+          "isPrimary": false,
+          "slug": "thanh-phan/ban-ha"
+        },
+        {
+          "id": 40986,
+          "ingredientId": 29693,
+          "shortDescription": "20 ",
+          "name": "Ngũ vị tử",
+          "isPrimary": false,
+          "slug": "thanh-phan/ngu-vi-tu"
+        },
+        {
+          "id": 40987,
+          "ingredientId": 39705,
+          "shortDescription": "20 ",
+          "name": "Tỳ bà diệp",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 40988,
+          "ingredientId": 37619,
+          "shortDescription": "6 ",
+          "name": "Tế tân",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 40989,
+          "ingredientId": 12535,
+          "shortDescription": "20",
+          "name": "Can khương",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 40990,
+          "ingredientId": 39051,
+          "shortDescription": "20",
+          "name": "Trần bì",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 40991,
+          "ingredientId": 11387,
+          "shortDescription": "20",
+          "name": "Bối mẫu (Thân hành)",
+          "isPrimary": false,
+          "slug": "thanh-phan/boi-mau"
+        },
+        {
+          "id": 40992,
+          "ingredientId": 21967,
+          "shortDescription": "20",
+          "name": "Hạnh nhân",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 40993,
+          "ingredientId": 12473,
+          "shortDescription": "",
+          "name": "Cam thảo",
+          "isPrimary": false,
+          "slug": "thanh-phan/cam-thao"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "",
+      "registNum": "VD-25947-16",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Siro",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Uống 2 lần/ngày vào sau bữa ăn.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Trẻ em dưới 6 tuổi: 15 ml/lần.</p>\n\n<p>Trẻ từ 6 - 14 tuổi: 20 ml/lần.</p>\n\n<p>Trẻ từ 14 tuổi trở lên và người lớn: 30 ml/lần.</p>\n\n<p>Trường hợp bệnh nặng có thể dùng gấp rưỡi liều trên.</p>\n\n<p>Mỗi đợt điều trị thường kéo dài 8 - 10 tuần. Sau khi kết thúc đợt điều trị, cơn hen nhẹ, thưa dần. Bệnh nhân cần điều trị thêm 3 - 4 đợt nữa, mỗi đợt cách nhau 1 tuần để phòng ngừa cơn hen tái phát.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Cho đến nay, vẫn chưa có tài liệu báo cáo về trường hợp dùng thuốc quá liều. Khi dùng thuốc quá liều, nếu thấy có dấu hiệu bất thường, cần đưa bệnh nhân đến cơ sở y tế gần nhất để có biện pháp xử trí kịp thời.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p><em>Ðiều trị các thể <a href=\"https://nhathuoclongchau.com.vn/benh/hen-phe-quan-160.html\">hen phế quản</a> (đặc biệt là thể mạn tính), viêm phế quản mạn tính, viêm phế quản thể co thắt, phổi tắc nghẽn mạn tính có biểu hiện: khó thở, ho, tức ngực, đờm nhiều. </em></p>\n\n<p><em>Phòng ngừa cơn hen tái phát.</em></p>\n\n<h3>Dược lực học</h3>\n\n<p>Hen (viêm phế quản mạn tính, viêm phế quản thể co thắt, phổi tắc nghẽn mạn tính) là bệnh phế quản mạn tính thường xảy ra ở người có cơ địa dị ứng. Nếu bệnh không được điều trị triệt để sẽ làm giảm sút sức khỏe, tổn thương phổi, suy hô hấp và dẫn tới <a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-314.html\">suy tim</a>.</p>\n\n<p>Y học cổ truyền có ưu thế điều trị các bệnh mạn tính, trong đó có bệnh hen phế quản, do tập trung điều trị căn nguyên sinh bệnh. Thuốc hen P/H được bào chế theo bài thuốc cổ phương \"Tiểu thanh long gia giảm\", chiết xuất hoàn toàn từ thảo dược, có tác dụng điều hòa công năng của ba tạng Tỳ - Phế - Thận, giúp bệnh thuyên giảm dần, ổn định và không tái phát.</p>\n\n<p>Sau khi dùng thuốc 4 tuần, bệnh nhân sẽ thấy cơn hen thưa và nhẹ dần, đờm loãng và tống xuất ra ngoài, giảm ho, phổi thông thoáng và dễ thở hơn. Khi điều trị đủ đợt từ 8 - 10 tuần, đa số bệnh nhân không còn lên cơn hen và hoàn toàn yên tâm khi thời tiết thay đổi.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "brand": "Phúc Hưng",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc hen P/H, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Chai X 250ml",
+      "indications": [
+        {
+          "id": 390,
+          "name": "Hen phế quản",
+          "slug": "benh/hen-phe-quan-160.html"
+        },
+        {
+          "id": 394,
+          "name": "Phổi tắc nghẽn mạn tính",
+          "slug": "benh/phoi-tac-nghen-man-tinh-164.html"
+        },
+        {
+          "id": 517,
+          "name": "Viêm phế quản mạn tính",
+          "slug": "benh/viem-phe-quan-man-tinh-179.html"
+        },
+        {
+          "id": 807,
+          "name": "Viêm phế quản co thắt",
+          "slug": "benh/viem-phe-quan-co-that-1068.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "ph",
+      "shortDescription": "<p>Thuốc hen P/H là sản phẩm của Công ty TNHH Đông Dược Phúc Hưng, thành phần chính bao gồm các loại thảo dược như Ma hoàng, Bán hạ, Ngũ vị tử, Tỳ bà diệp, Cam thảo, Tế tân, Can khương, Hạnh nhân, Bối mẫu và Trần bì. Thuốc dùng để điều trị các thể hen phế quản (đặc biệt là thể mạn tính), viêm phế quản mạn tính, viêm phế quản thể co thắt, phổi tắc nghẽn mạn tính. Ngoài ra, thuốc hen P/H còn được chỉ định phòng ngừa cơn hen tái phát.</p>\n\n<p>Thuốc hen P/H được bào chế dạng cao lỏng. Thuốc được đóng gói theo quy cách hộp 1 lọ chứa 250 ml cao lỏng.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Từ 30 tháng tuổi trở lên",
+      "objectUse": [
+        "Người cao tuổi",
+        "Trẻ em"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Tiểu đường",
+        "Phụ nữ cho con bú",
+        "Phụ nữ có thai"
+      ],
+      "specialFeatures": [],
+      "displayCode": 3,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Động kinh, Cao huyết áp, Co giật",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/phuc-hung",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "THUỐC HEN P/H",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "24 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 6,
+        "measureUnitName": "Chai",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 1,
+        "productSpecs": "Chai x 250ml"
+      },
+      "highestLevelCategory": {
+        "id": 775,
+        "name": "Thuốc trị hen suyễn",
+        "parentName": "Thuốc hô hấp",
+        "slug": "thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_6471_5b98_large_e7251b8c4e.JPG",
+          "alternativeText": "Cao lỏng thuốc hen P/H điều trị các thể hen phế quản (250ml) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_5376_5b98_large_77e0c225de.JPG",
+          "alternativeText": "Cao lỏng thuốc hen P/H điều trị các thể hen phế quản (250ml) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_6220_5b98_large_c71af9f120.JPG",
+          "alternativeText": "Cao lỏng thuốc hen P/H điều trị các thể hen phế quản (250ml) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_1883_5b98_large_9431e78c4b.JPG",
+          "alternativeText": "Cao lỏng thuốc hen P/H điều trị các thể hen phế quản (250ml) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_1140_5b98_large_3025a986ea.JPG",
+          "alternativeText": "Cao lỏng thuốc hen P/H điều trị các thể hen phế quản (250ml) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_3190_6087_large_011d501e13.jpg",
+          "alternativeText": "Cao lỏng thuốc hen P/H điều trị các thể hen phế quản (250ml) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_1619524232_7d07a838f4.jpg",
+          "alternativeText": "Cao lỏng thuốc hen P/H điều trị các thể hen phế quản (250ml) 7"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc hô hấp",
+        "slug": "/thuoc/thuoc-ho-hap"
+      },
+      {
+        "name": "Thuốc trị hen suyễn",
+        "slug": "/thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen"
+      }
+    ],
+    "content": {
+      "sku": "00007319",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Uống 2 lần/ngày vào sau bữa ăn.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Trẻ em dưới 6 tuổi: 15 ml/lần.</p>\n\n<p>Trẻ từ 6 - 14 tuổi: 20 ml/lần.</p>\n\n<p>Trẻ từ 14 tuổi trở lên và người lớn: 30 ml/lần.</p>\n\n<p>Trường hợp bệnh nặng có thể dùng gấp rưỡi liều trên.</p>\n\n<p>Mỗi đợt điều trị thường kéo dài 8 - 10 tuần. Sau khi kết thúc đợt điều trị, cơn hen nhẹ, thưa dần. Bệnh nhân cần điều trị thêm 3 - 4 đợt nữa, mỗi đợt cách nhau 1 tuần để phòng ngừa cơn hen tái phát.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Cho đến nay, vẫn chưa có tài liệu báo cáo về trường hợp dùng thuốc quá liều. Khi dùng thuốc quá liều, nếu thấy có dấu hiệu bất thường, cần đưa bệnh nhân đến cơ sở y tế gần nhất để có biện pháp xử trí kịp thời.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng Thuốc hen P/H của Công ty TNHH Đông Dược Phúc Hưng.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc hen P/H, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Nơi khô, nhiệt độ dưới 30°C.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p><em>Ðiều trị các thể <a href=\"https://nhathuoclongchau.com.vn/benh/hen-phe-quan-160.html\">hen phế quản</a> (đặc biệt là thể mạn tính), viêm phế quản mạn tính, viêm phế quản thể co thắt, phổi tắc nghẽn mạn tính có biểu hiện: khó thở, ho, tức ngực, đờm nhiều. </em></p>\n\n<p><em>Phòng ngừa cơn hen tái phát.</em></p>\n\n<h3>Dược lực học</h3>\n\n<p>Hen (viêm phế quản mạn tính, viêm phế quản thể co thắt, phổi tắc nghẽn mạn tính) là bệnh phế quản mạn tính thường xảy ra ở người có cơ địa dị ứng. Nếu bệnh không được điều trị triệt để sẽ làm giảm sút sức khỏe, tổn thương phổi, suy hô hấp và dẫn tới <a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-314.html\">suy tim</a>.</p>\n\n<p>Y học cổ truyền có ưu thế điều trị các bệnh mạn tính, trong đó có bệnh hen phế quản, do tập trung điều trị căn nguyên sinh bệnh. Thuốc hen P/H được bào chế theo bài thuốc cổ phương \"Tiểu thanh long gia giảm\", chiết xuất hoàn toàn từ thảo dược, có tác dụng điều hòa công năng của ba tạng Tỳ - Phế - Thận, giúp bệnh thuyên giảm dần, ổn định và không tái phát.</p>\n\n<p>Sau khi dùng thuốc 4 tuần, bệnh nhân sẽ thấy cơn hen thưa và nhẹ dần, đờm loãng và tống xuất ra ngoài, giảm ho, phổi thông thoáng và dễ thở hơn. Khi điều trị đủ đợt từ 8 - 10 tuần, đa số bệnh nhân không còn lên cơn hen và hoàn toàn yên tâm khi thời tiết thay đổi.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<h3>Chống chỉ định</h3>\n\n<ul>\n\t<li>\n\t<p>Trẻ em dưới 30 tháng tuổi</p>\n\t</li>\n\t<li>\n\t<p>Trẻ em có tiền sử động kinh hoặc co giật do sốt cao.</p>\n\t</li>\n\t<li>\n\t<p>Người cao huyết áp, tự hãn.</p>\n\t</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Thận trọng khi dùng thuốc cho bệnh nhân tiểu đường, phụ nữ có thai và cho con bú.</p>\n\n<p>Trong quá trình dùng thuốc, bệnh nhân cần kiêng ăn: mắm tôm, cua, ốc, chuối tiêu, rượu, bia và không nên làm việc quá sức.</p>\n\n<p>Trong thời gian điều trị ban đầu bằng Thuốc hen P/H, nếu xuất hiện các cơn hen cấp tính, bệnh nhân cần kết hợp với thuốc tây để cắt cơn.</p>\n\n<p>Ngoài ra, khi mới bắt đầu dùng Thuốc hen P/H một số trường hợp ho có thể tăng lên để giúp người bệnh tống xuất đờm ra ngoài, phổi thông thoáng và dễ thở hơn. Tình trạng ho sẽ giảm dần trong các tuần sử dụng tiếp theo.</p>\n\n<p>Để đạt hiệu quả cao trong điều trị, bệnh nhân cần kiên trì dùng thuốc đủ đợt.</p>\n\n<p>Hen phế quản là bệnh dễ tái phát, vì vậy người bệnh nên uống dự phòng mỗi năm 4 - 6 tuần trước thời điểm giao mùa hoặc khi thấy trong người khó chịu, uống dự phòng giúp củng cố sức khỏe, nâng cao sức để kháng cho cơ thể, phòng chống tái phát.</p>\n\n<p>Đối với người mắc bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">tiểu đường</a> nên chuyển sang dùng Thuốc hen P/H dạng viên hoàn cứng, lọ 480 viên.</p>\n\n<p>Đối với người mắc bệnh hen phế quản mức độ nặng (độ 3 và độ 4) nên điều trị đủ một đợt Thuốc hen P/H dạng cao lỏng, các đợt sau có thể chuyển sang dạng viên hoàn.</p>\n\n<p>Nếu thuốc bị mốc, biến màu hoặc thấy có hiện tượng lạ thì phải báo ngay cho nhà sản xuất. Nên sử dụng thuốc trong vòng không quá 1 tháng kể từ ngày mở nắp chai.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Hiện chưa có bằng chứng về tác động của thuốc lên khả năng lái xe và vận hành máy móc.</p>\n\n<h3>Thời kỳ mang thai </h3>\n\n<p>Thận trọng khi dùng thuốc cho phụ nữ có thai để đảm bảo an toàn cho thai nhi.</p>\n\n<h3>Thời kỳ cho con bú</h3>\n\n<p>Thận trọng khi dùng thuốc cho phụ nữ cho con bú để đảm bảo an toàn cho trẻ bú mẹ.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Trong thời gian dùng thuốc, không nên uống rượu, bia hay ăn các đồ ăn cay, nóng như ớt, hạt tiêu, các thực phẩm dễ gây dị ứng như tôm, cua...</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Hen P/H điều trị các thể hen phế quản",
+        "metaDescription": "Thuốc Hen P/H thành phần chính bao gồm các loại thảo dược như Ma hoàng, Bán hạ, Ngũ vị tử, Tỳ bà diệp, Cam thảo, Tế tân, Can khương, Hạnh nhân, Bối mẫu và Trần bì. Thuốc dùng để điều trị các thể hen phế quản (đặc biệt là thể mạn tính), viêm phế quản mạn tính.",
+        "id": 2998,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_6471_5b98_large_e7251b8c4e.JPG",
+              "alternativeText": null
+            },
+            "title": "Cao lỏng thuốc hen P/H điều trị các thể hen phế quản (250ml)",
+            "description": "Thuốc hen P/H là sản phẩm của Công ty TNHH Đông Dược Phúc Hưng, thành phần chính bao gồm các loại thảo dược như Ma hoàng, Bán hạ, Ngũ vị tử, Tỳ bà diệp, Cam thảo, Tế tân, Can khương, Hạnh nhân, Bối mẫu và Trần bì. Thuốc dùng để điều trị các thể hen phế quản (đặc biệt là thể mạn tính), viêm phế quản mạn tính, viêm phế quản thể co thắt, phổi tắc nghẽn mạn tính. Ngoài ra, thuốc hen P/H còn được chỉ định phòng ngừa cơn hen tái phát.\n\nThuốc hen P/H được bào chế dạng cao lỏng. Thuốc được đóng gói theo quy cách hộp 1 lọ chứa 250 ml cao lỏng."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 373,
+        "title": "Dược lực học là gì?",
+        "content": "<p>\r\n\r\nDược lực học l&agrave; nghi&ecirc;n cứu c&aacute;c ảnh hưởng sinh h&oacute;a, sinh l&yacute;, v&agrave; ph&acirc;n tử của thuốc tr&ecirc;n cơ thể v&agrave; li&ecirc;n quan đến thụ thể li&ecirc;n kết, hiệu ứng sau thụ thể, v&agrave; tương t&aacute;c h&oacute;a học. Dược lực học, với dược động học, gi&uacute;p giải th&iacute;ch mối quan hệ giữa liều v&agrave; đ&aacute;p ứng, tức l&agrave; c&aacute;c t&aacute;c dụng của thuốc. Đ&aacute;p ứng dược l&yacute; phụ thuộc v&agrave;o sự li&ecirc;n kết của thuốc với đ&iacute;ch t&aacute;c dụng. Nồng độ thuốc ở vị tr&iacute; thụ thể ảnh hưởng đến t&aacute;c dụng của thuốc.</p>"
+      },
+      {
+        "id": 372,
+        "title": "Dược động học là gì?",
+        "content": "<p>\r\n\r\nDược động học l&agrave; những t&aacute;c động của cơ thể đối với thuốc trong suốt qu&aacute; tr&igrave;nh thuốc đi v&agrave;o, ở trong v&agrave; đi ra khỏi cơ thể- bao gồm c&aacute;c qu&aacute; tr&igrave;nh hấp thụ, sinh khả dụng, ph&acirc;n bố, chuyển h&oacute;a, v&agrave; thải trừ.</p>"
+      },
+      {
+        "id": 371,
+        "title": "Tác dụng phụ của thuốc là gì? Cách phòng tránh tác dụng phụ của thuốc",
+        "content": "<p>\r\n\r\nT&aacute;c dụng phụ l&agrave; những triệu chứng kh&ocirc;ng mong muốn xảy ra khi ch&uacute;ng ta uống thuốc. C&aacute;c t&aacute;c dụng phụ n&agrave;y c&oacute; thể kh&ocirc;ng nghi&ecirc;m trọng, chẳng hạn chỉ g&acirc;y <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><strong>đau đầu</strong></a> hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mieng-312.html\"><strong>kh&ocirc; miệng</strong></a>. Nhưng cũng c&oacute; những t&aacute;c dụng phụ đe dọa t&iacute;nh mạng. Cẩn ph&ograve;ng tr&aacute;nh t&aacute;c dụng phụ của <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> như: Th&ocirc;ng b&aacute;o c&aacute;c loại thuốc đang sử dụng với b&aacute;c sĩ, c&aacute;c <strong><a href=\"https://nhathuoclongchau.com.vn/benh\">bệnh</a></strong> l&yacute; nền hiện tại, c&aacute;c tương t&aacute;c của thuốc đến thực phẩm hằng ng&agrave;y. Đọc kỹ hướng dẫn sử dụng thuốc v&agrave; nếu gặp t&aacute;c dụng phụ cần b&aacute;o ngay cho b&aacute;c sĩ.</p>"
+      },
+      {
+        "id": 370,
+        "title": "Sử dụng thuốc đúng cách như thế nào?",
+        "content": "<p>\r\n\r\nSử dụng <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> đ&uacute;ng c&aacute;ch l&agrave; uống thuốc theo chỉ dẫn của dược sĩ, b&aacute;c sĩ. Ngo&agrave;i ra kh&ocirc;ng d&ugrave;ng nước quả, nước kho&aacute;ng hoặc c&aacute;c loại nước ngọt đ&oacute;ng hộp c&oacute; gas để uống thuốc. Kh&ocirc;ng d&ugrave;ng sữa để uống thuốc v&igrave; trong th&agrave;nh phần của sữa c&oacute; chứa <strong><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/canxi\">canxi</a></strong>. Kh&ocirc;ng d&ugrave;ng c&agrave; ph&ecirc; hay nước ch&egrave; để uống thuốc. Chỉ n&ecirc;n uống c&ugrave;ng nước lọc.</p>"
+      },
+      {
+        "id": 369,
+        "title": "Các dạng bào chế của thuốc?",
+        "content": "<p>\r\n\r\nC&oacute; c&aacute;c dạng b&agrave;o chế thuốc như<br />\r\nTheo thể chất:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc thể rắn (thuốc bột, thuốc vi&ecirc;n).</li>\r\n\t<li>C&aacute;c dạng thuốc thể mềm (thuốc cao, thuốc mỡ, gel).</li>\r\n\t<li>C&aacute;c dạng thuốc thể lỏng (dung dịch, hỗn dịch, nhũ dịch, xiro).</li>\r\n</ul>\r\n\r\n<p>Theo đường d&ugrave;ng:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc uống (vi&ecirc;n, bột, dung dịch, nhũ dịch, hỗn dịch).</li>\r\n\t<li>C&aacute;c dạng thuốc ti&ecirc;m (dung dịch, hỗn dịch, nhũ dịch, bột pha ti&ecirc;m, dịch truyền).</li>\r\n\t<li>C&aacute;c dạng thuốc d&ugrave;ng ngo&agrave;i (thuốc b&ocirc;i tr&ecirc;n da, thuốc nhỏ l&ecirc;n ni&ecirc;m mạc, thuốc s&uacute;c miệng).</li>\r\n\t<li>C&aacute;c dạng thuốc đặt v&agrave;o c&aacute;c hốc tự nhi&ecirc;n tr&ecirc;n cơ thể (thuốc đặt hậu m&ocirc;n, thuốc trứng đặt &acirc;m đạo...).</li>\r\n</ul>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00005129",
+        "name": "NASONEX 60DOSE",
+        "webName": "Thuốc xịt mũi Nasonex Bayer điều trị viêm mũi dị ứng (60 liều)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005129_nasonex_60_1660_6387_large_686b538a0d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 775,
+            "name": "Thuốc trị hen suyễn",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 7333,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 205000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/nasonex-60-2924.html",
+        "ingredients": "Mometasone furoate 50mcg",
+        "dosageForm": "Hỗn dịch xịt mũi",
+        "brand": "Bayer",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp",
+        "prices": [
+          {
+            "id": 7333,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 205000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 74,
+      "items": [
+        {
+          "id": 3313676,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0939xxxxxx",
+          "name": "Duy Tuất",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 hộp giá nhiêu v em",
+          "createdAt": "2026-05-27 15:34:15",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-27 15:34:15",
+          "replies": [
+            {
+              "id": 3313685,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Thuỳ Trang",
+                "moderatorEmail": "trangttt64@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Thuỳ Trang",
+              "email": "trangttt64@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Duy,</p><p> Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-05-27 15:41:45",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-27 15:34:15",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3302041,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0980xxxxxx",
+          "name": "nga thùy",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 chai,mắc con nhỏ nên ko tiện nghe máy,trả ời tin nhắn giùm",
+          "createdAt": "2026-05-06 09:59:28",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-05-06 09:59:28",
+          "replies": [
+            {
+              "id": 3302052,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Thuỳ Trang",
+                "moderatorEmail": "trangttt64@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Thuỳ Trang",
+              "email": "trangttt64@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Nga,</p><p>Hiện tại, sản phẩm Cao lỏng thuốc hen P/H điều trị các thể hen phế quản (250ml) có giá 125,000 ₫/ Hộp. </p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-05-06 10:07:03",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-05-06 09:59:28",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3301978,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0387xxxxxx",
+          "name": "Chị Hương ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "hen ph giá bao nhiẻu",
+          "createdAt": "2026-05-06 09:21:19",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-05-06 09:21:19",
+          "replies": [
+            {
+              "id": 3301994,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Thuỳ Trang",
+                "moderatorEmail": "trangttt64@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Thuỳ Trang",
+              "email": "trangttt64@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hương,</p><p> Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-05-06 09:29:35",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-05-06 09:21:19",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3281566,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0979xxxxxx",
+          "name": "Chị Hương",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xịn giá 1 chai",
+          "createdAt": "2026-03-28 16:18:58",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-28 16:18:58",
+          "replies": [
+            {
+              "id": 3281570,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Trúc Ly",
+                "moderatorEmail": "lyltt4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Trúc Ly",
+              "email": "lyltt4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hương,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-03-28 16:24:33",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-28 16:18:58",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3280100,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0395xxxxxx",
+          "name": "Chị Lương",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bé 8 tháng hay bị viên tiểu phế quản ,tái đi tái lại liên tục, uống thooca này dự phòng đc ko",
+          "createdAt": "2026-03-25 22:34:33",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-25 22:34:33",
+          "replies": [
+            {
+              "id": 3280269,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thơm",
+                "moderatorEmail": "thomnt10@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thơm",
+              "email": "thomnt10@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Lương, </p><p>Dạ sản phẩm Cao lỏng thuốc hen P/H điều trị các thể hen phế quản (đặc biệt là thể mạn tính), viêm phế quản mạn tính, viêm phế quản thể co thắt, phổi tắc nghẽn mạn tính có biểu hiện: khó thở, ho, tức ngực, đờm nhiều.</p><p>Phòng ngừa cơn hen tái phát.</p><p>Nhà thuốc thông tin tới chị!</p>",
+              "createdAt": "2026-03-26 10:13:13",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-25 22:34:33",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 5,
+      "items": [
+        {
+          "id": 3298042,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0348xxxxxx",
+          "name": "Nguyễn Thị luyên",
+          "email": "luyenntbggch@gmail.com",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc rất tốt mình uống đợt nào cũng khỏi \nMà muốn mua thuốc ho pH nhưng giờ họ không bán nữa",
+          "createdAt": "2026-04-28 17:01:02",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-28 17:01:02",
+          "replies": [
+            {
+              "id": 3298048,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Trần Thủy Tiên",
+                "moderatorEmail": "tienntt19@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Trần Thủy Tiên",
+              "email": "tienntt19@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Uyên,</p><p> Dạ nhà thuốc FPT Long Châu rất cảm ơn chị luôn tin tưởng và ủng hộ. Chúc chị nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-04-28 17:04:58",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-28 17:01:02",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3296141,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0388xxxxxx",
+          "name": "Anh Thắng",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Xin giá thuốc ạ",
+          "createdAt": "2026-04-23 21:46:09",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-23 21:46:09",
+          "replies": [
+            {
+              "id": 3296143,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trịnh Thu Nga",
+                "moderatorEmail": "ngatt24@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trịnh Thu Nga",
+              "email": "ngatt24@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Thắng,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-04-23 21:47:30",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-23 21:46:09",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3218151,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0326xxxxxx",
+          "name": "CHị Mai",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2025-11-23 01:02:53",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-23 01:02:53",
+          "replies": [
+            {
+              "id": 3218208,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Nhật Tân",
+                "moderatorEmail": "tannn23@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Nhật Tân",
+              "email": "tannn23@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào <strong>CHị Mai</strong>,</p><p>Dạ rất cảm ơn tình cảm của chị dành cho Nhà thuốc FPT Long Châu. Chúc chị nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2025-11-23 08:53:00",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-23 01:02:53",
+              "replies": []
+            },
+            {
+              "id": 3245694,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0342xxxxxx",
+              "name": "Ngọc Bạch",
+              "email": "bachngoc250325@gmail.com",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Cậu mình bị hen phế quản. Tăc nghẻn phỏi bên phải. Dùng ph được k a. Cách dùng",
+              "createdAt": "2026-01-14 21:29:45",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2025-11-23 01:02:53",
+              "replies": []
+            },
+            {
+              "id": 3245697,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thị Phượng",
+                "moderatorEmail": "phuonght34@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Thị Phượng",
+              "email": "phuonght34@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Ngọc Bạch,</p><p>Dạ sản phẩm là thuốc kê đơn, anh nên dùng theo chỉ định của bác sĩ ạ.</p><p>Nhà thuốc thông tin đến anh ạ.</p>",
+              "createdAt": "2026-01-14 21:34:45",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2025-11-23 01:02:53",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 1462887,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0856xxxxxx",
+          "name": "chị oanh",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2024-06-22 14:50:50",
+          "createdAtDisplay": "22/06/2024",
+          "updatedAt": "2024-06-22 14:52:19",
+          "replies": [
+            {
+              "id": 1462898,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Khánh Linh",
+                "moderatorEmail": "LinhNK32@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Khánh Linh",
+              "email": "LinhNK32@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào chị Oanh,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ rất cảm ơn tình cảm của chị dành cho nhà thuốc FPT Long châu. Bất cứ khi nào chị cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.  </span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p>",
+              "createdAt": "2024-06-22 14:52:19",
+              "createdAtDisplay": "22/06/2024",
+              "updatedAt": "2024-06-22 14:52:19",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 38729,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0935xxxxxx",
+          "name": "nhu phuc",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "hieu qua",
+          "createdAt": "2021-12-19 00:51:08",
+          "createdAtDisplay": "19/12/2021",
+          "updatedAt": "2023-05-12 23:25:11",
+          "replies": [
+            {
+              "id": 38740,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Đoàn Tú Quyên",
+                "moderatorEmail": "QuyenNDT@fpt.com.vn",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Đoàn Tú Quyên",
+              "email": "QuyenNDT@fpt.com.vn",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn&nbsp;nhu phuc&nbsp;<br>\nCảm ơn bạn đã ủng hộ ạ&nbsp;<br>\nDạ&nbsp;Vui lòng liên hệ tổng đài 18006928 để được tư vấn và đặt hàng.&nbsp;<br>\nThân mến!</p>",
+              "createdAt": "2021-12-19 08:14:02",
+              "createdAtDisplay": "19/12/2021",
+              "updatedAt": "2023-05-12 23:25:11",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 5
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Cao lỏng thuốc hen P/H điều trị các thể hen phế quản (250ml)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_6471_5b98_large_e7251b8c4e.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_5376_5b98_large_77e0c225de.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_6220_5b98_large_c71af9f120.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_1883_5b98_large_9431e78c4b.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_1140_5b98_large_3025a986ea.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_3190_6087_large_011d501e13.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc hen P/H là sản phẩm của Công ty TNHH Đông Dược Phúc Hưng, thành phần chính bao gồm các loại thảo dược như Ma hoàng, Bán hạ, Ngũ vị tử, Tỳ bà diệp, Cam thảo, Tế tân, Can khương, Hạnh nhân, Bối mẫu và Trần bì. Thuốc dùng để điều trị các thể hen phế quản (đặc biệt là thể mạn tính), viêm phế quản mạn tính, viêm phế quản thể co thắt, phổi tắc nghẽn mạn tính. Ngoài ra, thuốc hen P/H còn được chỉ định phòng ngừa cơn hen tái phát.\n\nThuốc hen P/H được bào chế dạng cao lỏng. Thuốc được đóng gói theo quy cách hộp 1 lọ chứa 250 ml cao lỏng.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "5"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Hen P/H điều trị các thể hen phế quản",
+      "description": "Thuốc Hen P/H thành phần chính bao gồm các loại thảo dược như Ma hoàng, Bán hạ, Ngũ vị tử, Tỳ bà diệp, Cam thảo, Tế tân, Can khương, Hạnh nhân, Bối mẫu và Trần bì. Thuốc dùng để điều trị các thể hen phế quản (đặc biệt là thể mạn tính), viêm phế quản mạn tính.",
+      "openGraph": {
+        "title": "Cao lỏng thuốc hen P/H điều trị các thể hen phế quản (250ml)",
+        "description": "Thuốc hen P/H là sản phẩm của Công ty TNHH Đông Dược Phúc Hưng, thành phần chính bao gồm các loại thảo dược như Ma hoàng, Bán hạ, Ngũ vị tử, Tỳ bà diệp, Cam thảo, Tế tân, Can khương, Hạnh nhân, Bối mẫu và Trần bì. Thuốc dùng để điều trị các thể hen phế quản (đặc biệt là thể mạn tính), viêm phế quản mạn tính, viêm phế quản thể co thắt, phổi tắc nghẽn mạn tính. Ngoài ra, thuốc hen P/H còn được chỉ định phòng ngừa cơn hen tái phát.\n\nThuốc hen P/H được bào chế dạng cao lỏng. Thuốc được đóng gói theo quy cách hộp 1 lọ chứa 250 ml cao lỏng.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007319_thuoc_hen_ph_6471_5b98_large_e7251b8c4e.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/thuoc-hen-ph-2004.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/thuoc-hen-ph-2004.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

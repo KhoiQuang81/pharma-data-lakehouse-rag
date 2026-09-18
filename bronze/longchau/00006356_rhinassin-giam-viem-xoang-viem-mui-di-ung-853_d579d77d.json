@@ -1,0 +1,1047 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/rhinassin-giam-viem-xoang-viem-mui-di-ung-853.html",
+  "ingestion_timestamp": "2026-09-05T11:06:09.195293+00:00",
+  "file_hash": "491801261c6b91100f131c66fdd6f2a094800d46f8fdc9db399052aa1b90db3e",
+  "lineage_hash": "3713295c5f0687571889ae542a50d74ca930af658555557ffde8092cccba20b8",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/rhinassin-giam-viem-xoang-viem-mui-di-ung-853.html",
+    "product": {
+      "sku": "00006356",
+      "webName": "Thuốc Rhinassin-OPC điều trị viêm xoang, viêm mũi dị ứng (5 vỉ x 10 viên)",
+      "name": "RHINASSIN OPC 5X10 - VIÊN MŨI XOANG",
+      "shortName": "RHINASSIN OPC 5X10",
+      "headingText": "Thuốc Rhinassin",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006356_rhinassin_giam_viem_xoang_viem_mui_di_ung_9452_5b16_large_82efd5b9a3.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006356_rhinassin_giam_viem_xoang_viem_mui_di_ung_8517_5b16_large_d2f2744ca9.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006356_rhinassin_giam_viem_xoang_viem_mui_di_ung_5099_5b16_large_b62e96135e.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006356_rhinassin_giam_viem_xoang_viem_mui_di_ung_3392_5b16_large_32400d4032.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 732,
+          "name": "Thuốc Mắt, Tai, Mũi, Họng",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-mat-tai-mui-hong",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 787,
+          "name": "Thuốc trị viêm xoang",
+          "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+          "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 5 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "5 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/rhinassin-giam-viem-xoang-viem-mui-di-ung-853.html",
+      "ingredient": [
+        {
+          "id": 25268,
+          "ingredientId": 32396,
+          "shortDescription": "300mg",
+          "name": "Phòng phong",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 25269,
+          "ingredientId": 37439,
+          "shortDescription": "300mg",
+          "name": "Tân di hoa",
+          "isPrimary": false,
+          "slug": "thanh-phan/tan-di-hoa"
+        },
+        {
+          "id": 25270,
+          "ingredientId": 38387,
+          "shortDescription": "400mg",
+          "name": "Thương nhĩ tử",
+          "isPrimary": false,
+          "slug": "thanh-phan/thuong-nhi-tu"
+        },
+        {
+          "id": 25271,
+          "ingredientId": 22437,
+          "shortDescription": "500mg",
+          "name": "Hoàng kỳ",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 25272,
+          "ingredientId": 10043,
+          "shortDescription": "100mg",
+          "name": "Bạc hà",
+          "isPrimary": false,
+          "slug": "thanh-phan/bac-ha"
+        },
+        {
+          "id": 25273,
+          "ingredientId": 10072,
+          "shortDescription": "300mg",
+          "name": "Bạch chỉ",
+          "isPrimary": false,
+          "slug": "thanh-phan/bach-chi"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-22955-15",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang cứng",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Thuốc viên mũi - xoang Rhinassin dùng đường uống.</p>\n\n<p>Uống sau bữa ăn.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p><em>Người lớn và trẻ em trên 12 tuổi</em></p>\n\n<p>Uống mỗi lần 3 viên, ngày 3 lần.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Cho đến nay chưa có báo cáo về dùng thuốc quá liều.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc viên mũi - xoang Rhinassin</strong> được chỉ định dùng trong trường hợp cần điều trị viêm xoang, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\"><strong>viêm mũi dị ứng</strong></a>, các chứng nghẹt mũi, sổ mũi.</p><h3><strong>Dược lực học</strong></h3><p>Chưa có báo cáo.</p><h3><strong>Dược động học</strong></h3><p>Chưa có báo cáo.</p>",
+      "brand": "Opc",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc viên mũi - xoang Rhinassin</strong>, chưa có báo cáo về việc gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 5 Vỉ x 10 Viên",
+      "indications": [
+        {
+          "id": 13,
+          "name": "Viêm mũi",
+          "slug": "benh/viem-mui-472.html"
+        },
+        {
+          "id": 14,
+          "name": "Viêm mũi dị ứng",
+          "slug": "benh/viem-mui-di-ung-473.html"
+        },
+        {
+          "id": 43,
+          "name": "Viêm xoang",
+          "slug": "benh/viem-xoang-479.html"
+        },
+        {
+          "id": 1115,
+          "name": "Nghẹt mũi",
+          "slug": "benh/nghet-mui-855.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "OPC",
+      "shortDescription": "<p><strong>Thuốc viên mũi - xoang Rhinassin</strong> được sản xuất bởi <i>Công ty Cổ phần Dược phẩm OPC</i>, có thành phần từ dược liệu như quả thương nhĩ tử (fructus xanthii strumarii), nụ tân di hoa (flos magnoliae)… được chỉ định để điều trị viêm xoang, viêm mũi dị ứng, các chứng nghẹt mũi, sổ mũi.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Trên 12 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Phụ nữ cho con bú"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/opc",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "VIÊN MŨI-XOANG RHINASSIN-OPC",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 5 Vỉ x 10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 787,
+        "name": "Thuốc trị viêm xoang",
+        "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+        "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006356_rhinassin_giam_viem_xoang_viem_mui_di_ung_9452_5b16_large_82efd5b9a3.JPG",
+          "alternativeText": "Thuốc Rhinassin-OPC điều trị viêm xoang, viêm mũi dị ứng (5 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006356_rhinassin_giam_viem_xoang_viem_mui_di_ung_8517_5b16_large_d2f2744ca9.JPG",
+          "alternativeText": "Thuốc Rhinassin-OPC điều trị viêm xoang, viêm mũi dị ứng (5 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006356_rhinassin_giam_viem_xoang_viem_mui_di_ung_5099_5b16_large_b62e96135e.JPG",
+          "alternativeText": "Thuốc Rhinassin-OPC điều trị viêm xoang, viêm mũi dị ứng (5 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006356_rhinassin_giam_viem_xoang_viem_mui_di_ung_3392_5b16_large_32400d4032.JPG",
+          "alternativeText": "Thuốc Rhinassin-OPC điều trị viêm xoang, viêm mũi dị ứng (5 vỉ x 10 viên) 4"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc Mắt, Tai, Mũi, Họng",
+        "slug": "/thuoc/thuoc-mat-tai-mui-hong"
+      },
+      {
+        "name": "Thuốc trị viêm xoang",
+        "slug": "/thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang"
+      }
+    ],
+    "content": {
+      "sku": "00006356",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Thuốc viên mũi - xoang Rhinassin dùng đường uống.</p>\n\n<p>Uống sau bữa ăn.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p><em>Người lớn và trẻ em trên 12 tuổi</em></p>\n\n<p>Uống mỗi lần 3 viên, ngày 3 lần.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Cho đến nay chưa có báo cáo về dùng thuốc quá liều.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ hướng dẫn sử dụng thuốc Viên Mũi - Xoang Rhinassin .</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc viên mũi - xoang Rhinassin</strong>, chưa có báo cáo về việc gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Nơi khô mát, nhiệt độ dưới 30°C.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc viên mũi - xoang Rhinassin</strong> được chỉ định dùng trong trường hợp cần điều trị viêm xoang, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\"><strong>viêm mũi dị ứng</strong></a>, các chứng nghẹt mũi, sổ mũi.</p><h3><strong>Dược lực học</strong></h3><p>Chưa có báo cáo.</p><h3><strong>Dược động học</strong></h3><p>Chưa có báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3><strong>Chống chỉ định</strong></h3>\n\n<p><strong>Thuốc viên mũi - xoang Rhinassin</strong> chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Không dùng cho trẻ em dưới 12 tuổi.</p>\n\t</li>\n\t<li>\n\t<p>Không dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.</p>\n\t</li>\n</ul>\n\n<h3><strong>Thận trọng khi sử dụng</strong></h3>\n\n<p>Thận trọng khi dùng cho phụ nữ có thai và cho con bú.</p>\n\n<h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Thời kỳ mang thai </strong></h3>\n\n<p>Sử dụng thận trọng cho phụ nữ mang thai.</p>\n\n<h3><strong>Thời kỳ cho con bú</strong></h3>\n\n<p>Sử dụng thận trọng cho phụ nữ cho con bú.</p>\n\n<h3><strong>Tương tác thuốc</strong></h3>\n\n<p>Cho đến nay chưa có thông tin báo cáo về tương tác thuốc.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Rhinassin-OPC trị viêm xoang, viêm mũi dị ứng (50 viên)",
+        "metaDescription": "Thuốc Rhinassin-OPC được chỉ định để điều trị viêm xoang, viêm mũi dị ứng, các chứng nghẹt mũi, sổ mũi. Được bào chế dưới dạng viên nang cứng.",
+        "id": 3587,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006356_rhinassin_giam_viem_xoang_viem_mui_di_ung_9452_5b16_large_82efd5b9a3.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc Rhinassin-OPC điều trị viêm xoang, viêm mũi dị ứng (5 vỉ x 10 viên)",
+            "description": "Thuốc viên mũi - xoang Rhinassin được sản xuất bởi Công ty Cổ phần Dược phẩm OPC, có thành phần từ dược liệu như quả thương nhĩ tử (fructus xanthii strumarii), nụ tân di hoa (flos magnoliae)… được chỉ định để điều trị viêm xoang, viêm mũi dị ứng, các chứng nghẹt mũi, sổ mũi."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 34268,
+        "title": "Cần lưu ý gì khi sử dụng Thuốc Rhinassin-OPC cho phụ nữ có thai và cho con bú?",
+        "content": "<p>Cần sử dụng thận trọng Thuốc Rhinassin-OPC cho phụ nữ có thai và cho con bú.</p>"
+      },
+      {
+        "id": 34267,
+        "title": "Ai không nên sử dụng Thuốc Rhinassin-OPC?",
+        "content": "<p>Thuốc Rhinassin-OPC chống chỉ định cho trẻ em dưới 12 tuổi và bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.</p>"
+      },
+      {
+        "id": 34266,
+        "title": "Có báo cáo về tác dụng phụ khi sử dụng Thuốc Rhinassin-OPC không?",
+        "content": "<p>Cho đến nay, chưa có báo cáo về các tác dụng không mong muốn (ADR) khi sử dụng thuốc viên mũi - xoang Rhinassin. Tuy nhiên, nếu gặp bất kỳ tác dụng phụ nào, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất.</p>"
+      },
+      {
+        "id": 34265,
+        "title": "Thuốc Rhinassin-OPC được sử dụng bằng đường nào và liều dùng như thế nào?",
+        "content": "<p>Thuốc Rhinassin-OPC được sử dụng bằng đường uống, sau bữa ăn. Liều dùng tham khảo cho người lớn và trẻ em trên 12 tuổi là 3 viên mỗi lần, ngày 3 lần. Tuy nhiên, liều dùng cụ thể có thể thay đổi tùy thuộc vào tình trạng bệnh, do đó cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>"
+      },
+      {
+        "id": 34264,
+        "title": "Thuốc Rhinassin-OPC được chỉ định để điều trị những tình trạng nào?",
+        "content": "<p>Thuốc Rhinassin-OPC được chỉ định để điều trị viêm xoang, viêm mũi dị ứng, các chứng nghẹt mũi và sổ mũi.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00047549",
+        "name": "THUỐC VIÊM XOANG CAP ABIPHA 3X10",
+        "webName": "Thuốc viêm xoang Abipha Cap điều trị viêm xoang, nghẹt mũi, sổ mũi, viêm mũi dị ứng (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_viem_xoang_cap_abipha_3x10_00047549_4233dd3c24.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 787,
+            "name": "Thuốc trị viêm xoang",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 74403,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 3500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/viem-xoang-cap-abipha-3-x10.html",
+        "ingredients": "Bạch chỉ 225mg, Thương nhĩ tử 300mg, Phòng phong 225mg, Hoàng kỳ 375mg, Tân di hoa 225mg, Bạc hà 75mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Abipha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 74401,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 105000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 74402,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 35000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 74403,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 3500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007313",
+        "name": "THÔNG XOANG TÁN NAM DƯỢC 50V",
+        "webName": "Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính (50 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6737_7094894b19.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 787,
+            "name": "Thuốc trị viêm xoang",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10676,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 125000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thong-xoang-tan-ho-tro-dieu-tri-viem-xoang-252.html",
+        "ingredients": "Thăng ma 200mg, Phòng phong 200mg, Cảo bản 200mg, Xuyên khung 100mg, Bạch chỉ 300mg, Tế tân 200mg, Tân di 200mg, Cam thảo 100mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Nam Dược",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 50 Viên",
+        "prices": [
+          {
+            "id": 10675,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 2500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10676,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 125000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 28,
+      "items": [
+        {
+          "id": 3338569,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0929xxxxxx",
+          "name": "như thới",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 hộp",
+          "createdAt": "2026-07-14 08:50:39",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-14 08:50:39",
+          "replies": [
+            {
+              "id": 3338581,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thuỳ Linh",
+                "moderatorEmail": "linhntt67@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thuỳ Linh",
+              "email": "linhntt67@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Như Thới,</p><p>Hiện tại, sản phẩm Thuốc Rhinassin-OPC điều trị viêm xoang, viêm mũi dị ứng (5 vỉ x 10 viên) có giá 76,900 ₫/Hộp ạ.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a>&nbsp;</strong>để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-07-14 08:54:41",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-14 08:50:39",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3297063,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0369xxxxxx",
+          "name": "KIM",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1h nhiêu vậy em",
+          "createdAt": "2026-04-26 10:00:32",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-26 10:00:32",
+          "replies": [
+            {
+              "id": 3297066,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trịnh Thị Mỹ Vi",
+                "moderatorEmail": "vittm2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trịnh Thị Mỹ Vi",
+              "email": "vittm2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Kim</p><p>Hiện tại, sản phẩm Thuốc Rhinassin-OPC điều trị viêm xoang, viêm mũi dị ứng (5 vỉ x 10 viên) có giá 76,900 ₫/ hộp ạ</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-04-26 10:02:23",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-26 10:00:32",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3294289,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0394xxxxxx",
+          "name": "Huyen Thieu",
+          "email": "thieuhuyen2629@gmail.com",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc này còn trên hệ thống nhà thuốc không ạ",
+          "createdAt": "2026-04-21 10:13:25",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-21 10:13:25",
+          "replies": [
+            {
+              "id": 3294312,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Hồng Ngọc",
+                "moderatorEmail": "ngoctth25@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Hồng Ngọc",
+              "email": "ngoctth25@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Huyen Thieu</p><p> Dạ sản phẩm còn hàng trên hệ thống Nhà thuốc FPT Long Châu.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với Chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-04-21 10:39:44",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-21 10:13:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3276496,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0359xxxxxx",
+          "name": "Thanh Yên",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Cho hỏi đây có phải thuốc kháng sinh không ạ? Và nếu bị sổ mũi do nằm điều hòa, có kèm đau họng, thì nên dùng Tiffy hay thuốc này ạ?",
+          "createdAt": "2026-03-19 12:09:49",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-19 12:09:49",
+          "replies": [
+            {
+              "id": 3276501,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Minh Tiến",
+                "moderatorEmail": "tiennm50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Minh Tiến",
+              "email": "tiennm50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Yên, </p><p>Thuốc Rhinassin-OPC không phải là thuốc kháng sinh, nếu đang có các triệu chứng sốt, đau đầu, nghẹt mũi, sổ mũi và hắt hơi ở mức nhẹ thì có thể dùng Tiffy&nbsp; và theo dõi thêm ạ</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-03-19 12:18:55",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-19 12:09:49",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3235084,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0825xxxxxx",
+          "name": "em Chi",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Hiện tại giá sp bao nhiêu 1 hộp ạ?",
+          "createdAt": "2025-12-25 12:00:15",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2025-12-25 12:00:15",
+          "replies": [
+            {
+              "id": 3235093,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Nhật Tân",
+                "moderatorEmail": "tannn23@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Nhật Tân",
+              "email": "tannn23@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị <strong>Chi</strong></p><p>Hiện tại sản phẩm Thuốc Rhinassin-OP đang có giá 76,900 ₫.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2025-12-25 12:11:05",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-12-25 12:00:15",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 3160892,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0965xxxxxx",
+          "name": "Anh Hòa",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "loại này có chứa corticoid ko bạn",
+          "createdAt": "2025-08-11 18:31:52",
+          "createdAtDisplay": "11/08/2025",
+          "updatedAt": "2025-08-11 18:31:49",
+          "replies": [
+            {
+              "id": 3160893,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Phương Vân",
+                "moderatorEmail": "vanntp@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Phương Vân",
+              "email": "vanntp@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Hòa,</p><p>Dạ Thuốc Rhinassin-OPC điều trị viêm xoang, viêm mũi dị ứng&nbsp;không chứa corticoid ạ.</p><p>Nhà thuốc thông tin đến anh.</p><p>Thân mến!</p>",
+              "createdAt": "2025-08-11 18:32:55",
+              "createdAtDisplay": "11/08/2025",
+              "updatedAt": "2025-08-11 18:31:49",
+              "replies": []
+            },
+            {
+              "id": 3160894,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0965xxxxxx",
+              "name": "Anh Hòa",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "cảm ơn bạn vân nhé ",
+              "createdAt": "2025-08-11 18:35:40",
+              "createdAtDisplay": "11/08/2025",
+              "updatedAt": "2025-08-11 18:31:49",
+              "replies": []
+            },
+            {
+              "id": 3160895,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Phương Vân",
+                "moderatorEmail": "vanntp@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Phương Vân",
+              "email": "vanntp@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Hòa,</p><p>Dạ rất cảm ơn tình cảm của anh dành cho nhà thuốc FPT Long châu. </p><p>Bất cứ khi nào anh cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.</p><p>Thân mến!</p>",
+              "createdAt": "2025-08-11 18:36:51",
+              "createdAtDisplay": "11/08/2025",
+              "updatedAt": "2025-08-11 18:31:49",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Rhinassin-OPC điều trị viêm xoang, viêm mũi dị ứng (5 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006356_rhinassin_giam_viem_xoang_viem_mui_di_ung_9452_5b16_large_82efd5b9a3.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006356_rhinassin_giam_viem_xoang_viem_mui_di_ung_8517_5b16_large_d2f2744ca9.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006356_rhinassin_giam_viem_xoang_viem_mui_di_ung_5099_5b16_large_b62e96135e.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006356_rhinassin_giam_viem_xoang_viem_mui_di_ung_3392_5b16_large_32400d4032.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc viên mũi - xoang Rhinassin được sản xuất bởi Công ty Cổ phần Dược phẩm OPC, có thành phần từ dược liệu như quả thương nhĩ tử (fructus xanthii strumarii), nụ tân di hoa (flos magnoliae)… được chỉ định để điều trị viêm xoang, viêm mũi dị ứng, các chứng nghẹt mũi, sổ mũi.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Rhinassin-OPC trị viêm xoang, viêm mũi dị ứng (50 viên)",
+      "description": "Thuốc Rhinassin-OPC được chỉ định để điều trị viêm xoang, viêm mũi dị ứng, các chứng nghẹt mũi, sổ mũi. Được bào chế dưới dạng viên nang cứng.",
+      "openGraph": {
+        "title": "Thuốc Rhinassin-OPC điều trị viêm xoang, viêm mũi dị ứng (5 vỉ x 10 viên)",
+        "description": "Thuốc viên mũi - xoang Rhinassin được sản xuất bởi Công ty Cổ phần Dược phẩm OPC, có thành phần từ dược liệu như quả thương nhĩ tử (fructus xanthii strumarii), nụ tân di hoa (flos magnoliae)… được chỉ định để điều trị viêm xoang, viêm mũi dị ứng, các chứng nghẹt mũi, sổ mũi.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006356_rhinassin_giam_viem_xoang_viem_mui_di_ung_9452_5b16_large_82efd5b9a3.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/rhinassin-giam-viem-xoang-viem-mui-di-ung-853.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/rhinassin-giam-viem-xoang-viem-mui-di-ung-853.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

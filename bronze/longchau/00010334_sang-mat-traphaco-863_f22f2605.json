@@ -1,0 +1,2021 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/sang-mat-traphaco-863.html",
+  "ingestion_timestamp": "2026-09-05T11:12:02.541455+00:00",
+  "file_hash": "e3f215cbff9e304e0600e54b09d4784188829eeab2101313517a1bbbf43ebf1c",
+  "lineage_hash": "d7677d4412c3156c12c01251eb8c8232f303255575d5162ab2e0f2a592a3e6fa",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/sang-mat-traphaco-863.html",
+    "product": {
+      "sku": "00010334",
+      "webName": "Thuốc Sáng Mắt Traphaco điều trị mờ mắt, nhức mắt (3 vỉ x 10 viên)",
+      "name": "SÁNG MẮT TRAPHACO 3X10",
+      "shortName": "SÁNG MẮT TRAPHACO 3X10",
+      "headingText": "Thuốc Sáng Mắt",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_9856_5b0f_large_6bd13f2496.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_8741_5b0f_large_5eafef5de1.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_3471_5b0f_large_b741f360ac.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_7944_5b0f_large_b6efa0be8d.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_4381_5b0f_large_a34663cf03.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 727,
+          "name": "Thuốc bổ & vitamin",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-bo-and-vitamin",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 752,
+          "name": "Thuốc bổ",
+          "parentName": "Thuốc bổ & vitamin",
+          "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 62000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": 20667,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": 2067,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/sang-mat-traphaco-863.html",
+      "ingredient": [
+        {
+          "id": 25191,
+          "ingredientId": 21859,
+          "shortDescription": "50mg",
+          "name": "Hạ khô thảo",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 25192,
+          "ingredientId": 18784,
+          "shortDescription": "160mg",
+          "name": "Đương quy",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 25193,
+          "ingredientId": 38102,
+          "shortDescription": "286mg",
+          "name": "Thảo quyết minh",
+          "isPrimary": false,
+          "slug": "thanh-phan/thao-quyet-minh"
+        },
+        {
+          "id": 25194,
+          "ingredientId": 21866,
+          "shortDescription": "221mg",
+          "name": "Hà thủ ô đỏ",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 25195,
+          "ingredientId": 16076,
+          "shortDescription": "112mg",
+          "name": "Cúc hoa",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 25196,
+          "ingredientId": 39013,
+          "shortDescription": "206mg",
+          "name": "Trạch tả",
+          "isPrimary": false,
+          "slug": "thanh-phan/trach-ta"
+        },
+        {
+          "id": 25197,
+          "ingredientId": 22414,
+          "shortDescription": "247mg",
+          "name": "Hoài Sơn",
+          "isPrimary": false,
+          "slug": "thanh-phan/hoai-son"
+        },
+        {
+          "id": 25198,
+          "ingredientId": 38361,
+          "shortDescription": "206mg",
+          "name": "Thục địa",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-21455-14",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang mềm",
+      "dosage": "<h3>Cách dùng</h3><p>Viên sáng mắt Traphaco dùng đường uống.</p><h3>Liều dùng</h3><p>Người lớn: Ngày uống 2 - 3 viên/lần x 3 lần/ngày.</p><p>Trẻ em: Uống 1 viên/lần x 3 lần/ngày.</p><p>Thời gian sử dụng 4 - 6 tuần hoặc lâu hơn tùy tình trạng bệnh.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Chưa có báo cáo.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc viên sáng mắt Traphaco được chỉ định dùng trong các bệnh về mắt do can thận âm hư, huyết hư như:</p><ul><li>Mờ mắt, nhức mắt, <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mat-548.html\">khô mắt</a>, chói mắt khi ra nắng.</li><li>Các trường hợp mắt đỏ nóng, xung huyết, hỗ trợ trong điều trị viêm võng mạc và viêm tuyến lệ.</li><li>Thị lực giảm.</li><li>Đau đầu chóng mặt, nóng đỉnh đầu, ban chẩn, dị ứng, mẩn ngứa (đặc biệt vùng đầu, mặt).</li></ul><h3>Dược lực học</h3><p>Chưa có báo cáo.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+      "brand": "Traphaco",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc viên sáng mắt Traphaco, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p>Chưa phát hiện thấy tác dụng không mong muốn của thuốc.</p><p><i>Hướng dẫn cách xử trí ADR:</i></p><p>Nếu có bất thường khi dùng thuốc cần ngừng ngay và báo cho được sỹ hoặc bác sỹ biết để xử lý.</p>",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "indications": [
+        {
+          "id": 155,
+          "name": "Nhức mỏi mắt",
+          "slug": "benh/nhuc-moi-mat-398.html"
+        },
+        {
+          "id": 261,
+          "name": "Khô mắt",
+          "slug": "benh/kho-mat-548.html"
+        },
+        {
+          "id": 1085,
+          "name": "Nhìn mờ",
+          "slug": null
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "TRAPHACO",
+      "shortDescription": "<p>Viên sáng mắt Traphaco là sản phẩm của Công ty Cổ phần Traphaco, thành phần chính là bột đương qui và hỗn hợp cao khô dược liệu, là thuốc dùng để điều trị <strong>các bệnh về mắt do can thận âm hư, huyết hư</strong>.</p>",
+      "description": "<p><strong>Giới thiệu thuốc Viên sáng mắt Traphaco:</strong></p><ul><li><strong>Chỉ định: </strong>Dùng để điều trị các bệnh về mắt do can thận âm hư, huyết hư.</li><li><strong>Cách dùng: </strong>Dùng đường uống.</li><li><strong>Đối tượng sử dụng: </strong>Người lớn và trẻ em mắc các bệnh về mắt do can thận âm hư, huyết hư.</li><li><strong>Lưu ý khi sử dụng: </strong>Thời gian sử dụng 4 - 6 tuần hoặc lâu hơn tùy tình trạng bệnh. Tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</li><li><strong>Chống chỉ định:</strong> Người mẫn cảm với bất kỳ thành phần nào của thuốc.</li></ul>",
+      "prescription": false,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": true,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/traphaco",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "SÁNG MẮT",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": 62000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 3 Vỉ x 10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 752,
+        "name": "Thuốc bổ",
+        "parentName": "Thuốc bổ & vitamin",
+        "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_9856_5b0f_large_6bd13f2496.JPG",
+          "alternativeText": "Thuốc Sáng Mắt Traphaco điều trị mờ mắt, nhức mắt (3 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_8741_5b0f_large_5eafef5de1.JPG",
+          "alternativeText": "Thuốc Sáng Mắt Traphaco điều trị mờ mắt, nhức mắt (3 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_3471_5b0f_large_b741f360ac.JPG",
+          "alternativeText": "Thuốc Sáng Mắt Traphaco điều trị mờ mắt, nhức mắt (3 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_7944_5b0f_large_b6efa0be8d.JPG",
+          "alternativeText": "Thuốc Sáng Mắt Traphaco điều trị mờ mắt, nhức mắt (3 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_4381_5b0f_large_a34663cf03.JPG",
+          "alternativeText": "Thuốc Sáng Mắt Traphaco điều trị mờ mắt, nhức mắt (3 vỉ x 10 viên) 5"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 62000,
+        "itemCode": "00010334",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 62000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 20667,
+        "itemCode": "00010334",
+        "unitCode": 13,
+        "maxValue": 0,
+        "price": 20667,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 2067,
+        "itemCode": "00010334",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 2067,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc bổ & vitamin",
+        "slug": "/thuoc/thuoc-bo-and-vitamin"
+      },
+      {
+        "name": "Thuốc bổ",
+        "slug": "/thuoc/thuoc-bo-and-vitamin/thuoc-bo"
+      }
+    ],
+    "content": {
+      "sku": "00010334",
+      "dosage": "<h3>Cách dùng</h3><p>Viên sáng mắt Traphaco dùng đường uống.</p><h3>Liều dùng</h3><p>Người lớn: Ngày uống 2 - 3 viên/lần x 3 lần/ngày.</p><p>Trẻ em: Uống 1 viên/lần x 3 lần/ngày.</p><p>Thời gian sử dụng 4 - 6 tuần hoặc lâu hơn tùy tình trạng bệnh.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Chưa có báo cáo.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Viên sáng mắt Traphaco.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc viên sáng mắt Traphaco, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p>Chưa phát hiện thấy tác dụng không mong muốn của thuốc.</p><p><i>Hướng dẫn cách xử trí ADR:</i></p><p>Nếu có bất thường khi dùng thuốc cần ngừng ngay và báo cho được sỹ hoặc bác sỹ biết để xử lý.</p>",
+      "preservation": "<p>Để nơi khô ráo, nhiệt độ không quá 30<sup>o</sup>C, tránh ánh sáng.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc viên sáng mắt Traphaco được chỉ định dùng trong các bệnh về mắt do can thận âm hư, huyết hư như:</p><ul><li>Mờ mắt, nhức mắt, <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mat-548.html\">khô mắt</a>, chói mắt khi ra nắng.</li><li>Các trường hợp mắt đỏ nóng, xung huyết, hỗ trợ trong điều trị viêm võng mạc và viêm tuyến lệ.</li><li>Thị lực giảm.</li><li>Đau đầu chóng mặt, nóng đỉnh đầu, ban chẩn, dị ứng, mẩn ngứa (đặc biệt vùng đầu, mặt).</li></ul><h3>Dược lực học</h3><p>Chưa có báo cáo.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p>Thuốc viên sáng mắt Traphaco chống chỉ định trong các trường hợp sau:</p><ul><li>Người mẫn cảm với bất kỳ thành phần nào của thuốc.</li></ul><h3>Thận trọng khi sử dụng</h3><p>Sản phẩm chứa:</p><ul><li>Dầu đậu nành: Không nên sử dụng nếu bị dị ứng với lạc hoặc đậu nành.</li><li>Sorbitol: Nên liên hệ bác sĩ trước khi dùng thuốc nếu mắc chứng không dung nạp đường.</li><li>Methylparaben, propylparaben: Có thể gây phản ứng dị ứng (có thể là dị ứng muộn).</li></ul><h3>Khả năng lái xe và vận hành máy móc</h3><p>Chưa có báo cáo.</p><h3>Thời kỳ mang thai</h3><p>Thận trọng khi dùng cho phụ nữ có thai và cho con bú.</p><h3>Thời kỳ cho con bú</h3><p>Thận trọng khi dùng cho phụ nữ có thai và cho con bú.</p><h3>Tương tác thuốc</h3><p>Chưa phát hiện thấy tương tác của thuốc với các thuốc khác.</p>",
+      "description": "<p><strong>Giới thiệu thuốc Viên sáng mắt Traphaco:</strong></p><ul><li><strong>Chỉ định: </strong>Dùng để điều trị các bệnh về mắt do can thận âm hư, huyết hư.</li><li><strong>Cách dùng: </strong>Dùng đường uống.</li><li><strong>Đối tượng sử dụng: </strong>Người lớn và trẻ em mắc các bệnh về mắt do can thận âm hư, huyết hư.</li><li><strong>Lưu ý khi sử dụng: </strong>Thời gian sử dụng 4 - 6 tuần hoặc lâu hơn tùy tình trạng bệnh. Tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</li><li><strong>Chống chỉ định:</strong> Người mẫn cảm với bất kỳ thành phần nào của thuốc.</li></ul>",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Viên Sáng Mắt Traphaco trị Mờ mắt, nhức mắt",
+        "metaDescription": "Viên Sáng Mắt Traphaco điều trị các bệnh về mắt như mờ mắt, nhức mắt, khô mắt, chói mắt khi ra nắng. Các trường hợp mắt đỏ nóng, xung huyết, hỗ trợ trong điều trị viêm võng mạc và viêm tuyến lệ, thị lực giảm.",
+        "id": 3488,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_9856_5b0f_large_6bd13f2496.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc Sáng Mắt Traphaco điều trị mờ mắt, nhức mắt (3 vỉ x 10 viên)",
+            "description": "Viên sáng mắt Traphaco là sản phẩm của Công ty Cổ phần Traphaco, thành phần chính là bột đương qui và hỗn hợp cao khô dược liệu, là thuốc dùng để điều trị các bệnh về mắt do can thận âm hư, huyết hư."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 34273,
+        "title": "Những trường hợp nào không nên sử dụng Viên Sáng Mắt Traphaco?",
+        "content": "<p>Không sử dụng Viên Sáng Mắt Traphaco cho người mẫn cảm với bất kỳ thành phần nào của thuốc. Cần thận trọng khi sử dụng nếu bị dị ứng với lạc hoặc đậu nành do sản phẩm chứa dầu đậu nành. Những người mắc chứng không dung nạp đường nên liên hệ bác sĩ trước khi dùng do sản phẩm chứa Sorbitol. Ngoài ra, Methylparaben và propylparaben trong sản phẩm có thể gây phản ứng dị ứng (có thể là dị ứng muộn).</p>"
+      },
+      {
+        "id": 34272,
+        "title": "Có tác dụng phụ nào được báo cáo khi sử dụng Viên Sáng Mắt Traphaco không?",
+        "content": "<p>Cho đến nay, chưa phát hiện thấy tác dụng không mong muốn của Viên Sáng Mắt Traphaco. Tuy nhiên, nếu có bất thường khi dùng thuốc, cần ngừng ngay và báo cho dược sĩ hoặc bác sĩ để được xử lý.</p>"
+      },
+      {
+        "id": 34139,
+        "title": "Cách dùng và liều dùng của Viên Sáng Mắt Traphaco như thế nào?",
+        "content": "<p>Viên Sáng Mắt Traphaco được dùng đường uống. Đối với người lớn, liều dùng thông thường là 2 - 3 lần mỗi ngày, mỗi lần 1 túi (5 gam), uống với nước đun sôi để nguội. Trẻ em dùng 1/2 liều người lớn. Lưu ý liều dùng có thể thay đổi tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh, cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>"
+      },
+      {
+        "id": 34270,
+        "title": "Viên Sáng Mắt Traphaco được chỉ định sử dụng trong những trường hợp nào?",
+        "content": "<p>Viên Sáng Mắt Traphaco được chỉ định dùng cho các bệnh về mắt do can thận âm hư, huyết hư. Các triệu chứng được hỗ trợ điều trị bao gồm mờ mắt, nhức mắt, khô mắt, chói mắt khi ra nắng, giảm thị lực, đau đầu chóng mặt, nóng đỉnh đầu, ban chẩn, dị ứng, mẩn ngứa (đặc biệt vùng đầu mặt, trứng cá). Sản phẩm cũng hỗ trợ điều trị viêm võng mạc và viêm tuyến lệ.</p>"
+      },
+      {
+        "id": 34137,
+        "title": "Viên Sáng Mắt Traphaco là gì?",
+        "content": "<p>Viên Sáng Mắt Traphaco là một loại thuốc dạng hoàn cứng, được sản xuất bởi Công ty CP Công nghệ cao Traphaco tại Việt Nam. Thuốc được chỉ định để điều trị các vấn đề về mắt do can thận âm hư, huyết hư.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00029004",
+        "name": "POKEMINE MEDISUN 20X10ML",
+        "webName": "Dung dịch uống Pokemine 50mg Medisun bổ sung sắt cho bệnh nhân thiếu máu (20 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/pokemine_20x10ml_medisun_00029004_18974a7442.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37079,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 152000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pokemine-medisun-20x10ml-29296.html",
+        "ingredients": "Sắt 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Medisun",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 20 ống X 10ml",
+        "prices": [
+          {
+            "id": 37079,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 152000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 37078,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 7600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00047080",
+        "name": "MYHEMO RELIV 3X10",
+        "webName": "Thuốc Myhemo 305mg Reliv dự phòng thiếu sắt và folic acid (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_myhemo_reliv_3x10_00047080_42c390f09b.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 73453,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 165000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/myhemo-reliv-3-x10.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 100mg",
+        "dosageForm": "Viên bao đường",
+        "brand": "Reliv",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 73453,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 165000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 73454,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 73455,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007450",
+        "name": "TOTHEMA 2X10 ỐNG 10ML",
+        "webName": "Dung dịch Tot'héma Innothera điều trị thiếu máu do sắt (2 vỉ x 10 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04101_788e84a74a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10875,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 120000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tothema-1952.html",
+        "ingredients": "Mangan gluconat 1.33mg, Đồng gluconat 0.7mg, Sắt gluconat 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Innothera",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 10 Ống x 10ml",
+        "prices": [
+          {
+            "id": 10875,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 120000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10873,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10874,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049621",
+        "name": "VITAMIN A-D HDPHARMA 10X10",
+        "webName": "Thuốc Vitamin A-D Hdpharma dùng dự phòng và điều trị các triệu chứng do thiếu vitamin A - D (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_vitamin_a_d_10x10_hdpharma_00049621_f8bba8c44a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 78290,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 32000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vitamin-a-d-hdpharma-10-x10.html",
+        "ingredients": "Vitamin A 5000iu, Vitamin D3 400iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Hdpharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 78290,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 32000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 78291,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 3200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 78292,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 320,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049065",
+        "name": "MAZZGIN DHG PHARMA 10X10",
+        "webName": "Thuốc Mazzgin DHG Pharma điều trị các trường hợp thiếu magnesi riêng biệt hay kết hợp (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_mazzgin_dhg_pharma_10x10_00049065_82218241b8.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 77246,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 53550,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/mazzgin-dhg-pharma-10-x10.html",
+        "ingredients": "Magnesi lactat dihydrat 470mg, Vitamin B6 5mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Dhg",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 77246,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 53550,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 77247,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 5355,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 77248,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 536,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00041155",
+        "name": "CARDIOTON LIPA 6X10",
+        "webName": "Thuốc Cardioton Lipa Pharma điều trị suy tim, tăng huyết áp, bổ sung năng lượng (6 vỉ x 10 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_cardioton_lipa_6x10_00041155_9ecff2b28f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 62161,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 7667,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cardioton-lipa-6-x10.html",
+        "ingredients": "Ubidecarenone 30mg, D-alpha tocopherol 6.71mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "LIPA PHARMACEUTICALSLTD",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 62161,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 62159,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 460000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 62160,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 76667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500658",
+        "name": "ZY-10 FORTE 100MG Y-MED 3X10",
+        "webName": "Thuốc Zy-10 Forte 100mg Y-Med điều trị bệnh suy tim xung huyết, thiếu hụt coenzym Q10 (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/5_9e44bd6ebd.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48922,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 15600,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/zy-10-forte-100mg-hop-3-vi-x-10-vien-ha-tay-34787.html",
+        "ingredients": "Ubidecarenone 100mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Y-MED",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48922,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 15600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 48924,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 468000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 48923,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 156000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 249,
+          "attributeName": "Ấn Độ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/in_India_090039de61.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009723",
+        "name": "BEROCCA BAYER 10V",
+        "webName": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1758_33831b7cab.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12974,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 75000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/berocca-1515.html",
+        "ingredients": "Vitamin B1 15mg, Vitamin B2 15mg, Vitamin B6 10mg, Vitamin B12 0.01mg, Vitamin B3 50mg, Vitamin B5 23mg, Magnesia 100mg, Vitamin C 500mg, Calcium 100mg, Vitamin B8 0.15mg, Kẽm 10mg",
+        "dosageForm": "Viên sủi",
+        "brand": "Bayer",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 12973,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 7500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12974,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 75000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00008451",
+        "name": "LONG HUYẾT PH 2X12 - TAN BẦM TÍM GIẢM PHÙ NỀ",
+        "webName": "Thuốc Long Huyết P/H Phúc Hưng đặc trị tan bầm tím, mau lành vết thương (2 vỉ x 12 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1039_fba416224d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12490,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 47000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/long-huyet-ph-tan-bam-tim-chua-lanh-vet-thuong-1590.html",
+        "ingredients": "Cao khô huyết giác 280mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Phúc Hưng",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 2 vỉ x 12 viên",
+        "prices": [
+          {
+            "id": 12488,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1958,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12489,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 23500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 12490,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 47000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007678",
+        "name": "UPSA-C 10V",
+        "webName": "Viên sủi UPSA-C UPSA SAS hỗ trợ điều trị tình trạng thiếu hụt vitamin C (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1794_11051dc2c2.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11216,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 37000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/upsa-c-1000mg-1878.html",
+        "ingredients": "Vitamin C 1000mg",
+        "dosageForm": "Viên nén sủi bọt",
+        "brand": "Upsa Sas",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 11215,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 3700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11216,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 37000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007180",
+        "name": "TARDYFERON B9 3X10",
+        "webName": "Thuốc Tardyferon B9 Pierre Fabre dự phòng thiếu sắt, acid folic cho phụ nữ có thai (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_tardyferon_b9_3_vi_x_10_vien_pierre_fabre_00007180_aec7b4c600.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10449,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tardyferon-b9-2068.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 50mg",
+        "dosageForm": "Viên nén",
+        "brand": "Pierre Fabre",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 10449,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10451,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 87000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10450,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 29000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006109",
+        "name": "PROCARE DIAMOND 216MG CATALENT 30V",
+        "webName": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_7021_60ee_large_89e91ba6fb.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8834,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 420000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/procare-diamond-216mg-2522.html",
+        "ingredients": "Vitamin B1 5mg, Vitamin B2 5mg, Nicotinamide 5mg, Vitamin D3 200iu, Vitamin B6 5mg, Vitamin B12 10mcg, Vitamin E 10iu, Folic Acid 500mcg, Calcium 59mg, Phosphorus 46.6mg, Magnesium ion 30mg, Vitamin C 50mg, Zinc 8mg, Iron 24mg, Iodine 200mcg, Omega 3 500mg, Betacarotene 1mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "PROCARE",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 30 Viên",
+        "prices": [
+          {
+            "id": 8833,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 14000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 8834,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 420000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 254,
+          "attributeName": "Tây Ban Nha",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/es_Spain_03bf620563.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 17,
+      "items": [
+        {
+          "id": 3363150,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0792xxxxxx",
+          "name": "Anh Quang",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "trẻ em uống hàng ngày để phòng ngừa cận thị có nên không ",
+          "createdAt": "2026-08-25 09:03:53",
+          "createdAtDisplay": "11 ngày trước",
+          "updatedAt": "2026-08-25 09:03:53",
+          "replies": [
+            {
+              "id": 3363155,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Bảo Trân",
+                "moderatorEmail": "trannb17@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Bảo Trân",
+              "email": "trannb17@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Quang ạ,</p><p>Sáng Mắt Traphaco với thành phần thảo dược giúp bổ huyết và hỗ trợ giảm tình trạng mỏi mắt cho trẻ rất tốt. Để phòng ngừa cận thị, Anh có thể cho bé dùng theo từng đợt để bổ sung dưỡng chất cần thiết cho mắt. Tuy nhiên, Anh cần chú ý kết hợp kiểm soát thời gian bé dùng điện thoại và đảm bảo ánh sáng học tập tốt nhất cho bé ạ.</p><p>Chúc Anh và gia đình luôn dồi dào sức khỏe ạ.</p>",
+              "createdAt": "2026-08-25 09:05:53",
+              "createdAtDisplay": "11 ngày trước",
+              "updatedAt": "2026-08-25 09:03:53",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3338433,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0337xxxxxx",
+          "name": "0337xxxxxx",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc có cho người khuyết tật Được không ",
+          "createdAt": "2026-07-13 21:03:09",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-13 21:03:09",
+          "replies": [
+            {
+              "id": 3338444,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Đỗ Diệp Minh",
+                "moderatorEmail": "minhdd38@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Đỗ Diệp Minh",
+              "email": "minhdd38@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý khách,</p><p>Dạ đối với tình trạng của mình, Quý khách nên tham khảo ý kiến bác sĩ trước khi sử dụng ạ</p><p>Nhà thuốc thông tin đến Quý khách!</p>",
+              "createdAt": "2026-07-13 21:21:18",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-13 21:03:09",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3309596,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0982xxxxxx",
+          "name": "Thao Phan",
+          "email": "thao25081962@gmail.com",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Viên sáng mắt có dùng được cho người bị u xơ tuyến giáp không ạ",
+          "createdAt": "2026-05-19 20:22:41",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-19 20:22:42",
+          "replies": [
+            {
+              "id": 3309652,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Lan Phượng",
+                "moderatorEmail": "phuonghl4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Lan Phượng",
+              "email": "phuonghl4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào quý khách,</p><p>Dạ sản phẩm chưa có thông tin dùng cho đối tượng có bệnh lý u xơ tuyến giáp, quý khách vui lòng tham khảo ý kiến bác sĩ và sử dụng theo chỉ định để đảm bảo an toàn và hiệu quả ạ.</p><p>Nhà thuốc thông tin đến quý khách.</p>",
+              "createdAt": "2026-05-19 20:48:15",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-19 20:22:42",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3309108,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0918xxxxxx",
+          "name": "Nguyen Tran Phong Phu",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mình có thể dùng thuốc hàng ngày để hỗ trợ, bảo vệ mặt khỏe, sáng hay không?",
+          "createdAt": "2026-05-19 10:08:16",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-19 10:08:16",
+          "replies": [
+            {
+              "id": 3309110,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trương Anh Thư",
+                "moderatorEmail": "thuta13@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trương Anh Thư",
+              "email": "thuta13@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Phu,</p><p>Dạ Thuốc Sáng Mắt Traphaco điều trị mờ mắt, nhức mắt (3 vỉ x 10 viên) anh có thể dùng hỗ trợ mắt sáng ạ.</p><p>Nhà thuốc thông tin đến anh ạ</p>",
+              "createdAt": "2026-05-19 10:11:33",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-19 10:08:16",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3308370,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0348xxxxxx",
+          "name": "Lam Anh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Trẻ em 10 tuổi uống được không?",
+          "createdAt": "2026-05-17 19:44:03",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-17 19:44:03",
+          "replies": [
+            {
+              "id": 3308387,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thanh Ngọc",
+                "moderatorEmail": "ngocht18@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Thanh Ngọc",
+              "email": "ngocht18@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Lan Anh,</p><p>Dạ Thuốc Sáng Mắt Traphaco điều trị mờ mắt, nhức mắt (3 vỉ x 10 viên) bé 10 tuổi có thể dùng ạ.</p><p>Nhà thuốc thông tin đến chị ạ</p>",
+              "createdAt": "2026-05-17 20:00:28",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-17 19:44:03",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 3020225,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0935xxxxxx",
+          "name": "Nguyễn Minh Tâm",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Moi uống.chua biết kết quả.ma thuốc dong gói thật đẹp",
+          "createdAt": "2025-01-03 08:17:00",
+          "createdAtDisplay": "03/01/2025",
+          "updatedAt": "2025-01-03 08:17:00",
+          "replies": [
+            {
+              "id": 3020227,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Nhi",
+                "moderatorEmail": "nhitha@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Nhi",
+              "email": "nhitha@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Nguyễn Minh Tâm, </p><p>Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu. </p><p>Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.  </p><p>Thân mến!</p>",
+              "createdAt": "2025-01-03 08:17:31",
+              "createdAtDisplay": "03/01/2025",
+              "updatedAt": "2025-01-03 08:17:00",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Sáng Mắt Traphaco điều trị mờ mắt, nhức mắt (3 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_9856_5b0f_large_6bd13f2496.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_8741_5b0f_large_5eafef5de1.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_3471_5b0f_large_b741f360ac.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_7944_5b0f_large_b6efa0be8d.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_4381_5b0f_large_a34663cf03.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "Viên sáng mắt Traphaco là sản phẩm của Công ty Cổ phần Traphaco, thành phần chính là bột đương qui và hỗn hợp cao khô dược liệu, là thuốc dùng để điều trị các bệnh về mắt do can thận âm hư, huyết hư.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/sang-mat-traphaco-863.html",
+        "priceCurrency": "VND",
+        "price": 62000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Viên Sáng Mắt Traphaco trị Mờ mắt, nhức mắt",
+      "description": "Viên Sáng Mắt Traphaco điều trị các bệnh về mắt như mờ mắt, nhức mắt, khô mắt, chói mắt khi ra nắng. Các trường hợp mắt đỏ nóng, xung huyết, hỗ trợ trong điều trị viêm võng mạc và viêm tuyến lệ, thị lực giảm.",
+      "openGraph": {
+        "title": "Thuốc Sáng Mắt Traphaco điều trị mờ mắt, nhức mắt (3 vỉ x 10 viên)",
+        "description": "Viên sáng mắt Traphaco là sản phẩm của Công ty Cổ phần Traphaco, thành phần chính là bột đương qui và hỗn hợp cao khô dược liệu, là thuốc dùng để điều trị các bệnh về mắt do can thận âm hư, huyết hư.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010334_sang_mat_traphaco_9856_5b0f_large_6bd13f2496.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/sang-mat-traphaco-863.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/sang-mat-traphaco-863.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

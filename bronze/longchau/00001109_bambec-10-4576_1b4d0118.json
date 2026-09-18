@@ -1,0 +1,860 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/bambec-10-4576.html",
+  "ingestion_timestamp": "2026-09-05T08:50:46.201744+00:00",
+  "file_hash": "d0de1400b58abaa1fcb6311df9763c4d6d681b324e3028e4d2525e7f69832afb",
+  "lineage_hash": "fb0a5f0ce031edf178f7ad4391f1f6ea139d8361a3f7e927fe5066861cb32509",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/bambec-10-4576.html",
+    "product": {
+      "sku": "00001109",
+      "webName": "Thuốc Bambec 10mg AstraZeneca điều trị hen phế quản, co thắt phế quản (3 vỉ x 10 viên)",
+      "name": "BAMBEC 10 ASTRAZENECA 3X10",
+      "shortName": "BAMBEC 10 ASTRA 3X10",
+      "headingText": "Thuốc Bambec 10mg",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bambec_10_3x10_astrazeneca_00001109_01369bde25.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_6459_63d7_large_2f14b33c47.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_6535_63d7_large_a8b8692583.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_2764_63d7_large_367fc2a8ca.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_9416_63d7_large_74d372cdf6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_7986_63d7_large_705d1cb8b1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_4677_63d7_large_f60ba2fd2c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_6829_63d7_large_3110f72b1d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_1523_63d7_large_4e75ff12aa.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_1675054075_86590ec69a.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 730,
+          "name": "Thuốc hô hấp",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-ho-hap",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 775,
+          "name": "Thuốc trị hen suyễn",
+          "parentName": "Thuốc hô hấp",
+          "slug": "thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/bambec-10-4576.html",
+      "ingredient": [
+        {
+          "id": 35937,
+          "ingredientId": 10256,
+          "shortDescription": "10mg",
+          "name": "Bambuterol",
+          "isPrimary": false,
+          "slug": "thanh-phan/bambuterol"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VN-16125-13",
+      "manufactor": "Trung Quốc",
+      "dosageForm": "Viên nén",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Thuốc dùng đường uống, uống ngay trước khi đi ngủ.</p><h3><strong>Liều dùng</strong></h3><p>Liều chỉ định 1 lần/ngày. Cần điều chỉnh liều phù hợp từng cá nhân. Bệnh nhân phải dùng liệu pháp kháng viêm tối ưu (như corticosteroid hít, thuốc đối kháng thụ thể leukotrien) khi sử dụng Bambec để điều trị duy trì trong bệnh hen.</p><p><i>Người lớn</i></p><p>Liều chỉ định khởi đầu 10mg – 20mg. Có thể tăng liều từ 10mg đến 20mg sau 1 – 2 tuần, tùy theo hiệu quả lâm sàng.</p><p>Ở những bệnh nhân trước đây đã dung nạp tốt các chất chủ vận beta - 2, liều khởi đầu khuyên dùng cũng như liều duy trì là 20mg.</p><p><i>Người lớn tuổi</i></p><p>Không cần điều chỉnh liều.</p><p><i>Bệnh nhân rối loạn chức năng gan</i></p><p>Không khuyến cáo dùng cho bệnh nhân rối loạn chức năng gan vì không dự đoán được các chuyển hóa thành terbutalin.</p><p><i>Bệnh nhân suy chức năng thận trung bình đến nặng (GFR &lt; 50 ml/phút)</i></p><p>Khuyến cáo dùng Bambec liều khởi đầu bằng nửa liều dùng ở người lớn.</p><p><i>Trẻ em</i></p><p>Không dùng Bambec cho trẻ em cho đến khi có đầy đủ dữ liệu lâm sàng.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Quá liều có thể dẫn đến nồng độ terbutalin cao trong máu và do đó xuất hiện các triệu chứng và dấu hiệu như: <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">Nhức đầu</a>, lo lắng, run cơ, buồn nôn, vọp bẻ, đánh trống ngực, nhịp tim nhanh và loạn nhịp tim.</p><p>Hạ huyết áp đôi khi xảy ra do quá liều terbutalin. Các dấu hiệu cận lâm sàng: Tăng đường huyết, nhiễm acid lactic máu đôi khi xảy ra. Liều cao chất chủ vận beta-2 có thể gây ra giảm kali huyết do sự tái phân bố kali.</p><p>Quá liều Bambec có thể gây ức chế đáng kể cholinesterase huyết tương kéo dài trong vài ngày.</p><p><i>Điều trị quá liều:</i></p><p>Thường không cần điều trị. Trường hợp quá liều nặng, cần tiến hành các phương pháp sau:</p><p>Rửa dạ dày, than hoạt tính. Đánh giá cân bằng kiềm toan, đường huyết và điện giải. Theo dõi tần số, nhịp tim và huyết áp. Chất giải độc thích hợp khi quá liều Bambec là chất ức chế thụ thể beta chọn lọc tim nhưng các thuốc ức chế thụ thể beta cần được sử dụng thận trọng ở những bệnh nhân có tiền sử co thắt phế quản. Nếu sự giảm sức cản mạch máu ngoại biên qua trung gian beta-2 góp phần đáng kể gây giảm huyết áp, cần phải bồi hoàn thể tích huyết tương.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p><i>Ðiều trị </i><a href=\"https://nhathuoclongchau.com.vn/benh/hen-phe-quan-160.html\"><i>hen phế quản</i></a><i>, co thắt phế quản và/hoặc tắc nghẽn đường dẫn khí có hồi phục.</i></p><h3><strong>Dược lực học</strong></h3><p>Bambec chứa bambuterol là tiền chất của <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/terbutaline\">terbutalin</a>, chất chủ vận giao cảm trên thụ thể beta, kích thích chọn lọc trên beta - 2, do đó làm giãn cơ trơn phế quản, ức chế phóng thích các chất gây co thắt nội sinh, ức chế các phản ứng phù nề gây ra bởi các chất trung gian hóa học nội sinh và làm tăng sự thanh thải của hệ thống lông chuyển nhầy.</p><h3><strong>Dược động học</strong></h3><p><i>Hấp thu</i></p><p>Khoảng 20% liều bambuterol uống vào được hấp thu. Sự hấp thu thuốc không bị ảnh hưởng khi sử dụng đồng thời với thức ăn. Nồng độ tối đa trong huyết tương của terbutalin, chất chuyển hóa có hoạt tính, đạt được trong vòng 2 - 6 giờ. Thời gian tác dụng kéo dài ít nhất 24 giờ. Đạt trạng thái hằng định sau 4 - 5 ngày điều trị.</p><p><i>Phân bố</i></p><p>Chưa có dữ liệu.</p><p><i>Chuyển hóa</i></p><p>Khoảng 90% bambuterol được chuyển hóa chậm bằng phản ứng thủy phân (bởi enzym cholinesterase trong huyết tương) và oxy hóa thành terbutalin có hoạt tính. Khoảng 1/3 liều bambuterol hấp thu được chuyển hóa ở thành ruột và ở gan, chủ yếu thành các dạng chuyển hóa trung gian. Ở người lớn, khoảng 10% bambuterol uống vào biến đổi thành terbutalin.</p><p><i>Thải trừ</i></p><p>Thời gian bán hủy của bambuterol sau khi uống khoảng 13 giờ. Thời gian bán hủy của chất chuyển hóa có hoạt tính là terbutalin khoảng 21 giờ.</p><p>Bambuterol và các dạng chuyển hóa của nó kể cả terbutalin được bài tiết chủ yếu qua thận, do đó bệnh nhân suy thận (độ thanh thải creatinine &lt; 50 ml/phút) phải dùng liều khởi đầu thấp hơn. Không có kinh nghiệm điều trị trên bệnh nhân có độ thanh thải creatinine &lt; 30 ml/phút. Ở bệnh nhân xơ gan, chuyển hóa của bambuterol có thể thay đổi không thể dự đoán được đối với từng cá nhân.</p>",
+      "brand": "Astra",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng Bambec có thể gặp một số tác dụng phụ sau:</p><p><i>Rất thường gặp, ADR &gt;1/10:</i></p><ul><li>Hệ thần kinh: Run cơ, đau đầu.</li><li>Tâm thần: Rối loạn hành vi như bồn chồn, <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-giac-ngu-29.html\">rối loạn giấc ngủ</a>.</li></ul><p><i>Thường gặp, ADR &gt;1/100:</i></p><ul><li>Tim mạch: Đánh trống ngực.</li><li>Cơ xương khớp: Vọp bẻ.</li><li>Tâm thần: Rối loạn giấc ngủ.</li></ul><p><i>Ít gặp, 1/1000 &lt; ADR &lt; 1/100:</i></p><ul><li>Tâm thần: Rối loạn hành vi như lo âu.</li><li>Tim mạch: Tim đập nhanh, loạn nhịp như rung nhĩ, nhịp nhanh trên thất và ngoại tâm thu.</li></ul><p><i>Không xác định tần suất:</i></p><ul><li>Tim mạch: <a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-267.html\">Thiếu máu</a> cơ tim cục bộ.</li><li>Tiêu hóa: Buồn nôn.</li><li>Tâm thần: Chóng mặt, quá hiếu động.</li><li>Hệ miễn dịch: Phản ứng quá mẫn bao gồm phù mạch, mề đay, ngoại ban, co thắt phế quản, <a href=\"https://nhathuoclongchau.com.vn/benh/huyet-ap-thap-592.html\">hạ huyết áp</a> và suy kiệt.</li><li>Hô hấp, ngực và trung thất: Co thắt phế quản nghịch thường.Chuyển hóa và dinh dưỡng: Hạ kali huyết, tăng đường huyết.</li></ul><p><i>Hướng dẫn cách xử trí ADR:</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Anh",
+      "producer": "ASTRAZENECA PHARMACEUTICAL CO",
+      "shortDescription": "<p>Bambec® 10 mg của AstraZeneca Pharmaceutical Co., Ltd, thành phần chính là Bambuterol Hydrochloride. Bambec® 10 mg có tác dụng điều trị hen phế quản, co thắt phế quản và/hoặc tắc nghẽn đường dẫn khí có hồi phục.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [
+        "Người lớn",
+        "Người cao tuổi"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Suy gan thận",
+        "Phụ nữ cho con bú"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/astra",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "BAMBEC TAB 10MG 30'S",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 260,
+        "attributeName": "Anh",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/gb_United_Kingdom_uk_6de6aae5ef.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 775,
+        "name": "Thuốc trị hen suyễn",
+        "parentName": "Thuốc hô hấp",
+        "slug": "thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bambec_10_3x10_astrazeneca_00001109_01369bde25.png",
+          "alternativeText": "Thuốc Bambec 10mg AstraZeneca điều trị hen phế quản, co thắt phế quản (3 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_6459_63d7_large_2f14b33c47.jpg",
+          "alternativeText": "Thuốc Bambec 10mg AstraZeneca điều trị hen phế quản, co thắt phế quản (3 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_6535_63d7_large_a8b8692583.jpg",
+          "alternativeText": "Thuốc Bambec 10mg AstraZeneca điều trị hen phế quản, co thắt phế quản (3 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_2764_63d7_large_367fc2a8ca.jpg",
+          "alternativeText": "Thuốc Bambec 10mg AstraZeneca điều trị hen phế quản, co thắt phế quản (3 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_9416_63d7_large_74d372cdf6.jpg",
+          "alternativeText": "Thuốc Bambec 10mg AstraZeneca điều trị hen phế quản, co thắt phế quản (3 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_7986_63d7_large_705d1cb8b1.jpg",
+          "alternativeText": "Thuốc Bambec 10mg AstraZeneca điều trị hen phế quản, co thắt phế quản (3 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_4677_63d7_large_f60ba2fd2c.jpg",
+          "alternativeText": "Thuốc Bambec 10mg AstraZeneca điều trị hen phế quản, co thắt phế quản (3 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_6829_63d7_large_3110f72b1d.jpg",
+          "alternativeText": "Thuốc Bambec 10mg AstraZeneca điều trị hen phế quản, co thắt phế quản (3 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_1523_63d7_large_4e75ff12aa.jpg",
+          "alternativeText": "Thuốc Bambec 10mg AstraZeneca điều trị hen phế quản, co thắt phế quản (3 vỉ x 10 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_1675054075_86590ec69a.jpg",
+          "alternativeText": "Thuốc Bambec 10mg AstraZeneca điều trị hen phế quản, co thắt phế quản (3 vỉ x 10 viên) 10"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc hô hấp",
+        "slug": "/thuoc/thuoc-ho-hap"
+      },
+      {
+        "name": "Thuốc trị hen suyễn",
+        "slug": "/thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen"
+      }
+    ],
+    "content": {
+      "sku": "00001109",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Thuốc dùng đường uống, uống ngay trước khi đi ngủ.</p><h3><strong>Liều dùng</strong></h3><p>Liều chỉ định 1 lần/ngày. Cần điều chỉnh liều phù hợp từng cá nhân. Bệnh nhân phải dùng liệu pháp kháng viêm tối ưu (như corticosteroid hít, thuốc đối kháng thụ thể leukotrien) khi sử dụng Bambec để điều trị duy trì trong bệnh hen.</p><p><i>Người lớn</i></p><p>Liều chỉ định khởi đầu 10mg – 20mg. Có thể tăng liều từ 10mg đến 20mg sau 1 – 2 tuần, tùy theo hiệu quả lâm sàng.</p><p>Ở những bệnh nhân trước đây đã dung nạp tốt các chất chủ vận beta - 2, liều khởi đầu khuyên dùng cũng như liều duy trì là 20mg.</p><p><i>Người lớn tuổi</i></p><p>Không cần điều chỉnh liều.</p><p><i>Bệnh nhân rối loạn chức năng gan</i></p><p>Không khuyến cáo dùng cho bệnh nhân rối loạn chức năng gan vì không dự đoán được các chuyển hóa thành terbutalin.</p><p><i>Bệnh nhân suy chức năng thận trung bình đến nặng (GFR &lt; 50 ml/phút)</i></p><p>Khuyến cáo dùng Bambec liều khởi đầu bằng nửa liều dùng ở người lớn.</p><p><i>Trẻ em</i></p><p>Không dùng Bambec cho trẻ em cho đến khi có đầy đủ dữ liệu lâm sàng.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Quá liều có thể dẫn đến nồng độ terbutalin cao trong máu và do đó xuất hiện các triệu chứng và dấu hiệu như: <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">Nhức đầu</a>, lo lắng, run cơ, buồn nôn, vọp bẻ, đánh trống ngực, nhịp tim nhanh và loạn nhịp tim.</p><p>Hạ huyết áp đôi khi xảy ra do quá liều terbutalin. Các dấu hiệu cận lâm sàng: Tăng đường huyết, nhiễm acid lactic máu đôi khi xảy ra. Liều cao chất chủ vận beta-2 có thể gây ra giảm kali huyết do sự tái phân bố kali.</p><p>Quá liều Bambec có thể gây ức chế đáng kể cholinesterase huyết tương kéo dài trong vài ngày.</p><p><i>Điều trị quá liều:</i></p><p>Thường không cần điều trị. Trường hợp quá liều nặng, cần tiến hành các phương pháp sau:</p><p>Rửa dạ dày, than hoạt tính. Đánh giá cân bằng kiềm toan, đường huyết và điện giải. Theo dõi tần số, nhịp tim và huyết áp. Chất giải độc thích hợp khi quá liều Bambec là chất ức chế thụ thể beta chọn lọc tim nhưng các thuốc ức chế thụ thể beta cần được sử dụng thận trọng ở những bệnh nhân có tiền sử co thắt phế quản. Nếu sự giảm sức cản mạch máu ngoại biên qua trung gian beta-2 góp phần đáng kể gây giảm huyết áp, cần phải bồi hoàn thể tích huyết tương.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<p>Tờ hướng dẫn sử dụng thuốc Bambec® 10 mg của AstraZeneca Pharmaceutical Co., Ltd.</p>",
+      "adverseEffect": "<p>Khi sử dụng Bambec có thể gặp một số tác dụng phụ sau:</p><p><i>Rất thường gặp, ADR &gt;1/10:</i></p><ul><li>Hệ thần kinh: Run cơ, đau đầu.</li><li>Tâm thần: Rối loạn hành vi như bồn chồn, <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-giac-ngu-29.html\">rối loạn giấc ngủ</a>.</li></ul><p><i>Thường gặp, ADR &gt;1/100:</i></p><ul><li>Tim mạch: Đánh trống ngực.</li><li>Cơ xương khớp: Vọp bẻ.</li><li>Tâm thần: Rối loạn giấc ngủ.</li></ul><p><i>Ít gặp, 1/1000 &lt; ADR &lt; 1/100:</i></p><ul><li>Tâm thần: Rối loạn hành vi như lo âu.</li><li>Tim mạch: Tim đập nhanh, loạn nhịp như rung nhĩ, nhịp nhanh trên thất và ngoại tâm thu.</li></ul><p><i>Không xác định tần suất:</i></p><ul><li>Tim mạch: <a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-267.html\">Thiếu máu</a> cơ tim cục bộ.</li><li>Tiêu hóa: Buồn nôn.</li><li>Tâm thần: Chóng mặt, quá hiếu động.</li><li>Hệ miễn dịch: Phản ứng quá mẫn bao gồm phù mạch, mề đay, ngoại ban, co thắt phế quản, <a href=\"https://nhathuoclongchau.com.vn/benh/huyet-ap-thap-592.html\">hạ huyết áp</a> và suy kiệt.</li><li>Hô hấp, ngực và trung thất: Co thắt phế quản nghịch thường.Chuyển hóa và dinh dưỡng: Hạ kali huyết, tăng đường huyết.</li></ul><p><i>Hướng dẫn cách xử trí ADR:</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Bảo quản ở nhiệt độ không quá 30°C.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p><i>Ðiều trị </i><a href=\"https://nhathuoclongchau.com.vn/benh/hen-phe-quan-160.html\"><i>hen phế quản</i></a><i>, co thắt phế quản và/hoặc tắc nghẽn đường dẫn khí có hồi phục.</i></p><h3><strong>Dược lực học</strong></h3><p>Bambec chứa bambuterol là tiền chất của <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/terbutaline\">terbutalin</a>, chất chủ vận giao cảm trên thụ thể beta, kích thích chọn lọc trên beta - 2, do đó làm giãn cơ trơn phế quản, ức chế phóng thích các chất gây co thắt nội sinh, ức chế các phản ứng phù nề gây ra bởi các chất trung gian hóa học nội sinh và làm tăng sự thanh thải của hệ thống lông chuyển nhầy.</p><h3><strong>Dược động học</strong></h3><p><i>Hấp thu</i></p><p>Khoảng 20% liều bambuterol uống vào được hấp thu. Sự hấp thu thuốc không bị ảnh hưởng khi sử dụng đồng thời với thức ăn. Nồng độ tối đa trong huyết tương của terbutalin, chất chuyển hóa có hoạt tính, đạt được trong vòng 2 - 6 giờ. Thời gian tác dụng kéo dài ít nhất 24 giờ. Đạt trạng thái hằng định sau 4 - 5 ngày điều trị.</p><p><i>Phân bố</i></p><p>Chưa có dữ liệu.</p><p><i>Chuyển hóa</i></p><p>Khoảng 90% bambuterol được chuyển hóa chậm bằng phản ứng thủy phân (bởi enzym cholinesterase trong huyết tương) và oxy hóa thành terbutalin có hoạt tính. Khoảng 1/3 liều bambuterol hấp thu được chuyển hóa ở thành ruột và ở gan, chủ yếu thành các dạng chuyển hóa trung gian. Ở người lớn, khoảng 10% bambuterol uống vào biến đổi thành terbutalin.</p><p><i>Thải trừ</i></p><p>Thời gian bán hủy của bambuterol sau khi uống khoảng 13 giờ. Thời gian bán hủy của chất chuyển hóa có hoạt tính là terbutalin khoảng 21 giờ.</p><p>Bambuterol và các dạng chuyển hóa của nó kể cả terbutalin được bài tiết chủ yếu qua thận, do đó bệnh nhân suy thận (độ thanh thải creatinine &lt; 50 ml/phút) phải dùng liều khởi đầu thấp hơn. Không có kinh nghiệm điều trị trên bệnh nhân có độ thanh thải creatinine &lt; 30 ml/phút. Ở bệnh nhân xơ gan, chuyển hóa của bambuterol có thể thay đổi không thể dự đoán được đối với từng cá nhân.</p>",
+      "ingredient": "",
+      "careful": "<h3><strong>Chống chỉ định</strong></h3><p>Thuốc Bambec chống chỉ định điều trị trong các trường hợp sau:</p><ul><li>Mẫn cảm với terbutalin hay bất kỳ các thành phần nào khác của thuốc.</li><li>Không khuyến cáo sử dụng Bambec cho trẻ em do dữ liệu lâm sàng hạn chế trên nhóm đối tượng này.</li></ul><h3><strong>Thận trọng khi sử dụng</strong></h3><p>Ở những bệnh nhân xơ gan và cả những bệnh nhân có tổn thương chức năng gan nặng do nguyên nhân khác, liều dùng hàng ngày phải được điều chỉnh thích hợp cho từng cá nhân, cần đánh giá khả năng chuyển hóa bambuterol thành terbutalin ở người bệnh có bị suy giảm hay không. Do vậy, dựa trên quan điểm thực hành, sử dụng trực tiếp chất chuyển hóa hoạt tính, terbutalin (Bricanyl), thì thích hợp hơn ở những bệnh nhân này.</p><p>Sử dụng Bambec thận trọng ở những bệnh nhân nhiễm độc giáp.</p><p>Hiếm khi xảy ra thiếu máu cơ tim cục bộ liên quan tới các thuốc chủ vận beta. Những bệnh nhân bị bệnh tim nặng (bệnh thiếu máu tim cục bộ, loạn nhịp hoặc suy tim nặng) đang dùng Bambec, nên thông báo cho bác sĩ nếu cảm thấy đau thắt ngực hay có các triệu chứng của bệnh tim tiến triển xấu đi. Nên chú ý đánh giá các triệu chứng như khó thở và đau thắt ngực vì có thể do nguyên nhân từ bệnh hô hấp hay tim mạch.</p><p>Dù Bambec không dùng điều trị dọa sinh non, cũng nên lưu ý bambuterol chuyển hóa thành terbutalin và không nên dùng terbutalin như thuốc chống co thắt ở bệnh nhân có tiền sử thiếu máu tim cục bộ hoặc những bệnh nhân có nguy cơ thiếu máu tim cục bộ.</p><p>Do tác dụng làm tăng đường huyết của các chất chủ vận beta-2, cần kiểm soát đường huyết tốt hơn nữa ở những bệnh nhân tiểu đường khi bắt đầu điều trị.</p><p>Giảm kali huyết nặng có thể xảy ra khi điều trị với chất chủ vận beta-2. Cần thận trọng đặc biệt trong cơn hen nặng cấp tính do nguy cơ hạ kali huyết tăng cao khi giảm oxy máu. Tác động giảm kali huyết có thể xảy ra khi điều trị phối hợp. Cần theo dõi nồng độ kali huyết thanh trong các trường hợp này.</p><p>Hạ kali huyết có thể làm tăng khuynh hướng loạn nhịp tim. Đặc biệt thận trọng ở bệnh nhân điều trị với digitalis glycosid do hạ kali huyết cũng làm tăng nguy cơ nhiễm độc digitalis.</p><p>Những bệnh nhân bị hen suyễn kéo dài yêu cầu điều trị duy trì với chất chủ vận beta-2 cũng nên điều trị kháng viêm tối ưu như corticosteroid hít, thuốc đối kháng thụ thể leukotriene. Những bệnh nhân này nên được tư vấn tiếp tục điều trị với kháng viêm sau khi dùng Bambec thậm chí đến khi triệu chứng đã giảm. Nếu các triệu chứng vẫn tồn tại hoặc cần tăng liều điều trị với chủ vận beta-2, điều này cho thấy có sự tiến triển xấu đi của bệnh lý nền và cần được đánh giá lại việc điều trị.</p><p>Không dùng khởi đầu hoặc tăng liều Bambec khi điều trị cơn hen cấp kịch phát.</p><p>Viên nén Bambec có chứa lactose. Bệnh nhân không nên dùng thuốc nếu có các vấn đề di truyền hiếm gặp: không dung nạp galactose, thiếu hoàn toàn enzym lactase hoặc kém hấp thu glucose-galactose.</p><p>Thận trọng khi điều trị cho bệnh nhân tăng nhãn áp góc hẹp.</p><h3>Khả năng lái xe và vận hành máy móc</h3><p>Bambec không có ảnh hưởng lên khả năng lái xe và vận hành máy.</p><h3>Thời kỳ mang thai&nbsp;</h3><p>Mặc dù chưa thấy có tác động gây quái thai ở động vật sau khi sử dụng bambuterol, cần thận trọng trong 3 tháng đầu thai kỳ. Thận trọng khi sử dụng thuốc chủ vận beta - 2 phóng thích chậm dạng uống ở giai đoạn cuối của thai kỳ vì tác động chống co thắt. Hạ đường huyết thoáng qua được ghi nhận ở trẻ sinh non có mẹ được điều trị bằng chất chủ vận beta - 2.</p><h3>Thời kỳ cho con bú</h3><p>Người ta chưa biết bambuterol hoặc các dạng chuyển hóa trung gian có đi qua sữa mẹ hay không. Terbutalin đi qua sữa mẹ nhưng không thấy có ảnh hưởng đến nhũ nhi ở liều điều trị. Việc ngưng cho con bú hay ngưng điều trị bằng Bambec được quyết định dựa trên lợi ích của việc cho trẻ bú mẹ và điều trị cho người mẹ.</p><h3>Tương tác thuốc</h3><p>Bambuterol kéo dài tác động giãn cơ của <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/succinylcholine\">suxamethonium</a> (succinylcholin). Tác động này do cholinesterase trong huyết tương, enzym bất hoạt suxamethonium, bị ức chế một phần bởi bambuterol. Sự ức chế tùy thuộc liều lượng và có thể hồi phục hoàn toàn sau khi ngưng điều trị với bambuterol. Sự tương tác này cũng cần được xem xét với các chất giãn cơ khác được chuyển hóa bởi cholinesterase.</p><p>Các thuốc ức chế thụ thể beta (kể cả thuốc nhỏ mắt), đặc biệt là các chất ức chế không chọn lọc, có thể ức chế một phần hay hoàn toàn tác dụng của chất kích thích thụ thể beta.</p><p>Tránh dùng thuốc gây mê halothan khi điều trị với chất chủ vận beta-2 do tăng nguy cơ loạn nhịp tim. Thận trọng khi sử dụng các thuốc gây mê halogen khác cùng với chất chủ vận beta-2.</p><p>Do tác động giảm kali huyết của các chất chủ vận beta-2, thận trọng khi dùng đồng thời các thuốc thải kali trong huyết thanh được biết làm tăng nguy cơ giảm kali huyết, như thuốc lợi tiểu, methyl xanthin và corticosteroid.</p><p>Dùng Bambec thận trọng trên bệnh nhân đang điều trị bằng các thuốc kích thích thần kinh giao cảm khác. Trên lý thuyết, nồng độ bambuterol bị giảm bởi <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/quinidine\">quinidin</a> do quinidin ức chế enzym cholinesterase ngay cả ở liều điều trị.</p><p>Dùng đồng thời với salbutamol và ipratropium trong điều trị hen (phun khí dung) có thể gây ra tăng nhãn áp góc hẹp. Terbutalin dường như tương tác với ipratropium tương tự như salbutamol khi dùng thuốc bằng máy phun khí dung. Phối hợp này không khuyến khích dùng cho bệnh nhân có khả năng mắc phải.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Phạm Nguyễn Hoàng Kim",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Dược sĩ chuyên ngành Dược lâm sàng, với nhiều năm kinh nghiệm làm việc trong lĩnh vực dược phẩm. Là Dược sĩ Long Châu đạt được chứng chỉ bệnh học cấp quốc tế. Hiện đang là giảng viên tại Trung tâm Đào tạo FPT Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-pham-nguyen-hoang-kim",
+        "isLegit": true,
+        "id": 3,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/duoc_si_kim_654f239621.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Bambec 10mg: Thuốc trị hen suyễn, viêm phế quản (30 viên)",
+        "metaDescription": "Thuốc Bambec 10mg thành phần chính là bambuterol hydrochloride, có tác dụng điều trị hen phế quản, co thắt phế quản và/hoặc tắc nghẽn đường dẫn khí có hồi phục.",
+        "id": 1884,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bambec_10_3x10_astrazeneca_00001109_01369bde25.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Bambec 10mg AstraZeneca điều trị hen phế quản, co thắt phế quản (3 vỉ x 10 viên)",
+            "description": "Bambec® 10 mg của AstraZeneca Pharmaceutical Co., Ltd, thành phần chính là Bambuterol Hydrochloride. Bambec® 10 mg có tác dụng điều trị hen phế quản, co thắt phế quản và/hoặc tắc nghẽn đường dẫn khí có hồi phục."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 36256,
+        "title": "Thuốc Bambec 10mg nên được dùng vào thời điểm nào trong ngày?",
+        "content": "<p>Thuốc Bambec 10mg dùng qua đường uống. Thuốc nên được uống ngay trước khi đi ngủ.</p>"
+      },
+      {
+        "id": 36255,
+        "title": "Bambec 10mg có phải là thuốc kê đơn (ETC) không?",
+        "content": "<p>Có, Bambec 10mg là thuốc cần kê toa. Sản phẩm này chỉ được bán khi có chỉ định của bác sĩ và mọi thông tin trên website chỉ mang tính chất tham khảo.</p>"
+      },
+      {
+        "id": 36254,
+        "title": "Cơ chế hoạt động của hoạt chất Bambuterol có trong Bambec 10mg là gì?",
+        "content": "<p>Bambuterol là một tiền chất của terbutalin, hoạt động như một chất chủ vận giao cảm trên thụ thể beta, có khả năng kích thích chọn lọc trên beta - 2. Cơ chế này giúp làm giãn cơ trơn phế quản, ức chế sự phóng thích các chất gây co thắt nội sinh, và làm tăng sự thanh thải của hệ thống lông chuyển nhầy.</p>"
+      },
+      {
+        "id": 36253,
+        "title": "Thuốc Bambec 10mg chứa thành phần hoạt chất nào?",
+        "content": "<p>Bambec chứa hoạt chất chính là Bambuterol với hàm lượng 10mg cho mỗi viên.</p>"
+      },
+      {
+        "id": 36252,
+        "title": "Thuốc Bambec 10mg được chỉ định điều trị những bệnh lý nào?",
+        "content": "<p>Thuốc Bambec 10mg được chỉ định điều trị hen phế quản, co thắt phế quản và/hoặc tắc nghẽn đường dẫn khí có hồi phục.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00005129",
+        "name": "NASONEX 60DOSE",
+        "webName": "Thuốc xịt mũi Nasonex Bayer điều trị viêm mũi dị ứng (60 liều)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005129_nasonex_60_1660_6387_large_686b538a0d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 775,
+            "name": "Thuốc trị hen suyễn",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/thuoc-tri-hen-suyen",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 7333,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 205000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/nasonex-60-2924.html",
+        "ingredients": "Mometasone furoate 50mcg",
+        "dosageForm": "Hỗn dịch xịt mũi",
+        "brand": "Bayer",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp",
+        "prices": [
+          {
+            "id": 7333,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 205000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 28,
+      "items": [
+        {
+          "id": 3335568,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0918xxxxxx",
+          "name": "trúc",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá sao ạ",
+          "createdAt": "2026-07-08 14:49:23",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-08 14:49:23",
+          "replies": [
+            {
+              "id": 3335572,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Đăng Dương",
+                "moderatorEmail": "duongnd46@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Đăng Dương",
+              "email": "duongnd46@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Trúc,</p><p>Hiện tại, sản phẩm Thuốc Bambec 10mg AstraZeneca điều trị hen phế quản, co thắt phế quản (3 vỉ x 10 viên)</p><p> có giá 174,000 ₫/Hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a> <a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-07-08 14:54:07",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-08 14:49:23",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3309482,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0980xxxxxx",
+          "name": "chị liễu",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 hộp bao nhiêu",
+          "createdAt": "2026-05-19 19:21:06",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-19 19:21:06",
+          "replies": [
+            {
+              "id": 3309493,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Mai Anh",
+                "moderatorEmail": "anhltm9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Mai Anh",
+              "email": "anhltm9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Liễu,</p><p>Hiện tại, sản phẩm Thuốc Bambec 10mg AstraZeneca điều trị hen phế quản, co thắt phế quản (3 vỉ x 10 viên) có giá 174,000 ₫/hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-05-19 19:34:04",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-19 19:21:06",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3293010,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0376xxxxxx",
+          "name": "Chị Mơ",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá sản phẩm này bao nhiêu ạ, ở đa phúc có ship không ",
+          "createdAt": "2026-04-18 15:57:43",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-18 15:57:43",
+          "replies": [
+            {
+              "id": 3293015,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Bích Diệp",
+                "moderatorEmail": "diepnb6@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Bích Diệp",
+              "email": "diepnb6@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Mơ,</p><p>Hiện tại, sản phẩm Thuốc Bambec 10mg AstraZeneca&nbsp;có giá 174,000 ₫/ hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a> <a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-04-18 16:02:55",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-18 15:57:43",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3278812,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0962xxxxxx",
+          "name": "chị ánh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "sản phẩm này có ship được không ạ? Hãy phải mua trực tiếp tại cửa hàng ạ?",
+          "createdAt": "2026-03-23 16:36:25",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-23 16:36:25",
+          "replies": [
+            {
+              "id": 3278818,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Võ Kiều Nguyệt Nhi",
+                "moderatorEmail": "nhivkn@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Võ Kiều Nguyệt Nhi",
+              "email": "nhivkn@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Ánh,</p><p>Hiện tại, sản phẩm Bambec 10mg AstraZeneca có giá 174,000/hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/ZALO OA Nhà thuốc FPT Long Châu</a></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-03-23 16:42:09",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-23 16:36:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3256140,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0987xxxxxx",
+          "name": "Bi",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "XIN GIÁ",
+          "createdAt": "2026-02-04 14:46:31",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-04 14:46:31",
+          "replies": [
+            {
+              "id": 3256142,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Hồng Ngọc",
+                "moderatorEmail": "ngoctth25@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Hồng Ngọc",
+              "email": "ngoctth25@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Bi,</p><p>Hiện tại, sản phẩm&nbsp;Bambec 10mg AstraZeneca&nbsp;có giá 174,000/hộp.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại ứng dụng Long Châu/ZALO OA Nhà thuốc FPT Long Châu để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-02-04 14:48:40",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-04 14:46:31",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Bambec 10mg AstraZeneca điều trị hen phế quản, co thắt phế quản (3 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bambec_10_3x10_astrazeneca_00001109_01369bde25.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_6459_63d7_large_2f14b33c47.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_6535_63d7_large_a8b8692583.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_2764_63d7_large_367fc2a8ca.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_9416_63d7_large_74d372cdf6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_7986_63d7_large_705d1cb8b1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_4677_63d7_large_f60ba2fd2c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_6829_63d7_large_3110f72b1d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001109_bambec_10_1523_63d7_large_4e75ff12aa.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Bambec® 10 mg của AstraZeneca Pharmaceutical Co., Ltd, thành phần chính là Bambuterol Hydrochloride. Bambec® 10 mg có tác dụng điều trị hen phế quản, co thắt phế quản và/hoặc tắc nghẽn đường dẫn khí có hồi phục.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Phạm Nguyễn Hoàng Kim"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Bambec 10mg: Thuốc trị hen suyễn, viêm phế quản (30 viên)",
+      "description": "Thuốc Bambec 10mg thành phần chính là bambuterol hydrochloride, có tác dụng điều trị hen phế quản, co thắt phế quản và/hoặc tắc nghẽn đường dẫn khí có hồi phục.",
+      "openGraph": {
+        "title": "Thuốc Bambec 10mg AstraZeneca điều trị hen phế quản, co thắt phế quản (3 vỉ x 10 viên)",
+        "description": "Bambec® 10 mg của AstraZeneca Pharmaceutical Co., Ltd, thành phần chính là Bambuterol Hydrochloride. Bambec® 10 mg có tác dụng điều trị hen phế quản, co thắt phế quản và/hoặc tắc nghẽn đường dẫn khí có hồi phục.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bambec_10_3x10_astrazeneca_00001109_01369bde25.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/bambec-10-4576.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/bambec-10-4576.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

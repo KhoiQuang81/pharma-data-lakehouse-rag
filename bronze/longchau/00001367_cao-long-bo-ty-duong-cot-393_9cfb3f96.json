@@ -1,0 +1,1986 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/cao-long-bo-ty-duong-cot-393.html",
+  "ingestion_timestamp": "2026-09-05T08:54:42.839753+00:00",
+  "file_hash": "34b5cfc7df4ecf8651ab821c356e9209baa639ca8b75f18d7d862489059ba20c",
+  "lineage_hash": "2e4226f1f9f537d0bd4184e54a413123bfec636f9fdae84bac836f6c8a827b5d",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/cao-long-bo-ty-duong-cot-393.html",
+    "product": {
+      "sku": "00001367",
+      "webName": "Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương hỗ trợ điều trị chán ăn, đầy bụng, bổ sung canxi cho trẻ còi xương (100ml)",
+      "name": "BỔ TỲ DƯỠNG CỐT THÁI DƯƠNG 100ML",
+      "shortName": "BỔ TỲ DƯỠNG CỐT TD 100ML",
+      "headingText": "Cao lỏng Bổ Tỳ Dưỡng Cốt",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_5639_5b59_large_b0aa9e9971.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_9781_5b59_large_b88f70284b.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_7389_5b59_large_54f7a63c89.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_2747_5b59_large_0b964b3e6f.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_4484_5b59_large_6486974d7c.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 726,
+          "name": "Cơ - xương - khớp",
+          "parentName": "Thuốc",
+          "slug": "thuoc/co-xuong-khop",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 742,
+          "name": "Thuốc xương khớp",
+          "parentName": "Cơ - xương - khớp",
+          "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Chai x 100ml"
+        }
+      ],
+      "slug": "thuoc/cao-long-bo-ty-duong-cot-393.html",
+      "ingredient": [
+        {
+          "id": 26840,
+          "ingredientId": 40836,
+          "shortDescription": "12",
+          "name": "Ý Dĩ",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 26841,
+          "ingredientId": 26253,
+          "shortDescription": "12",
+          "name": "Mạch Nha",
+          "isPrimary": false,
+          "slug": "thanh-phan/mach-nha"
+        },
+        {
+          "id": 26842,
+          "ingredientId": 25540,
+          "shortDescription": "8",
+          "name": "Liên Nhục",
+          "isPrimary": false,
+          "slug": "thanh-phan/lien-nhuc"
+        },
+        {
+          "id": 26843,
+          "ingredientId": 36521,
+          "shortDescription": "4",
+          "name": "Sơn Tra",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 26844,
+          "ingredientId": 16671,
+          "shortDescription": "8",
+          "name": "Đảng Sâm",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 26845,
+          "ingredientId": 38053,
+          "shortDescription": "12",
+          "name": "Thần Khúc",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 26846,
+          "ingredientId": 32516,
+          "shortDescription": "12",
+          "name": "Phục Linh",
+          "isPrimary": false,
+          "slug": "thanh-phan/phuc-linh"
+        },
+        {
+          "id": 26847,
+          "ingredientId": 32156,
+          "shortDescription": "4",
+          "name": "Phấn Hoa",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 26848,
+          "ingredientId": 22414,
+          "shortDescription": "8",
+          "name": "Hoài Sơn",
+          "isPrimary": false,
+          "slug": "thanh-phan/hoai-son"
+        },
+        {
+          "id": 26849,
+          "ingredientId": 12836,
+          "shortDescription": "3",
+          "name": "Cao xương hỗn hợp",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 26850,
+          "ingredientId": 10138,
+          "shortDescription": "",
+          "name": "Bạch truật",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 26851,
+          "ingredientId": 12473,
+          "shortDescription": "",
+          "name": "Cam thảo",
+          "isPrimary": false,
+          "slug": "thanh-phan/cam-thao"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "",
+      "registNum": "VD-27323-17",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Dung dịch uống",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Lắc kỹ trước khi dùng.</p>\n\n<p>Uống liền hoặc có thể pha thêm với nước chín (nước đun sôi để nguội) để cho hợp vị ngọt.</p>\n\n<p>Không dùng quá 30 ngày kể từ khi mở nắp.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Liều khuyến cáo:</p>\n\n<p>Trẻ em dưới 1 tuổi: Ngày 1-2 lần, mỗi lần 2.5ml (1/2 thìa cà phê).</p>\n\n<p>Trẻ từ 1-3 tuổi: Ngày 3 lần, mỗi lần 5ml (1 thìa cà phê).</p>\n\n<p>Trẻ em trên 3 tuổi, người lớn: Ngày 2-3 lần, mỗi lần 15ml (1 thìa canh).</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Nếu quên dùng một liều thuốc, hãy dùng càng sớm càng tốt khi nhớ ra. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Không dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Cao lỏng Bổ tỳ dưỡng cốt Thái Dương được chỉ định dùng trong các trường hợp sau:</p><ul><li>Trẻ em lười ăn, ăn không ngon miệng, chậm lớn, còi xương, đầy bụng, <a href=\"https://nhathuoclongchau.com.vn/benh/kho-tieu-578.html\">khó tiêu</a>, suy dinh dưỡng.</li><li>Trẻ nhỏ đang trong thời kỳ tăng trưởng và phát triển chiều cao.</li><li>Người lớn đầy bụng, khó tiêu, chán ăn, suy nhược cơ thể, ốm yếu lâu ngày.</li></ul><h3><strong>Dược lực học</strong></h3><p>Cao lỏng Bổ tỳ dưỡng cốt Thái Dương kích thích tiêu hóa, tạo cảm giác mau đói, thèm ăn, ăn khỏe, bổ sung canxi hữu cơ và giúp phát triển tế bào xương.</p><h3><strong>Dược động học</strong></h3><p>Chưa có thông tin.</p>",
+      "brand": "Sao Thái Dương",
+      "brandType": null,
+      "adverseEffect": "<p>Chưa có báo cáo.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Chai X 100ml",
+      "indications": [
+        {
+          "id": 233,
+          "name": "Suy nhược cơ thể",
+          "slug": "benh/suy-nhuoc-co-the-701.html"
+        },
+        {
+          "id": 612,
+          "name": "Rối loạn tiêu hóa",
+          "slug": "benh/roi-loan-tieu-hoa-210.html"
+        },
+        {
+          "id": 1186,
+          "name": "Chậm tăng trưởng",
+          "slug": null
+        },
+        {
+          "id": 1359,
+          "name": "Thèm ăn vô độ",
+          "slug": null
+        },
+        {
+          "id": 1371,
+          "name": "Suy nhược",
+          "slug": null
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "THÁI DƯƠNG",
+      "shortDescription": "<p>Thuốc Cao lỏng Bổ tỳ dưỡng cốt Thái Dương của Công ty Cổ phần Sao Thái Dương, thành phần chính là bạch truật, y dĩ, cam thảo, mạch nha, liên nhục, sơn trà, đảng sâm, thần khúc, phục linh, phấn hoa, hoài sơn, cao xương hỗn hợp. Cao lỏng Bổ tỳ dưỡng cốt Thái Dương có tác dụng kích thích tiêu hóa, tạo cảm giác mau đói, thèm ăn, ăn khỏe. Bổ sung canxi hữu cơ, giúp phát triển tế bào xương.</p>\n\n<p>Cao lỏng Bổ tỳ dưỡng cốt Thái Dương được bào chế dưới dạng cao lỏng, đóng gói theo quy cách: Hộp 1 chai 100ml.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "Trên 6 tháng tuổi",
+      "objectUse": [
+        "Người cao tuổi"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ cho con bú",
+        "Phụ nữ có thai"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Mang thai, Béo phì",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/sao-thai-duong",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "BỔ TỲ DƯỠNG CỐT THÁI DƯƠNG",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 6,
+        "measureUnitName": "Chai",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 1,
+        "productSpecs": "Chai x 100ml"
+      },
+      "highestLevelCategory": {
+        "id": 742,
+        "name": "Thuốc xương khớp",
+        "parentName": "Cơ - xương - khớp",
+        "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_5639_5b59_large_b0aa9e9971.JPG",
+          "alternativeText": "Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương hỗ trợ điều trị chán ăn, đầy bụng, bổ sung canxi cho trẻ còi xương (100ml) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_9781_5b59_large_b88f70284b.JPG",
+          "alternativeText": "Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương hỗ trợ điều trị chán ăn, đầy bụng, bổ sung canxi cho trẻ còi xương (100ml) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_7389_5b59_large_54f7a63c89.JPG",
+          "alternativeText": "Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương hỗ trợ điều trị chán ăn, đầy bụng, bổ sung canxi cho trẻ còi xương (100ml) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_2747_5b59_large_0b964b3e6f.JPG",
+          "alternativeText": "Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương hỗ trợ điều trị chán ăn, đầy bụng, bổ sung canxi cho trẻ còi xương (100ml) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_4484_5b59_large_6486974d7c.JPG",
+          "alternativeText": "Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương hỗ trợ điều trị chán ăn, đầy bụng, bổ sung canxi cho trẻ còi xương (100ml) 5"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Cơ - xương - khớp",
+        "slug": "/thuoc/co-xuong-khop"
+      },
+      {
+        "name": "Thuốc xương khớp",
+        "slug": "/thuoc/co-xuong-khop/thuoc-xuong-khop"
+      }
+    ],
+    "content": {
+      "sku": "00001367",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Lắc kỹ trước khi dùng.</p>\n\n<p>Uống liền hoặc có thể pha thêm với nước chín (nước đun sôi để nguội) để cho hợp vị ngọt.</p>\n\n<p>Không dùng quá 30 ngày kể từ khi mở nắp.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Liều khuyến cáo:</p>\n\n<p>Trẻ em dưới 1 tuổi: Ngày 1-2 lần, mỗi lần 2.5ml (1/2 thìa cà phê).</p>\n\n<p>Trẻ từ 1-3 tuổi: Ngày 3 lần, mỗi lần 5ml (1 thìa cà phê).</p>\n\n<p>Trẻ em trên 3 tuổi, người lớn: Ngày 2-3 lần, mỗi lần 15ml (1 thìa canh).</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Nếu quên dùng một liều thuốc, hãy dùng càng sớm càng tốt khi nhớ ra. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Không dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Cao lỏng Bổ tỳ dưỡng cốt Thái Dương.</p></body></html>",
+      "adverseEffect": "<p>Chưa có báo cáo.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Nơi khô, mát, tránh ánh sáng, nhiệt độ không quá 30<sup>o</sup>C.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Cao lỏng Bổ tỳ dưỡng cốt Thái Dương được chỉ định dùng trong các trường hợp sau:</p><ul><li>Trẻ em lười ăn, ăn không ngon miệng, chậm lớn, còi xương, đầy bụng, <a href=\"https://nhathuoclongchau.com.vn/benh/kho-tieu-578.html\">khó tiêu</a>, suy dinh dưỡng.</li><li>Trẻ nhỏ đang trong thời kỳ tăng trưởng và phát triển chiều cao.</li><li>Người lớn đầy bụng, khó tiêu, chán ăn, suy nhược cơ thể, ốm yếu lâu ngày.</li></ul><h3><strong>Dược lực học</strong></h3><p>Cao lỏng Bổ tỳ dưỡng cốt Thái Dương kích thích tiêu hóa, tạo cảm giác mau đói, thèm ăn, ăn khỏe, bổ sung canxi hữu cơ và giúp phát triển tế bào xương.</p><h3><strong>Dược động học</strong></h3><p>Chưa có thông tin.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3><strong>Chống chỉ định</strong></h3>\n\n<p>Thuốc Cao lỏng Bổ tỳ dưỡng cốt Thái Dương chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Trẻ béo phì.</li>\n\t<li>Người đang cho con bú.</li>\n</ul>\n\n<h3><strong>Thận trọng khi sử dụng</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Thời kỳ mang thai</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Thời kỳ cho con bú</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Tương tác thuốc</strong></h3>\n\n<p>Chưa có báo cáo.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Cao Lỏng Bổ Tỳ Dưỡng Cốt - Thái Dương hỗ trợ kích thích tiêu hóa",
+        "metaDescription": "Cao Lỏng Bổ Tỳ Dưỡng Cốt - Thái Dương thành phần chính là bạch truật, y dĩ, cam thảo, mạch nha, liên nhục, sơn trà, đảng sâm, thần khúc, phục linh, phấn hoa, hoài sơn, cao xương hỗn hợp. Cao lỏng Bổ tỳ dưỡng cốt Thái Dương có tác dụng kích thích tiêu hóa, tạo cảm giác mau đói.",
+        "id": 5583,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_5639_5b59_large_b0aa9e9971.JPG",
+              "alternativeText": null
+            },
+            "title": "Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương hỗ trợ điều trị chán ăn, đầy bụng, bổ sung canxi cho trẻ còi xương (100ml)",
+            "description": "Thuốc Cao lỏng Bổ tỳ dưỡng cốt Thái Dương của Công ty Cổ phần Sao Thái Dương, thành phần chính là bạch truật, y dĩ, cam thảo, mạch nha, liên nhục, sơn trà, đảng sâm, thần khúc, phục linh, phấn hoa, hoài sơn, cao xương hỗn hợp. Cao lỏng Bổ tỳ dưỡng cốt Thái Dương có tác dụng kích thích tiêu hóa, tạo cảm giác mau đói, thèm ăn, ăn khỏe. Bổ sung canxi hữu cơ, giúp phát triển tế bào xương.\n\nCao lỏng Bổ tỳ dưỡng cốt Thái Dương được bào chế dưới dạng cao lỏng, đóng gói theo quy cách: Hộp 1 chai 100ml."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 34115,
+        "title": "Bảo quản Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương như thế nào để đảm bảo chất lượng?",
+        "content": "<p>Sản phẩm cần được bảo quản ở nơi khô ráo, thoáng mát, tránh ánh sáng trực tiếp và nhiệt độ không quá 30°C.</p>"
+      },
+      {
+        "id": 34113,
+        "title": "Khi quên một liều Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương thì cần làm gì?",
+        "content": "<p>Nếu quên dùng một liều thuốc, hãy dùng ngay khi nhớ ra. Tuy nhiên, nếu thời điểm đó gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều tiếp theo đúng theo kế hoạch. Không dùng gấp đôi liều đã quy định để bù cho liều đã quên.</p>"
+      },
+      {
+        "id": 34112,
+        "title": "Ai không nên sử dụng Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương?",
+        "content": "<p>Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương chống chỉ định trong các trường hợp trẻ béo phì và người đang cho con bú.</p>"
+      },
+      {
+        "id": 34110,
+        "title": "Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương được chỉ định sử dụng cho những đối tượng nào?",
+        "content": "<p>Sản phẩm này được chỉ định sử dụng cho trẻ em lười ăn, ăn không ngon miệng, chậm lớn, còi xương, đầy bụng, khó tiêu, suy dinh dưỡng. Đồng thời, cũng dùng cho trẻ nhỏ đang trong thời kỳ tăng trưởng và phát triển chiều cao. Đối với người lớn, sản phẩm được chỉ định cho các trường hợp đầy bụng, khó tiêu, chán ăn, suy nhược cơ thể, ốm yếu lâu ngày.</p>"
+      },
+      {
+        "id": 34109,
+        "title": "Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương là gì và có công dụng chính nào?",
+        "content": "<p>Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương là một loại thuốc được bào chế dưới dạng cao lỏng, do Công ty Cổ phần Sao Thái Dương sản xuất. Sản phẩm này có công dụng chính là hỗ trợ kích thích tiêu hóa, giúp tạo cảm giác mau đói, thèm ăn, ăn khỏe. Bên cạnh đó, sản phẩm còn bổ sung canxi hữu cơ, góp phần vào sự phát triển của tế bào xương.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00047373",
+        "name": "THUỐC VIÊN VAI GÁY ABIPHA 3X10",
+        "webName": "Viên vai gáy Abipha giảm đau nhức vai gáy, cơ xương khớp, tăng cường lưu thông khí huyết (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_vien_vai_gay_abipha_3x10_00047373_934408f055.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 726,
+            "name": "Cơ - xương - khớp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/co-xuong-khop",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 742,
+            "name": "Thuốc xương khớp",
+            "parentName": "Cơ - xương - khớp",
+            "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 74047,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 6000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vien-vai-gay-abipha-3-x10.html",
+        "ingredients": "Hoàng kỳ 720mg, Xích thược 720mg, Khương hoạt 720mg, Khương hoàng 720mg, Phòng phong 720mg, Đương quy 720mg, Cam thảo 240mg, Can khương 400mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Abipha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 74045,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 180000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 74046,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 74047,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00501891",
+        "name": "XƯƠNG KHỚP TRƯỜNG PHÚC 2X10",
+        "webName": "Thuốc Xương Khớp Trường Phúc điều trị các bệnh lý cơ xương khớp và đau dây thần kinh (2 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00501891_7317_631e_large_5ad83881d2.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 726,
+            "name": "Cơ - xương - khớp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/co-xuong-khop",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 742,
+            "name": "Thuốc xương khớp",
+            "parentName": "Cơ - xương - khớp",
+            "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 51312,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 99000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/xuong-khop-truong-phuc-2x10-36054.html",
+        "ingredients": "Phòng phong 400mg, Độc hoạt 600mg, Tang ký sinh 400mg, Tần giao 400mg, Tế tân 400mg, Bạch linh 400mg, Ngưu tất (Rễ) 400mg, Đỗ trọng 400mg, Bạch thược 400mg, Quế chi 400mg, Đảng Sâm 400mg, Sinh Địa 400mg, Xuyên khung 400mg, Đương quy 400mg, Cam thảo 400mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "TRƯỜNG PHÚC",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 7.3812261,
+        "specification": "Hộp 2 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 51312,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 99000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00022043",
+        "name": "CALCID SOFT USA - NIC PHARMA 10X10",
+        "webName": "Thuốc Calcid Soft cung cấp Calci và Vitamin D, giúp xương chắc khỏe (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/calcid_soft_10x10_usa_nic_pharma_00022043_d4085a6ee5.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 726,
+            "name": "Cơ - xương - khớp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/co-xuong-khop",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 742,
+            "name": "Thuốc xương khớp",
+            "parentName": "Cơ - xương - khớp",
+            "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 27979,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 185000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/calcid-soft-usa-nic-pharma-10x10-22385.html",
+        "ingredients": "Calci carbonat 518mg, Vitamin D3 100iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Usa - Nic Pharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 27977,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1850,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 27978,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 18500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 27979,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 185000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00018614",
+        "name": "NATECAL D3 ITALFARMACO 60V",
+        "webName": "Viên nén Natecal D3 Italfarmaco điều trị và phục hồi thiếu vitamin D (60 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00100_abc103f79f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 726,
+            "name": "Cơ - xương - khớp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/co-xuong-khop",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 742,
+            "name": "Thuốc xương khớp",
+            "parentName": "Cơ - xương - khớp",
+            "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 23705,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 4333,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/natecal-d3-italfarmaco-60v-19932.html",
+        "ingredients": "Calcium 600mg, Cholecalciferol 400IU",
+        "dosageForm": "Viên nén",
+        "brand": "Italfarmaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 100,
+        "productRanking": 0,
+        "specification": "Hộp 60 viên",
+        "prices": [
+          {
+            "id": 23705,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 4333,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 23706,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 260000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 259,
+          "attributeName": "Ý",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Y_7fc103d37f.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00053034",
+        "name": "CALCI-D USA-NIC 10X10",
+        "webName": "Thuốc Calci-D Usa-nic phòng ngừa và điều trị tình trạng thiếu hụt canxi và vitamin D (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_calci_d_usa_nic_10x10_00053034_4_200743a759.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 726,
+            "name": "Cơ - xương - khớp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/co-xuong-khop",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 742,
+            "name": "Thuốc xương khớp",
+            "parentName": "Cơ - xương - khớp",
+            "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 85016,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 185000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/calci-d-usa-nic-10-x10.html",
+        "ingredients": "Calci carbonat 518mg, Vitamin D3 100iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Usa - Nic Pharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 80,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 85016,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 185000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 85017,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 18500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 85018,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 1850,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00004135",
+        "name": "KIDDIECAL CATALENT 30V",
+        "webName": "Viên nhai KiddieCal Catalent bổ sung canxi và vitamin D (30 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004135_kiddieical_678mg_5017_6424_large_020d6c519c.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 726,
+            "name": "Cơ - xương - khớp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/co-xuong-khop",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 742,
+            "name": "Thuốc xương khớp",
+            "parentName": "Cơ - xương - khớp",
+            "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 5706,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 275000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/kiddieical-678mg-420.html",
+        "ingredients": "Calcium 200mg, Vitamin D3 200iu, Vitamin K1 30mcg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Catalent",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 30 Viên",
+        "prices": [
+          {
+            "id": 5706,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 275000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 5705,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 9167,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007853",
+        "name": "VIARTRILS 1.5G ROTTAPHARM 30 GÓI",
+        "webName": "Bột pha uống Viartril-S 1500mg Rottapharm giảm triệu chứng thoái hóa khớp nhẹ và trung bình (30 gói)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/bot_pha_uong_viartrils_1_5g_rottapharm_30_goi_00007853_404995d820.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 726,
+            "name": "Cơ - xương - khớp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/co-xuong-khop",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 742,
+            "name": "Thuốc xương khớp",
+            "parentName": "Cơ - xương - khớp",
+            "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11536,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 480000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/viartril-s-1795.html",
+        "ingredients": "Glucosamin sulfate 1500mg",
+        "dosageForm": "Bột pha dung dịch uống",
+        "brand": "Rottapharm",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 30 Gói",
+        "prices": [
+          {
+            "id": 11535,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 16000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11536,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 480000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 259,
+          "attributeName": "Ý",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Y_7fc103d37f.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001518",
+        "name": "CALCIUM 500MG HASAN 20V",
+        "webName": "Viên sủi Calcium Hasan 500mg phòng và hỗ trợ điều trị bệnh loãng xương (20 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3111_454869e597.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 726,
+            "name": "Cơ - xương - khớp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/co-xuong-khop",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 742,
+            "name": "Thuốc xương khớp",
+            "parentName": "Cơ - xương - khớp",
+            "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1672,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 46000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/calcium-hasan-500mg-4417.html",
+        "ingredients": "Calci lactat 2940mg, Calci carbonat 300mg",
+        "dosageForm": "Viên nén sủi bọt",
+        "brand": "Hasan",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 20 Viên",
+        "prices": [
+          {
+            "id": 1671,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 2300,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1672,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 46000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001431",
+        "name": "BRIOZCAL 3X10",
+        "webName": "Thuốc Briozcal Bridge Healthcare dự phòng và điều trị thiếu hụt calci, vitamin D3 (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/briozcal_3x10_00001431_9489c9c2c1.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 726,
+            "name": "Cơ - xương - khớp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/co-xuong-khop",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 742,
+            "name": "Thuốc xương khớp",
+            "parentName": "Cơ - xương - khớp",
+            "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1556,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 117900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/briozcal-4452.html",
+        "ingredients": "Calci carbonat 1.25g, Cholecalciferol 125iu",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Bridge Healthcare",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 1554,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 3930,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1556,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 117900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 1555,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 39300,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001403",
+        "name": "BONLUTIN 4X15",
+        "webName": "Thuốc Bonlutin Catalent giảm triệu chứng của thoái hóa khớp gối nhẹ và trung bình (4 vỉ x 15 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/bonlutin_4x15_00001403_d54886acbd.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 726,
+            "name": "Cơ - xương - khớp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/co-xuong-khop",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 742,
+            "name": "Thuốc xương khớp",
+            "parentName": "Cơ - xương - khớp",
+            "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1507,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 360000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bonlutin-4469.html",
+        "ingredients": "Fish oil 500mg, Glucosamine 500mg, Chondroitin sulfate 11.1mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Catalent",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 4 vỉ x 15 viên",
+        "prices": [
+          {
+            "id": 1505,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1506,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 90000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 1507,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 360000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00016477",
+        "name": "PHONG TÊ THẤP BÀ GIẰNG 400V",
+        "webName": "Thuốc Phong Tê Thấp Bà Giằng điều trị đau vai gáy, đau thần kinh tọa (400 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/b_766f48be41.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 726,
+            "name": "Cơ - xương - khớp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/co-xuong-khop",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 742,
+            "name": "Thuốc xương khớp",
+            "parentName": "Cơ - xương - khớp",
+            "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 19890,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 100000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/phong-te-thap-ba-giang-400v-14226.html",
+        "ingredients": "Ngưu tất (Rễ) 12mg, Đỗ trọng 14mg, Đương quy 14mg, Mã tiền chế 14mg, Quế chi 0.8mg, Thương truật 16mg, Độc hoạt 16mg, Thổ phục linh 20mg",
+        "dosageForm": "Hoàn cứng",
+        "brand": "Bà Giằng",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 400 viên",
+        "prices": [
+          {
+            "id": 19890,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 100000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 19889,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 250,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00014728",
+        "name": "CALCIUM 500MG STELLA 20V",
+        "webName": "Viên sủi Calcium Stella 500mg phòng và hỗ trợ điều trị loãng xương (20 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/calcium_500mg_20v_stella_00014728_7420f7f874.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 726,
+            "name": "Cơ - xương - khớp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/co-xuong-khop",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 742,
+            "name": "Thuốc xương khớp",
+            "parentName": "Cơ - xương - khớp",
+            "slug": "thuoc/co-xuong-khop/thuoc-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 17520,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 70000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/calcium-stada-500mg-15436.html",
+        "ingredients": "Calcium 500mg",
+        "dosageForm": "Viên nén sủi bọt",
+        "brand": "Stella Pharm",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 20 Viên",
+        "prices": [
+          {
+            "id": 17520,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 70000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 17519,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 3500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 13,
+      "items": [
+        {
+          "id": 3332495,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0838xxxxxx",
+          "name": "chị giang",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Sản phẩm có sẵn ko ạ, mình cần mua",
+          "createdAt": "2026-07-03 09:05:07",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-07-03 09:05:07",
+          "replies": [
+            {
+              "id": 3332502,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Tú Chi",
+                "moderatorEmail": "chintt3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Tú Chi",
+              "email": "chintt3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Giang,</p><p> Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-07-03 09:09:59",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-07-03 09:05:07",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3330989,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0858xxxxxx",
+          "name": "Chị Nhi",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "sản phẩm này bao nhiêu ạ",
+          "createdAt": "2026-07-01 01:23:40",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-07-01 01:23:40",
+          "replies": [
+            {
+              "id": 3331044,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lương Trần Bảo Phúc",
+                "moderatorEmail": "phucltb2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lương Trần Bảo Phúc",
+              "email": "phucltb2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Nhi ạ,</p><p>Để tiện hỗ trợ tư vấn chi tiết về sản phẩm Bổ Tỳ Dưỡng Cốt và liều dùng phù hợp nhất cho mình, tư vấn viên chuyên môn của Nhà thuốc sẽ chủ động liên hệ sớm với Chị qua số điện thoại Chị để lại ạ.</p><p>Chúc Chị và gia đình luôn dồi dào sức khỏe ạ.</p>",
+              "createdAt": "2026-07-01 08:36:51",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-07-01 01:23:40",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3324367,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0989xxxxxx",
+          "name": "TuyếtNguyen",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tôi muốn mua sp này",
+          "createdAt": "2026-06-17 20:17:19",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-17 20:17:19",
+          "replies": [
+            {
+              "id": 3324373,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Kim Ánh Ngọc",
+                "moderatorEmail": "ngocka@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Kim Ánh Ngọc",
+              "email": "ngocka@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Tuyết,</p><p> Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-06-17 20:28:00",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-17 20:17:19",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3306472,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0967xxxxxx",
+          "name": "anh pháp",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "sản phẩm này có đang sẵn hàng không ",
+          "createdAt": "2026-05-13 21:23:48",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-13 21:23:48",
+          "replies": [
+            {
+              "id": 3306475,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Thuỳ Trang",
+                "moderatorEmail": "trangttt64@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Thuỳ Trang",
+              "email": "trangttt64@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Pháp,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-05-13 21:27:05",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-13 21:23:48",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3300305,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0389xxxxxx",
+          "name": "Chị Trang",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "còn sợ này ko shop",
+          "createdAt": "2026-05-04 09:27:59",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-05-04 09:27:59",
+          "replies": [
+            {
+              "id": 3300310,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Kim Uyên",
+                "moderatorEmail": "uyenntk3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Kim Uyên",
+              "email": "uyenntk3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý khách,</p><p> Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với Quý khách qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-05-04 09:29:49",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-05-04 09:27:59",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 3278903,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0963xxxxxx",
+          "name": "chị vân",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-03-23 19:38:45",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-23 19:38:45",
+          "replies": [
+            {
+              "id": 3278909,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Vũ Tiến Thành",
+                "moderatorEmail": "thanhvt57@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Vũ Tiến Thành",
+              "email": "thanhvt57@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Vân,</p><p>Dạ rất cảm ơn tình cảm của chị dành cho Nhà thuốc FPT Long Châu. Chúc chị nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-03-23 19:46:39",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-23 19:38:45",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương hỗ trợ điều trị chán ăn, đầy bụng, bổ sung canxi cho trẻ còi xương (100ml)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_5639_5b59_large_b0aa9e9971.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_9781_5b59_large_b88f70284b.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_7389_5b59_large_54f7a63c89.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_2747_5b59_large_0b964b3e6f.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_4484_5b59_large_6486974d7c.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Cao lỏng Bổ tỳ dưỡng cốt Thái Dương của Công ty Cổ phần Sao Thái Dương, thành phần chính là bạch truật, y dĩ, cam thảo, mạch nha, liên nhục, sơn trà, đảng sâm, thần khúc, phục linh, phấn hoa, hoài sơn, cao xương hỗn hợp. Cao lỏng Bổ tỳ dưỡng cốt Thái Dương có tác dụng kích thích tiêu hóa, tạo cảm giác mau đói, thèm ăn, ăn khỏe. Bổ sung canxi hữu cơ, giúp phát triển tế bào xương.\n\nCao lỏng Bổ tỳ dưỡng cốt Thái Dương được bào chế dưới dạng cao lỏng, đóng gói theo quy cách: Hộp 1 chai 100ml.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/cao-long-bo-ty-duong-cot-393.html",
+        "priceCurrency": "VND",
+        "price": 0,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/OutStock"
+      }
+    },
+    "seo": {
+      "title": "Cao Lỏng Bổ Tỳ Dưỡng Cốt - Thái Dương hỗ trợ kích thích tiêu hóa",
+      "description": "Cao Lỏng Bổ Tỳ Dưỡng Cốt - Thái Dương thành phần chính là bạch truật, y dĩ, cam thảo, mạch nha, liên nhục, sơn trà, đảng sâm, thần khúc, phục linh, phấn hoa, hoài sơn, cao xương hỗn hợp. Cao lỏng Bổ tỳ dưỡng cốt Thái Dương có tác dụng kích thích tiêu hóa, tạo cảm giác mau đói.",
+      "openGraph": {
+        "title": "Cao lỏng Bổ Tỳ Dưỡng Cốt Thái Dương hỗ trợ điều trị chán ăn, đầy bụng, bổ sung canxi cho trẻ còi xương (100ml)",
+        "description": "Thuốc Cao lỏng Bổ tỳ dưỡng cốt Thái Dương của Công ty Cổ phần Sao Thái Dương, thành phần chính là bạch truật, y dĩ, cam thảo, mạch nha, liên nhục, sơn trà, đảng sâm, thần khúc, phục linh, phấn hoa, hoài sơn, cao xương hỗn hợp. Cao lỏng Bổ tỳ dưỡng cốt Thái Dương có tác dụng kích thích tiêu hóa, tạo cảm giác mau đói, thèm ăn, ăn khỏe. Bổ sung canxi hữu cơ, giúp phát triển tế bào xương.\n\nCao lỏng Bổ tỳ dưỡng cốt Thái Dương được bào chế dưới dạng cao lỏng, đóng gói theo quy cách: Hộp 1 chai 100ml.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001367_cao_long_bo_ty_duong_cot_5639_5b59_large_b0aa9e9971.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/cao-long-bo-ty-duong-cot-393.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/cao-long-bo-ty-duong-cot-393.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

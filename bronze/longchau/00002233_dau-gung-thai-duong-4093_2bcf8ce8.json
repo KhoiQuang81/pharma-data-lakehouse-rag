@@ -1,0 +1,1608 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/dau-gung-thai-duong-4093.html",
+  "ingestion_timestamp": "2026-09-05T09:16:48.474963+00:00",
+  "file_hash": "f84a73887ae2c32ff9640143aa0b458ded11f9648de9f00e4e2f6897e501ecdc",
+  "lineage_hash": "64b275ec54bab8d4cb6f07131246db298d952dcc256f9cd7fe784905eebe9796",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/dau-gung-thai-duong-4093.html",
+    "product": {
+      "sku": "00002233",
+      "webName": "Dầu gừng Thái Dương điều trị đau đầu, đau lưng, đau dây thần kinh vai gáy (24ml)",
+      "name": "DẦU GỪNG THÁI DƯƠNG 24ML",
+      "shortName": "DẦU GỪNG TD 24ML",
+      "headingText": "Dầu gừng Thái Dương",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07690_1bb40ff95c.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07685_e47d152295.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07684_a1600a20be.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07686_5ba3104ab1.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07687_b9e76dfb18.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07688_5afe961b28.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07689_91f3de6e76.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07691_43b6707508.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dau_mu_u_thai_duong_24_ml_4794747473.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 688,
+          "name": "Miếng dán, cao xoa, dầu",
+          "parentName": "Thuốc",
+          "slug": "thuoc/mieng-dan-cao-xoa-dau",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 749,
+          "name": "Dầu nóng xoa bóp",
+          "parentName": "Miếng dán, cao xoa, dầu",
+          "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 80000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Chai x 24ml"
+        }
+      ],
+      "slug": "thuoc/dau-gung-thai-duong-4093.html",
+      "ingredient": [
+        {
+          "id": 40442,
+          "ingredientId": 21825,
+          "shortDescription": "12g",
+          "name": "Gừng",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 40443,
+          "ingredientId": 38658,
+          "shortDescription": "0.96ml",
+          "name": "Tinh dầu bạc hà",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 40444,
+          "ingredientId": 27307,
+          "shortDescription": "4.8g",
+          "name": "Methyl salicylate",
+          "isPrimary": false,
+          "slug": "thanh-phan/methyl-salicylate"
+        },
+        {
+          "id": 40445,
+          "ingredientId": 25837,
+          "shortDescription": "0.48ml",
+          "name": "Long não",
+          "isPrimary": false,
+          "slug": "thanh-phan/long-nao"
+        },
+        {
+          "id": 40446,
+          "ingredientId": 38695,
+          "shortDescription": "0.48ml",
+          "name": "Tinh dầu quế",
+          "isPrimary": false,
+          "slug": "thanh-phan/tinh-dau-que"
+        },
+        {
+          "id": 40447,
+          "ingredientId": 38684,
+          "shortDescription": "0.24ml",
+          "name": "Tinh dầu hương nhu",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 40448,
+          "ingredientId": 26940,
+          "shortDescription": "6.96g",
+          "name": "Menthol",
+          "isPrimary": false,
+          "slug": "thanh-phan/menthol"
+        },
+        {
+          "id": 40449,
+          "ingredientId": 38709,
+          "shortDescription": "0.96ml",
+          "name": "Tinh dầu tràm",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "24ml",
+      "registNum": "893100636024",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Dạng dầu",
+      "dosage": "<h3>Cách dùng</h3><p>Dùng thoa ngoài da.</p><p>Không dùng quá 12 tháng kể từ ngày mở nắp.</p><p>CHÚ Ý: Không được uống, không được bôi vào niêm mạc, mặt, không được bôi vào các vết thương hở.</p><h3>Liều dùng</h3><p><i>Các chứng đau nhức:</i> Xoa bóp dầu lên vùng trán, thái dương, các vùng cơ lưng, vai, gáy bị đau, mỏi.</p><p><i>Chân tay lạnh giá, tê, mỏi, phòng ngừa phong thâp: </i>Xoa bóp dầu vào gan bàn chân, lòng bàn tay hoặc hàng ngày, trước khi đi ngủ, nhỏ 10 - 20 giọt dầu vào chậu nước nóng, ngâm chân trong vòng 20 - 30 phút rồi lau khô.</p><p><i>Cảm cúm, cảm gió, cảm lạnh:</i></p><p>Xoa bóp lên vùng trán, thái dương, lòng bàn tay, cổ tay, các vùng cơ vai, gáy bị đau mỏi.</p><p>Đánh cảm, cạo gió.</p><p><i>Xông cảm: </i>Nhỏ 10 - 40 giọt dầu vào chậu nước nóng, trùm chăn rồi xông 10 - 15 phút.</p><p><i>Say tàu xe, buồn nôn, đau bụng lạnh: </i>Xoa dầu vào bụng, vùng rốn và dưới rốn, cổ tay (phía lòng bàn tay).</p><p><i>Muỗi đốt, côn trùng cắn: </i>Xoa dầu vào nơi muỗi đốt, côn trùng cắn.</p><p><strong>DÙNG 3 - 5 LẦN MỖI NGÀY.</strong></p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3 dir=\"ltr\">Làm gì khi dùng quá liều?</h3><p dir=\"ltr\">Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3 dir=\"ltr\">Làm gì khi quên 1 liều?</h3><p dir=\"ltr\">Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc dầu gừng Thái Dương được chỉ định dùng trong các trường hợp sau:</p><ul><li>Đau đầu, đau lưng, đau dây thần kinh, đau vai gáy, đau nhức do phong thấp, lòng bàn chân, bàn tay lạnh giá, tê, mỏi.</li><li>Cảm cúm, ngạt mũi, sổ mũi, đau bụng lạnh, buồn nôn do cảm gió, cảm lạnh, say tàu xe, ngứa do muỗi đốt, côn trùng cắn.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+      "brand": "Sao Thái Dương",
+      "brandType": null,
+      "adverseEffect": "<p>Chưa ghi nhận được báo cáo về phản ứng có hại của thuốc.</p><p>Thông báo cho bác sỹ hoặc dược sỹ những phản ứng có hại gặp phải khi sử dụng thuốc.</p><p>&nbsp;</p>",
+      "specification": "Chai X 24ml",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "THÁI DƯƠNG",
+      "shortDescription": "<p>Dầu gừng Thái Dương là sản phẩm của Công ty Sao Thái Dương Việt Nam. Thành phần chính là dịch chiết gừng, menthol và methyl salicylate. Sản phẩm được sử dụng cho các trường hợp đau đầu, đau lưng, đau dây thần kinh, đau vai gáy, đau nhức do phong thấp, lòng bàn chân, bàn tay lạnh giá, tê, mỏi; cảm cúm, ngạt mũi, sổ mũi, đau bụng lạnh, buồn nôn do cảm gió, cảm lạnh, say tàu xe, ngứa do muỗi đốt, côn trùng cắn.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "Trên 30 tháng tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Phụ nữ cho con bú",
+        "Trẻ em"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/sao-thai-duong",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "DẦU GỪNG",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "60 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 6,
+        "measureUnitName": "Chai",
+        "isSellDefault": true,
+        "price": 80000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Chai x 24ml"
+      },
+      "highestLevelCategory": {
+        "id": 749,
+        "name": "Dầu nóng xoa bóp",
+        "parentName": "Miếng dán, cao xoa, dầu",
+        "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07690_1bb40ff95c.png",
+          "alternativeText": "Dầu gừng Thái Dương điều trị đau đầu, đau lưng, đau dây thần kinh vai gáy (24ml) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07685_e47d152295.png",
+          "alternativeText": "Dầu gừng Thái Dương điều trị đau đầu, đau lưng, đau dây thần kinh vai gáy (24ml) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07684_a1600a20be.png",
+          "alternativeText": "Dầu gừng Thái Dương điều trị đau đầu, đau lưng, đau dây thần kinh vai gáy (24ml) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07686_5ba3104ab1.png",
+          "alternativeText": "Dầu gừng Thái Dương điều trị đau đầu, đau lưng, đau dây thần kinh vai gáy (24ml) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07687_b9e76dfb18.png",
+          "alternativeText": "Dầu gừng Thái Dương điều trị đau đầu, đau lưng, đau dây thần kinh vai gáy (24ml) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07688_5afe961b28.png",
+          "alternativeText": "Dầu gừng Thái Dương điều trị đau đầu, đau lưng, đau dây thần kinh vai gáy (24ml) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07689_91f3de6e76.png",
+          "alternativeText": "Dầu gừng Thái Dương điều trị đau đầu, đau lưng, đau dây thần kinh vai gáy (24ml) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07691_43b6707508.png",
+          "alternativeText": "Dầu gừng Thái Dương điều trị đau đầu, đau lưng, đau dây thần kinh vai gáy (24ml) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dau_mu_u_thai_duong_24_ml_4794747473.jpg",
+          "alternativeText": "Dầu gừng Thái Dương điều trị đau đầu, đau lưng, đau dây thần kinh vai gáy (24ml) 9"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 80000,
+        "itemCode": "00002233",
+        "unitCode": 6,
+        "maxValue": 0,
+        "price": 80000,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Miếng dán, cao xoa, dầu",
+        "slug": "/thuoc/mieng-dan-cao-xoa-dau"
+      },
+      {
+        "name": "Dầu nóng xoa bóp",
+        "slug": "/thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop"
+      }
+    ],
+    "content": {
+      "sku": "00002233",
+      "dosage": "<h3>Cách dùng</h3><p>Dùng thoa ngoài da.</p><p>Không dùng quá 12 tháng kể từ ngày mở nắp.</p><p>CHÚ Ý: Không được uống, không được bôi vào niêm mạc, mặt, không được bôi vào các vết thương hở.</p><h3>Liều dùng</h3><p><i>Các chứng đau nhức:</i> Xoa bóp dầu lên vùng trán, thái dương, các vùng cơ lưng, vai, gáy bị đau, mỏi.</p><p><i>Chân tay lạnh giá, tê, mỏi, phòng ngừa phong thâp: </i>Xoa bóp dầu vào gan bàn chân, lòng bàn tay hoặc hàng ngày, trước khi đi ngủ, nhỏ 10 - 20 giọt dầu vào chậu nước nóng, ngâm chân trong vòng 20 - 30 phút rồi lau khô.</p><p><i>Cảm cúm, cảm gió, cảm lạnh:</i></p><p>Xoa bóp lên vùng trán, thái dương, lòng bàn tay, cổ tay, các vùng cơ vai, gáy bị đau mỏi.</p><p>Đánh cảm, cạo gió.</p><p><i>Xông cảm: </i>Nhỏ 10 - 40 giọt dầu vào chậu nước nóng, trùm chăn rồi xông 10 - 15 phút.</p><p><i>Say tàu xe, buồn nôn, đau bụng lạnh: </i>Xoa dầu vào bụng, vùng rốn và dưới rốn, cổ tay (phía lòng bàn tay).</p><p><i>Muỗi đốt, côn trùng cắn: </i>Xoa dầu vào nơi muỗi đốt, côn trùng cắn.</p><p><strong>DÙNG 3 - 5 LẦN MỖI NGÀY.</strong></p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3 dir=\"ltr\">Làm gì khi dùng quá liều?</h3><p dir=\"ltr\">Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3 dir=\"ltr\">Làm gì khi quên 1 liều?</h3><p dir=\"ltr\">Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<p>Tờ Hướng dẫn sử dụng Dầu gừng Thái Dương.</p>",
+      "adverseEffect": "<p>Chưa ghi nhận được báo cáo về phản ứng có hại của thuốc.</p><p>Thông báo cho bác sỹ hoặc dược sỹ những phản ứng có hại gặp phải khi sử dụng thuốc.</p><p>&nbsp;</p>",
+      "preservation": "<p>Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p><p>Để xa tầm tay trẻ em, đọc kỹ hướng dẫn sử dụng trước khi dùng.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc dầu gừng Thái Dương được chỉ định dùng trong các trường hợp sau:</p><ul><li>Đau đầu, đau lưng, đau dây thần kinh, đau vai gáy, đau nhức do phong thấp, lòng bàn chân, bàn tay lạnh giá, tê, mỏi.</li><li>Cảm cúm, ngạt mũi, sổ mũi, đau bụng lạnh, buồn nôn do cảm gió, cảm lạnh, say tàu xe, ngứa do muỗi đốt, côn trùng cắn.</li></ul><h3 dir=\"ltr\">Dược lực học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p><h3 dir=\"ltr\">Dược động học</h3><p dir=\"ltr\">Chưa có dữ liệu.</p>",
+      "ingredient": "",
+      "careful": "<h3 dir=\"ltr\">Chống chỉ định</h3><p dir=\"ltr\">Dầu gừng Thái Dương chống chỉ định trong các trường hợp sau:</p><ul><li>Không dùng cho người mẫn cảm với bất cứ thành phần nào của thuốc, trẻ em dưới 30 tháng tuổi, trẻ em có tiền sử động kinh hoặc co giật do sốt cao.</li></ul><h3 dir=\"ltr\">Thận trọng khi sử dụng</h3><p dir=\"ltr\">Cần rất thận trọng khi dùng thuốc cho người bệnh trong các trường hợp sau:</p><ul><li dir=\"ltr\">Không dùng cho người mẫn cảm với bất cứ thành phần nào của thuốc.</li></ul><h3 dir=\"ltr\">Ảnh hưởng của thuốc lên khả năng lái xe và vận hành máy móc</h3><p dir=\"ltr\">Chưa có bằng chứng về ảnh hưởng của thuốc lên khả năng lái xe, vận hành máy móc.</p><h3 dir=\"ltr\">Sử dụng thuốc cho phụ nữ trong thời kỳ mang thai và cho con bú</h3><p dir=\"ltr\">Không có dữ liệu về sử dụng thuốc trên phụ nữ có thai, chỉ nên dùng thuốc nếu lợi ích vượt trội so với nguy cơ.</p><h3 dir=\"ltr\">Tương tác thuốc</h3><p dir=\"ltr\">Tương tác thuốc có thể ảnh hưởng đến hoạt động của thuốc hoặc gây ra các tác dụng phụ.</p><p dir=\"ltr\">Bệnh nhân nên báo cho bác&nbsp;sĩ hoặc dược&nbsp;sĩ danh sách những thuốc và các thực phẩm chức năng bạn đang sử dụng. Không nên dùng hay tăng giảm liều lượng của thuốc mà không có sự hướng dẫn của bác&nbsp;sĩ.</p><p dir=\"ltr\">Vui lòng xem thêm các thông tin về thuốc trong tờ hướng dẫn sử dụng thuốc đính kèm sản phẩm.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Nguyễn Thanh Hải",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp Đại học Dược Hà Nội, với hơn 10 năm kinh nghiệm trong lĩnh vực Dược phẩm. Hiện là giảng viên giảng dạy các môn Dược lý, Dược lâm sàng,...",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-nguyen-thanh-hai",
+        "isLegit": true,
+        "id": 16,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ds_thanh_hai_568f67b0c3.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Dầu gió gừng Thái Dương 24ml giảm đau đầu, đau lưng, đau vai gáy",
+        "metaDescription": "Dầu gió gừng Thái Dương 24ml thành phần chính là dịch chiết gừng, menthol và methyl salicylate. Là dầu dùng để làm giảm các triệu chứng: Đau đầu, đau lưng, đau dây thần kinh,...",
+        "id": 2524,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07690_1bb40ff95c.png",
+              "alternativeText": null
+            },
+            "title": "Dầu gừng Thái Dương điều trị đau đầu, đau lưng, đau dây thần kinh vai gáy (24ml)",
+            "description": "Dầu gừng Thái Dương là sản phẩm của Công ty Sao Thái Dương Việt Nam. Thành phần chính là dịch chiết gừng, menthol và methyl salicylate. Sản phẩm được sử dụng cho các trường hợp đau đầu, đau lưng, đau dây thần kinh, đau vai gáy, đau nhức do phong thấp, lòng bàn chân, bàn tay lạnh giá, tê, mỏi; cảm cúm, ngạt mũi, sổ mũi, đau bụng lạnh, buồn nôn do cảm gió, cảm lạnh, say tàu xe, ngứa do muỗi đốt, côn trùng cắn."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 12366,
+        "title": "Dầu gừng Thái Dương chứa thành phần gì?",
+        "content": "<p>Dầu gừng Thái Dương là sản phẩm của Công ty Sao Thái Dương Việt Nam. Thành phần chính là dịch chiết gừng, menthol và methyl salicylate.</p>"
+      },
+      {
+        "id": 12367,
+        "title": "Dầu gừng Thái Dương dùng trong trường hợp nào?",
+        "content": "<p>Dầu gừng Thái Dương dùng trong trường hợp: Đau đầu, đau lưng, đau dây thần kinh, đau vai gáy, đau nhức do phong thấp, lòng bàn chân; bàn tay lạnh giá, tê, mỏi, cảm cúm, ngạt mũi, sổ mũi, đau bụng lạnh, buồn nôn do cảm gió, cảm lạnh, say tàu xe, ngứa do muỗi, côn trùng cắn.</p>"
+      },
+      {
+        "id": 12368,
+        "title": "Dầu gừng Thái Dương hoạt động như thế nào?",
+        "content": "<p>Ở nồng độ cao, gừng trong sản phẩm dầu gừng Thái Dương và các vị thuốc khác hiệp đồng tác dụng thông kinh, hoạt lạc, giảm đau nên hiệu quả cao trong các trường hợp bế tắc kinh lạc, khí huyết ứ trệ như: Phong thấp, đau nhức, chấn thương, tê mỏi, chân tay lạnh...</p>"
+      },
+      {
+        "id": 12369,
+        "title": "Cách dùng dầu gừng Thái Dương xông cảm hiệu quả?",
+        "content": "<p>Nhỏ 10 - 40 giọt dầu gừng Thái Dương vào chậu nước nóng, trùm chăn rồi xông 10 - 15 phút. Không được uống, không được bôi vào niêm mạc, mắt, không được bôi vào chỗ các vết thương hở.</p>"
+      },
+      {
+        "id": 12370,
+        "title": " Trẻ sơ sinh có dùng dầu gừng Thái Dương được không?",
+        "content": "<p>Không dùng dầu gừng Thái Dương cho trẻ em dưới 30 tháng tuổi.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00022168",
+        "name": "DẦU GỪNG THÁI DƯƠNG 6ML",
+        "webName": "Dầu gừng Thái Dương điều trị đau đầu, đau lưng, đau dây thần kinh vai gáy (6ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07681_afe9f25a5f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 749,
+            "name": "Dầu nóng xoa bóp",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 28208,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 30000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/dau-gio-gung-thai-duong-6m-22508.html",
+        "ingredients": "Tinh dầu bạc hà 0.24ml, Tinh dầu tràm 0.24ml, Menthol 1.74g, Long não 0.12ml, Tinh dầu hương nhu 0.06ml, Tinh dầu quế 0.12ml, Gừng 3g, Methyl Salicylat 1.2g",
+        "dosageForm": "Dạng dầu",
+        "brand": "Sao Thái Dương",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Chai x 6ml",
+        "prices": [
+          {
+            "id": 28208,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 30000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00052820",
+        "name": "GEL NÓNG CON LĂN MASSAGE GỪNG - NGẢI - QUẾ LIGPRO 100ML",
+        "webName": "Gel nóng con lăn massage Gừng - Ngải - Quế Ligpro giúp làm ấm, giảm đau nhức, thư giãn cơ bắp (100ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/gel_nong_xoa_bop_thao_duoc_ligpro_100ml_00052821_1_8143439618.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 749,
+            "name": "Dầu nóng xoa bóp",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 84621,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 169000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/gel-nong-con-lan-massage-gung-ngai-que-ligpro-100-ml.html",
+        "ingredients": "Tinh dầu gừng , Tinh dầu ngải cứu , Tinh dầu quế , Tinh dầu ớt , Tinh dầu dừa , Tinh dầu đinh hương , Bạc hà , Methyl salicylate , Menthol , Nước ",
+        "dosageForm": null,
+        "brand": "Ligpro",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp x 100ml",
+        "prices": [
+          {
+            "id": 84621,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 169000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009602",
+        "name": "SALONPAS GEL HISAMITSU 30G",
+        "webName": " Gel Salonpas giảm đau, kháng viêm các cơn đau cơ, khớp (30g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009602_salonpas_gel_15g_5477_6064_large_fde03abb40.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 749,
+            "name": "Dầu nóng xoa bóp",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12774,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 46000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/salonpas-gel-15g-1562.html",
+        "ingredients": "Menthol 7%, Methyl salicylate 15%",
+        "dosageForm": "Nhũ tương (Gel)",
+        "brand": "Hisamitsu",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp x 30g",
+        "prices": [
+          {
+            "id": 12774,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 46000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 251,
+          "attributeName": "Nhật Bản",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Nhat_Ban_f1f2d4043f.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00002254",
+        "name": "DẦU NÓNG MẶT TRỜI OPC 60ML",
+        "webName": "Dầu nóng Mặt Trời OPC điều trị nhức mỏi, tê thấp, đau lưng, cảm mạo, cúm (60ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3316_ac651d13fd.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 749,
+            "name": "Dầu nóng xoa bóp",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 2856,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 68000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/dau-nong-mat-troi-4082.html",
+        "ingredients": "Methyl salicylate 6.21, Tinh dầu quế 0.11, Tinh dầu bạc hà 2.48, Gừng 0.63, Camphor 2.1",
+        "dosageForm": "Dung dịch",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai X 60ml",
+        "prices": [
+          {
+            "id": 2856,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 68000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00002226",
+        "name": "CỒN XOA BÓP AN TRIỆU 60ML",
+        "webName": "Cồn xoa bóp An Triệu điều trị phong thấp, tê bại, đau lưng, nhức mỏi gân xương (60ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002226_dau_an_trieu_60ml_4576_5ba3_large_55722a4590.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 749,
+            "name": "Dầu nóng xoa bóp",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 2823,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 26000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/dau-an-trieu-60ml-4095.html",
+        "ingredients": "Đinh hương 4.5g, Bạc hà 0.9g, Đại hồi 2.7g, Quế 3.6g, Nhũ hương 2.34g, Huyết Giác 1.8g",
+        "dosageForm": "Dung dịch",
+        "brand": "An Triệu",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai X 60ml",
+        "prices": [
+          {
+            "id": 2823,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 26000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009715",
+        "name": "CỒN XOA BÓP AN TRIỆU 100ML",
+        "webName": "Cồn Xoa Bóp An Triệu hỗ trợ điều trị phong thấp, tê bại, đau lưng, nhức mỏi gân xương (100ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3549_fd19fa831f.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 749,
+            "name": "Dầu nóng xoa bóp",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12963,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 43000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/con-xoa-bop-an-trieu-100ml-16615.html",
+        "ingredients": "Ethanol 2.34g, Bạc hà 0.9g, Huyết Giác 1.8g, Đại hồi 2.7g, Quế 3.6g, Đinh hương 4.5g",
+        "dosageForm": "Dung dịch",
+        "brand": "An Triệu",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai X 100ml",
+        "prices": [
+          {
+            "id": 12963,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 43000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00503461",
+        "name": "COUNTERPAIN DHG 30G",
+        "webName": "Kem bôi da Counterpain DHG giảm đau cơ, đau do bệnh thấp khớp, bong gân (30g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/1_06c91117df.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 749,
+            "name": "Dầu nóng xoa bóp",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 54464,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 40000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/counterpain-dhg-30g-37772.html",
+        "ingredients": "Methyl Salicylat 10.20%, Eugenol 1.36%, Menthol 5.44%",
+        "dosageForm": "Kem bôi da",
+        "brand": "Dhg",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp x 30g",
+        "prices": [
+          {
+            "id": 54464,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 40000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009920",
+        "name": "SALONPAS LINIMENT HISAMITSU 50ML - LĂN",
+        "webName": "Dầu Salonpas Liniment giảm đau, kháng viêm các cơn đau vai, đau cơ (50ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02599_a833e0f28e.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 749,
+            "name": "Dầu nóng xoa bóp",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 13321,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 34000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/salonpas-lan-1450.html",
+        "ingredients": "Methyl salicylate 2640mg, Thymol 250mg, Vitamin E 50mg, Nonoyl vanillylamide 6mg, Tinh dầu bạc hà 50mg, Menthol 200mg, Camphor 1500mg",
+        "dosageForm": "Dung dịch",
+        "brand": "Hisamitsu",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Chai X 50ml",
+        "prices": [
+          {
+            "id": 13321,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 34000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 251,
+          "attributeName": "Nhật Bản",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Nhat_Ban_f1f2d4043f.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00031441",
+        "name": "SALONPAS JET SPRAY HISAMITSU 118ML",
+        "webName": "Xịt giảm đau Salonpas Jet Spray Hisamitsu giảm đau, kháng viêm do căng cơ, bong gân (118ml) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031441_salonpas_jet_spray_hisamitsu_118ml_9184_62bd_large_7103fdc0d0.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 749,
+            "name": "Dầu nóng xoa bóp",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 42289,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 210000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/salonpas-jet-spray-hisamitsu-118ml-31584.html",
+        "ingredients": "L-menthol 0.438g, Methyl salicylate 1.46g",
+        "dosageForm": "Khí dung",
+        "brand": "Hisamitsu",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Chai x 118ml",
+        "prices": [
+          {
+            "id": 42289,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 210000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 251,
+          "attributeName": "Nhật Bản",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Nhat_Ban_f1f2d4043f.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009713",
+        "name": "CỒN XOA BÓP OPC 60ML",
+        "webName": "Cồn Xoa Bóp OPC điều trị thấp khớp, nhức mỏi xương gân (60ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009713_con_xoa_bop_60ml_3554_609a_large_1e7421b489.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 749,
+            "name": "Dầu nóng xoa bóp",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/dau-nong-xoa-bop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12961,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 34000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/con-xoa-bop-60ml-1519.html",
+        "ingredients": "Địa liền 4.50g, Riềng 4.50g, Thiên niên kiện 2.70g, Huyết Giác 2.70g, Đại hồi 1.80g, Quế chi 1.80g, Camphora 0.90g, Ethanol 96%",
+        "dosageForm": "Dung dịch",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp X 60ml",
+        "prices": [
+          {
+            "id": 12961,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 34000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 22,
+      "items": [
+        {
+          "id": 3366155,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0777xxxxxx",
+          "name": "nguyễn Thị Định",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Dầu này và dầu gió gừng thái dương có giống nhau hay khác nhau vậy ?",
+          "createdAt": "2026-08-31 12:27:23",
+          "createdAtDisplay": "5 ngày trước",
+          "updatedAt": "2026-08-31 12:27:23",
+          "replies": [
+            {
+              "id": 3366160,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Quỳnh Trâm Anh",
+                "moderatorEmail": "anhmqt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mai Quỳnh Trâm Anh",
+              "email": "anhmqt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Định ạ,</p><p>Dạ sản phẩm Dầu gừng Thái Dương và dầu gió gừng Thái Dương thực tế là cùng một sản phẩm của Công ty Cổ phần Sao Thái Dương ạ. Tên gọi có sự khác biệt nhẹ tùy theo cách gọi phổ thông, sản phẩm này chuyên dùng để hỗ trợ giảm đau đầu, đau lưng, đau dây thần kinh vai gáy nhờ chiết xuất gừng tươi và các loại tinh dầu tự nhiên ạ.</p><p>Chúc Chị và gia đình luôn dồi dào sức khỏe ạ.</p>",
+              "createdAt": "2026-08-31 12:42:00",
+              "createdAtDisplay": "5 ngày trước",
+              "updatedAt": "2026-08-31 12:27:23",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3340402,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0945xxxxxx",
+          "name": "CHỊ AN",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "người cao huyết áp sao ko sử dụng dc vậy ạ",
+          "createdAt": "2026-07-16 10:08:02",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-16 10:08:02",
+          "replies": [
+            {
+              "id": 3340410,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Hoàng Kim Ngân",
+                "moderatorEmail": "ngannhk4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Hoàng Kim Ngân",
+              "email": "ngannhk4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị An ạ,</p><p>Dầu gừng có tính nóng và chứa các hoạt chất kích thích tuần hoàn máu mạnh, làm giãn mạch và có thể làm tăng nhịp tim.</p><p>Đối với người cao huyết áp, sự kích thích này dễ dẫn đến nguy cơ làm tăng huyết áp đột ngột hoặc gây mất ổn định chỉ số huyết áp, tiềm ẩn rủi ro cho sức khỏe.</p><p>Vì vậy, Chị nên tham khảo ý kiến bác sĩ điều trị trước khi dùng để đảm bảo an toàn nhất ạ.</p><p>Chúc Chị và gia đình luôn dồi dào sức khỏe ạ.</p>",
+              "createdAt": "2026-07-16 10:13:06",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-16 10:08:02",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3278957,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0789xxxxxx",
+          "name": "An",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "dầu này ngâm chân đc ko a",
+          "createdAt": "2026-03-23 21:11:02",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-23 21:11:02",
+          "replies": [
+            {
+              "id": 3278969,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Phan Quỳnh Anh",
+                "moderatorEmail": "anhnpq3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Phan Quỳnh Anh",
+              "email": "anhnpq3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý khách,</p><p>Dạ sản phẩm Dầu gừng Thái Dương điều trị đau đầu, đau lưng, đau dây thần kinh vai gáy (24ml) có thể sử dụng ngâm chân , nhỏ 10 - 20 giọt dầu vào chậu nước nóng, ngâm chân trong vòng 20 - 30 phút rồi lau khô ạ.</p><p>Nhà thuốc thông tin đến Quý khách ạ.</p><p><br></p>",
+              "createdAt": "2026-03-23 21:24:14",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-23 21:11:02",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3247782,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0917xxxxxx",
+          "name": "C GIANG",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "người huyết áp cao dùng đc ko shop?",
+          "createdAt": "2026-01-19 09:57:48",
+          "createdAtDisplay": "7 tháng trước",
+          "updatedAt": "2026-01-19 09:57:48",
+          "replies": [
+            {
+              "id": 3247793,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Phương Lan",
+                "moderatorEmail": "lannp9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Phương Lan",
+              "email": "lannp9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Trang,</p><p>Dạ người cao huyết áp không nên dùng sản phẩm để tránh ảnh hưởng tình trạng ạ.</p><p> Nhà thuốc xin phép thông tin đến chị ạ.</p>",
+              "createdAt": "2026-01-19 10:01:26",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-01-19 09:57:48",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3233081,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0968xxxxxx",
+          "name": "TRƯƠNG ĐỨC HOÀNG",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "dầu này với dầu bạch hổ hoạt lạc cao thì loại nào nóng hơn ah bs",
+          "createdAt": "2025-12-21 21:07:58",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2025-12-21 21:07:58",
+          "replies": [
+            {
+              "id": 3233085,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Tiểu Thanh Trúc",
+                "moderatorEmail": "trucptt5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Tiểu Thanh Trúc",
+              "email": "trucptt5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh <strong>HOÀNG</strong>,</p><p>Dạ sản phẩm khi thoa lên cơ sẽ sẽ giúp làm ấm nóng nhẹ giúp giảm các triệu chứng đau nhức ạ.</p><p>Nhà Thuốc thông tin đến anh.</p><p>Thân mến!</p>",
+              "createdAt": "2025-12-21 21:13:28",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-12-21 21:07:58",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 698118,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0399xxxxxx",
+          "name": "c Vân",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2024-02-04 08:32:12",
+          "createdAtDisplay": "04/02/2024",
+          "updatedAt": "2024-02-04 08:33:10",
+          "replies": [
+            {
+              "id": 698127,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Tiến Bắc",
+                "moderatorEmail": "bacnt16@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Tiến Bắc",
+              "email": "bacnt16@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào chị Vân,</span><br><span>Dạ rất cảm ơn tình cảm của chị dành cho nhà thuốc FPT Long châu. Bất cứ khi nào chị  cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.  </span><br><span>Thân mến!</span></p>",
+              "createdAt": "2024-02-04 08:33:09",
+              "createdAtDisplay": "04/02/2024",
+              "updatedAt": "2024-02-04 08:33:10",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Dầu gừng Thái Dương điều trị đau đầu, đau lưng, đau dây thần kinh vai gáy (24ml)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07690_1bb40ff95c.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07685_e47d152295.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07684_a1600a20be.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07686_5ba3104ab1.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07687_b9e76dfb18.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07688_5afe961b28.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07689_91f3de6e76.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07691_43b6707508.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dau_mu_u_thai_duong_24_ml_4794747473.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Dầu gừng Thái Dương là sản phẩm của Công ty Sao Thái Dương Việt Nam. Thành phần chính là dịch chiết gừng, menthol và methyl salicylate. Sản phẩm được sử dụng cho các trường hợp đau đầu, đau lưng, đau dây thần kinh, đau vai gáy, đau nhức do phong thấp, lòng bàn chân, bàn tay lạnh giá, tê, mỏi; cảm cúm, ngạt mũi, sổ mũi, đau bụng lạnh, buồn nôn do cảm gió, cảm lạnh, say tàu xe, ngứa do muỗi đốt, côn trùng cắn.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nguyễn Thanh Hải"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/dau-gung-thai-duong-4093.html",
+        "priceCurrency": "VND",
+        "price": 80000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Dầu gió gừng Thái Dương 24ml giảm đau đầu, đau lưng, đau vai gáy",
+      "description": "Dầu gió gừng Thái Dương 24ml thành phần chính là dịch chiết gừng, menthol và methyl salicylate. Là dầu dùng để làm giảm các triệu chứng: Đau đầu, đau lưng, đau dây thần kinh,...",
+      "openGraph": {
+        "title": "Dầu gừng Thái Dương điều trị đau đầu, đau lưng, đau dây thần kinh vai gáy (24ml)",
+        "description": "Dầu gừng Thái Dương là sản phẩm của Công ty Sao Thái Dương Việt Nam. Thành phần chính là dịch chiết gừng, menthol và methyl salicylate. Sản phẩm được sử dụng cho các trường hợp đau đầu, đau lưng, đau dây thần kinh, đau vai gáy, đau nhức do phong thấp, lòng bàn chân, bàn tay lạnh giá, tê, mỏi; cảm cúm, ngạt mũi, sổ mũi, đau bụng lạnh, buồn nôn do cảm gió, cảm lạnh, say tàu xe, ngứa do muỗi đốt, côn trùng cắn.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07690_1bb40ff95c.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/dau-gung-thai-duong-4093.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/dau-gung-thai-duong-4093.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

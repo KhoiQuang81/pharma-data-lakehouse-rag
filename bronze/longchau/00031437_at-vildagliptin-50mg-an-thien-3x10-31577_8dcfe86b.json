@@ -1,0 +1,810 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/at-vildagliptin-50mg-an-thien-3x10-31577.html",
+  "ingestion_timestamp": "2026-09-05T08:32:14.302210+00:00",
+  "file_hash": "6117d9306f932f5319ab03c56becb87767b79c196292f5fa491c0fa02f3e408b",
+  "lineage_hash": "f9df6b5bf0ae2f71e01095b62d875440acef1747b856d76d4c74b2d6008242e1",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/at-vildagliptin-50mg-an-thien-3x10-31577.html",
+    "product": {
+      "sku": "00031437",
+      "webName": "Thuốc A.T Vildagliptin 50mg An Thiên điều trị đái tháo đường típ 2 (3 vỉ x 10 viên)",
+      "name": "A.T VILDAGLIPTIN 50MG AN THIÊN 3X10",
+      "shortName": "A.T VILDAGLIPTIN 50MG AN THIÊN 3X10",
+      "headingText": "Thuốc A.T Vildagliptin 50mg",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_9623_617b_large_314bb69d33.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_1054_617b_large_afd9d8b912.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_6976_617b_large_2d07feaec7.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_5596_617b_large_0b4f8de588.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_9983_6178_large_4a511df000.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_6510_6178_large_eab0f989ae.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_5226_6178_large_9ae7ac89e8.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_2252_6178_large_2e14ef2d78.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_8739_6178_large_1198b2fbe5.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_1635260570_c5e767dc4c.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 735,
+          "name": "Thuốc trị tiểu đường",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tri-tieu-duong",
+          "level": 2,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/at-vildagliptin-50mg-an-thien-3x10-31577.html",
+      "ingredient": [
+        {
+          "id": 69764,
+          "ingredientId": 40243,
+          "shortDescription": "50mg",
+          "name": "Vildagliptin",
+          "isPrimary": true,
+          "slug": "thanh-phan/vildagliptin"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893110208800",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Thuốc A.t Vildagliptin 50mg dạng viên nén dùng đường uống.</p>\n\n<p>Vildagliptin có thể dùng cùng hoặc không cùng bữa ăn.</p>\n\n<h3>Liều dùng</h3>\n\n<p><strong>Người lớn</strong></p>\n\n<p>Trong đơn trị liệu và trong điều trị phối hợp với metformin, với thiazolidinedion (TLD), với metformin và sulphonylurea hoặc với insulin (có hoặc không có metformin), liều được khuyến cáo của villagliptin là 100 mg/ngày với liều 50 mg vào buổi sáng và 50 mg vào buổi tối.</p>\n\n<p>Trong điều trị phối hợp với một sulphonylurea, liều được khuyến cáo của vildagliptin là 50 mg x 1 lần/ngày vào buổi sáng, ở nhóm bệnh nhân này, liều villagliptin 100 mg/ngày không hiệu quả hơn vildagliptin 50 mg x 1 lần/ngày.</p>\n\n<p>Khi được sử dụng phối hợp với một sulphonylurea, liều thấp hơn của sulphonylurea có thể được cân nhắc để giảm nguy cơ hạ đường huyết.</p>\n\n<p>Liều cao hơn 100 mg không được khuyến cáo.</p>\n\n<p>An toàn và hiệu quả của villagliptin trong điều trị phối hợp ba loại thuốc với metformin và một SU chưa được thiết lập.</p>\n\n<p><strong>Thông tin bổ sung trên nhóm bệnh nhân đặc biệt</strong></p>\n\n<p>Người cao tuổi (2 65 tuổi):</p>\n\n<ul>\n\t<li>Không cần điều chỉnh liều ở bệnh nhân cao tuổi</li>\n</ul>\n\n<p>Suy thận:</p>\n\n<ul>\n\t<li>Không cần điều chỉnh liều ở bệnh nhân suy thận nhẹ (độ thanh thải creatinin &gt; 50 ml/phút).</li>\n\t<li>Ở bệnh nhân suy thận vừa hoặc nặng hoặc với bệnh thận giai đoạn cuối (ESRD), liều khuyến cáo của vildagliptin là 50 mg x 1 lần/ngày.</li>\n</ul>\n\n<p>Suy gan:</p>\n\n<ul>\n\t<li>Vildagliptin không nên dùng cho bệnh nhân suy gan, kể cả bệnh nhân có alanin aminotransferase (ALT) hoặc aspartat aminotransferase (AST) trước điều trị &gt; gấp 3 lần giới hạn trên của mức bình thường (ULN)-</li>\n</ul>\n\n<p>Trẻ em:</p>\n\n<ul>\n\t<li>Vildagliptin không được khuyến cáo sử dụng cho trẻ em và thanh thiếu niên (&lt; 18 tuổi).</li>\n\t<li>Sự an toàn và hiệu quả của villagliptin ở trẻ em và thanh thiếu niên (&lt; 18 tuổi) chưa được thiết lập. Không có dữ liệu sẵn có.</li>\n</ul>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc A.t Vildagliptin 50mg là sản phẩm của Dược phẩm An Thiên chứa hoạt chất Vildagliptin dùng trong điều trị đái tháo đường tuýp 2 ở người lớn.</p>\n\n<p><strong>Dưới dạng đơn trị liệu</strong></p>\n\n<p>Ở những bệnh nhân không được kiểm soát đầy đủ chỉ bằng chế độ ăn, tập luyện và đối với những người không phù hợp sử dụng metformin do chống chỉ định hoặc không dung nạp.</p>\n\n<p><strong>Trong phối hợp hai loại thuốc</strong></p>\n\n<p>Với metformin, dù đã dùng liều metformin đơn trị liệu tối đa nhưng không đem lại sự kiểm soát đường huyết đầy đủ.</p>\n\n<p>Với sulphonylurea (SU), không đem lại sự kiểm soát đường huyết đầy đủ dù đã dùng liều SU đơn độc tối đa và những người không sử dụng được metformin do chống chỉ định hoặc không dung nạp.</p>\n\n<p>Với thiazolidinedion (TZD), khi thiazolidinedion không đem lại sự kiểm soát đường huyết đầy đủ.</p>\n\n<p><strong>Trong phối hợp ba loại thuốc</strong></p>\n\n<p>Với sulphonylurea và metformin khi chế độ ăn, luyện tập kết hợp với điều trị kép bằng những thuốc này không đem lại sự kiểm soát đường huyết đầy đủ.</p>\n\n<p>Vildagliptin cũng được chỉ định phối hợp với insulin (có hoặc không có metformin) khi chế độ ăn, tập luyện và liều insulin ổn định không đem lại sự kiểm soát đường huyết đầy đủ.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Nhóm dược lý: Nhóm thuốc dùng cho bệnh đái tháo đường, chất ức chế dipeptidyl-peptidase-4 (DPP-4).</p>\n\n<p>Mã ATC: A10BH02 .</p>\n\n<p>Cơ chế hoạt động: Sự ức chế nhanh chóng và hoàn toàn DPP-4 của vildagliptin làm tăng nồng độ các hormon incretin GLP-1 (peptid tương tự glucagon 1) và GIP (polypeptide kích thích insulin phụ thuộc glucose) nội sinh lúc đói và sau bữa ăn.</p>\n\n<p>Đặc tính dược lực:</p>\n\n<p>Bằng cách làm tăng nồng độ nội sinh của các hormon incretin này, vildagliptin làm tăng tính nhạy cảm của tế bào beta đối với glucose, dẫn đến cải thiện sự tiết insulin phụ thuộc glucose.</p>\n\n<p>Điều trị với liều 50 - 100 mg/ngày cho bệnh nhân đái tháo đường tuýp 2 cải thiện đáng kể chức năng của tế bào beta.</p>\n\n<p>Mức độ cải thiện chức năng tế bào beta phụ thuộc vào mức độ suy giảm ban đầu; ở người không bị đái tháo đường (đường huyết bình thường), vildagliptin không kích thích tiết insulin hoặc không làm giảm nồng độ glucose huyết.</p>\n\n<p>Bằng cách làm tăng nồng độ GLP-1 nội sinh villagliptin làm tăng tính nhạy cảm của tế bào alpha đối với glucose, dẫn đến tiết glucagon phù hợp với mức glucose hơn.</p>\n\n<p>Sự gia tăng tỷ lệ insulin/glucagon trong từng đường huyết do tăng nồng độ hormon incretin làm giảm sản xuất glucose ở gan lúc đói và sau bữa ăn, dẫn đến giảm đường huyết.</p>\n\n<p>Tác dụng đã biết về sự tăng nồng độ GLP-1 làm chậm rỗng dạ dày không được quan sát thấy khi điều trị bằng villagliptin.</p>\n\n<h3>Dược động học</h3>\n\n<p><strong>Hấp thu</strong></p>\n\n<p>Sau khi uống lúc đói, vilcagliptin được hấp thu nhanh với nồng độ định trong huyết tương được quan sát thấy sau 1,7 giờ.</p>\n\n<p>Dùng cùng với thức ăn làm chậm lại thời gian đạt đến nồng độ định trong huyết tương đến 2,5 giờ, nhưng không làm thay đổi đển diện tích dưới đường cong (AUC).</p>\n\n<p>Dùng villagliptin với thức ăn làm giảm Cao (19%). Tuy nhiên, sự thay đổi này không có ý nghĩa lâm sàng, do đó villagliptin có thể được uống cùng hoặc không cùng thức ăn. Sinh khả dụng tuyệt đối là 85%.</p>\n\n<p><strong>Phân bố</strong></p>\n\n<p>Vildagliptin gắn kết kém với protein huyết tương (9,3%) và phân bổ bằng nhau giữa huyết tương và hồng cầu.</p>\n\n<p>Thể tích phân bố trung bình của villagliptin ở trạng thái ổn định sau khi tiêm tĩnh mạch (Vss) là 71 lít cho thầy thuốc được phân bố ở ngoài mạch.</p>\n\n<p><strong>Chuyển hóa</strong></p>\n\n<p>Chuyển hóa là đường thải trừ chính của villagiptin ở người, chiếm 69% liều dùng. Chất chuyển hóa chính LAY151 không có hoạt tính dược lý và là sản phẩm thủy phân của nhóm chức cyano chiếm 57% liều dùng, tiếp theo là glucuronic (BOS867) và sản phẩm thủy phân nhóm chức acid (4% liều dùng).</p>\n\n<p>Dữ liệu in vitro trong các tế bào thần của con người cho thấy thận có thể là một trong những cơ quan chính góp phần vào quá trình thủy phân vilcagliptin thành chất chuyển hóa chính không có hoạt tính của nó, LAY151.</p>\n\n<p>DPP-4 đóng góp một phần vào sự thủy phân của vildagliptin như đã được chứng minh trong một nghiên cứu in vivo dùng chuột cống thiếu hụt DPP-4.</p>\n\n<p>Villagliptin không bị chuyển hóa bởi các enzym cytochrom P450 ở bất kỳ mức độ nào có thể định lượng được.</p>\n\n<p>Các nghiên cứu in vitro cho thấy villagliptin không ức chế hoặc gây cảm ứng các enzym cytochrom P450. Do đó, villagliptin không ảnh hưởng đến độ thanh thải chuyển hóa của các thuốc dùng đồng thời được chuyển hóa bởi CYP 1A2, CYP 2C8, CYP2C9, CYP2C19, CYP 2D6, CYP 2E1 và CYP 3A4/5</p>\n\n<p><strong>Thải trừ</strong></p>\n\n<p>Sau khi uống [C]-villagliptin, khoảng 85% liều dùng được bài tiết vào nước tiểu và 15% được tìm thấy ở phân.</p>\n\n<p>Villagliptin dạng không đổi bài tiết qua thận chiếm 23% liều dùng sau khi uống.</p>\n\n<p>Sau khi tiêm tĩnh mạch cho người khỏe mạnh, độ thanh thải vilgagliptin toàn bộ huyết tương và thận là 40 lít/giờ và 13 lít/giờ. Thời gian bán thải trung bình sau khi tiêm tĩnh mạch khoảng 2 giờ.</p>\n\n<p>Thời gian bán thải sau khi uống khoảng 3 giờ.</p>\n\n<p>Sự tuyến tính: Nồng độ đỉnh trong huyết tương (Cu) của villagliptin và diện tích dưới đường cong nồng độ trong huyết tương theo thời gian (AUC) gần như tăng tỷ lệ với liều dùng trong phạm vi liều điều trị.</p>\n\n<p><strong>Các nhóm bệnh nhân đặc biệt</strong></p>\n\n<p>Giới tính: Không quan sát thấy sự khác nhau về dược động học của villagliptin giữa các đối tượng nam và nữ khỏe mạnh với cùng độ tuổi và chỉ số khối cơ thể (BMI). Sự ức chế DPP-4 của villagliptin không bị ảnh hưởng bởi giới tính.</p>\n\n<p>Người cao tuổi: Ở những người cao tuổi khỏe mạnh (2 70 tuổi), mức tiếp xúc toàn bộ với villagliptin (100 mg x 1 lần/ngày) tăng 32% với nồng độ đỉnh trong huyết tương tăng 18% so với người trẻ tuổi khỏe mạnh (18 - 40 tuổi).</p>\n\n<p>Những thay đổi này không được xem là có ý nghĩa lâm sàng. Sự ức chế DPP-4 của vildagliptin không bị ảnh hưởng do tuổi tác trong những nhóm tuổi được nghiên cứu.</p>\n\n<p>Bệnh nhân suy gan:</p>\n\n<p>Ảnh hưởng của suy chức năng gan trên dược động học của villagliptin đã được nghiên cứu trên những người bị suy gan ở mức độ nhẹ, trung bình và nặng dựa vào thang điểm Child-Pugh (trong khoảng từ 6 là mức độ nhẹ đến 12 là mức độ nặng) so với người có chức năng gan bình thường.</p>\n\n<p>Mức tiếp xúc với villagliptin (100 mg) sau một liều duy nhất người bị suy gan nhẹ và trung bình giảm 20% và 8% theo thứ tự tương ứng), trong khi mức tiếp xúc với villagliptin ở người bị suy gan nặng tăng 22%.</p>\n\n<p>Sự thay đổi tối đa (tăng hoặc giảm) về mức tiếp xúc với villagliptin khoảng 30% nhưng không được xem là có ý nghĩa lâm sàng.</p>\n\n<p>Không có mối tương quan giữa mức độ suy chức năng gan và sự thay đổi về mức tiếp xúc với vildagliptin.</p>\n\n<p>Bệnh nhân suy thận:</p>\n\n<p>Một thử nghiệm nhãn mở được tiến hành để đánh giá dược động học của liều điều trị villagliptin thấp hơn (50 mg x 1 lần/ngày) ở những bệnh nhân có mức độ suy thận mạn tính được xác định bằng độ thanh thải creatinin (nhẹ: 50 đến &lt; 80 ml/phút, vừa: 30 đến &lt; 50 ml/phút và nặng: &lt; 30 ml/phút) so với đối tượng kiểm soát sức khỏe bình thường.</p>\n\n<p>AUC của vildagliptin tăng trung bình 1,4; 1,7 và 2 lần tương ứng ở các bệnh nhân suy thận nhẹ, vừa và nặng, so với người bình thường.</p>\n\n<p>AỤC của các chất chuyển hóa LAY151 và BQs867 tăng trung bình 1,5; 3 và 7 lần ở các bệnh nhân suy thận nhẹ, vừa và nặng, theo thứ tự, so với người tình nguyện khỏe mạnh. Dữ liệu hạn chế ở các bệnh nhân bệnh thận giai đoạn cuối (ESRD) cho thấy mức tiếp xúc villagliptin tương tự như mức tiếp xúc ở các bệnh nhân suy thận nặng.</p>\n\n<p>Nồng độ LAY151 ở các bệnh nhân ESRD cao hơn khoảng 2-3 lần so với các bệnh nhân suy thận nặng.</p>\n\n<p>Vildagliptin đã được loại bỏ bằng cách thẩm phân máu đến một mức độ hạn chế (3% trong một buổi thẩm phân mảu 3 - 4 giờ bắt đầu sau 4 giờ dùng liều).</p>\n\n<p>Nhóm chủng tộc:</p>\n\n<p>Không có bằng chứng cho thấy chủng tộc có ảnh hưởng đến dược động học của vildagliptin.</p>",
+      "brand": "An Thiên",
+      "brandType": null,
+      "adverseEffect": "<p>Tóm tắt các tác dụng không mong muốn từ các thử nghiệm lâm sàng:</p>\n\n<p>Các tác dụng không mong muốn đã được báo cáo ở bệnh nhân dùng villagliptin trong các nghiên cứu mù đôi dưới dạng đơn trị liệu và điều trị kết hợp được liệt kê dưới đây, đối với mỗi chỉ định, theo hệ thống phân loại MedDRA.</p>\n\n<p>Các tác dụng không mong muốn của thuốc được phân loại theo tần suất.</p>\n\n<p>Các tần suất cho mỗi tác dụng không mong muốn được dựa trên quy ước như sau: Rất thường gặp (ADR &lt; 1/10), thường gặp (1/100 &lt; ADR &lt; 1/10), ít gặp (1/1000 &lt; ADR &lt; 1/100), hiếm gặp (1/10.000 &lt; ADR &lt; 1/1000), rất hiếm gặp (ADR &lt; 1/10.000) và chưa biết (tần suất không thể được ước tính từ dữ liệu có sẵn).</p>\n\n<p>Trong mỗi nhóm tần suất, các tác dụng không mong muốn được trình bày theo thứ tự mức độ nghiêm trọng giảm dần.</p>\n\n<p><strong>Phối hợp với metformin</strong></p>\n\n<p>Các tác dụng không mong muốn đã được báo cáo ở bệnh nhân dùng vildagliptin 100 mg/lần/ngày phối hợp với metformin trong các nghiên cứu mù đôi (N = 208):</p>\n\n<p>Rối loạn chuyển hóa:</p>\n\n<ul>\n\t<li>Thường gặp: Hạ glucose huyết.</li>\n</ul>\n\n<p>Rối loạn thần kinh:</p>\n\n<ul>\n\t<li>Thường gặp: Run, nhức đầu, chóng mặt.</li>\n\t<li>Ít gặp: Mệt mỏi.</li>\n</ul>\n\n<p>Rối loạn tiêu hóa:</p>\n\n<ul>\n\t<li>Thường gặp: Buồn nôn.</li>\n</ul>\n\n<p><strong>Phối hợp với một sulphonylurea</strong></p>\n\n<p>Các tác dụng không mong muốn đã được báo cáo ở bệnh nhân dùng villagliptin 50 mg phối hợp với sulphonyluroa trong các nghiên cứu mù đôi (N = 170):</p>\n\n<p>Nhiễm khuẩn và ký sinh trùng:</p>\n\n<ul>\n\t<li>Rất hiếm gặp: Viêm mũi - họng.</li>\n</ul>\n\n<p>Rối loạn chuyển hóa:</p>\n\n<ul>\n\t<li>Thường gặp: Hạ glucose huyết.</li>\n</ul>\n\n<p>Rối loạn thần kinh:</p>\n\n<ul>\n\t<li>Thường gặp: Run, nhức đầu, chóng mặt, suy nhược.</li>\n</ul>\n\n<p>Rối loạn tiêu hóa:</p>\n\n<ul>\n\t<li>Ít gặp: Táo bón.</li>\n</ul>\n\n<p><strong>Phối hợp với thiazolidinedion</strong></p>\n\n<p>Các tác dụng không mong muốn đã được báo cáo ở bệnh nhân dùng villagliptin 100 mg/lần/ngày phối hợp với một thiazolidinedion trong các nghiên cứu mù đôi (N=158):</p>\n\n<p>Rối loạn chuyển hóa:</p>\n\n<ul>\n\t<li>Thường gặp: Tăng cân.</li>\n\t<li>Ít gặp: Ha glucose huyết.</li>\n</ul>\n\n<p>Rối loạn thần kinh:</p>\n\n<ul>\n\t<li>Ít gặp: Nhức đầu, suy nhược</li>\n</ul>\n\n<p>Rối loạn mạch máu:</p>\n\n<ul>\n\t<li>Thường gặp: Phù ngoại biên.</li>\n</ul>\n\n<p><strong>Đơn trị liệu</strong></p>\n\n<p>Các tác dụng không mong muốn đã được báo cáo ở bệnh nhân dùng villagliptin 100 mg/lần/ngày dùng đơn trị liệu trong các nghiên cứu mù đôi (N = 1.855):</p>\n\n<p>Nhiễm khuẩn và ký sinh trùng:</p>\n\n<ul>\n\t<li>Rất hiếm gặp: Nhiễm khuẩn đường hô hấp trên, viêm mũi - họng.</li>\n</ul>\n\n<p>Rối loạn chuyển hóa:</p>\n\n<ul>\n\t<li>Ít gặp: Hạ glucose huyết.</li>\n</ul>\n\n<p>Rối loạn thần kinh:</p>\n\n<ul>\n\t<li>Thường gặp: Chóng mặt.</li>\n\t<li>Ít gặp: Nhức đầu.</li>\n</ul>\n\n<p>Rối loạn mạch máu:</p>\n\n<ul>\n\t<li>Ít gặp: Phù ngoại biên.</li>\n</ul>\n\n<p>Rối loạn tiêu hóa:</p>\n\n<ul>\n\t<li>Ít gặp: Táo bón.</li>\n</ul>\n\n<p>Rối loạn cơ - xương và mô liên kết:</p>\n\n<ul>\n\t<li>Ít gặp: Đau khớp.</li>\n</ul>\n\n<p><strong>Phối hợp với metformin và sulphonylurea</strong></p>\n\n<p>Các tác dụng không mong muốn đã được báo cáo ở bệnh nhân dùng villagliptin 50 mg x 2 lần/ngày phối hợp với metformin và một sulphonylurea (N = 157):</p>\n\n<p>Rối loạn chuyển hóa:</p>\n\n<ul>\n\t<li>Thường gặp: Hạ glucose huyết.</li>\n</ul>\n\n<p>Rối loạn thần kinh:</p>\n\n<ul>\n\t<li>Thường gặp: Chóng mặt, run.</li>\n</ul>\n\n<p>Rối loạn da và mô dưới da:</p>\n\n<ul>\n\t<li>Thường gặp: Tăng tiết mồ hôi.</li>\n</ul>\n\n<p>Rối loạn toàn thân:</p>\n\n<ul>\n\t<li>Thường gặp: Suy nhược.</li>\n</ul>\n\n<p><strong>Phối hợp với insulin</strong></p>\n\n<p>Các tác dụng không mong muốn đã được báo cáo ở bệnh nhân dùng vildagliptin 100 mg/ngày phối hợp với insulin (có hoặc không có metformin) trong nghiên cứu mù đôi (N = 371):</p>\n\n<p>Rối loạn chuyển hóa:</p>\n\n<ul>\n\t<li>Thường gặp: Hạ glucose huyết.</li>\n</ul>\n\n<p>Rối loạn thần kinh:</p>\n\n<ul>\n\t<li>Thường gặp: Nhức đầu, ớn lạnh.</li>\n</ul>\n\n<p>Rối loạn tiêu hóa:</p>\n\n<ul>\n\t<li>Thường gặp: Buồn nôn, bệnh trào ngược dạ dày - thực quản.</li>\n\t<li>Ít gặp: Tiêu chảy, đầy hơi.</li>\n</ul>\n\n<p><strong>Kinh nghiệm sau khi lưu hành</strong></p>\n\n<p>Tác dụng không mong muốn sau khi lưu hành thuốc:</p>\n\n<p>Rối loạn chuyển hóa:</p>\n\n<ul>\n\t<li>Chưa biết: Viêm tụy.</li>\n</ul>\n\n<p>Rối loạn gan mật:</p>\n\n<ul>\n\t<li>Chưa biết: Viêm gan (có thể hồi phục khi ngừng thuốc), xét nghiệm chức năng gan bất thường (có thể hồi phục khi ngừng thuốc).</li>\n</ul>\n\n<p>Rối loạn cơ - xương và mô liên kết:</p>\n\n<ul>\n\t<li>Chưa biết: Đau Cơ.</li>\n</ul>\n\n<p>Rối loạn da và mô dưới da:</p>\n\n<ul>\n\t<li>Chưa biết: Mày đay, tổn thương da tróc vảy và trầy xước, bao gồm bọng nước pemphigoid.</li>\n</ul>\n\n<p>Khi gặp tác dụng phụ của thuốc, bệnh nhân cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "AN THIÊN",
+      "shortDescription": "<p>Thuốc A.t Vildagliptin 50mg là sản phẩm của Dược phẩm An Thiên chứa hoạt chất Vildagliptin dùng trong điều trị đái tháo đường tuýp 2 ở người lớn.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/an-thien",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": null,
+      "officialProductName": "A.T VILDAGLIPTIN 50MG",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 735,
+        "name": "Thuốc trị tiểu đường",
+        "parentName": "Thuốc",
+        "slug": "thuoc/thuoc-tri-tieu-duong",
+        "level": 2,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_9623_617b_large_314bb69d33.JPG",
+          "alternativeText": "Thuốc A.T Vildagliptin 50mg An Thiên điều trị đái tháo đường típ 2 (3 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_1054_617b_large_afd9d8b912.JPG",
+          "alternativeText": "Thuốc A.T Vildagliptin 50mg An Thiên điều trị đái tháo đường típ 2 (3 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_6976_617b_large_2d07feaec7.JPG",
+          "alternativeText": "Thuốc A.T Vildagliptin 50mg An Thiên điều trị đái tháo đường típ 2 (3 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_5596_617b_large_0b4f8de588.JPG",
+          "alternativeText": "Thuốc A.T Vildagliptin 50mg An Thiên điều trị đái tháo đường típ 2 (3 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_9983_6178_large_4a511df000.jpg",
+          "alternativeText": "Thuốc A.T Vildagliptin 50mg An Thiên điều trị đái tháo đường típ 2 (3 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_6510_6178_large_eab0f989ae.jpg",
+          "alternativeText": "Thuốc A.T Vildagliptin 50mg An Thiên điều trị đái tháo đường típ 2 (3 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_5226_6178_large_9ae7ac89e8.jpg",
+          "alternativeText": "Thuốc A.T Vildagliptin 50mg An Thiên điều trị đái tháo đường típ 2 (3 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_2252_6178_large_2e14ef2d78.jpg",
+          "alternativeText": "Thuốc A.T Vildagliptin 50mg An Thiên điều trị đái tháo đường típ 2 (3 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_8739_6178_large_1198b2fbe5.jpg",
+          "alternativeText": "Thuốc A.T Vildagliptin 50mg An Thiên điều trị đái tháo đường típ 2 (3 vỉ x 10 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_1635260570_c5e767dc4c.jpg",
+          "alternativeText": "Thuốc A.T Vildagliptin 50mg An Thiên điều trị đái tháo đường típ 2 (3 vỉ x 10 viên) 10"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc trị tiểu đường",
+        "slug": "/thuoc/thuoc-tri-tieu-duong"
+      }
+    ],
+    "content": {
+      "sku": "00031437",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Thuốc A.t Vildagliptin 50mg dạng viên nén dùng đường uống.</p>\n\n<p>Vildagliptin có thể dùng cùng hoặc không cùng bữa ăn.</p>\n\n<h3>Liều dùng</h3>\n\n<p><strong>Người lớn</strong></p>\n\n<p>Trong đơn trị liệu và trong điều trị phối hợp với metformin, với thiazolidinedion (TLD), với metformin và sulphonylurea hoặc với insulin (có hoặc không có metformin), liều được khuyến cáo của villagliptin là 100 mg/ngày với liều 50 mg vào buổi sáng và 50 mg vào buổi tối.</p>\n\n<p>Trong điều trị phối hợp với một sulphonylurea, liều được khuyến cáo của vildagliptin là 50 mg x 1 lần/ngày vào buổi sáng, ở nhóm bệnh nhân này, liều villagliptin 100 mg/ngày không hiệu quả hơn vildagliptin 50 mg x 1 lần/ngày.</p>\n\n<p>Khi được sử dụng phối hợp với một sulphonylurea, liều thấp hơn của sulphonylurea có thể được cân nhắc để giảm nguy cơ hạ đường huyết.</p>\n\n<p>Liều cao hơn 100 mg không được khuyến cáo.</p>\n\n<p>An toàn và hiệu quả của villagliptin trong điều trị phối hợp ba loại thuốc với metformin và một SU chưa được thiết lập.</p>\n\n<p><strong>Thông tin bổ sung trên nhóm bệnh nhân đặc biệt</strong></p>\n\n<p>Người cao tuổi (2 65 tuổi):</p>\n\n<ul>\n\t<li>Không cần điều chỉnh liều ở bệnh nhân cao tuổi</li>\n</ul>\n\n<p>Suy thận:</p>\n\n<ul>\n\t<li>Không cần điều chỉnh liều ở bệnh nhân suy thận nhẹ (độ thanh thải creatinin &gt; 50 ml/phút).</li>\n\t<li>Ở bệnh nhân suy thận vừa hoặc nặng hoặc với bệnh thận giai đoạn cuối (ESRD), liều khuyến cáo của vildagliptin là 50 mg x 1 lần/ngày.</li>\n</ul>\n\n<p>Suy gan:</p>\n\n<ul>\n\t<li>Vildagliptin không nên dùng cho bệnh nhân suy gan, kể cả bệnh nhân có alanin aminotransferase (ALT) hoặc aspartat aminotransferase (AST) trước điều trị &gt; gấp 3 lần giới hạn trên của mức bình thường (ULN)-</li>\n</ul>\n\n<p>Trẻ em:</p>\n\n<ul>\n\t<li>Vildagliptin không được khuyến cáo sử dụng cho trẻ em và thanh thiếu niên (&lt; 18 tuổi).</li>\n\t<li>Sự an toàn và hiệu quả của villagliptin ở trẻ em và thanh thiếu niên (&lt; 18 tuổi) chưa được thiết lập. Không có dữ liệu sẵn có.</li>\n</ul>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<html><body><p>Tham khảo thông tin tờ hướng dẫn sử dụng.</p></body></html>",
+      "adverseEffect": "<p>Tóm tắt các tác dụng không mong muốn từ các thử nghiệm lâm sàng:</p>\n\n<p>Các tác dụng không mong muốn đã được báo cáo ở bệnh nhân dùng villagliptin trong các nghiên cứu mù đôi dưới dạng đơn trị liệu và điều trị kết hợp được liệt kê dưới đây, đối với mỗi chỉ định, theo hệ thống phân loại MedDRA.</p>\n\n<p>Các tác dụng không mong muốn của thuốc được phân loại theo tần suất.</p>\n\n<p>Các tần suất cho mỗi tác dụng không mong muốn được dựa trên quy ước như sau: Rất thường gặp (ADR &lt; 1/10), thường gặp (1/100 &lt; ADR &lt; 1/10), ít gặp (1/1000 &lt; ADR &lt; 1/100), hiếm gặp (1/10.000 &lt; ADR &lt; 1/1000), rất hiếm gặp (ADR &lt; 1/10.000) và chưa biết (tần suất không thể được ước tính từ dữ liệu có sẵn).</p>\n\n<p>Trong mỗi nhóm tần suất, các tác dụng không mong muốn được trình bày theo thứ tự mức độ nghiêm trọng giảm dần.</p>\n\n<p><strong>Phối hợp với metformin</strong></p>\n\n<p>Các tác dụng không mong muốn đã được báo cáo ở bệnh nhân dùng vildagliptin 100 mg/lần/ngày phối hợp với metformin trong các nghiên cứu mù đôi (N = 208):</p>\n\n<p>Rối loạn chuyển hóa:</p>\n\n<ul>\n\t<li>Thường gặp: Hạ glucose huyết.</li>\n</ul>\n\n<p>Rối loạn thần kinh:</p>\n\n<ul>\n\t<li>Thường gặp: Run, nhức đầu, chóng mặt.</li>\n\t<li>Ít gặp: Mệt mỏi.</li>\n</ul>\n\n<p>Rối loạn tiêu hóa:</p>\n\n<ul>\n\t<li>Thường gặp: Buồn nôn.</li>\n</ul>\n\n<p><strong>Phối hợp với một sulphonylurea</strong></p>\n\n<p>Các tác dụng không mong muốn đã được báo cáo ở bệnh nhân dùng villagliptin 50 mg phối hợp với sulphonyluroa trong các nghiên cứu mù đôi (N = 170):</p>\n\n<p>Nhiễm khuẩn và ký sinh trùng:</p>\n\n<ul>\n\t<li>Rất hiếm gặp: Viêm mũi - họng.</li>\n</ul>\n\n<p>Rối loạn chuyển hóa:</p>\n\n<ul>\n\t<li>Thường gặp: Hạ glucose huyết.</li>\n</ul>\n\n<p>Rối loạn thần kinh:</p>\n\n<ul>\n\t<li>Thường gặp: Run, nhức đầu, chóng mặt, suy nhược.</li>\n</ul>\n\n<p>Rối loạn tiêu hóa:</p>\n\n<ul>\n\t<li>Ít gặp: Táo bón.</li>\n</ul>\n\n<p><strong>Phối hợp với thiazolidinedion</strong></p>\n\n<p>Các tác dụng không mong muốn đã được báo cáo ở bệnh nhân dùng villagliptin 100 mg/lần/ngày phối hợp với một thiazolidinedion trong các nghiên cứu mù đôi (N=158):</p>\n\n<p>Rối loạn chuyển hóa:</p>\n\n<ul>\n\t<li>Thường gặp: Tăng cân.</li>\n\t<li>Ít gặp: Ha glucose huyết.</li>\n</ul>\n\n<p>Rối loạn thần kinh:</p>\n\n<ul>\n\t<li>Ít gặp: Nhức đầu, suy nhược</li>\n</ul>\n\n<p>Rối loạn mạch máu:</p>\n\n<ul>\n\t<li>Thường gặp: Phù ngoại biên.</li>\n</ul>\n\n<p><strong>Đơn trị liệu</strong></p>\n\n<p>Các tác dụng không mong muốn đã được báo cáo ở bệnh nhân dùng villagliptin 100 mg/lần/ngày dùng đơn trị liệu trong các nghiên cứu mù đôi (N = 1.855):</p>\n\n<p>Nhiễm khuẩn và ký sinh trùng:</p>\n\n<ul>\n\t<li>Rất hiếm gặp: Nhiễm khuẩn đường hô hấp trên, viêm mũi - họng.</li>\n</ul>\n\n<p>Rối loạn chuyển hóa:</p>\n\n<ul>\n\t<li>Ít gặp: Hạ glucose huyết.</li>\n</ul>\n\n<p>Rối loạn thần kinh:</p>\n\n<ul>\n\t<li>Thường gặp: Chóng mặt.</li>\n\t<li>Ít gặp: Nhức đầu.</li>\n</ul>\n\n<p>Rối loạn mạch máu:</p>\n\n<ul>\n\t<li>Ít gặp: Phù ngoại biên.</li>\n</ul>\n\n<p>Rối loạn tiêu hóa:</p>\n\n<ul>\n\t<li>Ít gặp: Táo bón.</li>\n</ul>\n\n<p>Rối loạn cơ - xương và mô liên kết:</p>\n\n<ul>\n\t<li>Ít gặp: Đau khớp.</li>\n</ul>\n\n<p><strong>Phối hợp với metformin và sulphonylurea</strong></p>\n\n<p>Các tác dụng không mong muốn đã được báo cáo ở bệnh nhân dùng villagliptin 50 mg x 2 lần/ngày phối hợp với metformin và một sulphonylurea (N = 157):</p>\n\n<p>Rối loạn chuyển hóa:</p>\n\n<ul>\n\t<li>Thường gặp: Hạ glucose huyết.</li>\n</ul>\n\n<p>Rối loạn thần kinh:</p>\n\n<ul>\n\t<li>Thường gặp: Chóng mặt, run.</li>\n</ul>\n\n<p>Rối loạn da và mô dưới da:</p>\n\n<ul>\n\t<li>Thường gặp: Tăng tiết mồ hôi.</li>\n</ul>\n\n<p>Rối loạn toàn thân:</p>\n\n<ul>\n\t<li>Thường gặp: Suy nhược.</li>\n</ul>\n\n<p><strong>Phối hợp với insulin</strong></p>\n\n<p>Các tác dụng không mong muốn đã được báo cáo ở bệnh nhân dùng vildagliptin 100 mg/ngày phối hợp với insulin (có hoặc không có metformin) trong nghiên cứu mù đôi (N = 371):</p>\n\n<p>Rối loạn chuyển hóa:</p>\n\n<ul>\n\t<li>Thường gặp: Hạ glucose huyết.</li>\n</ul>\n\n<p>Rối loạn thần kinh:</p>\n\n<ul>\n\t<li>Thường gặp: Nhức đầu, ớn lạnh.</li>\n</ul>\n\n<p>Rối loạn tiêu hóa:</p>\n\n<ul>\n\t<li>Thường gặp: Buồn nôn, bệnh trào ngược dạ dày - thực quản.</li>\n\t<li>Ít gặp: Tiêu chảy, đầy hơi.</li>\n</ul>\n\n<p><strong>Kinh nghiệm sau khi lưu hành</strong></p>\n\n<p>Tác dụng không mong muốn sau khi lưu hành thuốc:</p>\n\n<p>Rối loạn chuyển hóa:</p>\n\n<ul>\n\t<li>Chưa biết: Viêm tụy.</li>\n</ul>\n\n<p>Rối loạn gan mật:</p>\n\n<ul>\n\t<li>Chưa biết: Viêm gan (có thể hồi phục khi ngừng thuốc), xét nghiệm chức năng gan bất thường (có thể hồi phục khi ngừng thuốc).</li>\n</ul>\n\n<p>Rối loạn cơ - xương và mô liên kết:</p>\n\n<ul>\n\t<li>Chưa biết: Đau Cơ.</li>\n</ul>\n\n<p>Rối loạn da và mô dưới da:</p>\n\n<ul>\n\t<li>Chưa biết: Mày đay, tổn thương da tróc vảy và trầy xước, bao gồm bọng nước pemphigoid.</li>\n</ul>\n\n<p>Khi gặp tác dụng phụ của thuốc, bệnh nhân cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc A.t Vildagliptin 50mg là sản phẩm của Dược phẩm An Thiên chứa hoạt chất Vildagliptin dùng trong điều trị đái tháo đường tuýp 2 ở người lớn.</p>\n\n<p><strong>Dưới dạng đơn trị liệu</strong></p>\n\n<p>Ở những bệnh nhân không được kiểm soát đầy đủ chỉ bằng chế độ ăn, tập luyện và đối với những người không phù hợp sử dụng metformin do chống chỉ định hoặc không dung nạp.</p>\n\n<p><strong>Trong phối hợp hai loại thuốc</strong></p>\n\n<p>Với metformin, dù đã dùng liều metformin đơn trị liệu tối đa nhưng không đem lại sự kiểm soát đường huyết đầy đủ.</p>\n\n<p>Với sulphonylurea (SU), không đem lại sự kiểm soát đường huyết đầy đủ dù đã dùng liều SU đơn độc tối đa và những người không sử dụng được metformin do chống chỉ định hoặc không dung nạp.</p>\n\n<p>Với thiazolidinedion (TZD), khi thiazolidinedion không đem lại sự kiểm soát đường huyết đầy đủ.</p>\n\n<p><strong>Trong phối hợp ba loại thuốc</strong></p>\n\n<p>Với sulphonylurea và metformin khi chế độ ăn, luyện tập kết hợp với điều trị kép bằng những thuốc này không đem lại sự kiểm soát đường huyết đầy đủ.</p>\n\n<p>Vildagliptin cũng được chỉ định phối hợp với insulin (có hoặc không có metformin) khi chế độ ăn, tập luyện và liều insulin ổn định không đem lại sự kiểm soát đường huyết đầy đủ.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Nhóm dược lý: Nhóm thuốc dùng cho bệnh đái tháo đường, chất ức chế dipeptidyl-peptidase-4 (DPP-4).</p>\n\n<p>Mã ATC: A10BH02 .</p>\n\n<p>Cơ chế hoạt động: Sự ức chế nhanh chóng và hoàn toàn DPP-4 của vildagliptin làm tăng nồng độ các hormon incretin GLP-1 (peptid tương tự glucagon 1) và GIP (polypeptide kích thích insulin phụ thuộc glucose) nội sinh lúc đói và sau bữa ăn.</p>\n\n<p>Đặc tính dược lực:</p>\n\n<p>Bằng cách làm tăng nồng độ nội sinh của các hormon incretin này, vildagliptin làm tăng tính nhạy cảm của tế bào beta đối với glucose, dẫn đến cải thiện sự tiết insulin phụ thuộc glucose.</p>\n\n<p>Điều trị với liều 50 - 100 mg/ngày cho bệnh nhân đái tháo đường tuýp 2 cải thiện đáng kể chức năng của tế bào beta.</p>\n\n<p>Mức độ cải thiện chức năng tế bào beta phụ thuộc vào mức độ suy giảm ban đầu; ở người không bị đái tháo đường (đường huyết bình thường), vildagliptin không kích thích tiết insulin hoặc không làm giảm nồng độ glucose huyết.</p>\n\n<p>Bằng cách làm tăng nồng độ GLP-1 nội sinh villagliptin làm tăng tính nhạy cảm của tế bào alpha đối với glucose, dẫn đến tiết glucagon phù hợp với mức glucose hơn.</p>\n\n<p>Sự gia tăng tỷ lệ insulin/glucagon trong từng đường huyết do tăng nồng độ hormon incretin làm giảm sản xuất glucose ở gan lúc đói và sau bữa ăn, dẫn đến giảm đường huyết.</p>\n\n<p>Tác dụng đã biết về sự tăng nồng độ GLP-1 làm chậm rỗng dạ dày không được quan sát thấy khi điều trị bằng villagliptin.</p>\n\n<h3>Dược động học</h3>\n\n<p><strong>Hấp thu</strong></p>\n\n<p>Sau khi uống lúc đói, vilcagliptin được hấp thu nhanh với nồng độ định trong huyết tương được quan sát thấy sau 1,7 giờ.</p>\n\n<p>Dùng cùng với thức ăn làm chậm lại thời gian đạt đến nồng độ định trong huyết tương đến 2,5 giờ, nhưng không làm thay đổi đển diện tích dưới đường cong (AUC).</p>\n\n<p>Dùng villagliptin với thức ăn làm giảm Cao (19%). Tuy nhiên, sự thay đổi này không có ý nghĩa lâm sàng, do đó villagliptin có thể được uống cùng hoặc không cùng thức ăn. Sinh khả dụng tuyệt đối là 85%.</p>\n\n<p><strong>Phân bố</strong></p>\n\n<p>Vildagliptin gắn kết kém với protein huyết tương (9,3%) và phân bổ bằng nhau giữa huyết tương và hồng cầu.</p>\n\n<p>Thể tích phân bố trung bình của villagliptin ở trạng thái ổn định sau khi tiêm tĩnh mạch (Vss) là 71 lít cho thầy thuốc được phân bố ở ngoài mạch.</p>\n\n<p><strong>Chuyển hóa</strong></p>\n\n<p>Chuyển hóa là đường thải trừ chính của villagiptin ở người, chiếm 69% liều dùng. Chất chuyển hóa chính LAY151 không có hoạt tính dược lý và là sản phẩm thủy phân của nhóm chức cyano chiếm 57% liều dùng, tiếp theo là glucuronic (BOS867) và sản phẩm thủy phân nhóm chức acid (4% liều dùng).</p>\n\n<p>Dữ liệu in vitro trong các tế bào thần của con người cho thấy thận có thể là một trong những cơ quan chính góp phần vào quá trình thủy phân vilcagliptin thành chất chuyển hóa chính không có hoạt tính của nó, LAY151.</p>\n\n<p>DPP-4 đóng góp một phần vào sự thủy phân của vildagliptin như đã được chứng minh trong một nghiên cứu in vivo dùng chuột cống thiếu hụt DPP-4.</p>\n\n<p>Villagliptin không bị chuyển hóa bởi các enzym cytochrom P450 ở bất kỳ mức độ nào có thể định lượng được.</p>\n\n<p>Các nghiên cứu in vitro cho thấy villagliptin không ức chế hoặc gây cảm ứng các enzym cytochrom P450. Do đó, villagliptin không ảnh hưởng đến độ thanh thải chuyển hóa của các thuốc dùng đồng thời được chuyển hóa bởi CYP 1A2, CYP 2C8, CYP2C9, CYP2C19, CYP 2D6, CYP 2E1 và CYP 3A4/5</p>\n\n<p><strong>Thải trừ</strong></p>\n\n<p>Sau khi uống [C]-villagliptin, khoảng 85% liều dùng được bài tiết vào nước tiểu và 15% được tìm thấy ở phân.</p>\n\n<p>Villagliptin dạng không đổi bài tiết qua thận chiếm 23% liều dùng sau khi uống.</p>\n\n<p>Sau khi tiêm tĩnh mạch cho người khỏe mạnh, độ thanh thải vilgagliptin toàn bộ huyết tương và thận là 40 lít/giờ và 13 lít/giờ. Thời gian bán thải trung bình sau khi tiêm tĩnh mạch khoảng 2 giờ.</p>\n\n<p>Thời gian bán thải sau khi uống khoảng 3 giờ.</p>\n\n<p>Sự tuyến tính: Nồng độ đỉnh trong huyết tương (Cu) của villagliptin và diện tích dưới đường cong nồng độ trong huyết tương theo thời gian (AUC) gần như tăng tỷ lệ với liều dùng trong phạm vi liều điều trị.</p>\n\n<p><strong>Các nhóm bệnh nhân đặc biệt</strong></p>\n\n<p>Giới tính: Không quan sát thấy sự khác nhau về dược động học của villagliptin giữa các đối tượng nam và nữ khỏe mạnh với cùng độ tuổi và chỉ số khối cơ thể (BMI). Sự ức chế DPP-4 của villagliptin không bị ảnh hưởng bởi giới tính.</p>\n\n<p>Người cao tuổi: Ở những người cao tuổi khỏe mạnh (2 70 tuổi), mức tiếp xúc toàn bộ với villagliptin (100 mg x 1 lần/ngày) tăng 32% với nồng độ đỉnh trong huyết tương tăng 18% so với người trẻ tuổi khỏe mạnh (18 - 40 tuổi).</p>\n\n<p>Những thay đổi này không được xem là có ý nghĩa lâm sàng. Sự ức chế DPP-4 của vildagliptin không bị ảnh hưởng do tuổi tác trong những nhóm tuổi được nghiên cứu.</p>\n\n<p>Bệnh nhân suy gan:</p>\n\n<p>Ảnh hưởng của suy chức năng gan trên dược động học của villagliptin đã được nghiên cứu trên những người bị suy gan ở mức độ nhẹ, trung bình và nặng dựa vào thang điểm Child-Pugh (trong khoảng từ 6 là mức độ nhẹ đến 12 là mức độ nặng) so với người có chức năng gan bình thường.</p>\n\n<p>Mức tiếp xúc với villagliptin (100 mg) sau một liều duy nhất người bị suy gan nhẹ và trung bình giảm 20% và 8% theo thứ tự tương ứng), trong khi mức tiếp xúc với villagliptin ở người bị suy gan nặng tăng 22%.</p>\n\n<p>Sự thay đổi tối đa (tăng hoặc giảm) về mức tiếp xúc với villagliptin khoảng 30% nhưng không được xem là có ý nghĩa lâm sàng.</p>\n\n<p>Không có mối tương quan giữa mức độ suy chức năng gan và sự thay đổi về mức tiếp xúc với vildagliptin.</p>\n\n<p>Bệnh nhân suy thận:</p>\n\n<p>Một thử nghiệm nhãn mở được tiến hành để đánh giá dược động học của liều điều trị villagliptin thấp hơn (50 mg x 1 lần/ngày) ở những bệnh nhân có mức độ suy thận mạn tính được xác định bằng độ thanh thải creatinin (nhẹ: 50 đến &lt; 80 ml/phút, vừa: 30 đến &lt; 50 ml/phút và nặng: &lt; 30 ml/phút) so với đối tượng kiểm soát sức khỏe bình thường.</p>\n\n<p>AUC của vildagliptin tăng trung bình 1,4; 1,7 và 2 lần tương ứng ở các bệnh nhân suy thận nhẹ, vừa và nặng, so với người bình thường.</p>\n\n<p>AỤC của các chất chuyển hóa LAY151 và BQs867 tăng trung bình 1,5; 3 và 7 lần ở các bệnh nhân suy thận nhẹ, vừa và nặng, theo thứ tự, so với người tình nguyện khỏe mạnh. Dữ liệu hạn chế ở các bệnh nhân bệnh thận giai đoạn cuối (ESRD) cho thấy mức tiếp xúc villagliptin tương tự như mức tiếp xúc ở các bệnh nhân suy thận nặng.</p>\n\n<p>Nồng độ LAY151 ở các bệnh nhân ESRD cao hơn khoảng 2-3 lần so với các bệnh nhân suy thận nặng.</p>\n\n<p>Vildagliptin đã được loại bỏ bằng cách thẩm phân máu đến một mức độ hạn chế (3% trong một buổi thẩm phân mảu 3 - 4 giờ bắt đầu sau 4 giờ dùng liều).</p>\n\n<p>Nhóm chủng tộc:</p>\n\n<p>Không có bằng chứng cho thấy chủng tộc có ảnh hưởng đến dược động học của vildagliptin.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định</h3>\n\n<p>Thuốc A.t Vildagliptin 50mg chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Chống chỉ định dùng villagliptin cho bệnh nhân đã biết bị quá mẫn với vildagliptin hoặc với bất kỳ thành phần tá dược nào của thuốc.</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Tổng quát: Vildagliptin không phải là một chất thay thế insulin trên bệnh nhân cần insulin.</p>\n\n<p>Không được dùng Vildagliptin cho bệnh nhân đái tháo đường tuýp 1 hoặc để điều trị nhiễm toan ceton do đái tháo đường.</p>\n\n<p><strong>Suy thận</strong></p>\n\n<p>Kinh nghiệm sử dụng thuốc ở bệnh nhân ESRD trong thẩm phân máu còn hạn chế. Do đó nên sử dụng vildagliptin thận trọng ở những bệnh nhân này.</p>\n\n<p><strong>Suy gan</strong></p>\n\n<p>Không khuyến cáo dùng vildagliptin cho bệnh nhân suy gan, kể cả bệnh nhân có ALT hoặc AST trước điều trị &gt; 3 lần giới hạn trên của mức bình thường.</p>\n\n<p><strong>Theo dõi enzym gan</strong></p>\n\n<p>Các trường hợp hiếm gặp về rối loạn chức năng gan (kể cả viêm gan) đã được báo cáo.</p>\n\n<p>Trong những trường hợp này, bệnh nhân thường không có triệu chứng, không có di chứng lâm sàng và các xét nghiệm chức năng gan trở về bình thường sau khi ngừng điều trị.</p>\n\n<p>Cần thực hiện các xét nghiệm chức năng gan trước khi bắt đầu điều trị bằng vildagliptin.</p>\n\n<p>Cần theo dõi các xét nghiệm chức năng gan trong khi điều trị bằng vildagliptin 3 tháng một lần trong năm đầu và định kỳ sau đó.</p>\n\n<p>Những bệnh nhân bị tăng nồng độ transaminase cần được theo dõi bằng cách đánh giá lại chức năng gan lần thứ hai để khẳng định kết quả và sau đó phải thường xuyên xét nghiệm chức năng gan cho đến khi các trị số bất thường trở về bình thường.</p>\n\n<p>Nếu AST hoặc ALT tăng gấp 3 lần giới hạn trên của mức bình thường hoặc cao hơn và kéo dài, khuyến cáo ngừng điều trị bằng vildagliptin.</p>\n\n<p>Nếu bệnh nhân bị vàng da hoặc có các biểu hiện khác cho thấy rối loạn chức năng gan, phải ngừng dùng vildagliptin và liên hệ ngay với bác sĩ.</p>\n\n<p>Sau khi ngừng điều trị bằng vildagliptin và các xét nghiệm chức năng gan đã trở về bình thường, không được dùng lại vildagliptin.</p>\n\n<p><strong>Suy tim</strong></p>\n\n<p>Một thử nghiệm lâm sàng với vildagliptin trên bệnh nhân có phân độ suy tim theo Hiệp hội tim New York (NYHA) từ I - III cho thấy điều trị với villagliptin không liên quan đến sự thay đổi chức năng thất trái hoặc làm nặng thêm tình trạng suy tim sung huyết (CHF) trước đó, so với giả&amp; dược.</p>\n\n<p>Kinh nghiệm lâm sàng trên những bệnh nhân có suy tim độ III theo NYHA được điều trị với vildagliptin còn hạn chế và kết quả là không kết luận được.</p>\n\n<p>Không có kinh nghiệm về việc sử dụng villagliptin trong các thử nghiệm lâm sàng ở bệnh nhân suy tim độ IV theo phân độ chức năng của NYHA và do đó không khuyến cáo sử dụng ở những bệnh nhân này.</p>\n\n<p><strong>Rối loạn da</strong></p>\n\n<p>Tổn thương da, bao gồm phồng rộp và loét đã được báo cáo các chi của khí trong các nghiên cứu độc học.</p>\n\n<p>Mặc dù không quan sát thấy tỷ lệ tổn thương da tăng trong các thử nghiệm lâm sàng, kinh nghiệm còn hạn chế ở những bệnh nhân bị biến chứng da do đái tháo đường.</p>\n\n<p>Hơn nữa, các tổn thương da trầy xước và tróc vảy đã được báo cáo sau khi lưu hành thuốc. Do đó, phải tuân theo sự chăm sóc định kỳ cho bệnh nhân đái tháo đường, theo dõi các rối loạn về da, như phồng rộp hoặc loét.</p>\n\n<p><strong>Viêm tụy cấp</strong></p>\n\n<p>Sử dụng vildagliptin có nguy cơ liên quan đến phát triển viêm tụy cấp.</p>\n\n<p>Bệnh nhân cần được thông báo về các triệu chứng đặc trung của viêm tụy cấp.</p>\n\n<p>Nếu nghi ngờ viêm tụy, nên ngừng vildagliptin; nếu xác định là viêm tụy cấp, không nên sử dụng lại villagliptin.</p>\n\n<p>Cần thận trọng ở bệnh nhân có tiền sử bệnh viêm tụy.</p>\n\n<p><strong>Hạ đường huyết</strong></p>\n\n<p>Các thuốc sulphonylurea gây hạ đường huyết. Bệnh nhân dùng villagliptin kết hợp với sulphonylurea có thể có nguy cơ hạ đường huyết. Vì vậy, liều thấp hơn của sulphonylurea có thể được cân nhắc để giảm nguy cơ hạ đường huyết.</p>\n\n<p><strong>Cảnh báo tá dược</strong></p>\n\n<p>Thành phần thuốc có chứa lactose.</p>\n\n<p>Bệnh nhân bị các rối loạn di truyền hiếm gặp như không dung nạp galactose, thiếu Lapp lactase hoặc rối loạn hấp thu glucose - galactose thì không nên dùng thuốc này.</p>\n\n<h3>Phụ nữ trong thời kỳ mang thai và cho con bú</h3>\n\n<p>Phụ nữ có thai:</p>\n\n<p>Không có đầy đủ dữ liệu về việc sử dụng vildagliptin ở phụ nữ mang thai. Các nghiên cứu ở động vật đã cho thấy độc tính sinh sản ở liều cao.</p>\n\n<p>Những nguy cơ tiềm ẩn cho con người chưa được xác định. Do thiếu dữ liệu trên người, villagliptin không nên sử dụng trong khi mang thai.</p>\n\n<p>Phụ nữ cho con bú:</p>\n\n<p>Chưa biết liệu villagliptin có bài tiết trong sữa mẹ hay không. Các nghiên cứu trên động vật đã cho thấy sự bài tiết của vildagliptin trong sữa. Vildagliptin không nên sử dụng trong thời gian cho con bú.</p>\n\n<p>Khả năng sinh sản:</p>\n\n<p>Chưa có nghiên cứu về ảnh hưởng trên khả năng sinh sản ở người được thực hiện với vildagliptin.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Chưa có bằng chứng về ảnh hưởng của thuốc lên khả năng lái xe và vận hành máy móc. Vì vậy những bệnh nhân có thể bị chóng mặt nên tránh lái xe hoặc vận hành máy móc.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Vildagliptin có khả năng tương tác thuốc yếu với các thuốc dùng đồng thời. Vì vildagliptin không phải là một cơ chất của enzym cytochrom P (CYP) 450, không ức chế và cũng không gây cảm ứng các enzym CYP 450 nên không có khả năng tương tác với các thuốc dùng đồng thời là cơ chất, chất ức chế hoặc chất gây cảm ứng các enzym này.</p>\n\n<p>Phối hợp với pioglitazon, metformin và glyburid:</p>\n\n<p>Kết quả từ các nghiên cứu được tiến hành với các thuốc trị đái tháo đường đường uống đã cho thấy không có tương tác dược động học có ý nghĩa lâm sàng.</p>\n\n<p>Digoxin (cơ chất P-glycoprotein), warfarin (cơ chất CYP2C9):</p>\n\n<p>Các nghiên cứu lâm sàng được thực hiện với các đối tượng khỏe mạnh đã cho thấy không có tương tác dược động học có ý nghĩa lâm sàng. Tuy nhiên, điều này chưa được thiết lập trên các đối tượng mục tiêu.</p>\n\n<p>Dùng cùng với amlodipin, ramipril, valsartan hoặc simvastatin:</p>\n\n<p>Nghiên cứu tương tác thuốc - thuốc ở các đối tượng khỏe mạnh đã được tiến hành với amlodipin, ramipril, valsartan và simvastatin.</p>\n\n<p>Trong những nghiên cứu này, không có tương tác dược động học nào có ý nghĩa lâm sàng được quan sát thấy sau khi phối hợp với villagliptin.</p>\n\n<p>Phối hợp với thuốc ức chế ACE:</p>\n\n<p>Có thể làm tăng nguy cơ phù mạch ở bệnh nhân dùng đồng thời với các thuốc ức chế ACE.</p>\n\n<p>Cũng như thuốc trị đái tháo đường khác, tác dụng hạ đường huyết của vildagliptin có thể bị giảm bởi một số hoạt chất nhất định, bao gồm thiazid, corticosteroid, các thuốc tuyến giáp và giao cảm.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Nguyễn Tuấn Trịnh",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Từng làm ở Viện ISDS, nhiều năm cộng tác với CDC Thái Nguyên triển khai dự án phòng chống HIV/AIDS, 2 năm cộng tác với WHO.",
+        "degree": "Dược sĩ Đại học ",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-nguyen-tuan-trinh",
+        "isLegit": true,
+        "id": 2,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/nguyen_tuan_trinh_079608e72f.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_9623_617b_large_314bb69d33.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc A.T Vildagliptin 50mg An Thiên điều trị đái tháo đường típ 2 (3 vỉ x 10 viên)",
+            "description": "Thuốc A.t Vildagliptin 50mg là sản phẩm của Dược phẩm An Thiên chứa hoạt chất Vildagliptin dùng trong điều trị đái tháo đường tuýp 2 ở người lớn."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 13878,
+        "title": "Thuốc A.t Vildagliptin 50mg dùng trước hay sau bữa ăn?",
+        "content": "<p>Thuốc A.t Vildagliptin 50mg dạng viên nén dùng đường uống. Vildagliptin có thể dùng cùng hoặc không cùng bữa ăn.</p>"
+      },
+      {
+        "id": 13877,
+        "title": "Vildagliptin dùng cho phụ nữ cho con bú được không?",
+        "content": "<p>Chưa biết liệu villagliptin có bài tiết trong sữa mẹ hay không. Các nghiên cứu trên động vật đã cho thấy sự bài tiết của vildagliptin trong sữa. Vì vậy, vildagliptin không nên sử dụng trong thời gian cho con bú.</p>"
+      },
+      {
+        "id": 13876,
+        "title": "Vildagliptin dùng cho bệnh nhân suy gan được không?",
+        "content": "<p>Không khuyến cáo dùng vildagliptin cho bệnh nhân suy gan, kể cả bệnh nhân có ALT hoặc AST trước điều trị &gt; 3 lần giới hạn trên của mức bình thường.</p>"
+      },
+      {
+        "id": 13875,
+        "title": "Vildagliptin dùng cho bệnh nhân đái tháo đường tuýp 1 được không?",
+        "content": "<p>Vildagliptin không phải là một chất thay thế insulin trên bệnh nhân cần insulin.</p><p>Không được dùng Vildagliptin cho bệnh nhân đái tháo đường tuýp 1 hoặc để điều trị nhiễm toan ceton do đái tháo đường.</p>"
+      },
+      {
+        "id": 13872,
+        "title": "Thuốc A.t Vildagliptin 50mg chống chỉ định trong các trường hợp nào?",
+        "content": "<p>Thuốc A.t Vildagliptin 50mg chống chỉ định dùng villagliptin cho bệnh nhân đã biết bị quá mẫn với vildagliptin hoặc với bất kỳ thành phần tá dược nào của thuốc.</p>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 9,
+      "items": [
+        {
+          "id": 3286074,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0978xxxxxx",
+          "name": "Nguyễn hương",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc uống khi nào tốt nhất cho ng trên 60 tuổi bị tiểu đường tuýt 2",
+          "createdAt": "2026-04-06 12:29:06",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-06 12:29:06",
+          "replies": [
+            {
+              "id": 3286088,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Mai Anh",
+                "moderatorEmail": "anhltm9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Mai Anh",
+              "email": "anhltm9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hương,</p><p>Dạ sản phẩm là thuốc kê toa mình dùng theo chỉ dẫn của bác sĩ là tốt nhất ạ.</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-04-06 12:37:12",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-06 12:29:06",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3243934,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0348xxxxxx",
+          "name": "Phạm Thị Mai Loan",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1h này giá bnh nhỉ?",
+          "createdAt": "2026-01-11 19:22:21",
+          "createdAtDisplay": "7 tháng trước",
+          "updatedAt": "2026-01-11 19:22:21",
+          "replies": [
+            {
+              "id": 3243938,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Nhật Tân",
+                "moderatorEmail": "tannn23@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Nhật Tân",
+              "email": "tannn23@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị <strong>Loan,</strong></p><p>Hiện tại, sản phẩm có giá 183,000 ₫/hộp, </p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p><br></p>",
+              "createdAt": "2026-01-11 19:27:28",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-01-11 19:22:21",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3176947,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0901xxxxxx",
+          "name": "Thanh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Suy thận độ 3 dùng được không shop",
+          "createdAt": "2025-09-09 14:40:46",
+          "createdAtDisplay": "11 tháng trước",
+          "updatedAt": "2025-09-09 14:40:44",
+          "replies": [
+            {
+              "id": 3176948,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thu Phương",
+                "moderatorEmail": "phuongtt124@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thu Phương",
+              "email": "phuongtt124@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Thanh,</p><p>Dạ sản phẩm là thuốc kê đơn, chỉ sử dụng khi có chỉ định và liều lượng theo bác sĩ hướng dẫn ạ.</p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p>",
+              "createdAt": "2025-09-09 14:42:20",
+              "createdAtDisplay": "11 tháng trước",
+              "updatedAt": "2025-09-09 14:40:44",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3176742,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0945xxxxxx",
+          "name": "cô Vân",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Bao nhiêu 1 hộp vậy ?",
+          "createdAt": "2025-09-09 10:34:10",
+          "createdAtDisplay": "11 tháng trước",
+          "updatedAt": "2025-09-09 10:34:08",
+          "replies": [
+            {
+              "id": 3176744,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Tiến Bắc",
+                "moderatorEmail": "bacnt16@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Tiến Bắc",
+              "email": "bacnt16@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào  cô Vân,</p><p>Hiện tại, sản phẩm có giá 183,000 ₫/hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp). </p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với cô qua số điện thoại đã cung cấp để hỗ trợ thêm. </p><p>Thân mến! </p>",
+              "createdAt": "2025-09-09 10:35:46",
+              "createdAtDisplay": "11 tháng trước",
+              "updatedAt": "2025-09-09 10:34:08",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 357638,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0344xxxxxx",
+          "name": "Trần Thị Phương Thảo",
+          "email": "",
+          "score": null,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Cho mình hỏi loại này nhà thuốc ở Tuy Hoà còn không ạ",
+          "createdAt": "2023-12-01 17:03:20",
+          "createdAtDisplay": "01/12/2023",
+          "updatedAt": "2023-12-01 17:04:37",
+          "replies": [
+            {
+              "id": 357649,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Tiến Bắc",
+                "moderatorEmail": "bacnt16@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Tiến Bắc",
+              "email": "bacnt16@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Trần Thị Phương Thảo,</span><br><span>Dạ sản phẩm còn hàng trên hệ thống ạ.</span><br><span>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</span><br><span>Thân mến!</span></p>",
+              "createdAt": "2023-12-01 17:04:37",
+              "createdAtDisplay": "01/12/2023",
+              "updatedAt": "2023-12-01 17:04:37",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 3113709,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0827xxxxxx",
+          "name": "Lê Thịnh",
+          "email": "lecuongthinh261@gmail.com",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "villagiptin hay vildagliptin v shop, bài viết có chỗ ghi này ghi kia ạ",
+          "createdAt": "2025-05-23 12:08:35",
+          "createdAtDisplay": "23/05/2025",
+          "updatedAt": "2025-05-23 12:08:35",
+          "replies": [
+            {
+              "id": 3113712,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Anh Mac",
+                "moderatorEmail": "anhmtt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Anh Mac",
+              "email": "anhmtt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Lê Thịnh,</p><p>Dạ sản phẩm là Vildagliptin ạ.</p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p>",
+              "createdAt": "2025-05-23 12:09:50",
+              "createdAtDisplay": "23/05/2025",
+              "updatedAt": "2025-05-23 12:08:35",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc A.T Vildagliptin 50mg An Thiên điều trị đái tháo đường típ 2 (3 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_9623_617b_large_314bb69d33.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_1054_617b_large_afd9d8b912.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_6976_617b_large_2d07feaec7.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_5596_617b_large_0b4f8de588.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_9983_6178_large_4a511df000.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_6510_6178_large_eab0f989ae.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_5226_6178_large_9ae7ac89e8.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_2252_6178_large_2e14ef2d78.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_8739_6178_large_1198b2fbe5.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc A.t Vildagliptin 50mg là sản phẩm của Dược phẩm An Thiên chứa hoạt chất Vildagliptin dùng trong điều trị đái tháo đường tuýp 2 ở người lớn.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nguyễn Tuấn Trịnh"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc A.T Vildagliptin 50mg An Thiên điều trị đái tháo đường típ 2 (3 vỉ x 10 viên) - Nhà thuốc FPT Long Châu",
+      "description": "Thuốc A.t Vildagliptin 50mg là sản phẩm của Dược phẩm An Thiên chứa hoạt chất Vildagliptin dùng trong điều trị đái tháo đường tuýp 2 ở người lớn.",
+      "openGraph": {
+        "title": "Thuốc A.T Vildagliptin 50mg An Thiên điều trị đái tháo đường típ 2 (3 vỉ x 10 viên)",
+        "description": "Thuốc A.t Vildagliptin 50mg là sản phẩm của Dược phẩm An Thiên chứa hoạt chất Vildagliptin dùng trong điều trị đái tháo đường tuýp 2 ở người lớn.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031437_at_vildagliptin_50mg_an_thien_3x10_9623_617b_large_314bb69d33.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/at-vildagliptin-50mg-an-thien-3x10-31577.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/at-vildagliptin-50mg-an-thien-3x10-31577.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

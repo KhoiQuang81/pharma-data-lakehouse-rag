@@ -1,0 +1,1283 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/xarelto-20-1725.html",
+  "ingestion_timestamp": "2026-09-05T16:15:59.923873+00:00",
+  "file_hash": "ca6118409202df143e02df0cc1dff2a82b0c2da4e0349eb96c206e98ec72240c",
+  "lineage_hash": "88b2746e282d251d0f636415bd09d78f2c9f761038552d186e2c1bdd4cb2b0a5",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/xarelto-20-1725.html",
+    "product": {
+      "sku": "00008126",
+      "webName": "Thuốc Xarelto 20mg Bayer dự phòng đột quỵ và thuyên tắc mạch toàn thân (1 vỉ x 14 viên)",
+      "name": "XARELTO 20 BAYER 1X14",
+      "shortName": "XARELTO 20 BAYER 1X14",
+      "headingText": "Thuốc Xarelto 20mg",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_1181_6063_large_6509215137.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_9331_6063_large_4cc3a619e1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_5581_6063_large_7fccf53811.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_5365_6063_large_e17c972042.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_8092_6100_large_45d04eb99c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_5407_6100_large_703da9d826.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_7679_6100_large_a9e1a0c533.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_7178_6100_large_59eeeef748.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_1627397142_19d4e960e8.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 737,
+          "name": "Thuốc tim mạch & máu",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tim-mach-and-mau",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 810,
+          "name": "Thuốc chống đông máu",
+          "parentName": "Thuốc tim mạch & máu",
+          "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-chong-dong-mau",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 1 Vỉ x 14 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "1 Vỉ x 14 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "14 Viên"
+        }
+      ],
+      "slug": "thuoc/xarelto-20-1725.html",
+      "ingredient": [
+        {
+          "id": 23854,
+          "ingredientId": 34929,
+          "shortDescription": "20mg",
+          "name": "Rivaroxaban",
+          "isPrimary": false,
+          "slug": "thanh-phan/rivaroxaban"
+        }
+      ],
+      "webIngredient": "<p><meta charset=\"utf-8\" /></p>",
+      "ingredientFor": "1 viên",
+      "registNum": "VN-19014-15",
+      "manufactor": "Đức",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3>Cách dùng</h3><p>Dùng đường uống, nên được uống cùng với thức ăn.</p><p>Có thể nghiền viên thuốc Xarelto 20mg và trộn với nước hay thức ăn mềm như nước táo ngay trước khi dùng và được dùng qua đường uống. Sau khi uống viên Xarelto được nghiền ra, thì nên tiếp ngay sau với thức ăn.</p><p>Viên Xarelto nghiền ra có thể được cho qua ống thông dạ dày, thuốc nghiền ra phải được dùng với một lượng nước nhỏ qua ống thông dạ dày sau đó được đổ thêm nước. Sau khi uống viên Xarelto được nghiền ra, thì nên tiếp ngay sau với nuôi ăn qua đường ruột.</p><h3>Liều dùng</h3><p><i>Dự phòng đột quỵ và thuyên tắc mạch toàn thân ở bệnh nhân rung nhĩ (SPAF)</i></p><p>Liều khuyến cáo là 20 mg ngày một lần</p><p><i>Điều trị và dự phòng tái phát DVT và PE</i></p><ul><li>Ngày 1 đến ngày 21: Liều 15 mg x 2 lần/ngày, tối đa 30 mg/ngày.</li><li>Ngày 22 và ngày sau đó: Liều 20 mg x 1 lần/ngày, tối đa 20 mg/ngày.</li><li>Thời gian điều trị nên được đánh giá cẩn thận về lợi ích điều trị so với nguy cơ chảy máu tùy từng cá nhân.</li></ul><p><i>Chuyển từ kháng Vitamin K (VKA) sang Xarelto</i></p><ul><li>Với bệnh nhân điều trị dự phòng đột quỵ và thuyên tắc mạch toàn thân, nên ngừng việc điều trị VKA và bắt đầu với Xarelto khi chỉ số INR &lt; 3.</li><li>Với bệnh nhân điều trị và dự phòng tái phát DVT, PE, nên ngừng điều trị với VKA và bắt đầu với Xarelto khi chỉ số INR &lt; 2,5.</li></ul><p><i>Chuyển từ Xarelto sang các thuốc kháng Vitamin K</i></p><ul><li>Ở bệnh nhân chuyển từ Xarelto sang VKA, nên sử dụng đồng thời Xarelto và VKA cho tới khi chỉ số INR 2,20. Trong hai ngày đầu tiên của giai đoạn chuyển đổi thuốc, liều VKA điều chỉnh theo test INR được sử dụng sau liều chuẩn VKA.</li><li>Khi bệnh nhân sử dụng đồng thời Xarelto và VKA, nên kiểm tra chỉ số INR trước liều kế tiếp của Xarelto nhưng phải sau 24 giờ so với liều trước đó.</li></ul><p><i>Chuyển từ các thuốc chống đông đường tiêm sang Xarelto.</i></p><p>Ngừng sử dụng các thuốc chống đông đường tiêm và nên bắt đầu uống Xarelto 2 giờ trước lần dùng tiếp theo của thuốc tiêm hoặc ở thời điểm ngừng các thuốc truyền tĩnh mạch liên tục.</p><p><i>Chuyển từ Xarelto sang các thuốc chống đông đường tiêm&nbsp;</i></p><p>Ngừng uống Xarelto 20mg và bắt đầu liều đầu tiên của thuốc chống đông đường tiêm vào thời điểm dùng liều Xarelto tiếp theo.&nbsp;</p><p><i>Đối tượng đặc biệt&nbsp;</i></p><ul><li>Suy thận: bệnh nhân suy thận mức độ trung bình (độ thanh thải creatinine (CrCl) 30-49 mL/phút) hoặc nặng (CrCl 15-29 mL/phút):<ul><li>Trong dự phòng đột quỵ và thuyên tắc mạch toàn thân ở bệnh nhân rung nhĩ không do van tim (SPAF), liều khuyến cáo là 15 mg ngày một lần.</li><li>Trong điều trị và dự phòng tái phát DVT và PE: Bệnh nhân nên được điều trị 15 mg ngày hai lần trong 3 tuần đầu tiên. Sau đó, khi liều khuyến cáo là 20 mg ngày một lần nên cân nhắc giảm liều từ 20 mg ngày một lần xuống 15 mg ngày một lần nếu nguy cơ chảy máu được đánh giá là nhiều hơn nguy cơ tái phát DVT và PE.</li></ul></li><li>Người già: Không cần chỉnh liều.</li><li>Trẻ em: Xarelto không được khuyến cáo cho trẻ dưới 18 tuổi.</li><li>SPAE: Những bệnh nhân đã được PCI (can thiệp mạch vành qua da) có đặt stent:<ul><li>Các bệnh nhân có rung nhĩ không do bệnh van tim, những người được thực hiện PCI có đặt stent nên được dùng liều đã giảm 15 mg Xarelto một lần mỗi ngày (hoặc 10 mg Xarelto một lần mỗi ngày cho những bệnh nhân suy thận trung bình [CrCl: &lt;50-30 mL/phút]) bổ sung vào phác đồ có chất ức chế P2Y12.</li><li>Phác đồ điều trị này được khuyến cáo trong tối đa là 12 tháng sau khi thực hiện PCI có đặt stent.</li><li>Sau khi hoàn thành liệu pháp chống kết tập tiểu cầu, nên tăng liều rivaroxaban lên liều chuẩn cho những bệnh nhân có rung nhĩ không do bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/benh-van-tim-600.html\"><strong>van tim</strong></a>.</li></ul></li></ul><p><i>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</i></p><h3>Làm gì khi dùng quá liều?</h3><p>Các trường hợp quá liều hiếm lên đến 600 mg được báo cáo, không có các biến chứng chảy máu hoặc các phản ứng có hại khác.</p><p>Hiện chưa có chất giải độc đặc hiệu đối kháng tác dụng dược lực học của <strong>rivaroxaban</strong>.</p><p>Xử trí chảy máu:</p><p>Trên bệnh nhân uống rivaroxaban nếu xảy ra biến chứng chảy máu, thì nên tạm ngừng liều điều trị tiếp theo hoặc ngừng hẳn điều trị nếu thích hợp, sử dụng các biện pháp điều trị triệu chứng nếu cần thiết.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc Xarelto 20mg, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc<strong> </strong><a href=\"https://nhathuoclongchau.com.vn/thuoc/xarelto-20-1725.html\"><strong>Xarelto</strong></a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Dự phòng đột quỵ và thuyên tắc mạch toàn thân ở các bệnh nhân bị rung nhĩ không do bệnh lý van tim có một yếu tố nguy cơ hoặc nhiều hơn như: <a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-314.html\"><strong>suy tim</strong></a>, <a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\"><strong>tăng huyết áp</strong></a>, tuổi, đái tháo đường, tiền sử đột quỵ hoặc cơn thoáng thiếu máu não.</li><li>Điều trị huyết khối tĩnh mạch sâu (DVT) và thuyên tắc phổi (PE).</li><li>Dự phòng DVT và PE tái phát.</li></ul><h3>Dược lực học</h3><p><strong>Cơ chế tác dụng&nbsp;</strong></p><p><i>Rivaroxaban</i> là một chất ức chế trực tiếp chọn lọc cao đối với yếu tố Xa có tác dụng qua đường uống. Sự hoạt hóa yếu tố X thành yếu tố Xa (FXa) qua con đường nội sinh và ngoại sinh đóng vai trò trung tâm trong dòng thác đông máu.</p><p>FXa trực tiếp biến đổi prothrombin thành thrombin thông qua phức hợp prothrombinase và cuối cùng, dẫn đến sự hình thành cục máu đông fibrin và hoạt hóa tiểu cầu bởi thrombin. Một phân tử FXa có khả năng tạo ra trên 1000 phân tử thrombin do bản chất khuếch đại của dòng thác đông máu.&nbsp;</p><p><strong>Tác dụng dược lực học&nbsp;</strong></p><p>Sự ức chế yếu tố Xa phụ thuộc liều dùng được ghi nhận trên người.</p><p>Thời gian prothrombin (PT), thời gian prothrombin được hoạt hóa từng phần (aPTT) và HepTest cũng bị kéo dài phụ thuộc liều dùng. Không cần theo dõi các thông số đông máu trong thời gian điều trị bằng Xarelto.</p><h3>Dược động học</h3><p><strong>Hấp thu và sinh khả dụng&nbsp;</strong></p><p>Rivaroxaban hấp thu qua đường uống và sinh khả dụng đường uống cao (80-100%). nồng độ tối đa (Cmax) sau 2-4 giờ uống thuốc.</p><p><strong>Phân bố&nbsp;</strong></p><p>Gắn kết protein trong huyết tương xấp xỉ khoảng 92% đến 95%. Thể tích phân bố Vss khoảng 50L.</p><p><strong>Chuyển hóa và thải trừ</strong></p><p>Rivaroxaban được chuyển hóa qua các cơ chế CYP 3A4, CYP 202 và cơ chế không phụ thuộc CYP. Thời gian bán thải khoảng 5-9 giờ ở người trẻ và khoảng 11-13 giờ ở người già.</p>",
+      "brand": "Bayer",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc Xarelto 20mg</strong>, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p><i>Thường gặp, ADR &gt;1/100</i></p><p>Rối loạn máu, huyết học: <a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-267.html\"><strong>thiếu máu</strong></a>;</p><p>Mắt: Chảy máu mắt;</p><p>Rối loạn tiêu hóa: Chảy máu nướu răng, xuất huyết tiêu hóa, đau bụng, khó tiêu, buồn nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\"><strong>táo bón</strong></a>, tiêu chảy, nôn;</p><p>Rối loạn ở chi: Đau ở chi;</p><p>Tổn thương, độc tính, biến chứng hậu phẫu: Chảy máu hậu phẫu, đụng dập;</p><p>Thần kinh: <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><strong>Đau đầu</strong></a>, choáng váng;</p><p>Rối loạn khác: Sốt, phù ngoại vi, giảm sức lực, năng lượng chung, chảy máu cam, ngứa, xuất huyết da, tụ máu da,…</p><p><i>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</i></p><p>Rối loạn máu, huyết học: Tăng tiểu cầu;</p><p>Trên tim: Nhịp tim nhanh;</p><p>Rối loạn tiêu hóa: <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mieng-312.html\"><strong>Khô miệng</strong></a>;</p><p>Tổn thương, độc tính, biến chứng hậu phẫu: Vết thương xuất tiết;</p><p>Thần kinh: Chảy máu não và nội soi, ngất;</p><p>Rối loạn ở chi: Tụ máu khớp;</p><p>Rối loạn khác: Cảm giác khó chịu, giảm chức năng gan, mày đay,…</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 1 vỉ x 14 viên",
+      "indications": [
+        {
+          "id": 237,
+          "name": "Đột quỵ",
+          "slug": "benh/dot-quy-680.html"
+        },
+        {
+          "id": 249,
+          "name": "Rung nhĩ",
+          "slug": "benh/rung-nhi-673.html"
+        },
+        {
+          "id": 401,
+          "name": "Tắc động mạch phổi",
+          "slug": "benh/tac-dong-mach-phoi-171.html"
+        },
+        {
+          "id": 684,
+          "name": "Huyết khối tĩnh mạch sâu",
+          "slug": "benh/huyet-khoi-tinh-mach-sau-239.html"
+        }
+      ],
+      "brandOrigin": "Đức",
+      "producer": "BAYER",
+      "shortDescription": "<p>Xarelto 20mg của công ty Bayer Pharma, thành phần chính <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/rivaroxaban\">rivaroxaban</a>, là thuốc chống đông đường uống thế hệ mới, dùng để điều trị dự phòng thuyên tắc tĩnh mạch ở bệnh nhân rung nhĩ không do bệnh lý van tim, dự phòng đột quỵ, ngoài ra, thuốc còn điều trị và dự phòng huyết khối tĩnh mạch sâu, thuyên tắc phổi. Thuốc được bào chế ở dạng viên nén bao phim hình tròn màu đỏ, mỗi viên chứa hàm lượng 20 mg rivaroxaban.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Trên 18 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Lái tàu xe",
+        "Phụ nữ cho con bú"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Suy gan, Xuất huyết nội sọ, Suy thận, Loét tiêu hóa, Bệnh ưa chảy máu",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/bayer",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": null,
+      "officialProductName": "XARELTO 20",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 266,
+        "attributeName": "Đức",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "14 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 810,
+        "name": "Thuốc chống đông máu",
+        "parentName": "Thuốc tim mạch & máu",
+        "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-chong-dong-mau",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_1181_6063_large_6509215137.jpg",
+          "alternativeText": "Thuốc Xarelto 20mg Bayer dự phòng đột quỵ và thuyên tắc mạch toàn thân (1 vỉ x 14 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_9331_6063_large_4cc3a619e1.jpg",
+          "alternativeText": "Thuốc Xarelto 20mg Bayer dự phòng đột quỵ và thuyên tắc mạch toàn thân (1 vỉ x 14 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_5581_6063_large_7fccf53811.jpg",
+          "alternativeText": "Thuốc Xarelto 20mg Bayer dự phòng đột quỵ và thuyên tắc mạch toàn thân (1 vỉ x 14 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_5365_6063_large_e17c972042.jpg",
+          "alternativeText": "Thuốc Xarelto 20mg Bayer dự phòng đột quỵ và thuyên tắc mạch toàn thân (1 vỉ x 14 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_8092_6100_large_45d04eb99c.jpg",
+          "alternativeText": "Thuốc Xarelto 20mg Bayer dự phòng đột quỵ và thuyên tắc mạch toàn thân (1 vỉ x 14 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_5407_6100_large_703da9d826.jpg",
+          "alternativeText": "Thuốc Xarelto 20mg Bayer dự phòng đột quỵ và thuyên tắc mạch toàn thân (1 vỉ x 14 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_7679_6100_large_a9e1a0c533.jpg",
+          "alternativeText": "Thuốc Xarelto 20mg Bayer dự phòng đột quỵ và thuyên tắc mạch toàn thân (1 vỉ x 14 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_7178_6100_large_59eeeef748.jpg",
+          "alternativeText": "Thuốc Xarelto 20mg Bayer dự phòng đột quỵ và thuyên tắc mạch toàn thân (1 vỉ x 14 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_1627397142_19d4e960e8.jpg",
+          "alternativeText": "Thuốc Xarelto 20mg Bayer dự phòng đột quỵ và thuyên tắc mạch toàn thân (1 vỉ x 14 viên) 9"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tim mạch & máu",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau"
+      },
+      {
+        "name": "Thuốc chống đông máu",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau/thuoc-chong-dong-mau"
+      }
+    ],
+    "content": {
+      "sku": "00008126",
+      "dosage": "<h3>Cách dùng</h3><p>Dùng đường uống, nên được uống cùng với thức ăn.</p><p>Có thể nghiền viên thuốc Xarelto 20mg và trộn với nước hay thức ăn mềm như nước táo ngay trước khi dùng và được dùng qua đường uống. Sau khi uống viên Xarelto được nghiền ra, thì nên tiếp ngay sau với thức ăn.</p><p>Viên Xarelto nghiền ra có thể được cho qua ống thông dạ dày, thuốc nghiền ra phải được dùng với một lượng nước nhỏ qua ống thông dạ dày sau đó được đổ thêm nước. Sau khi uống viên Xarelto được nghiền ra, thì nên tiếp ngay sau với nuôi ăn qua đường ruột.</p><h3>Liều dùng</h3><p><i>Dự phòng đột quỵ và thuyên tắc mạch toàn thân ở bệnh nhân rung nhĩ (SPAF)</i></p><p>Liều khuyến cáo là 20 mg ngày một lần</p><p><i>Điều trị và dự phòng tái phát DVT và PE</i></p><ul><li>Ngày 1 đến ngày 21: Liều 15 mg x 2 lần/ngày, tối đa 30 mg/ngày.</li><li>Ngày 22 và ngày sau đó: Liều 20 mg x 1 lần/ngày, tối đa 20 mg/ngày.</li><li>Thời gian điều trị nên được đánh giá cẩn thận về lợi ích điều trị so với nguy cơ chảy máu tùy từng cá nhân.</li></ul><p><i>Chuyển từ kháng Vitamin K (VKA) sang Xarelto</i></p><ul><li>Với bệnh nhân điều trị dự phòng đột quỵ và thuyên tắc mạch toàn thân, nên ngừng việc điều trị VKA và bắt đầu với Xarelto khi chỉ số INR &lt; 3.</li><li>Với bệnh nhân điều trị và dự phòng tái phát DVT, PE, nên ngừng điều trị với VKA và bắt đầu với Xarelto khi chỉ số INR &lt; 2,5.</li></ul><p><i>Chuyển từ Xarelto sang các thuốc kháng Vitamin K</i></p><ul><li>Ở bệnh nhân chuyển từ Xarelto sang VKA, nên sử dụng đồng thời Xarelto và VKA cho tới khi chỉ số INR 2,20. Trong hai ngày đầu tiên của giai đoạn chuyển đổi thuốc, liều VKA điều chỉnh theo test INR được sử dụng sau liều chuẩn VKA.</li><li>Khi bệnh nhân sử dụng đồng thời Xarelto và VKA, nên kiểm tra chỉ số INR trước liều kế tiếp của Xarelto nhưng phải sau 24 giờ so với liều trước đó.</li></ul><p><i>Chuyển từ các thuốc chống đông đường tiêm sang Xarelto.</i></p><p>Ngừng sử dụng các thuốc chống đông đường tiêm và nên bắt đầu uống Xarelto 2 giờ trước lần dùng tiếp theo của thuốc tiêm hoặc ở thời điểm ngừng các thuốc truyền tĩnh mạch liên tục.</p><p><i>Chuyển từ Xarelto sang các thuốc chống đông đường tiêm&nbsp;</i></p><p>Ngừng uống Xarelto 20mg và bắt đầu liều đầu tiên của thuốc chống đông đường tiêm vào thời điểm dùng liều Xarelto tiếp theo.&nbsp;</p><p><i>Đối tượng đặc biệt&nbsp;</i></p><ul><li>Suy thận: bệnh nhân suy thận mức độ trung bình (độ thanh thải creatinine (CrCl) 30-49 mL/phút) hoặc nặng (CrCl 15-29 mL/phút):<ul><li>Trong dự phòng đột quỵ và thuyên tắc mạch toàn thân ở bệnh nhân rung nhĩ không do van tim (SPAF), liều khuyến cáo là 15 mg ngày một lần.</li><li>Trong điều trị và dự phòng tái phát DVT và PE: Bệnh nhân nên được điều trị 15 mg ngày hai lần trong 3 tuần đầu tiên. Sau đó, khi liều khuyến cáo là 20 mg ngày một lần nên cân nhắc giảm liều từ 20 mg ngày một lần xuống 15 mg ngày một lần nếu nguy cơ chảy máu được đánh giá là nhiều hơn nguy cơ tái phát DVT và PE.</li></ul></li><li>Người già: Không cần chỉnh liều.</li><li>Trẻ em: Xarelto không được khuyến cáo cho trẻ dưới 18 tuổi.</li><li>SPAE: Những bệnh nhân đã được PCI (can thiệp mạch vành qua da) có đặt stent:<ul><li>Các bệnh nhân có rung nhĩ không do bệnh van tim, những người được thực hiện PCI có đặt stent nên được dùng liều đã giảm 15 mg Xarelto một lần mỗi ngày (hoặc 10 mg Xarelto một lần mỗi ngày cho những bệnh nhân suy thận trung bình [CrCl: &lt;50-30 mL/phút]) bổ sung vào phác đồ có chất ức chế P2Y12.</li><li>Phác đồ điều trị này được khuyến cáo trong tối đa là 12 tháng sau khi thực hiện PCI có đặt stent.</li><li>Sau khi hoàn thành liệu pháp chống kết tập tiểu cầu, nên tăng liều rivaroxaban lên liều chuẩn cho những bệnh nhân có rung nhĩ không do bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/benh-van-tim-600.html\"><strong>van tim</strong></a>.</li></ul></li></ul><p><i>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</i></p><h3>Làm gì khi dùng quá liều?</h3><p>Các trường hợp quá liều hiếm lên đến 600 mg được báo cáo, không có các biến chứng chảy máu hoặc các phản ứng có hại khác.</p><p>Hiện chưa có chất giải độc đặc hiệu đối kháng tác dụng dược lực học của <strong>rivaroxaban</strong>.</p><p>Xử trí chảy máu:</p><p>Trên bệnh nhân uống rivaroxaban nếu xảy ra biến chứng chảy máu, thì nên tạm ngừng liều điều trị tiếp theo hoặc ngừng hẳn điều trị nếu thích hợp, sử dụng các biện pháp điều trị triệu chứng nếu cần thiết.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc Xarelto 20mg, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<p>Tờ hướng dẫn sử dụng thuốc Xarelto 20mg</p>",
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc Xarelto 20mg</strong>, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p><i>Thường gặp, ADR &gt;1/100</i></p><p>Rối loạn máu, huyết học: <a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-267.html\"><strong>thiếu máu</strong></a>;</p><p>Mắt: Chảy máu mắt;</p><p>Rối loạn tiêu hóa: Chảy máu nướu răng, xuất huyết tiêu hóa, đau bụng, khó tiêu, buồn nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\"><strong>táo bón</strong></a>, tiêu chảy, nôn;</p><p>Rối loạn ở chi: Đau ở chi;</p><p>Tổn thương, độc tính, biến chứng hậu phẫu: Chảy máu hậu phẫu, đụng dập;</p><p>Thần kinh: <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><strong>Đau đầu</strong></a>, choáng váng;</p><p>Rối loạn khác: Sốt, phù ngoại vi, giảm sức lực, năng lượng chung, chảy máu cam, ngứa, xuất huyết da, tụ máu da,…</p><p><i>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</i></p><p>Rối loạn máu, huyết học: Tăng tiểu cầu;</p><p>Trên tim: Nhịp tim nhanh;</p><p>Rối loạn tiêu hóa: <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mieng-312.html\"><strong>Khô miệng</strong></a>;</p><p>Tổn thương, độc tính, biến chứng hậu phẫu: Vết thương xuất tiết;</p><p>Thần kinh: Chảy máu não và nội soi, ngất;</p><p>Rối loạn ở chi: Tụ máu khớp;</p><p>Rối loạn khác: Cảm giác khó chịu, giảm chức năng gan, mày đay,…</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Không để thuốc ở nhiệt độ trên 300C.</p><p><i>Về công ty Bayer Pharma</i></p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc<strong> </strong><a href=\"https://nhathuoclongchau.com.vn/thuoc/xarelto-20-1725.html\"><strong>Xarelto</strong></a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Dự phòng đột quỵ và thuyên tắc mạch toàn thân ở các bệnh nhân bị rung nhĩ không do bệnh lý van tim có một yếu tố nguy cơ hoặc nhiều hơn như: <a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-314.html\"><strong>suy tim</strong></a>, <a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\"><strong>tăng huyết áp</strong></a>, tuổi, đái tháo đường, tiền sử đột quỵ hoặc cơn thoáng thiếu máu não.</li><li>Điều trị huyết khối tĩnh mạch sâu (DVT) và thuyên tắc phổi (PE).</li><li>Dự phòng DVT và PE tái phát.</li></ul><h3>Dược lực học</h3><p><strong>Cơ chế tác dụng&nbsp;</strong></p><p><i>Rivaroxaban</i> là một chất ức chế trực tiếp chọn lọc cao đối với yếu tố Xa có tác dụng qua đường uống. Sự hoạt hóa yếu tố X thành yếu tố Xa (FXa) qua con đường nội sinh và ngoại sinh đóng vai trò trung tâm trong dòng thác đông máu.</p><p>FXa trực tiếp biến đổi prothrombin thành thrombin thông qua phức hợp prothrombinase và cuối cùng, dẫn đến sự hình thành cục máu đông fibrin và hoạt hóa tiểu cầu bởi thrombin. Một phân tử FXa có khả năng tạo ra trên 1000 phân tử thrombin do bản chất khuếch đại của dòng thác đông máu.&nbsp;</p><p><strong>Tác dụng dược lực học&nbsp;</strong></p><p>Sự ức chế yếu tố Xa phụ thuộc liều dùng được ghi nhận trên người.</p><p>Thời gian prothrombin (PT), thời gian prothrombin được hoạt hóa từng phần (aPTT) và HepTest cũng bị kéo dài phụ thuộc liều dùng. Không cần theo dõi các thông số đông máu trong thời gian điều trị bằng Xarelto.</p><h3>Dược động học</h3><p><strong>Hấp thu và sinh khả dụng&nbsp;</strong></p><p>Rivaroxaban hấp thu qua đường uống và sinh khả dụng đường uống cao (80-100%). nồng độ tối đa (Cmax) sau 2-4 giờ uống thuốc.</p><p><strong>Phân bố&nbsp;</strong></p><p>Gắn kết protein trong huyết tương xấp xỉ khoảng 92% đến 95%. Thể tích phân bố Vss khoảng 50L.</p><p><strong>Chuyển hóa và thải trừ</strong></p><p>Rivaroxaban được chuyển hóa qua các cơ chế CYP 3A4, CYP 202 và cơ chế không phụ thuộc CYP. Thời gian bán thải khoảng 5-9 giờ ở người trẻ và khoảng 11-13 giờ ở người già.</p>",
+      "ingredient": "<p><meta charset=\"utf-8\" /></p>",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p><strong>Thuốc Xarelto 20mg</strong> chống chỉ định trong các trường hợp sau:</p><p>Bệnh nhân mẫn cảm với rivaroxaban hoặc bất kỳ thành phần nào của thuốc.</p><p>Bệnh nhân đang chảy máu liên quan lâm sàng (như chảy máu nội sọ, xuất huyết tiêu hóa).</p><p>Bệnh nhân đang được điều trị với các thuốc chống đông khác, ngoại trừ các trường hợp cụ thể trong giai đoạn chuyển từ một thuốc chống đông này sang một thuốc chống đông khác hoặc khi heparin không phân đoạn được dùng để duy trì việc mở ống thông động mạch hoặc tĩnh mạch trung tâm.</p><p>Bệnh nhân mắc bệnh gan đi kèm với rối loạn đông máu và nguy cơ chảy máu có liên quan về mặt lâm sàng kể cả những bệnh nhân xơ gan với xếp loại Child Pugh B và C.</p><p>Chống chỉ định Xareto ở phụ nữ có thai và trong thời gian nuôi con bằng sữa mẹ.</p><h3>Thận trọng khi sử dụng</h3><p>Nguy cơ xuất huyết</p><p>Khuyến cáo nên sử dụng thận trọng trong những chứng bệnh có gia tăng nguy cơ xuất huyết:&nbsp;</p><ul><li>Rối loạn chảy máu bẩm sinh hoặc mắc phải;</li><li><a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\"><strong>Tăng huyết áp</strong></a> động mạch nghiêm trọng không kiểm soát được;</li><li>Bệnh loét đường tiêu hóa đang tiến triển;</li><li>Loét đường tiêu hóa gần đây;</li><li>Bệnh lý võng mạc do mạch máu;</li><li>Chảy máu nội sọ hoặc chảy máu não gần đây;&nbsp;</li><li>Bất thường mạch máu trong tủy sống hoặc trong não;</li><li>Phẫu thuật não, tủy sống hoặc nhãn khoa gần đây;</li><li>Giãn phế quản hoặc tiền sử chảy máu phổi;</li><li>&nbsp;Phẫu thuật và can thiệp.</li></ul><p>Nên ngừng điều trị bằng Xarelto tối thiểu 24 giờ trước khi thực hiện can thiệp nếu có thể và dựa trên sự đánh giá lâm sàng của các bác sĩ.</p><ul><li>&nbsp;Gây tê trục thần kinh (ngoài màng cứng/tủy sống): khi gây tê trục thần kinh hoặc chọc dò tủy sống, bệnh nhân nên được điều trị bằng thuốc chống huyết khối.</li><li>&nbsp;Các dữ liệu lâm sàng còn hạn chế, do đó thận trọng khi sử dụng Xarelto trong các trường hợp sau: bệnh nhân thay van tim nhân tạo, điều trị DVT và PE ở những bệnh nhân bị thuyên tắc phổi có huyết động học không ổn định hoặc bệnh nhân cần làm tan huyết khối hay thủ thuật lấy bỏ vật nghẽn mạch phổi, bệnh nhân được thực hiện PCI có đặt stent.</li></ul><h3>Khả năng lái xe và vận hành máy móc</h3><p>Đã có báo cáo về các trường hợp ngất và choáng váng và có thể ảnh hưởng lên khả năng lái xe và vận hành máy móc. Bệnh nhân gặp phải các phản ứng có hại này không nên lái xe hoặc sử dụng máy móc.</p><h3>Thời kỳ mang thai&nbsp;</h3><p>Chống chỉ định dùng Xarelto ở phụ nữ có thai.</p><h3>Thời kỳ cho con bú</h3><p>Xarelto 20mg chống chỉ định trong thời gian nuôi con bằng sữa mẹ.</p><h3>Tương tác thuốc</h3><p><strong>Tương tác dược động học</strong></p><ul><li>Không khuyến cáo sử dụng Xarelto đồng thời với các thuốc kháng nấm nhóm azole dùng đường toàn thân như ketoconazole, itraconazole, voriconazole và <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/posaconazole\"><strong>posaconazole</strong></a> hoặc các thuốc ức chế protease HIV.</li><li>Dùng đồng thời Xarelto với rifampicin dẫn đến giảm tác dụng dược lực học của thuốc. Phenytoin, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/carbamazepine\"><strong>carbamazepin</strong></a>, phenobarbitone hoặc St. John's Wort có thể cũng dẫn đến giảm nồng độ rivaroxaban trong huyết tương.</li></ul><p><strong>Tương tác dược lực học&nbsp;</strong></p><p>Cần chú ý bệnh nhân nếu điều trị đồng thời với bất kỳ các thuốc có liên quan đến đông máu khác: enoxaparin, NSAIDs, các thuốc ức chế kết tập tiểu cầu, warfarin,…</p><p>Thức ăn và thực phẩm từ sữa: Viên nén Xarelto 20mg có thể uống cùng với thức ăn.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Xarelto 20mg điều trị dự phòng đột quỵ (14 viên)",
+        "metaDescription": "Thuốc Xarelto 20mg Bayer điều trị dự phòng thuyên tắc tĩnh mạch ở bệnh nhân rung nhĩ không do bệnh lý van tim, dự phòng đột quỵ,... Tìm hiểu thêm!",
+        "id": 3107,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_1181_6063_large_6509215137.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Xarelto 20mg Bayer dự phòng đột quỵ và thuyên tắc mạch toàn thân (1 vỉ x 14 viên)",
+            "description": "Xarelto 20mg của công ty Bayer Pharma, thành phần chính rivaroxaban, là thuốc chống đông đường uống thế hệ mới, dùng để điều trị dự phòng thuyên tắc tĩnh mạch ở bệnh nhân rung nhĩ không do bệnh lý van tim, dự phòng đột quỵ, ngoài ra, thuốc còn điều trị và dự phòng huyết khối tĩnh mạch sâu, thuyên tắc phổi. Thuốc được bào chế ở dạng viên nén bao phim hình tròn màu đỏ, mỗi viên chứa hàm lượng 20 mg rivaroxaban."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 11912,
+        "title": "Thuốc Xarelto chứa thành phần gì?",
+        "content": "<p>Thuốc Xarelto chứa thành phần <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/rivaroxaban\">Rivaroxaban</a>. Đây là một chất ức chế trực tiếp chọn lọc cao đối với yếu tố Xa có tác dụng qua đường uống. Sự hoạt hóa yếu tố X thành yếu tố Xa (FXa) qua con đường nội sinh và ngoại sinh đóng vai trò trung tâm trong dòng thác đông máu.</p>"
+      },
+      {
+        "id": 11917,
+        "title": "Thuốc Xarelto đạt nồng độ tối đa (Cmax) sau bao lâu?",
+        "content": "<p>Thuốc Xarelto đạt nồng độ tối đa (Cmax) sau 2 - 4 giờ uống thuốc.</p>"
+      },
+      {
+        "id": 11916,
+        "title": "Thuốc Xarelto được sử dụng để điều trị những bệnh gì?",
+        "content": "<p>Thuốc Xarelto được sử dụng để điều trị dự phòng đột quỵ và thuyên tắc mạch toàn thân ở các bệnh nhân bị rung nhĩ không do bệnh lý van tim có một yếu tố nguy cơ hoặc nhiều hơn như: <a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-314.html\">Suy tim</a>, tăng huyết áp, tuổi, <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">đái tháo đường</a>, tiền sử đột quỵ hoặc cơn thoáng thiếu máu não. Điều trị huyết khối tĩnh mạch sâu (DVT) và thuyên tắc phổi (PE). Dự phòng DVT và PE tái phát.</p>"
+      },
+      {
+        "id": 11920,
+        "title": "Dùng đồng thời Xarelto với Rifampicin được không?",
+        "content": "<p>Dùng đồng thời Xarelto với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/rifampicin\">Rifampicin </a>dẫn đến giảm tác dụng dược lực học của thuốc. Cần cân nhắc phối hợp điều trị 2 loại thuốc này với nhau.</p>"
+      },
+      {
+        "id": 11919,
+        "title": "Phụ nữ mang thai và cho con bú có dùng Xarelto được không?",
+        "content": "<p>Không được dùng điều trị thuốc Xarelto cho phụ nữ mang thai và cho con bú.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00028613",
+        "name": "OP.ZEN 160MG OPC 5X10",
+        "webName": "Thuốc Op.Zen OPC tiêu viêm, tan máu bầm, giảm sưng đau do chấn thương (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00028613_opzen_160mg_opc_5x10_2122_609c_large_9062b91219.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 810,
+            "name": "Thuốc chống đông máu",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-chong-dong-mau",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 36333,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 37000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/opzen-160mg-opc-5x10-28917.html",
+        "ingredients": "Tô mộc 160mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 80,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 36331,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 740,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 36333,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 37000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 36332,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 7400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 69,
+      "items": [
+        {
+          "id": 3355638,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0980xxxxxx",
+          "name": "lan anh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu tiền hộp ạ",
+          "createdAt": "2026-08-11 13:57:10",
+          "createdAtDisplay": "25 ngày trước",
+          "updatedAt": "2026-08-11 13:57:10",
+          "replies": [
+            {
+              "id": 3355640,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Phương Thảo",
+                "moderatorEmail": "thaoltp50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Phương Thảo",
+              "email": "thaoltp50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Lan Anh,</p><p>Hiện tại, sản phẩm Xarelto 20mg có giá 823,900 đ/ hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-08-11 13:57:56",
+              "createdAtDisplay": "25 ngày trước",
+              "updatedAt": "2026-08-11 13:57:10",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3334888,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0929xxxxxx",
+          "name": "quyên",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá 1 hộp",
+          "createdAt": "2026-07-07 18:27:58",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-07 18:27:58",
+          "replies": [
+            {
+              "id": 3334895,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Ngọc Trâm",
+                "moderatorEmail": "tramnn18@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Ngọc Trâm",
+              "email": "tramnn18@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Quyên,</p><p>Hiện tại, sản phẩm Xarelto 20mg có giá 823,900 đ/ hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-07-07 18:31:25",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-07 18:27:58",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3294407,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0336xxxxxx",
+          "name": "quỳnh anh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 hộp",
+          "createdAt": "2026-04-21 13:44:17",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-21 13:44:17",
+          "replies": [
+            {
+              "id": 3294429,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thị Phượng",
+                "moderatorEmail": "phuonght34@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Thị Phượng",
+              "email": "phuonght34@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Quỳnh Anh,</p><p>Hiện tại, sản phẩm Xarelto 20mg có giá 823,900 đ/ hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-04-21 13:56:05",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-21 13:44:17",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3268508,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0336xxxxxx",
+          "name": "bảo",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá 1 hộp đi shop",
+          "createdAt": "2026-03-04 15:17:02",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-03-04 15:17:02",
+          "replies": [
+            {
+              "id": 3268514,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Tuyết Phượng",
+                "moderatorEmail": "phuongntt76@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Tuyết Phượng",
+              "email": "phuongntt76@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Bảo,</p><p>Hiện tại, sản phẩm Xarelto 20mg có giá 823,900&nbsp;đ/ hộp</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-03-04 15:18:36",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-03-04 15:17:02",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3252132,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0399xxxxxx",
+          "name": "chị Hương",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mình xin giá 1 hộp nhé",
+          "createdAt": "2026-01-27 15:07:31",
+          "createdAtDisplay": "7 tháng trước",
+          "updatedAt": "2026-01-27 15:07:31",
+          "replies": [
+            {
+              "id": 3252137,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Lê Hải Bình",
+                "moderatorEmail": "binhtlh@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Lê Hải Bình",
+              "email": "binhtlh@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hương,</p><p>Hiện tại, sản phẩm XARELTO 20 BAYER 1X14 có giá 823,900 ₫/ hộp.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-01-27 15:14:21",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-01-27 15:07:31",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 7,
+      "items": [
+        {
+          "id": 3234580,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0983xxxxxx",
+          "name": "Khâm",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này bán bao nhiếu thế?",
+          "createdAt": "2025-12-24 13:37:09",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2025-12-24 13:37:09",
+          "replies": [
+            {
+              "id": 3234608,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thuỳ Linh",
+                "moderatorEmail": "linhntt67@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thuỳ Linh",
+              "email": "linhntt67@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Khâm,</p><p>Hiện tại, sản phẩm Thuốc Xarelto 20mg Bayer dự phòng đột quỵ và thuyên tắc mạch toàn thân (1 vỉ x 14 viên) có giá 823,900 ₫/hộp ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2025-12-24 14:16:17",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-12-24 13:37:09",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3192687,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0869xxxxxx",
+          "name": "ANH CUONG",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cho hỏi giá bao nhiêu ạ",
+          "createdAt": "2025-10-08 11:28:20",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-08 11:28:13",
+          "replies": [
+            {
+              "id": 3192690,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Thị Bích Lựu",
+                "moderatorEmail": "luuntb4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Thị Bích Lựu",
+              "email": "luuntb4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào ANH CUONG,</p><p>Hiện tại, sản phẩm XARELTO 20 BAYER 1X14 có giá 58,850đ/ viên, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp). </p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm. </p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-10-08 11:31:13",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-08 11:28:13",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3180461,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0328xxxxxx",
+          "name": "Như",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Bao nhiêu tiền 1h ạ",
+          "createdAt": "2025-09-15 16:07:57",
+          "createdAtDisplay": "11 tháng trước",
+          "updatedAt": "2025-09-15 16:07:52",
+          "replies": [
+            {
+              "id": 3180463,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Huỳnh Khánh Uyên",
+                "moderatorEmail": "uyenmhk@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mai Huỳnh Khánh Uyên",
+              "email": "uyenmhk@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Như,</p><p>Hiện tại, sản phẩm có giá 823,900đ/hộp ạ, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp). </p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm. </p><p>Thân mến! </p>",
+              "createdAt": "2025-09-15 16:09:02",
+              "createdAtDisplay": "11 tháng trước",
+              "updatedAt": "2025-09-15 16:07:52",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 2422439,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0967xxxxxx",
+          "name": "ANH HÙNG",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cho hỏi xuất huyết não có uốg đươc ko,và uốg trong bao lâu thì có tác dụng",
+          "createdAt": "2024-10-14 12:11:04",
+          "createdAtDisplay": "14/10/2024",
+          "updatedAt": "2024-10-14 12:12:35",
+          "replies": [
+            {
+              "id": 2422456,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Tuấn Đại",
+                "moderatorEmail": "DaiNT17@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Tuấn Đại",
+              "email": "DaiNT17@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào anh Hùng,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ do sản phẩm là thuốc kê đơn, chỉ nên sử dụng theo chỉ định của bác sĩ ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Nhà thuốc thông tin đến anh.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p>",
+              "createdAt": "2024-10-14 12:12:35",
+              "createdAtDisplay": "14/10/2024",
+              "updatedAt": "2024-10-14 12:12:35",
+              "replies": []
+            },
+            {
+              "id": 2560120,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0303xxxxxx",
+              "name": "Loan",
+              "email": "",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "1 vỉ hiên bao tiền",
+              "createdAt": "2024-10-29 09:31:46",
+              "createdAtDisplay": "29/10/2024",
+              "updatedAt": "2024-10-14 12:12:35",
+              "replies": []
+            },
+            {
+              "id": 2560165,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thanh Tân",
+                "moderatorEmail": "TanHT11@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Hoàng Thanh Tân",
+              "email": "TanHT11@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Loan,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Dạ sản phẩm có giá 824.600đ/vỉ</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Thân mến!</span></p>",
+              "createdAt": "2024-10-29 09:34:52",
+              "createdAtDisplay": "29/10/2024",
+              "updatedAt": "2024-10-14 12:12:35",
+              "replies": []
+            },
+            {
+              "id": 3107048,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0975xxxxxx",
+              "name": "Khang",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "bao nhiêu tiền vậy shop?",
+              "createdAt": "2025-05-13 09:06:52",
+              "createdAtDisplay": "13/05/2025",
+              "updatedAt": "2024-10-14 12:12:35",
+              "replies": []
+            },
+            {
+              "id": 3107052,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thùy Linh",
+                "moderatorEmail": "linhntt77@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thùy Linh",
+              "email": "linhntt77@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Khang,</p><p>Dạ sản phẩm có giá 824,600 ₫/hộp</p><p>Dạ sẽ có tư vấn viên của Nhà thuốc Long Châu liên hệ theo SĐT bạn để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-05-13 09:09:27",
+              "createdAtDisplay": "13/05/2025",
+              "updatedAt": "2024-10-14 12:12:35",
+              "replies": []
+            }
+          ],
+          "totalReplies": 5
+        },
+        {
+          "id": 1728128,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0879xxxxxx",
+          "name": "c Phương anh",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "sao k bấm vào mua được vậy shop",
+          "createdAt": "2024-07-24 16:10:24",
+          "createdAtDisplay": "24/07/2024",
+          "updatedAt": "2024-07-24 16:13:32",
+          "replies": [
+            {
+              "id": 1728156,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Cao Thị Linh Chi",
+                "moderatorEmail": "chictl2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Cao Thị Linh Chi",
+              "email": "chictl2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào chị Phương Anh,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT chị đã để lại ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p>",
+              "createdAt": "2024-07-24 16:13:32",
+              "createdAtDisplay": "24/07/2024",
+              "updatedAt": "2024-07-24 16:13:32",
+              "replies": []
+            },
+            {
+              "id": 2768587,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0577xxxxxx",
+              "name": "Em",
+              "email": "",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "thuốc chống đột quỵ này 1 vỉ bao nhiêu",
+              "createdAt": "2024-11-19 10:05:15",
+              "createdAtDisplay": "19/11/2024",
+              "updatedAt": "2024-07-24 16:13:32",
+              "replies": []
+            },
+            {
+              "id": 2768605,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lữ Thị Anh Thư",
+                "moderatorEmail": "Thulta11@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Lữ Thị Anh Thư",
+              "email": "Thulta11@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Em,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sản phẩm có giá 824,600&nbsp;đồng/ Vỉ ạ. </span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p>",
+              "createdAt": "2024-11-19 10:06:13",
+              "createdAtDisplay": "19/11/2024",
+              "updatedAt": "2024-07-24 16:13:32",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 7
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Xarelto 20mg Bayer dự phòng đột quỵ và thuyên tắc mạch toàn thân (1 vỉ x 14 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_1181_6063_large_6509215137.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_9331_6063_large_4cc3a619e1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_5581_6063_large_7fccf53811.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_5365_6063_large_e17c972042.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_8092_6100_large_45d04eb99c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_5407_6100_large_703da9d826.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_7679_6100_large_a9e1a0c533.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_7178_6100_large_59eeeef748.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Xarelto 20mg của công ty Bayer Pharma, thành phần chính rivaroxaban, là thuốc chống đông đường uống thế hệ mới, dùng để điều trị dự phòng thuyên tắc tĩnh mạch ở bệnh nhân rung nhĩ không do bệnh lý van tim, dự phòng đột quỵ, ngoài ra, thuốc còn điều trị và dự phòng huyết khối tĩnh mạch sâu, thuyên tắc phổi. Thuốc được bào chế ở dạng viên nén bao phim hình tròn màu đỏ, mỗi viên chứa hàm lượng 20 mg rivaroxaban.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "7"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Xarelto 20mg điều trị dự phòng đột quỵ (14 viên)",
+      "description": "Thuốc Xarelto 20mg Bayer điều trị dự phòng thuyên tắc tĩnh mạch ở bệnh nhân rung nhĩ không do bệnh lý van tim, dự phòng đột quỵ,... Tìm hiểu thêm!",
+      "openGraph": {
+        "title": "Thuốc Xarelto 20mg Bayer dự phòng đột quỵ và thuyên tắc mạch toàn thân (1 vỉ x 14 viên)",
+        "description": "Xarelto 20mg của công ty Bayer Pharma, thành phần chính rivaroxaban, là thuốc chống đông đường uống thế hệ mới, dùng để điều trị dự phòng thuyên tắc tĩnh mạch ở bệnh nhân rung nhĩ không do bệnh lý van tim, dự phòng đột quỵ, ngoài ra, thuốc còn điều trị và dự phòng huyết khối tĩnh mạch sâu, thuyên tắc phổi. Thuốc được bào chế ở dạng viên nén bao phim hình tròn màu đỏ, mỗi viên chứa hàm lượng 20 mg rivaroxaban.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008126_xarelto_20_1181_6063_large_6509215137.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/xarelto-20-1725.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/xarelto-20-1725.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

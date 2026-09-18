@@ -1,0 +1,960 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/sezstad-10-stella-6-x10.html",
+  "ingestion_timestamp": "2026-09-05T11:15:40.206043+00:00",
+  "file_hash": "9d6102445ba4e30f71e8ef6952497c762040e37d5bcaf98c6cc3d5b9107e9c0d",
+  "lineage_hash": "19ff42b7b0bd753a7aed32b7cd3f73cd6684f3faf30da80e6ecf85e097abd3e1",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/sezstad-10-stella-6-x10.html",
+    "product": {
+      "sku": "00045473",
+      "webName": "Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (6 vỉ x 10 viên)",
+      "name": "SEZSTAD 10 STELLA 6X10",
+      "shortName": "SEZSTAD 10 STELLA 6X10",
+      "headingText": "Thuốc Sezstad 10",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_sezstad_10_stella_6x10_00045473_af19a8e833.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09846_547ae81db0.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09848_f20c11962f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09849_b65566ca90.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09849_b65566ca90.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09850_3d85101593.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09851_f190824a05.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09852_5ea3467103.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Sezstad_10_bfe35f9975.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 737,
+          "name": "Thuốc tim mạch & máu",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tim-mach-and-mau",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 814,
+          "name": "Thuốc trị mỡ máu",
+          "parentName": "Thuốc tim mạch & máu",
+          "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 6 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "6 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/sezstad-10-stella-6-x10.html",
+      "ingredient": [
+        {
+          "id": 66546,
+          "ingredientId": 19939,
+          "shortDescription": "10mg",
+          "name": "Ezetimibe",
+          "isPrimary": true,
+          "slug": "thanh-phan/ezetimibe"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893110390723",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén",
+      "dosage": "<h3 dir=\"ltr\">Cách dùng</h3><p>Sezstad 10 được dùng bằng đường uống, bất kỳ lúc nào trong ngày, cùng hoặc không cùng với thức ăn.</p><p>Bệnh nhân nên có chế độ ăn phù hợp, ít chất béo và tiếp tục chế độ ăn này trị.</p><p><strong>Phối hợp với các thuốc hạ lipid khác</strong></p><p>Ezetimibe có thể uống cùng với thuốc nhóm statin (đối với bệnh nhân tăng lipid huyết nguyên phát) hoặc fenofibrat (đối với bệnh nhân tăng lipid huyết kết hợp) để đạt hiệu quả điều trị cao hơn.</p><p>Liễu dùng hàng ngày có thể uống cùng lúc với thuốc nhóm statin hoặc fenofibrat theo liều khuyến cáo của từng thuốc.</p><p><strong>Phối hợp với thuốc hấp thu acid mật</strong></p><p>Nên uống ezetimibe ít nhất trước 2 giờ hoặc sau 4 giờ khi dùng thuốc hấp thu acid mật.</p><h3 dir=\"ltr\">Liều dùng</h3><p>Liều đề nghị: Một viên mỗi ngày.</p><p>Trẻ em và trẻ vị thành niên từ 10 tuổi trở lên: Không cần chỉnh liều.</p><p>Trẻ em dưới 10 tuổi: Không khuyến cáo dùng ezetimibe vì chưa có đầy đủ thông tin về tính an toàn và hiệu quả của thuốc đối với trẻ dưới 10 tuổi.</p><p>Bệnh nhân bị suy gan hoặc suy thận: Không cần chỉnh liều đối với bệnh nhân bị suy gan hoặc suy thận nhẹ.</p><p>Người cao tuổi: Không cắn chỉnh liều.&nbsp;</p><p dir=\"ltr\">Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3 dir=\"ltr\">Làm gì khi dùng quá liều?</h3><p dir=\"ltr\">Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3 dir=\"ltr\">Làm gì khi quên 1 liều?</h3><p dir=\"ltr\">Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Sezstad 10 được chỉ định dùng trong các trường hợp sau:</p><p dir=\"ltr\"><strong>Tăng cholesterol máu nguyên phát</strong></p><p><i>Đơn trị liệu: </i>Điều trị hỗ trợ với chế độ ăn kiêng ở những bệnh nhân tăng cholesterol máu nguyên phát (dị hợp có và không có tính gia đình) không phù hợp hoặc không dung nạp với thuốc nhóm statin.</p><p><i>Điều trị phối hợp với chất ức chế men khử HMG - CoA (nhóm statin): </i>Điều trị hỗ trợ với chế độ ăn kiêng ở những bệnh nhân tăng cholesterol máu nguyên phát (dị hợp có và không có tính gia đình) không được kiểm soát tốt với đơn trị liệu thuốc nhóm statin.</p><p><strong>Tăng cholesterol máu đồng hợp tử có tính gia đình (HoFH)</strong></p><p>Dùng kết hợp với thuốc nhóm gian. Điều trị hỗ trợ với chế độ ấn kiêng ở những bệnh nhân tăng cholesterol máu đồng hợp tử có tính gia đình.</p><p><strong>Tăng cholesterol máu đồng hợp tử</strong></p><p>Điều trị hỗ trợ với chế độ ăn kiêng ở những bệnh nhân tăng sitosterol máu đồng hợp tử có tính gia đình.</p><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Nhóm dược lý: Thuốc điều chỉnh lipid khác.</strong></p><p><strong>Mã ATC: C10AX09.</strong></p><p>Ezetimibe, chất ức chế hấp thụ cholesterol, là một tác nhân hạ lipid huyết, có cấu trúc hóa học và tác dụng dược lý khác với các thuốc hạ lipid khác hiện có. Sau khi hấp thu, thuốc định vị tại vi nhung mao ruột non và ngăn cản sự hấp thu cholesterol, làm giảm vận chuyển cholesterol từ ruột vào gan. Dẫn đến giảm lượng cholesterol dự trữ ở gan, gan sẽ tăng thu nhận cholesterol từ hệ tuần hoàn theo cơ chế bù trừ, kết quả là tăng thanh thải cholesterol từ hệ tuần hoàn.</p><h3 dir=\"ltr\">Dược động học</h3><p>Ezetimibe hấp thu nhanh sau khi uống và trải qua phản ứng liên hợp ở ruột non và gan thành chất chuyển hóa glucuronid có hoạt tính. Cả ezetimibe và glucuronid gắn với protein huyết tương trên 90%. Ezetimibe thải trừ chủ yếu trong phân qua đường mật và trải qua chu trình gan ruột.</p><p>Sau khi uống, khoảng 78% được bài tiết qua phân dưới dạng ezetimibe, khoảng 11% bài tiết qua nước tiểu chủ yếu dưới dạng glucuronid.Thời gian bán thải của ezetimibe và glucuronid khoảng 22 giờ.</p>",
+      "brand": "Stella Pharm",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Sezstad 10 bạn có thể gặp các tác dụng không mong muốn (ADR):</p><p>Thường gặp (1/100 &lt; ADR &lt; 1/10): Nhức đầu, đau bụng, tiêu chảy, phát ban, phù mạch, mệt mỏi, đau ngực và đau khớp.</p><p>Hiếm gặp (1/10.000 &lt; ADR &lt; 1/1000): Tăng enzym gan hoặc viêm gan, viêm tụy, giảm tiểu cầu, sỏi mật và viêm túi mật.</p><p><i><strong>Hướng dẫn cách xử trí ADR:</strong></i></p><p dir=\"ltr\">Thông báo cho thầy thuốc các tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Hộp 6 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "CÔNG TY TNHH LIÊN DOANH STELLAPHARM",
+      "shortDescription": "<p>Thuốc Sezstad 10 là sản phẩm của Stella Pharm, có thành phần chính là Ezetimibe. Đây là thuốc được sử dụng để điều trị tăng cholesterol máu nguyên phát, tăng cholesterol máu đồng hợp tử có tính gia đình, tăng cholesterol máu đồng hợp tử.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/stella-pharm",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "SEZSTAD 10",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 814,
+        "name": "Thuốc trị mỡ máu",
+        "parentName": "Thuốc tim mạch & máu",
+        "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_sezstad_10_stella_6x10_00045473_af19a8e833.png",
+          "alternativeText": "Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (6 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09846_547ae81db0.jpg",
+          "alternativeText": "Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (6 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09848_f20c11962f.jpg",
+          "alternativeText": "Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (6 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09849_b65566ca90.jpg",
+          "alternativeText": "Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (6 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09849_b65566ca90.jpg",
+          "alternativeText": "Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (6 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09850_3d85101593.jpg",
+          "alternativeText": "Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (6 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09851_f190824a05.jpg",
+          "alternativeText": "Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (6 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09852_5ea3467103.jpg",
+          "alternativeText": "Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (6 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Sezstad_10_bfe35f9975.jpg",
+          "alternativeText": "Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (6 vỉ x 10 viên) 9"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tim mạch & máu",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau"
+      },
+      {
+        "name": "Thuốc trị mỡ máu",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau"
+      }
+    ],
+    "content": {
+      "sku": "00045473",
+      "dosage": "<h3 dir=\"ltr\">Cách dùng</h3><p>Sezstad 10 được dùng bằng đường uống, bất kỳ lúc nào trong ngày, cùng hoặc không cùng với thức ăn.</p><p>Bệnh nhân nên có chế độ ăn phù hợp, ít chất béo và tiếp tục chế độ ăn này trị.</p><p><strong>Phối hợp với các thuốc hạ lipid khác</strong></p><p>Ezetimibe có thể uống cùng với thuốc nhóm statin (đối với bệnh nhân tăng lipid huyết nguyên phát) hoặc fenofibrat (đối với bệnh nhân tăng lipid huyết kết hợp) để đạt hiệu quả điều trị cao hơn.</p><p>Liễu dùng hàng ngày có thể uống cùng lúc với thuốc nhóm statin hoặc fenofibrat theo liều khuyến cáo của từng thuốc.</p><p><strong>Phối hợp với thuốc hấp thu acid mật</strong></p><p>Nên uống ezetimibe ít nhất trước 2 giờ hoặc sau 4 giờ khi dùng thuốc hấp thu acid mật.</p><h3 dir=\"ltr\">Liều dùng</h3><p>Liều đề nghị: Một viên mỗi ngày.</p><p>Trẻ em và trẻ vị thành niên từ 10 tuổi trở lên: Không cần chỉnh liều.</p><p>Trẻ em dưới 10 tuổi: Không khuyến cáo dùng ezetimibe vì chưa có đầy đủ thông tin về tính an toàn và hiệu quả của thuốc đối với trẻ dưới 10 tuổi.</p><p>Bệnh nhân bị suy gan hoặc suy thận: Không cần chỉnh liều đối với bệnh nhân bị suy gan hoặc suy thận nhẹ.</p><p>Người cao tuổi: Không cắn chỉnh liều.&nbsp;</p><p dir=\"ltr\">Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3 dir=\"ltr\">Làm gì khi dùng quá liều?</h3><p dir=\"ltr\">Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3 dir=\"ltr\">Làm gì khi quên 1 liều?</h3><p dir=\"ltr\">Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<p>Tham khảo thông tin tờ hướng dẫn sử dụng thuốc.</p>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Sezstad 10 bạn có thể gặp các tác dụng không mong muốn (ADR):</p><p>Thường gặp (1/100 &lt; ADR &lt; 1/10): Nhức đầu, đau bụng, tiêu chảy, phát ban, phù mạch, mệt mỏi, đau ngực và đau khớp.</p><p>Hiếm gặp (1/10.000 &lt; ADR &lt; 1/1000): Tăng enzym gan hoặc viêm gan, viêm tụy, giảm tiểu cầu, sỏi mật và viêm túi mật.</p><p><i><strong>Hướng dẫn cách xử trí ADR:</strong></i></p><p dir=\"ltr\">Thông báo cho thầy thuốc các tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p dir=\"ltr\">Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p><p dir=\"ltr\">Để xa tầm tay trẻ em, đọc kỹ hướng dẫn sử dụng trước khi dùng.</p>",
+      "usage": "<h3 dir=\"ltr\">Chỉ định</h3><p dir=\"ltr\">Thuốc Sezstad 10 được chỉ định dùng trong các trường hợp sau:</p><p dir=\"ltr\"><strong>Tăng cholesterol máu nguyên phát</strong></p><p><i>Đơn trị liệu: </i>Điều trị hỗ trợ với chế độ ăn kiêng ở những bệnh nhân tăng cholesterol máu nguyên phát (dị hợp có và không có tính gia đình) không phù hợp hoặc không dung nạp với thuốc nhóm statin.</p><p><i>Điều trị phối hợp với chất ức chế men khử HMG - CoA (nhóm statin): </i>Điều trị hỗ trợ với chế độ ăn kiêng ở những bệnh nhân tăng cholesterol máu nguyên phát (dị hợp có và không có tính gia đình) không được kiểm soát tốt với đơn trị liệu thuốc nhóm statin.</p><p><strong>Tăng cholesterol máu đồng hợp tử có tính gia đình (HoFH)</strong></p><p>Dùng kết hợp với thuốc nhóm gian. Điều trị hỗ trợ với chế độ ấn kiêng ở những bệnh nhân tăng cholesterol máu đồng hợp tử có tính gia đình.</p><p><strong>Tăng cholesterol máu đồng hợp tử</strong></p><p>Điều trị hỗ trợ với chế độ ăn kiêng ở những bệnh nhân tăng sitosterol máu đồng hợp tử có tính gia đình.</p><h3 dir=\"ltr\">Dược lực học</h3><p><strong>Nhóm dược lý: Thuốc điều chỉnh lipid khác.</strong></p><p><strong>Mã ATC: C10AX09.</strong></p><p>Ezetimibe, chất ức chế hấp thụ cholesterol, là một tác nhân hạ lipid huyết, có cấu trúc hóa học và tác dụng dược lý khác với các thuốc hạ lipid khác hiện có. Sau khi hấp thu, thuốc định vị tại vi nhung mao ruột non và ngăn cản sự hấp thu cholesterol, làm giảm vận chuyển cholesterol từ ruột vào gan. Dẫn đến giảm lượng cholesterol dự trữ ở gan, gan sẽ tăng thu nhận cholesterol từ hệ tuần hoàn theo cơ chế bù trừ, kết quả là tăng thanh thải cholesterol từ hệ tuần hoàn.</p><h3 dir=\"ltr\">Dược động học</h3><p>Ezetimibe hấp thu nhanh sau khi uống và trải qua phản ứng liên hợp ở ruột non và gan thành chất chuyển hóa glucuronid có hoạt tính. Cả ezetimibe và glucuronid gắn với protein huyết tương trên 90%. Ezetimibe thải trừ chủ yếu trong phân qua đường mật và trải qua chu trình gan ruột.</p><p>Sau khi uống, khoảng 78% được bài tiết qua phân dưới dạng ezetimibe, khoảng 11% bài tiết qua nước tiểu chủ yếu dưới dạng glucuronid.Thời gian bán thải của ezetimibe và glucuronid khoảng 22 giờ.</p>",
+      "ingredient": "",
+      "careful": "<p dir=\"ltr\">Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3 dir=\"ltr\">Chống chỉ định</h3><p dir=\"ltr\">Thuốc Sezstad 10 chống chỉ định trong các trường hợp sau:</p><ul><li>Mẫn cảm với ezetimibe hoặc bất kỳ thành phần nào của thuốc.</li><li>Điều trị kết hợp ezetimibe với thuốc nhóm statin cho phụ nữ có thai và phụ nữ cho con bún.</li><li>Điều trị kết hợp ezetimibe với thuốc nhóm statin trên bệnh nhân bị bệnh gan tiến triển hoặc tăng transaminase huyết thanh liên tục không rõ nguyên nhân.</li></ul><h3 dir=\"ltr\">Thận trọng khi sử dụng</h3><p dir=\"ltr\">Cần rất thận trọng khi dùng thuốc cho người bệnh trong các trường hợp sau:</p><p><i>Enzym gan</i></p><p>Tình trạng tăng transaminase liên tục (2 3 lần giới hạn trên của mức bình thường (ULN)) đã được nhận thấy ở những bệnh nhân sử dụng đồng thời ezetimibe với thuốc nhóm statin. Khi kết hợp ezetimibe với thuốc nhóm statin, cần đánh giá chức năng gan khi bắt đầu điều trị và tuân theo những khuyến cáo của thuốc nhóm statin.</p><p><i>Hệ cơ xương</i></p><p>Đã có báo cáo các trường hợp bệnh cơ và lý giải cơ vân ở một số bệnh nhân sử dụng ezetimibe. Ngừng ngay ezetimibe, thuốc nhóm statin, hay bất kỳ thuốc dùng kết hợp nào khi bệnh nhân nghi ngờ mắc các bệnh về cơ dựa trên triệu chứng ở cơ hay nồng độ creatinin phosphokinase cao hơn 10 lần giới hạn trên của mức bình thường (ULN).</p><p><i>Tá dược</i></p><p>Sezstad 10 có chứa lactose. Không nên dùng thuốc này cho bệnh nhân có các vấn đề về di truyền hiếm gặp không dung nạp galactose, thiếu hụt enzym lactase toàn phần hay kém hấp thu glucose-galactose.</p><h3 dir=\"ltr\">Ảnh hưởng của thuốc lên khả năng lái xe và vận hành máy móc</h3><p dir=\"ltr\">Chưa có nghiên cứu về ảnh hưởng của thuốc lên khả năng lái xe và vận hành máy móc. Tuy nhiên, do thuốc có khả năng gây chóng mặt nên cân nhắc việc dùng thuốc khi lái xe hoặc vận hành máy móc.&nbsp;</p><h3 dir=\"ltr\">Sử dụng thuốc cho phụ nữ trong thời kỳ mang thai và cho con bú</h3><p><strong>Phụ nữ có thai</strong></p><p>Ezetimibe chỉ nên dùng cho phụ nữ mang thai khi thật cần thiết. Chưa có báo cáo lâm sàng về sử dụng ezetimibe trên phụ nữ mang thai. Các nghiên cứu trên động vật cho thấy dùng đơn trị liệu ezetimibe không có tác động có hại trực tiếp hay gián tiếp lên phụ nữ mang thai, sự phát triển của bào thai, trẻ sơ sinh hoặc sự phát triển của trẻ sau khi sinh.</p><p><strong>Phụ nữ cho con bú</strong></p><p>Ezetimibe không nên dùng cho phụ nữ cho con bú. Các nghiên cứu trên chuột cho thấy ezetimibe được bài tiết vào sữa chuột mẹ. Ở người, chưa được biết ezetimibe có bài tiết vào sữa mẹ hay không.</p><h3 dir=\"ltr\">Tương tác thuốc</h3><p>Cholestyramin: Điều trị kết hợp với cholestyramin làm giảm diện tích dưới đường cong của ezetimibe toàn phần (ezetimibe + ezetimibe glucuronid) khoảng 55%. Việc làm giảm sự gia tăng lipoprotein cholesterol tỉ trọng thấp (LDL-C) có thể bị suy yếu bởi tương tác giữa ezetimibe và cholestyramin.</p><p>Nhóm fibrat: Ở những bệnh nhân điều trị bằng fenofibrat và ezetimibe cùng lúc, bác sĩ điều trị nên lưu ý về nguy cơ gây nên bệnh sỏi mật và bệnh túi mật. Nếu nghi ngờ bị sỏi mật ở bệnh nhân dùng ezetimibe và fenofibrat, cần kiểm tra túi mật và ngưng điều trị.</p><p>Nhóm statin: Chưa thấy có tương tác được động học lâm sàng nghiêm trọng nào xảy ra khi dùng chung ezetimibe với atorvastatin, simvastatin, pravastatin, lovastatin, fluvastatin hoặc rosuvastatin.</p><p>Ciclosporin: Ciclosporin làm tăng nồng độ trong huyết tương của ezetimibe, bệnh nhân dùng đồng thời hai thuốc cần được theo dõi cẩn thận. Tác động này có thể tăng ở bệnh nhân suy thận nặng.</p><p>Các thuốc chống đông: Trong một nghiên cứu trên 12 nam giới trưởng thành khỏe mạnh, dùng kết hợp ezetimibe (10 mg một lần/ngày) với các thuốc chống đông không ảnh hưởng đáng kể đến sinh khả dụng của warfarin và thời gian prothrombin. Tuy nhiên, đã có báo cáo về việc tăng chỉ số bình thường hóa quốc tế (INR) khi dùng kết hợp ezetimibe với warfarin hoặc fluindion. Cần theo dõi chỉ số INR nếu phối hợp ezetimibe với warfarin, các thuốc chống đông khác, hoặc fluindion.</p><p>Tương kỵ: Do không có các nghiên cứu về tính tương kỵ của thuốc, không trộn lẫn thuốc này với các thuốc khác.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Trần Huỳnh Minh Nhật",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Dược sĩ chuyên khoa Dược lý - Dược lâm sàng. Tốt nghiệp 2 trường đại học Mở và Y Dược TP. Hồ Chí Minh. Có kinh nghiệm nghiên cứu về lĩnh vực sức khỏe, đạt được nhiều giải thưởng khoa học. Hiện là Dược sĩ chuyên môn phụ trách xây dựng nội dung và triển khai dự án đào tạo - Hội đồng chuyên môn tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-tran-huynh-minh-nhat",
+        "isLegit": true,
+        "id": 10,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tran_huynh_minh_nhat_905ca436dd.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_sezstad_10_stella_6x10_00045473_af19a8e833.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (6 vỉ x 10 viên)",
+            "description": "Thuốc Sezstad 10 là sản phẩm của Stella Pharm, có thành phần chính là Ezetimibe. Đây là thuốc được sử dụng để điều trị tăng cholesterol máu nguyên phát, tăng cholesterol máu đồng hợp tử có tính gia đình, tăng cholesterol máu đồng hợp tử."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 30691,
+        "title": "Thuốc Sezstad 10 thuộc nhóm dược lý nào và thuộc mã ATC nào?",
+        "content": "<p>Thuốc Sezstad 10 thuộc nhóm dược lý: Thuốc điều chỉnh lipid khác. Mã ATC: C10AX09.</p>"
+      },
+      {
+        "id": 30690,
+        "title": "Thuốc Sezstad 10 chứa thành phần gì?",
+        "content": "<p>Thuốc Sezstad 10 chứa thành phần chính là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ezetimibe\">Ezetimibe</a>.</p>"
+      },
+      {
+        "id": 30692,
+        "title": "Thời gian bán thải cuối cùng của thuốc Sezstad 10 là bao lâu?",
+        "content": "<p>Ezetimibe thải trừ chủ yếu trong phân qua đường mật và trải qua chu trình gan ruột. Sau khi uống, khoảng 78% được bài tiết qua phân dưới dạng ezetimibe, khoảng 11% bài tiết qua nước tiểu chủ yếu dưới dạng glucuronid. Thời gian bán thải của ezetimibe và glucuronid khoảng 22 giờ.</p>"
+      },
+      {
+        "id": 30693,
+        "title": "Có tác dụng phụ nào khi sử dụng thuốc Sezstad 10 không?",
+        "content": "<p>Khi sử dụng thuốc Sezstad 10 bạn có thể gặp các tác dụng không mong muốn:</p><ul><li>Thường gặp: Nhức đầu, đau bụng, tiêu chảy, <a href=\"https://nhathuoclongchau.com.vn/benh/phat-ban-884.html\">phát ban</a>, phù mạch, mệt mỏi, đau ngực và đau khớp.</li><li>Hiếm gặp: Tăng enzym gan hoặc viêm gan, viêm tụy, giảm tiểu cầu, sỏi mật và viêm túi mật.</li></ul>"
+      },
+      {
+        "id": 30694,
+        "title": "Cần thận trọng gì khi sử dụng thuốc Sezstad 10?",
+        "content": "<p>Cần rất thận trọng khi dùng thuốc cho người bệnh trong các trường hợp sau:</p><ul><li>Enzym gan: Tình trạng tăng transaminase liên tục (2 3 lần giới hạn trên của mức bình thường (ULN)) đã được nhận thấy ở những bệnh nhân sử dụng đồng thời ezetimibe với thuốc nhóm statin. Khi kết hợp ezetimibe với thuốc nhóm statin, cần đánh giá chức năng gan khi bắt đầu điều trị và tuân theo những khuyến cáo của thuốc nhóm statin.</li><li>Hệ cơ xương: Đã có báo cáo các trường hợp bệnh cơ và lý giải cơ vân ở một số bệnh nhân sử dụng ezetimibe. Ngừng ngay ezetimibe, thuốc nhóm statin, hay bất kỳ thuốc dùng kết hợp nào khi bệnh nhân nghi ngờ mắc các bệnh về cơ dựa trên triệu chứng ở cơ hay nồng độ creatinin phosphokinase cao hơn 10 lần giới hạn trên của mức bình thường (ULN).</li><li>Tá dược: Sezstad 10 có chứa lactose. Không nên dùng thuốc này cho bệnh nhân có các vấn đề về di truyền hiếm gặp không dung nạp galactose, thiếu hụt enzym lactase toàn phần hay kém hấp thu glucose-galactose.</li></ul>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00020609",
+        "name": "HAMOV VẠN XUÂN 10X10",
+        "webName": "Thuốc Hamov Vạn Xuân hỗ trợ điều trị chứng tăng mỡ máu (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00020609_hamov_van_xuan_10x10_3256_5d31_large_37ac0e8a4a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 814,
+            "name": "Thuốc trị mỡ máu",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 25596,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 87000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/hamov-van-xuan-10x10-20850.html",
+        "ingredients": "Nghệ vàng 150mg, Hoa Hòe 150mg, Ngưu tất (Rễ) 150mg, Bạch truật ",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Vạn Xuân",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 10 vỉ x 10 viên",
+        "prices": [
+          {
+            "id": 25594,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 870,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 25596,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 87000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 25595,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 8700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00020310",
+        "name": "GARLICAP OPC 5X10 VIÊN TỎI-NGHỆ",
+        "webName": "Viên tỏi nghệ Garlicap OPC hạ cholesterol và triglycerid máu (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00020310_garlicap_462mg_opc_5x10_vien_nghe_toi_9086_60a3_large_5a6ea7da16.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 814,
+            "name": "Thuốc trị mỡ máu",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 24998,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 878,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/garlicap-462mg-opc-5x10-vien-nghe-toi-20901.html",
+        "ingredients": "Tỏi 462mg, Nghệ 12mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 24998,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 878,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 25000,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 43900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 24999,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 8780,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 13,
+      "items": [
+        {
+          "id": 3336076,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0904xxxxxx",
+          "name": "anh Quang",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Cho xin giá hôm nay sản phẩm  SEZSTAD 10 STELLA 6X10? cám ơn.",
+          "createdAt": "2026-07-09 14:05:30",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-09 14:05:30",
+          "replies": [
+            {
+              "id": 3336087,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Thuỳ Trang",
+                "moderatorEmail": "trangttt64@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Thuỳ Trang",
+              "email": "trangttt64@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Quang,</p><p>Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (6 vỉ x 10 viên) có giá 182,000/ Hộp.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-07-09 14:12:56",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-09 14:05:30",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3317552,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0834xxxxxx",
+          "name": "Hoa",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cho em xin giá với ạ",
+          "createdAt": "2026-06-04 15:29:49",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-06-04 15:29:49",
+          "replies": [
+            {
+              "id": 3317553,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trịnh Thu Nga",
+                "moderatorEmail": "ngatt24@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trịnh Thu Nga",
+              "email": "ngatt24@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hoa,</p><p>Hiện tại, sản phẩm SEZSTAD 10 STELLA 6X10 có giá 182,000 ₫/hộp ạ.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a> <a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p><p><br></p>",
+              "createdAt": "2026-06-04 15:34:49",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-06-04 15:29:49",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3292483,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0703xxxxxx",
+          "name": "Nguyen",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 hộp nhà thuốc bán bao nhiêu vậy",
+          "createdAt": "2026-04-17 13:36:12",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-17 13:36:12",
+          "replies": [
+            {
+              "id": 3292508,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Khánh Ngọc",
+                "moderatorEmail": "ngoclk2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Khánh Ngọc",
+              "email": "ngoclk2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý Khách,</p><p>Hiện tại, sản phẩm Sezstad 10 Stella có giá 182,000đ/hộp</p><p>Quý Khách có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-04-17 14:34:43",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-17 13:36:12",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3291800,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0993xxxxxx",
+          "name": "NHi",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 vỉ ạ",
+          "createdAt": "2026-04-16 10:21:26",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-16 10:21:26",
+          "replies": [
+            {
+              "id": 3291839,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ngọc",
+                "moderatorEmail": "ngocnth74@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ngọc",
+              "email": "ngocnth74@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị <strong>NHi</strong></p><p>Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (6 vỉ x 10 viên). Hiện đang có giá 30,333 ₫/vỉ.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-04-16 11:00:13",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-16 10:21:26",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3289815,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0732xxxxxx",
+          "name": "Hoa Binh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Giá như nào 1 hộp vậy nhà thuốc",
+          "createdAt": "2026-04-13 08:51:23",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-13 08:51:23",
+          "replies": [
+            {
+              "id": 3289863,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Quý",
+                "moderatorEmail": "quyntn@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Ngọc Quý",
+              "email": "quyntn@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị <strong>Hoa Binh,</strong></p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-04-13 09:45:08",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-13 08:51:23",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (6 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_sezstad_10_stella_6x10_00045473_af19a8e833.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09846_547ae81db0.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09848_f20c11962f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09849_b65566ca90.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09849_b65566ca90.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09850_3d85101593.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09851_f190824a05.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09852_5ea3467103.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Sezstad_10_bfe35f9975.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Sezstad 10 là sản phẩm của Stella Pharm, có thành phần chính là Ezetimibe. Đây là thuốc được sử dụng để điều trị tăng cholesterol máu nguyên phát, tăng cholesterol máu đồng hợp tử có tính gia đình, tăng cholesterol máu đồng hợp tử.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Trần Huỳnh Minh Nhật"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (6 vỉ x 10 viên) - Nhà thuốc FPT Long Châu",
+      "description": "Thuốc Sezstad 10 là sản phẩm của Stella Pharm, có thành phần chính là Ezetimibe. Đây là thuốc được sử dụng để điều trị tăng cholesterol máu nguyên phát, tăng cholesterol máu đồng hợp tử có tính gia đình, tăng cholesterol máu đồng hợp tử.",
+      "openGraph": {
+        "title": "Thuốc Sezstad 10 Stella điều trị tăng cholesterol máu nguyên phát (6 vỉ x 10 viên)",
+        "description": "Thuốc Sezstad 10 là sản phẩm của Stella Pharm, có thành phần chính là Ezetimibe. Đây là thuốc được sử dụng để điều trị tăng cholesterol máu nguyên phát, tăng cholesterol máu đồng hợp tử có tính gia đình, tăng cholesterol máu đồng hợp tử.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_sezstad_10_stella_6x10_00045473_af19a8e833.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/sezstad-10-stella-6-x10.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/sezstad-10-stella-6-x10.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

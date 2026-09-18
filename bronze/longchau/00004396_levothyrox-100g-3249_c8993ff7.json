@@ -1,0 +1,863 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/levothyrox-100g-3249.html",
+  "ingestion_timestamp": "2026-09-05T10:21:29.567189+00:00",
+  "file_hash": "386c692d9b67894feeea7272018118434ae3439330d5c350cc3b92a77b4efbf9",
+  "lineage_hash": "1287fccfe042cbecef1a45a18ae44a348f02d860131148d9d90f7365e0e6e4eb",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/levothyrox-100g-3249.html",
+    "product": {
+      "sku": "00004396",
+      "webName": "Thuốc Levothyrox 100µg Merck điều trị bướu giáp, suy giáp, ung thư giáp (3 vỉ x 10 viên)",
+      "name": "LEVOTHYROX 100MCG MERCK 3X10",
+      "shortName": "LEVOTHYROX 100 MERCK 3X10",
+      "headingText": "Thuốc Levothyrox 100µg",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_levothyrox_100mcg_3_vi_x_10_vien_merck_00004396_f944ac8d1e.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1811_a91c7cc076.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1812_1225416947.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1813_d4ad23b430.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1816_94fa2440d2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1817_225625f564.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/levothyrox_100mg_1_3bf8edd865.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/levothyrox_100mg_2_81ccddf552.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1810_Recovered_379dd2887f.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 738,
+          "name": "Thuốc tiết niệu - sinh dục",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 822,
+          "name": "Thuốc trị bệnh tuyến giáp",
+          "parentName": "Thuốc tiết niệu - sinh dục",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-giap",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Hộp 3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 2,
+          "productSpecs": "3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/levothyrox-100g-3249.html",
+      "ingredient": [
+        {
+          "id": 22106,
+          "ingredientId": 25457,
+          "shortDescription": "100Mcg",
+          "name": "Levothyroxine",
+          "isPrimary": false,
+          "slug": "thanh-phan/levothyroxine"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VN-17749-14",
+      "manufactor": "Đức",
+      "dosageForm": "Viên nén",
+      "dosage": "<h3><b>Cách dùng</b></h3>\n\n<p>Dùng liều đơn vào buổi sáng khi bụng rỗng, nửa giờ trước bữa sáng, với ít nước (ví dụ: Nửa ly nước).</p>\n\n<p>Trẻ em dùng toàn bộ liều một lần vào ít nhất là 30 phút trước bữa ăn đầu tiên trong ngày. Hòa tan viên thuốc với một ít nước thành hỗn dịch, chỉ hòa tan ngay trước khi uống, uống với nhiều nước hơn.</p>\n\n<p>Thời gian điều trị thường là suốt đời đối với trường hợp thay thế trong suy giáp và sau khi cắt bỏ bướu giáp hoặc cắt bỏ tuyến giáp và trong dự phòng tái phát sau khi cắt bỏ bướu giáp đơn thuần.</p>\n\n<p>Phối hợp điều trị cường giáp sau khi đạt mức bình giáp được chỉ định trong khoảng thời gian dùng thuốc kháng giáp.</p>\n\n<p>Đối với bướu giáp đơn thuần lành tính, thời gian điều trị cần thiết thường từ 6 tháng đến 2 năm. Nếu việc điều trị trong khoảng thời gian này là chưa đủ, nên cân nhắc giải phẫu hoặc xạ trị I-ốt.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Liều khuyến cáo dưới đây chỉ có tính chất hướng dẫn.</p>\n\n<p>Liều cho mỗi cá nhân nên được xác định dựa trên các kết quả xét nghiệm và thăm khám lâm sàng. Vì một số bệnh nhân có nồng độ T4 và fT4 cao, nên nồng độ trung bình của hormon kích thích tuyến giáp trong huyết thanh là chuẩn đáng tin cậy hơn cho quá trình điều trị.</p>\n\n<p>Điều trị hormon tuyến giáp nên bắt đầu với liều thấp và tăng dần cho mỗi 2 đến 4 tuần cho đến khi đạt được liều thay thế đầy đủ.</p>\n\n<p>Đối với trẻ sơ sinh và trẻ nhỏ bị suy giáp bẩm sinh, khi mà liệu pháp thay thế nhanh là quan trọng, liều khởi đầu khuyến cáo là 10 đến 15mcg/kg thể trọng mỗi ngày trong 3 tháng đầu. Sau đó, nên chỉnh liều cho mỗi cá nhân dựa trên các dấu hiệu lâm sàng và giá trị hormon tuyến giáp và TSH.</p>\n\n<p>Ở người lớn tuổi, bệnh nhân có bệnh <strong><a href=\"https://nhathuoclongchau.com.vn/benh/benh-mach-vanh-598.html\">mạch vành</a></strong>, và bệnh nhân suy giáp nặng hoặc kéo dài, nên thận trọng khi khởi đầu điều trị với hormon tuyến giáp, nghĩa là, nên khởi đầu với liều thấp, sau đó tăng liều chậm và cách khoảng dài và thường xuyên theo dõi hormon tuyến giáp.</p>\n\n<p>Liều thấp hơn liều tối ưu cần để điều trị thay thế hoàn toàn, sẽ dẫn đến điều chỉnh mức TSH không hoàn toàn, vì thế cần phải cân nhắc.</p>\n\n<p>Kinh nghiệm cho thấy liều thấp hơn là đủ cho bệnh nhân nhẹ cân và bệnh nhân bướu giáp nhân lớn.</p>\n\n<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Chỉ định</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Liều khuyến cáo hàng ngày</strong></p>\n\n\t\t\t<p><strong>(mcg natri levothyroxin/ngày)</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Điều trị bướu giáp đơn thuần lành tính</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>75 - 200</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Điều trị dự phòng tái phát sau khi phẫu thuật bướu giáp đơn thuần</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>75 - 200</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Điều trị thay thế trong suy giáp ở người lớn</p>\n\t\t\t</td>\n\t\t\t<td> </td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>Liều khởi đầu</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>25 - 50</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>Liều duy trì</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>100 - 200</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Điều trị thay thế trong suy giáp ở trẻ em</p>\n\t\t\t</td>\n\t\t\t<td> </td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>Liều khởi đầu</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>12,5 - 50</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>Liều duy trì</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>100 - 150 mcg/m2 bề mặt cơ thể</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Điều trị ức chế trong ung thư giáp</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>150 - 300</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Phối hợp với thuốc kháng giáp trong điều trị cường giáp</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>50 - 100</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Chỉ áp dụng cho viên Levothyrox 100mcg</p>\n\n\t\t\t<p>Sử dụng trong chẩn đoán cho xét nghiệm ức chế tuyến giáp</p>\n\n\t\t\t<p>Tuần 2 và 1 trước khi xét nghiệm</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>200</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Liều hàng ngày có thể dùng một lần.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Tăng mức T3 là chỉ thị xác thực của quá liều, hơn là mức tăng T4 và fT4. Sau khi dùng quá liều, các triệu chứng của tăng chuyển hóa rõ rệt xuất hiện (xem phần Tác dụng không mong muốn).</p>\n\n<p>Tùy thuộc vào mức độ quá liều, khuyến cáo ngừng điều trị và tiến hành các xét nghiệm.</p>\n\n<p>Triệu chứng bao gồm tăng tác dụng giống beta giao cảm như tim đập nhanh, băn khoăn, lo lắng và tăng vận động và các triệu chứng này có thể giảm bằng thuốc chẹn beta. Điều trị bằng tinh lọc huyết tương có thể có tác dụng trong trường hợp dùng quá liều rất cao. Ở một số bệnh nhân nguy cơ, có vài trường hợp động kinh được báo cáo khi dùng quá liều giới hạn dung nạp của cá nhân.</p>\n\n<p>Quá liều levothyroxin có thể dẫn đến cường giáp và có thể dẫn đến các triệu chứng rối loạn tâm thần cấp tính, đặc biệt là ở những bệnh nhân có nguy cơ bị rối loạn tâm thần. Nhiều trường hợp đột tử do tim được báo cáo ở các bệnh nhân lạm dụng levothyroxin trong nhiều năm.</p>\n\n<p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Dùng thuốc ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3><b>Chỉ định</b></h3>\n\n<p>Thuốc Levothyrox 100µg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị bướu giáp đơn thuần lành tính.</li>\n\t<li>Điều trị dự phòng tái phát sau khi phẫu thuật bướu giáp đơn thuần, tùy thuộc vào tình trạng hormon sau phẫu thuật.</li>\n\t<li>Điều trị thay thế trong <strong><a href=\"https://nhathuoclongchau.com.vn/benh/suy-giap-299.html\">suy giáp</a></strong>.</li>\n\t<li>Điều trị ức chế trong <strong><a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-tuyen-giap-321.html\">ung thư giáp</a></strong>.</li>\n\t<li>Phối hợp với thuốc kháng giáp trong điều trị cường giáp.</li>\n</ul>\n\n<p>Riêng viên Levothyrox 100mcg còn được sử dụng để chẩn đoán trong xét nghiệm ức chế tuyến giáp.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Levothyroxin tổng hợp trong Levothyrox có tác dụng tương tự hormon tự nhiên chủ yếu được bài tiết bởi tuyến giáp. Nó được chuyển hóa thành T3 tại các cơ quan ngoại biên và như các nội tiết tố, phát huy tác dụng đặc hiệu của nó tại thụ thể T3. Cơ thể không thể phân biệt được levothyroxin ngoại sinh và nội sinh.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Dùng bằng đường uống, <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/levothyroxine\">levothyroxin</a></strong> được hấp thu gần như hoàn toàn tại phần trên ruột non. Tùy thuộc vào công thức bào chế lượng hấp thu có thể lên đến 80%. Tmax là khoảng 5 đến 6 giờ.</p>\n\n<p>Sau khi dùng đường uống, tác dụng khởi phát thấy được sau 3 - 5 ngày. Levothyroxin cho thấy mức độ gắn kết rất cao với protein vận chuyển chuyên biệt khoảng 99,97%. Kết nối hormon protein này không đồng hóa trị vì thế hormon gắn kết trong huyết tương nhanh chóng và liên tục trao đổi với phần hormon tự do.</p>\n\n<p>Do tính gắn kết protein cao, levothyroxin không bị tác động của thẩm phân máu hoặc lọc máu.</p>\n\n<p>Nửa đời của levothyroxin trung bình là 7 ngày. Trong cường giáp, thời gian này ngắn hơn (3 - 4 ngày) và dài hơn trong suy giáp (xấp xỉ 9 - 10 ngày). Thể tích phân phối khoảng 10 - 12l. Gan chứa 1/3 trong tổng toàn bộ levothyroxin ngoài tuyến giáp mà chúng nhanh chóng trao đổi với levothyroxin trong huyết thanh. Hormon tuyến giáp được chuyển hóa chủ yếu tại gan, thận, não và cơ. Chất chuyển hóa được đào thải qua nước tiểu và phân. Độ thanh thải chuyển hóa tổng quát của levothyroxin là 1,21 huyết tương/ngày.</p>",
+      "brand": "Merck",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Levothyrox 100µg, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p>Khi vượt mức giới hạn dung nạp cá nhân cho levothyroxin natri hoặc quá liều, các triệu chứng lâm sàng điển hình của cường giáp có thể xảy ra, đặc biệt là trong trường hợp tăng liều quá nhanh khi bắt đầu điều trị như loạn nhịp tim (như rung nhĩ và ngoại tâm thu), nhịp tim nhanh, đánh trống ngực, tình trạng đau ngực, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">đau đầu</a></strong>, yếu cơ và chuột rút, đỏ bừng, sốt, nôn, rối loạn kinh nguyệt, u não giả, run, bồn chồn, mất ngủ, tăng tiết mồ hôi, sụt cân, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a></strong>.</p>\n\n<p>Trong trường hợp này nên giảm liều hàng ngày hoặc ngừng sử dụng thuốc trong nhiều ngày. Có thể bắt đầu điều trị lại khi các phản ứng bất lợi mất đi.</p>\n\n<p>Trường hợp mẫn cảm với bất cứ thành phần nào của Levothyrox, có thể xảy ra phản ứng dị ứng trên da và đường hô hấp. Đã có báo cáo về một số trường hợp phù mạch.</p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "indications": [
+        {
+          "id": 529,
+          "name": "Suy giáp",
+          "slug": "benh/suy-giap-299.html"
+        },
+        {
+          "id": 594,
+          "name": "Ung thư tuyến giáp",
+          "slug": "benh/ung-thu-tuyen-giap-321.html"
+        }
+      ],
+      "brandOrigin": "Đức",
+      "producer": "MERCK",
+      "shortDescription": "<p><strong>Thuốc Levothyrox 100µg</strong> là sản phẩm của <em>Công Ty Merck (Đức)</em>, thành phần chính levothyroxin natri 100mcg. Đây là thuốc được sử dụng để điều trị tuyến giáp hoạt động kém (suy giáp). Thuốc thay thế hoặc cung cấp hormon tuyến giáp, thường được tạo ra bởi tuyến giáp. Nồng độ hormon tuyến giáp thấp có thể tự xảy ra hoặc khi tuyến giáp bị tổn thương do bức xạ, do thuốc hoặc bị loại bỏ khi phẫu thuật. Việc có đủ hormon tuyến giáp rất quan trọng cho việc duy trì bình thường hoạt động tinh thần và thể chất ở người lớn cũng như trẻ em.</p>\n\n<p>Thuốc này cũng được sử dụng để điều trị các loại bệnh rối loạn tuyến giáp khác (như bướu giáp, ung thư tuyến giáp).</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 3,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Dị ứng thuốc",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/merck",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "LEVOTHYROX",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 266,
+        "attributeName": "Đức",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 822,
+        "name": "Thuốc trị bệnh tuyến giáp",
+        "parentName": "Thuốc tiết niệu - sinh dục",
+        "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-giap",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_levothyrox_100mcg_3_vi_x_10_vien_merck_00004396_f944ac8d1e.jpg",
+          "alternativeText": "Thuốc Levothyrox 100µg Merck điều trị bướu giáp, suy giáp, ung thư giáp (3 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1811_a91c7cc076.jpg",
+          "alternativeText": "Thuốc Levothyrox 100µg Merck điều trị bướu giáp, suy giáp, ung thư giáp (3 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1812_1225416947.jpg",
+          "alternativeText": "Thuốc Levothyrox 100µg Merck điều trị bướu giáp, suy giáp, ung thư giáp (3 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1813_d4ad23b430.jpg",
+          "alternativeText": "Thuốc Levothyrox 100µg Merck điều trị bướu giáp, suy giáp, ung thư giáp (3 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1816_94fa2440d2.jpg",
+          "alternativeText": "Thuốc Levothyrox 100µg Merck điều trị bướu giáp, suy giáp, ung thư giáp (3 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1817_225625f564.jpg",
+          "alternativeText": "Thuốc Levothyrox 100µg Merck điều trị bướu giáp, suy giáp, ung thư giáp (3 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/levothyrox_100mg_1_3bf8edd865.jpg",
+          "alternativeText": "Thuốc Levothyrox 100µg Merck điều trị bướu giáp, suy giáp, ung thư giáp (3 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/levothyrox_100mg_2_81ccddf552.jpg",
+          "alternativeText": "Thuốc Levothyrox 100µg Merck điều trị bướu giáp, suy giáp, ung thư giáp (3 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1810_Recovered_379dd2887f.jpg",
+          "alternativeText": "Thuốc Levothyrox 100µg Merck điều trị bướu giáp, suy giáp, ung thư giáp (3 vỉ x 10 viên) 9"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiết niệu - sinh dục",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc"
+      },
+      {
+        "name": "Thuốc trị bệnh tuyến giáp",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-giap"
+      }
+    ],
+    "content": {
+      "sku": "00004396",
+      "dosage": "<h3><b>Cách dùng</b></h3>\n\n<p>Dùng liều đơn vào buổi sáng khi bụng rỗng, nửa giờ trước bữa sáng, với ít nước (ví dụ: Nửa ly nước).</p>\n\n<p>Trẻ em dùng toàn bộ liều một lần vào ít nhất là 30 phút trước bữa ăn đầu tiên trong ngày. Hòa tan viên thuốc với một ít nước thành hỗn dịch, chỉ hòa tan ngay trước khi uống, uống với nhiều nước hơn.</p>\n\n<p>Thời gian điều trị thường là suốt đời đối với trường hợp thay thế trong suy giáp và sau khi cắt bỏ bướu giáp hoặc cắt bỏ tuyến giáp và trong dự phòng tái phát sau khi cắt bỏ bướu giáp đơn thuần.</p>\n\n<p>Phối hợp điều trị cường giáp sau khi đạt mức bình giáp được chỉ định trong khoảng thời gian dùng thuốc kháng giáp.</p>\n\n<p>Đối với bướu giáp đơn thuần lành tính, thời gian điều trị cần thiết thường từ 6 tháng đến 2 năm. Nếu việc điều trị trong khoảng thời gian này là chưa đủ, nên cân nhắc giải phẫu hoặc xạ trị I-ốt.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Liều khuyến cáo dưới đây chỉ có tính chất hướng dẫn.</p>\n\n<p>Liều cho mỗi cá nhân nên được xác định dựa trên các kết quả xét nghiệm và thăm khám lâm sàng. Vì một số bệnh nhân có nồng độ T4 và fT4 cao, nên nồng độ trung bình của hormon kích thích tuyến giáp trong huyết thanh là chuẩn đáng tin cậy hơn cho quá trình điều trị.</p>\n\n<p>Điều trị hormon tuyến giáp nên bắt đầu với liều thấp và tăng dần cho mỗi 2 đến 4 tuần cho đến khi đạt được liều thay thế đầy đủ.</p>\n\n<p>Đối với trẻ sơ sinh và trẻ nhỏ bị suy giáp bẩm sinh, khi mà liệu pháp thay thế nhanh là quan trọng, liều khởi đầu khuyến cáo là 10 đến 15mcg/kg thể trọng mỗi ngày trong 3 tháng đầu. Sau đó, nên chỉnh liều cho mỗi cá nhân dựa trên các dấu hiệu lâm sàng và giá trị hormon tuyến giáp và TSH.</p>\n\n<p>Ở người lớn tuổi, bệnh nhân có bệnh <strong><a href=\"https://nhathuoclongchau.com.vn/benh/benh-mach-vanh-598.html\">mạch vành</a></strong>, và bệnh nhân suy giáp nặng hoặc kéo dài, nên thận trọng khi khởi đầu điều trị với hormon tuyến giáp, nghĩa là, nên khởi đầu với liều thấp, sau đó tăng liều chậm và cách khoảng dài và thường xuyên theo dõi hormon tuyến giáp.</p>\n\n<p>Liều thấp hơn liều tối ưu cần để điều trị thay thế hoàn toàn, sẽ dẫn đến điều chỉnh mức TSH không hoàn toàn, vì thế cần phải cân nhắc.</p>\n\n<p>Kinh nghiệm cho thấy liều thấp hơn là đủ cho bệnh nhân nhẹ cân và bệnh nhân bướu giáp nhân lớn.</p>\n\n<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Chỉ định</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Liều khuyến cáo hàng ngày</strong></p>\n\n\t\t\t<p><strong>(mcg natri levothyroxin/ngày)</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Điều trị bướu giáp đơn thuần lành tính</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>75 - 200</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Điều trị dự phòng tái phát sau khi phẫu thuật bướu giáp đơn thuần</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>75 - 200</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Điều trị thay thế trong suy giáp ở người lớn</p>\n\t\t\t</td>\n\t\t\t<td> </td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>Liều khởi đầu</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>25 - 50</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>Liều duy trì</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>100 - 200</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Điều trị thay thế trong suy giáp ở trẻ em</p>\n\t\t\t</td>\n\t\t\t<td> </td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>Liều khởi đầu</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>12,5 - 50</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>Liều duy trì</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>100 - 150 mcg/m2 bề mặt cơ thể</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Điều trị ức chế trong ung thư giáp</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>150 - 300</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Phối hợp với thuốc kháng giáp trong điều trị cường giáp</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>50 - 100</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Chỉ áp dụng cho viên Levothyrox 100mcg</p>\n\n\t\t\t<p>Sử dụng trong chẩn đoán cho xét nghiệm ức chế tuyến giáp</p>\n\n\t\t\t<p>Tuần 2 và 1 trước khi xét nghiệm</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>200</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Liều hàng ngày có thể dùng một lần.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Tăng mức T3 là chỉ thị xác thực của quá liều, hơn là mức tăng T4 và fT4. Sau khi dùng quá liều, các triệu chứng của tăng chuyển hóa rõ rệt xuất hiện (xem phần Tác dụng không mong muốn).</p>\n\n<p>Tùy thuộc vào mức độ quá liều, khuyến cáo ngừng điều trị và tiến hành các xét nghiệm.</p>\n\n<p>Triệu chứng bao gồm tăng tác dụng giống beta giao cảm như tim đập nhanh, băn khoăn, lo lắng và tăng vận động và các triệu chứng này có thể giảm bằng thuốc chẹn beta. Điều trị bằng tinh lọc huyết tương có thể có tác dụng trong trường hợp dùng quá liều rất cao. Ở một số bệnh nhân nguy cơ, có vài trường hợp động kinh được báo cáo khi dùng quá liều giới hạn dung nạp của cá nhân.</p>\n\n<p>Quá liều levothyroxin có thể dẫn đến cường giáp và có thể dẫn đến các triệu chứng rối loạn tâm thần cấp tính, đặc biệt là ở những bệnh nhân có nguy cơ bị rối loạn tâm thần. Nhiều trường hợp đột tử do tim được báo cáo ở các bệnh nhân lạm dụng levothyroxin trong nhiều năm.</p>\n\n<p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Dùng thuốc ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<?xml encoding=\"utf-8\" ?>\n",
+      "adverseEffect": "<p>Khi sử dụng thuốc Levothyrox 100µg, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p>Khi vượt mức giới hạn dung nạp cá nhân cho levothyroxin natri hoặc quá liều, các triệu chứng lâm sàng điển hình của cường giáp có thể xảy ra, đặc biệt là trong trường hợp tăng liều quá nhanh khi bắt đầu điều trị như loạn nhịp tim (như rung nhĩ và ngoại tâm thu), nhịp tim nhanh, đánh trống ngực, tình trạng đau ngực, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">đau đầu</a></strong>, yếu cơ và chuột rút, đỏ bừng, sốt, nôn, rối loạn kinh nguyệt, u não giả, run, bồn chồn, mất ngủ, tăng tiết mồ hôi, sụt cân, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a></strong>.</p>\n\n<p>Trong trường hợp này nên giảm liều hàng ngày hoặc ngừng sử dụng thuốc trong nhiều ngày. Có thể bắt đầu điều trị lại khi các phản ứng bất lợi mất đi.</p>\n\n<p>Trường hợp mẫn cảm với bất cứ thành phần nào của Levothyrox, có thể xảy ra phản ứng dị ứng trên da và đường hô hấp. Đã có báo cáo về một số trường hợp phù mạch.</p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p>\n\n<p>Để xa tầm tay trẻ em.</p>",
+      "usage": "<h3><b>Chỉ định</b></h3>\n\n<p>Thuốc Levothyrox 100µg được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị bướu giáp đơn thuần lành tính.</li>\n\t<li>Điều trị dự phòng tái phát sau khi phẫu thuật bướu giáp đơn thuần, tùy thuộc vào tình trạng hormon sau phẫu thuật.</li>\n\t<li>Điều trị thay thế trong <strong><a href=\"https://nhathuoclongchau.com.vn/benh/suy-giap-299.html\">suy giáp</a></strong>.</li>\n\t<li>Điều trị ức chế trong <strong><a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-tuyen-giap-321.html\">ung thư giáp</a></strong>.</li>\n\t<li>Phối hợp với thuốc kháng giáp trong điều trị cường giáp.</li>\n</ul>\n\n<p>Riêng viên Levothyrox 100mcg còn được sử dụng để chẩn đoán trong xét nghiệm ức chế tuyến giáp.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Levothyroxin tổng hợp trong Levothyrox có tác dụng tương tự hormon tự nhiên chủ yếu được bài tiết bởi tuyến giáp. Nó được chuyển hóa thành T3 tại các cơ quan ngoại biên và như các nội tiết tố, phát huy tác dụng đặc hiệu của nó tại thụ thể T3. Cơ thể không thể phân biệt được levothyroxin ngoại sinh và nội sinh.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Dùng bằng đường uống, <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/levothyroxine\">levothyroxin</a></strong> được hấp thu gần như hoàn toàn tại phần trên ruột non. Tùy thuộc vào công thức bào chế lượng hấp thu có thể lên đến 80%. Tmax là khoảng 5 đến 6 giờ.</p>\n\n<p>Sau khi dùng đường uống, tác dụng khởi phát thấy được sau 3 - 5 ngày. Levothyroxin cho thấy mức độ gắn kết rất cao với protein vận chuyển chuyên biệt khoảng 99,97%. Kết nối hormon protein này không đồng hóa trị vì thế hormon gắn kết trong huyết tương nhanh chóng và liên tục trao đổi với phần hormon tự do.</p>\n\n<p>Do tính gắn kết protein cao, levothyroxin không bị tác động của thẩm phân máu hoặc lọc máu.</p>\n\n<p>Nửa đời của levothyroxin trung bình là 7 ngày. Trong cường giáp, thời gian này ngắn hơn (3 - 4 ngày) và dài hơn trong suy giáp (xấp xỉ 9 - 10 ngày). Thể tích phân phối khoảng 10 - 12l. Gan chứa 1/3 trong tổng toàn bộ levothyroxin ngoài tuyến giáp mà chúng nhanh chóng trao đổi với levothyroxin trong huyết thanh. Hormon tuyến giáp được chuyển hóa chủ yếu tại gan, thận, não và cơ. Chất chuyển hóa được đào thải qua nước tiểu và phân. Độ thanh thải chuyển hóa tổng quát của levothyroxin là 1,21 huyết tương/ngày.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3><strong>Chống chỉ định</strong></h3>\n\n<p><strong>Thuốc Levothyrox 100µg</strong> chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Mẫn cảm với hoạt chất hoặc với bất cứ tá dược nào của thuốc.</li>\n\t<li>Suy tuyến thượng thận chưa điều trị.</li>\n\t<li>Suy tuyến yên chưa điều trị.</li>\n\t<li>Nhiễm độc giáp chưa điều trị.</li>\n\t<li>Không điều trị bằng Levothyrox trong trường hợp nhồi máu cơ tim cấp, viêm cơ cấp tim, viêm toàn tim cấp.</li>\n\t<li>Không chỉ định điều trị phối hợp levothyroxin và tác nhân kháng giáp cho cường giáp trong thời kỳ mang thai (xem phần Phụ nữ có thai và cho con bú).</li>\n</ul>\n\n<h3><strong>Thận trọng khi sử dụng</strong></h3>\n\n<p>Trước khi bắt đầu điều trị bằng hormon tuyến giáp hoặc trước khi tiến hành xét nghiệm ức chế tuyến giáp, phải loại trừ hoặc điều trị các bệnh &amp; tình trạng sau: Suy mạch vành, đau thắt ngực, xơ cứng tiểu động mạch, cao huyết áp, suy tuyến yên, suy tuyến thượng thận. Bệnh tuyến giáp tự chủ cũng nên được loại trừ hoặc điều trị trước khi bắt đầu điều trị với hormon tuyến giáp.</p>\n\n<p>Khi bắt đầu điều trị levothyroxin ở những bệnh nhân có nguy cơ bị rối loạn tâm thần, khuyến cáo nên bắt đầu với liều levothyroxin thấp và tăng liều từ từ khi bắt đầu điều trị. Khuyến cáo nên giám sát bệnh nhân. Nếu các dấu hiệu của rối loạn tâm thần xảy ra, nên cân nhắc điều chỉnh liều levothyroxin.</p>\n\n<p>Cường giáp do thuốc dù nhẹ cũng nên tránh ở những bệnh nhân suy mạch vành, suy tim, rối loạn nhịp tim nhanh. Vì thế phải thường xuyên kiểm tra các chỉ số hormon tuyến giáp trong các trường hợp này.</p>\n\n<p>Trong trường hợp suy giáp thứ phát, phải xác định nguyên nhân trước khi điều trị thay thế và nếu cần thiết phải bắt đầu điều trị thay thế suy thượng thận còn bù.</p>\n\n<p>Khi nghi ngờ mắc bệnh tuyến giáp tự chủ, nên tiến hành xét nghiệm TRH hoặc làm nhấp nháy đồ ức chế trước khi điều trị.</p>\n\n<p>Nên tránh để xảy ra tình trạng levothyroxin huyết thanh trên mức sinh lý trong trường hợp suy giáp ở phụ nữ mãn kinh và tăng nguy cơ loãng xương, và vì thế, phải kiểm tra chức năng tuyến giáp chặt chẽ.</p>\n\n<p>Không nên dùng levothyroxin trong tình trạng cường giáp, trừ khi dùng chung với thuốc kháng giáp khi điều trị cường giáp.</p>\n\n<p>Hormon tuyến giáp không thích hợp để giảm cân. Liều sinh lý không gây giảm cân ở bệnh nhân bình giáp. Liều trên mức sinh lý có thể gây ra những phản ứng không mong muốn nghiêm trọng hoặc ảnh hưởng đến tính mạng (xem phần Quá liều).</p>\n\n<p>Một khi tiến hành điều trị với levothyroxin, khuyến cáo nên chỉnh liều theo đáp ứng lâm sàng của bệnh nhân và kết quả xét nghiệm, trong trường hợp muốn đổi sang nhãn thuốc khác.</p>\n\n<p>Suy giáp và/hoặc giảm kiểm soát suy giáp có thể xảy ra khi phối hợp orlistat và levothyroxin (xem mục Tương tác). Bệnh nhân dùng levothyroxin nên tham khảo ý kiến bác sĩ trước khi bắt đầu điều trị với orlistat bởi orlistat và levothyroxin có thể cần phải được sử dụng tại các thời điểm khác nhau và liều levothyroxin có thể cần phải được điều chỉnh. Hơn nữa khuyến cáo nên theo dõi bệnh nhân bằng cách kiểm tra nồng độ hormon trong huyết thanh.</p>\n\n<p>Thuốc này có chứa lactose, vì thế bệnh nhân không dung nạp galactose do di truyền, thiếu men lapp lactase hoặc kém hấp thu glucose - galactose không nên sử dụng thuốc này.</p>\n\n<p>Đối với bệnh nhân đái tháo đường và bệnh nhân đang điều trị chống đông máu, xin xem phần Tương tác.</p>\n\n<h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3>\n\n<p>Chưa có thử nghiệm trên khả năng lái xe và vận hành máy móc nào được tiến hành. Tuy nhiên, vì levothyroxin giống như hormon tuyến giáp tự nhiên, nên không cho rằng Levothyrox có ảnh hưởng nào trên khả năng lái xe và vận hành máy móc.</p>\n\n<h3><strong>Thời kỳ mang thai và cho con bú</strong></h3>\n\n<p>Điều trị với levothyroxin nên được đảm bảo trong suốt thời gian mang thai và cho con bú. Liều cần dùng có thể tăng trong khi mang thai.</p>\n\n<p><em>Thời kỳ mang thai</em></p>\n\n<p>Kinh nghiệm cho thấy không có bằng chứng về khả năng gây quái thai hay ngộ độc thai do thuốc ở người với liều điều trị khuyến cáo. Liều rất cao levothyroxin trong thai kỳ có thể gây tác dụng bất lợi cho sự phát triển của bào thai và sau sinh.</p>\n\n<p>Không chỉ định điều trị cường giáp phối hợp levothyroxin và thuốc kháng giáp trong thai kỳ. Sự phối hợp này cần liều cao của thuốc kháng giáp mà nó có thể đi qua nhau thai và gây ra suy giáp ở trẻ sơ sinh.</p>\n\n<p>Không nên tiến hành xét nghiệm chẩn đoán ức chế tuyến giáp trong thời gian mang thai, vì sử dụng Iốt phóng xạ trên phụ nữ mang thai là chống chỉ định.</p>\n\n<p><em>Thời kỳ cho con bú</em></p>\n\n<p>Levothyroxin bài tiết vào sữa mẹ trong thời gian cho con bú nhưng với liều điều trị khuyến cáo, nồng độ đạt được không đủ để gây tiến triển cường giáp hay ức chế tiết TSH ở trẻ sơ sinh.</p>\n\n<h3><strong>Tương tác thuốc</strong></h3>\n\n<p><em>Thuốc đái tháo đường:</em> Levothyroxin có thể làm giảm tác dụng các thuốc đái tháo đường. Vì vậy, nên thường xuyên kiểm tra đường huyết khi bắt đầu điều trị bằng hormon tuyến giáp và phải điều chỉnh liều thuốc đái tháo đường nếu cần thiết.</p>\n\n<p><em>Dẫn xuất coumarin:</em> Tác dụng của thuốc chống đông máu có thể gia tăng do levothyroxin giải phóng thuốc chống đông khỏi protein huyết tương, vì thế có làm tăng nguy cơ xuất huyết, như xuất huyết tiêu hóa hay thần kinh trung ương, đặc biệt là bệnh nhân lớn tuổi. Vì thế cần thường xuyên kiểm tra chỉ số đông máu khi bắt đầu và trong suốt quá trình điều trị. Nếu cần, phải chỉnh liều thuốc chống đông máu.</p>\n\n<p><em>Chất ức chế protease:</em> Chất ức chế protease (như ritonavir, indinavir, lopinavir) có thể ảnh hưởng đến tác dụng của levothyroxin. Khuyến cáo nên theo dõi chặt chẽ chỉ số hormon tuyến giáp. Nếu cần, phải điều chỉnh liều levothyroxin.</p>\n\n<p><em>Phenytoin:</em> Phenytoin có thể ảnh hưởng đến tác dụng của levothyroxin bằng cách giải phóng levothyroxin từ protein huyết thanh làm tăng tỷ số fT4 và fT3. Mặt khác, phenytoin làm tăng chuyển hóa levothyroxin tại gan. Khuyến cáo nên theo dõi chặt chẽ chỉ số hormon tuyến giáp.</p>\n\n<p><em>Cholestyramine, colestipol:</em> Sử dụng các chất nhựa trao đổi ion như <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/cholestyramine\">cholestyramine</a></strong> và colestipol ức chế sự hấp thu của natri levothyroxin. Vì thế nên uống natri levothyroxin 4 - 5 giờ trước khi sử dụng các chất này.</p>\n\n<p><em>Thuốc chứa nhôm, sắt, canxi cacbonat:</em> Các thuốc chứa nhôm (thuốc kháng axit, sucralfate) được báo cáo trong y văn là có khả năng làm giảm tác dụng của levothyroxin. Vì thế, nên dùng levothyroxin 2 giờ trước khi sử dụng thuốc chứa nhôm.</p>\n\n<p>Áp dụng tương tự cho các thuốc chứa sắt và canxi cacbonat.</p>\n\n<p><em>Salicylat, dicumarol, furosemid, clofibrate:</em> Salicylat, dicumarol, furosemid liều cao (250mg), clofibrate và các chất khác có thể giải phóng natri levothyroxin khỏi protein huyết tương, làm tăng tỷ số fT4.</p>\n\n<p><em><strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/orlistat\">Orlistat</a></strong>:</em> Suy giáp và/hoặc giảm kiểm soát suy giáp có thể xảy ra khi orlistat và levothyroxin dùng cùng lúc. Điều này có thể là do giảm hấp thu muối i ốt /hoặc levothyroxin.</p>\n\n<p><em><strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/sevelamer\">Sevelamer</a></strong>: </em>Sevelamer có thể làm giảm hấp thu levothyroxin. Vì thế, khuyến cáo bệnh nhân theo dõi chức năng tuyến giáp khi bắt đầu và kết thúc điều trị kết hợp. Nếu cần phải điều chỉnh liều levothyroxin.</p>\n\n<p><em>Thuốc ức chế tyrosine kinase: </em>Thuốc ức chế tyrosine kinase (như imatinib, sunitinib) có thể làm giảm tác dụng của levothyroxin. Vì thế, khuyến cáo bệnh nhân theo dõi chức năng tuyến giáp khi bắt đầu và kết thúc điều trị kết hợp. Nếu cần phải điều chỉnh liều levothyroxin.</p>\n\n<p><em>Propylthiouracil, glucocorticoid, chất ức chế thần kinh giao cảm, amiodarone và chất cản quang có chứa i-ốt: </em>Những chất này ức chế chuyển hóa ngoại biên từ T4 sang T3.Vì chứa i-ốt cao, amiodaron có thể khởi phát cường giáp cũng như suy giáp. Nên lưu ý đặc biệt trong trường hợp bướu giáp nhân mà có thể không nhận biết được là bệnh tuyến giáp tự chủ.</p>\n\n<p><em>Sertraline, chloroquin/proguanil: </em>Những chất này làm giảm hiệu lực của levothyroxin và tăng mức TSH huyết thanh. Các thuốc gây cảm ứng enzym: Các thuốc gây cảm ứng enzym như barbiturat, carbamazepin có thể làm tăng thanh thải gan của levothyroxin.</p>\n\n<p><em>Estrogen: </em>Phụ nữ sử dụng thuốc ngừa thai có chứa oestrogen hoặc phụ nữ mãn kinh đang điều trị hormon thay thế có thể tăng nhu cầu levothyroxin.</p>\n\n<p><em>Các chất có chứa đậu nành: </em>Các chất có chứa đậu nành có thể làm giảm hấp thu levothyroxin tại ruột. Vì thế có thể cần phải chỉnh liều Levothyrox, đặc biệt là khi bắt đầu hay ngừng sử dụng chất bổ sung có chứa đậu nành.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Levothyrox 100mcg trị tuyến giáp hoạt động kém (30 viên)",
+        "metaDescription": "Thuốc Levothyrox 100mcg là sản phẩm của Công Ty Merck (Đức) được sử dụng để điều trị tuyến giáp hoạt động kém (suy giáp). Tìm hiểu thêm!",
+        "id": 2271,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_levothyrox_100mcg_3_vi_x_10_vien_merck_00004396_f944ac8d1e.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Levothyrox 100µg Merck điều trị bướu giáp, suy giáp, ung thư giáp (3 vỉ x 10 viên)",
+            "description": "Thuốc Levothyrox 100µg là sản phẩm của Công Ty Merck (Đức), thành phần chính levothyroxin natri 100mcg. Đây là thuốc được sử dụng để điều trị tuyến giáp hoạt động kém (suy giáp). Thuốc thay thế hoặc cung cấp hormon tuyến giáp, thường được tạo ra bởi tuyến giáp. Nồng độ hormon tuyến giáp thấp có thể tự xảy ra hoặc khi tuyến giáp bị tổn thương do bức xạ, do thuốc hoặc bị loại bỏ khi phẫu thuật. Việc có đủ hormon tuyến giáp rất quan trọng cho việc duy trì bình thường hoạt động tinh thần và thể chất ở người lớn cũng như trẻ em.\n\nThuốc này cũng được sử dụng để điều trị các loại bệnh rối loạn tuyến giáp khác (như bướu giáp, ung thư tuyến giáp)."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 16066,
+        "title": "Thuốc Levothyrox 100µg hoạt động như thế nào?",
+        "content": "<p><style type=\"text/css\"></style><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/levothyroxine\">Levothyroxin</a> tổng hợp trong Levothyrox có tác dụng tương tự hormon tự nhiên chủ yếu được bài tiết bởi tuyến giáp. Nó được chuyển hóa thành T3 tại các cơ quan ngoại biên và như các nội tiết tố, phát huy tác dụng đặc hiệu của nó tại thụ thể T3. Cơ thể không thể phân biệt được levothyroxin ngoại sinh và nội sinh.</p>"
+      },
+      {
+        "id": 16068,
+        "title": "Có tác dụng phụ nào khi sử dụng thuốc Levothyrox 100µg không?",
+        "content": "<p><style type=\"text/css\"></style>Khi sử dụng thuốc Levothyrox 100µg, bạn có thể gặp phải một số tác dụng phụ như <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-nhip-tim-601.html\">loạn nhịp tim</a> (như rung nhĩ và ngoại tâm thu), nhịp tim nhanh, đánh trống ngực, tình trạng đau ngực, đau đầu, yếu cơ và chuột rút, đỏ bừng, sốt, nôn, rối loạn kinh nguyệt, u não giả, run, bồn chồn, mất ngủ, tăng tiết mồ hôi, sụt cân, tiêu chảy. Trường hợp mẫn cảm với bất cứ thành phần nào của Levothyrox, có thể xảy ra phản ứng dị ứng trên da và đường hô hấp. Đã có báo cáo về một số trường hợp phù mạch.</p>"
+      },
+      {
+        "id": 16067,
+        "title": "Nên tránh sử dụng thuốc Levothyrox 100µg trong những trường hợp nào?",
+        "content": "<p><style type=\"text/css\"></style>Nên tránh sử dụng thuốc Levothyrox 100µg trong những trường hợp sau:&nbsp;</p><ul><li>Mẫn cảm với bất cứ thành phần nào có trong thuốc.</li><li>Suy tuyến thượng thận, suy tuyến yên, nhiễm độc giáp chưa điều trị.&nbsp;</li><li>Không điều trị bằng Levothyrox trong trường hợp <a href=\"https://nhathuoclongchau.com.vn/benh/nhoi-mau-co-tim-595.html\">nhồi máu cơ tim</a> cấp, viêm cơ cấp tim, viêm toàn tim cấp.&nbsp;</li><li>Không chỉ định điều trị phối hợp levothyroxin và tác nhân kháng giáp cho cường giáp trong thời kỳ mang thai.</li></ul>"
+      },
+      {
+        "id": 16069,
+        "title": "Cần làm gì nếu quên một liều thuốc Levothyrox 100µg?",
+        "content": "<p><style type=\"text/css\"></style>Dùng thuốc ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>"
+      },
+      {
+        "id": 16065,
+        "title": "Thuốc Levothyrox 100µg được sử dụng để điều trị những bệnh gì?",
+        "content": "<p><style type=\"text/css\"></style>Levothyrox 100µg được sử dụng để điều trị bướu giáp đơn thuần lành tính; điều trị dự phòng tái phát sau khi phẫu thuật bướu giáp đơn thuần, tùy thuộc vào tình trạng hormon sau phẫu thuật; điều trị thay thế trong suy giáp; điều trị ức chế trong <a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-tuyen-giap-321.html\">ung thư giáp</a>; phối hợp với thuốc kháng giáp trong điều trị cường giáp.</p>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 149,
+      "items": [
+        {
+          "id": 3361238,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0989xxxxxx",
+          "name": "0989xxxxxx",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "tui cần mua thuốc levothyrox 100ug online",
+          "createdAt": "2026-08-20 22:12:41",
+          "createdAtDisplay": "15 ngày trước",
+          "updatedAt": "2026-08-20 22:12:41",
+          "replies": [
+            {
+              "id": 3361289,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Huỳnh Khánh Uyên",
+                "moderatorEmail": "uyenmhk@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mai Huỳnh Khánh Uyên",
+              "email": "uyenmhk@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý khách,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với Quý khách qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-08-21 08:59:50",
+              "createdAtDisplay": "15 ngày trước",
+              "updatedAt": "2026-08-20 22:12:41",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3361237,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0989xxxxxx",
+          "name": "0989xxxxxx",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "tui cần mua thuốc ",
+          "createdAt": "2026-08-20 22:11:45",
+          "createdAtDisplay": "15 ngày trước",
+          "updatedAt": "2026-08-20 22:11:45",
+          "replies": [
+            {
+              "id": 3361290,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Huỳnh Khánh Uyên",
+                "moderatorEmail": "uyenmhk@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mai Huỳnh Khánh Uyên",
+              "email": "uyenmhk@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý khách,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với Quý khách qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p><p>\t</p><p><br></p>",
+              "createdAt": "2026-08-21 09:00:46",
+              "createdAtDisplay": "15 ngày trước",
+              "updatedAt": "2026-08-20 22:11:45",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3326436,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0898xxxxxx",
+          "name": "C Lan Anh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tôi cần mua thuốc levothyrox 100ug online",
+          "createdAt": "2026-06-22 17:56:55",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-22 17:56:55",
+          "replies": [
+            {
+              "id": 3326443,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Khánh Ngọc",
+                "moderatorEmail": "ngoclk2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Khánh Ngọc",
+              "email": "ngoclk2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Lan Anh,</p><p>Hiện tại, sản phẩm LEVOTHYROX 100 MERCK 2X15 có giá 60,960đ/hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-06-22 18:09:27",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-22 17:56:55",
+              "replies": []
+            },
+            {
+              "id": 3365347,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0985xxxxxx",
+              "name": "Chị Luyến",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "ship mình 2 hộp ",
+              "createdAt": "2026-08-29 09:41:07",
+              "createdAtDisplay": "7 ngày trước",
+              "updatedAt": "2026-06-22 17:56:55",
+              "replies": []
+            },
+            {
+              "id": 3365351,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Hoàng Kim Ngân",
+                "moderatorEmail": "ngannhk4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Hoàng Kim Ngân",
+              "email": "ngannhk4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Luyến,</p><p>Hiện tại, sản phẩm LEVOTHYROX 100 MERCK 2X15 có giá 60,960đ/hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-08-29 09:45:03",
+              "createdAtDisplay": "7 ngày trước",
+              "updatedAt": "2026-06-22 17:56:55",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3314792,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0375xxxxxx",
+          "name": "Kim Oanh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Giá bao nhiêu 1 hộp vậy ạ",
+          "createdAt": "2026-05-29 18:52:53",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-29 18:52:53",
+          "replies": [
+            {
+              "id": 3314797,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Quỳnh",
+                "moderatorEmail": "quynhnt49@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Quỳnh",
+              "email": "quynhnt49@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Oanh,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-05-29 19:00:11",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-29 18:52:53",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3312019,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0905xxxxxx",
+          "name": "c hà",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá bao nhiêu shop ơi",
+          "createdAt": "2026-05-24 20:24:53",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-24 20:24:53",
+          "replies": [
+            {
+              "id": 3312079,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thị Phượng",
+                "moderatorEmail": "phuonght34@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Thị Phượng",
+              "email": "phuonght34@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hà,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-05-24 20:59:20",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-24 20:24:53",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 187957,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0394xxxxxx",
+          "name": "0394xxxxxx",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2023-07-22 11:55:01",
+          "createdAtDisplay": "22/07/2023",
+          "updatedAt": "2023-07-22 11:57:42",
+          "replies": [
+            {
+              "id": 187958,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Hân",
+                "moderatorEmail": "hanntn38@fpt.com.vn",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Thị Ngọc Hân",
+              "email": "hanntn38@fpt.com.vn",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<div style=\"font-family: Roboto;\">Chào bạn,&nbsp;</div><div style=\"font-family: Roboto;\">Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu. Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được hỗ trợ tư vấn và đặt hàng. \nThân mến!\n</div>",
+              "createdAt": "2023-07-22 11:57:43",
+              "createdAtDisplay": "22/07/2023",
+              "updatedAt": "2023-07-22 11:57:42",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Levothyrox 100µg Merck điều trị bướu giáp, suy giáp, ung thư giáp (3 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_levothyrox_100mcg_3_vi_x_10_vien_merck_00004396_f944ac8d1e.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1811_a91c7cc076.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1812_1225416947.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1813_d4ad23b430.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1816_94fa2440d2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1817_225625f564.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/levothyrox_100mg_1_3bf8edd865.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/levothyrox_100mg_2_81ccddf552.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Levothyrox 100µg là sản phẩm của Công Ty Merck (Đức), thành phần chính levothyroxin natri 100mcg. Đây là thuốc được sử dụng để điều trị tuyến giáp hoạt động kém (suy giáp). Thuốc thay thế hoặc cung cấp hormon tuyến giáp, thường được tạo ra bởi tuyến giáp. Nồng độ hormon tuyến giáp thấp có thể tự xảy ra hoặc khi tuyến giáp bị tổn thương do bức xạ, do thuốc hoặc bị loại bỏ khi phẫu thuật. Việc có đủ hormon tuyến giáp rất quan trọng cho việc duy trì bình thường hoạt động tinh thần và thể chất ở người lớn cũng như trẻ em.\n\nThuốc này cũng được sử dụng để điều trị các loại bệnh rối loạn tuyến giáp khác (như bướu giáp, ung thư tuyến giáp).",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Levothyrox 100mcg trị tuyến giáp hoạt động kém (30 viên)",
+      "description": "Thuốc Levothyrox 100mcg là sản phẩm của Công Ty Merck (Đức) được sử dụng để điều trị tuyến giáp hoạt động kém (suy giáp). Tìm hiểu thêm!",
+      "openGraph": {
+        "title": "Thuốc Levothyrox 100µg Merck điều trị bướu giáp, suy giáp, ung thư giáp (3 vỉ x 10 viên)",
+        "description": "Thuốc Levothyrox 100µg là sản phẩm của Công Ty Merck (Đức), thành phần chính levothyroxin natri 100mcg. Đây là thuốc được sử dụng để điều trị tuyến giáp hoạt động kém (suy giáp). Thuốc thay thế hoặc cung cấp hormon tuyến giáp, thường được tạo ra bởi tuyến giáp. Nồng độ hormon tuyến giáp thấp có thể tự xảy ra hoặc khi tuyến giáp bị tổn thương do bức xạ, do thuốc hoặc bị loại bỏ khi phẫu thuật. Việc có đủ hormon tuyến giáp rất quan trọng cho việc duy trì bình thường hoạt động tinh thần và thể chất ở người lớn cũng như trẻ em.\n\nThuốc này cũng được sử dụng để điều trị các loại bệnh rối loạn tuyến giáp khác (như bướu giáp, ung thư tuyến giáp).",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_levothyrox_100mcg_3_vi_x_10_vien_merck_00004396_f944ac8d1e.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/levothyrox-100g-3249.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/levothyrox-100g-3249.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

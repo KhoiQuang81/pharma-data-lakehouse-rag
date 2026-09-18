@@ -1,0 +1,2183 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/thang-tri-nam-duoc-5x10-15941.html",
+  "ingestion_timestamp": "2026-09-05T11:28:42.447708+00:00",
+  "file_hash": "beef81068fe7d770023b6cf9c3a7a4bb0f37fb83fad3fdc678a16a96c4cff501",
+  "lineage_hash": "4e81d653dfba1061c89cdbb5b62fba98e87fd132da7f7fbf13b473db9a4ecd01",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/thang-tri-nam-duoc-5x10-15941.html",
+    "product": {
+      "sku": "00013609",
+      "webName": "Thuốc thảo dược Thăng Trĩ Nam Dược hỗ trợ phòng và điều trị trĩ nội, trĩ ngoại (5 vỉ x 10 viên)",
+      "name": "THĂNG TRĨ NAM DƯỢC 5X10",
+      "shortName": "THĂNG TRĨ ND 5X10",
+      "headingText": "Thuốc thảo dược Thăng Trĩ",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013609_thang_tri_nam_duoc_5x10_5612_5b1e_large_cdabb6beca.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013609_thang_tri_nam_duoc_5x10_2236_5b1e_large_7cda90e0cf.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013609_thang_tri_nam_duoc_5x10_8521_5b1e_large_c200686d83.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013609_thang_tri_nam_duoc_5x10_4863_5b1e_large_aaeed02856.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 737,
+          "name": "Thuốc tim mạch & máu",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tim-mach-and-mau",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 813,
+          "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+          "parentName": "Thuốc tim mạch & máu",
+          "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 120000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 5 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": 24000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "5 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2400,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/thang-tri-nam-duoc-5x10-15941.html",
+      "ingredient": [
+        {
+          "id": 48182,
+          "ingredientId": 16582,
+          "shortDescription": "70mg",
+          "name": "Đại táo",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 48183,
+          "ingredientId": 35335,
+          "shortDescription": "100mg",
+          "name": "Sài Hồ",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 48184,
+          "ingredientId": 39051,
+          "shortDescription": "100mg",
+          "name": "Trần bì",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 48185,
+          "ingredientId": 38062,
+          "shortDescription": "100mg",
+          "name": "Thăng ma",
+          "isPrimary": false,
+          "slug": "thanh-phan/thang-ma"
+        },
+        {
+          "id": 48186,
+          "ingredientId": 18784,
+          "shortDescription": "100mg",
+          "name": "Đương quy",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 48187,
+          "ingredientId": 16671,
+          "shortDescription": "100mg",
+          "name": "Đảng Sâm",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 48188,
+          "ingredientId": 22437,
+          "shortDescription": "350mg",
+          "name": "Hoàng kỳ",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 48189,
+          "ingredientId": 36109,
+          "shortDescription": "30mg",
+          "name": "Sinh khương",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 48190,
+          "ingredientId": 10138,
+          "shortDescription": "",
+          "name": "Bạch truật",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 48191,
+          "ingredientId": 12473,
+          "shortDescription": "",
+          "name": "Cam thảo",
+          "isPrimary": false,
+          "slug": "thanh-phan/cam-thao"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-28581-17",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang cứng",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Thuốc Thăng Trĩ Nam Dược được dùng đường uống.&nbsp;</p><p>Uống trước bữa ăn 15 phút.</p><h3><strong>Liều dùng</strong></h3><p><i>Người lớn</i></p><p>Ngày uống 2 lần, mỗi lần 3 viên.</p><p>Mỗi đợt điều trị nên dùng 2 tháng.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Chưa có báo cáo.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho trung tâm cấp cứu 115 hoặc đến trạm y tế địa phương gần nhất.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thăng Trĩ Nam Dược được chỉ định dùng trong các trường hợp sau:</p><ul><li>Phòng và hỗ trợ điều trị cho các bệnh nhân mắc các loại trĩ (<a href=\"https://nhathuoclongchau.com.vn/benh/tri-noi-1281.html\">trĩ nội</a>, trĩ ngoại), các chứng sa giáng, sa dạ dày, sa dạ con.</li><li>Các đối tượng tùy vị suy yếu, chán ăn, ăn ít, cơ thể suy nhược, bụng chướng, đi ngoài lâu ngày.</li><li>Các chi mệt mỏi không muốn vận động, mệt mỏi, yếu ớt.</li></ul><h3><strong>Dược lực học</strong></h3><p>Thăng trĩ Nam Dược là loại thuốc được chuyển giao từ bài thuốc dân gian kết hợp với với nhiều loại thảo dược mà mỗi thảo dược lại có công dụng khác nhau:</p><p><i>Hoàng kỳ</i></p><p>Giúp điều trị các nhiễm khuẩn thông thường, tăng miễn dịch, bảo vệ cơ thể.</p><p><i>Đảng sâm</i></p><p>Bổ tỳ, ích khí, bảo vệ cơ thể khỏi các loại vi khuẩn gây viêm nhiễm.</p><p><i>Cam thảo</i></p><p>Kích thích tiêu hóa.</p><p><i>Thăng ma</i></p><p>Lưu thông khí huyết, mát gan, kháng viêm và làm giảm cảm giác đau rát.</p><p><i>Trần bì</i></p><p>Kháng viêm, kháng khuẩn, chống loét dạ dày và ruột.</p><p><i>Sài hồ</i></p><p>Thanh nhiệt, giải độc cơ thể.</p><p><i>Đương quy</i></p><p>Kháng viêm, diệt khuẩn.</p><p><i>Bạch truật</i></p><p>Nhuận tràng, đẩy lùi <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a>, bồi bổ cơ thể.</p><h3><strong>Dược động học</strong></h3><p>Chưa có báo cáo.</p>",
+      "brand": "Nam Dược",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng Thăng Trĩ Nam Dược, bạn có thể gặp các tác dụng không mong muốn (ADR).&nbsp;</p><p>Trong thời gian đầu sử dụng sản phẩm có thể sẽ gây ra các cảm giác khó chịu như <a href=\"https://nhathuoclongchau.com.vn/bai-viet/dau-rat-hau-mon-canh-bao-dieu-gi-den-suc-khoe-62853.html\">nóng rát hậu môn</a>, khó chịu,….</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 5 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "NAM DƯỢC",
+      "shortDescription": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/thang-tri-nam-duoc-5x10-15941.html\">Thăng Trĩ Nam Dược</a> được sản xuất bởi Công ty TNHH Nam Dược, có thành phần chính là từ các dược liệu như hoàng kỳ; cam thảo; đảng sâm; đương quy; bạch truật… Thăng Trĩ Nam Dược được dùng để điều trị các loại trĩ như trĩ nội, trĩ ngoại,... đồng thời bổ dưỡng tỳ vị giúp nhuận tràng, ngăn chặn trĩ quay trở lại và tác dụng cả với những người gặp phải tình trạng chán ăn, chướng bụng, mệt mỏi, suy nhược cơ thể.</p><p>Thăng Trĩ Nam Dược được bào chế dưới dạng viên nang uống, hộp 50 viên gồm 5 vỉ x 10 viên.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/nam-duoc",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": null,
+      "officialProductName": "THĂNG TRĨ NAM DƯỢC",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": 2400,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 813,
+        "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+        "parentName": "Thuốc tim mạch & máu",
+        "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013609_thang_tri_nam_duoc_5x10_5612_5b1e_large_cdabb6beca.JPG",
+          "alternativeText": "Thuốc thảo dược Thăng Trĩ Nam Dược hỗ trợ phòng và điều trị trĩ nội, trĩ ngoại (5 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013609_thang_tri_nam_duoc_5x10_2236_5b1e_large_7cda90e0cf.JPG",
+          "alternativeText": "Thuốc thảo dược Thăng Trĩ Nam Dược hỗ trợ phòng và điều trị trĩ nội, trĩ ngoại (5 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013609_thang_tri_nam_duoc_5x10_8521_5b1e_large_c200686d83.JPG",
+          "alternativeText": "Thuốc thảo dược Thăng Trĩ Nam Dược hỗ trợ phòng và điều trị trĩ nội, trĩ ngoại (5 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013609_thang_tri_nam_duoc_5x10_4863_5b1e_large_aaeed02856.JPG",
+          "alternativeText": "Thuốc thảo dược Thăng Trĩ Nam Dược hỗ trợ phòng và điều trị trĩ nội, trĩ ngoại (5 vỉ x 10 viên) 4"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 120000,
+        "itemCode": "00013609",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 120000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 24000,
+        "itemCode": "00013609",
+        "unitCode": 13,
+        "maxValue": 0,
+        "price": 24000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 2400,
+        "itemCode": "00013609",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 2400,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tim mạch & máu",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau"
+      },
+      {
+        "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach"
+      }
+    ],
+    "content": {
+      "sku": "00013609",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Thuốc Thăng Trĩ Nam Dược được dùng đường uống.&nbsp;</p><p>Uống trước bữa ăn 15 phút.</p><h3><strong>Liều dùng</strong></h3><p><i>Người lớn</i></p><p>Ngày uống 2 lần, mỗi lần 3 viên.</p><p>Mỗi đợt điều trị nên dùng 2 tháng.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Chưa có báo cáo.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho trung tâm cấp cứu 115 hoặc đến trạm y tế địa phương gần nhất.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Thăng Trĩ Nam Dược.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng Thăng Trĩ Nam Dược, bạn có thể gặp các tác dụng không mong muốn (ADR).&nbsp;</p><p>Trong thời gian đầu sử dụng sản phẩm có thể sẽ gây ra các cảm giác khó chịu như <a href=\"https://nhathuoclongchau.com.vn/bai-viet/dau-rat-hau-mon-canh-bao-dieu-gi-den-suc-khoe-62853.html\">nóng rát hậu môn</a>, khó chịu,….</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p style=\"text-align:justify;\">Nơi khô mát, nhiệt độ dưới 30°C, tránh ánh sáng.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thăng Trĩ Nam Dược được chỉ định dùng trong các trường hợp sau:</p><ul><li>Phòng và hỗ trợ điều trị cho các bệnh nhân mắc các loại trĩ (<a href=\"https://nhathuoclongchau.com.vn/benh/tri-noi-1281.html\">trĩ nội</a>, trĩ ngoại), các chứng sa giáng, sa dạ dày, sa dạ con.</li><li>Các đối tượng tùy vị suy yếu, chán ăn, ăn ít, cơ thể suy nhược, bụng chướng, đi ngoài lâu ngày.</li><li>Các chi mệt mỏi không muốn vận động, mệt mỏi, yếu ớt.</li></ul><h3><strong>Dược lực học</strong></h3><p>Thăng trĩ Nam Dược là loại thuốc được chuyển giao từ bài thuốc dân gian kết hợp với với nhiều loại thảo dược mà mỗi thảo dược lại có công dụng khác nhau:</p><p><i>Hoàng kỳ</i></p><p>Giúp điều trị các nhiễm khuẩn thông thường, tăng miễn dịch, bảo vệ cơ thể.</p><p><i>Đảng sâm</i></p><p>Bổ tỳ, ích khí, bảo vệ cơ thể khỏi các loại vi khuẩn gây viêm nhiễm.</p><p><i>Cam thảo</i></p><p>Kích thích tiêu hóa.</p><p><i>Thăng ma</i></p><p>Lưu thông khí huyết, mát gan, kháng viêm và làm giảm cảm giác đau rát.</p><p><i>Trần bì</i></p><p>Kháng viêm, kháng khuẩn, chống loét dạ dày và ruột.</p><p><i>Sài hồ</i></p><p>Thanh nhiệt, giải độc cơ thể.</p><p><i>Đương quy</i></p><p>Kháng viêm, diệt khuẩn.</p><p><i>Bạch truật</i></p><p>Nhuận tràng, đẩy lùi <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a>, bồi bổ cơ thể.</p><h3><strong>Dược động học</strong></h3><p>Chưa có báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3><strong>Chống chỉ định</strong></h3><p>Thuốc Thăng Trĩ Nam Dược chống chỉ định trong các trường hợp sau:</p><ul><li>Quá mẫn cảm với bất cứ thành phần nào của sản phẩm.</li></ul><h3><strong>Thận trọng khi sử dụng</strong></h3><p>Đối với phụ nữ có thai hoặc cho con bú, mẫn cảm với bất kỳ thành phần nào của thuốc thì cần chú ý trước khi sử dụng cần hỏi kĩ ý kiến bác sĩ.</p><h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3><p>Chưa có báo cáo.</p><h3><strong>Thời kỳ mang thai&nbsp;</strong></h3><p>Cần chú ý trước khi sử dụng cần hỏi kĩ ý kiến bác sĩ.</p><h3><strong>Thời kỳ cho con bú</strong></h3><p>Cần chú ý trước khi sử dụng cần hỏi kĩ ý kiến bác sĩ.</p><h3><strong>Tương tác thuốc</strong></h3><p>Chưa có báo cáo.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thăng Trĩ Nam Dược trị trĩ nội, trĩ ngoại",
+        "metaDescription": "Thăng Trĩ Nam Dược có thành phần chính là từ các dược liệu như hoàng kỳ; cam thảo; đảng sâm; đương quy; bạch truật… Thăng Trĩ Nam Dược được dùng để điều trị các loại trĩ như trĩ nội, trĩ ngoại.",
+        "id": 706,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013609_thang_tri_nam_duoc_5x10_5612_5b1e_large_cdabb6beca.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc thảo dược Thăng Trĩ Nam Dược hỗ trợ phòng và điều trị trĩ nội, trĩ ngoại (5 vỉ x 10 viên)",
+            "description": "Thăng Trĩ Nam Dược được sản xuất bởi Công ty TNHH Nam Dược, có thành phần chính là từ các dược liệu như hoàng kỳ; cam thảo; đảng sâm; đương quy; bạch truật… Thăng Trĩ Nam Dược được dùng để điều trị các loại trĩ như trĩ nội, trĩ ngoại,... đồng thời bổ dưỡng tỳ vị giúp nhuận tràng, ngăn chặn trĩ quay trở lại và tác dụng cả với những người gặp phải tình trạng chán ăn, chướng bụng, mệt mỏi, suy nhược cơ thể.Thăng Trĩ Nam Dược được bào chế dưới dạng viên nang uống, hộp 50 viên gồm 5 vỉ x 10 viên."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 373,
+        "title": "Dược lực học là gì?",
+        "content": "<p>\r\n\r\nDược lực học l&agrave; nghi&ecirc;n cứu c&aacute;c ảnh hưởng sinh h&oacute;a, sinh l&yacute;, v&agrave; ph&acirc;n tử của thuốc tr&ecirc;n cơ thể v&agrave; li&ecirc;n quan đến thụ thể li&ecirc;n kết, hiệu ứng sau thụ thể, v&agrave; tương t&aacute;c h&oacute;a học. Dược lực học, với dược động học, gi&uacute;p giải th&iacute;ch mối quan hệ giữa liều v&agrave; đ&aacute;p ứng, tức l&agrave; c&aacute;c t&aacute;c dụng của thuốc. Đ&aacute;p ứng dược l&yacute; phụ thuộc v&agrave;o sự li&ecirc;n kết của thuốc với đ&iacute;ch t&aacute;c dụng. Nồng độ thuốc ở vị tr&iacute; thụ thể ảnh hưởng đến t&aacute;c dụng của thuốc.</p>"
+      },
+      {
+        "id": 372,
+        "title": "Dược động học là gì?",
+        "content": "<p>\r\n\r\nDược động học l&agrave; những t&aacute;c động của cơ thể đối với thuốc trong suốt qu&aacute; tr&igrave;nh thuốc đi v&agrave;o, ở trong v&agrave; đi ra khỏi cơ thể- bao gồm c&aacute;c qu&aacute; tr&igrave;nh hấp thụ, sinh khả dụng, ph&acirc;n bố, chuyển h&oacute;a, v&agrave; thải trừ.</p>"
+      },
+      {
+        "id": 371,
+        "title": "Tác dụng phụ của thuốc là gì? Cách phòng tránh tác dụng phụ của thuốc",
+        "content": "<p>\r\n\r\nT&aacute;c dụng phụ l&agrave; những triệu chứng kh&ocirc;ng mong muốn xảy ra khi ch&uacute;ng ta uống thuốc. C&aacute;c t&aacute;c dụng phụ n&agrave;y c&oacute; thể kh&ocirc;ng nghi&ecirc;m trọng, chẳng hạn chỉ g&acirc;y <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><strong>đau đầu</strong></a> hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mieng-312.html\"><strong>kh&ocirc; miệng</strong></a>. Nhưng cũng c&oacute; những t&aacute;c dụng phụ đe dọa t&iacute;nh mạng. Cẩn ph&ograve;ng tr&aacute;nh t&aacute;c dụng phụ của <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> như: Th&ocirc;ng b&aacute;o c&aacute;c loại thuốc đang sử dụng với b&aacute;c sĩ, c&aacute;c <strong><a href=\"https://nhathuoclongchau.com.vn/benh\">bệnh</a></strong> l&yacute; nền hiện tại, c&aacute;c tương t&aacute;c của thuốc đến thực phẩm hằng ng&agrave;y. Đọc kỹ hướng dẫn sử dụng thuốc v&agrave; nếu gặp t&aacute;c dụng phụ cần b&aacute;o ngay cho b&aacute;c sĩ.</p>"
+      },
+      {
+        "id": 370,
+        "title": "Sử dụng thuốc đúng cách như thế nào?",
+        "content": "<p>\r\n\r\nSử dụng <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> đ&uacute;ng c&aacute;ch l&agrave; uống thuốc theo chỉ dẫn của dược sĩ, b&aacute;c sĩ. Ngo&agrave;i ra kh&ocirc;ng d&ugrave;ng nước quả, nước kho&aacute;ng hoặc c&aacute;c loại nước ngọt đ&oacute;ng hộp c&oacute; gas để uống thuốc. Kh&ocirc;ng d&ugrave;ng sữa để uống thuốc v&igrave; trong th&agrave;nh phần của sữa c&oacute; chứa <strong><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/canxi\">canxi</a></strong>. Kh&ocirc;ng d&ugrave;ng c&agrave; ph&ecirc; hay nước ch&egrave; để uống thuốc. Chỉ n&ecirc;n uống c&ugrave;ng nước lọc.</p>"
+      },
+      {
+        "id": 369,
+        "title": "Các dạng bào chế của thuốc?",
+        "content": "<p>\r\n\r\nC&oacute; c&aacute;c dạng b&agrave;o chế thuốc như<br />\r\nTheo thể chất:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc thể rắn (thuốc bột, thuốc vi&ecirc;n).</li>\r\n\t<li>C&aacute;c dạng thuốc thể mềm (thuốc cao, thuốc mỡ, gel).</li>\r\n\t<li>C&aacute;c dạng thuốc thể lỏng (dung dịch, hỗn dịch, nhũ dịch, xiro).</li>\r\n</ul>\r\n\r\n<p>Theo đường d&ugrave;ng:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc uống (vi&ecirc;n, bột, dung dịch, nhũ dịch, hỗn dịch).</li>\r\n\t<li>C&aacute;c dạng thuốc ti&ecirc;m (dung dịch, hỗn dịch, nhũ dịch, bột pha ti&ecirc;m, dịch truyền).</li>\r\n\t<li>C&aacute;c dạng thuốc d&ugrave;ng ngo&agrave;i (thuốc b&ocirc;i tr&ecirc;n da, thuốc nhỏ l&ecirc;n ni&ecirc;m mạc, thuốc s&uacute;c miệng).</li>\r\n\t<li>C&aacute;c dạng thuốc đặt v&agrave;o c&aacute;c hốc tự nhi&ecirc;n tr&ecirc;n cơ thể (thuốc đặt hậu m&ocirc;n, thuốc trứng đặt &acirc;m đạo...).</li>\r\n</ul>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00029275",
+        "name": "DACOLFORT 500MG DANAPHA 3X10",
+        "webName": "Thuốc Dacolfort Danapha điều trị triệu chứng liên quan đến suy tĩnh mạch, mạch bạch huyết (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DACOLFORT_TRU_O_ue_C_c0cc95e39a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 813,
+            "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37595,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2600,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/dacolfort-500mg-danapha-3x10-29541.html",
+        "ingredients": "Diosmin 450mg, Hesperidin 50mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Danapha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 37595,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 37596,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 26000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 37597,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 78000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007451",
+        "name": "TOTTRI TRAPHACO 15 GÓI",
+        "webName": "Thuốc Tottri Traphaco điều trị chảy máu khi đại tiện, đau rát (15 túi x 5g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2702_e96668045c.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 813,
+            "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10877,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 143000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tottri-tot-cho-nguoi-benh-tri-363.html",
+        "ingredients": "Sài Hồ 0.4g, Thăng ma 0.4g, Hoàng kỳ 0.7g, Đảng Sâm 0.7g, Thanh bì 0.4g, Ý Dĩ 0.4g, Đương quy 0.4g, Cam Thảo Bắc 0.2g, Sen 0.4g, Bạch truật 0.4g",
+        "dosageForm": "Hoàn cứng",
+        "brand": "Traphaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 15 Túi x 5g",
+        "prices": [
+          {
+            "id": 10876,
+            "measureUnitCode": 21,
+            "measureUnitName": "Túi",
+            "isSellDefault": false,
+            "price": 9533,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10877,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 143000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006459",
+        "name": "RUTIN VITAMIN C MEKOPHAR 10X10",
+        "webName": "Thuốc Rutin-Vitamin C Mekophar hỗ trợ điều trị các hội chứng chảy máu, xơ cứng (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_rutin_vitamin_c_10_vi_x_10_vien_mekophar_00006459_c613e162db.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 813,
+            "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 9408,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 270,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/rutin-vitamin-c-2357.html",
+        "ingredients": "Rutin 50mg, Vitamin C 50mg",
+        "dosageForm": "Viên bao đường",
+        "brand": "Mekophar",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 9408,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 270,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 9409,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 2700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 9410,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 27000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00002175",
+        "name": "DAFLON 500MG SERVIER 4X15",
+        "webName": "Thuốc Daflon 500mg Servier điều trị các triệu chứng liên quan đến suy giảm tĩnh mạch bạch huyết và trĩ cấp (60 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002175_daflon_500mg_2504_5bf6_large_aeabcfcd12.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 813,
+            "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 2754,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 4475,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/daflon-500mg-4113.html",
+        "ingredients": "Diosmin 450MG, Hesperidin 50MG",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Servier",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 4 vỉ x 15 viên",
+        "prices": [
+          {
+            "id": 2754,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 4475,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 2755,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 67125,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 2756,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 268500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00031440",
+        "name": "DAFLON 1000MG LES 3X10",
+        "webName": "Thuốc Daflon 1000mg Servier điều trị triệu chứng thực thể liên quan đến trĩ cấp (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/daflon_1000mg_3x10_les_00031440_3f09ecb6d5.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 813,
+            "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 42286,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 8850,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/daflon-1000mg-les-3x10-31582.html",
+        "ingredients": "Diosmin 900mg, Hesperidin 100mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "LES",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 42286,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 8850,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 42288,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 265500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 42287,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 88500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00018569",
+        "name": "DILODIN DHG 5X10",
+        "webName": "Thuốc DilodinDHG điều trị các triệu chứng liên quan đến cơn trĩ cấp và bệnh trĩ mạn (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/dilodin_5x10_dhg_00018569_07c887df68.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 813,
+            "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 23619,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 99000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/dilodin-dhg-5x10-19881.html",
+        "ingredients": "Diosmin 450mg, Hesperidin 50mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Dhg",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 5 vỉ x 10 viên",
+        "prices": [
+          {
+            "id": 23617,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1980,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 23619,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 99000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 23618,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 19800,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00046871",
+        "name": "VENRUTINE RELIV 3X10",
+        "webName": "Thuốc Venrutine Reliv điều trị bệnh trĩ, các chứng xuất huyết dưới da, vết bầm máu (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_venrutine_reliv_3x10_00046871_babaca1915.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 813,
+            "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 73053,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 96000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/venrutine-reliv-3-x10.html",
+        "ingredients": "Rutin 500mg, Acid Ascorbic 100mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Reliv",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 73053,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 96000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 73054,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 32000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 73055,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 3200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500194",
+        "name": "RUTIN VITAMIN C HADIPHAR 10X10",
+        "webName": "Thuốc Rutin Vitamin C Hadiphar tăng sức bền thành mao mạch, điều trị chứng giãn tĩnh mạch (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500194_rutin_vitamin_c_hadiphar_10x10_6938_62be_large_cd79c54e9c.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 813,
+            "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48001,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 300,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/rutin-vitamin-c-hadiphar-10x10-34280.html",
+        "ingredients": "Vitamin C 50mg, Rutin 50mg",
+        "dosageForm": "Viên nén bao đường",
+        "brand": "Hadiphar",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48001,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 300,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 48002,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 30000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 48000,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 3000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009654",
+        "name": "VEINOFYTOL 50MG TILMANSA 4X10",
+        "webName": "Thuốc Veinofytol Tilman điều trị suy tĩnh mạch mãn tính nhẹ (4 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009654_veinofytol_6443_5b97_large_fde34641dc.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 813,
+            "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12866,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 8875,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/veinofytol-1544.html",
+        "ingredients": "Aesculus hippocastanum L. 50mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Tilman",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 4 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 12866,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 8875,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12867,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 88750,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 12868,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 355000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 67,
+          "attributeName": "Bỉ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/be_Belgium_3143615ffa.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007817",
+        "name": "VENOSAN RETARD Dr. Willmar Schwabe 10X10",
+        "webName": "Thuốc Venosan Retard 263.2mg Dr. Willmar Schwabe điều trị viêm tĩnh mạch huyết khối (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007817_venosan_8251_5b6a_large_7341c83450.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 813,
+            "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11464,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 8550,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/venosan-1816.html",
+        "ingredients": "Cao khô hạt dẻ ngựa 263.2mg",
+        "dosageForm": "Viên nén bao phim phóng thích muộn",
+        "brand": "Dr. Willmar Schwabe",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 11466,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 855000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 11465,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 85500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 11464,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 8550,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00002174",
+        "name": "DAFLAVON 450MG PYMEPHARCO 4X15",
+        "webName": "Thuốc Daflavon Pymepharco điều trị triệu chứng liên quan đến suy tuần hoàn tĩnh mạch bạch huyết (60 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002174_daflavon_4395_6093_large_4d261e2b4a.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 813,
+            "name": "Thuốc trị trĩ, suy giãn tĩnh mạch",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-tri-suy-gian-tinh-mach",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 2753,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 132000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/daflavon-4114.html",
+        "ingredients": "Diosmin 450mg, Hesperidin 50mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Pymepharco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 4 Vỉ x 15 Viên",
+        "prices": [
+          {
+            "id": 2751,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 2752,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 33000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 2753,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 132000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 26,
+      "items": [
+        {
+          "id": 3352951,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0818xxxxxx",
+          "name": "Chị My",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cho con ti thì có uống đc ko ạ ?",
+          "createdAt": "2026-08-06 14:01:28",
+          "createdAtDisplay": "30 ngày trước",
+          "updatedAt": "2026-08-06 14:01:28",
+          "replies": [
+            {
+              "id": 3352953,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ánh",
+                "moderatorEmail": "anhnth44@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ánh",
+              "email": "anhnth44@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị My ạ,</p><p>Thăng Trĩ Nam Dược là sản phẩm thảo dược hỗ trợ điều trị trĩ. Hiện tại chưa có đầy đủ các nghiên cứu lâm sàng khẳng định tính an toàn tuyệt đối của sản phẩm đối với phụ nữ đang trong thời kỳ cho con bú. Vì vậy, để đảm bảo an toàn nhất cho sức khỏe của cả mẹ và bé, Chị nên tham khảo ý kiến trực tiếp từ bác sĩ chuyên khoa trước khi sử dụng ạ.</p><p>Chúc Chị My và gia đình luôn dồi dào sức khỏe ạ.</p>",
+              "createdAt": "2026-08-06 14:15:40",
+              "createdAtDisplay": "30 ngày trước",
+              "updatedAt": "2026-08-06 14:01:28",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3342448,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0357xxxxxx",
+          "name": "Tâm Anh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Liệu có hết được trĩ không ạ  trĩ nội ạ",
+          "createdAt": "2026-07-19 21:47:23",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-19 21:47:23",
+          "replies": [
+            {
+              "id": 3342450,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Bích Diệp",
+                "moderatorEmail": "diepnb6@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Bích Diệp",
+              "email": "diepnb6@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Tâm Anh</p><p>Dạ Thăng Trĩ Nam Dược được chỉ định dùng trong phòng và hỗ trợ điều trị cho các bệnh nhân mắc các loại trĩ (trĩ nội, trĩ ngoại), các chứng sa giáng, sa dạ dày, sa dạ con,... Dạ mình có thể dùng và theo dõi thêm ạ.</p><p>Nhà thuốc thông tin đến chị ạ.</p>",
+              "createdAt": "2026-07-19 21:51:22",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-19 21:47:23",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3341730,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0979xxxxxx",
+          "name": "Nguyễn Văn Tính",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mình bị trĩ nội cấp 2/3 rổi uống thuốc này có tác dụng gì ko",
+          "createdAt": "2026-07-18 14:09:53",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-18 14:09:53",
+          "replies": [
+            {
+              "id": 3341734,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Tiểu Thanh Trúc",
+                "moderatorEmail": "trucptt5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Tiểu Thanh Trúc",
+              "email": "trucptt5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh <strong>Văn Tính</strong>,</p><p>Dạ Thăng Trĩ Nam Dược được chỉ định dùng trong phòng và hỗ trợ điều trị cho các bệnh nhân mắc các loại trĩ (trĩ nội, trĩ ngoại), các chứng sa giáng, sa dạ dày, sa dạ con,... Dạ mình có thể dùng  và theo dõi thêm ạ.</p><p>Nhà Thuốc thông tin đến anh.</p>",
+              "createdAt": "2026-07-18 14:13:34",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-18 14:09:53",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3314891,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0388xxxxxx",
+          "name": "Trần Văn Thiện",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Hiện tại thuốc này còn hàng ở long châu ko ạ",
+          "createdAt": "2026-05-30 04:24:59",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-30 04:25:00",
+          "replies": [
+            {
+              "id": 3314980,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thuỳ Linh",
+                "moderatorEmail": "linhntt67@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thuỳ Linh",
+              "email": "linhntt67@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh <strong>Thiện</strong>,</p><p> Dạ sản phẩm còn hàng trên hệ thống Nhà thuốc FPT Long Châu.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-05-30 09:19:33",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-30 04:25:00",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3227813,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0357xxxxxx",
+          "name": "Lam",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "uống sau bữa ăn đc ko?",
+          "createdAt": "2025-12-11 17:56:23",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2025-12-11 17:56:23",
+          "replies": [
+            {
+              "id": 3227822,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Mạnh Hà",
+                "moderatorEmail": "hahm5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Mạnh Hà",
+              "email": "hahm5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Lam,</p><p>Dạ Thuốc Thăng Trĩ Nam Dược nên uống trước bữa ăn 15 phút ạ.</p><p>Nhà thuốc thông tin đến bạn.</p>",
+              "createdAt": "2025-12-11 18:19:25",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-12-11 17:56:23",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 7,
+      "items": [
+        {
+          "id": 3304701,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0396xxxxxx",
+          "name": "EM TRƯƠNG",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "để bán vĩ mà đi mua thì ko bán",
+          "createdAt": "2026-05-10 15:52:11",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-10 15:52:11",
+          "replies": [
+            {
+              "id": 3304702,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Phương Thảo",
+                "moderatorEmail": "thaoltp50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Phương Thảo",
+              "email": "thaoltp50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Trương,</p><p>Hiện tại, sản phẩm THĂNG TRĨ ND 5X10 có giá 24,000đ/ vỉ ạ</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-05-10 15:56:32",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-10 15:52:11",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3241871,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0962xxxxxx",
+          "name": "Ho Ngoc Hieu",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuoc nay co dieu tri tri ngoai kg",
+          "createdAt": "2026-01-07 15:11:04",
+          "createdAtDisplay": "7 tháng trước",
+          "updatedAt": "2026-01-07 15:11:04",
+          "replies": [
+            {
+              "id": 3241874,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Mạnh Hà",
+                "moderatorEmail": "hahm5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Mạnh Hà",
+              "email": "hahm5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chao anh Hieu,</p><p>Dạ Thăng Trĩ Nam Dược được chỉ định dùng trong các trường hợp sau:</p><p>Phòng và hỗ trợ điều trị cho các bệnh nhân mắc các loại trĩ (<a href=\"https://nhathuoclongchau.com.vn/benh/tri-noi-1281.html\" rel=\"noopener noreferrer\" target=\"_blank\">trĩ nội</a>, trĩ ngoại), các chứng sa giáng, sa dạ dày, sa dạ con.</p><p>Các đối tượng tùy vị suy yếu, chán ăn, ăn ít, cơ thể suy nhược, bụng chướng, đi ngoài lâu ngày. Anh có thể dùng và theo dõi thêm ạ.</p><p>Nhà thuốc thông tin đến anh.</p><p><br></p>",
+              "createdAt": "2026-01-07 15:14:39",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-01-07 15:11:04",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3209770,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0346xxxxxx",
+          "name": "chị lý",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "chưa biết kết quả sao nhưng mà thấy hướng dẫn có tâm, chỉ cho mấy tips ngâm lá ổi trà xanh với xoa bụng này nọ. mình hay uống sau bữa ăn khoảng tầm 1-2h thì mình thấy khi uống vị thuốc có sộc lên k biết có phải triệu chứng bình thường k nhỉ. Với mình cũng thi thoảng quên thì nên bỏ qua luôn hay là uống bù ạ. ví dụ quên buổi trưa mà tối mới nhớ",
+          "createdAt": "2025-11-09 22:00:49",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-09 22:00:42",
+          "replies": [
+            {
+              "id": 3209821,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Huệ",
+                "moderatorEmail": "huent39@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Huệ",
+              "email": "huent39@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Lý,</p><p> Dạ rất cảm ơn tình cảm của chị dành cho Nhà thuốc FPT Long Châu. Chúc chị nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2025-11-10 08:01:36",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-09 22:00:42",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3179372,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0928xxxxxx",
+          "name": "0928xxxxxx",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này tác dụng",
+          "createdAt": "2025-09-13 16:10:17",
+          "createdAtDisplay": "11 tháng trước",
+          "updatedAt": "2025-09-13 16:10:13",
+          "replies": [
+            {
+              "id": 3179374,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Phương Lan",
+                "moderatorEmail": "lannp9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Phương Lan",
+              "email": "lannp9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn,</p><p>Dạ cảm ơn bạn tin tưởng và ủng hộ nhà thuốc. Chúc bạn nhiều sức khỏe !</p><p>Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.</p><p>Thân mến!</p>",
+              "createdAt": "2025-09-13 16:11:34",
+              "createdAtDisplay": "11 tháng trước",
+              "updatedAt": "2025-09-13 16:10:13",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3169365,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0947xxxxxx",
+          "name": "vân",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Giá hợp túi tiền mà chất lượng thì tren mong đợi. Dùng cotripro ko đỡ gì cả. Chuyển qua sử dụng sp này hêt táo, hết cầu ra máu, co trĩ. Tuyệt vời",
+          "createdAt": "2025-08-26 10:06:50",
+          "createdAtDisplay": "26/08/2025",
+          "updatedAt": "2025-08-26 10:06:39",
+          "replies": [
+            {
+              "id": 3169367,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Quang Đạo",
+                "moderatorEmail": "daolq3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Quang Đạo",
+              "email": "daolq3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Vân</p><p>Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu. </p><p>Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.  </p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-08-26 10:08:02",
+              "createdAtDisplay": "26/08/2025",
+              "updatedAt": "2025-08-26 10:06:39",
+              "replies": []
+            },
+            {
+              "id": 3319051,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0334xxxxxx",
+              "name": "Nguyễn Phúc Đạt",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "bạn dùng trong bao lâu thì có tác dụng ạ?",
+              "createdAt": "2026-06-07 18:24:00",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2025-08-26 10:06:39",
+              "replies": []
+            },
+            {
+              "id": 3319054,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Ngọc Diệu",
+                "moderatorEmail": "dieuptn2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Ngọc Diệu",
+              "email": "dieuptn2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>💙</p>",
+              "createdAt": "2026-06-07 18:30:49",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2025-08-26 10:06:39",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 7
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc thảo dược Thăng Trĩ Nam Dược hỗ trợ phòng và điều trị trĩ nội, trĩ ngoại (5 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013609_thang_tri_nam_duoc_5x10_5612_5b1e_large_cdabb6beca.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013609_thang_tri_nam_duoc_5x10_2236_5b1e_large_7cda90e0cf.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013609_thang_tri_nam_duoc_5x10_8521_5b1e_large_c200686d83.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013609_thang_tri_nam_duoc_5x10_4863_5b1e_large_aaeed02856.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thăng Trĩ Nam Dược được sản xuất bởi Công ty TNHH Nam Dược, có thành phần chính là từ các dược liệu như hoàng kỳ; cam thảo; đảng sâm; đương quy; bạch truật… Thăng Trĩ Nam Dược được dùng để điều trị các loại trĩ như trĩ nội, trĩ ngoại,... đồng thời bổ dưỡng tỳ vị giúp nhuận tràng, ngăn chặn trĩ quay trở lại và tác dụng cả với những người gặp phải tình trạng chán ăn, chướng bụng, mệt mỏi, suy nhược cơ thể.Thăng Trĩ Nam Dược được bào chế dưới dạng viên nang uống, hộp 50 viên gồm 5 vỉ x 10 viên.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "7"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/thang-tri-nam-duoc-5x10-15941.html",
+        "priceCurrency": "VND",
+        "price": 2400,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Thăng Trĩ Nam Dược trị trĩ nội, trĩ ngoại",
+      "description": "Thăng Trĩ Nam Dược có thành phần chính là từ các dược liệu như hoàng kỳ; cam thảo; đảng sâm; đương quy; bạch truật… Thăng Trĩ Nam Dược được dùng để điều trị các loại trĩ như trĩ nội, trĩ ngoại.",
+      "openGraph": {
+        "title": "Thuốc thảo dược Thăng Trĩ Nam Dược hỗ trợ phòng và điều trị trĩ nội, trĩ ngoại (5 vỉ x 10 viên)",
+        "description": "Thăng Trĩ Nam Dược được sản xuất bởi Công ty TNHH Nam Dược, có thành phần chính là từ các dược liệu như hoàng kỳ; cam thảo; đảng sâm; đương quy; bạch truật… Thăng Trĩ Nam Dược được dùng để điều trị các loại trĩ như trĩ nội, trĩ ngoại,... đồng thời bổ dưỡng tỳ vị giúp nhuận tràng, ngăn chặn trĩ quay trở lại và tác dụng cả với những người gặp phải tình trạng chán ăn, chướng bụng, mệt mỏi, suy nhược cơ thể.Thăng Trĩ Nam Dược được bào chế dưới dạng viên nang uống, hộp 50 viên gồm 5 vỉ x 10 viên.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013609_thang_tri_nam_duoc_5x10_5612_5b1e_large_cdabb6beca.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/thang-tri-nam-duoc-5x10-15941.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/thang-tri-nam-duoc-5x10-15941.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

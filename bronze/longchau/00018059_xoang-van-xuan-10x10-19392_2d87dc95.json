@@ -1,0 +1,1278 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/xoang-van-xuan-10x10-19392.html",
+  "ingestion_timestamp": "2026-09-05T16:16:30.444386+00:00",
+  "file_hash": "1e5abc7824ef6ec2e81ccc1aabdcf1e1d279182d2b920efec17e4d77524a45c7",
+  "lineage_hash": "46faa90c5bc569114a087932bf220a9c60ef03a360ae739150c44fd60114d939",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/xoang-van-xuan-10x10-19392.html",
+    "product": {
+      "sku": "00018059",
+      "webName": "Thuốc Xoang Vạn Xuân giảm đau, chống viêm mũi dị ứng, viêm xoang (10 vỉ x 10 viên)",
+      "name": "XOANG VẠN XUÂN 10X10",
+      "shortName": "XOANG VẠN XUÂN 10X10",
+      "headingText": "Thuốc Xoang",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_8527_5bbc_large_ee3fc6af70.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_9116_5bbc_large_dbd6707438.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_5918_5bbc_large_426031f098.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_3961_5bbc_large_47bffba894.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_3221_5bbc_large_de069a3c65.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_1627379626_22de998bbd.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 732,
+          "name": "Thuốc Mắt, Tai, Mũi, Họng",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-mat-tai-mui-hong",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 787,
+          "name": "Thuốc trị viêm xoang",
+          "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+          "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 10 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "10 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/xoang-van-xuan-10x10-19392.html",
+      "ingredient": [
+        {
+          "id": 10734,
+          "ingredientId": 10043,
+          "shortDescription": "100mg",
+          "name": "Bạc hà",
+          "isPrimary": false,
+          "slug": "thanh-phan/bac-ha"
+        },
+        {
+          "id": 10735,
+          "ingredientId": 10072,
+          "shortDescription": "100mg",
+          "name": "Bạch chỉ",
+          "isPrimary": false,
+          "slug": "thanh-phan/bach-chi"
+        },
+        {
+          "id": 10736,
+          "ingredientId": 37439,
+          "shortDescription": "150mg",
+          "name": "Tân di hoa",
+          "isPrimary": false,
+          "slug": "thanh-phan/tan-di-hoa"
+        },
+        {
+          "id": 10737,
+          "ingredientId": 22437,
+          "shortDescription": "200mg",
+          "name": "Hoàng kỳ",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 10738,
+          "ingredientId": 32396,
+          "shortDescription": "200mg",
+          "name": "Phòng phong",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 10739,
+          "ingredientId": 38387,
+          "shortDescription": "200mg",
+          "name": "Thương nhĩ tử",
+          "isPrimary": false,
+          "slug": "thanh-phan/thuong-nhi-tu"
+        },
+        {
+          "id": 10740,
+          "ingredientId": 10138,
+          "shortDescription": "200mg",
+          "name": "Bạch truật",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "V1508-H12-10",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Thuốc dùng đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<ul>\n\t<li>\n\t<p>Người lớn: 4 viên/lần x 2 - 3 lần/ngày, đợt dùng 6 - 8 tuần.</p>\n\t</li>\n\t<li>\n\t<p>Trẻ em 3 - 5 tuổi: 1 viên/lần x 2 - 3 lần/ngày.</p>\n\t</li>\n\t<li>\n\t<p>Trẻ em 6 - 12 tuổi: 2 viên/lần x 2 - 3 lần/ngày.</p>\n\t</li>\n</ul>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc Xoang Vạn Xuân 10X10  được chỉ định dùng trong các trường hợp sau:</p>\n\n<p><em>Ðiều trị giảm đau, chống viêm trong các bệnh:</em></p>\n\n<ul>\n\t<li><strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">Viêm mũi dị ứng</a></strong>.</li>\n\t<li>Viêm xoang cấp và mãn.</li>\n\t<li><strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-hong-468.html\">Viêm họng</a></strong>.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Thuốc có tác dụng bổ khí, trừu phong, thấp hàn ở phế và mũi họng. Ngoài ra còn có tác dụng giảm đau, chống viêm.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "brand": "Vạn Xuân",
+      "brandType": null,
+      "adverseEffect": "<p>Không thấy tác dụng phụ nào đáng kể.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR:</em></p>\n\n<p>Thông báo cho bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Hộp 10 vỉ x 10 viên",
+      "indications": [
+        {
+          "id": 9,
+          "name": "Viêm họng",
+          "slug": "benh/viem-hong-468.html"
+        },
+        {
+          "id": 13,
+          "name": "Viêm mũi",
+          "slug": "benh/viem-mui-472.html"
+        },
+        {
+          "id": 14,
+          "name": "Viêm mũi dị ứng",
+          "slug": "benh/viem-mui-di-ung-473.html"
+        },
+        {
+          "id": 43,
+          "name": "Viêm xoang",
+          "slug": "benh/viem-xoang-479.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "CÔNG TY TNHH VẠN XUÂN",
+      "shortDescription": "<p>Xoang Vạn Xuân 10X10 của Công ty TNHH Vạn Xuân, thành phần chính cao khô từ dịch chiết toàn phần của thương nhĩ tử, phòng phong, bạch truật, hoàng kỳ, tân di hoa, bột khô của bạch chỉ, bạc hà, là thuốc dùng để điều trị viêm mũi dị ứng, viêm xoang cấp và mãn, viêm họng.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Bệnh tim mạch",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/van-xuan",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": null,
+      "officialProductName": "XOANG VẠN XUÂN",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "24 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 10 Vỉ x 10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 787,
+        "name": "Thuốc trị viêm xoang",
+        "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+        "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_8527_5bbc_large_ee3fc6af70.JPG",
+          "alternativeText": "Thuốc Xoang Vạn Xuân giảm đau, chống viêm mũi dị ứng, viêm xoang (10 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_9116_5bbc_large_dbd6707438.JPG",
+          "alternativeText": "Thuốc Xoang Vạn Xuân giảm đau, chống viêm mũi dị ứng, viêm xoang (10 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_5918_5bbc_large_426031f098.JPG",
+          "alternativeText": "Thuốc Xoang Vạn Xuân giảm đau, chống viêm mũi dị ứng, viêm xoang (10 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_3961_5bbc_large_47bffba894.JPG",
+          "alternativeText": "Thuốc Xoang Vạn Xuân giảm đau, chống viêm mũi dị ứng, viêm xoang (10 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_3221_5bbc_large_de069a3c65.JPG",
+          "alternativeText": "Thuốc Xoang Vạn Xuân giảm đau, chống viêm mũi dị ứng, viêm xoang (10 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_1627379626_22de998bbd.jpg",
+          "alternativeText": "Thuốc Xoang Vạn Xuân giảm đau, chống viêm mũi dị ứng, viêm xoang (10 vỉ x 10 viên) 6"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc Mắt, Tai, Mũi, Họng",
+        "slug": "/thuoc/thuoc-mat-tai-mui-hong"
+      },
+      {
+        "name": "Thuốc trị viêm xoang",
+        "slug": "/thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang"
+      }
+    ],
+    "content": {
+      "sku": "00018059",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Thuốc dùng đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<ul>\n\t<li>\n\t<p>Người lớn: 4 viên/lần x 2 - 3 lần/ngày, đợt dùng 6 - 8 tuần.</p>\n\t</li>\n\t<li>\n\t<p>Trẻ em 3 - 5 tuổi: 1 viên/lần x 2 - 3 lần/ngày.</p>\n\t</li>\n\t<li>\n\t<p>Trẻ em 6 - 12 tuổi: 2 viên/lần x 2 - 3 lần/ngày.</p>\n\t</li>\n</ul>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Xoang Vạn Xuân 10x10.</p></body></html>",
+      "adverseEffect": "<p>Không thấy tác dụng phụ nào đáng kể.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR:</em></p>\n\n<p>Thông báo cho bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p>Bảo quản nơi khô mát, nhiệt độ dưới 30<sup>0</sup>C.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc Xoang Vạn Xuân 10X10  được chỉ định dùng trong các trường hợp sau:</p>\n\n<p><em>Ðiều trị giảm đau, chống viêm trong các bệnh:</em></p>\n\n<ul>\n\t<li><strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">Viêm mũi dị ứng</a></strong>.</li>\n\t<li>Viêm xoang cấp và mãn.</li>\n\t<li><strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-hong-468.html\">Viêm họng</a></strong>.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Thuốc có tác dụng bổ khí, trừu phong, thấp hàn ở phế và mũi họng. Ngoài ra còn có tác dụng giảm đau, chống viêm.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định</h3>\n\n<p>Thuốc Xoang Vạn Xuân 10X10 chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Dị ứng với các thành phần trong bài thuốc;</p>\n\t</li>\n\t<li>\n\t<p>Phụ nữ có thai;</p>\n\t</li>\n\t<li>\n\t<p>Trẻ em &lt; 30 tháng tuổi;</p>\n\t</li>\n\t<li>\n\t<p>Trẻ em có tiền sử động kinh hoặc co giật do sốt cao.</p>\n\t</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Người bị bệnh tim mạch.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Thời kỳ mang thai </h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Thời kỳ cho con bú</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Xoang Vạn Xuân (Hộp 100 viên) | Trị viêm xoang, viêm mũi dị ứng",
+        "metaDescription": "Thuốc Xoang Vạn Xuân với thành phần chính như thương nhĩ tử, phòng phong, bạch truật,... điều trị viêm mũi dị ứng, viêm xoang cấp và mãn, viêm họng.",
+        "id": 7015,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_8527_5bbc_large_ee3fc6af70.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc Xoang Vạn Xuân giảm đau, chống viêm mũi dị ứng, viêm xoang (10 vỉ x 10 viên)",
+            "description": "Xoang Vạn Xuân 10X10 của Công ty TNHH Vạn Xuân, thành phần chính cao khô từ dịch chiết toàn phần của thương nhĩ tử, phòng phong, bạch truật, hoàng kỳ, tân di hoa, bột khô của bạch chỉ, bạc hà, là thuốc dùng để điều trị viêm mũi dị ứng, viêm xoang cấp và mãn, viêm họng."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 373,
+        "title": "Dược lực học là gì?",
+        "content": "<p>\r\n\r\nDược lực học l&agrave; nghi&ecirc;n cứu c&aacute;c ảnh hưởng sinh h&oacute;a, sinh l&yacute;, v&agrave; ph&acirc;n tử của thuốc tr&ecirc;n cơ thể v&agrave; li&ecirc;n quan đến thụ thể li&ecirc;n kết, hiệu ứng sau thụ thể, v&agrave; tương t&aacute;c h&oacute;a học. Dược lực học, với dược động học, gi&uacute;p giải th&iacute;ch mối quan hệ giữa liều v&agrave; đ&aacute;p ứng, tức l&agrave; c&aacute;c t&aacute;c dụng của thuốc. Đ&aacute;p ứng dược l&yacute; phụ thuộc v&agrave;o sự li&ecirc;n kết của thuốc với đ&iacute;ch t&aacute;c dụng. Nồng độ thuốc ở vị tr&iacute; thụ thể ảnh hưởng đến t&aacute;c dụng của thuốc.</p>"
+      },
+      {
+        "id": 372,
+        "title": "Dược động học là gì?",
+        "content": "<p>\r\n\r\nDược động học l&agrave; những t&aacute;c động của cơ thể đối với thuốc trong suốt qu&aacute; tr&igrave;nh thuốc đi v&agrave;o, ở trong v&agrave; đi ra khỏi cơ thể- bao gồm c&aacute;c qu&aacute; tr&igrave;nh hấp thụ, sinh khả dụng, ph&acirc;n bố, chuyển h&oacute;a, v&agrave; thải trừ.</p>"
+      },
+      {
+        "id": 371,
+        "title": "Tác dụng phụ của thuốc là gì? Cách phòng tránh tác dụng phụ của thuốc",
+        "content": "<p>\r\n\r\nT&aacute;c dụng phụ l&agrave; những triệu chứng kh&ocirc;ng mong muốn xảy ra khi ch&uacute;ng ta uống thuốc. C&aacute;c t&aacute;c dụng phụ n&agrave;y c&oacute; thể kh&ocirc;ng nghi&ecirc;m trọng, chẳng hạn chỉ g&acirc;y <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><strong>đau đầu</strong></a> hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mieng-312.html\"><strong>kh&ocirc; miệng</strong></a>. Nhưng cũng c&oacute; những t&aacute;c dụng phụ đe dọa t&iacute;nh mạng. Cẩn ph&ograve;ng tr&aacute;nh t&aacute;c dụng phụ của <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> như: Th&ocirc;ng b&aacute;o c&aacute;c loại thuốc đang sử dụng với b&aacute;c sĩ, c&aacute;c <strong><a href=\"https://nhathuoclongchau.com.vn/benh\">bệnh</a></strong> l&yacute; nền hiện tại, c&aacute;c tương t&aacute;c của thuốc đến thực phẩm hằng ng&agrave;y. Đọc kỹ hướng dẫn sử dụng thuốc v&agrave; nếu gặp t&aacute;c dụng phụ cần b&aacute;o ngay cho b&aacute;c sĩ.</p>"
+      },
+      {
+        "id": 370,
+        "title": "Sử dụng thuốc đúng cách như thế nào?",
+        "content": "<p>\r\n\r\nSử dụng <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> đ&uacute;ng c&aacute;ch l&agrave; uống thuốc theo chỉ dẫn của dược sĩ, b&aacute;c sĩ. Ngo&agrave;i ra kh&ocirc;ng d&ugrave;ng nước quả, nước kho&aacute;ng hoặc c&aacute;c loại nước ngọt đ&oacute;ng hộp c&oacute; gas để uống thuốc. Kh&ocirc;ng d&ugrave;ng sữa để uống thuốc v&igrave; trong th&agrave;nh phần của sữa c&oacute; chứa <strong><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/canxi\">canxi</a></strong>. Kh&ocirc;ng d&ugrave;ng c&agrave; ph&ecirc; hay nước ch&egrave; để uống thuốc. Chỉ n&ecirc;n uống c&ugrave;ng nước lọc.</p>"
+      },
+      {
+        "id": 369,
+        "title": "Các dạng bào chế của thuốc?",
+        "content": "<p>\r\n\r\nC&oacute; c&aacute;c dạng b&agrave;o chế thuốc như<br />\r\nTheo thể chất:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc thể rắn (thuốc bột, thuốc vi&ecirc;n).</li>\r\n\t<li>C&aacute;c dạng thuốc thể mềm (thuốc cao, thuốc mỡ, gel).</li>\r\n\t<li>C&aacute;c dạng thuốc thể lỏng (dung dịch, hỗn dịch, nhũ dịch, xiro).</li>\r\n</ul>\r\n\r\n<p>Theo đường d&ugrave;ng:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc uống (vi&ecirc;n, bột, dung dịch, nhũ dịch, hỗn dịch).</li>\r\n\t<li>C&aacute;c dạng thuốc ti&ecirc;m (dung dịch, hỗn dịch, nhũ dịch, bột pha ti&ecirc;m, dịch truyền).</li>\r\n\t<li>C&aacute;c dạng thuốc d&ugrave;ng ngo&agrave;i (thuốc b&ocirc;i tr&ecirc;n da, thuốc nhỏ l&ecirc;n ni&ecirc;m mạc, thuốc s&uacute;c miệng).</li>\r\n\t<li>C&aacute;c dạng thuốc đặt v&agrave;o c&aacute;c hốc tự nhi&ecirc;n tr&ecirc;n cơ thể (thuốc đặt hậu m&ocirc;n, thuốc trứng đặt &acirc;m đạo...).</li>\r\n</ul>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00047549",
+        "name": "THUỐC VIÊM XOANG CAP ABIPHA 3X10",
+        "webName": "Thuốc viêm xoang Abipha Cap điều trị viêm xoang, nghẹt mũi, sổ mũi, viêm mũi dị ứng (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_viem_xoang_cap_abipha_3x10_00047549_4233dd3c24.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 787,
+            "name": "Thuốc trị viêm xoang",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 74403,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 3500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/viem-xoang-cap-abipha-3-x10.html",
+        "ingredients": "Bạch chỉ 225mg, Thương nhĩ tử 300mg, Phòng phong 225mg, Hoàng kỳ 375mg, Tân di hoa 225mg, Bạc hà 75mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Abipha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 74401,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 105000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 74402,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 35000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 74403,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 3500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007313",
+        "name": "THÔNG XOANG TÁN NAM DƯỢC 50V",
+        "webName": "Thuốc Thông Xoang Tán Nam Dược điều trị viêm xoang mãn tính (50 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6737_7094894b19.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 787,
+            "name": "Thuốc trị viêm xoang",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tri-viem-xoang",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10676,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 125000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thong-xoang-tan-ho-tro-dieu-tri-viem-xoang-252.html",
+        "ingredients": "Thăng ma 200mg, Phòng phong 200mg, Cảo bản 200mg, Xuyên khung 100mg, Bạch chỉ 300mg, Tế tân 200mg, Tân di 200mg, Cam thảo 100mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Nam Dược",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 50 Viên",
+        "prices": [
+          {
+            "id": 10675,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 2500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10676,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 125000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 41,
+      "items": [
+        {
+          "id": 3297908,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0338xxxxxx",
+          "name": "Anh Tiến",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tôi muốn mua Xoang Vạn Xuân, cho hỏi ở TPHCM, khu vực Phú Nhuận - Tân Bình có thể đến cửa hàng nào có để mua trực tiếp vậy ạ?",
+          "createdAt": "2026-04-28 11:40:26",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-28 11:40:26",
+          "replies": [
+            {
+              "id": 3297914,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thu Hà",
+                "moderatorEmail": "hantt135@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thu Hà",
+              "email": "hantt135@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Tiến,</p><p>Dạ sản phẩm Thuốc Xoang Vạn Xuân giảm đau, chống viêm mũi dị ứng, viêm xoang (10 vỉ x 10 viên) còn hàng ở khu vực &nbsp;Phú Nhuận - Tân Bình TPHCM ạ</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-04-28 11:53:32",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-28 11:40:26",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3288593,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0917xxxxxx",
+          "name": "Loan",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Đi khám bệnh ở cơ sở YTê,ở đây chỉ định uống sáng 1v,chiều 1v.Vâyp được không?",
+          "createdAt": "2026-04-10 18:29:58",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-10 18:29:58",
+          "replies": [
+            {
+              "id": 3288654,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Phương Thảo",
+                "moderatorEmail": "thaoltp50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Phương Thảo",
+              "email": "thaoltp50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Loan, </p><p>Em gửi liều dùng theo khuyến cáo của sản phẩm ạ</p><p>Người lớn: 4 viên/lần x 2 - 3 lần/ngày, đợt dùng 6 - 8 tuần.</p><p>Trẻ em 3 - 5 tuổi: 1 viên/lần x 2 - 3 lần/ngày.</p><p>Trẻ em 6 - 12 tuổi: 2 viên/lần x 2 - 3 lần/ngày.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>",
+              "createdAt": "2026-04-10 19:48:21",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-10 18:29:58",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3215155,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0978xxxxxx",
+          "name": "Vũ Thị Thơ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tại nhà thốc Long Châu Ea Súp tỉnh Đắk Lắk có thuốc xoang Vạn Xuân không tôi muốn mua",
+          "createdAt": "2025-11-18 13:57:11",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-18 13:57:11",
+          "replies": [
+            {
+              "id": 3215156,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Phương Lan",
+                "moderatorEmail": "lannp9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Phương Lan",
+              "email": "lannp9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Vũ Thị Thơ,</p><p> Dạ sản phẩm còn hàng ở khu vực tỉnh Đắk Lắk.</p><p> Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p>",
+              "createdAt": "2025-11-18 13:59:32",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-18 13:57:11",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3197474,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0927xxxxxx",
+          "name": "anh nhân",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "hiện tại còn hàng k ạ , muốn mua 2 hộp . và xin giá .",
+          "createdAt": "2025-10-17 06:06:22",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-17 06:06:09",
+          "replies": [
+            {
+              "id": 3197502,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Mạnh Hà",
+                "moderatorEmail": "hahm5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Mạnh Hà",
+              "email": "hahm5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Nhân,</p><p> Hiện tại, sản phẩm có giá 85,000 ₫, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2025-10-17 08:16:23",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-17 06:06:09",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3159973,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0982xxxxxx",
+          "name": "HÙNG",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tôi muốn đặt 1 hộp, cho hỏi nhà thuốc Long Châu 21 Nguyễn Phúc Chu, phường Trảng Dài, Biên Hòa, Đồng Nai còn hàng không ạ",
+          "createdAt": "2025-08-10 09:38:30",
+          "createdAtDisplay": "10/08/2025",
+          "updatedAt": "2025-08-10 09:38:28",
+          "replies": [
+            {
+              "id": 3159974,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mạc Thị Tuyết Anh",
+                "moderatorEmail": "anhmtt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mạc Thị Tuyết Anh",
+              "email": "anhmtt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Hùng,</p><p>Dạ sản phẩm còn hàng trên hệ thống.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-08-10 09:39:06",
+              "createdAtDisplay": "10/08/2025",
+              "updatedAt": "2025-08-10 09:38:28",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 5,
+      "items": [
+        {
+          "id": 3349679,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0359xxxxxx",
+          "name": "Dinh tan quan",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá bao nhiêu tiền 1hop",
+          "createdAt": "2026-07-31 18:45:39",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-31 18:45:39",
+          "replies": [
+            {
+              "id": 3349680,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Tuyết Nhi",
+                "moderatorEmail": "nhiltt17@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Tuyết Nhi",
+              "email": "nhiltt17@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Quan</p><p>Hiện tại, sản phẩm Xoang Vạn Xuân có giá 85,000 ₫/ hộp</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-07-31 18:47:57",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-31 18:45:39",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3349677,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0359xxxxxx",
+          "name": "Dinh tan quan",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuoc nay o xa cai hoa khanh co ko",
+          "createdAt": "2026-07-31 18:41:15",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-31 18:41:16",
+          "replies": [
+            {
+              "id": 3349678,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Tuyết Nhi",
+                "moderatorEmail": "nhiltt17@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Tuyết Nhi",
+              "email": "nhiltt17@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào quý khách,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với quý khách qua số điện thoại đã cung cấp để hỗ trợ thêm ạ</p>",
+              "createdAt": "2026-07-31 18:42:46",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-31 18:41:16",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3211519,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0393xxxxxx",
+          "name": "Trần khắc thủy",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Còn hàng trên hệ thống không ạ mình muốn mua",
+          "createdAt": "2025-11-13 09:18:01",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-13 09:17:52",
+          "replies": [
+            {
+              "id": 3211522,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thanh Ngọc",
+                "moderatorEmail": "ngocht18@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Thanh Ngọc",
+              "email": "ngocht18@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Trần Khắc Thủy, </p><p> Dạ sản phẩm còn hàng trên hệ thống Nhà thuốc FPT Long Châu.</p><p> Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p>",
+              "createdAt": "2025-11-13 09:18:36",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-13 09:17:52",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3048156,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0902xxxxxx",
+          "name": "Đồng Văn Cường",
+          "email": "cuongdongvan78@gmail.com",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2025-02-15 16:10:06",
+          "createdAtDisplay": "15/02/2025",
+          "updatedAt": "2025-02-15 16:10:06",
+          "replies": [
+            {
+              "id": 3048157,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thanh  Tân",
+                "moderatorEmail": "tanht11@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Thanh  Tân",
+              "email": "tanht11@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Cường,</p><p>Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu. Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.</p><p>Thân mến!</p>",
+              "createdAt": "2025-02-15 16:14:20",
+              "createdAtDisplay": "15/02/2025",
+              "updatedAt": "2025-02-15 16:10:06",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 2470795,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0904xxxxxx",
+          "name": "anh tùng",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 hộp vậy",
+          "createdAt": "2024-10-19 15:55:01",
+          "createdAtDisplay": "19/10/2024",
+          "updatedAt": "2024-10-19 15:56:04",
+          "replies": [
+            {
+              "id": 2470805,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Quang Đạo",
+                "moderatorEmail": "DaoLQ3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Lê Quang Đạo",
+              "email": "DaoLQ3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào anh Tùng,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Dạ sản phẩm có giá 83,000 ₫/Hộp.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT anh  đã để lại ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Thân mến!</span></p>",
+              "createdAt": "2024-10-19 15:56:04",
+              "createdAtDisplay": "19/10/2024",
+              "updatedAt": "2024-10-19 15:56:04",
+              "replies": []
+            },
+            {
+              "id": 3332931,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0367xxxxxx",
+              "name": "Chị Liên",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "83k/1 hộp báo nhiêu viên bạn",
+              "createdAt": "2026-07-03 18:32:23",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2024-10-19 15:56:04",
+              "replies": []
+            },
+            {
+              "id": 3332932,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Quỳnh",
+                "moderatorEmail": "quynhnt49@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Quỳnh",
+              "email": "quynhnt49@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Liên,</p><p>Hiện tại, sản phẩm Thuốc Xoang Vạn Xuân hộp 100 viên ạ.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-07-03 18:33:19",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2024-10-19 15:56:04",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 5
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Xoang Vạn Xuân giảm đau, chống viêm mũi dị ứng, viêm xoang (10 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_8527_5bbc_large_ee3fc6af70.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_9116_5bbc_large_dbd6707438.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_5918_5bbc_large_426031f098.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_3961_5bbc_large_47bffba894.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_3221_5bbc_large_de069a3c65.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "Xoang Vạn Xuân 10X10 của Công ty TNHH Vạn Xuân, thành phần chính cao khô từ dịch chiết toàn phần của thương nhĩ tử, phòng phong, bạch truật, hoàng kỳ, tân di hoa, bột khô của bạch chỉ, bạc hà, là thuốc dùng để điều trị viêm mũi dị ứng, viêm xoang cấp và mãn, viêm họng.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "5"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Xoang Vạn Xuân (Hộp 100 viên) | Trị viêm xoang, viêm mũi dị ứng",
+      "description": "Thuốc Xoang Vạn Xuân với thành phần chính như thương nhĩ tử, phòng phong, bạch truật,... điều trị viêm mũi dị ứng, viêm xoang cấp và mãn, viêm họng.",
+      "openGraph": {
+        "title": "Thuốc Xoang Vạn Xuân giảm đau, chống viêm mũi dị ứng, viêm xoang (10 vỉ x 10 viên)",
+        "description": "Xoang Vạn Xuân 10X10 của Công ty TNHH Vạn Xuân, thành phần chính cao khô từ dịch chiết toàn phần của thương nhĩ tử, phòng phong, bạch truật, hoàng kỳ, tân di hoa, bột khô của bạch chỉ, bạc hà, là thuốc dùng để điều trị viêm mũi dị ứng, viêm xoang cấp và mãn, viêm họng.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018059_xoang_van_xuan_10x10_8527_5bbc_large_ee3fc6af70.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/xoang-van-xuan-10x10-19392.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/xoang-van-xuan-10x10-19392.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

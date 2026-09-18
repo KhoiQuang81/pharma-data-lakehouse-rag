@@ -1,0 +1,2024 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/biviflu-brv-10x12-37381.html",
+  "ingestion_timestamp": "2026-09-05T08:55:40.152516+00:00",
+  "file_hash": "27d8bedec14c6b26f4bf156b598c98b8b90510bef6dde9de8958b30c452b07f1",
+  "lineage_hash": "823ab31db2e15d6323bff6a02fe51d19c6b5cabc4abcc73ec2f5219b73692d6a",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/biviflu-brv-10x12-37381.html",
+    "product": {
+      "sku": "00503078",
+      "webName": "Thuốc Biviflu BRV điều trị các triệu chứng cảm cúm (10 vỉ x 12 viên)",
+      "name": "BIVIFLU BRV 10X12",
+      "shortName": "BIVIFLU BRV 10X12",
+      "headingText": "Thuốc Biviflu",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_8141_63b6_large_60dc95e782.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_6604_63b6_large_e19f7f4cfc.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_3580_63b6_large_5a14f7a5fc.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_2335_63b6_large_935737fefc.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_5295_63b6_large_b0f0282a6d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_5736_63b6_large_4e9580f739.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_9335_63b6_large_132c238453.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_8891_63b6_large_da7dedd72b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_8555_63b6_large_3c5d78b2b4.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_1672903872_74036ff5cf.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 730,
+          "name": "Thuốc hô hấp",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-ho-hap",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 773,
+          "name": "Thuốc trị ho cảm",
+          "parentName": "Thuốc hô hấp",
+          "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 10 Vỉ x 12 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "10 Vỉ x 12 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "12 Viên"
+        }
+      ],
+      "slug": "thuoc/biviflu-brv-10x12-37381.html",
+      "ingredient": [
+        {
+          "id": 43912,
+          "ingredientId": 17338,
+          "shortDescription": "15mg",
+          "name": "Dextromethorphan hydrobromid",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 43913,
+          "ingredientId": 25879,
+          "shortDescription": "5mg",
+          "name": "Loratadin",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 43914,
+          "ingredientId": 31537,
+          "shortDescription": "500mg",
+          "name": "Paracetamol",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893110077700",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Thuốc dùng qua đường uống. Khoảng cách tối thiểu giữa các lần dùng thuốc là 8 giờ.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Người lớn và trẻ em từ 12 tuổi: Uống 1 viên, 2 lần một ngày.</p>\n\n<p>Không khuyến cáo dùng thuốc cho trẻ em dưới 12 tuổi.</p>\n\n<p>Trường hợp suy gan, <a href=\"https://nhathuoclongchau.com.vn/benh/suy-than-679.html\">suy thận</a>: Uống 1 viên một ngày hay uống cách ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/biviflu-brv-10x12-37381.html\">Thuốc Biviflu</a> chỉ định điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị các triệu chứng cảm cúm như: Sốt, ho, <a href=\"https://nhathuoclongchau.com.vn/benh/so-mui-1183.html\">sổ mũi</a>, ớn lạnh, đau đầu, đau nhức bắp thịt xương khớp kèm viêm mũi dị ứng.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Mã ATC: N02B E01, ROSD A09, R06A X13. Nhóm thuốc: Thuốc giảm đau kết hợp thuốc họ, chống dị ứng.</p>\n\n<p>Biviflu là sự kết hợp của một thuốc giảm đau, hạ sốt paracetamol với một thuốc kháng histamin thế hệ mới loratadin cùng với một chất chống họ không gây nghiện là dextromethorphan có tác dụng như<br />\nsau:</p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/acetaminophen\">Paracetamol </a>(acetaminophen): Là chất chuyển hóa có hoạt tính của phenacetin, là thuốc giảm đau và hạ sốt hữu hiệu có thể thay thế aspirin nhưng tính kháng viêm kém hơn. Thuốc tác dụng lên vùng dưới<br />\nđổi gây hạ nhiệt, tỏa nhiệt tăng do giãn mạch và tăng lưu lượng máu ngoại biên. Paracetamol thường được dung nạp tốt, không có nhiều tác dụng phụ của aspirin.</p>\n\n<p>Loratadin: Là một thuốc kháng histamin 3 vòng có tác dụng kéo dài với hoạt tính đối kháng chọn lọc trên thụ thể H1 ở ngoại biên và không có tác dụng làm dịu trên thần kinh trung ương. Thuốc có tác dụng làm giảm bớt triệu chứng của viêm mũi và viêm kết mạc dị ứng do phóng thích histamin. Loratadin còn có tác dụng chống ngứa và nổi mày đay liên quan đến histamin. Thuốc bắt đầu có tác dụng kháng histamin<br />\ntrong vòng 1 - 4 giờ, đạt tối đa sau 8 - 12 giờ và kéo dài hơn 24 giờ và không gây tác dụng phụ an thần.</p>\n\n<p>Dextromethorphan hydrobromid là chất giảm họ có tác dụng lên trung tâm ho ở hành não. Mặc dù cấu trúc hoá học có liên quan đến morphin, nhưng dextromethorphan không có tác dụng giảm đau và nói chung rất ít tác dụng an thần. Dextromethorphan được dùng giảm họ nhất thời do kích thích nhẹ ở phế quản và họng như cảm lạnh thông thường hoặc hít phải các chất kích thích.</p>\n\n<p>Dextromethorphan có hiệu quả nhất trong điều trị ho mạn tính, không có đờm. Thuốc không có tác dụng long đờm. Hiệu lực của dextromethorphan gần tương đương với hiệu lực của codein nhưng ít gây tác dụng phụ ở đường tiêu hoá hơn. Với liều điều trị, tác dụng chống ho của thuốc kéo dài được 5 – 6 giờ. Độc tính thấp, không gây nghiện, nhưng với liều rất cao có thể gây ức chế hệ thần kinh trung ương.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Paracetamol được hấp thu dễ dàng và gần như hoàn toàn qua đường tiêu hóa. Nồng độ đỉnh trong huyết tương đạt được trong vòng 10 – 60 phút sau khi uống. Thuốc được phân bố tương đối đồng đều ở hầu<br />\nkhắp các mô của cơ thể. Thuốc đi qua nhau thai và xuất hiện trong sữa mẹ. Sự gắn kết protein it ở liều điều trị nhưng tăng lên theo liều dùng.</p>\n\n<p>Thời gian bán thải thay đổi từ 1 - 3 giờ. Thuốc được chuyển hóa đa phần ở gan và đào thải qua nước tiểu chủ yếu ở dạng liên hợp glycuronid và sulfat. Dưới 5% được đào thải dưới dạng paracetamol nguyên vẹn.</p>\n\n<p>Một lượng nhỏ chất chuyển hóa hydroxylat (N- acetyl benzoquinoneimin) được sản xuất bởi các cytochrom P450 isoenzym (chủ yếu là CYP 2E 1 và CYP 3E 4) ở gan và thận. Chất này thường được giải độc qua liên kết với gluthation nhưng có thể tích lũy sau khi dùng quá liều và gây tổn thương mô.</p>\n\n<p>Loratadin được hấp thu nhanh qua đường uống. Nồng độ đỉnh trong huyết tương trung bình của loratadin và chất chuyển hóa descarboethoxy loratadin (có hoạt tính) lần lượt là 1,5 và 3,7 giờ. Thuốc liên kết với protein 97%. Thời gian bán thải của loratadin là 17 giờ và của descarboethoxy loratadin là 19 giờ. Thời gian bán thải của thuốc biến đổi nhiều giữa các cá thể, không bị ảnh hưởng bởi urê máu, tăng lên ở người cao tuổi và người xơ gan.</p>\n\n<p>Độ thanh thải của thuốc là 57 – 142 ml/phút/kg và không bị ảnh hưởng bởi urê máu nhưng giảm ở người bệnh xơ gan. Thể tích phân bố là 80 - 120 lít/kg. Loratadin chuyển hóa nhiều khi qua gan lần đầu bởi hệ enzym microsom cytochrom P450; Chất chuyển hóa chủ yếu là descarboethoxy loratadin có hoạt tính. Khoảng 80% tổng liều dùng được bài tiết qua nước tiểu và phân với lượng gần ngang nhau dưới dạng chất chuyển hóa trong vòng 10 ngày.</p>\n\n<p>Dextromethorphan được hấp thu nhanh qua đường tiêu hóa và có tác dụng trong vòng 15 – 30 phút sau khi uống, kéo dài khoảng 6 - 8 giờ. Thuốc được chuyển hóa ở gan và bài tiết qua nước tiểu dưới dạng không đổi và các chất chuyển hóa demethyl, trong số đó có dextrophan cũng có hoạt tính nhẹ.</p>",
+      "brand": "Brv",
+      "brandType": null,
+      "adverseEffect": "<p>Các tác dụng phụ của thuốc do từng hoạt chất sắp xếp theo phân loại và tần suất được liệt kê trong bảng sau:</p>\n\n<p><strong>Do Paracetamol</strong></p>\n\n<p>Hệ miễn dịch: </p>\n\n<ul>\n\t<li>Hiếm gặp: <a href=\"https://nhathuoclongchau.com.vn/benh/soc-phan-ve-108.html\">Sốc phản vệ</a>, phản ứng quá mẫn ở da bao gồm phát ban, phù mạch và hội chứng Stevens Johnson, hội chứng hoại tử da nhiễm độc hội chứng ngoại ban mụn mù toàn thân cấp.</li>\n</ul>\n\n<p>Máu và hệ bạch huyết:</p>\n\n<ul>\n\t<li>Ít gặp: Loạn tạo máu (giảm bạch cầu trung tính, giảm toàn thể huyết cầu, giảm bạch cầu), <a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-267.html\">thiếu máu</a>.</li>\n</ul>\n\n<p>Đường tiêu hóa:</p>\n\n<ul>\n\t<li>Ít gặp: Buồn nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/non-873.html\">nôn</a>.</li>\n</ul>\n\n<p>Da và mô dưới da:</p>\n\n<ul>\n\t<li>Ít gặp: Ban da.</li>\n</ul>\n\n<p>Thận và đường tiết niệu: </p>\n\n<ul>\n\t<li>Ít gặp: Bệnh thận, độc tính thận khi dùng dài ngày.</li>\n</ul>\n\n<p><strong>Do Laratadin</strong></p>\n\n<p>Hệ miễn dịch:</p>\n\n<ul>\n\t<li>Hiếm gặp: Phản ứng phản vệ (bao gồm phù mạch và choáng phản vệ).</li>\n</ul>\n\n<p>Hệ thần kinh:</p>\n\n<ul>\n\t<li>Thường gặp: Đau đầu.</li>\n\t<li>Ít gặp: Chóng mặt.</li>\n\t<li>Hiếm gặp: <a href=\"https://nhathuoclongchau.com.vn/benh/tram-cam-79.html\">Trầm cảm</a>.</li>\n</ul>\n\n<p>Mắt:</p>\n\n<ul>\n\t<li>Ít gặp: Viêm kết mạc.</li>\n</ul>\n\n<p>Tim:</p>\n\n<ul>\n\t<li>Hiếm gặp: Tim đập nhanh, loạn nhịp nhanh trên thất, đánh trống ngực.</li>\n</ul>\n\n<p>Hô hấp, vùng ngực, trung thất:</p>\n\n<ul>\n\t<li>Ít gặp: Khô mũi và hắt hơi.</li>\n</ul>\n\n<p>Đường tiêu hóa:</p>\n\n<ul>\n\t<li>Thường gặp: <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mieng-312.html\">Khô miệng</a>.</li>\n\t<li>Hiếm gặp: Buồn nôn.</li>\n</ul>\n\n<p>Gan - mật:</p>\n\n<ul>\n\t<li>Hiếm gặp: Bất thường chức năng gan.</li>\n</ul>\n\n<p>Da và mô dưới da:</p>\n\n<ul>\n\t<li>Hiếm gặp: Ngoại ban, nổi mày đay.</li>\n</ul>\n\n<p>Hệ sinh sản và vú:</p>\n\n<ul>\n\t<li>Hiếm gặp: Kinh nguyệt không đều.</li>\n</ul>\n\n<p>Tổng quát:</p>\n\n<ul>\n\t<li>Thường gặp: Mệt mỏi.</li>\n</ul>\n\n<p><strong>Do Dextromethorphan</strong></p>\n\n<p>Tim mạch:</p>\n\n<ul>\n\t<li>Thường gặp: Nhịp tim nhanh.</li>\n</ul>\n\n<p>Hô hấp, vùng ngực trung thất:</p>\n\n<ul>\n\t<li>Hiếp gặp: Suy hô hấp (khi dùng liều quá cao).</li>\n</ul>\n\n<p>Thần kinh:</p>\n\n<ul>\n\t<li>Hiếm gặp: Ức chế thần kinh trung ương (khi dùng liều quá cao).</li>\n</ul>\n\n<p>Đường tiêu hóa:</p>\n\n<ul>\n\t<li>Thường gặp: Buồn nôn.</li>\n\t<li>Hiếp gặp: Rối loạn tiêu hóa.</li>\n</ul>\n\n<p>Da và mô dưới da:</p>\n\n<ul>\n\t<li>Thường gặp: Đỏ bừng.</li>\n\t<li>Ít gặp: <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">Nổi mày đay</a>.</li>\n\t<li>Hiếm gặp: Ngoại ban.</li>\n</ul>\n\n<p>Tổng quát:</p>\n\n<ul>\n\t<li>Thường gặp: Mệt mỏi, chóng mặt.</li>\n</ul>",
+      "specification": "Hộp 10 Vỉ x 12 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "CÔNG TY TNHH BRV HEALTHCARE",
+      "shortDescription": "<p>Thuốc&nbsp;Biviflu là sản phẩm của Công ty TNHH BRV Healthcare có thành phần chính là paracetamol, loratadin và&nbsp;dextromethorphan hdrobromid có tác dụng điều trị các triệu chứng cảm cúm như: Sốt, ho, sổ mũi, ớn lạnh, đau đầu, đau nhức bắp thịt xương khớp kèm viêm mũi dị ứng.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Từ 12 tuổi trở lên",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ cho con bú",
+        "Lái tàu xe",
+        "Phụ nữ có thai"
+      ],
+      "specialFeatures": [],
+      "displayCode": 3,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/brv",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "BIVIFLU",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "48 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "12 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 773,
+        "name": "Thuốc trị ho cảm",
+        "parentName": "Thuốc hô hấp",
+        "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_8141_63b6_large_60dc95e782.jpg",
+          "alternativeText": "Thuốc Biviflu BRV điều trị các triệu chứng cảm cúm (10 vỉ x 12 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_6604_63b6_large_e19f7f4cfc.jpg",
+          "alternativeText": "Thuốc Biviflu BRV điều trị các triệu chứng cảm cúm (10 vỉ x 12 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_3580_63b6_large_5a14f7a5fc.jpg",
+          "alternativeText": "Thuốc Biviflu BRV điều trị các triệu chứng cảm cúm (10 vỉ x 12 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_2335_63b6_large_935737fefc.jpg",
+          "alternativeText": "Thuốc Biviflu BRV điều trị các triệu chứng cảm cúm (10 vỉ x 12 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_5295_63b6_large_b0f0282a6d.jpg",
+          "alternativeText": "Thuốc Biviflu BRV điều trị các triệu chứng cảm cúm (10 vỉ x 12 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_5736_63b6_large_4e9580f739.jpg",
+          "alternativeText": "Thuốc Biviflu BRV điều trị các triệu chứng cảm cúm (10 vỉ x 12 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_9335_63b6_large_132c238453.jpg",
+          "alternativeText": "Thuốc Biviflu BRV điều trị các triệu chứng cảm cúm (10 vỉ x 12 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_8891_63b6_large_da7dedd72b.jpg",
+          "alternativeText": "Thuốc Biviflu BRV điều trị các triệu chứng cảm cúm (10 vỉ x 12 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_8555_63b6_large_3c5d78b2b4.jpg",
+          "alternativeText": "Thuốc Biviflu BRV điều trị các triệu chứng cảm cúm (10 vỉ x 12 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_1672903872_74036ff5cf.jpg",
+          "alternativeText": "Thuốc Biviflu BRV điều trị các triệu chứng cảm cúm (10 vỉ x 12 viên) 10"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc hô hấp",
+        "slug": "/thuoc/thuoc-ho-hap"
+      },
+      {
+        "name": "Thuốc trị ho cảm",
+        "slug": "/thuoc/thuoc-ho-hap/thuoc-tri-ho-cam"
+      }
+    ],
+    "content": {
+      "sku": "00503078",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Thuốc dùng qua đường uống. Khoảng cách tối thiểu giữa các lần dùng thuốc là 8 giờ.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Người lớn và trẻ em từ 12 tuổi: Uống 1 viên, 2 lần một ngày.</p>\n\n<p>Không khuyến cáo dùng thuốc cho trẻ em dưới 12 tuổi.</p>\n\n<p>Trường hợp suy gan, <a href=\"https://nhathuoclongchau.com.vn/benh/suy-than-679.html\">suy thận</a>: Uống 1 viên một ngày hay uống cách ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<html><body><p>Tham khảo thông tin tờ hướng dẫn sử dụng thuốc.</p></body></html>",
+      "adverseEffect": "<p>Các tác dụng phụ của thuốc do từng hoạt chất sắp xếp theo phân loại và tần suất được liệt kê trong bảng sau:</p>\n\n<p><strong>Do Paracetamol</strong></p>\n\n<p>Hệ miễn dịch: </p>\n\n<ul>\n\t<li>Hiếm gặp: <a href=\"https://nhathuoclongchau.com.vn/benh/soc-phan-ve-108.html\">Sốc phản vệ</a>, phản ứng quá mẫn ở da bao gồm phát ban, phù mạch và hội chứng Stevens Johnson, hội chứng hoại tử da nhiễm độc hội chứng ngoại ban mụn mù toàn thân cấp.</li>\n</ul>\n\n<p>Máu và hệ bạch huyết:</p>\n\n<ul>\n\t<li>Ít gặp: Loạn tạo máu (giảm bạch cầu trung tính, giảm toàn thể huyết cầu, giảm bạch cầu), <a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-267.html\">thiếu máu</a>.</li>\n</ul>\n\n<p>Đường tiêu hóa:</p>\n\n<ul>\n\t<li>Ít gặp: Buồn nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/non-873.html\">nôn</a>.</li>\n</ul>\n\n<p>Da và mô dưới da:</p>\n\n<ul>\n\t<li>Ít gặp: Ban da.</li>\n</ul>\n\n<p>Thận và đường tiết niệu: </p>\n\n<ul>\n\t<li>Ít gặp: Bệnh thận, độc tính thận khi dùng dài ngày.</li>\n</ul>\n\n<p><strong>Do Laratadin</strong></p>\n\n<p>Hệ miễn dịch:</p>\n\n<ul>\n\t<li>Hiếm gặp: Phản ứng phản vệ (bao gồm phù mạch và choáng phản vệ).</li>\n</ul>\n\n<p>Hệ thần kinh:</p>\n\n<ul>\n\t<li>Thường gặp: Đau đầu.</li>\n\t<li>Ít gặp: Chóng mặt.</li>\n\t<li>Hiếm gặp: <a href=\"https://nhathuoclongchau.com.vn/benh/tram-cam-79.html\">Trầm cảm</a>.</li>\n</ul>\n\n<p>Mắt:</p>\n\n<ul>\n\t<li>Ít gặp: Viêm kết mạc.</li>\n</ul>\n\n<p>Tim:</p>\n\n<ul>\n\t<li>Hiếm gặp: Tim đập nhanh, loạn nhịp nhanh trên thất, đánh trống ngực.</li>\n</ul>\n\n<p>Hô hấp, vùng ngực, trung thất:</p>\n\n<ul>\n\t<li>Ít gặp: Khô mũi và hắt hơi.</li>\n</ul>\n\n<p>Đường tiêu hóa:</p>\n\n<ul>\n\t<li>Thường gặp: <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mieng-312.html\">Khô miệng</a>.</li>\n\t<li>Hiếm gặp: Buồn nôn.</li>\n</ul>\n\n<p>Gan - mật:</p>\n\n<ul>\n\t<li>Hiếm gặp: Bất thường chức năng gan.</li>\n</ul>\n\n<p>Da và mô dưới da:</p>\n\n<ul>\n\t<li>Hiếm gặp: Ngoại ban, nổi mày đay.</li>\n</ul>\n\n<p>Hệ sinh sản và vú:</p>\n\n<ul>\n\t<li>Hiếm gặp: Kinh nguyệt không đều.</li>\n</ul>\n\n<p>Tổng quát:</p>\n\n<ul>\n\t<li>Thường gặp: Mệt mỏi.</li>\n</ul>\n\n<p><strong>Do Dextromethorphan</strong></p>\n\n<p>Tim mạch:</p>\n\n<ul>\n\t<li>Thường gặp: Nhịp tim nhanh.</li>\n</ul>\n\n<p>Hô hấp, vùng ngực trung thất:</p>\n\n<ul>\n\t<li>Hiếp gặp: Suy hô hấp (khi dùng liều quá cao).</li>\n</ul>\n\n<p>Thần kinh:</p>\n\n<ul>\n\t<li>Hiếm gặp: Ức chế thần kinh trung ương (khi dùng liều quá cao).</li>\n</ul>\n\n<p>Đường tiêu hóa:</p>\n\n<ul>\n\t<li>Thường gặp: Buồn nôn.</li>\n\t<li>Hiếp gặp: Rối loạn tiêu hóa.</li>\n</ul>\n\n<p>Da và mô dưới da:</p>\n\n<ul>\n\t<li>Thường gặp: Đỏ bừng.</li>\n\t<li>Ít gặp: <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">Nổi mày đay</a>.</li>\n\t<li>Hiếm gặp: Ngoại ban.</li>\n</ul>\n\n<p>Tổng quát:</p>\n\n<ul>\n\t<li>Thường gặp: Mệt mỏi, chóng mặt.</li>\n</ul>",
+      "preservation": "<p>Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/biviflu-brv-10x12-37381.html\">Thuốc Biviflu</a> chỉ định điều trị trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Điều trị các triệu chứng cảm cúm như: Sốt, ho, <a href=\"https://nhathuoclongchau.com.vn/benh/so-mui-1183.html\">sổ mũi</a>, ớn lạnh, đau đầu, đau nhức bắp thịt xương khớp kèm viêm mũi dị ứng.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Mã ATC: N02B E01, ROSD A09, R06A X13. Nhóm thuốc: Thuốc giảm đau kết hợp thuốc họ, chống dị ứng.</p>\n\n<p>Biviflu là sự kết hợp của một thuốc giảm đau, hạ sốt paracetamol với một thuốc kháng histamin thế hệ mới loratadin cùng với một chất chống họ không gây nghiện là dextromethorphan có tác dụng như<br />\nsau:</p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/acetaminophen\">Paracetamol </a>(acetaminophen): Là chất chuyển hóa có hoạt tính của phenacetin, là thuốc giảm đau và hạ sốt hữu hiệu có thể thay thế aspirin nhưng tính kháng viêm kém hơn. Thuốc tác dụng lên vùng dưới<br />\nđổi gây hạ nhiệt, tỏa nhiệt tăng do giãn mạch và tăng lưu lượng máu ngoại biên. Paracetamol thường được dung nạp tốt, không có nhiều tác dụng phụ của aspirin.</p>\n\n<p>Loratadin: Là một thuốc kháng histamin 3 vòng có tác dụng kéo dài với hoạt tính đối kháng chọn lọc trên thụ thể H1 ở ngoại biên và không có tác dụng làm dịu trên thần kinh trung ương. Thuốc có tác dụng làm giảm bớt triệu chứng của viêm mũi và viêm kết mạc dị ứng do phóng thích histamin. Loratadin còn có tác dụng chống ngứa và nổi mày đay liên quan đến histamin. Thuốc bắt đầu có tác dụng kháng histamin<br />\ntrong vòng 1 - 4 giờ, đạt tối đa sau 8 - 12 giờ và kéo dài hơn 24 giờ và không gây tác dụng phụ an thần.</p>\n\n<p>Dextromethorphan hydrobromid là chất giảm họ có tác dụng lên trung tâm ho ở hành não. Mặc dù cấu trúc hoá học có liên quan đến morphin, nhưng dextromethorphan không có tác dụng giảm đau và nói chung rất ít tác dụng an thần. Dextromethorphan được dùng giảm họ nhất thời do kích thích nhẹ ở phế quản và họng như cảm lạnh thông thường hoặc hít phải các chất kích thích.</p>\n\n<p>Dextromethorphan có hiệu quả nhất trong điều trị ho mạn tính, không có đờm. Thuốc không có tác dụng long đờm. Hiệu lực của dextromethorphan gần tương đương với hiệu lực của codein nhưng ít gây tác dụng phụ ở đường tiêu hoá hơn. Với liều điều trị, tác dụng chống ho của thuốc kéo dài được 5 – 6 giờ. Độc tính thấp, không gây nghiện, nhưng với liều rất cao có thể gây ức chế hệ thần kinh trung ương.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p>Paracetamol được hấp thu dễ dàng và gần như hoàn toàn qua đường tiêu hóa. Nồng độ đỉnh trong huyết tương đạt được trong vòng 10 – 60 phút sau khi uống. Thuốc được phân bố tương đối đồng đều ở hầu<br />\nkhắp các mô của cơ thể. Thuốc đi qua nhau thai và xuất hiện trong sữa mẹ. Sự gắn kết protein it ở liều điều trị nhưng tăng lên theo liều dùng.</p>\n\n<p>Thời gian bán thải thay đổi từ 1 - 3 giờ. Thuốc được chuyển hóa đa phần ở gan và đào thải qua nước tiểu chủ yếu ở dạng liên hợp glycuronid và sulfat. Dưới 5% được đào thải dưới dạng paracetamol nguyên vẹn.</p>\n\n<p>Một lượng nhỏ chất chuyển hóa hydroxylat (N- acetyl benzoquinoneimin) được sản xuất bởi các cytochrom P450 isoenzym (chủ yếu là CYP 2E 1 và CYP 3E 4) ở gan và thận. Chất này thường được giải độc qua liên kết với gluthation nhưng có thể tích lũy sau khi dùng quá liều và gây tổn thương mô.</p>\n\n<p>Loratadin được hấp thu nhanh qua đường uống. Nồng độ đỉnh trong huyết tương trung bình của loratadin và chất chuyển hóa descarboethoxy loratadin (có hoạt tính) lần lượt là 1,5 và 3,7 giờ. Thuốc liên kết với protein 97%. Thời gian bán thải của loratadin là 17 giờ và của descarboethoxy loratadin là 19 giờ. Thời gian bán thải của thuốc biến đổi nhiều giữa các cá thể, không bị ảnh hưởng bởi urê máu, tăng lên ở người cao tuổi và người xơ gan.</p>\n\n<p>Độ thanh thải của thuốc là 57 – 142 ml/phút/kg và không bị ảnh hưởng bởi urê máu nhưng giảm ở người bệnh xơ gan. Thể tích phân bố là 80 - 120 lít/kg. Loratadin chuyển hóa nhiều khi qua gan lần đầu bởi hệ enzym microsom cytochrom P450; Chất chuyển hóa chủ yếu là descarboethoxy loratadin có hoạt tính. Khoảng 80% tổng liều dùng được bài tiết qua nước tiểu và phân với lượng gần ngang nhau dưới dạng chất chuyển hóa trong vòng 10 ngày.</p>\n\n<p>Dextromethorphan được hấp thu nhanh qua đường tiêu hóa và có tác dụng trong vòng 15 – 30 phút sau khi uống, kéo dài khoảng 6 - 8 giờ. Thuốc được chuyển hóa ở gan và bài tiết qua nước tiểu dưới dạng không đổi và các chất chuyển hóa demethyl, trong số đó có dextrophan cũng có hoạt tính nhẹ.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3><strong>Chống chỉ định</strong></h3>\n\n<p>Thuốc Biviflu chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Quá mẫn cảm với bất kỳ thành phần nào của thuốc.</li>\n\t<li>Rối loạn chức năng gan và thận nặng.</li>\n\t<li>Bệnh nhân thiếu enzym.</li>\n\t<li>Glucose-6-phosphat-dehydrogenase.</li>\n\t<li>Người bệnh đang dùng thuốc IMAO.</li>\n\t<li>Người có bệnh hen, suy hô hấp cấp, bệnh tim mạch nặng.</li>\n\t<li>Trẻ em dưới 12 tuổi (do có chứa dextromethorphan).</li>\n</ul>\n\n<h3><strong>Thận trọng khi sử dụng</strong></h3>\n\n<p><strong>Liên quan paracetamol</strong></p>\n\n<p>Paracetamol tương đối không độc với liều điều trị và khi dùng dưới sự hướng dẫn của thầy thuốc. Tuy nhiên dùng quá liều paracetamol là nguyên nhân chính gây suy gan cấp. Dùng nhiều chế phẩm chứa paracetamol đồng thời có thể dẫn đến hậu quả có hại (như quá liều paracetamol).</p>\n\n<p>Phản ứng da nghiêm trọng, có khả năng gây tử vong bao gồm hội chứng Stevens-Johnson (SJS), hoại tử biểu bì nhiễm độc (TEN), hội chứng ngoại ban mụn mủ toàn thân cấp tính (AGEP), hội chứng Lyell tuy hiếm nhưng đã xảy ra với paracetamol, thường không phụ thuộc vào tác dụng của các thuốc khác. Tuy nhiên các thuốc giảm đau và hạ sốt khác (như NSAID) có thể gây các phản ứng tương tự, mẫn cảm chéo với paracetamol không xảy ra. Người bệnh cần phải ngưng dùng paracetamol và đi khám thầy thuốc khi thấy phát ban hoặc các biểu hiện khác ở da hoặc các phản ứng mẫn cảm trong khi điều trị. Người bệnh có tiền sử có các phản ứng như vậy không nên dùng các chế phẩm chứa paracetamol.</p>\n\n<p>Đôi khi có những phản ứng da gồm ban dát sẩn ngứa và mày đay; nhưng phản ứng mẫn cảm khác gồm phù thanh quản, phù mạch và những phản ứng kiểu phản vệ có thể ít khi xảy ra.</p>\n\n<p>Giảm tiểu cầu, giảm bạch cầu và giảm toàn thể huyết cầu đã xảy ra với việc sử dụng những dẫn chất p-aminophenol, đặc biệt khi dùng kéo dài các liều lớn. Giảm bạch cầu trung tính và ban xuất huyết giảm tiểu cầu đã xảy ra khi dùng paracetamol. Hiếm gặp mất bạch cầu hạt ở người bệnh dùng paracetamol.</p>\n\n<p>Phải thận trọng khi dùng paracetamol cho người bị suy gan, suy thận, người nghiện rượu, suy dinh dưỡng mạn tính hoặc bị mất nước. Tránh dùng liều cao, dùng kéo dài cho người bị suy gan.</p>\n\n<p>Phải dùng thận trọng cho người bệnh có thiếu máu từ trước, vì chứng xanh tím có thể không biểu lộ rõ, mặc dù nồng độ cao ở mức nguy hiểm của methemoglobin trong máu.</p>\n\n<p>Uống nhiều rượu có thể gây tăng độc tính với gan của paracetamol, nên tránh hoặc hạn chế uống rượu trong thời gian dùng thuốc.</p>\n\n<p><strong>Liên quan loratadin</strong></p>\n\n<p>Đối với những bệnh nhân suy gan nặng nên dùng liều ban đầu thấp hơn do sự thanh thải loratadin bị giảm.</p>\n\n<p>Khi dùng loratadin có thể bị khô miệng, đặc biệt ở người cao tuổi, và tăng nguy cơ sâu răng. Cần vệ sinh răng miệng sạch sẽ để tránh nguy cơ bị sâu răng.</p>\n\n<p><strong>Liên quan Dextromethorphan</strong></p>\n\n<p>Thận trọng khi dùng cho các bệnh nhân họ mãn tính như hút thuốc lá, hen suyễn hoặc họ có quá nhiều đờm.</p>\n\n<p>Đã có báo cáo về các trường hợp lạm dụng dextromethorphan, cần lưu ý đặc biệt ở các thanh thiếu niên cũng như ở những bệnh nhân có tiền sử lạm dụng ma túy hoặc các chất hướng thần.</p>\n\n<p>Dextromethorphan được chuyển hóa qua hệ cytochrom P450 2D6 ở gan, do đó nên thận trọng khi sử dụng ở những bệnh nhân có hệ chuyển hóa CYP2D6 chậm (khoảng 10% dân số) hoặc sử dụng cùng lúc các chất ức chế CYP2D6 như fluoxetin, proxetin, quinidin và terbinafin.</p>\n\n<h3><b>Sử dụng thuốc cho phụ nữ trong thời kỳ mang thai và cho con bú</b></h3>\n\n<p>Không dùng thuốc cho phụ nữ trong thời kỳ mang thai hoặc cho con bú nếu không có chỉ định của thầy thuốc.</p>\n\n<h3><b>Ảnh hưởng của thuốc lên khả năng lái xe và vận hành máy móc</b></h3>\n\n<p>Không dùng thuốc cho người lái xe và vận hành máy móc vì thuốc có thể gây ít nhiều buồn ngủ, chóng mặt.</p>\n\n<h3><strong>Tương tác thuốc</strong></h3>\n\n<p><strong>Do paracetamol</strong></p>\n\n<p>Cần phải chú ý đến khả năng gây hạ sốt nghiêm trọng ở người bệnh dùng đồng thời phenothiazin và liệu pháp hạ nhiệt (như paracetamol).</p>\n\n<p>Thuốc chống co giật (phenytoin, barbiturat, carbamazepin) gây cảm ứng enzym của microsom gan, có thể làm tăng tính độc gan của paracetamol do tăng chuyển hóa thành các chất độc hại với gan.</p>\n\n<p>Dùng đồng thời isoniazid với paracetamol cũng có thể làm tăng nguy cơ độc tính với gan, nhưng chưa xác định được cơ chế chính xác của tương tác này. Nguy cơ paracetamol gây độc tính gan gia tăng đáng kể ở người bệnh uống liều paracetamol lớn hơn liễu khuyên dùng trong khi đang dùng thuốc chống co giật hoặc isoniazid.</p>\n\n<p>Probenecid có thể làm giảm đào thải paracetamol và làm tăng thời gian nửa đời trong huyết tương của paracetamol.</p>\n\n<p>Isoniazid và các thuốc chống lao làm tăng độc tính của paracetamol đối với gan.</p>\n\n<p>Metoclopramid hoặc domperidon có thể làm tăng sự hấp thu của paracetamol và ngược lại colestyramin có thể làm giảm sự hấp thu của paracetamol.</p>\n\n<p><strong>Do loratadin</strong></p>\n\n<p>Có sự gia tăng nồng độ loratadin trong huyết tương khi dùng cùng lúc với cimetidin, ketoconazol hoặc erythromycin nhưng không có sự thay đổi đáng kể trên lâm sàng (kể cả thay đổi các điện tâm đồ).</p>\n\n<p>Nên thận trọng khi sử dụng kết hợp với các chất được biết có tác dụng ức chế CYP3A4 (azithromicin, clarithromycin, clotrimazol, fluconazol v.v) hoặc ức chế CYP2D6 (fluoxetin, paroxetin, quinidin, celecoxib v.v.)<br />\nvì có thể dẫn đến tăng nồng độ loratadin và có thể gây gia tăng các tác dụng phụ.</p>\n\n<p>Nên ngưng sử dụng thuốc khoảng 48 giờ trước khi tiến hành các xét nghiệm trên da vì các thuốc kháng histamin có thể làm mất hoặc giảm những dấu hiệu của các phản ứng dương tính ngoài da.</p>\n\n<p><strong>Do dextromethorphan</strong></p>\n\n<p>Không dùng cùng lúc với các thuốc ức chế monoamine oxidase (IMAO), vì có thể gây những phản ứng nặng như sốt cao, chóng mặt, tăng huyết áp, chảy máu não, thậm chí tử vong.</p>\n\n<p>Dùng đồng thời với các thuốc tác dụng ức chế thần kinh trung ương có thể làm tăng tác dụng ức chế thần kinh trung ương của những thuốc này và của dextromethorphan.</p>\n\n<p>Dextromethorphan được chuyển hóa bước đầu mạnh ở gan bởi CYP2D6, do đó sử dụng đồng thời với các chất ức chế enzym CYP2D6 có thể làm tăng nồng độ dextromethorphan trong cơ thể cao hơn nhiều lần mức bình thường. Điều này làm tăng nguy cơ độc tính của dextromethorphan (kích động, nhầm lẫn, run, mất ngủ, tiêu chảy và suy hô hấp) và phát triển của hội chứng serotonin. Các chất ức chế men CYP2D6 tiềm năng bao gồm fluoxetin, paroxetin, quinidin và terbinafin. Sử dụng đồng thời với quinidin, nồng độ dextromethorphan trong huyết tương đã tăng gấp 20 lần, làm tăng tác dụng phụ trên hệ thần kinh trung ương của chất này.</p>\n\n<p>Amiodaron, flecainid và propafenon, sertralin, bupropion, methadon, cinacalcet, haloperidol, perphenazin và thioridazin cũng có những ảnh hưởng tương tự trên sự chuyển hóa của dextromethorphan.</p>\n\n<p><strong>Chung</strong></p>\n\n<p>Uống rượu có thể làm tăng nguy cơ gây độc cho gan của paracetamol và tăng tác dụng ức chế hệ thần kinh trung ương của loratadin và dextromethorphan.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Từ Vĩnh Khánh Tường",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp Khoa Dược trường Đại học Võ Trường Toản. Có nhiều năm kinh nghiệm trong ngành Dược. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-tu-vinh-khanh-tuong",
+        "isLegit": true,
+        "id": 7,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ds_khanh_tuong_1_592bf2eb07.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Biviflu BRV 120 viên: Thuốc điều trị triệu chứng cảm cúm",
+        "metaDescription": "Thuốc Biviflu BRV có thành phần chính là paracetamol, loratadin và dextromethorphan hdrobromid có tác dụng điều trị các triệu chứng cảm cúm như: Sốt, ho, sổ mũi, ớn lạnh, đau đầu,...",
+        "id": 4408,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_8141_63b6_large_60dc95e782.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Biviflu BRV điều trị các triệu chứng cảm cúm (10 vỉ x 12 viên)",
+            "description": "Thuốc&nbsp;Biviflu là sản phẩm của Công ty TNHH BRV Healthcare có thành phần chính là paracetamol, loratadin và&nbsp;dextromethorphan hdrobromid có tác dụng điều trị các triệu chứng cảm cúm như: Sốt, ho, sổ mũi, ớn lạnh, đau đầu, đau nhức bắp thịt xương khớp kèm viêm mũi dị ứng."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 31694,
+        "title": "Những đối tượng nào không nên sử dụng thuốc Biviflu BRV?",
+        "content": "<p>Thuốc Biviflu BRV chống chỉ định trong các trường hợp sau:</p><ul><li>Quá mẫn cảm với bất kỳ thành phần nào của thuốc.</li><li>Rối loạn chức năng gan và thận nặng.</li><li>Bệnh nhân thiếu enzym Glucose-6-phosphat-dehydrogenase.</li><li>Người bệnh đang dùng thuốc ức chế monoamine oxidase (IMAO).</li><li>Người có bệnh hen, <a href=\"https://nhathuoclongchau.com.vn/benh/suy-ho-hap-cap-165.html\">suy hô hấp cấp</a>, bệnh tim mạch nặng.</li><li>Trẻ em dưới 12 tuổi.</li></ul>"
+      },
+      {
+        "id": 31692,
+        "title": "Thuốc Biviflu BRV có tương tác với các thuốc khác không?",
+        "content": "<p>Có, thuốc Biviflu BRV có thể tương tác với nhiều loại thuốc khác:</p><ul><li>Paracetamol: Tương tác với thuốc chống co giật, isoniazid, probenecid, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/metoclopramide\">metoclopramid</a>, domperidon, colestyramin. Uống rượu có thể tăng độc tính gan của paracetamol.</li><li>Loratadin: Tăng nồng độ trong huyết tương khi dùng cùng cimetidin, ketoconazol, erythromycin và các chất ức chế CYP3A4 hoặc CYP2D6. Có thể ảnh hưởng đến kết quả xét nghiệm trên da.</li><li>Dextromethorphan: Không dùng cùng IMAO vì có thể gây phản ứng nghiêm trọng. Tăng tác dụng ức chế thần kinh trung ương khi dùng với các thuốc ức chế thần kinh trung ương khác và tăng nguy cơ độc tính khi dùng với các chất ức chế enzym CYP2D6.</li></ul>"
+      },
+      {
+        "id": 31690,
+        "title": "Cần thận trọng những gì khi sử dụng thuốc Biviflu BRV?",
+        "content": "<p>Cần thận trọng khi sử dụng thuốc Biviflu BRV trong các trường hợp sau:</p><ul><li>Người bị suy gan, suy thận, nghiện rượu, suy dinh dưỡng mạn tính hoặc mất nước (đối với paracetamol).</li><li>Người có tiền sử phản ứng da nghiêm trọng với paracetamol.</li><li>Người lớn tuổi (dễ bị khô miệng khi dùng loratadin).</li><li>Người ho mãn tính do hút thuốc, <a href=\"https://nhathuoclongchau.com.vn/benh/hen-suyen-1397.html\">hen suyễn</a> hoặc ho có nhiều đờm (đối với dextromethorphan).</li><li>Thanh thiếu niên và người có tiền sử lạm dụng ma túy (do đã có báo cáo về lạm dụng dextromethorphan).</li><li>Người lái xe và vận hành máy móc (thuốc có thể gây buồn ngủ, chóng mặt).</li></ul>"
+      },
+      {
+        "id": 31689,
+        "title": "Những tác dụng phụ nào có thể xảy ra khi sử dụng thuốc Biviflu BRV?",
+        "content": "<p>Thuốc Biviflu BRV có thể gây ra các tác dụng phụ khác nhau tùy thuộc vào từng thành phần:</p><ul><li>Paracetamol: Hiếm gặp các phản ứng quá mẫn, rối loạn máu (giảm bạch cầu, thiếu máu), buồn nôn, nôn, ban da, và các vấn đề về thận khi dùng dài ngày.</li><li>Loratadin: Thường gặp đau đầu, mệt mỏi, khô miệng; ít gặp chóng mặt, viêm kết mạc, khô mũi, hắt hơi; hiếm gặp phản ứng phản vệ, <a href=\"https://nhathuoclongchau.com.vn/benh/tim-dap-nhanh-919.html\">tim đập nhanh</a>, rối loạn nhịp tim, trầm cảm, buồn nôn, bất thường chức năng gan, nổi mày đay, kinh nguyệt không đều.</li><li>Dextromethorphan: Thường gặp nhịp tim nhanh, buồn nôn, đỏ bừng, mệt mỏi, chóng mặt; hiếm gặp suy hô hấp (khi dùng liều cao), ức chế thần kinh trung ương (khi dùng liều cao), rối loạn tiêu hóa, nổi mày đay, ngoại ban.</li></ul>"
+      },
+      {
+        "id": 31688,
+        "title": "Thuốc Biviflu BRV là thuốc gì và được chỉ định để điều trị những triệu chứng nào?",
+        "content": "<p>Thuốc Biviflu BRV là một loại thuốc kết hợp chứa ba thành phần chính: paracetamol, loratadin và dextromethorphan hydrobromid. Thuốc này được chỉ định để điều trị các triệu chứng cảm cúm như sốt, ho, sổ mũi, ớn lạnh, đau đầu, đau nhức bắp thịt, xương khớp, và <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-di-ung-473.html\">viêm mũi dị ứng</a>.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00007325",
+        "name": "THUỐC HO NGƯỜI LỚN OPC 90ML",
+        "webName": "Thuốc ho người lớn OPC điều trị viêm nhiễm đường hô hấp, các chứng ho gió (90ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007325_thuoc_ho_opc_nguoi_lon_2110_5b59_large_c5dcc4686c.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 773,
+            "name": "Thuốc trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10690,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 38000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-ho-opc-nguoi-lon-524.html",
+        "ingredients": "cineol 18.00mg, Hoàng cầm 1.80 , Bạch linh 1.80 , Thiên môn đông 2.70 , Tang bạch bì 1.80 , Tiền hồ 1.80 , Bách bộ 2.79 , Cát cánh 1.80 , Tỳ bà lá 16.20 , Menthol 18.00mg, Cam thảo  ",
+        "dosageForm": "Siro",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Chai x 90ml",
+        "prices": [
+          {
+            "id": 10690,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 38000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00041913",
+        "name": "ATILUDE 250MG/5ML AN THIÊN 6X5 ỐNG 5ML",
+        "webName": "Dung dịch uống AtiLude 250mg/5ml An Thiên tiêu nhầy, rối loạn đường hô hấp (6 vỉ x 5 ống x 5ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04350_5dfca09de8.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 773,
+            "name": "Thuốc trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 63562,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 90000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/atilude-250-mg-5-ml-an-thien-6-x5-ong-5-ml.html",
+        "ingredients": "Carbocisteine 250mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "An Thiên",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 5 Ống X 5ml",
+        "prices": [
+          {
+            "id": 63562,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 90000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 63563,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 15000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 63564,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": true,
+            "price": 3000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00033574",
+        "name": "TOCEMUX 200MG TRƯỜNG THỌ 10X10",
+        "webName": "Thuốc Tocemux điều trị tiêu chất nhầy, bệnh lý hô hấp có đờm (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_tocemux_200mg_truong_tho_10x10_00033574_4f321e1b0b.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 773,
+            "name": "Thuốc trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 46942,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 70000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tocemux-200mg-truong-tho-10x10-33667.html",
+        "ingredients": "Acetylcysteine 200mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Trường Thọ Pharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 46940,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 46941,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 7000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 46942,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 70000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00029917",
+        "name": "SP AMBROXOL 30MG SHINPOONG 10X10",
+        "webName": "Thuốc SP Ambroxol 30mg điều trị các bệnh cấp và mạn tính ở đường hô hấp (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/sp_ambroxol_30mg_shinpoong_00029917_475045b447.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 773,
+            "name": "Thuốc trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 39115,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 40000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/sp-ambroxol-30mg-shinpoong-10x10-30184.html",
+        "ingredients": "Ambroxol 30mg",
+        "dosageForm": "Viên nén",
+        "brand": "Shinpoong Daewoo",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 10 vỉ x 10 viên",
+        "prices": [
+          {
+            "id": 39113,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 39115,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 40000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 39114,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 4000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 257,
+          "attributeName": "Hàn Quốc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Han_Quoc_760f524a89.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00032610",
+        "name": "VIÊN TRỊ HO TUSSIDAY OPC 10X10",
+        "webName": "Viên trị ho Tussiday OPC điều trị các chứng ho, đau họng, sổ mũi (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_tri_ho_tussiday_10x10_opc_00032610_436c09da22.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 773,
+            "name": "Thuốc trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 44720,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 88000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vien-tri-ho-tussiday-opc-10x10-32730.html",
+        "ingredients": "Eucalyptol 100mg, Tinh dầu Tần Dày Lá 0.6mg, Tinh dầu gừng 1mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 44719,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 8800,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 44718,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 880,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 44720,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 88000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00030062",
+        "name": "EUXAMUS 200MG EUVIPHARM 10X10",
+        "webName": "Thuốc Euxamus 200mg Euvipharm tiêu chất nhầy trong bệnh nhầy nhớt (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/euxamus_200mg_10x10_euvipharm_00030062_e32c1ec899.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 773,
+            "name": "Thuốc trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 39297,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 80000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/euxamus-200mg-euvipharm-10x10-30265.html",
+        "ingredients": "Acetylcysteine 200mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Euvipharm",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 80,
+        "productRanking": 0,
+        "specification": "Hộp 10 vỉ x 10 viên",
+        "prices": [
+          {
+            "id": 39296,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 8000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 39297,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 80000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 39295,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 800,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00502599",
+        "name": "ASTEMIX AN THIÊN 90ML",
+        "webName": "Thuốc ho Astemix An Thiên hỗ trợ điều trị ho, viêm họng, viêm phế quản, suyễn (90ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/astemix_b280ccf216.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 773,
+            "name": "Thuốc trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 52681,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 45000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/astemix-an-thien-90ml-36853.html",
+        "ingredients": "cineol 4.415mg, Núc nác 625mg, Húng chanh 2500mg",
+        "dosageForm": "Cao lỏng",
+        "brand": "An Thiên",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp x 90ml",
+        "prices": [
+          {
+            "id": 52681,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 45000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500946",
+        "name": "ASTEMIX AN THIÊN 60ML",
+        "webName": "Thuốc ho Astemix An Thiên hỗ trợ điều trị ho, viêm họng, viêm phế quản, suyễn (60ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/astemix_60ml_8666b84e41.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 773,
+            "name": "Thuốc trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 49482,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 35000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/astemix-an-thien-60ml-35085.html",
+        "ingredients": "cineol 0.883mg, Húng chanh 500mg, Núc nác 125mg",
+        "dosageForm": "Cao lỏng",
+        "brand": "An Thiên",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp x 60ml",
+        "prices": [
+          {
+            "id": 49482,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 35000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/2583_van_de_doi_tuong_1189_628d_large_7d3c29f731.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00010253",
+        "name": "EUGICA XANH DHG 10X10",
+        "webName": "Thuốc Eugica MEGA We care điều trị ho đờm, cảm cúm, sổ mũi (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04536_e077afde79.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 773,
+            "name": "Thuốc trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 13888,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 73000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/eugica-vien-uong-dieu-tri-ho-cam-cum-490.html",
+        "ingredients": "Eucalyptol 100mg, Tinh dầu tần 0.18mg, Tinh dầu gừng 0.5mg, Menthol natural 0.5mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "MEGA We care",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 13886,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 730,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 13887,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 7300,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 13888,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 73000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 262,
+          "attributeName": "Thái Lan",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/th_Thailand_cdaa8c1601.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001337",
+        "name": "BISOLVON 8MG BOEHRINGER 3X10",
+        "webName": "Thuốc Bisolvon 8mg Boehringer làm loãng đờm, tiêu chất nhầy (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001337_bisolvon_8mg_7355_5b50_large_43929be0a5.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 773,
+            "name": "Thuốc trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1404,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 62000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bisolvon-8mg-4477.html",
+        "ingredients": "Bromhexine 8mg",
+        "dosageForm": "Viên nén",
+        "brand": "Boehringer",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 1402,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2067,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1404,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 62000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 1403,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 20667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00000462",
+        "name": "ACEMUC 200 SANOFI 3X10",
+        "webName": "Thuốc Acemuc 200mg Sanofi long đàm, tiêu nhầy, giảm ho (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/acemuc_200_3x10_sanofi_00000462_73028f19a5.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 773,
+            "name": "Thuốc trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 81000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/acemuc-200mg-4881.html",
+        "ingredients": "Acetylcysteine 200mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Sanofi",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 36,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 27000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 37,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 81000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 35,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001538",
+        "name": "CẢM XUYÊN HƯƠNG NGƯỜI LỚN YPHARCO 10X10",
+        "webName": "Thuốc Cảm Xuyên Hương Yên Bái điều trị cảm cúm, cảm lạnh (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/cam_xuyen_huong_50583f78e4.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 730,
+            "name": "Thuốc hô hấp",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-ho-hap",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 773,
+            "name": "Thuốc trị ho cảm",
+            "parentName": "Thuốc hô hấp",
+            "slug": "thuoc/thuoc-ho-hap/thuoc-tri-ho-cam",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1704,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 90000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cam-xuyen-huong-10x10-yen-bai-nguoi-lon-17476.html",
+        "ingredients": "Quế chi 6mg, Xuyên khung 132mg, Bạch chỉ 165mg, Hương phụ 132mg, Cam Thảo Bắc 5mg, Sinh khương 15mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Yên Bái",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 1702,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1704,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 90000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 1703,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 9000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 11,
+      "items": [
+        {
+          "id": 3203845,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0916xxxxxx",
+          "name": "chi van anh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "đang cho c bú có dùng đc loại này k",
+          "createdAt": "2025-10-29 01:39:47",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-29 01:39:27",
+          "replies": [
+            {
+              "id": 3203878,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Mai Anh",
+                "moderatorEmail": "anhnm70@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Mai Anh",
+              "email": "anhnm70@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p> Chào <strong>chi Van Anh</strong>,</p><p>Dạ sản phẩm chưa có thông tin an toàn cho phụ nữ đang cho con bú, chị nên tham khảo ý kiến bác sĩ trước khi dùng ạ.</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2025-10-29 08:09:09",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-29 01:39:27",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3184173,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0912xxxxxx",
+          "name": "Chị Nga",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc có bán lẻ theo vỉ ko b",
+          "createdAt": "2025-09-22 11:47:42",
+          "createdAtDisplay": "11 tháng trước",
+          "updatedAt": "2025-09-22 11:47:33",
+          "replies": [
+            {
+              "id": 3184179,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thanh Ngọc",
+                "moderatorEmail": "ngocht18@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Thanh Ngọc",
+              "email": "ngocht18@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Nga,</p><p> Hiện tại, sản phẩm có giá 12,000/vỉ, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p> Thân mến!</p>",
+              "createdAt": "2025-09-22 11:51:48",
+              "createdAtDisplay": "11 tháng trước",
+              "updatedAt": "2025-09-22 11:47:33",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3069423,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0889xxxxxx",
+          "name": "Nguyễn Lê Khánh Duyên",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 hộp bn ạ",
+          "createdAt": "2025-03-16 20:38:17",
+          "createdAtDisplay": "16/03/2025",
+          "updatedAt": "2025-03-16 20:38:17",
+          "replies": [
+            {
+              "id": 3069425,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Giang",
+                "moderatorEmail": "giangmt8@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mai Giang",
+              "email": "giangmt8@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Nguyễn Lê Khánh Duyên,</p><p>Dạ sản phẩm có giá 120,000đ/hộp</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-03-16 20:39:38",
+              "createdAtDisplay": "16/03/2025",
+              "updatedAt": "2025-03-16 20:38:17",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3061673,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0919xxxxxx",
+          "name": "Chú Mười",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "tên thuốc này hàm lượng bao nhiêu vậy ",
+          "createdAt": "2025-03-05 17:12:53",
+          "createdAtDisplay": "05/03/2025",
+          "updatedAt": "2025-03-05 17:12:53",
+          "replies": [
+            {
+              "id": 3061676,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Linh",
+                "moderatorEmail": "linhnk32@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Linh",
+              "email": "linhnk32@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chú Mười,</p><p>Dạ sản phẩm Thuốc Biviflu BRV chứa 15mg Dextromethorphan hydrobromid, 5mg Loratadin, 500mg Paracetamol</p><p>Nhà thuốc thông tin đến chú ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-03-05 17:14:24",
+              "createdAtDisplay": "05/03/2025",
+              "updatedAt": "2025-03-05 17:12:53",
+              "replies": []
+            },
+            {
+              "id": 3101928,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0962xxxxxx",
+              "name": "HOÀNG THỊ NHƯ TRANG",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "thuốc cúm này có dùng dc cho trẻ em k ạ",
+              "createdAt": "2025-05-05 11:24:34",
+              "createdAtDisplay": "05/05/2025",
+              "updatedAt": "2025-03-05 17:12:53",
+              "replies": []
+            },
+            {
+              "id": 3101929,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoa Dương",
+                "moderatorEmail": "hoadt67@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoa Dương",
+              "email": "hoadt67@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Hoàng Thị Như Trang,</p><p>Dạ sản phẩm Thuốc Biviflu BRV không khuyến cáo dùng thuốc cho trẻ em dưới 12 tuổi.</p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-05-05 11:26:30",
+              "createdAtDisplay": "05/05/2025",
+              "updatedAt": "2025-03-05 17:12:53",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3036014,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0912xxxxxx",
+          "name": "cô Linh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Sđt của tôi: 0912xxxxxx, nhờ nhân viên tư vấn",
+          "createdAt": "2025-01-27 11:36:15",
+          "createdAtDisplay": "27/01/2025",
+          "updatedAt": "2025-01-27 11:36:15",
+          "replies": [
+            {
+              "id": 3036019,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Đại",
+                "moderatorEmail": "daint17@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Đại",
+              "email": "daint17@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào cô Linh,</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT cô đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-01-27 11:39:51",
+              "createdAtDisplay": "27/01/2025",
+              "updatedAt": "2025-01-27 11:36:15",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 916352,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0394xxxxxx",
+          "name": "NGUYỄN VĂN TRUNG",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2024-03-17 21:28:36",
+          "createdAtDisplay": "17/03/2024",
+          "updatedAt": "2024-03-17 21:29:02",
+          "replies": [
+            {
+              "id": 916357,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Cao Thị Ngọc Nhi",
+                "moderatorEmail": "Nhictn2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Cao Thị Ngọc Nhi",
+              "email": "Nhictn2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Nguyễn Văn Trung,</span><br><span>Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu. Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.  </span><br><span>Thân mến!</span><br></p>",
+              "createdAt": "2024-03-17 21:29:02",
+              "createdAtDisplay": "17/03/2024",
+              "updatedAt": "2024-03-17 21:29:02",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Biviflu BRV điều trị các triệu chứng cảm cúm (10 vỉ x 12 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_8141_63b6_large_60dc95e782.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_6604_63b6_large_e19f7f4cfc.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_3580_63b6_large_5a14f7a5fc.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_2335_63b6_large_935737fefc.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_5295_63b6_large_b0f0282a6d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_5736_63b6_large_4e9580f739.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_9335_63b6_large_132c238453.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_8891_63b6_large_da7dedd72b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_8555_63b6_large_3c5d78b2b4.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Biviflu là sản phẩm của Công ty TNHH BRV Healthcare có thành phần chính là paracetamol, loratadin và dextromethorphan hdrobromid có tác dụng điều trị các triệu chứng cảm cúm như: Sốt, ho, sổ mũi, ớn lạnh, đau đầu, đau nhức bắp thịt xương khớp kèm viêm mũi dị ứng.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Từ Vĩnh Khánh Tường"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Biviflu BRV 120 viên: Thuốc điều trị triệu chứng cảm cúm",
+      "description": "Thuốc Biviflu BRV có thành phần chính là paracetamol, loratadin và dextromethorphan hdrobromid có tác dụng điều trị các triệu chứng cảm cúm như: Sốt, ho, sổ mũi, ớn lạnh, đau đầu,...",
+      "openGraph": {
+        "title": "Thuốc Biviflu BRV điều trị các triệu chứng cảm cúm (10 vỉ x 12 viên)",
+        "description": "Thuốc&nbsp;Biviflu là sản phẩm của Công ty TNHH BRV Healthcare có thành phần chính là paracetamol, loratadin và&nbsp;dextromethorphan hdrobromid có tác dụng điều trị các triệu chứng cảm cúm như: Sốt, ho, sổ mũi, ớn lạnh, đau đầu, đau nhức bắp thịt xương khớp kèm viêm mũi dị ứng.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00503078_biviflu_brv_10x12_8141_63b6_large_60dc95e782.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/biviflu-brv-10x12-37381.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/biviflu-brv-10x12-37381.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

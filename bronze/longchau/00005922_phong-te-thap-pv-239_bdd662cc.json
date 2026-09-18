@@ -1,0 +1,1525 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/phong-te-thap-pv-239.html",
+  "ingestion_timestamp": "2026-09-05T10:51:41.975387+00:00",
+  "file_hash": "01b007f54583ba07757219096b0288773f5cae1d45b3c9d6adff6ce5fda43282",
+  "lineage_hash": "dad116454bc3f945f8fd67b57b777d4ab3a7792b3b5219d5234a89c9603302c6",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/phong-te-thap-pv-239.html",
+    "product": {
+      "sku": "00005922",
+      "webName": "Thuốc Phong Tê Thấp PV điều trị phong thấp, thắt lưng, đầu gối đau nhức (100 viên)",
+      "name": "PHONG TÊ THẤP PV 100V",
+      "shortName": "PHONG TÊ THẤP PV 100V",
+      "headingText": "Thuốc Phong Tê Thấp PV",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_2069_5bb7_large_420e6bbdda.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/pv_5a07c01cd4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_7717_5bb7_large_488ce7efad.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_7632_5bb7_large_25b139dbcc.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_3909_5bb7_large_a57f6a864f.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 727,
+          "name": "Thuốc bổ & vitamin",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-bo-and-vitamin",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 755,
+          "name": "Bổ xương khớp",
+          "parentName": "Thuốc bổ & vitamin",
+          "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 93000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 100 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": 930,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "100 Viên"
+        }
+      ],
+      "slug": "thuoc/phong-te-thap-pv-239.html",
+      "ingredient": [
+        {
+          "id": 27543,
+          "ingredientId": 18380,
+          "shortDescription": "160mg",
+          "name": "Độc hoạt",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27544,
+          "ingredientId": 34074,
+          "shortDescription": "80mg",
+          "name": "Quế chi",
+          "isPrimary": false,
+          "slug": "thanh-phan/que-chi"
+        },
+        {
+          "id": 27545,
+          "ingredientId": 32396,
+          "shortDescription": "160mg",
+          "name": "Phòng phong",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27546,
+          "ingredientId": 18784,
+          "shortDescription": "240mg",
+          "name": "Đương quy",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27547,
+          "ingredientId": 37619,
+          "shortDescription": "80mg",
+          "name": "Tế tân",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27548,
+          "ingredientId": 40801,
+          "shortDescription": "160mg",
+          "name": "Xuyên khung",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27549,
+          "ingredientId": 37441,
+          "shortDescription": "240mg",
+          "name": "Tần giao",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27550,
+          "ingredientId": 10131,
+          "shortDescription": "240mg",
+          "name": "Bạch thược",
+          "isPrimary": false,
+          "slug": "thanh-phan/bach-thuoc"
+        },
+        {
+          "id": 27551,
+          "ingredientId": 38203,
+          "shortDescription": "200mg",
+          "name": "Thiên niên kiện",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27552,
+          "ingredientId": 36107,
+          "shortDescription": "160mg",
+          "name": "Sinh Địa",
+          "isPrimary": false,
+          "slug": "thanh-phan/sinh-dia"
+        },
+        {
+          "id": 27553,
+          "ingredientId": 18363,
+          "shortDescription": "240mg",
+          "name": "Đỗ trọng",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27554,
+          "ingredientId": 16671,
+          "shortDescription": "160mg",
+          "name": "Đảng Sâm",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27555,
+          "ingredientId": 29714,
+          "shortDescription": "160mg",
+          "name": "Ngưu tất (Rễ)",
+          "isPrimary": false,
+          "slug": "thanh-phan/nguu-tat"
+        },
+        {
+          "id": 27556,
+          "ingredientId": 24618,
+          "shortDescription": "180mg",
+          "name": "Khương hoạt",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27557,
+          "ingredientId": 32505,
+          "shortDescription": "80mg",
+          "name": "Phụ tử chế",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27558,
+          "ingredientId": 39632,
+          "shortDescription": "240mg",
+          "name": "Tục đoạn",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27559,
+          "ingredientId": 32516,
+          "shortDescription": "240mg",
+          "name": "Phục Linh",
+          "isPrimary": false,
+          "slug": "thanh-phan/phuc-linh"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-30960-18",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén bao đường",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Phong tê thấp PV là thuốc uống sau bữa ăn.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Ngày uống 3 lần, mỗi lần 5 - 7 viên.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Trong trường hợp khẩn cấp, hãy gọi ngay cho trung tâm cấp cứu 115 hoặc đến trạm y tế địa phương gần nhất.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3><p><strong>Thuốc Phong tê thấp PV</strong> được chỉ định dùng trong các trường hợp: <a href=\"https://nhathuoclongchau.com.vn/bai-viet/dau-hieu-benh-phong-thap-58478.html\"><strong>Phong thấp</strong></a>, thắt lưng, đầu gối đau nhức, cảm giác nặng nề, đau nhức xương, mỏi, tê buồn chân tay, đau khớp mạn tính do phong thấp, đau thần kinh tọa, thần kinh liên sườn, sưng các khớp.&nbsp;</p><h3>Dược lực học</h3><p>Trừ phong thấp, chữa đau khớp, đau dây thần kinh, bổ can thận, bổ khí huyết.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+      "brand": "Phúc Vinh",
+      "brandType": null,
+      "adverseEffect": "<p>Chưa có báo cáo về tác dụng phụ của thuốc.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 100 Viên",
+      "indications": [
+        {
+          "id": 319,
+          "name": "Thoái hóa khớp",
+          "slug": "benh/thoai-hoa-khop-609.html"
+        },
+        {
+          "id": 386,
+          "name": "Thoái hóa khớp gối",
+          "slug": "benh/thoai-hoa-khop-goi-90.html"
+        },
+        {
+          "id": 430,
+          "name": "Thoái hóa đốt sống cổ",
+          "slug": "benh/thoai-hoa-dot-song-co-89.html"
+        },
+        {
+          "id": 463,
+          "name": "Đau thần kinh tọa",
+          "slug": "benh/dau-than-kinh-toa-13.html"
+        },
+        {
+          "id": 472,
+          "name": "Thấp khớp",
+          "slug": "benh/thap-khop-88.html"
+        },
+        {
+          "id": 495,
+          "name": "Đau lưng",
+          "slug": "benh/dau-lung-64.html"
+        },
+        {
+          "id": 513,
+          "name": "Đau nhức toàn thân",
+          "slug": "benh/dau-nhuc-toan-than-63.html"
+        },
+        {
+          "id": 656,
+          "name": "Viêm khớp dạng thấp",
+          "slug": "benh/viem-khop-dang-thap-254.html"
+        },
+        {
+          "id": 1145,
+          "name": "Đau thắt lưng",
+          "slug": "benh/dau-that-lung-710.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "PV",
+      "shortDescription": "<p><strong>Phong tê thấp PV</strong> có tác dụng trừ phong thấp, chữa đau khớp, đau dây thần kinh, bổ can thận, bổ khí huyết để điều trị phong thấp, thắt lưng, đầu gối đau nhức, cảm giác nặng nề, đau nhức xương, mỏi, tê buồn chân tay, đau khớp mạn tính do phong thấp, đau thần kinh tọa, thần kinh liên sườn, sưng các khớp.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "",
+      "objectUse": [
+        "Người cao tuổi",
+        "Trẻ em"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Tiểu đường",
+        "Phụ nữ cho con bú"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Dị ứng thuốc",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/phuc-vinh",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "PHONG TÊ THẤP PV",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": 93000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 100 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 755,
+        "name": "Bổ xương khớp",
+        "parentName": "Thuốc bổ & vitamin",
+        "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_2069_5bb7_large_420e6bbdda.JPG",
+          "alternativeText": "Thuốc Phong Tê Thấp PV điều trị phong thấp, thắt lưng, đầu gối đau nhức (100 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/pv_5a07c01cd4.jpg",
+          "alternativeText": "Thuốc Phong Tê Thấp PV điều trị phong thấp, thắt lưng, đầu gối đau nhức (100 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_7717_5bb7_large_488ce7efad.JPG",
+          "alternativeText": "Thuốc Phong Tê Thấp PV điều trị phong thấp, thắt lưng, đầu gối đau nhức (100 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_7632_5bb7_large_25b139dbcc.JPG",
+          "alternativeText": "Thuốc Phong Tê Thấp PV điều trị phong thấp, thắt lưng, đầu gối đau nhức (100 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_3909_5bb7_large_a57f6a864f.JPG",
+          "alternativeText": "Thuốc Phong Tê Thấp PV điều trị phong thấp, thắt lưng, đầu gối đau nhức (100 viên) 5"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 93000,
+        "itemCode": "00005922",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 93000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 930,
+        "itemCode": "00005922",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 930,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc bổ & vitamin",
+        "slug": "/thuoc/thuoc-bo-and-vitamin"
+      },
+      {
+        "name": "Bổ xương khớp",
+        "slug": "/thuoc/thuoc-bo-and-vitamin/bo-xuong-khop"
+      }
+    ],
+    "content": {
+      "sku": "00005922",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Phong tê thấp PV là thuốc uống sau bữa ăn.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Ngày uống 3 lần, mỗi lần 5 - 7 viên.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Trong trường hợp khẩn cấp, hãy gọi ngay cho trung tâm cấp cứu 115 hoặc đến trạm y tế địa phương gần nhất.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Phong tê thấp PV.</p></body></html>",
+      "adverseEffect": "<p>Chưa có báo cáo về tác dụng phụ của thuốc.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Nơi khô, nhiệt độ không quá 30°C, tránh ánh sáng.</p>",
+      "usage": "<h3>Chỉ định</h3><p><strong>Thuốc Phong tê thấp PV</strong> được chỉ định dùng trong các trường hợp: <a href=\"https://nhathuoclongchau.com.vn/bai-viet/dau-hieu-benh-phong-thap-58478.html\"><strong>Phong thấp</strong></a>, thắt lưng, đầu gối đau nhức, cảm giác nặng nề, đau nhức xương, mỏi, tê buồn chân tay, đau khớp mạn tính do phong thấp, đau thần kinh tọa, thần kinh liên sườn, sưng các khớp.&nbsp;</p><h3>Dược lực học</h3><p>Trừ phong thấp, chữa đau khớp, đau dây thần kinh, bổ can thận, bổ khí huyết.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định</h3>\n\n<p><strong>Thuốc Phong tê thấp PV</strong> chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Mẫn cảm với bất kỳ thành phần nào của thuốc.</li>\n\t<li>Phụ nữ có thai.</li>\n\t<li>Người tiểu đường.</li>\n\t<li>Trẻ em dưới 5 tuổi.</li>\n\t<li>Người bị phong thấp nhiệt.</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Không dùng cho phụ nữ có thai, không dùng cho người bị tiểu đường, trẻ em dưới 5 tuổi.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Thuốc dùng được khi đang lái xe và vận hành máy móc.</p>\n\n<h3>Thời kỳ mang thai </h3>\n\n<p>Không dùng thuốc cho phụ nữ có thai.</p>\n\n<h3>Thời kỳ cho con bú</h3>\n\n<p>Thuốc dùng được cho phụ nữ cho con bú.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Chưa có báo cáo.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Phong Tê Thấp PV trị phong thấp, đau đầu gối (100 viên)",
+        "metaDescription": "Thuốc Phong Tê Thấp PV có tác dụng trừ phong thấp, chữa đau khớp, đau dây thần kinh, bổ can thận, bổ khí huyết để điều trị phong thấp, thắt lưng,...",
+        "id": 3839,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_2069_5bb7_large_420e6bbdda.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc Phong Tê Thấp PV điều trị phong thấp, thắt lưng, đầu gối đau nhức (100 viên)",
+            "description": "Phong tê thấp PV có tác dụng trừ phong thấp, chữa đau khớp, đau dây thần kinh, bổ can thận, bổ khí huyết để điều trị phong thấp, thắt lưng, đầu gối đau nhức, cảm giác nặng nề, đau nhức xương, mỏi, tê buồn chân tay, đau khớp mạn tính do phong thấp, đau thần kinh tọa, thần kinh liên sườn, sưng các khớp."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 32588,
+        "title": "Ai không nên sử dụng Thuốc Phong Tê Thấp PV?",
+        "content": "<p>Thuốc Phong Tê Thấp PV chống chỉ định trong các trường hợp sau: mẫn cảm với bất kỳ thành phần nào của thuốc, phụ nữ có thai, người bị tiểu đường, trẻ em dưới 5 tuổi và người bị phong thấp nhiệt.</p>"
+      },
+      {
+        "id": 32587,
+        "title": "Liều dùng và cách dùng Thuốc Phong Tê Thấp PV là gì?",
+        "content": "<p>Thuốc Phong Tê Thấp PV là thuốc uống sau bữa ăn. Liều dùng thông thường là ngày uống 3 lần, mỗi lần 5 - 7 viên. Tuy nhiên, liều dùng cụ thể có thể thay đổi tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Bạn nên tham khảo ý kiến bác sĩ hoặc chuyên viên y tế để có liều dùng phù hợp.</p>"
+      },
+      {
+        "id": 32586,
+        "title": "Thuốc Phong Tê Thấp PV có tác dụng dược lực học như thế nào?",
+        "content": "<p>Thuốc Phong Tê Thấp PV có tác dụng trừ phong thấp, giúp chữa đau khớp và đau dây thần kinh. Bên cạnh đó, thuốc còn có tác dụng bổ can thận và bổ khí huyết, góp phần hỗ trợ điều trị các triệu chứng liên quan đến phong thấp.</p>"
+      },
+      {
+        "id": 32585,
+        "title": "Thành phần của Thuốc Phong Tê Thấp PV là gì?",
+        "content": "<p>Thuốc Phong Tê Thấp PV có chứa nhiều thành phần dược liệu như Độc hoạt, Quế chi, Phòng phong, Đương quy, Tế tân, Xuyên khung, Tần giao, Bạch thược, Thiên niên kiện, Sinh Địa, Đỗ trọng, Đảng Sâm, Ngưu tất (Rễ), Khương hoạt, Phụ tử chế, Tục đoạn và Phục Linh. Mỗi thành phần có hàm lượng khác nhau được liệt kê chi tiết trong thông tin sản phẩm.</p>"
+      },
+      {
+        "id": 32584,
+        "title": "Thuốc Phong Tê Thấp PV được chỉ định dùng trong những trường hợp nào?",
+        "content": "<p>Thuốc Phong Tê Thấp PV được chỉ định dùng cho các trường hợp phong thấp, đau nhức vùng thắt lưng và đầu gối. Thuốc giúp giảm cảm giác nặng nề, đau nhức xương khớp, mỏi, tê buồn chân tay. Ngoài ra, thuốc còn hỗ trợ điều trị đau khớp mãn tính do phong thấp, đau thần kinh tọa, thần kinh liên sườn và sưng các khớp.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00005013",
+        "name": "MORINDA DOMESCO 50V",
+        "webName": "Thuốc Morinda Citrifolia Domesco điều trị đau nhức, sưng khớp, tăng huyết áp (50 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7391_4c5eb61a67.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 755,
+            "name": "Bổ xương khớp",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 7171,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 50000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/morinda-ho-tro-dieu-tri-dau-nhuc-sung-khop-232.html",
+        "ingredients": "Cao nhàu 5/1 400mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Domesco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 50 viên",
+        "prices": [
+          {
+            "id": 7171,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 50000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 7170,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006353",
+        "name": "RHEUMAPAIN-F FITO 40V",
+        "webName": "Thuốc Rheumapain-f Fito điều trị phong thấp, đau nhức (40 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006353_rheumapain_f_ho_tro_dieu_tri_viem_da_khop_dang_thap_5545_5b1e_large_16a82b4f4a.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 755,
+            "name": "Bổ xương khớp",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 9228,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 62000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/rheumapain-f-ho-tro-dieu-tri-viem-da-khop-dang-thap-453.html",
+        "ingredients": "Hy thiêm 760mg, Thương nhĩ tử 400mg, Dây đau xương 400mg, Thổ phục linh 320mg, Hà thủ ô đỏ 320mg, Thiên niên kiện 300mg, Huyết Giác 300mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Fito",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 40 Viên",
+        "prices": [
+          {
+            "id": 9228,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 62000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 9227,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1550,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007371",
+        "name": "TIMI ROITIN PHIL 24X5",
+        "webName": "Thuốc Tmi Roitin bổ sung các vitamin nhóm B (24 vỉ x 5 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007371_timi_roitin_3917_5bd9_large_e3686d741b.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 755,
+            "name": "Bổ xương khớp",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10763,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 4379,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/timi-roitin-1986.html",
+        "ingredients": "Chondroitin 90mg, Nicotinamid 50mg, Fursultiamine 50mg, Riboflavin 6mg, Pyridoxine 25mg, Calcium Pantothenate 15mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Phil",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 24 vỉ x 5 viên",
+        "prices": [
+          {
+            "id": 10763,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 4379,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10765,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 525500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10764,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 21896,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00016476",
+        "name": "PHONG TÊ THẤP BÀ GIẰNG 250V",
+        "webName": "Thuốc Phong Tê Thấp Bà Giằng điều trị viêm, đau xương khớp (250 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/123_687f15b5f1.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 755,
+            "name": "Bổ xương khớp",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 19888,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 80000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/phong-te-thap-ba-giang-250v-14227.html",
+        "ingredients": "Đương quy 14mg, Mã tiền chế 14mg, Đỗ trọng 14mg, Ngưu tất (Rễ) 12mg, Quế chi 0.8mg, Thương truật 16mg, Độc hoạt 16mg, Thổ phục linh 20mg",
+        "dosageForm": "Hoàn cứng",
+        "brand": "Bà Giằng",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 250 viên",
+        "prices": [
+          {
+            "id": 19887,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 320,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 19888,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 80000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00003015",
+        "name": "VIÊN XƯƠNG KHỚP FENGSHI OPC 5X10",
+        "webName": "Viên phong thấp Fengshi OPC điều trị các chứng đau dây thần kinh liên sườn, đau vai (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_xuong_khop_OPC_f24552f5ec.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 755,
+            "name": "Bổ xương khớp",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 4063,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 60000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/fengshi-852mg-5x10-opc-17298.html",
+        "ingredients": "Hy thiêm 88mg, Tam thất 10mg, Mã tiền chế 0.7mg, Ngũ gia bì 18mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 4061,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 4062,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 12000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 4063,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007553",
+        "name": "TRIXLAZI DAVI 3X10",
+        "webName": "Thuốc Trixlazi DaviPharm bổ sung canxi, magnesi, kẽm và Vitamin D3 (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007553_trixlazi_7984_5bbc_large_6673fbd783.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 755,
+            "name": "Bổ xương khớp",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11053,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 4033,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/trixlazi-1911.html",
+        "ingredients": "Calci carbonat 400mg, Magnesium hydroxide 150mg, Zinc sulfate 5mg, Cholecalciferol 100ui",
+        "dosageForm": "Viên nén",
+        "brand": "Davipharm",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 40,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 11055,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 121000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 11054,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 40333,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 11053,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 4033,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 21,
+      "items": [
+        {
+          "id": 3358472,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0907xxxxxx",
+          "name": "Anh Hien",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thoái hóa đốt sống cổ uống được không nhà thuốc ",
+          "createdAt": "2026-08-16 15:22:44",
+          "createdAtDisplay": "20 ngày trước",
+          "updatedAt": "2026-08-16 15:22:45",
+          "replies": [
+            {
+              "id": 3358480,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thu Huyền",
+                "moderatorEmail": "huyenlt73@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thu Huyền",
+              "email": "huyenlt73@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Hiền,</p><p>Phong Tê Thấp PV là sản phẩm hỗ trợ hiệu quả cho tình trạng thoái hóa đốt sống cổ nhờ các thành phần thảo dược giúp khu phong, trừ thấp và tăng cường lưu thông khí huyết, anh có thể sử dụng và theo dõi thêm ạ.</p><p>Nhà thuốc thông tin đến anh.</p>",
+              "createdAt": "2026-08-16 15:37:37",
+              "createdAtDisplay": "20 ngày trước",
+              "updatedAt": "2026-08-16 15:22:45",
+              "replies": []
+            },
+            {
+              "id": 3359144,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0907xxxxxx",
+              "name": "Anh Hien",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "ok ok",
+              "createdAt": "2026-08-17 19:15:12",
+              "createdAtDisplay": "18 ngày trước",
+              "updatedAt": "2026-08-16 15:22:45",
+              "replies": []
+            },
+            {
+              "id": 3359146,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Ngọc Bình Giao",
+                "moderatorEmail": "giaonnb@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Ngọc Bình Giao",
+              "email": "giaonnb@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Hiền,</p><p>Dạ nhà thuốc FPT Long Châu rất cảm ơn anh luôn tin tưởng và ủng hộ. Chúc anh nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-08-17 19:18:01",
+              "createdAtDisplay": "18 ngày trước",
+              "updatedAt": "2026-08-16 15:22:45",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3299241,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0387xxxxxx",
+          "name": "Chị Hương ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "phong tê thấp pv giá 1h bao.nhiêu",
+          "createdAt": "2026-05-01 13:20:52",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-05-01 13:20:52",
+          "replies": [
+            {
+              "id": 3299250,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thị Phượng",
+                "moderatorEmail": "phuonght34@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Thị Phượng",
+              "email": "phuonght34@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hương,</p><p>Hiện tại, sản phẩm Thuốc Phong Tê Thấp PV có giá 85.000đ/hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p><p>\t</p><p><br></p>",
+              "createdAt": "2026-05-01 13:33:11",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-05-01 13:20:52",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3204378,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0386xxxxxx",
+          "name": "Mai văn Diệm",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tôi muốn mua 5 hộp Phong tê thấp PV. Giao hàng tại nhà. Địa chỉ: quán cơm Thanh Hiền 364 đường Cách Mạng tháng 8 phường Bà Rịa (mới)",
+          "createdAt": "2025-10-29 20:08:52",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-29 20:08:52",
+          "replies": [
+            {
+              "id": 3204380,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Huệ",
+                "moderatorEmail": "huent39@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Huệ",
+              "email": "huent39@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn <strong>Mai văn Diệm</strong>,</p><p> Tư vấn viên nhà thuốc Long Châu sẽ liên hệ theo SĐT bạn đã để lại ạ.</p>",
+              "createdAt": "2025-10-29 20:13:34",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-29 20:08:52",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3202864,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0866xxxxxx",
+          "name": "Nguyễn Xuân",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tôi muốn tìm hiểu mua 10 lọ Phong tê thấp PV, xin tư vấn?",
+          "createdAt": "2025-10-27 10:15:00",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-27 10:14:41",
+          "replies": [
+            {
+              "id": 3202865,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Quỳnh Anh",
+                "moderatorEmail": "anhntq56@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Quỳnh Anh",
+              "email": "anhntq56@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p> Chào bạn <strong>Nguyễn Xuân,</strong></p><p> Tư vấn viên nhà thuốc Long Châu sẽ liên hệ theo SĐT bạn đã để lại ạ.</p>",
+              "createdAt": "2025-10-27 10:16:47",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-27 10:14:41",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3202524,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0377xxxxxx",
+          "name": "A Phụng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "viêm đa khớp dạng thấp, thấp khớp dùng được có tốt không ạ ",
+          "createdAt": "2025-10-26 15:38:42",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-26 15:38:23",
+          "replies": [
+            {
+              "id": 3202528,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Châu",
+                "moderatorEmail": "chauntn9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Ngọc Châu",
+              "email": "chauntn9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Phụng </p><p> Sản phẩm có hỗ trợ giảm  tình trạng viêm đa khớp dạng thấp, thấp khớp anh có thể tham khảo dùng và theo dõi thêm. </p><p>Nhà thuốc thông tin đến anh. </p>",
+              "createdAt": "2025-10-26 16:00:38",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-26 15:38:23",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Phong Tê Thấp PV điều trị phong thấp, thắt lưng, đầu gối đau nhức (100 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_2069_5bb7_large_420e6bbdda.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/pv_5a07c01cd4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_7717_5bb7_large_488ce7efad.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_7632_5bb7_large_25b139dbcc.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_3909_5bb7_large_a57f6a864f.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "Phong tê thấp PV có tác dụng trừ phong thấp, chữa đau khớp, đau dây thần kinh, bổ can thận, bổ khí huyết để điều trị phong thấp, thắt lưng, đầu gối đau nhức, cảm giác nặng nề, đau nhức xương, mỏi, tê buồn chân tay, đau khớp mạn tính do phong thấp, đau thần kinh tọa, thần kinh liên sườn, sưng các khớp.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/phong-te-thap-pv-239.html",
+        "priceCurrency": "VND",
+        "price": 93000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Thuốc Phong Tê Thấp PV trị phong thấp, đau đầu gối (100 viên)",
+      "description": "Thuốc Phong Tê Thấp PV có tác dụng trừ phong thấp, chữa đau khớp, đau dây thần kinh, bổ can thận, bổ khí huyết để điều trị phong thấp, thắt lưng,...",
+      "openGraph": {
+        "title": "Thuốc Phong Tê Thấp PV điều trị phong thấp, thắt lưng, đầu gối đau nhức (100 viên)",
+        "description": "Phong tê thấp PV có tác dụng trừ phong thấp, chữa đau khớp, đau dây thần kinh, bổ can thận, bổ khí huyết để điều trị phong thấp, thắt lưng, đầu gối đau nhức, cảm giác nặng nề, đau nhức xương, mỏi, tê buồn chân tay, đau khớp mạn tính do phong thấp, đau thần kinh tọa, thần kinh liên sườn, sưng các khớp.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_2069_5bb7_large_420e6bbdda.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/phong-te-thap-pv-239.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/phong-te-thap-pv-239.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

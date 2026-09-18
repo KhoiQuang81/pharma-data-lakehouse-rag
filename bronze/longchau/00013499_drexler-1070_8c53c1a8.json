@@ -1,0 +1,1332 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/drexler-1070.html",
+  "ingestion_timestamp": "2026-09-05T09:19:41.646485+00:00",
+  "file_hash": "ea65eb7c50a3c112b9138ae77704f68509da95db04707ca06bd834769c02532b",
+  "lineage_hash": "39b90c3191cbd8e8555c44e8f64e57fb16633a537992eb72f1b9066b214f0e6f",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/drexler-1070.html",
+    "product": {
+      "sku": "00013499",
+      "webName": "Thuốc Drexler Davipharm điều trị ngắn hạn chứng mất ngủ (60 viên)",
+      "name": "DREXLER DAVI 6X10",
+      "shortName": "DREXLER DAVI 6X10",
+      "headingText": "Thuốc Drexler",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_drexler_davi_6x10_00013499_73001c497a.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_2995_63d7_large_3058659698.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/drexler_cu_moi_fca76d30a6.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_4763_63d7_large_0fc366f009.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_3019_63d7_large_b593c48177.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_9146_63d7_large_87b11f2b24.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_8599_63d7_large_3b289e9c84.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_5555_63d7_large_84270e653f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_6554_63d7_large_3c6ac2c62f.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_1675054376_6fd3d8e07b.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 733,
+          "name": "Thuốc hệ thần kinh",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-than-kinh",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 798,
+          "name": "Thuốc thần kinh",
+          "parentName": "Thuốc hệ thần kinh",
+          "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 6 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "6 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/drexler-1070.html",
+      "ingredient": [
+        {
+          "id": 24628,
+          "ingredientId": 41077,
+          "shortDescription": "7.5mg",
+          "name": "Zopiclone",
+          "isPrimary": false,
+          "slug": "thanh-phan/zopiclone"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893110046923",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Uống trọn viên thuốc Drexler Zopiclone 7.5mg với một ly nước đầy.</p><h3><strong>Liều dùng</strong></h3><p>Người lớn: Uống 7,5mg (1 viên) trước khi đi ngủ.</p><p>Giảm liều đối với người già, suy gan từ nhẹ đến trung bình, suy thận.</p><p><i>Lưu ý: </i>Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p><strong>Triệu chứng</strong></p><p>Quá liều Drexler 7.5mg được biểu hiện bằng nhiều mức độ suy giảm hệ thần kinh trung ương từ buồn ngủ đến hôn mê, tùy theo liều tiêu hoá. Trong trường hợp nhẹ, các triệu chứng bao gồm: Buồn ngủ, lú lẫn và thờ ơ. Trong trường hợp nặng, các triệu chứng có thể bao gồm mất điều hoà vận động, giảm trương lực, hạ huyết áp, methaemoglobin máu, suy hô hấp và hôn mê.</p><p>Quá liều không dẫn đến tử vong trừ khi kết hợp với trầm cảm hệ thần kinh trung ương khác, bao gồm cả rượu. Các yếu tố nguy cơ khác, chẳng hạn như tình trạng suy nhược của bệnh nhân, có thể góp phần vào mức độ nghiêm trọng của các triệu chứng và rất hiếm khi có thể dẫn đến tử vong.</p><p><strong>Xử trí</strong></p><p>Điều trị triệu chứng và điều trị hỗ trợ trong môi trường lâm sàng thích hợp. Chú ý chức năng hô hấp và tim mạch.</p><p>Sử dụng than hoạt tính nếu người lớn sử dụng hơn 150mg hay trẻ em sử dụng hơn 1,5mg/kg trong vòng 1 giờ.</p><p>Có thể cân nhắc rửa ruột ở người lớn trong vòng 1 giờ sau khi sử dụng quá liều thuốc Drexler có khả năng đe doạ tính mạng.</p><p>Nếu suy giảm hệ thần kinh nghiêm trọng có thể sử dụng flumazenil. Không sử dụng trong trường hợp quá liều hỗn hợp hay như một test chẩn đoán.</p><p>Điều trị nên bao gồm cả biện pháp điều trị triệu chứng chung và biện pháp hỗ trợ bao gồm thông đường thở, theo dõi tim và các thông số sinh học cho đến khi bệnh nhân ổn định.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Dùng thuốc Drexler ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Drexler được chỉ định dùng trong điều trị ngắn hạn chứng <a href=\"https://nhathuoclongchau.com.vn/benh/mat-ngu-846.html\">mất ngủ</a>, bao gồm: Khó ngủ, tỉnh giấc ban đêm, tỉnh giấc sớm, mất ngủ thoáng qua, mất ngủ do hoàn cảnh hoặc mất ngủ mãn tính và mất ngủ thứ phát do rối loạn tâm thần, trong tình huống mà mất ngủ gây suy nhược hoặc gây stress cho bệnh nhân.</p><p>Không nên sử dụng thuốc Drexler liên tục và kéo dài. Quá trình điều trị nên sử dụng liều thấp nhất có hiệu quả.</p><h3><strong>Dược lực học</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/zopiclone\">Zopiclon</a> là một thuốc ngủ thuộc nhóm cyclopyrrolon. Nó nhanh chóng khởi phát giấc ngủ mà không giảm tổng giấc ngủ REM (giấc ngủ chuyển động mắt nhanh) và duy trì giấc ngủ kèm theo bảo toàn giấc ngủ sóng chậm. Ảnh hưởng còn dư vào sáng hôm sau ít hơn so với các benzodiazepin tác động ngắn. Đặc tính dược lực của nó bao gồm gây ngủ, an thần, chống lo âu, chống co giật và giãn cơ.</p><p>Cũng như diazepam, tác động của zopiclon có được thông qua tăng cường hoạt tính của gamma-aminobutyric acid (GABA) trong não. Zopiclon gắn với thành phần thụ thể benzodiazepin của phức hợp thụ thể GABA nhưng ở vị trí khác so với các benzodiazepin. Thuốc có thời gian tác động ngắn.</p><h3><strong>Dược động học</strong></h3><p>Zopiclon được hấp thu nhanh chóng và phân bố rộng sau khi uống. Thuốc có thời gian bán thải từ 3,5 đến 6,5 giờ và khoảng 45 - 80% gắn với protein huyết tương. Zopiclon được chuyển hóa mạnh tại gan; hai chất chuyển hóa chính, chất ít hoạt tính hơn zopiclon N-oxyd và chất không có hoạt tính N-desmethylzopiclon, được thải trừ chủ yếu qua đường tiểu.</p><p>Khoảng 50% liều uống chuyển thành chất không hoạt tính qua phản ứng decarboxyl hóa và được thải trừ chủ yếu qua đường hô hấp dưới dạng carbon oxyd. Chỉ có khoảng 5% liều uống dạng nguyên vẹn thải qua nước tiểu và 16% qua phân.</p><p>Thải trừ zopiclon trong nước bọt có thể gây nên vị đắng. Thuốc có thể đi qua sữa mẹ.</p>",
+      "brand": "Davipharm",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Drexler, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p>Cũng như diazepam, vị đắng kim loại trong miệng là tác dụng không mong muốn thường gặp nhất của zopiclon.</p><p>Ngoài ra còn có: Khô miệng, khó thức dậy vào buổi sáng, buồn ngủ, buồn nôn, ác mộng.</p><p>Các tác dụng không mong muốn liên quan đến thần kinh: Ảo giác, mất trí nhớ, rối loạn hành vi, hiệu ứng lệ thuộc thuốc, lạm dụng thuốc, hiệu ứng cai thuốc và làm trầm trọng thêm bệnh mất ngủ.</p><p>Thông báo cho thầy thuốc các tác dụng không mong muốn gặp phải khi dùng thuốc Drexler.</p>",
+      "specification": "Hộp 6 Vỉ x 10 Viên",
+      "indications": [
+        {
+          "id": 186,
+          "name": "Rối loạn tâm thần",
+          "slug": null
+        },
+        {
+          "id": 436,
+          "name": "Rối loạn giấc ngủ",
+          "slug": "benh/roi-loan-giac-ngu-29.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "DAVI",
+      "shortDescription": "<p>Thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/drexler-1070.html\">Drexler</a> là sản phẩm của Công ty Cổ phần&nbsp;Dược phẩm Đạt Vi Phú (Davipharm), thành phần chính Zopiclon là một loại thuốc có tác dụng điều trị rối loạn giấc ngủ nguyên nhân bất thường cơ thể và/hoặc tâm thần (khó ngủ, thường xuyên tỉnh giấc về đêm hoặc thức dậy sớm).</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ cho con bú",
+        "Suy gan thận",
+        "Phụ nữ có thai",
+        "Lái tàu xe"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Dị ứng thuốc, Suy hô hấp cấp",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/davipharm",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "DREXLER",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 798,
+        "name": "Thuốc thần kinh",
+        "parentName": "Thuốc hệ thần kinh",
+        "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_drexler_davi_6x10_00013499_73001c497a.png",
+          "alternativeText": "Thuốc Drexler Davipharm điều trị ngắn hạn chứng mất ngủ (60 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_2995_63d7_large_3058659698.jpg",
+          "alternativeText": "Thuốc Drexler Davipharm điều trị ngắn hạn chứng mất ngủ (60 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/drexler_cu_moi_fca76d30a6.png",
+          "alternativeText": "Thuốc Drexler Davipharm điều trị ngắn hạn chứng mất ngủ (60 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_4763_63d7_large_0fc366f009.jpg",
+          "alternativeText": "Thuốc Drexler Davipharm điều trị ngắn hạn chứng mất ngủ (60 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_3019_63d7_large_b593c48177.jpg",
+          "alternativeText": "Thuốc Drexler Davipharm điều trị ngắn hạn chứng mất ngủ (60 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_9146_63d7_large_87b11f2b24.jpg",
+          "alternativeText": "Thuốc Drexler Davipharm điều trị ngắn hạn chứng mất ngủ (60 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_8599_63d7_large_3b289e9c84.jpg",
+          "alternativeText": "Thuốc Drexler Davipharm điều trị ngắn hạn chứng mất ngủ (60 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_5555_63d7_large_84270e653f.jpg",
+          "alternativeText": "Thuốc Drexler Davipharm điều trị ngắn hạn chứng mất ngủ (60 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_6554_63d7_large_3c6ac2c62f.jpg",
+          "alternativeText": "Thuốc Drexler Davipharm điều trị ngắn hạn chứng mất ngủ (60 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_1675054376_6fd3d8e07b.jpg",
+          "alternativeText": "Thuốc Drexler Davipharm điều trị ngắn hạn chứng mất ngủ (60 viên) 10"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc hệ thần kinh",
+        "slug": "/thuoc/thuoc-than-kinh"
+      },
+      {
+        "name": "Thuốc thần kinh",
+        "slug": "/thuoc/thuoc-than-kinh/thuoc-than-kinh"
+      }
+    ],
+    "content": {
+      "sku": "00013499",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Uống trọn viên thuốc Drexler Zopiclone 7.5mg với một ly nước đầy.</p><h3><strong>Liều dùng</strong></h3><p>Người lớn: Uống 7,5mg (1 viên) trước khi đi ngủ.</p><p>Giảm liều đối với người già, suy gan từ nhẹ đến trung bình, suy thận.</p><p><i>Lưu ý: </i>Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p><strong>Triệu chứng</strong></p><p>Quá liều Drexler 7.5mg được biểu hiện bằng nhiều mức độ suy giảm hệ thần kinh trung ương từ buồn ngủ đến hôn mê, tùy theo liều tiêu hoá. Trong trường hợp nhẹ, các triệu chứng bao gồm: Buồn ngủ, lú lẫn và thờ ơ. Trong trường hợp nặng, các triệu chứng có thể bao gồm mất điều hoà vận động, giảm trương lực, hạ huyết áp, methaemoglobin máu, suy hô hấp và hôn mê.</p><p>Quá liều không dẫn đến tử vong trừ khi kết hợp với trầm cảm hệ thần kinh trung ương khác, bao gồm cả rượu. Các yếu tố nguy cơ khác, chẳng hạn như tình trạng suy nhược của bệnh nhân, có thể góp phần vào mức độ nghiêm trọng của các triệu chứng và rất hiếm khi có thể dẫn đến tử vong.</p><p><strong>Xử trí</strong></p><p>Điều trị triệu chứng và điều trị hỗ trợ trong môi trường lâm sàng thích hợp. Chú ý chức năng hô hấp và tim mạch.</p><p>Sử dụng than hoạt tính nếu người lớn sử dụng hơn 150mg hay trẻ em sử dụng hơn 1,5mg/kg trong vòng 1 giờ.</p><p>Có thể cân nhắc rửa ruột ở người lớn trong vòng 1 giờ sau khi sử dụng quá liều thuốc Drexler có khả năng đe doạ tính mạng.</p><p>Nếu suy giảm hệ thần kinh nghiêm trọng có thể sử dụng flumazenil. Không sử dụng trong trường hợp quá liều hỗn hợp hay như một test chẩn đoán.</p><p>Điều trị nên bao gồm cả biện pháp điều trị triệu chứng chung và biện pháp hỗ trợ bao gồm thông đường thở, theo dõi tim và các thông số sinh học cho đến khi bệnh nhân ổn định.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Dùng thuốc Drexler ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<?xml encoding=\"utf-8\" ?>\n",
+      "adverseEffect": "<p>Khi sử dụng thuốc Drexler, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p>Cũng như diazepam, vị đắng kim loại trong miệng là tác dụng không mong muốn thường gặp nhất của zopiclon.</p><p>Ngoài ra còn có: Khô miệng, khó thức dậy vào buổi sáng, buồn ngủ, buồn nôn, ác mộng.</p><p>Các tác dụng không mong muốn liên quan đến thần kinh: Ảo giác, mất trí nhớ, rối loạn hành vi, hiệu ứng lệ thuộc thuốc, lạm dụng thuốc, hiệu ứng cai thuốc và làm trầm trọng thêm bệnh mất ngủ.</p><p>Thông báo cho thầy thuốc các tác dụng không mong muốn gặp phải khi dùng thuốc Drexler.</p>",
+      "preservation": "<p>Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p>\n\n<p>Để xa tầm tay trẻ em.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Drexler được chỉ định dùng trong điều trị ngắn hạn chứng <a href=\"https://nhathuoclongchau.com.vn/benh/mat-ngu-846.html\">mất ngủ</a>, bao gồm: Khó ngủ, tỉnh giấc ban đêm, tỉnh giấc sớm, mất ngủ thoáng qua, mất ngủ do hoàn cảnh hoặc mất ngủ mãn tính và mất ngủ thứ phát do rối loạn tâm thần, trong tình huống mà mất ngủ gây suy nhược hoặc gây stress cho bệnh nhân.</p><p>Không nên sử dụng thuốc Drexler liên tục và kéo dài. Quá trình điều trị nên sử dụng liều thấp nhất có hiệu quả.</p><h3><strong>Dược lực học</strong></h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/zopiclone\">Zopiclon</a> là một thuốc ngủ thuộc nhóm cyclopyrrolon. Nó nhanh chóng khởi phát giấc ngủ mà không giảm tổng giấc ngủ REM (giấc ngủ chuyển động mắt nhanh) và duy trì giấc ngủ kèm theo bảo toàn giấc ngủ sóng chậm. Ảnh hưởng còn dư vào sáng hôm sau ít hơn so với các benzodiazepin tác động ngắn. Đặc tính dược lực của nó bao gồm gây ngủ, an thần, chống lo âu, chống co giật và giãn cơ.</p><p>Cũng như diazepam, tác động của zopiclon có được thông qua tăng cường hoạt tính của gamma-aminobutyric acid (GABA) trong não. Zopiclon gắn với thành phần thụ thể benzodiazepin của phức hợp thụ thể GABA nhưng ở vị trí khác so với các benzodiazepin. Thuốc có thời gian tác động ngắn.</p><h3><strong>Dược động học</strong></h3><p>Zopiclon được hấp thu nhanh chóng và phân bố rộng sau khi uống. Thuốc có thời gian bán thải từ 3,5 đến 6,5 giờ và khoảng 45 - 80% gắn với protein huyết tương. Zopiclon được chuyển hóa mạnh tại gan; hai chất chuyển hóa chính, chất ít hoạt tính hơn zopiclon N-oxyd và chất không có hoạt tính N-desmethylzopiclon, được thải trừ chủ yếu qua đường tiểu.</p><p>Khoảng 50% liều uống chuyển thành chất không hoạt tính qua phản ứng decarboxyl hóa và được thải trừ chủ yếu qua đường hô hấp dưới dạng carbon oxyd. Chỉ có khoảng 5% liều uống dạng nguyên vẹn thải qua nước tiểu và 16% qua phân.</p><p>Thải trừ zopiclon trong nước bọt có thể gây nên vị đắng. Thuốc có thể đi qua sữa mẹ.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc Drexler, bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3><strong>Chống chỉ định</strong></h3><p>Thuốc Drexler chống chỉ định trong các trường hợp sau:</p><ul><li>Nhược cơ nặng.</li><li>Suy hô hấp.</li><li>Hội chứng ngưng thở khi ngủ nặng.</li><li>Suy gan nặng.</li><li>Quá mẫn zopiclon hoặc bất kỳ thành phần nào của thuốc.</li><li>Cũng như tất cả các thuốc ngủ khác, không nên sử dụng zopiclon ở trẻ em.</li></ul><h3><strong>Thận trọng khi sử dụng</strong></h3><p><i>Bệnh nhân suy gan, thận:</i> Đối với bệnh nhân bị suy thận hay suy gan nhẹ đến trung bình, zopiclon nên được bắt đầu điều trị với liều 3,75mg trước khi ngủ. Không nên dùng thuốc cho người bị suy gan nặng.</p><p><i>Bệnh nhân suy giảm hô hấp:</i> Liều thấp được khuyến cáo cho bệnh nhân suy giảm hô hấp mạn tính do nguy cơ gây ức chế hô hấp.</p><p><i>Trẻ em:</i> Liều an toàn và hiệu quả của zopiclon chưa được thiết lập ở người nhỏ hơn 18 tuổi.</p><p><i>Người già:</i> Liều thấp 3,75mg nên được dùng khi bắt đầu điều trị cho người già. Tuỳ thuộc vào hiệu quả và khả năng chấp nhận. Liều dùng có thể tăng từ từ nếu cần thiết.</p><p><i>Nguy cơ lệ thuộc thuốc:</i> Nghiên cứu lâm sàng cho thấy nguy cơ lệ thuộc thuốc của zopiclon ít nhất khi thời gian sử dụng nhỏ hơn 4 tuần. Hiếm khi xảy ra lạm dụng thuốc.</p><p><i>Hiệu ứng cai thuốc:</i> Ngừng điều trị zopiclon thường không gây nên hiệu ứng cai thuốc nếu thời gian điều trị không quá 4 tuần. Bệnh nhân nên được giảm liều từ từ trước khi ngưng thuốc.</p><p><i>Trầm cảm: </i>Cũng như các thuốc ngủ khác, zopiclon không dùng để điều trị trầm cảm thậm chí có thể che dấu các triệu chứng trầm cảm (các bệnh nhân như vậy có thể dẫn đến tự tử). Tất cả các nguyên nhân cơ bản của mất ngủ nên được đưa ra trước khi điều trị triệu chứng để tránh những ảnh hưởng nghiêm trọng đến trầm cảm do điều trị.</p><p><i>Dung nạp thuốc:</i> Sau khi dùng liều lặp lại trong một vài tuần các benzodiazepin và chất tương tự benzodiazepin có thể sẽ giảm hiệu quả gây ngủ. Tuy nhiên, không thấy dấu hiệu dung nạp zopiclon nào trong quá trình điều trị không quá 4 tuần.</p><p><i>Mất ngủ trầm trọng hơn: </i>Là một hội chứng thoáng qua trong đó các triệu chứng được chỉ định điều trị bằng một benzodiazepin hoặc chất tương tự benzodiazepin tái phát ở mức độ nặng hơn khi điều trị không liên tục. Nó có thể kèm theo các phản ứng khác bao gồm thay đổi cảm xúc, lo lắng, bồn chồn.</p><p>Do nguy cơ hội chứng cai thuốc/hiện tượng tặng hơn sau khi dùng thuốc có thể tăng sau một quá trình điều trị kéo dài, hoặc ngưng điều trị đột ngột, nên phải giảm liều từ từ và tư vấn bệnh nhân cho phù hợp. Nên dùng liều thấp nhất kéo dài trong thời gian ngắn nhất mà điều trị có hiệu quả.</p><p><i>Mất trí nhớ: </i>Mất trí nhớ hiếm khi xảy ra, nhưng mất trí nhớ về sau có thể xảy ra, đặc biệt khi giấc ngủ bị gián đoạn hoặc khi việc nằm ngủ bị trì hoãn sau khi dùng thuốc. Do đó để giảm bớt khả năng mất trí nhớ về sau, bệnh nhân nên đảm bảo rằng chỉ dùng thuốc khi họ chắc chắn đi ngủ và ngủ đủ giấc vào buổi đêm (ngủ không gián đoạn và kéo dài khoảng 7 đến 8 tiếng).</p><p><i>Các phản ứng tâm thần và nghịch thường khác: </i>Phản ứng tâm thần và nghịch thường khác đã được báo cáo như: Bồn chồn, kích động, dễ cáu kỉnh, hung hăng, giận dữ, ác mộng, ảo giác, hành vi không phù hợp và các tác dụng không mong muốn lên hành vi khác đã xảy ra khi sử dụng các thuốc an thần/gây ngủ như zopiclon. Nếu có các hiện tượng trên, nên ngừng sử dụng thuốc. Những phản ứng này xảy ra nhiều hơn ở người cao tuổi.</p><p><i>Đi trong lúc ngủ và các hành vi liên quan: </i>Đi bộ khi ngủ và các hành vi khác liên quan như lái xe khi ngủ, chuẩn bị thực phẩm và ăn uống, hoặc gọi điện thoại, kèm theo mất trí nhớ các sự kiện, đã được báo cáo ở những bệnh nhân đã dùng zopiclon và không hoàn toàn tỉnh táo.</p><p>Việc sử dụng rượu và các <a href=\"https://nhathuoclongchau.com.vn/thuoc/he-than-kinh-trung-uong/thuoc-chong-tram-cam\">thuốc trầm cảm</a> hệ thần kinh trung ương khác với zopiclon xuất hiện làm tăng nguy cơ của các hành vi như vậy, cũng như việc sử dụng các zopiclon ở liều vượt quá liều tối đa. Ngưng zopiclon nên được xem xét cho các bệnh nhân có các hành vi như vậy.</p><h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3><p>Mặc dù tác động còn sót lại thì hiếm và thường không đáng kể, bệnh nhân vẫn nên tránh lái xe và vận hành máy móc ngày hôm sau khi uống thuốc Drexler đến khi chắc chắn khả năng hoạt động không bị suy giảm. Nguy cơ tăng nếu dùng thuốc chung với rượu.</p><h3><strong>Thời kỳ mang thai và cho con bú</strong></h3><p>Không có đủ dữ liệu để đánh giá an toàn của zopiclon ở phụ nữ có thai và cho con bú. Do đó không khuyến cáo sử dụng zopiclon ở phụ nữ có thai và cho con bú.</p><h3><strong>Tương tác thuốc</strong></h3><p>Tác dụng an thần của zopiclon có thể được nâng cao khi được sử dụng kết hợp với rượu, do đó không khuyến khích sử dụng đồng thời. Đặc biệt, điều này có thể ảnh hưởng đến khả năng lái xe hoặc sử dụng máy móc của bệnh nhân.</p><p>Kết hợp thuốc chống trầm cảm thần kinh trung ương có thể làm tăng cường tác dụng chống trầm cảm. Do đó, lợi ích điều trị của việc sử dụng phối hợp với các thuốc chống loạn thần (thuốc an thần kinh), thuốc ngủ, thuốc chống lo âu/thuốc an thần, các thuốc chống trầm cảm, thuốc giảm đau gây ngủ, thuốc chống động kinh, thuốc mê và các thuốc kháng histamin tác dụng an thần nên được cân nhắc cẩn thận.&nbsp;</p><p>Trong trường hợp <a href=\"https://nhathuoclongchau.com.vn/thuoc/he-than-kinh-trung-uong/thuoc-giam-dau-khong-opioid-and-ha-sot\">thuốc giảm đau</a> gây ngủ, tăng cường hưng phấn cũng có thể xảy ra dẫn đến sự gia tăng lệ thuộc thuốc về tâm lý. Các hợp chất ức chế enzym của gan nhất định (đặc biệt là cytochrom P450) có thể tăng cường hoạt động của các benzodiazepin và các chất tương tự benzodiazepin.</p><p>Do zopiclon được chuyển hóa bởi isoenzym cytochrom P450 3A4 (CYP), nồng độ huyết tương của zopiclon có thể tăng khi phối hợp với các chất ức chế CYP3A4 như erythromycin, clarithromycin, ketoconazol, itraconazol và ritonavir.</p><p>Giảm liều cho zopiclon có thể cần thiết khi nó được dùng chung với các chất ức chế CYP3A4. Ngược lại, nồng độ huyết tượng của zopiclon có thể bị giảm khi sử dụng đồng thời với các chất cảm ứng CYP3A4 như rifampicin, phenobarbital, carbamazepin, phenytoin và StJohn wort, do đó có thể phải tăng liều zopiclon khi dùng chung với các thuốc trên.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Drexler 7.5mg trị rối loạn giấc ngủ (6 vỉ x 10 viên)",
+        "metaDescription": "Drexler Zopiclon 7,5 mg trị ngắn hạn chứng mất ngủ như khó ngủ, tỉnh giấc sớm, tỉnh giấc ban đêm, mất ngủ thoáng qua,... Xem ngay liều dùng và giá bán!",
+        "id": 15925,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_drexler_davi_6x10_00013499_73001c497a.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Drexler Davipharm điều trị ngắn hạn chứng mất ngủ (60 viên)",
+            "description": "Thuốc Drexler là sản phẩm của Công ty Cổ phần&nbsp;Dược phẩm Đạt Vi Phú (Davipharm), thành phần chính Zopiclon là một loại thuốc có tác dụng điều trị rối loạn giấc ngủ nguyên nhân bất thường cơ thể và/hoặc tâm thần (khó ngủ, thường xuyên tỉnh giấc về đêm hoặc thức dậy sớm)."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 34333,
+        "title": "Những trường hợp nào không được sử dụng thuốc Drexler 7.5mg?",
+        "content": "<p>Thuốc Drexler 7.5mg chống chỉ định trong các trường hợp sau: Nhược cơ nặng, suy hô hấp, hội chứng ngưng thở khi ngủ nặng, suy gan nặng, quá mẫn với zopiclone hoặc bất kỳ thành phần nào của thuốc. Cũng như tất cả các thuốc ngủ khác, zopiclone không nên sử dụng ở trẻ em (dưới 18 tuổi).</p>"
+      },
+      {
+        "id": 34332,
+        "title": "Thuốc Drexler 7.5mg có những tác dụng phụ nào?",
+        "content": "<p>Tác dụng không mong muốn thường gặp nhất của zopiclone là vị đắng kim loại trong miệng. Ngoài ra, có thể gặp các tác dụng phụ khác như khô miệng, khó thức dậy vào buổi sáng, buồn ngủ, buồn nôn, ác mộng. Các tác dụng không mong muốn liên quan đến thần kinh có thể bao gồm ảo giác, mất trí nhớ, rối loạn hành vi, hiệu ứng lệ thuộc thuốc, lạm dụng thuốc, hiệu ứng cai thuốc và làm trầm trọng thêm bệnh mất ngủ. Nếu gặp bất kỳ tác dụng không mong muốn nào, cần thông báo ngay cho bác sĩ.</p>"
+      },
+      {
+        "id": 34331,
+        "title": "Cách dùng và liều dùng khuyến cáo của thuốc Drexler 7.5mg là như thế nào?",
+        "content": "<p>Thuốc Drexler 7.5mg được uống trọn viên với một ly nước đầy trước khi đi ngủ. Liều dùng khuyến cáo cho người lớn là 7,5mg (1 viên) trước khi đi ngủ. Cần giảm liều đối với người già, bệnh nhân suy gan từ nhẹ đến trung bình và bệnh nhân suy thận. Lưu ý, liều dùng cụ thể có thể thay đổi tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh, do đó cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế để có liều dùng phù hợp.</p>"
+      },
+      {
+        "id": 34330,
+        "title": "Cơ chế hoạt động của Zopiclone trong thuốc Drexler là gì?",
+        "content": "<p>Zopiclone hoạt động bằng cách tăng cường hoạt tính của gamma-aminobutyric acid (GABA) trong não. GABA là một chất dẫn truyền thần kinh giúp ức chế hoạt động của hệ thần kinh trung ương, từ đó gây ra tác dụng gây ngủ, an thần, chống lo âu, chống co giật và giãn cơ. Zopiclone gắn với thành phần thụ thể benzodiazepin của phức hợp thụ thể GABA nhưng ở vị trí khác so với các benzodiazepin.</p>"
+      },
+      {
+        "id": 34329,
+        "title": " Thuốc Drexler 7.5mg là gì và được sử dụng để điều trị những tình trạng nào?",
+        "content": "<p>Thuốc Drexler 7.5mg là sản phẩm của Công ty Cổ phần Dược phẩm Đạt Vi Phú (Davipharm), chứa thành phần chính là Zopiclone với hàm lượng 7.5mg. Zopiclone là một loại thuốc ngủ thuộc nhóm cyclopyrrolon. Thuốc Drexler được chỉ định dùng trong điều trị ngắn hạn chứng mất ngủ, bao gồm khó ngủ, tỉnh giấc ban đêm, tỉnh giấc sớm, mất ngủ thoáng qua, mất ngủ do hoàn cảnh hoặc mất ngủ mãn tính, và mất ngủ thứ phát do rối loạn tâm thần trong trường hợp mất ngủ gây suy nhược hoặc gây stress cho bệnh nhân.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00501102",
+        "name": "CHỐNG SAY TÀU XE MOMVINA HADIPHAR 25X4",
+        "webName": "Thuốc chống say tàu xe Momvina Hadiphar điều trị chứng buồn nôn, nôn, chóng mặt (25 vỉ x 4 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02663_072b3867e3.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 733,
+            "name": "Thuốc hệ thần kinh",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-than-kinh",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 798,
+            "name": "Thuốc thần kinh",
+            "parentName": "Thuốc hệ thần kinh",
+            "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 49787,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 91000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-chong-say-tau-xe-momvina-hadiphar-hop-25-vi-x-4-vien-35248.html",
+        "ingredients": "Dimenhydrinate 50mg",
+        "dosageForm": "Viên nén",
+        "brand": "Hadiphar",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 80,
+        "productRanking": 0,
+        "specification": "Hộp 25 Vỉ x 4 Viên",
+        "prices": [
+          {
+            "id": 49785,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 910,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 49786,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 3640,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 49787,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 91000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00029346",
+        "name": "TEBURAP 120MG DONGKOO 10X10",
+        "webName": "Viên nang mềm Teburap 120mg Dongkoo điều trị rối loạn tuần hoàn ngoại biên (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00029346_teburap_120mg_dongkoo_10x10_5076_60af_large_2712737258.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 733,
+            "name": "Thuốc hệ thần kinh",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-than-kinh",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 798,
+            "name": "Thuốc thần kinh",
+            "parentName": "Thuốc hệ thần kinh",
+            "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37750,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 6400,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/teburap-120mg-dongkoo-10x10-29782.html",
+        "ingredients": "Ginkgo biloba leaf extract 120mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Dongkoo",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 37750,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 6400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 37752,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 640000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 37751,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 64000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 257,
+          "attributeName": "Hàn Quốc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Han_Quoc_760f524a89.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00053171",
+        "name": "BẢO CHI ĐAN TÙNG LỘC 3X10",
+        "webName": "Thuốc Bảo chi đan Tùng lộc điều trị chứng ra mồ hôi tay (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_1_382664ddea.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 733,
+            "name": "Thuốc hệ thần kinh",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-than-kinh",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 798,
+            "name": "Thuốc thần kinh",
+            "parentName": "Thuốc hệ thần kinh",
+            "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 85258,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 180000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bao-chi-dan-tung-loc-3-x10.html",
+        "ingredients": "Bạch truật 800mg, Hoạt thạch 160mg, Sài Hồ 160mg, Bán hạ 400mg, Khương hoạt 160mg, Thăng ma 160mg, Cam thảo 160mg, Phục Linh 400mg, Hoàng liên 400mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "TÙNG LỘC",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 40,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 85258,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 180000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 85259,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 85260,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 86,
+      "items": [
+        {
+          "id": 3349533,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0969xxxxxx",
+          "name": "Minh Minh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Xin giá ạ",
+          "createdAt": "2026-07-31 12:01:34",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-31 12:01:34",
+          "replies": [
+            {
+              "id": 3349569,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Minh Tiến",
+                "moderatorEmail": "tiennm50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Minh Tiến",
+              "email": "tiennm50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Minh, </p><p>Hiện tại, sản phẩm Drexler&nbsp; có giá 150,000 ₫/hộp </p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-07-31 13:45:35",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-31 12:01:34",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3317569,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0963xxxxxx",
+          "name": "Minh Thắng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mình xin giá sản phẩm ạ",
+          "createdAt": "2026-06-04 16:36:37",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-06-04 16:36:37",
+          "replies": [
+            {
+              "id": 3317570,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Tiểu Thanh Trúc",
+                "moderatorEmail": "trucptt5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Tiểu Thanh Trúc",
+              "email": "trucptt5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh <strong>Thắng</strong></p><p>Hiện tại, sản phẩm có giá 150,000 ₫/hộp</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-06-04 16:37:51",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-06-04 16:36:37",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3289769,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0967xxxxxx",
+          "name": "Võ huỳnh trọng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Drexler giá nhiêu 1 hộp tui muốn mua",
+          "createdAt": "2026-04-13 05:56:27",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-13 05:56:27",
+          "replies": [
+            {
+              "id": 3289821,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Quý",
+                "moderatorEmail": "quyntn@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Ngọc Quý",
+              "email": "quyntn@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh <strong>Võ huỳnh trọng,</strong></p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-04-13 08:55:53",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-13 05:56:27",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3271222,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0989xxxxxx",
+          "name": "Nguyễn Thị Thuỳ Dương",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Muốn mua thuốc DREXLER",
+          "createdAt": "2026-03-10 07:43:26",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-10 07:43:26",
+          "replies": [
+            {
+              "id": 3271232,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Đỗ Diệp Minh",
+                "moderatorEmail": "minhdd38@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Đỗ Diệp Minh",
+              "email": "minhdd38@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Dương,</p><p>Nhà thuốc có hỗ trợ tư vấn</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với Chị qua số điện thoại đã cung cấp ạ.</p>",
+              "createdAt": "2026-03-10 08:05:43",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-10 07:43:26",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3269688,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0967xxxxxx",
+          "name": "nhung",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc mẫu mới có công dụng hoạt chất tác dụng giống như mẫu cũ k ạ",
+          "createdAt": "2026-03-06 17:01:19",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-03-06 17:01:19",
+          "replies": [
+            {
+              "id": 3269701,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Đình Nhân",
+                "moderatorEmail": "nhanhd4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Đình Nhân",
+              "email": "nhanhd4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Nhung,</p><p>Dạ thuốc mẫu mới chỉ thay đổi về bao bì, còn thành phần và công dụng vẫn giống mẫu cũ nên chị có thể yên tâm sử dụng như trước ạ.</p><p>Nhà thuốc thông tin đến chị ạ.</p>",
+              "createdAt": "2026-03-06 17:21:04",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-03-06 17:01:19",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 3,
+      "items": [
+        {
+          "id": 3236191,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0908xxxxxx",
+          "name": "Nguyễn Mạnh Thắng",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Đáng tiếc đã mua thuốc tại nhà thuố Việt sẽ liên hệ với nhà thuốc sau .",
+          "createdAt": "2025-12-27 18:05:41",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2025-12-27 18:05:41",
+          "replies": [
+            {
+              "id": 3236193,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Phương Lan",
+                "moderatorEmail": "lannp9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Phương Lan",
+              "email": "lannp9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Thắng,</p><p> Dạ rất cảm ơn tình cảm của anh dành cho Nhà thuốc FPT Long Châu. Chúc anh nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2025-12-27 18:12:07",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-12-27 18:05:41",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 2070538,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0977xxxxxx",
+          "name": "Hoàng v thụ",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tôi muốn mua thuốc",
+          "createdAt": "2024-09-05 22:11:46",
+          "createdAtDisplay": "05/09/2024",
+          "updatedAt": "2024-09-06 07:30:47",
+          "replies": [
+            {
+              "id": 2071111,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thuỳ Linh",
+                "moderatorEmail": "LinhNTT77@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Thị Thuỳ Linh",
+              "email": "LinhNTT77@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Hoàng V Thụ,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p>",
+              "createdAt": "2024-09-06 07:30:47",
+              "createdAtDisplay": "06/09/2024",
+              "updatedAt": "2024-09-06 07:30:47",
+              "replies": []
+            },
+            {
+              "id": 3070245,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0987xxxxxx",
+              "name": "Vũ văn diện",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Mua thuốc drulex ko có đơn có mua được ko",
+              "createdAt": "2025-03-17 21:52:05",
+              "createdAtDisplay": "17/03/2025",
+              "updatedAt": "2024-09-06 07:30:47",
+              "replies": []
+            },
+            {
+              "id": 3070248,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thanh  Tân",
+                "moderatorEmail": "tanht11@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Thanh  Tân",
+              "email": "tanht11@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Diện,</p><p>Dạ sản phẩm là thuốc kê toa nên phải có chỉ định từ bác sĩ ạ</p><p>Nhà thuốc thông tin đến bạn</p><p>Thân mến!</p>",
+              "createdAt": "2025-03-17 21:55:56",
+              "createdAtDisplay": "17/03/2025",
+              "updatedAt": "2024-09-06 07:30:47",
+              "replies": []
+            },
+            {
+              "id": 3367854,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0704xxxxxx",
+              "name": "Văn Cảnh Nguyễn",
+              "email": "vancanhn577@gmail.com",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Hk có đơn của bác sĩ mua ở nhà thuốc long châu đc hk ạ ",
+              "createdAt": "2026-09-03 17:33:01",
+              "createdAtDisplay": "1 ngày trước",
+              "updatedAt": "2024-09-06 07:30:47",
+              "replies": []
+            },
+            {
+              "id": 3367858,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thị Phượng",
+                "moderatorEmail": "phuonght34@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Thị Phượng",
+              "email": "phuonght34@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Cảnh,</p><p>Nhà thuốc có hỗ trợ tư vấn</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp ạ.</p>",
+              "createdAt": "2026-09-03 17:45:38",
+              "createdAtDisplay": "1 ngày trước",
+              "updatedAt": "2024-09-06 07:30:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 5
+        },
+        {
+          "id": 1946249,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0849xxxxxx",
+          "name": "Nguyễn Văn lượm",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mua thuốc",
+          "createdAt": "2024-08-17 15:07:58",
+          "createdAtDisplay": "17/08/2024",
+          "updatedAt": "2024-08-17 15:08:34",
+          "replies": [
+            {
+              "id": 1946257,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thanh Thảo",
+                "moderatorEmail": "Thaont214@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Thanh Thảo",
+              "email": "Thaont214@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Nguyễn Văn Lượm, </span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p>",
+              "createdAt": "2024-08-17 15:08:34",
+              "createdAtDisplay": "17/08/2024",
+              "updatedAt": "2024-08-17 15:08:34",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 3
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Drexler Davipharm điều trị ngắn hạn chứng mất ngủ (60 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_drexler_davi_6x10_00013499_73001c497a.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_2995_63d7_large_3058659698.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/drexler_cu_moi_fca76d30a6.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_4763_63d7_large_0fc366f009.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_3019_63d7_large_b593c48177.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_9146_63d7_large_87b11f2b24.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_8599_63d7_large_3b289e9c84.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_5555_63d7_large_84270e653f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013499_drexler_6554_63d7_large_3c6ac2c62f.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Drexler là sản phẩm của Công ty Cổ phần Dược phẩm Đạt Vi Phú (Davipharm), thành phần chính Zopiclon là một loại thuốc có tác dụng điều trị rối loạn giấc ngủ nguyên nhân bất thường cơ thể và/hoặc tâm thần (khó ngủ, thường xuyên tỉnh giấc về đêm hoặc thức dậy sớm).",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "3"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Drexler 7.5mg trị rối loạn giấc ngủ (6 vỉ x 10 viên)",
+      "description": "Drexler Zopiclon 7,5 mg trị ngắn hạn chứng mất ngủ như khó ngủ, tỉnh giấc sớm, tỉnh giấc ban đêm, mất ngủ thoáng qua,... Xem ngay liều dùng và giá bán!",
+      "openGraph": {
+        "title": "Thuốc Drexler Davipharm điều trị ngắn hạn chứng mất ngủ (60 viên)",
+        "description": "Thuốc Drexler là sản phẩm của Công ty Cổ phần&nbsp;Dược phẩm Đạt Vi Phú (Davipharm), thành phần chính Zopiclon là một loại thuốc có tác dụng điều trị rối loạn giấc ngủ nguyên nhân bất thường cơ thể và/hoặc tâm thần (khó ngủ, thường xuyên tỉnh giấc về đêm hoặc thức dậy sớm).",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_drexler_davi_6x10_00013499_73001c497a.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/drexler-1070.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/drexler-1070.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

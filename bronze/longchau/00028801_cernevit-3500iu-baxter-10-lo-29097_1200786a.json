@@ -1,0 +1,859 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/cernevit-3500iu-baxter-10-lo-29097.html",
+  "ingestion_timestamp": "2026-09-05T09:07:46.953016+00:00",
+  "file_hash": "3dfe89280b78a96181af7f60efa93c881325abab3ef49219743acc633796003d",
+  "lineage_hash": "e181ba48d5ac3a29e8519c82b5d6572ebbfb3bd0a6be74b1f349850a07e72d32",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/cernevit-3500iu-baxter-10-lo-29097.html",
+    "product": {
+      "sku": "00028801",
+      "webName": "Bột pha tiêm Cernevit Baxter bổ sung vitamin và khoáng chất (10 lọ)",
+      "name": "CERNEVIT 3500IU BAXTER 10 LỌ",
+      "shortName": "CERNEVIT 3500IU 10 LỌ",
+      "headingText": "Bột pha tiêm Cernevit",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00028801_cernevit_3500iu_baxter_10_lo_1613_60c8_large_db130beccf.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 734,
+          "name": "Thuốc tiêm chích & dịch truyền",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 800,
+          "name": "Thuốc tiêm chích",
+          "parentName": "Thuốc tiêm chích & dịch truyền",
+          "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/thuoc-tiem-chich",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 10 Lọ"
+        },
+        {
+          "measureUnitCode": 7,
+          "measureUnitName": "Lọ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Lọ"
+        }
+      ],
+      "slug": "thuoc/cernevit-3500iu-baxter-10-lo-29097.html",
+      "ingredient": [
+        {
+          "id": 43582,
+          "ingredientId": 34652,
+          "shortDescription": "3500iu",
+          "name": "Retinol",
+          "isPrimary": false,
+          "slug": "thanh-phan/retinol"
+        },
+        {
+          "id": 43583,
+          "ingredientId": 40361,
+          "shortDescription": "220iu",
+          "name": "Vitamin D3",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-d3"
+        },
+        {
+          "id": 43584,
+          "ingredientId": 16617,
+          "shortDescription": "10.2mg",
+          "name": "D-alpha tocopherol",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 43585,
+          "ingredientId": 40316,
+          "shortDescription": "3.51mg",
+          "name": "Vitamin B1",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b1"
+        },
+        {
+          "id": 43586,
+          "ingredientId": 40324,
+          "shortDescription": "4.14mg",
+          "name": "Vitamin B2",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b2"
+        },
+        {
+          "id": 43587,
+          "ingredientId": 40333,
+          "shortDescription": "4.53mg",
+          "name": "Vitamin B6",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 43588,
+          "ingredientId": 40318,
+          "shortDescription": "0.006mg",
+          "name": "Vitamin B12",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b12"
+        },
+        {
+          "id": 43589,
+          "ingredientId": 20575,
+          "shortDescription": "0.414mg",
+          "name": "Folic Acid",
+          "isPrimary": false,
+          "slug": "thanh-phan/folic-acid"
+        },
+        {
+          "id": 43590,
+          "ingredientId": 17318,
+          "shortDescription": "16.15mg",
+          "name": "Dexpanthenol",
+          "isPrimary": false,
+          "slug": "thanh-phan/dexpanthenol"
+        },
+        {
+          "id": 43591,
+          "ingredientId": 11067,
+          "shortDescription": "0.069mg",
+          "name": "Biotin",
+          "isPrimary": false,
+          "slug": "thanh-phan/biotin"
+        },
+        {
+          "id": 43592,
+          "ingredientId": 40393,
+          "shortDescription": "46mg",
+          "name": "Vitamin PP",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 43593,
+          "ingredientId": 21483,
+          "shortDescription": "250mg",
+          "name": "Glycine",
+          "isPrimary": false,
+          "slug": "thanh-phan/glycine"
+        },
+        {
+          "id": 43594,
+          "ingredientId": 21495,
+          "shortDescription": "140mg",
+          "name": "Glycocholic acid",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 43595,
+          "ingredientId": 25260,
+          "shortDescription": "112.5mg",
+          "name": "Lecithin",
+          "isPrimary": false,
+          "slug": "thanh-phan/lecithin"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "",
+      "registNum": "300110170600",
+      "manufactor": "Pháp",
+      "dosageForm": "Bột đông khô pha tiêm",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Bơm 5 ml nước cất pha tiêm vào lọ thuốc và lắc nhẹ để hòa tan bột. Dung dịch sau khi hòa tan được tiêm tĩnh mạch chậm (ít nhất 10 phút) hoặc truyền tĩnh mạch khi pha với nước muối sinh lý hoặc dung dịch glucose 5%.</p>\n\n<p>Cernevit có thể được bơm vào hỗn hợp dinh dưỡng đường tĩnh mạch kết hợp carbohydrat, lipid, amino acid, chất điện giải và những nguyên tố vi lượng với điều kiện đã kiểm tra về tính tương hợp và tính ổn định. Nếu truyền Cernevit tĩnh mạch, nên truyền chậm. Nếu tiêm tĩnh mạch, phải tiêm thật chậm (ít nhất 10 phút). </p>\n\n<h3>Liều dùng</h3>\n\n<p>Người lớn và trẻ em trên 11 tuổi dùng 1 lọ mỗi ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Dấu hiệu tăng vitamin A và vitamin D (hội chứng liên quan đến <a href=\"https://nhathuoclongchau.com.vn/bai-viet/tang-canxi-mau-co-nguy-hiem-khong-dieu-tri-the-nao-46185.html\">tăng calci máu</a>) có thể xảy ra trong trường hợp sử dụng lâu dài một lượng đáng kể những vitamin này.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Tham khảo ý kiến nhân viên y tế khi nghi ngờ quên liều.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/cernevit-3500iu-baxter-10-lo-29097.html\">Thuốc tiêm Cernevit Baxter </a>được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Bệnh nhân có nhu cầu cần bổ sung vitamin hằng ngày qua đường tĩnh mạch do chống chỉ định hoặc không thể dùng vitamin bằng đường uống hoặc do thiếu hụt vitamin (do <a href=\"https://nhathuoclongchau.com.vn/benh/suy-dinh-duong-298.html\">suy dinh dưỡng</a>, hấp thu kém qua đường tiêu hóa…). </li>\n\t<li>Thuốc dùng cho trẻ em từ 11 tuổi trở lên.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Cernevit là sự phối hợp cân bằng giữa các vitamin tan trong nước và tan trong dầu, cung cấp cho nhu cầu hằng ngày trong dinh dưỡng đường tĩnh mạch. Tính chất dược lực học của Cernevit là tập hợp những tính chất của từng thành phần trong số 12 vitamin.</p>\n\n<h3>Dược động học</h3>\n\n<p>Với các bệnh nhân dùng Cernevit, nồng độ trong huyết tương của các<a href=\"https://nhathuoclongchau.com.vn/thanh-phan/vitamin-a\"> vitamin A</a>, D, E được phục hồi và duy trì ở mức bình thường trong suốt thời gian dài dinh dưỡng đưỡng tĩnh mạch. Tính chất dược động học của Cernevit là tập hợp những tính chất của từng thành phần trong số 12 vitamin.</p>",
+      "brand": "Baxter",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Cernevit, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Không rõ tần suất</em></p>\n\n<ul>\n\t<li>\n\t<p>Tiêu hóa: <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">Rối loạn tiêu hóa</a>, nôn, buồn nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a>.</p>\n\t</li>\n\t<li>\n\t<p>Toàn thân: Rối loạn toàn thân, sốt, đau nhức.</p>\n\t</li>\n\t<li>\n\t<p>Chuyển hóa và trao đổi chất: Rối loạn chuyển hóa.</p>\n\t</li>\n\t<li>\n\t<p>Gan, mật: Rối loạn gan mật.</p>\n\t</li>\n\t<li>\n\t<p>Miễn dịch: Suy hô hấp, khó chịu ở ngực, tức ngực, đau họng, mày đay, phát ban, ban đỏ, khó chịu vùng thượng vị, ngừng tim gây tử vong.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Loạn vị giác, có vị kim loại trong miệng.</p>\n\t</li>\n\t<li>\n\t<p>Tim mạch: <a href=\"https://nhathuoclongchau.com.vn/bai-viet/nhip-tim-nhanh-la-benh-gi-co-nguy-hiem-hay-khong-53534.html\">Nhịp tim nhanh</a>.</p>\n\t</li>\n\t<li>\n\t<p>Hô hấp: Rối loạn hô hấp, lồng ngực, trung thất (thở nhanh).</p>\n\t</li>\n\t<li>\n\t<p>Da và mô mềm: Ngứa, đau tại vị trí tiêm/truyền.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 10 Lọ",
+      "indications": [],
+      "brandOrigin": "Hoa Kỳ",
+      "producer": "Fareva pau",
+      "shortDescription": "<p>Cernevit được sản xuất bởi Công ty Pierre Fabre Medicament production, thành phần chính là các vitamin được dùng để bổ sung vitamin hằng ngày qua đường tĩnh mạch cho các bệnh nhân chống chỉ định hoặc không thể dùng vitamin bằng đường uống hoặc do thiếu hụt vitamin (do <a href=\"https://nhathuoclongchau.com.vn/benh/suy-dinh-duong-298.html\">suy dinh dưỡng</a>, hấp thu kém qua đường tiêu hóa…).</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Trên 12 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ cho con bú",
+        "Phụ nữ có thai"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/baxter",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "CERNEVIT",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "18 tháng",
+      "brandOriginBadges": {
+        "id": 248,
+        "attributeName": "Hoa Kỳ",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/us_United_States_of_America_usa_59e1ad3af3.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 10 Lọ"
+      },
+      "highestLevelCategory": {
+        "id": 800,
+        "name": "Thuốc tiêm chích",
+        "parentName": "Thuốc tiêm chích & dịch truyền",
+        "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/thuoc-tiem-chich",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00028801_cernevit_3500iu_baxter_10_lo_1613_60c8_large_db130beccf.jpg",
+          "alternativeText": "Bột pha tiêm Cernevit Baxter bổ sung vitamin và khoáng chất (10 lọ) 1"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiêm chích & dịch truyền",
+        "slug": "/thuoc/thuoc-tiem-chich-and-dich-truyen"
+      },
+      {
+        "name": "Thuốc tiêm chích",
+        "slug": "/thuoc/thuoc-tiem-chich-and-dich-truyen/thuoc-tiem-chich"
+      }
+    ],
+    "content": {
+      "sku": "00028801",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Bơm 5 ml nước cất pha tiêm vào lọ thuốc và lắc nhẹ để hòa tan bột. Dung dịch sau khi hòa tan được tiêm tĩnh mạch chậm (ít nhất 10 phút) hoặc truyền tĩnh mạch khi pha với nước muối sinh lý hoặc dung dịch glucose 5%.</p>\n\n<p>Cernevit có thể được bơm vào hỗn hợp dinh dưỡng đường tĩnh mạch kết hợp carbohydrat, lipid, amino acid, chất điện giải và những nguyên tố vi lượng với điều kiện đã kiểm tra về tính tương hợp và tính ổn định. Nếu truyền Cernevit tĩnh mạch, nên truyền chậm. Nếu tiêm tĩnh mạch, phải tiêm thật chậm (ít nhất 10 phút). </p>\n\n<h3>Liều dùng</h3>\n\n<p>Người lớn và trẻ em trên 11 tuổi dùng 1 lọ mỗi ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Dấu hiệu tăng vitamin A và vitamin D (hội chứng liên quan đến <a href=\"https://nhathuoclongchau.com.vn/bai-viet/tang-canxi-mau-co-nguy-hiem-khong-dieu-tri-the-nao-46185.html\">tăng calci máu</a>) có thể xảy ra trong trường hợp sử dụng lâu dài một lượng đáng kể những vitamin này.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Tham khảo ý kiến nhân viên y tế khi nghi ngờ quên liều.</p>",
+      "referenceSource": "<html><body><p>Tờ hướng dẫn sử dụng thuốc Cernevit.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Cernevit, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Không rõ tần suất</em></p>\n\n<ul>\n\t<li>\n\t<p>Tiêu hóa: <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">Rối loạn tiêu hóa</a>, nôn, buồn nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a>.</p>\n\t</li>\n\t<li>\n\t<p>Toàn thân: Rối loạn toàn thân, sốt, đau nhức.</p>\n\t</li>\n\t<li>\n\t<p>Chuyển hóa và trao đổi chất: Rối loạn chuyển hóa.</p>\n\t</li>\n\t<li>\n\t<p>Gan, mật: Rối loạn gan mật.</p>\n\t</li>\n\t<li>\n\t<p>Miễn dịch: Suy hô hấp, khó chịu ở ngực, tức ngực, đau họng, mày đay, phát ban, ban đỏ, khó chịu vùng thượng vị, ngừng tim gây tử vong.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Loạn vị giác, có vị kim loại trong miệng.</p>\n\t</li>\n\t<li>\n\t<p>Tim mạch: <a href=\"https://nhathuoclongchau.com.vn/bai-viet/nhip-tim-nhanh-la-benh-gi-co-nguy-hiem-hay-khong-53534.html\">Nhịp tim nhanh</a>.</p>\n\t</li>\n\t<li>\n\t<p>Hô hấp: Rối loạn hô hấp, lồng ngực, trung thất (thở nhanh).</p>\n\t</li>\n\t<li>\n\t<p>Da và mô mềm: Ngứa, đau tại vị trí tiêm/truyền.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Bảo quản ở nhiệt độ dưới 30°C, tránh ánh sáng</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/cernevit-3500iu-baxter-10-lo-29097.html\">Thuốc tiêm Cernevit Baxter </a>được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Bệnh nhân có nhu cầu cần bổ sung vitamin hằng ngày qua đường tĩnh mạch do chống chỉ định hoặc không thể dùng vitamin bằng đường uống hoặc do thiếu hụt vitamin (do <a href=\"https://nhathuoclongchau.com.vn/benh/suy-dinh-duong-298.html\">suy dinh dưỡng</a>, hấp thu kém qua đường tiêu hóa…). </li>\n\t<li>Thuốc dùng cho trẻ em từ 11 tuổi trở lên.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Cernevit là sự phối hợp cân bằng giữa các vitamin tan trong nước và tan trong dầu, cung cấp cho nhu cầu hằng ngày trong dinh dưỡng đường tĩnh mạch. Tính chất dược lực học của Cernevit là tập hợp những tính chất của từng thành phần trong số 12 vitamin.</p>\n\n<h3>Dược động học</h3>\n\n<p>Với các bệnh nhân dùng Cernevit, nồng độ trong huyết tương của các<a href=\"https://nhathuoclongchau.com.vn/thanh-phan/vitamin-a\"> vitamin A</a>, D, E được phục hồi và duy trì ở mức bình thường trong suốt thời gian dài dinh dưỡng đưỡng tĩnh mạch. Tính chất dược động học của Cernevit là tập hợp những tính chất của từng thành phần trong số 12 vitamin.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định</h3>\n\n<p>Thuốc Cernevit chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Có tiền sử quá mẫn với Cernevit hoặc những sản phẩm có protein đậu nành lecithin trong hỗn hợp michelle có nguồn gốc từ đậu nành.</p>\n\t</li>\n\t<li>\n\t<p>Chứng thừa vitamin từ bất kỳ vitamin nào trong chế phẩm.</p>\n\t</li>\n\t<li>\n\t<p>Quá mẫn với các hoạt chất, đặc biệt là vitamin B1.</p>\n\t</li>\n\t<li>\n\t<p>Trẻ sơ sinh, trẻ đang bú và trẻ em dưới 11 tuổi.</p>\n\t</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Thận trọng khi dùng Cernevit ở những bệnh nhân đang dùng vitamin A từ những nguồn khác. Sau khi tiêm bolus tĩnh mạch, sự tăng men SGPT mức trung bình được ghi nhận ở vài bệnh nhân có viêm ruột. Mức độ tăng sẽ phục hồi nhanh sau khi ngưng sử dụng thuốc.</p>\n\n<p><em>Ảnh hưởng trên gan:</em></p>\n\n<p>Khuyến cáo theo dõi chức năng gan trên những bệnh nhân sử dụng Cernevit, đặc biệt trên những bệnh nhân vàng da do viêm gan hoặc có những dấu hiệu ứ mật.</p>\n\n<p><em>Bệnh nhân suy gan và suy thận:</em></p>\n\n<p>Có thể cần cá thể hóa nhu cầu vitamin bổ sung.</p>\n\n<p>Cần theo dõi tình trạng lâm sàng và nồng độ vitamin trên bệnh nhân sử dụng vitamin tổng hợp qua đường tĩnh mạch như nguồn cung cấp vitamin duy nhất trong một thời gian dài.</p>\n\n<p><em>Dùng thuốc trên bệnh nhân thiếu hụt vitamin B12:</em></p>\n\n<p>Nên đánh giá trình trạng vitamin B12 trước khi bắt đầu sử dụng Cernevit trên bệnh nhân có nguy cơ thiếu hụt vitamin B12 và/hoặc khi có liệu trình chỉ định Cernevit trong vài tuần. Hiệu quả điều trị thiếu hụt vitamin B12 đòi hỏi cung cấp liều cyanocobalamin cao hơn liều trong Cernevit.</p>\n\n<p><em>Ảnh hưởng đến xét nghiệm lâm sàng:</em></p>\n\n<p>Tùy thuộc vào thuốc thu được sử dụng, sự hiện diện của acid ascorbbic trong máu và nước tiểu có thể dẫn đến đọc sai kết quả trong các xét nghiệm đường trong máu và nước tiểu.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Hiện chưa có thông tin ảnh hưởng của Cernevit lên khả năng lái xe và vận hành máy móc.</p>\n\n<h3>Thời kỳ mang thai </h3>\n\n<p>Việc sử dụng Cernevit ở phụ nữ có thai hiện vẫn chưa được nghiên cứu.</p>\n\n<h3>Thời kỳ cho con bú</h3>\n\n<p>Vitamin được bài tiết qua sữa mẹ, thuốc được khuyên không nên dùng cho phụ nữ đang cho con bú.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Cần kiểm soát hợp lý tương tác giữa các vitamin trong Cernevit và các tác nhân khác bao gồm: </p>\n\n<p>Các tác nhân có thể gây u giả não bộ: Nguy cơ u giả não bộ tăng khi phối hợp với vitamin A; rượu (lạm dụng quá mức mạn tính); tăng nguy cơ nhiễm độc gan do vitamin A; thuốc chống <a href=\"https://nhathuoclongchau.com.vn/benh/dong-kinh-621.html\">động kinh</a>.</p>\n\n<p>Acid folic có thể làm giảm nồng độ của thuốc chống động kinh trong huyết thanh và làm tăng nguy cơ co giật.</p>\n\n<p>Các thuốc chống tiểu cầu: Vitamin E có thể gây ức chế chức năng tiểu cầu.</p>\n\n<p>Aspirin liều cao: Có thể làm giảm nồng độ acid folic do tăng bài tiết nước tiểu.</p>\n\n<p>Một số thuốc chống động kinh: Có thể gây thiếu hụt folat, pyridoxine và vitamin D.</p>\n\n<p>Một số thuốc kháng retrovirus: Liên quan đến việc giảm nồng độ vitamin D. Sự giảm chuyển hóa vitamin D hoạt động có thể liên quan đến thuốc ức chế protease.</p>\n\n<p>Chloramphenicol: Có thể ức chế đáp ứng về mặt huyết học của liệu pháp vitamin B12.</p>\n\n<p>Thuốc giải độc do ngộ độc sắt: Tương tác thuốc gây tăng nguy cơ suy tim cảm ứng sắt do tăng huy động sắt khi bổ sung vitamin C trên mức sinh lý.</p>\n\n<p>Ethionamid: Có thể gây thiếu hụt pyridoxin.</p>\n\n<p>Fluoroquinolon: Tăng nguy cơ nhiễm độc khi phối hợp acid folic.</p>\n\n<p>Thuốc đối kháng folat: Cản trở việc chuyển đổi folat sang dạng chất chuyển hóa hoạt động và làm giảm hiệu quả của việc bổ sung folat.</p>\n\n<p>Chất chống chuyển hóa folat: Bổ sung acid folic có thể làm giảm hiệu quả của chất chống chuyển hóa folat.</p>\n\n<p>Chất đối kháng pyridoxin: Có thể gây thiếu hụt pyridoxin.</p>\n\n<p>Các retinoid, bexaroten: Tăng nguy cơ nhiễm độc khi sử dụng đồng thời vitamin A.</p>\n\n<p>Theophyllin: Có thể gây thiếu hụt pyridoxin.</p>\n\n<p>Thuốc liên kết với alpha1-acid glycoprotein: Nồng độ acid glycocholic tăng khi dùng đồng thời cernevit. Bệnh nhân cần theo dõi chặt chẽ khi dùng đồng thời hai thuốc.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Cernevit Baxter: Thuốc tiêm bổ sung vitamin và khoáng chất (10 lọ)",
+        "metaDescription": "Thuốc Cernevit 3500Iu Baxter dùng để bổ sung vitamin hằng ngày qua đường tiêm tĩnh mạch cho các bệnh nhân chống chỉ định hoặc không thể dùng vitamin bằng đường uống.",
+        "id": 6272,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00028801_cernevit_3500iu_baxter_10_lo_1613_60c8_large_db130beccf.jpg",
+              "alternativeText": null
+            },
+            "title": "Bột pha tiêm Cernevit Baxter bổ sung vitamin và khoáng chất (10 lọ)",
+            "description": "Cernevit được sản xuất bởi Công ty Pierre Fabre Medicament production, thành phần chính là các vitamin được dùng để bổ sung vitamin hằng ngày qua đường tĩnh mạch cho các bệnh nhân chống chỉ định hoặc không thể dùng vitamin bằng đường uống hoặc do thiếu hụt vitamin (do suy dinh dưỡng, hấp thu kém qua đường tiêu hóa…)."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 373,
+        "title": "Dược lực học là gì?",
+        "content": "<p>\r\n\r\nDược lực học l&agrave; nghi&ecirc;n cứu c&aacute;c ảnh hưởng sinh h&oacute;a, sinh l&yacute;, v&agrave; ph&acirc;n tử của thuốc tr&ecirc;n cơ thể v&agrave; li&ecirc;n quan đến thụ thể li&ecirc;n kết, hiệu ứng sau thụ thể, v&agrave; tương t&aacute;c h&oacute;a học. Dược lực học, với dược động học, gi&uacute;p giải th&iacute;ch mối quan hệ giữa liều v&agrave; đ&aacute;p ứng, tức l&agrave; c&aacute;c t&aacute;c dụng của thuốc. Đ&aacute;p ứng dược l&yacute; phụ thuộc v&agrave;o sự li&ecirc;n kết của thuốc với đ&iacute;ch t&aacute;c dụng. Nồng độ thuốc ở vị tr&iacute; thụ thể ảnh hưởng đến t&aacute;c dụng của thuốc.</p>"
+      },
+      {
+        "id": 372,
+        "title": "Dược động học là gì?",
+        "content": "<p>\r\n\r\nDược động học l&agrave; những t&aacute;c động của cơ thể đối với thuốc trong suốt qu&aacute; tr&igrave;nh thuốc đi v&agrave;o, ở trong v&agrave; đi ra khỏi cơ thể- bao gồm c&aacute;c qu&aacute; tr&igrave;nh hấp thụ, sinh khả dụng, ph&acirc;n bố, chuyển h&oacute;a, v&agrave; thải trừ.</p>"
+      },
+      {
+        "id": 371,
+        "title": "Tác dụng phụ của thuốc là gì? Cách phòng tránh tác dụng phụ của thuốc",
+        "content": "<p>\r\n\r\nT&aacute;c dụng phụ l&agrave; những triệu chứng kh&ocirc;ng mong muốn xảy ra khi ch&uacute;ng ta uống thuốc. C&aacute;c t&aacute;c dụng phụ n&agrave;y c&oacute; thể kh&ocirc;ng nghi&ecirc;m trọng, chẳng hạn chỉ g&acirc;y <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><strong>đau đầu</strong></a> hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mieng-312.html\"><strong>kh&ocirc; miệng</strong></a>. Nhưng cũng c&oacute; những t&aacute;c dụng phụ đe dọa t&iacute;nh mạng. Cẩn ph&ograve;ng tr&aacute;nh t&aacute;c dụng phụ của <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> như: Th&ocirc;ng b&aacute;o c&aacute;c loại thuốc đang sử dụng với b&aacute;c sĩ, c&aacute;c <strong><a href=\"https://nhathuoclongchau.com.vn/benh\">bệnh</a></strong> l&yacute; nền hiện tại, c&aacute;c tương t&aacute;c của thuốc đến thực phẩm hằng ng&agrave;y. Đọc kỹ hướng dẫn sử dụng thuốc v&agrave; nếu gặp t&aacute;c dụng phụ cần b&aacute;o ngay cho b&aacute;c sĩ.</p>"
+      },
+      {
+        "id": 370,
+        "title": "Sử dụng thuốc đúng cách như thế nào?",
+        "content": "<p>\r\n\r\nSử dụng <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> đ&uacute;ng c&aacute;ch l&agrave; uống thuốc theo chỉ dẫn của dược sĩ, b&aacute;c sĩ. Ngo&agrave;i ra kh&ocirc;ng d&ugrave;ng nước quả, nước kho&aacute;ng hoặc c&aacute;c loại nước ngọt đ&oacute;ng hộp c&oacute; gas để uống thuốc. Kh&ocirc;ng d&ugrave;ng sữa để uống thuốc v&igrave; trong th&agrave;nh phần của sữa c&oacute; chứa <strong><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/canxi\">canxi</a></strong>. Kh&ocirc;ng d&ugrave;ng c&agrave; ph&ecirc; hay nước ch&egrave; để uống thuốc. Chỉ n&ecirc;n uống c&ugrave;ng nước lọc.</p>"
+      },
+      {
+        "id": 369,
+        "title": "Các dạng bào chế của thuốc?",
+        "content": "<p>\r\n\r\nC&oacute; c&aacute;c dạng b&agrave;o chế thuốc như<br />\r\nTheo thể chất:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc thể rắn (thuốc bột, thuốc vi&ecirc;n).</li>\r\n\t<li>C&aacute;c dạng thuốc thể mềm (thuốc cao, thuốc mỡ, gel).</li>\r\n\t<li>C&aacute;c dạng thuốc thể lỏng (dung dịch, hỗn dịch, nhũ dịch, xiro).</li>\r\n</ul>\r\n\r\n<p>Theo đường d&ugrave;ng:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc uống (vi&ecirc;n, bột, dung dịch, nhũ dịch, hỗn dịch).</li>\r\n\t<li>C&aacute;c dạng thuốc ti&ecirc;m (dung dịch, hỗn dịch, nhũ dịch, bột pha ti&ecirc;m, dịch truyền).</li>\r\n\t<li>C&aacute;c dạng thuốc d&ugrave;ng ngo&agrave;i (thuốc b&ocirc;i tr&ecirc;n da, thuốc nhỏ l&ecirc;n ni&ecirc;m mạc, thuốc s&uacute;c miệng).</li>\r\n\t<li>C&aacute;c dạng thuốc đặt v&agrave;o c&aacute;c hốc tự nhi&ecirc;n tr&ecirc;n cơ thể (thuốc đặt hậu m&ocirc;n, thuốc trứng đặt &acirc;m đạo...).</li>\r\n</ul>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 51,
+      "items": [
+        {
+          "id": 3349614,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0978xxxxxx",
+          "name": "chị vân",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Long Châu. ở đường Ngô Quyền - TP Hải Dương có ko ak",
+          "createdAt": "2026-07-31 15:37:36",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-31 15:37:36",
+          "replies": [
+            {
+              "id": 3349618,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Chu Thị Tuyết Nhung",
+                "moderatorEmail": "nhungctt3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Chu Thị Tuyết Nhung",
+              "email": "nhungctt3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Vân,</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-07-31 15:50:58",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-31 15:37:36",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3340619,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0787xxxxxx",
+          "name": "Lê thi định",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Nhà thuốc long châu nam phước- đà nẵng có hàg k ạ",
+          "createdAt": "2026-07-16 17:43:59",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-16 17:43:59",
+          "replies": [
+            {
+              "id": 3340622,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trịnh Thu Nga",
+                "moderatorEmail": "ngatt24@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trịnh Thu Nga",
+              "email": "ngatt24@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Định,</p><p>Dạ sản phẩm còn hàng trên hệ thống Nhà thuốc FPT Long Châu.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-07-16 17:51:31",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-16 17:43:59",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3330520,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0902xxxxxx",
+          "name": "Thái Thị Hoàng",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": " Một người có thể truyền tối đa bao nhiêu lọ ?",
+          "createdAt": "2026-06-30 12:37:52",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-30 12:37:53",
+          "replies": [
+            {
+              "id": 3330524,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Thảo Loan",
+                "moderatorEmail": "loanltt8@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Thảo Loan",
+              "email": "loanltt8@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Hoàng,</p><p>Dạ sản phẩm là thuốc kê đơn mình nên sử dụng theo chỉ định của bác sĩ ạ.</p><p>Nhà thuốc thông tin đến Chị.</p><p><br></p>",
+              "createdAt": "2026-06-30 12:47:52",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-30 12:37:53",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3320245,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0376xxxxxx",
+          "name": "Mai Lê",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Có bán lẻ không ạ",
+          "createdAt": "2026-06-10 11:25:08",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-10 11:25:08",
+          "replies": [
+            {
+              "id": 3320246,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thanh Trúc",
+                "moderatorEmail": "trucht5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Thanh Trúc",
+              "email": "trucht5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Mai,</p><p>Hiện tại, sản phẩm Bột pha tiêm Cernevit Baxter bổ sung vitamin và khoáng chất (10 lọ) có giá 155,000 ₫ Lọ ạ.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p><p>Nhà thuốc thông tin đến Chị.</p>",
+              "createdAt": "2026-06-10 11:27:56",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-10 11:25:08",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3295112,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0333xxxxxx",
+          "name": "quỳnh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá 1 hộp",
+          "createdAt": "2026-04-22 11:14:31",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-22 11:14:31",
+          "replies": [
+            {
+              "id": 3295121,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Phương Lan",
+                "moderatorEmail": "lannp9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Phương Lan",
+              "email": "lannp9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Quỳnh,</p><p>Hiện tại, sản phẩm có giá 1,550,000 ₫/ Hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-04-22 11:19:10",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-22 11:14:31",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 3256951,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0932xxxxxx",
+          "name": "Trí",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc giá nhiêu vậy ạ?",
+          "createdAt": "2026-02-05 16:11:45",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-05 16:11:45",
+          "replies": [
+            {
+              "id": 3256961,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thuỳ Linh",
+                "moderatorEmail": "linhntt67@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thuỳ Linh",
+              "email": "linhntt67@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Trí,</p><p>Hiện tại, sản phẩm Bột pha tiêm Cernevit Baxter bổ sung vitamin và khoáng chất (10 lọ) có giá 1,550,000 ₫/Hộp ạ.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-02-05 16:20:41",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-05 16:11:45",
+              "replies": []
+            },
+            {
+              "id": 3330333,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0333xxxxxx",
+              "name": "Giang",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Ở Long châu Việt trì có k?",
+              "createdAt": "2026-06-30 07:33:55",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-02-05 16:11:45",
+              "replies": []
+            },
+            {
+              "id": 3330363,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Đỗ Diệp Minh",
+                "moderatorEmail": "minhdd38@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Đỗ Diệp Minh",
+              "email": "minhdd38@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Giang,</p><p>Dạ sản phẩm Bột pha tiêm Cernevit Baxter bổ sung vitamin và khoáng chất (10 lọ) hiện đang sẵn hàng tai khu vực Việt Trì.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với Chị qua số điện thoại đã cung cấp ạ.</p>",
+              "createdAt": "2026-06-30 08:29:31",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-02-05 16:11:45",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Bột pha tiêm Cernevit Baxter bổ sung vitamin và khoáng chất (10 lọ)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00028801_cernevit_3500iu_baxter_10_lo_1613_60c8_large_db130beccf.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Cernevit được sản xuất bởi Công ty Pierre Fabre Medicament production, thành phần chính là các vitamin được dùng để bổ sung vitamin hằng ngày qua đường tĩnh mạch cho các bệnh nhân chống chỉ định hoặc không thể dùng vitamin bằng đường uống hoặc do thiếu hụt vitamin (do suy dinh dưỡng, hấp thu kém qua đường tiêu hóa…).",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Cernevit Baxter: Thuốc tiêm bổ sung vitamin và khoáng chất (10 lọ)",
+      "description": "Thuốc Cernevit 3500Iu Baxter dùng để bổ sung vitamin hằng ngày qua đường tiêm tĩnh mạch cho các bệnh nhân chống chỉ định hoặc không thể dùng vitamin bằng đường uống.",
+      "openGraph": {
+        "title": "Bột pha tiêm Cernevit Baxter bổ sung vitamin và khoáng chất (10 lọ)",
+        "description": "Cernevit được sản xuất bởi Công ty Pierre Fabre Medicament production, thành phần chính là các vitamin được dùng để bổ sung vitamin hằng ngày qua đường tĩnh mạch cho các bệnh nhân chống chỉ định hoặc không thể dùng vitamin bằng đường uống hoặc do thiếu hụt vitamin (do suy dinh dưỡng, hấp thu kém qua đường tiêu hóa…).",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00028801_cernevit_3500iu_baxter_10_lo_1613_60c8_large_db130beccf.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/cernevit-3500iu-baxter-10-lo-29097.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/cernevit-3500iu-baxter-10-lo-29097.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

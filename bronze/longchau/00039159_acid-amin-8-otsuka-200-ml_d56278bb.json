@@ -1,0 +1,752 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/acid-amin-8-otsuka-200-ml.html",
+  "ingestion_timestamp": "2026-09-05T08:44:37.636946+00:00",
+  "file_hash": "f11fd5c97d9a74e58b3d6a3d163bad2eb557229e158a1f8939907b471e106eb7",
+  "lineage_hash": "6153d287b96f78b3781198355aa9a79a0b9f05b8f86c85198bffef90d0ffcb4d",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/acid-amin-8-otsuka-200-ml.html",
+    "product": {
+      "sku": "00039159",
+      "webName": "Dung dịch tiêm truyền tĩnh mạch Acid Amin 8% Otsuka điều trị bệnh lý não do gan ở bệnh nhân suy gan mãn tính (200ml)",
+      "name": "ACID AMIN 8% OTSUKA 200ML",
+      "shortName": "ACID AMIN 8% OTSUKA 200ML",
+      "headingText": "Dung dịch tiêm truyền tĩnh mạch Acid Amin 8%",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/935_00039159_0c4b01ae90.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 734,
+          "name": "Thuốc tiêm chích & dịch truyền",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 799,
+          "name": "Dịch truyền",
+          "parentName": "Thuốc tiêm chích & dịch truyền",
+          "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/dich-truyen",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Chai x 200ml"
+        }
+      ],
+      "slug": "thuoc/acid-amin-8-otsuka-200-ml.html",
+      "ingredient": [
+        {
+          "id": 55753,
+          "ingredientId": 25071,
+          "shortDescription": "1.46g",
+          "name": "L-Arginine HCL",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 55754,
+          "ingredientId": 25495,
+          "shortDescription": "0.64g",
+          "name": "L-Histidine",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 55755,
+          "ingredientId": 25730,
+          "shortDescription": "0.2g",
+          "name": "L-Methionine",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 55756,
+          "ingredientId": 25926,
+          "shortDescription": "0.2g",
+          "name": "L-Phenylalanine",
+          "isPrimary": false,
+          "slug": "thanh-phan/l-phenylalanine"
+        },
+        {
+          "id": 55757,
+          "ingredientId": 25975,
+          "shortDescription": "0.9g",
+          "name": "L-Threonine",
+          "isPrimary": false,
+          "slug": "thanh-phan/l-threonine"
+        },
+        {
+          "id": 55758,
+          "ingredientId": 26088,
+          "shortDescription": "1.68g",
+          "name": "L-Valine",
+          "isPrimary": false,
+          "slug": "thanh-phan/l-valine"
+        },
+        {
+          "id": 55759,
+          "ingredientId": 21483,
+          "shortDescription": "1.8g",
+          "name": "Glycine",
+          "isPrimary": false,
+          "slug": "thanh-phan/glycine"
+        },
+        {
+          "id": 55760,
+          "ingredientId": 25721,
+          "shortDescription": "1.52g",
+          "name": "L-Lysine",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 55761,
+          "ingredientId": 25980,
+          "shortDescription": "0.14g",
+          "name": "L-Tryptophan",
+          "isPrimary": false,
+          "slug": "thanh-phan/l-tryptophan"
+        },
+        {
+          "id": 55762,
+          "ingredientId": 25712,
+          "shortDescription": "2.2g",
+          "name": "L-Leucine",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 55763,
+          "ingredientId": 25671,
+          "shortDescription": "1.8g",
+          "name": "L-Isoleucine",
+          "isPrimary": false,
+          "slug": "thanh-phan/l-isoleucine"
+        },
+        {
+          "id": 55764,
+          "ingredientId": 25933,
+          "shortDescription": "1.6g",
+          "name": "L-Proline",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 55765,
+          "ingredientId": 25951,
+          "shortDescription": "1g",
+          "name": "L-Serine",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 55766,
+          "ingredientId": 24964,
+          "shortDescription": "1.5g",
+          "name": "L-Alanine",
+          "isPrimary": false,
+          "slug": "thanh-phan/l-alanine"
+        },
+        {
+          "id": 55767,
+          "ingredientId": 25225,
+          "shortDescription": "0.08g",
+          "name": "L-Cysteine",
+          "isPrimary": false,
+          "slug": "thanh-phan/l-cysteine"
+        },
+        {
+          "id": 55768,
+          "ingredientId": 29241,
+          "shortDescription": "0.06g",
+          "name": "Natri bisulfite",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "200ml",
+      "registNum": "893110115824",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Dung dịch",
+      "dosage": "<h3>Cách dùng</h3><p>Tiêm truyền tĩnh mạch.</p><h3>Liều dùng</h3><p dir=\"ltr\">Liều dùng thông thường ở người lớn là 500 ml - 1000 ml dung dịch Aminoleban cho một lần tiêm truyền bằng cách truyền nhỏ giọt.</p><p dir=\"ltr\">Tốc độ truyền trung bình thông qua hệ thống tĩnh mạch ngoại biên là 1,7 - 2,7 ml/phút ở người lớn (tương đương với 3 - 5 giờ cho 500 ml).</p><p dir=\"ltr\">Tổng liều sử dụng cho dinh dưỡng ngoài đường tiêu hóa là 500 ml - 1000 ml dung dịch.</p><p dir=\"ltr\">Aminoleban kết hợp với một dung dịch Dextrose hoặc một dung dịch tương hợp khác truyền trong vòng 24 giờ thông qua hệ thống tĩnh mạch trung tâm.</p><p dir=\"ltr\">Liều dùng cũng được điều chỉnh phụ thuộc vào tuổi tác, triệu chứng và cân nặng của bệnh nhân.</p><p dir=\"ltr\">Sử dụng ở người lớn tuổi: Những bệnh nhân lớn tuổi thường có suy giảm các chức năng sinh lý, do vậy để thận trọng nên giảm liều và tốc độ truyền.</p><h3 dir=\"ltr\">Làm gì khi dùng quá liều?</h3><p dir=\"ltr\">Các chất chuyển hóa của acid amin có thể bị giữ lại nên có thể làm xấu đi tình trạng lâm sàng của bệnh nhân.</p><p dir=\"ltr\">Nếu có khả năng xảy ra quá liều, nên đánh giá lại tình trạng bệnh nhân và áp dụng các biện pháp điều trị thích hợp.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Điều trị bệnh lý não do gan ở bệnh nhân suy gan mãn tính.&nbsp;</p><h3>Dược lực học</h3><p>Khi truyền tĩnh mạch Aminoleban cho các bệnh nhân não gan do bệnh gan mãn tính, làm cải thiện nhanh phân độ hôn mê (Chỉ số đánh giá sự rối loạn của ý thức) và giảm nhanh nồng độ amoniac trong máu.</p><p>Aminoleban làm cải thiện chức năng tâm thần kinh, được đánh giá bằng hoạt động viết, vẽ, run rẩy, thử nghiệm nối số, định hướng và tính toán cũng như kết quả điện não đồ.</p><p>Hiệu quả của Aminoleban trên bệnh lý não gan trong các nghiên cứu lâm sàng được tổng kết trong bảng dưới đây:</p><figure class=\"table\"><table class=\"ck-table-resized\"><colgroup><col style=\"width:50%;\"><col style=\"width:50%;\"></colgroup><thead><tr><th>Hoàn cảnh lâm sàng</th><th>Tỉ lệ cải thiện*</th></tr></thead><tbody><tr><td>Bệnh não do xơ gan</td><td>73,3% (198/270)</td></tr><tr><td>Bệnh não do ung thư tế bào gan HCC</td><td>62,2% (56/90)</td></tr><tr><td>Bệnh não do nguyên nhân khác</td><td>62,5% (5/8)</td></tr><tr><td>Tổng cộng</td><td>70,4% (259/368)</td></tr></tbody></table></figure><p>*Cải thiện có ý nghĩa hoặc giải quyết hoàn toàn sự rối loạn ý thức hoặc cải thiện phân độ hôn mê.</p><h3>Dược động học</h3><p>Các acid amin đánh dấu bằng Carbon trên công thức của Aminoleban được phân bố dễ dàng trong cơ thể sau khi truyền tĩnh mạch cho chuột. Sau 6 giờ, 50 - 70% acid amin được được phân bố trong các phân đoạn protein của huyết tương, tỉ lệ acid amin phân nhánh so với acid amin toàn phần đạt cao nhất trong não. Trong vòng 72 giờ sau khi truyền, sự thải trừ của thuốc là 5,9% trong nước tiểu, 2,6% trong phân và 41,7% trong khí thở ra.</p>",
+      "brand": "Otsuka",
+      "brandType": null,
+      "adverseEffect": "<p>Phản ứng quá mẫn: Hiếm khi gặp phát ban ngoài da. Nếu xảy ra phát ban ngoài da cần dừng ngay việc tiêm truyền và tiến hành những biện pháp điều trị thích hợp.</p><p>Đường tiêu hoá: thỉnh thoảng có xảy ra nôn và buồn nôn.</p><p>Hệ tim mạch: Ít khi xảy ra đau ngực và đánh trống ngực.</p><p>Chuyển hóa: Lượng nitơ có trong chế phẩm này có thể nhất thời gây ra tăng nồng độ amoniac trong máu.</p><p>Khi truyền một lượng lớn dung dịch Aminoleban hoặc truyền với tốc độ nhanh có thể xảy ra tình trạng nhiễm toan.</p><p>Các tác dụng khác: Ít khi xảy ra rét run, sốt, đau đầu, đau mạch.</p><p>Thông báo cho Bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Chai x 200ml",
+      "indications": [],
+      "brandOrigin": "Nhật Bản",
+      "producer": "CÔNG TY CỔ PHẦN DƯỢC PHẨM OTSUKA VIỆT NAM",
+      "shortDescription": "<p>Aminoleban là sản phẩm của Công ty CP Otsuka OPV, thành phần chính là L-Arginin HCl, L-Histidin.HCl.H2O, L-Methionin, L-Phenylalanin. Thuốc là dung dịch tiêm truyền tĩnh mạch có tác dụng điều trị bệnh lý não do gan ở bệnh nhân suy gan mãn tính.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 3,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/otsuka",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "ACID AMIN 8%",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "03 năm",
+      "brandOriginBadges": {
+        "id": 251,
+        "attributeName": "Nhật Bản",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Nhat_Ban_f1f2d4043f.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 6,
+        "measureUnitName": "Chai",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 1,
+        "productSpecs": "Chai x 200ml"
+      },
+      "highestLevelCategory": {
+        "id": 799,
+        "name": "Dịch truyền",
+        "parentName": "Thuốc tiêm chích & dịch truyền",
+        "slug": "thuoc/thuoc-tiem-chich-and-dich-truyen/dich-truyen",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/935_00039159_0c4b01ae90.jpg",
+          "alternativeText": "Dung dịch tiêm truyền tĩnh mạch Acid Amin 8% Otsuka điều trị bệnh lý não do gan ở bệnh nhân suy gan mãn tính (200ml) 1"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiêm chích & dịch truyền",
+        "slug": "/thuoc/thuoc-tiem-chich-and-dich-truyen"
+      },
+      {
+        "name": "Dịch truyền",
+        "slug": "/thuoc/thuoc-tiem-chich-and-dich-truyen/dich-truyen"
+      }
+    ],
+    "content": {
+      "sku": "00039159",
+      "dosage": "<h3>Cách dùng</h3><p>Tiêm truyền tĩnh mạch.</p><h3>Liều dùng</h3><p dir=\"ltr\">Liều dùng thông thường ở người lớn là 500 ml - 1000 ml dung dịch Aminoleban cho một lần tiêm truyền bằng cách truyền nhỏ giọt.</p><p dir=\"ltr\">Tốc độ truyền trung bình thông qua hệ thống tĩnh mạch ngoại biên là 1,7 - 2,7 ml/phút ở người lớn (tương đương với 3 - 5 giờ cho 500 ml).</p><p dir=\"ltr\">Tổng liều sử dụng cho dinh dưỡng ngoài đường tiêu hóa là 500 ml - 1000 ml dung dịch.</p><p dir=\"ltr\">Aminoleban kết hợp với một dung dịch Dextrose hoặc một dung dịch tương hợp khác truyền trong vòng 24 giờ thông qua hệ thống tĩnh mạch trung tâm.</p><p dir=\"ltr\">Liều dùng cũng được điều chỉnh phụ thuộc vào tuổi tác, triệu chứng và cân nặng của bệnh nhân.</p><p dir=\"ltr\">Sử dụng ở người lớn tuổi: Những bệnh nhân lớn tuổi thường có suy giảm các chức năng sinh lý, do vậy để thận trọng nên giảm liều và tốc độ truyền.</p><h3 dir=\"ltr\">Làm gì khi dùng quá liều?</h3><p dir=\"ltr\">Các chất chuyển hóa của acid amin có thể bị giữ lại nên có thể làm xấu đi tình trạng lâm sàng của bệnh nhân.</p><p dir=\"ltr\">Nếu có khả năng xảy ra quá liều, nên đánh giá lại tình trạng bệnh nhân và áp dụng các biện pháp điều trị thích hợp.</p>",
+      "referenceSource": "",
+      "adverseEffect": "<p>Phản ứng quá mẫn: Hiếm khi gặp phát ban ngoài da. Nếu xảy ra phát ban ngoài da cần dừng ngay việc tiêm truyền và tiến hành những biện pháp điều trị thích hợp.</p><p>Đường tiêu hoá: thỉnh thoảng có xảy ra nôn và buồn nôn.</p><p>Hệ tim mạch: Ít khi xảy ra đau ngực và đánh trống ngực.</p><p>Chuyển hóa: Lượng nitơ có trong chế phẩm này có thể nhất thời gây ra tăng nồng độ amoniac trong máu.</p><p>Khi truyền một lượng lớn dung dịch Aminoleban hoặc truyền với tốc độ nhanh có thể xảy ra tình trạng nhiễm toan.</p><p>Các tác dụng khác: Ít khi xảy ra rét run, sốt, đau đầu, đau mạch.</p><p>Thông báo cho Bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p>Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p><p>Để xa tầm tay trẻ em, đọc kỹ hướng dẫn sử dụng trước khi dùng.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Điều trị bệnh lý não do gan ở bệnh nhân suy gan mãn tính.&nbsp;</p><h3>Dược lực học</h3><p>Khi truyền tĩnh mạch Aminoleban cho các bệnh nhân não gan do bệnh gan mãn tính, làm cải thiện nhanh phân độ hôn mê (Chỉ số đánh giá sự rối loạn của ý thức) và giảm nhanh nồng độ amoniac trong máu.</p><p>Aminoleban làm cải thiện chức năng tâm thần kinh, được đánh giá bằng hoạt động viết, vẽ, run rẩy, thử nghiệm nối số, định hướng và tính toán cũng như kết quả điện não đồ.</p><p>Hiệu quả của Aminoleban trên bệnh lý não gan trong các nghiên cứu lâm sàng được tổng kết trong bảng dưới đây:</p><figure class=\"table\"><table class=\"ck-table-resized\"><colgroup><col style=\"width:50%;\"><col style=\"width:50%;\"></colgroup><thead><tr><th>Hoàn cảnh lâm sàng</th><th>Tỉ lệ cải thiện*</th></tr></thead><tbody><tr><td>Bệnh não do xơ gan</td><td>73,3% (198/270)</td></tr><tr><td>Bệnh não do ung thư tế bào gan HCC</td><td>62,2% (56/90)</td></tr><tr><td>Bệnh não do nguyên nhân khác</td><td>62,5% (5/8)</td></tr><tr><td>Tổng cộng</td><td>70,4% (259/368)</td></tr></tbody></table></figure><p>*Cải thiện có ý nghĩa hoặc giải quyết hoàn toàn sự rối loạn ý thức hoặc cải thiện phân độ hôn mê.</p><h3>Dược động học</h3><p>Các acid amin đánh dấu bằng Carbon trên công thức của Aminoleban được phân bố dễ dàng trong cơ thể sau khi truyền tĩnh mạch cho chuột. Sau 6 giờ, 50 - 70% acid amin được được phân bố trong các phân đoạn protein của huyết tương, tỉ lệ acid amin phân nhánh so với acid amin toàn phần đạt cao nhất trong não. Trong vòng 72 giờ sau khi truyền, sự thải trừ của thuốc là 5,9% trong nước tiểu, 2,6% trong phân và 41,7% trong khí thở ra.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p dir=\"ltr\">Suy thận nặng</p><p dir=\"ltr\">Bất thường về chuyển hóa acid amin do các nguyên nhân khác ngoài gan.</p><p dir=\"ltr\">Suy tim nặng.</p><p dir=\"ltr\">Rối loạn chuyển hóa nước và điện giải.</p><h3 dir=\"ltr\">Thận trọng khi sử dụng</h3><p dir=\"ltr\"><i>Cần thận trọng khi sử dụng Aminoleban trong những trường hợp sau:</i></p><p dir=\"ltr\">Bệnh nhân nhiễm toan nặng.</p><p dir=\"ltr\">Bệnh nhân suy tim xung huyết.</p><p dir=\"ltr\">Bệnh nhân suy nhược và mất nước nặng.</p><p><i>Lưu ý khi sử dụng:</i></p><p><u>Trước khi sử dụng:</u></p><ul><li>Để tránh nhiễm khuẩn chéo cần tiến hành những biện pháp tiệt trùng thích hợp (tiệt trùng dụng cụ tiêm truyền và vùng da tiêm truyền).</li><li>Dung dịch thuốc cần được làm ấm đến nhiệt độ gần tương tự như nhiệt độ cơ thể khi truyền cho bệnh nhân trong môi trường lạnh.</li></ul><p><u>Trong khi sử dụng:</u></p><ul><li>Truyền chậm thông qua hệ thống tĩnh mạch ngoại biên.</li><li>Khi có dấu hiệu đau mạch nên thay đổi vị trí tiêm truyền hoặc ngừng việc tiêm truyền.</li></ul><p><i>Lưu ý khác:</i></p><ul><li>Trước khi mở túi nylon cần kiểm tra màu của viên chỉ thị màu, không sử dụng chai dịch nếu viên chỉ thị màu đã chuyển sang màu xanh hoặc tím.</li><li>Chỉ sử dụng chai dịch một lần, trong trường hợp không truyền hết, cần loại bỏ phần dung dịch dư thừa.</li><li>Không sử dụng những chai dịch có lỗ rò, vẩn đục hoặc đổi màu.</li><li>Không dùng những chai đã hết hạn sử dụng ghi trên nhãn.</li></ul><p><i>Sử dụng ở người lớn tuổi:</i></p><p>Những bệnh nhân lớn tuổi thường có suy giảm các chức năng sinh lý, do vậy để thận trọng nên giảm liều và tốc độ truyền.</p><h3>Ảnh hưởng của thuốc lên khả năng lái xe và vận hành máy móc</h3><p>Chưa có báo cáo.</p><h3>Sử dụng thuốc cho phụ nữ trong thời kỳ mang thai và cho con bú</h3><p>Cần thận trọng khi sử dụng cho phụ nữ có thai.</p><h3>Tương tác thuốc</h3><p><i>Tương kỵ:</i></p><p>Tính chất hoá lý của dung dịch thuốc có thể thay đổi (có thể xuất hiện kết tủa) khi kết hợp Aminoleban với các thuốc sau:</p><ul><li>Các thuốc bền vững trong môi trường kiềm.</li><li>Các thuốc không tan trong nước.</li></ul><p>Nếu xuất hiện các dấu hiệu này không nên sử dụng dung dịch thuốc.</p><p>Để giảm thiểu tối đa nguy cơ xảy ra tương kỵ thuốc khi truyền dung dịch thuốc này với các thuốc khác, nên kiểm tra độ đục và chất kết tủa của dung dịch ngay sau khi trộn thuốc, trước khi truyền và kiểm tra định kỳ trong suốt quá trình truyền dịch.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/935_00039159_0c4b01ae90.jpg",
+              "alternativeText": null
+            },
+            "title": "Dung dịch tiêm truyền tĩnh mạch Acid Amin 8% Otsuka điều trị bệnh lý não do gan ở bệnh nhân suy gan mãn tính (200ml)",
+            "description": "Aminoleban là sản phẩm của Công ty CP Otsuka OPV, thành phần chính là L-Arginin HCl, L-Histidin.HCl.H2O, L-Methionin, L-Phenylalanin. Thuốc là dung dịch tiêm truyền tĩnh mạch có tác dụng điều trị bệnh lý não do gan ở bệnh nhân suy gan mãn tính."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 18830,
+        "title": "Aminoleban 200ml được sử dụng để điều trị những bệnh gì?",
+        "content": "<p>Aminoleban 200ml được dùng để tiêm truyền cho những bệnh nhân bị <a href=\"https://nhathuoclongchau.com.vn/benh/suy-gan-man.html\">suy gan mạn tính</a> để phòng và điều trị hôn mê gan, bệnh lý về não do suy gan mạn.</p>"
+      },
+      {
+        "id": 18553,
+        "title": "Liều dùng của Aminoleban 200ml ở người lớn là bao nhiêu?",
+        "content": "<p>Liều khuyến cáo Aminoleban 200ml cho người lớn là truyền tĩnh mạch 500-1000 ml/lần bằng cách truyền nhỏ giọt.</p>"
+      },
+      {
+        "id": 18555,
+        "title": "Cần thận trọng gì khi sử dụng Aminoleban 200ml?",
+        "content": "<p>Bệnh nhân lớn tuổi có chức năng gan thận suy giảm, bệnh nhân nhiễm toan nặng, <a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-sung-huyet.html\">suy tim xung huyết</a>, suy nhược và mất nước nặng cần thận trọng khi dùng Aminoleban 200ml.</p>"
+      },
+      {
+        "id": 18554,
+        "title": "Nên tránh sử dụng Aminoleban 200ml trong những trường hợp nào?",
+        "content": "<p>Bệnh nhân dị ứng với bất kỳ thành phần nào của Aminoleban 200ml, suy thận nặng, suy tim nặng, rối loạn chuyển hóa nước và điện giải, bệnh nhân có bất thường về chuyển hóa acid amin do các nguyên nhân khác ngoài gan thì không nên sử dụng thuốc này.</p>"
+      },
+      {
+        "id": 18556,
+        "title": "Điều kiện bảo quản Aminoleban 200ml là gì?",
+        "content": "<p>Bảo quản Aminoleban 200ml ở nhiệt độ không quá 30 độ C, nơi thoáng mát, khô ráo, tránh ánh sáng trực tiếp chiếu vào.</p>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 4,
+      "items": [
+        {
+          "id": 3360323,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0703xxxxxx",
+          "name": "Hiền",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Sản phẩm này còn hàng không , cho mình xin giá sp",
+          "createdAt": "2026-08-19 14:07:33",
+          "createdAtDisplay": "17 ngày trước",
+          "updatedAt": "2026-08-19 14:07:33",
+          "replies": [
+            {
+              "id": 3360330,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Khánh Ngọc",
+                "moderatorEmail": "ngoclk2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Khánh Ngọc",
+              "email": "ngoclk2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hiền,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-08-19 14:11:01",
+              "createdAtDisplay": "17 ngày trước",
+              "updatedAt": "2026-08-19 14:07:33",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3292316,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0912xxxxxx",
+          "name": "Ngọc ánh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 chai vậy em",
+          "createdAt": "2026-04-17 09:25:47",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-17 09:25:47",
+          "replies": [
+            {
+              "id": 3292319,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Võ Kiều Nguyệt Nhi",
+                "moderatorEmail": "nhivkn@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Võ Kiều Nguyệt Nhi",
+              "email": "nhivkn@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Ngọc Ánh,</p><p>Tư vấn viên nhà thuốc Long Châu sẽ liên hệ theo SĐT chị đã để lại ạ.</p>",
+              "createdAt": "2026-04-17 09:29:32",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-17 09:25:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3214898,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0908xxxxxx",
+          "name": "Quy",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cho xin giá sản phẩm 1 hộp",
+          "createdAt": "2025-11-18 11:45:19",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-18 11:45:19",
+          "replies": [
+            {
+              "id": 3214943,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thuỳ Linh",
+                "moderatorEmail": "linhntt67@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thuỳ Linh",
+              "email": "linhntt67@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn&nbsp;Quy,</p><p>Tư vấn viên nhà thuốc Long Châu sẽ liên hệ theo SĐT bạn đã để lại ạ.</p>",
+              "createdAt": "2025-11-18 11:58:56",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-18 11:45:19",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 1218998,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0815xxxxxx",
+          "name": " a minh",
+          "email": "",
+          "score": null,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cho mình xin giá ạ",
+          "createdAt": "2024-05-18 11:40:51",
+          "createdAtDisplay": "18/05/2024",
+          "updatedAt": "2024-05-18 11:42:24",
+          "replies": [
+            {
+              "id": 1219004,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lữ Thị Anh Thư",
+                "moderatorEmail": "Thulta11@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Lữ Thị Anh Thư",
+              "email": "Thulta11@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào anh Minh,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sản phẩm có giá 130,000&nbsp;đồng/ chai ạ. </span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT anh đã để lại ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p>",
+              "createdAt": "2024-05-18 11:42:24",
+              "createdAtDisplay": "18/05/2024",
+              "updatedAt": "2024-05-18 11:42:24",
+              "replies": []
+            },
+            {
+              "id": 3105680,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0388xxxxxx",
+              "name": "Hưng",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Thuốc này còn không ạ",
+              "createdAt": "2025-05-11 07:33:23",
+              "createdAtDisplay": "11/05/2025",
+              "updatedAt": "2024-05-18 11:42:24",
+              "replies": []
+            },
+            {
+              "id": 3105745,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Phương",
+                "moderatorEmail": "phuongtt124@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Phương",
+              "email": "phuongtt124@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Hưng, </p><p>Dạ rất tiếc với sản phẩm này tạm thời nhà thuốc đang chưa hỗ trợ cho bạn ngay được. Mong bạn thông cảm. Bạn vui lòng inbox cho nhà thuốc hoặc liên hệ tổng đài miễn phí 18006928, sẽ có tư vấn viên của Nhà thuốc Long Châu hỗ trợ mình được chi tiết hơn ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-05-11 08:44:20",
+              "createdAtDisplay": "11/05/2025",
+              "updatedAt": "2024-05-18 11:42:24",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Dung dịch tiêm truyền tĩnh mạch Acid Amin 8% Otsuka điều trị bệnh lý não do gan ở bệnh nhân suy gan mãn tính (200ml)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/935_00039159_0c4b01ae90.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Aminoleban là sản phẩm của Công ty CP Otsuka OPV, thành phần chính là L-Arginin HCl, L-Histidin.HCl.H2O, L-Methionin, L-Phenylalanin. Thuốc là dung dịch tiêm truyền tĩnh mạch có tác dụng điều trị bệnh lý não do gan ở bệnh nhân suy gan mãn tính.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Dung dịch tiêm truyền tĩnh mạch Acid Amin 8% Otsuka điều trị bệnh lý não do gan ở bệnh nhân suy gan mãn tính (200ml) - Nhà thuốc FPT Long Châu",
+      "description": "Aminoleban là sản phẩm của Công ty CP Otsuka OPV, thành phần chính là L-Arginin HCl, L-Histidin.HCl.H2O, L-Methionin, L-Phenylalanin. Thuốc là dung dịch tiêm truyền tĩnh mạch có tác dụng điều trị bệnh lý não do gan ở bệnh nhân suy gan mãn tính.",
+      "openGraph": {
+        "title": "Dung dịch tiêm truyền tĩnh mạch Acid Amin 8% Otsuka điều trị bệnh lý não do gan ở bệnh nhân suy gan mãn tính (200ml)",
+        "description": "Aminoleban là sản phẩm của Công ty CP Otsuka OPV, thành phần chính là L-Arginin HCl, L-Histidin.HCl.H2O, L-Methionin, L-Phenylalanin. Thuốc là dung dịch tiêm truyền tĩnh mạch có tác dụng điều trị bệnh lý não do gan ở bệnh nhân suy gan mãn tính.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/935_00039159_0c4b01ae90.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/acid-amin-8-otsuka-200-ml.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/acid-amin-8-otsuka-200-ml.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

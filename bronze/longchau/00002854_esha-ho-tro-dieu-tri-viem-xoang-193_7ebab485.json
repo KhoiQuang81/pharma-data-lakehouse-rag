@@ -1,0 +1,1778 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/esha-ho-tro-dieu-tri-viem-xoang-193.html",
+  "ingestion_timestamp": "2026-09-05T09:35:19.338176+00:00",
+  "file_hash": "2fe14af4d5e7b2dc0625c86b8d209feb5bd2fd14e99e7623b1e16fe582b9237a",
+  "lineage_hash": "737e0febc1862fa723b845fc775d5ca0e7976af16e092951cdb2e68c99c2c506",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/esha-ho-tro-dieu-tri-viem-xoang-193.html",
+    "product": {
+      "sku": "00002854",
+      "webName": "Thuốc Esha điều trị chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính (50 viên)",
+      "name": "ESHA MEDIPLANTEX 50V",
+      "shortName": "ESHA PLANTEX 50V",
+      "headingText": "Thuốc Esha",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_9110_5b7f_large_4679efe763.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_8765_5b7f_large_31b912b2f9.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_4674_5b7f_large_fac96fca5c.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_8915_5b7f_large_e5f376dcaf.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_2311_5b7f_large_c7084f0387.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_1627399337_a82517f90c.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 732,
+          "name": "Thuốc Mắt, Tai, Mũi, Họng",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-mat-tai-mui-hong",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 790,
+          "name": "Thuốc tai mũi họng",
+          "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+          "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Hộp 50 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 3,
+          "productSpecs": "50 Viên"
+        }
+      ],
+      "slug": "thuoc/esha-ho-tro-dieu-tri-viem-xoang-193.html",
+      "ingredient": [
+        {
+          "id": 27760,
+          "ingredientId": 10072,
+          "shortDescription": "320mg",
+          "name": "Bạch chỉ",
+          "isPrimary": false,
+          "slug": "thanh-phan/bach-chi"
+        },
+        {
+          "id": 27761,
+          "ingredientId": 24654,
+          "shortDescription": "250mg",
+          "name": "Kim ngân hoa",
+          "isPrimary": false,
+          "slug": "thanh-phan/kim-ngan-hoa"
+        },
+        {
+          "id": 27762,
+          "ingredientId": 10043,
+          "shortDescription": "120mg",
+          "name": "Bạc hà",
+          "isPrimary": false,
+          "slug": "thanh-phan/bac-ha"
+        },
+        {
+          "id": 27763,
+          "ingredientId": 37439,
+          "shortDescription": "350mg",
+          "name": "Tân di hoa",
+          "isPrimary": false,
+          "slug": "thanh-phan/tan-di-hoa"
+        },
+        {
+          "id": 27764,
+          "ingredientId": 32396,
+          "shortDescription": "250mg",
+          "name": "Phòng phong",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27765,
+          "ingredientId": 22437,
+          "shortDescription": "620mg",
+          "name": "Hoàng kỳ",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27766,
+          "ingredientId": 38387,
+          "shortDescription": "500mg",
+          "name": "Thương nhĩ tử",
+          "isPrimary": false,
+          "slug": "thanh-phan/thuong-nhi-tu"
+        },
+        {
+          "id": 27767,
+          "ingredientId": 10138,
+          "shortDescription": "",
+          "name": "Bạch truật",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-24350-16",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang cứng",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Thuốc dùng đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Người lớn: Uống 2 viên/ lần x 2-3 lần/ngày.</p>\n\n<p>Trẻ em trên 5 tuổi: Uống 1 viên/lần x 2-3 lần/ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc Esha được chỉ định dùng trong trường hợp sau:</p>\n\n<p><em>Các chứng <a href=\"https://nhathuoclongchau.com.vn/benh/nghet-mui-855.html\">nghẹt mũi</a>, viêm mũi dị ứng, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-xoang-479.html\">viêm xoang</a> cấp và mạn tính.</em></p>\n\n<h3>Dược lực học</h3>\n\n<p>Esha là sự phối hợp của các vị thảo dược quý, trong đó: Bạc hà, Tân di, Phòng phong giúp phát tán phong hàn, tuyên thông phế khí. Kim ngân hoa, thương nhĩ tử là thuốc tiêu độc, thanh nhiệt cho cơ thể. Bạch truật, hoàng kỳ, bạch chỉ là thuốc bổ khí, cố biểu, bài trừ dịch ứ đọng, tăng sức đề kháng của cơ thể. Sự kết hợp nhuần nhuyễn các vị thuốc đông y thành phương thuốc trị viêm xoang, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-472.html\">viêm mũi</a> hiệu quả cao.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có thông tin.</p>",
+      "brand": "Mediplantex",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Esha, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Hiếm gặp, ADR &lt; 1/1000</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Thông báo cho bác sĩ tác dụng không mong muốn gặp phải khi sử dụng thuốc</p>",
+      "specification": "Hộp 50 viên",
+      "indications": [
+        {
+          "id": 13,
+          "name": "Viêm mũi",
+          "slug": "benh/viem-mui-472.html"
+        },
+        {
+          "id": 14,
+          "name": "Viêm mũi dị ứng",
+          "slug": "benh/viem-mui-di-ung-473.html"
+        },
+        {
+          "id": 43,
+          "name": "Viêm xoang",
+          "slug": "benh/viem-xoang-479.html"
+        },
+        {
+          "id": 1115,
+          "name": "Nghẹt mũi",
+          "slug": "benh/nghet-mui-855.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "MEDIPLANTEX",
+      "shortDescription": "<p>Thuốc Esha của Công ty CP Dược Trung Ương Mediplantex, thành phần chính là Bạch chỉ, Thương nhĩ tử, Hoàng kỳ, Phòng phong, Tân di hoa, Bạc hà, Bạch truật, Kim ngân hoa, là thuốc dùng để điều trị các chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Trên 5 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Phụ nữ cho con bú"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/mediplantex",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "ESHA",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 1,
+        "productSpecs": "Hộp 50 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 790,
+        "name": "Thuốc tai mũi họng",
+        "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+        "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_9110_5b7f_large_4679efe763.JPG",
+          "alternativeText": "Thuốc Esha điều trị chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính (50 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_8765_5b7f_large_31b912b2f9.JPG",
+          "alternativeText": "Thuốc Esha điều trị chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính (50 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_4674_5b7f_large_fac96fca5c.JPG",
+          "alternativeText": "Thuốc Esha điều trị chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính (50 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_8915_5b7f_large_e5f376dcaf.JPG",
+          "alternativeText": "Thuốc Esha điều trị chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính (50 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_2311_5b7f_large_c7084f0387.JPG",
+          "alternativeText": "Thuốc Esha điều trị chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính (50 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_1627399337_a82517f90c.jpg",
+          "alternativeText": "Thuốc Esha điều trị chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính (50 viên) 6"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc Mắt, Tai, Mũi, Họng",
+        "slug": "/thuoc/thuoc-mat-tai-mui-hong"
+      },
+      {
+        "name": "Thuốc tai mũi họng",
+        "slug": "/thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong"
+      }
+    ],
+    "content": {
+      "sku": "00002854",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Thuốc dùng đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Người lớn: Uống 2 viên/ lần x 2-3 lần/ngày.</p>\n\n<p>Trẻ em trên 5 tuổi: Uống 1 viên/lần x 2-3 lần/ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Esha.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Esha, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Hiếm gặp, ADR &lt; 1/1000</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Thông báo cho bác sĩ tác dụng không mong muốn gặp phải khi sử dụng thuốc</p>",
+      "preservation": "<p>Nơi khô, tránh ánh sáng, nhiệt độ dưới 30°C.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc Esha được chỉ định dùng trong trường hợp sau:</p>\n\n<p><em>Các chứng <a href=\"https://nhathuoclongchau.com.vn/benh/nghet-mui-855.html\">nghẹt mũi</a>, viêm mũi dị ứng, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-xoang-479.html\">viêm xoang</a> cấp và mạn tính.</em></p>\n\n<h3>Dược lực học</h3>\n\n<p>Esha là sự phối hợp của các vị thảo dược quý, trong đó: Bạc hà, Tân di, Phòng phong giúp phát tán phong hàn, tuyên thông phế khí. Kim ngân hoa, thương nhĩ tử là thuốc tiêu độc, thanh nhiệt cho cơ thể. Bạch truật, hoàng kỳ, bạch chỉ là thuốc bổ khí, cố biểu, bài trừ dịch ứ đọng, tăng sức đề kháng của cơ thể. Sự kết hợp nhuần nhuyễn các vị thuốc đông y thành phương thuốc trị viêm xoang, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-mui-472.html\">viêm mũi</a> hiệu quả cao.</p>\n\n<h3>Dược động học</h3>\n\n<p>Chưa có thông tin.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định</h3>\n\n<p>Thuốc Esha chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Người dị ứng với một trong các thành phần của thuốc.</p>\n\t</li>\n\t<li>\n\t<p>Trẻ em dưới 5 tuổi.</p>\n\t</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Đọc kỹ hướng dẫn sử dụng trước khi dùng.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Dùng được.</p>\n\n<h3>Thời kỳ mang thai </h3>\n\n<p>Dùng thận trọng.</p>\n\n<h3>Thời kỳ cho con bú</h3>\n\n<p>Dùng thận trọng.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Không có.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Esha Mediplantex - Thuốc hỗ trợ điều trị viêm xoang (50 viên)",
+        "metaDescription": "Thuốc Esha Mediplantex thành phần chính là Bạch chỉ, Thương nhĩ tử, Hoàng kỳ, Phòng phong,... là thuốc dùng để điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang.",
+        "id": 5681,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_9110_5b7f_large_4679efe763.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc Esha điều trị chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính (50 viên)",
+            "description": "Thuốc Esha của Công ty CP Dược Trung Ương Mediplantex, thành phần chính là Bạch chỉ, Thương nhĩ tử, Hoàng kỳ, Phòng phong, Tân di hoa, Bạc hà, Bạch truật, Kim ngân hoa, là thuốc dùng để điều trị các chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 32578,
+        "title": "Thuốc Esha có tác dụng phụ không?",
+        "content": "<p>Hiện tại chưa có báo cáo về các tác dụng không mong muốn thường gặp, ít gặp hoặc hiếm gặp khi sử dụng thuốc Esha. Tuy nhiên, nếu gặp bất kỳ tác dụng không mong muốn nào trong quá trình sử dụng thuốc, cần thông báo ngay cho bác sĩ để được tư vấn và xử trí kịp thời.</p>"
+      },
+      {
+        "id": 32577,
+        "title": "Ai không nên sử dụng thuốc Esha?",
+        "content": "<p>Thuốc Esha chống chỉ định đối với những người bị dị ứng với bất kỳ thành phần nào của thuốc. Ngoài ra, thuốc không được sử dụng cho trẻ em dưới 5 tuổi.</p>"
+      },
+      {
+        "id": 32576,
+        "title": "Cách sử dụng thuốc Esha như thế nào?",
+        "content": "<p>Thuốc Esha được dùng theo đường uống. Liều dùng khuyến cáo cho người lớn là 2 viên/lần, uống 2 - 3 lần mỗi ngày. Trẻ em trên 5 tuổi uống 1 viên/lần, 2 - 3 lần mỗi ngày. Liều dùng có thể thay đổi tùy thuộc vào thể trạng và mức độ bệnh, do đó cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế để có liều dùng phù hợp. Nên uống thuốc với nước lọc và tránh dùng cùng nước hoa quả, nước ngọt có gas, sữa, cà phê hay nước chè.</p>"
+      },
+      {
+        "id": 32575,
+        "title": "Thuốc Esha có công dụng như thế nào?",
+        "content": "<p>Thuốc Esha phát huy tác dụng nhờ sự phối hợp của các thành phần thảo dược. Cụ thể, Bạc hà, Tân di, và Phòng phong giúp phát tán phong hàn, làm thông thoáng đường thở. Kim ngân hoa và Thương nhĩ tử có tác dụng thanh nhiệt, giải độc. Bạch truật, Hoàng kỳ, và Bạch chỉ bổ khí, tăng cường sức đề kháng của cơ thể và giúp bài trừ dịch ứ đọng. Sự kết hợp này tạo nên một phương thuốc hiệu quả trong việc điều trị viêm xoang và viêm mũi.</p>"
+      },
+      {
+        "id": 32574,
+        "title": "Thuốc Esha Mediplantex là gì?",
+        "content": "<p>Thuốc Esha là một sản phẩm của Công ty CP Dược Trung Ương Mediplantex (Việt Nam), được bào chế dưới dạng viên nang cứng. Thành phần chính của thuốc bao gồm sự kết hợp của các dược liệu Đông y như Bạch chỉ, Kim ngân hoa, Bạc hà, Tân di hoa, Phòng phong, Hoàng kỳ, Thương nhĩ tử, và Bạch truật. Thuốc được chỉ định để điều trị các chứng nghẹt mũi, viêm mũi dị ứng, và viêm xoang ở cả giai đoạn cấp và mạn tính.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00048773",
+        "name": "OTRERA 0.1% AN THIÊN 10ML",
+        "webName": "Dung dịch xịt mũi Otrera 0.1% An Thiên giảm nghẹt mũi và sung huyết mũi (10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04551_acec3fe400.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 76742,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 25000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/otrera-0-1-an-thien-10-ml.html",
+        "ingredients": "Xylometazoline hydrochloride 0.1%",
+        "dosageForm": "Dung dịch xịt mũi",
+        "brand": "An Thiên",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp x 10ml",
+        "prices": [
+          {
+            "id": 76742,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 25000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006360",
+        "name": "RHINEX UPHACE 15ML - DD NHỎ MŨI",
+        "webName": "Thuốc nhỏ mũi Rhinex 0.05% Uphace giảm sung huyết, viêm xoang, viêm mũi dị ứng (15ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2050_d1844c875f.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 9235,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 6000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/rhinex-005-2410.html",
+        "ingredients": "Naphazolin nitrat 7.5mg",
+        "dosageForm": "Dung dịch nhỏ mũi",
+        "brand": "TW25",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 15ml",
+        "prices": [
+          {
+            "id": 9235,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00005663",
+        "name": "OTRIVIN 0.05% NASAL DROPS HALEON 10ML",
+        "webName": "Thuốc nhỏ mũi Otrivin 0.05% Haleon điều trị nghẹt mũi, sung huyết mũi họng (10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_nho_mui_otrivin_0_05_nasal_drops_haleon_10ml_00005663_1_6b78060aeb.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8119,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 43000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/otrivin-005-nasal-drops-10ml-2736.html",
+        "ingredients": "Xylometazoline hydrochloride 0.05%",
+        "dosageForm": "Dung  dịch nhỏ mũi",
+        "brand": "HALEON",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 10ml",
+        "prices": [
+          {
+            "id": 8119,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 43000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 87,
+          "attributeName": "Thụy Sĩ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/ch_Switzerland_8023147879.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00005661",
+        "name": "OTRIVIN 0.05% NASAL SPRAY HALEON 10ML",
+        "webName": "Thuốc xịt mũi Otrivin 0.05% GSK giảm triệu chứng nghẹt mũi, viêm mũi dị ứng (10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02002_78e29a74e8.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8118,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 53000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/otrivin-005-spray-10ml-2737.html",
+        "ingredients": "Xylometazoline hydrochloride 0.05%",
+        "dosageForm": "Dung dịch xịt mũi",
+        "brand": "HALEON",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 10ml",
+        "prices": [
+          {
+            "id": 8118,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 53000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 87,
+          "attributeName": "Thụy Sĩ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/ch_Switzerland_8023147879.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00005660",
+        "name": "OTRIVIN 0.1% NASAL SPRAY HALEON 10ML",
+        "webName": "Thuốc xịt mũi Otrivin 0.1% GSK điều trị nghẹt mũi, sung huyết mũi (10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01990_8fbfae866d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8117,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 58000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/otrivin-01-nasal-spray-10ml-2738.html",
+        "ingredients": "Xylometazoline hydrochloride 0.1%",
+        "dosageForm": "Dung dịch xịt mũi",
+        "brand": "HALEON",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 10ml",
+        "prices": [
+          {
+            "id": 8117,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 58000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 87,
+          "attributeName": "Thụy Sĩ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/ch_Switzerland_8023147879.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00005655",
+        "name": "OTILIN 0.1% PHARBACO 15ML",
+        "webName": "Thuốc xịt mũi Otilin 0.1% Pharbaco giảm ngạt mũi, sung huyết trong viêm mũi (15ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4568_a8d62396ed.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8111,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 20000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/otilin-15ml-01-2740.html",
+        "ingredients": "Xylomethazolin HCl 0.1%",
+        "dosageForm": "Dung dịch xịt mũi",
+        "brand": "Pharbaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 15ml",
+        "prices": [
+          {
+            "id": 8111,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 20000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00016285",
+        "name": "OTILIN 0.05% TW1-PHARBACO 8ML",
+        "webName": "Thuốc nhỏ mũi trẻ em Otilin 0.05% Pharbaco giảm ngạt mũi, sung huyết trong viêm mũi cấp (8ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00016285_otilin_005_8ml_4945_6103_large_e3eacc61d0.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 19576,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 5000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/otilin-005-8ml-14415.html",
+        "ingredients": "Xylometazolin hydrochlorid 0.05%",
+        "dosageForm": "Dung  dịch nhỏ mũi",
+        "brand": "Pharbaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 8ml",
+        "prices": [
+          {
+            "id": 19576,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 5000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00020525",
+        "name": "XYLOGEN DƯỢC KHOA 15ML",
+        "webName": "Thuốc xịt mũi Xylogen DK Pharma điều trị ngạt mũi, cảm cúm, viêm mũi (15ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00020525_xylogen_duoc_khoa_15ml_4139_5d31_large_a872344d1d.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 25453,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 18000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/xylogen-duoc-khoa-15ml-20774.html",
+        "ingredients": "Xylometazolin hydroclorid 0.1%",
+        "dosageForm": "Dung dịch xịt mũi",
+        "brand": "DK Pharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 15ml",
+        "prices": [
+          {
+            "id": 25453,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 18000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00022501",
+        "name": "NAPHAZOLIN DANAPHA 10ML - DUNG DỊCH NHỎ MŨI",
+        "webName": "Thuốc nhỏ mũi Naphazolin 0.05% Danapha điều trị nghẹt mũi, sổ mũi, viêm mũi (10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00022501_naphazolin_danapha_10ml_dung_dich_nho_mui_4503_6103_large_4dfd3feab6.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 28899,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 4000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/naphazolin-danapha-10ml-dung-dich-nho-mui-22827.html",
+        "ingredients": "Naphazolin nitrat 0.05%",
+        "dosageForm": "Dung dịch nhỏ mũi",
+        "brand": "Danapha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 10ml",
+        "prices": [
+          {
+            "id": 28899,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 4000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00022506",
+        "name": "HALIXOL 30MG EGIS 2X10",
+        "webName": "Thuốc Halixol 30mg Egis Pharma điều trị hen phế quản và viêm phế quản (2 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/halixol_30mg_2x10_egis_00022506_28ed013f8f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 28910,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 1945,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/halixol-30mg-egis-2x10-22832.html",
+        "ingredients": "Ambroxol hydroclorid 30mg",
+        "dosageForm": "Viên nén",
+        "brand": "Egis Pharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 28912,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 38900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 28911,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 19450,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 28910,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 1945,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 58,
+          "attributeName": "Hungary",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/hu_Hungary_025bdc77ac.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00031588",
+        "name": "NAPHAZOLIN DANAPHA 5ML - DUNG DỊCH NHỎ MŨI - NAPHAZOLIN - 0.05%",
+        "webName": "Thuốc nhỏ mũi Naphazolin 0.05% Danapha điều trị nghẹt mũi, sổ mũi, viêm mũi (5ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/Nho_mui_naphazolin_0_05_danapha_c_5ml_24ed26eaef.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 42624,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 3800,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/naphazolin-danapha-5ml-dung-dich-nho-mui-naphazolin-005-31714.html",
+        "ingredients": "Naphazolin hydroclorid 2.5mg",
+        "dosageForm": "Dung dịch nhỏ mũi",
+        "brand": "Danapha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 1 Chai x 5ml",
+        "prices": [
+          {
+            "id": 42624,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 3800,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00005659",
+        "name": "OTRIVIN 0.1% NASAL DROPS HALEON 10ML",
+        "webName": "Thuốc nhỏ mũi Otrivin 0.1% GSK điều trị nghẹt mũi, sung huyết mũi họng (10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_01978_9440b82b39.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 732,
+            "name": "Thuốc Mắt, Tai, Mũi, Họng",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 790,
+            "name": "Thuốc tai mũi họng",
+            "parentName": "Thuốc Mắt, Tai, Mũi, Họng",
+            "slug": "thuoc/thuoc-mat-tai-mui-hong/thuoc-tai-mui-hong",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8116,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 53000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/otrivin-01-dro-10ml-16977.html",
+        "ingredients": "Xylometazoline 0.1%",
+        "dosageForm": "Dung dịch nhỏ mũi",
+        "brand": "HALEON",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Chai x 10ml",
+        "prices": [
+          {
+            "id": 8116,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 53000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 87,
+          "attributeName": "Thụy Sĩ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/ch_Switzerland_8023147879.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 19,
+      "items": [
+        {
+          "id": 3324290,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0989xxxxxx",
+          "name": "Nguyễn Văn Hạnh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Hiện tại nhà thuốc còn hộp esha lọ 50 viên không, giá bán lọ 50 viên là bao nhiêu tiền",
+          "createdAt": "2026-06-17 17:05:02",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-17 17:05:02",
+          "replies": [
+            {
+              "id": 3324295,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Mai Anh",
+                "moderatorEmail": "anhnm70@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Mai Anh",
+              "email": "anhnm70@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh  Hạnh ạ,</p><p>Hiện tại, sản phẩm Thuốc Esha 50 viên có giá 130.000đ/ hộp.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p><p><br></p>",
+              "createdAt": "2026-06-17 17:10:28",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-17 17:05:02",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3308651,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0336xxxxxx",
+          "name": "chị liễu",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 hộp",
+          "createdAt": "2026-05-18 12:56:33",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-18 12:56:33",
+          "replies": [
+            {
+              "id": 3308652,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Vân Anh",
+                "moderatorEmail": "anhntv59@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Vân Anh",
+              "email": "anhntv59@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Liễu,</p><p>Hiện tại, sản phẩm Esha có giá 130,000 ₫/hộp ạ</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-05-18 12:58:28",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-18 12:56:33",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3304316,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0903xxxxxx",
+          "name": "Anh nam",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này cần tư vấn BS không ",
+          "createdAt": "2026-05-09 16:00:33",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-09 16:00:33",
+          "replies": [
+            {
+              "id": 3304317,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Thị Bích Lựu",
+                "moderatorEmail": "luuntb4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Thị Bích Lựu",
+              "email": "luuntb4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Nam, </p><p>Dạ sản phẩm Thuốc Esha&nbsp;là thuốc cần kê đơn, anh nên tham khảo thêm ý kiến bác sĩ trước khi dùng để phù hợp, hiệu quả và an toàn nhất với tình trạng ạ.</p><p>Nhà thuốc thông tin đến anh ạ.</p>",
+              "createdAt": "2026-05-09 16:05:43",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-09 16:00:33",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3262505,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0906xxxxxx",
+          "name": "ANH ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này còn không ạ",
+          "createdAt": "2026-02-21 11:52:44",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-21 11:52:44",
+          "replies": [
+            {
+              "id": 3262507,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Huệ",
+                "moderatorEmail": "huent39@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Huệ",
+              "email": "huent39@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh,</p><p>Hiện tại, sản phẩm Esha&nbsp;có giá 130,000đ/Hộp.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-02-21 11:54:08",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-21 11:52:44",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3247237,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0328xxxxxx",
+          "name": "chị tiên",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá sản phẩm ạ",
+          "createdAt": "2026-01-18 07:13:36",
+          "createdAtDisplay": "7 tháng trước",
+          "updatedAt": "2026-01-18 07:13:36",
+          "replies": [
+            {
+              "id": 3247294,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thanh Ngọc",
+                "moderatorEmail": "ngocht18@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Thanh Ngọc",
+              "email": "ngocht18@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Tiên,</p><p> Hiện tại, sản phẩm Thuốc Esha điều trị chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính (50 viên) có giá 130,000/hộp.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-01-18 09:20:10",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-01-18 07:13:36",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 3209604,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0974xxxxxx",
+          "name": "lê thị thuỷ",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2025-11-09 17:15:14",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-09 17:15:07",
+          "replies": [
+            {
+              "id": 3209605,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thuỳ Linh",
+                "moderatorEmail": "linhntt67@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thuỳ Linh",
+              "email": "linhntt67@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Lê Thị Thúy,</p><p>Cảm ơn bạn rất nhiều vì những lời khen ạ! 💙</p><p>Đây chính là động lực để đội ngũ Nhà thuốc Long Châu ngày càng hoàn thiện và phục vụ khách hàng tốt hơn nữa.</p><p>Rất mong được tiếp tục đồng hành cùng bạn trong những lần tới ạ!</p>",
+              "createdAt": "2025-11-09 17:16:40",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-09 17:15:07",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Esha điều trị chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính (50 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_9110_5b7f_large_4679efe763.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_8765_5b7f_large_31b912b2f9.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_4674_5b7f_large_fac96fca5c.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_8915_5b7f_large_e5f376dcaf.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_2311_5b7f_large_c7084f0387.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Esha của Công ty CP Dược Trung Ương Mediplantex, thành phần chính là Bạch chỉ, Thương nhĩ tử, Hoàng kỳ, Phòng phong, Tân di hoa, Bạc hà, Bạch truật, Kim ngân hoa, là thuốc dùng để điều trị các chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Esha Mediplantex - Thuốc hỗ trợ điều trị viêm xoang (50 viên)",
+      "description": "Thuốc Esha Mediplantex thành phần chính là Bạch chỉ, Thương nhĩ tử, Hoàng kỳ, Phòng phong,... là thuốc dùng để điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang.",
+      "openGraph": {
+        "title": "Thuốc Esha điều trị chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính (50 viên)",
+        "description": "Thuốc Esha của Công ty CP Dược Trung Ương Mediplantex, thành phần chính là Bạch chỉ, Thương nhĩ tử, Hoàng kỳ, Phòng phong, Tân di hoa, Bạc hà, Bạch truật, Kim ngân hoa, là thuốc dùng để điều trị các chứng nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp và mạn tính.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002854_esha_ho_tro_dieu_tri_viem_xoang_9110_5b7f_large_4679efe763.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/esha-ho-tro-dieu-tri-viem-xoang-193.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/esha-ho-tro-dieu-tri-viem-xoang-193.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

@@ -1,0 +1,1970 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/vitarals-20ml-1745.html",
+  "ingestion_timestamp": "2026-09-05T16:07:46.639904+00:00",
+  "file_hash": "ed031847383c09e530ac782f687e5347b06c89caa29e4e261a82b450fd32e258",
+  "lineage_hash": "354f1ddcac95ffb3de55265c4365230daa8ee9276634f05914e8555075e7edf5",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/vitarals-20ml-1745.html",
+    "product": {
+      "sku": "00008044",
+      "webName": "Dung dịch uống Vitarals Pharmedic phòng ngừa và điều chỉnh tình trạng thiếu hụt Vitamin (20ml)",
+      "name": "VITARALS PHARMEDIC 20ML",
+      "shortName": "VITARALS PMD 20ML",
+      "headingText": "Dung dịch uống Vitarals",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_5157_5ba0_large_e02133edda.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_4931_5ba0_large_b3078a11a0.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_8658_5ba0_large_dabe557d92.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_7953_5ba0_large_ee25f73e5b.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_9366_5ba0_large_b52cd43916.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_9101_6085_large_b4a0bfa1c8.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_1619346667_bba422d1df.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 727,
+          "name": "Thuốc bổ & vitamin",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-bo-and-vitamin",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 752,
+          "name": "Thuốc bổ",
+          "parentName": "Thuốc bổ & vitamin",
+          "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 18500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Chai x 20ml"
+        }
+      ],
+      "slug": "thuoc/vitarals-20ml-1745.html",
+      "ingredient": [
+        {
+          "id": 23823,
+          "ingredientId": 40393,
+          "shortDescription": "5mg",
+          "name": "Vitamin PP",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 23824,
+          "ingredientId": 40333,
+          "shortDescription": "1mg",
+          "name": "Vitamin B6",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 23825,
+          "ingredientId": 40331,
+          "shortDescription": "2mg",
+          "name": "Vitamin B5",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 23826,
+          "ingredientId": 40324,
+          "shortDescription": "0.75mg",
+          "name": "Vitamin B2",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b2"
+        },
+        {
+          "id": 23827,
+          "ingredientId": 40316,
+          "shortDescription": "1mg",
+          "name": "Vitamin B1",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b1"
+        },
+        {
+          "id": 23828,
+          "ingredientId": 40363,
+          "shortDescription": "1mg",
+          "name": "Vitamin E",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-e"
+        },
+        {
+          "id": 23829,
+          "ingredientId": 40360,
+          "shortDescription": "150iu",
+          "name": "Vitamin D2",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-d2"
+        },
+        {
+          "id": 23830,
+          "ingredientId": 40309,
+          "shortDescription": "1500iu",
+          "name": "Vitamin A",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-a"
+        },
+        {
+          "id": 23831,
+          "ingredientId": 40349,
+          "shortDescription": "25mg",
+          "name": "Vitamin C",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-c"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "",
+      "registNum": "893100846424",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Dung dịch uống",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Uống 1 lần hoặc chia làm 2 lần mỗi ngày.</p>\n\n<h3>Liều dùng</h3>\n\n<p>1ml Vitarals tương đương 25 giọt.</p>\n\n<ul>\n\t<li>Trẻ em dưới 2 tuổi: 1ml (25 giọt)/ngày.</li>\n\t<li>Trẻ em trên 2 tuổi và người lớn: 2ml (50 giọt)/ngày.</li>\n</ul>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p><em>Quá liều:</em></p>\n\n<p>Vitamin A: buồn ngủ, hoa mắt, buồn nôn và nôn, mê sảng, co giật, tiêu chảy và tăng áp suất nội sọ (dẫn đến lồi thóp ở trẻ em).</p>\n\n<p>Vitamin D: chán ăn, uể oải, buồn nôn và nôn, tiêu chảy, đa niệu, ra mồ hôi, nhức đầu, khát nước, chóng mặt.</p>\n\n<p><em>Cách xử trí:</em></p>\n\n<p>Ngưng điều trị vitamin nếu ngộ độc xảy ra, chuyển đến bệnh viện để xử lý kịp thời.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p><em>Phòng ngừa và điều chỉnh tình trạng thiếu hụt vitamin trong các trường hợp:</em></p>\n\n<p>Dinh dưỡng mất cân bằng (biếng ăn, ăn kiêng, nghiện rượu kinh niên).</p>\n\n<p>Chậm tăng trưởng, thiếu dinh dưỡng, bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/coi-xuong-206.html\">còi xương</a>.</p>\n\n<p>Dưỡng bệnh sau khi điều trị nhiễm trùng.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Vitarals là sự phối hợp của nhiều vitamin thiết yếu cho cuộc sống hằng ngày cũng như cho người thiếu dinh dưỡng. Thuốc cũng cung cấp chất dinh dưỡng cho sự phát triển trẻ em, cho người lớn tuổi, cho người bị suy nhược, đặc biệt suy nhược sau phẫu thuật.</p>\n\n<p>Vitamin A là vitamin tan trong dầu rất cần cho sự tăng trưởng và phát triển, duy trì các biểu mô và thị giác.</p>\n\n<p>Vitamin D gồm một nhóm các hợp chất sterol tan trong dầu, cần thiết trong sự điều hòa cân bằng calci và phospho và sự khoáng hóa xương.</p>\n\n<p>Vitamin E là một vitamin tan trong dầu, ngăn cản sự oxy hóa các acid béo chưa bão hòa. Nó phản ứng với các gốc tự do mà không tạo ra các gốc tự do khác trong quá trình đó.</p>\n\n<p>Thiamin là một vitamin tan trong nước, là coenzym cần thiết cho chuyển hoá carbohydrat.</p>\n\n<p>Riboflavin dạng hoạt tính là những coenzym cần cho phản ứng oxy hoá - khử và giúp cho hoạt động của pyridoxin.</p>\n\n<p>Dexpanthenol là vitamin nhóm B, được cấu thành từ coenzyme A cần thiết trong chuyển hoá carbohydrat, chất béo và protein.</p>\n\n<p>Pyridoxin là một vitamin tan trong nước, chủ yếu tham gia chuyển hóa các acid amin, carbohydrat và chất béo. Pyridoxin cũng tham gia tổng hợp hemoglobin.</p>\n\n<p>Vitamin PP là vitamin nhóm B tan trong nước. Trong cơ thể, nicotinamid thực hiện chức năng sau khi chuyển thành <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/nicotinamide\">nicotinamid</a> adenin dinucleotid (NAD) hoặc nicotinamid adenin dinucleotid phosphat (NADP). NAD và NADP có vai trò như coenzym cần thiết cho hô hấp ở mô, phân giải glycogen, và chuyển hóa lipid.</p>\n\n<p>Vitamin C là vitamin tan trong nước, là yếu tố cần thiết cho sự tổng hợp collagen và sửa chữa các mô. Acid ascorbic làm nhiệm vụ quan trọng trong quá trình oxy hóa khử và trong hô hấp tế bào.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu:</em> Thuốc hấp thu tốt qua đường tiêu hoá sau khi uống.</p>\n\n<p><em>Phân bố:</em> Chưa có báo cáo.</p>\n\n<p><em>Chuyển hoá: </em>Chưa có báo cáo.</p>\n\n<p><em>Thải trừ: </em>Thuốc đào thải dưới dạng nguyên vẹn hoặc chất chuyển hoá qua nước tiểu.</p>",
+      "brand": "Pharmedic",
+      "brandType": null,
+      "adverseEffect": "<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Không xác định tần suất:</em></p>\n\n<ul>\n\t<li>\n\t<p>Khi dùng vitamin A liều cao kéo dài có thể dẫn đến ngộ độc vitamin A. Các triệu chứng đặc trưng là mệt mỏi, dễ bị kích thích, chán ăn, sút cân, nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">rối loạn tiêu hoá</a>, sốt, gan - lách to, da bị biến đổi, <a href=\"https://nhathuoclongchau.com.vn/benh/rung-toc-532.html\">rụng tóc</a>, tóc khô giòn, môi nứt nẻ và chảy máu, thiếu máu, nhức đầu, calci huyết cao, phù nề dưới da, đau ở xương và khớp. Ở trẻ em các triệu chứng ngộ độc mạn tính gồm tăng áp lực nội sọ, phù gai thị, ù tai, rối loạn thị giác, sưng đau dọc các xương dài.</p>\n\t</li>\n\t<li>\n\t<p>Khi uống phải một liều rất cao vitamin A có thể dẫn đến ngộ độc cấp với các dấu hiệu buồn ngủ, chóng mặt, hoa mắt, buồn nôn, nôn, dễ bị kích thích, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, mê sảng và co giật, tiêu chảy.</p>\n\t</li>\n\t<li>\n\t<p>Cường vitamin D có thể xảy ra khi điều trị liều cao hoặc kéo dài hoặc khi tăng đáp ứng với liều bình thường của vitamin D, sẽ dẫn đến những biểu hiện lâm sàng rối loạn chuyển hoá calci (yếu, mệt, ngủ gà, đau đầu, chán ăn, khô miệng, vị kim loại, buồn nôn, nôn, chuột rút ở bụng, táo bón, tiêu chảy, chóng mặt).</p>\n\t</li>\n\t<li>\n\t<p>Liều cao vitamin E có thể gây <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a>, đau bụng, và các rối loạn tiêu hoá khác và cũng có thể gây mệt mỏi, yếu.</p>\n\t</li>\n\t<li>\n\t<p>Các phản ứng có hại của thiamin rất hiếm và thường theo kiểu dị ứng.</p>\n\t</li>\n\t<li>\n\t<p>Liều cao riboflavin thì nước tiểu sẽ chuyển màu vàng nhạt, gây sai lệch đối với một số xét nghiệm nước tiểu.</p>\n\t</li>\n\t<li>\n\t<p>Pyridoxin: Dùng liều 200mg/ngày và dài ngày có thể gây bệnh thần kinh ngoại vi nặng.</p>\n\t</li>\n\t<li>\n\t<p>Liều cao nicotinamid có thể gây buồn nôn, đỏ bừng mặt và cổ, ngứa, cảm giác rát bỏng hoặc nhói đau ở da.</p>\n\t</li>\n\t<li>\n\t<p>Vitamin C có thể gây tăng oxalat niệu, buồn nôn, nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/o-chua-200.html\">ợ nóng</a>, co cứng cơ bụng, mệt mỏi, đỏ bừng, nhức đầu, mất ngủ và tình trạng buồn ngủ đã xảy ra.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Chai x 20ml",
+      "indications": [
+        {
+          "id": 528,
+          "name": "Suy dinh dưỡng",
+          "slug": "benh/suy-dinh-duong-298.html"
+        },
+        {
+          "id": 608,
+          "name": "Còi xương",
+          "slug": "benh/coi-xuong-206.html"
+        },
+        {
+          "id": 1248,
+          "name": "Chán ăn",
+          "slug": "benh/chan-an-1011.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "PHARMEDIC",
+      "shortDescription": "<p>Vitarals là sản phẩm của Công ty cổ phần dược phẩm dược liệu Pharmedic, thành phần chính bao gồm vitamin A, vitamin D2, vitamin E, vitamin B1, vitamin B2, vitamin B5, vitamin B6, vitamin PP và vitamin C. Thuốc dùng để phòng ngừa và điều chỉnh tình trạng thiếu hụt vitamin trong một số trường hợp.</p>\n\n<p>Vitarals được bào chế dạng dung dịch uống, màu vàng, có mùi thơm, vị chua ngọt; đóng gói theo quy cách: hộp 1 chai 20 ml.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "",
+      "objectUse": [
+        "Trẻ em",
+        "Trẻ sơ sinh"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Phụ nữ cho con bú"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Dị ứng thuốc",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/pharmedic",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "VITARALS SIRO",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "24 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 6,
+        "measureUnitName": "Chai",
+        "isSellDefault": true,
+        "price": 18500,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Chai x 20ml"
+      },
+      "highestLevelCategory": {
+        "id": 752,
+        "name": "Thuốc bổ",
+        "parentName": "Thuốc bổ & vitamin",
+        "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_5157_5ba0_large_e02133edda.JPG",
+          "alternativeText": "Dung dịch uống Vitarals Pharmedic phòng ngừa và điều chỉnh tình trạng thiếu hụt Vitamin (20ml) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_4931_5ba0_large_b3078a11a0.JPG",
+          "alternativeText": "Dung dịch uống Vitarals Pharmedic phòng ngừa và điều chỉnh tình trạng thiếu hụt Vitamin (20ml) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_8658_5ba0_large_dabe557d92.JPG",
+          "alternativeText": "Dung dịch uống Vitarals Pharmedic phòng ngừa và điều chỉnh tình trạng thiếu hụt Vitamin (20ml) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_7953_5ba0_large_ee25f73e5b.JPG",
+          "alternativeText": "Dung dịch uống Vitarals Pharmedic phòng ngừa và điều chỉnh tình trạng thiếu hụt Vitamin (20ml) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_9366_5ba0_large_b52cd43916.JPG",
+          "alternativeText": "Dung dịch uống Vitarals Pharmedic phòng ngừa và điều chỉnh tình trạng thiếu hụt Vitamin (20ml) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_9101_6085_large_b4a0bfa1c8.jpg",
+          "alternativeText": "Dung dịch uống Vitarals Pharmedic phòng ngừa và điều chỉnh tình trạng thiếu hụt Vitamin (20ml) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_1619346667_bba422d1df.jpg",
+          "alternativeText": "Dung dịch uống Vitarals Pharmedic phòng ngừa và điều chỉnh tình trạng thiếu hụt Vitamin (20ml) 7"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 18500,
+        "itemCode": "00008044",
+        "unitCode": 6,
+        "maxValue": 0,
+        "price": 18500,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc bổ & vitamin",
+        "slug": "/thuoc/thuoc-bo-and-vitamin"
+      },
+      {
+        "name": "Thuốc bổ",
+        "slug": "/thuoc/thuoc-bo-and-vitamin/thuoc-bo"
+      }
+    ],
+    "content": {
+      "sku": "00008044",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Uống 1 lần hoặc chia làm 2 lần mỗi ngày.</p>\n\n<h3>Liều dùng</h3>\n\n<p>1ml Vitarals tương đương 25 giọt.</p>\n\n<ul>\n\t<li>Trẻ em dưới 2 tuổi: 1ml (25 giọt)/ngày.</li>\n\t<li>Trẻ em trên 2 tuổi và người lớn: 2ml (50 giọt)/ngày.</li>\n</ul>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p><em>Quá liều:</em></p>\n\n<p>Vitamin A: buồn ngủ, hoa mắt, buồn nôn và nôn, mê sảng, co giật, tiêu chảy và tăng áp suất nội sọ (dẫn đến lồi thóp ở trẻ em).</p>\n\n<p>Vitamin D: chán ăn, uể oải, buồn nôn và nôn, tiêu chảy, đa niệu, ra mồ hôi, nhức đầu, khát nước, chóng mặt.</p>\n\n<p><em>Cách xử trí:</em></p>\n\n<p>Ngưng điều trị vitamin nếu ngộ độc xảy ra, chuyển đến bệnh viện để xử lý kịp thời.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Vitarals của Công ty cổ phần dược phẩm dược liệu Pharmedic.</p></body></html>",
+      "adverseEffect": "<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Không xác định tần suất:</em></p>\n\n<ul>\n\t<li>\n\t<p>Khi dùng vitamin A liều cao kéo dài có thể dẫn đến ngộ độc vitamin A. Các triệu chứng đặc trưng là mệt mỏi, dễ bị kích thích, chán ăn, sút cân, nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">rối loạn tiêu hoá</a>, sốt, gan - lách to, da bị biến đổi, <a href=\"https://nhathuoclongchau.com.vn/benh/rung-toc-532.html\">rụng tóc</a>, tóc khô giòn, môi nứt nẻ và chảy máu, thiếu máu, nhức đầu, calci huyết cao, phù nề dưới da, đau ở xương và khớp. Ở trẻ em các triệu chứng ngộ độc mạn tính gồm tăng áp lực nội sọ, phù gai thị, ù tai, rối loạn thị giác, sưng đau dọc các xương dài.</p>\n\t</li>\n\t<li>\n\t<p>Khi uống phải một liều rất cao vitamin A có thể dẫn đến ngộ độc cấp với các dấu hiệu buồn ngủ, chóng mặt, hoa mắt, buồn nôn, nôn, dễ bị kích thích, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a>, mê sảng và co giật, tiêu chảy.</p>\n\t</li>\n\t<li>\n\t<p>Cường vitamin D có thể xảy ra khi điều trị liều cao hoặc kéo dài hoặc khi tăng đáp ứng với liều bình thường của vitamin D, sẽ dẫn đến những biểu hiện lâm sàng rối loạn chuyển hoá calci (yếu, mệt, ngủ gà, đau đầu, chán ăn, khô miệng, vị kim loại, buồn nôn, nôn, chuột rút ở bụng, táo bón, tiêu chảy, chóng mặt).</p>\n\t</li>\n\t<li>\n\t<p>Liều cao vitamin E có thể gây <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a>, đau bụng, và các rối loạn tiêu hoá khác và cũng có thể gây mệt mỏi, yếu.</p>\n\t</li>\n\t<li>\n\t<p>Các phản ứng có hại của thiamin rất hiếm và thường theo kiểu dị ứng.</p>\n\t</li>\n\t<li>\n\t<p>Liều cao riboflavin thì nước tiểu sẽ chuyển màu vàng nhạt, gây sai lệch đối với một số xét nghiệm nước tiểu.</p>\n\t</li>\n\t<li>\n\t<p>Pyridoxin: Dùng liều 200mg/ngày và dài ngày có thể gây bệnh thần kinh ngoại vi nặng.</p>\n\t</li>\n\t<li>\n\t<p>Liều cao nicotinamid có thể gây buồn nôn, đỏ bừng mặt và cổ, ngứa, cảm giác rát bỏng hoặc nhói đau ở da.</p>\n\t</li>\n\t<li>\n\t<p>Vitamin C có thể gây tăng oxalat niệu, buồn nôn, nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/o-chua-200.html\">ợ nóng</a>, co cứng cơ bụng, mệt mỏi, đỏ bừng, nhức đầu, mất ngủ và tình trạng buồn ngủ đã xảy ra.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Ở nhiệt độ không quá 30°C. Đóng nắp ngay sau khi dùng.</p>\n\n<p>Công ty cổ phần dược phẩm dược liệu Pharmedic được thành lập vào năm 1981. Hiện tại, công ty đang sản xuất rất nhiều nhóm thuốc và phân phối rộng rãi trên khắp Việt Nam. Một số sản phẩm nổi bật của công ty như: Albefar, Allerfar, Vitarals, Aspartab, Coldfed, Farzincol, Gynofar, Inhaler...</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p><em>Phòng ngừa và điều chỉnh tình trạng thiếu hụt vitamin trong các trường hợp:</em></p>\n\n<p>Dinh dưỡng mất cân bằng (biếng ăn, ăn kiêng, nghiện rượu kinh niên).</p>\n\n<p>Chậm tăng trưởng, thiếu dinh dưỡng, bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/coi-xuong-206.html\">còi xương</a>.</p>\n\n<p>Dưỡng bệnh sau khi điều trị nhiễm trùng.</p>\n\n<h3>Dược lực học</h3>\n\n<p>Vitarals là sự phối hợp của nhiều vitamin thiết yếu cho cuộc sống hằng ngày cũng như cho người thiếu dinh dưỡng. Thuốc cũng cung cấp chất dinh dưỡng cho sự phát triển trẻ em, cho người lớn tuổi, cho người bị suy nhược, đặc biệt suy nhược sau phẫu thuật.</p>\n\n<p>Vitamin A là vitamin tan trong dầu rất cần cho sự tăng trưởng và phát triển, duy trì các biểu mô và thị giác.</p>\n\n<p>Vitamin D gồm một nhóm các hợp chất sterol tan trong dầu, cần thiết trong sự điều hòa cân bằng calci và phospho và sự khoáng hóa xương.</p>\n\n<p>Vitamin E là một vitamin tan trong dầu, ngăn cản sự oxy hóa các acid béo chưa bão hòa. Nó phản ứng với các gốc tự do mà không tạo ra các gốc tự do khác trong quá trình đó.</p>\n\n<p>Thiamin là một vitamin tan trong nước, là coenzym cần thiết cho chuyển hoá carbohydrat.</p>\n\n<p>Riboflavin dạng hoạt tính là những coenzym cần cho phản ứng oxy hoá - khử và giúp cho hoạt động của pyridoxin.</p>\n\n<p>Dexpanthenol là vitamin nhóm B, được cấu thành từ coenzyme A cần thiết trong chuyển hoá carbohydrat, chất béo và protein.</p>\n\n<p>Pyridoxin là một vitamin tan trong nước, chủ yếu tham gia chuyển hóa các acid amin, carbohydrat và chất béo. Pyridoxin cũng tham gia tổng hợp hemoglobin.</p>\n\n<p>Vitamin PP là vitamin nhóm B tan trong nước. Trong cơ thể, nicotinamid thực hiện chức năng sau khi chuyển thành <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/nicotinamide\">nicotinamid</a> adenin dinucleotid (NAD) hoặc nicotinamid adenin dinucleotid phosphat (NADP). NAD và NADP có vai trò như coenzym cần thiết cho hô hấp ở mô, phân giải glycogen, và chuyển hóa lipid.</p>\n\n<p>Vitamin C là vitamin tan trong nước, là yếu tố cần thiết cho sự tổng hợp collagen và sửa chữa các mô. Acid ascorbic làm nhiệm vụ quan trọng trong quá trình oxy hóa khử và trong hô hấp tế bào.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu:</em> Thuốc hấp thu tốt qua đường tiêu hoá sau khi uống.</p>\n\n<p><em>Phân bố:</em> Chưa có báo cáo.</p>\n\n<p><em>Chuyển hoá: </em>Chưa có báo cáo.</p>\n\n<p><em>Thải trừ: </em>Thuốc đào thải dưới dạng nguyên vẹn hoặc chất chuyển hoá qua nước tiểu.</p>",
+      "ingredient": "",
+      "careful": "<h3>Chống chỉ định</h3>\n\n<ul>\n\t<li>\n\t<p>Nhạy cảm với bất cứ thành phần nào của thuốc.</p>\n\t</li>\n\t<li>\n\t<p>Người bệnh thừa vitamin A.</p>\n\t</li>\n\t<li>\n\t<p>Tăng calci máu hoặc nhiễm độc vitamin D.</p>\n\t</li>\n\t<li>\n\t<p>Bệnh gan nặng, loét dạ dày tiến triển, xuất huyết động mạch, hạ huyết áp nặng.</p>\n\t</li>\n\t<li>\n\t<p>Người bị sỏi thận không được dùng quá 1 g/ngày.</p>\n\t</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Khi dùng với thuốc khác chứa vitamin A, phải tính kỹ liều để không thừa vitamin A.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Chưa có bằng chứng về ảnh hưởng của thuốc lên khả năng lái xe và vận hành máy móc.</p>\n\n<h3>Thời kỳ mang thai </h3>\n\n<p>Phụ nữ mang thai không dùng quá 8000 IU vitamin A (130 giọt tương đương 5,3 ml thuốc giọt) mỗi ngày.</p>\n\n<h3>Thời kỳ cho con bú</h3>\n\n<p>Phụ nữ cho con bú không được dùng quá 8000 IU vitamin A (130 giọt tương đương 5,3 ml thuốc giọt) mỗi ngày.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Liều của vitamin bổ sung theo nhu cầu hằng ngày không tương tác với thuốc khác.</p>\n\n<p>Liều cao, một vài vitamin có thể làm giảm tác dụng của phenyltoin, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/phenobarbital\">phenobarbital</a>, primidone và levodopa.</p>\n\n<p>Sự hấp thu vitamin A, D ở ruột giảm khi dùng cùng neomycin, cholestyramin hay dầu parafin.</p>\n\n<p>Tăng nguy cơ thừa vitamin A nếu dùng vitamin A cùng với retionid tổng hợp như acitretin, isotretinoin và tretinoin.</p>\n\n<p>Người dùng clopromazin, imipramin, amitriptylin hoặc adriamycin có thể gặp tình trạng “thiếu riboflavin”.</p>\n\n<p>Rượu có thể gây cản trở hấp thu riboflavin ở ruột.</p>\n\n<p>Probenecid dùng cùng với riboflavin gây giảm hấp thu riboflavin ở dạ dày, ruột.</p>\n\n<p>Không dùng dexpanthenol trong vòng 1 giờ sau khi dùng sucinylcholin.</p>\n\n<p>Không dùng dexpanthenol cùng với hoặc trong vòng 12 giờ sau khi dùng neostigmin hoặc những thuốc tác dụng giống thần kinh đối giao cảm khác.</p>\n\n<p>Dùng cùng nicotinamide với thuốc ức chế men khử HMG-CoA có thể làm tăng nguy cơ gây tiêu cơ vân.</p>\n\n<p>Dùng cùng nicotinamide với thuốc chẹn α-adrenergic có thể gây hạ huyết áp quá mức.</p>\n\n<p>Có thể cần điều chỉnh liều thuốc uống hạ đường huyết hoặc insulin khi sử dụng đồng thời với nicotinamid.</p>\n\n<p>Dùng cùng nicotinamide với các thuốc có độc tính với gan có thể làm tăng thêm tác hại độc cho gan.</p>\n\n<p>Không nên dùng cùng nicotinamide với carbamazepin vì gây tăng nồng độ carbamazepin huyết tương dẫn đến tăng độc tính.</p>\n\n<p>Dùng cùng vitamin C với sắt nguyên tố làm tăng hấp thu sắt qua đuờng tiêu hóa.</p>\n\n<p>Dùng cùng vitamin C với aspirin làm tăng bài tiết vitamin C và giảm bài tiết aspirin trong nước tiểu.</p>\n\n<p>Acid ascorbic là tác nhân khử mạnh, nên có thể ảnh hưởng đến các test sinh học trong xét nghiệm cận lâm sàng (định lượng creatinin và glucose trong máu, nước tiểu).</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Phạm Nguyễn Hoàng Kim",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Dược sĩ chuyên ngành Dược lâm sàng, với nhiều năm kinh nghiệm làm việc trong lĩnh vực dược phẩm. Là Dược sĩ Long Châu đạt được chứng chỉ bệnh học cấp quốc tế. Hiện đang là giảng viên tại Trung tâm Đào tạo FPT Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-pham-nguyen-hoang-kim",
+        "isLegit": true,
+        "id": 3,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/duoc_si_kim_654f239621.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Vitarals chai 20ml trị thiếu hụt vitamin",
+        "metaDescription": "Thuốc Vitarals chai 20ml thành phần chính bao gồm vitamin A, vitamin D2, vitamin E, vitamin B1, vitamin B2, vitamin B5, vitamin B6, vitamin PP và vitamin C. Thuốc dùng để phòng ngừa và điều chỉnh tình trạng thiếu hụt vitamin trong một số trường hợp.",
+        "id": 3519,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_5157_5ba0_large_e02133edda.JPG",
+              "alternativeText": null
+            },
+            "title": "Dung dịch uống Vitarals Pharmedic phòng ngừa và điều chỉnh tình trạng thiếu hụt Vitamin (20ml)",
+            "description": "Vitarals là sản phẩm của Công ty cổ phần dược phẩm dược liệu Pharmedic, thành phần chính bao gồm vitamin A, vitamin D2, vitamin E, vitamin B1, vitamin B2, vitamin B5, vitamin B6, vitamin PP và vitamin C. Thuốc dùng để phòng ngừa và điều chỉnh tình trạng thiếu hụt vitamin trong một số trường hợp.\n\nVitarals được bào chế dạng dung dịch uống, màu vàng, có mùi thơm, vị chua ngọt; đóng gói theo quy cách: hộp 1 chai 20 ml."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 33488,
+        "title": "Tác dụng phụ có thể gặp khi sử dụng Dung dịch uống Vitarals là gì?",
+        "content": "<p>Các tác dụng phụ thường gặp hoặc ít gặp của Vitarals chưa được báo cáo. Tuy nhiên, khi dùng liều cao kéo dài, đặc biệt là vitamin A, có thể dẫn đến ngộ độc mạn tính hoặc cấp tính với các triệu chứng như mệt mỏi, dễ bị kích thích, chán ăn, sút cân, rối loạn tiêu hóa, gan lách to, da biến đổi, rụng tóc, thiếu máu, đau xương khớp, tăng áp lực nội sọ (ở trẻ em). Cường vitamin D liều cao hoặc kéo dài có thể gây rối loạn chuyển hóa canxi. Liều cao vitamin E có thể gây rối loạn tiêu hóa và mệt mỏi. Dùng liều cao kéo dài pyridoxin có thể gây bệnh thần kinh ngoại vi nặng. Liều cao nicotinamid có thể gây buồn nôn, đỏ bừng mặt và cổ, ngứa. Vitamin C liều cao có thể gây tăng oxalat niệu và các rối loạn tiêu hóa khác. Khi gặp tác dụng phụ, cần ngưng sử dụng thuốc và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất.</p>"
+      },
+      {
+        "id": 33487,
+        "title": "Khi dùng quá liều Dung dịch uống Vitarals cần xử lý như thế nào?",
+        "content": "<p>Nếu dùng quá liều Vitarals, có thể gặp các triệu chứng ngộ độc vitamin A (buồn ngủ, hoa mắt, buồn nôn, nôn, mê sảng, co giật, tiêu chảy, tăng áp suất nội sọ) hoặc ngộ độc vitamin D (chán ăn, uể oải, buồn nôn, nôn, tiêu chảy, đa niệu, ra mồ hôi, nhức đầu, khát nước, chóng mặt). Khi xảy ra ngộ độc, cần ngưng sử dụng thuốc ngay lập tức và chuyển đến bệnh viện để được xử lý kịp thời.</p>"
+      },
+      {
+        "id": 33486,
+        "title": "Cách dùng và liều lượng của Dung dịch uống Vitarals như thế nào?",
+        "content": "<p>Vitarals được bào chế dưới dạng dung dịch uống. Liều dùng thông thường là uống 1 lần hoặc chia làm 2 lần mỗi ngày. Đối với trẻ em dưới 2 tuổi, liều dùng là 1ml (tương đương 25 giọt)/ngày. Đối với trẻ em trên 2 tuổi và người lớn, liều dùng là 2ml (tương đương 50 giọt)/ngày. Lưu ý liều dùng này chỉ mang tính chất tham khảo và cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế để có liều dùng phù hợp với thể trạng và tình trạng bệnh cụ thể.</p>"
+      },
+      {
+        "id": 33485,
+        "title": "Thành phần chính của Dung dịch uống Vitarals là gì?",
+        "content": "<p>Các thành phần chính của Dung dịch uống Vitarals bao gồm: Vitamin PP (5mg), Vitamin B6 (1mg), Vitamin B5 (2mg), Vitamin B2 (0.75mg), Vitamin B1 (1mg), Vitamin E (1mg), Vitamin D2 (150iu), Vitamin A (1500iu), và Vitamin C (25mg).</p>"
+      },
+      {
+        "id": 33484,
+        "title": "Dung dịch uống Vitarals là gì và dùng để làm gì?",
+        "content": "<p>Dung dịch uống Vitarals là một sản phẩm của Công ty cổ phần dược phẩm dược liệu Pharmedic, chứa hỗn hợp nhiều loại vitamin thiết yếu như vitamin A, D2, E, B1, B2, B5, B6, PP và C. Thuốc được sử dụng để phòng ngừa và điều chỉnh tình trạng thiếu hụt vitamin trong các trường hợp dinh dưỡng mất cân bằng (biếng ăn, ăn kiêng, nghiện rượu kinh niên), chậm tăng trưởng, thiếu dinh dưỡng, bệnh còi xương, và dưỡng bệnh sau khi điều trị nhiễm trùng.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00029004",
+        "name": "POKEMINE MEDISUN 20X10ML",
+        "webName": "Dung dịch uống Pokemine 50mg Medisun bổ sung sắt cho bệnh nhân thiếu máu (20 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/pokemine_20x10ml_medisun_00029004_18974a7442.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37079,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 152000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pokemine-medisun-20x10ml-29296.html",
+        "ingredients": "Sắt 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Medisun",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 20 ống X 10ml",
+        "prices": [
+          {
+            "id": 37079,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 152000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 37078,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 7600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00047080",
+        "name": "MYHEMO RELIV 3X10",
+        "webName": "Thuốc Myhemo 305mg Reliv dự phòng thiếu sắt và folic acid (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_myhemo_reliv_3x10_00047080_42c390f09b.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 73453,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 165000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/myhemo-reliv-3-x10.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 100mg",
+        "dosageForm": "Viên bao đường",
+        "brand": "Reliv",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 73453,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 165000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 73454,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 73455,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007450",
+        "name": "TOTHEMA 2X10 ỐNG 10ML",
+        "webName": "Dung dịch Tot'héma Innothera điều trị thiếu máu do sắt (2 vỉ x 10 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04101_788e84a74a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10875,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 120000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tothema-1952.html",
+        "ingredients": "Mangan gluconat 1.33mg, Đồng gluconat 0.7mg, Sắt gluconat 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Innothera",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 10 Ống x 10ml",
+        "prices": [
+          {
+            "id": 10875,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 120000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10873,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10874,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049621",
+        "name": "VITAMIN A-D HDPHARMA 10X10",
+        "webName": "Thuốc Vitamin A-D Hdpharma dùng dự phòng và điều trị các triệu chứng do thiếu vitamin A - D (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_vitamin_a_d_10x10_hdpharma_00049621_f8bba8c44a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 78290,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 32000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vitamin-a-d-hdpharma-10-x10.html",
+        "ingredients": "Vitamin A 5000iu, Vitamin D3 400iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Hdpharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 78290,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 32000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 78291,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 3200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 78292,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 320,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049065",
+        "name": "MAZZGIN DHG PHARMA 10X10",
+        "webName": "Thuốc Mazzgin DHG Pharma điều trị các trường hợp thiếu magnesi riêng biệt hay kết hợp (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_mazzgin_dhg_pharma_10x10_00049065_82218241b8.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 77246,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 53550,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/mazzgin-dhg-pharma-10-x10.html",
+        "ingredients": "Magnesi lactat dihydrat 470mg, Vitamin B6 5mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Dhg",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 77246,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 53550,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 77247,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 5355,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 77248,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 536,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00041155",
+        "name": "CARDIOTON LIPA 6X10",
+        "webName": "Thuốc Cardioton Lipa Pharma điều trị suy tim, tăng huyết áp, bổ sung năng lượng (6 vỉ x 10 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_cardioton_lipa_6x10_00041155_9ecff2b28f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 62161,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 7667,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cardioton-lipa-6-x10.html",
+        "ingredients": "Ubidecarenone 30mg, D-alpha tocopherol 6.71mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "LIPA PHARMACEUTICALSLTD",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 62161,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 62159,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 460000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 62160,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 76667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500658",
+        "name": "ZY-10 FORTE 100MG Y-MED 3X10",
+        "webName": "Thuốc Zy-10 Forte 100mg Y-Med điều trị bệnh suy tim xung huyết, thiếu hụt coenzym Q10 (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/5_9e44bd6ebd.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48922,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 15600,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/zy-10-forte-100mg-hop-3-vi-x-10-vien-ha-tay-34787.html",
+        "ingredients": "Ubidecarenone 100mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Y-MED",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48922,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 15600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 48924,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 468000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 48923,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 156000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 249,
+          "attributeName": "Ấn Độ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/in_India_090039de61.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009723",
+        "name": "BEROCCA BAYER 10V",
+        "webName": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1758_33831b7cab.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12974,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 75000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/berocca-1515.html",
+        "ingredients": "Vitamin B1 15mg, Vitamin B2 15mg, Vitamin B6 10mg, Vitamin B12 0.01mg, Vitamin B3 50mg, Vitamin B5 23mg, Magnesia 100mg, Vitamin C 500mg, Calcium 100mg, Vitamin B8 0.15mg, Kẽm 10mg",
+        "dosageForm": "Viên sủi",
+        "brand": "Bayer",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 12973,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 7500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12974,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 75000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00008451",
+        "name": "LONG HUYẾT PH 2X12 - TAN BẦM TÍM GIẢM PHÙ NỀ",
+        "webName": "Thuốc Long Huyết P/H Phúc Hưng đặc trị tan bầm tím, mau lành vết thương (2 vỉ x 12 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1039_fba416224d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12490,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 47000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/long-huyet-ph-tan-bam-tim-chua-lanh-vet-thuong-1590.html",
+        "ingredients": "Cao khô huyết giác 280mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Phúc Hưng",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 2 vỉ x 12 viên",
+        "prices": [
+          {
+            "id": 12488,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1958,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12489,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 23500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 12490,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 47000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007678",
+        "name": "UPSA-C 10V",
+        "webName": "Viên sủi UPSA-C UPSA SAS hỗ trợ điều trị tình trạng thiếu hụt vitamin C (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1794_11051dc2c2.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11216,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 37000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/upsa-c-1000mg-1878.html",
+        "ingredients": "Vitamin C 1000mg",
+        "dosageForm": "Viên nén sủi bọt",
+        "brand": "Upsa Sas",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 11215,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 3700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11216,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 37000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007180",
+        "name": "TARDYFERON B9 3X10",
+        "webName": "Thuốc Tardyferon B9 Pierre Fabre dự phòng thiếu sắt, acid folic cho phụ nữ có thai (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_tardyferon_b9_3_vi_x_10_vien_pierre_fabre_00007180_aec7b4c600.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10449,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tardyferon-b9-2068.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 50mg",
+        "dosageForm": "Viên nén",
+        "brand": "Pierre Fabre",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 10449,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10451,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 87000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10450,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 29000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006109",
+        "name": "PROCARE DIAMOND 216MG CATALENT 30V",
+        "webName": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_7021_60ee_large_89e91ba6fb.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8834,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 420000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/procare-diamond-216mg-2522.html",
+        "ingredients": "Vitamin B1 5mg, Vitamin B2 5mg, Nicotinamide 5mg, Vitamin D3 200iu, Vitamin B6 5mg, Vitamin B12 10mcg, Vitamin E 10iu, Folic Acid 500mcg, Calcium 59mg, Phosphorus 46.6mg, Magnesium ion 30mg, Vitamin C 50mg, Zinc 8mg, Iron 24mg, Iodine 200mcg, Omega 3 500mg, Betacarotene 1mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "PROCARE",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 30 Viên",
+        "prices": [
+          {
+            "id": 8833,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 14000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 8834,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 420000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 254,
+          "attributeName": "Tây Ban Nha",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/es_Spain_03bf620563.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 16,
+      "items": [
+        {
+          "id": 3213302,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0862xxxxxx",
+          "name": "Ka Hằng",
+          "email": "kahang2796@gmail.com",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Bé 6 tháng uống được không?",
+          "createdAt": "2025-11-16 19:48:58",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-16 19:48:58",
+          "replies": [
+            {
+              "id": 3213305,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ánh",
+                "moderatorEmail": "anhnth44@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ánh",
+              "email": "anhnth44@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn <strong>Ka Hằng</strong>,</p><p>Dạ sản phẩm dùng được cho bé 6 tháng ạ.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại để tư vấn kĩ hơn cho mình ạ.</p>",
+              "createdAt": "2025-11-16 19:53:09",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-16 19:48:58",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3200562,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0389xxxxxx",
+          "name": "0389xxxxxx",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bữa bác sĩ kê cho bé mình 1 lọ.giờ hết rồi mình cho bé uống thêm 1 lọ nữa rồi ngưng được không.bé gần 4 tháng ạ",
+          "createdAt": "2025-10-22 23:57:34",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-22 23:57:17",
+          "replies": [
+            {
+              "id": 3200628,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Mạnh Hà",
+                "moderatorEmail": "hahm5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Mạnh Hà",
+              "email": "hahm5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn,</p><p>Dạ tùy vào tình trạng của bé mà bác sĩ chỉ định cho bé sử dụng dòng sản phẩm là thuốc này trong khoảng thời gian như thế nào ạ. Bạn vui lòng liên hệ bác sĩ để được hỗ trợ tư vấn ạ.</p><p>Nhà thuốc thông tin đến bạn.</p>",
+              "createdAt": "2025-10-23 08:18:42",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-22 23:57:17",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3199713,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0395xxxxxx",
+          "name": "Chị Hương",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bé 9 tháng dùng được không ạ",
+          "createdAt": "2025-10-21 12:11:42",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-21 12:11:27",
+          "replies": [
+            {
+              "id": 3199715,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Quỳnh Trang",
+                "moderatorEmail": "trangntq31@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Quỳnh Trang",
+              "email": "trangntq31@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào <strong>Chị Hương</strong>,</p><p>Dạ sản phẩm có thể dùng cho bé 9 tháng ạ. </p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p>",
+              "createdAt": "2025-10-21 12:15:05",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-21 12:11:27",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3142748,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0984xxxxxx",
+          "name": "Dương Ngọc Huyền",
+          "email": "huyenduong.241193@gmail.com",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Pha cùng sữa được ko ạ",
+          "createdAt": "2025-07-11 08:59:55",
+          "createdAtDisplay": "11/07/2025",
+          "updatedAt": "2025-07-11 08:59:47",
+          "replies": [
+            {
+              "id": 3142750,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Vi",
+                "moderatorEmail": "vit2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Vi",
+              "email": "vit2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Dương Ngọc Huyền,</p><p>Dạ sản phẩm Vitarals Pharmedic có thể pha với sữa nguội nhưng không nên pha với sữa nóng để tránh mất vitamin ạ. </p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-07-11 09:02:29",
+              "createdAtDisplay": "11/07/2025",
+              "updatedAt": "2025-07-11 08:59:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3001741,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0367xxxxxx",
+          "name": "sơn chiến",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "uống d3 chung với thuốc này dc k ạ",
+          "createdAt": "2024-12-08 15:55:10",
+          "createdAtDisplay": "08/12/2024",
+          "updatedAt": "2024-12-08 15:55:10",
+          "replies": [
+            {
+              "id": 3001743,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Minh Hằng",
+                "moderatorEmail": "hangnm31@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Minh Hằng",
+              "email": "hangnm31@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Sơn Chiến,</p><p>Dạ sản phẩm chưa có thành phần vitamin d3 nên mình có thể dùng chung được ạ</p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2024-12-08 15:56:27",
+              "createdAtDisplay": "08/12/2024",
+              "updatedAt": "2024-12-08 15:55:10",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Dung dịch uống Vitarals Pharmedic phòng ngừa và điều chỉnh tình trạng thiếu hụt Vitamin (20ml)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_5157_5ba0_large_e02133edda.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_4931_5ba0_large_b3078a11a0.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_8658_5ba0_large_dabe557d92.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_7953_5ba0_large_ee25f73e5b.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_9366_5ba0_large_b52cd43916.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_9101_6085_large_b4a0bfa1c8.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Vitarals là sản phẩm của Công ty cổ phần dược phẩm dược liệu Pharmedic, thành phần chính bao gồm vitamin A, vitamin D2, vitamin E, vitamin B1, vitamin B2, vitamin B5, vitamin B6, vitamin PP và vitamin C. Thuốc dùng để phòng ngừa và điều chỉnh tình trạng thiếu hụt vitamin trong một số trường hợp.\n\nVitarals được bào chế dạng dung dịch uống, màu vàng, có mùi thơm, vị chua ngọt; đóng gói theo quy cách: hộp 1 chai 20 ml.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Phạm Nguyễn Hoàng Kim"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/vitarals-20ml-1745.html",
+        "priceCurrency": "VND",
+        "price": 18500,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Thuốc Vitarals chai 20ml trị thiếu hụt vitamin",
+      "description": "Thuốc Vitarals chai 20ml thành phần chính bao gồm vitamin A, vitamin D2, vitamin E, vitamin B1, vitamin B2, vitamin B5, vitamin B6, vitamin PP và vitamin C. Thuốc dùng để phòng ngừa và điều chỉnh tình trạng thiếu hụt vitamin trong một số trường hợp.",
+      "openGraph": {
+        "title": "Dung dịch uống Vitarals Pharmedic phòng ngừa và điều chỉnh tình trạng thiếu hụt Vitamin (20ml)",
+        "description": "Vitarals là sản phẩm của Công ty cổ phần dược phẩm dược liệu Pharmedic, thành phần chính bao gồm vitamin A, vitamin D2, vitamin E, vitamin B1, vitamin B2, vitamin B5, vitamin B6, vitamin PP và vitamin C. Thuốc dùng để phòng ngừa và điều chỉnh tình trạng thiếu hụt vitamin trong một số trường hợp.\n\nVitarals được bào chế dạng dung dịch uống, màu vàng, có mùi thơm, vị chua ngọt; đóng gói theo quy cách: hộp 1 chai 20 ml.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00008044_vitarals_20ml_5157_5ba0_large_e02133edda.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/vitarals-20ml-1745.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/vitarals-20ml-1745.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

@@ -1,0 +1,589 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/miderix-380-300-meditop-4-x15.html",
+  "ingestion_timestamp": "2026-09-05T10:29:56.016080+00:00",
+  "file_hash": "484af6a69d4d52db6dea37324291185cae8cdb3f459b7ffcf9f806e067464c4c",
+  "lineage_hash": "5fa869f0ffbb4f01679cee62b3fe56032dc5ea1a41e65feb6b85d514feb3d981",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/miderix-380-300-meditop-4-x15.html",
+    "product": {
+      "sku": "00051553",
+      "webName": "Thuốc Miderix 380mg/300mg Meditop điều trị triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính (4 vỉ x 15 viên)",
+      "name": "MIDERIX 380/300 MEDITOP 4X15",
+      "shortName": "MIDERIX 380/300 MEDITOP 4X15",
+      "headingText": "Thuốc Miderix 380mg/300mg",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_1_9654a9f520.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_2_41b4589402.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_3_b569517f8f.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_4_b46866f26f.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_5_b45c8bedca.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_6_1731d1ed20.png",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 726,
+          "name": "Cơ - xương - khớp",
+          "parentName": "Thuốc",
+          "slug": "thuoc/co-xuong-khop",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 741,
+          "name": "Thuốc giãn cơ",
+          "parentName": "Cơ - xương - khớp",
+          "slug": "thuoc/co-xuong-khop/thuoc-gian-co",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 4 Vỉ x 15 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "4 Vỉ x 15 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "15 Viên"
+        }
+      ],
+      "slug": "thuoc/miderix-380-300-meditop-4-x15.html",
+      "ingredient": [
+        {
+          "id": 75682,
+          "ingredientId": 27186,
+          "shortDescription": "380mg",
+          "name": "Methocarbamol",
+          "isPrimary": false,
+          "slug": "thanh-phan/methocarbamol"
+        },
+        {
+          "id": 75683,
+          "ingredientId": 31537,
+          "shortDescription": "300mg",
+          "name": "Paracetamol",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "599110302925",
+      "manufactor": "Hungary",
+      "dosageForm": "Viên nén",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc Miderix 380mg/300mg dùng đường uống.</p><h3>Liều dùng</h3><p>Điều trị với methocarbamol trong thời gian ngắn nhất có thể. Nên ngừng sử dụng thuốc này khi không còn các triệu chứng đau.</p><p><strong>Người lớn</strong></p><p>760 mg methocarbamol/ 600 mg paracetamol (2 viên) cho mỗi 4 - 6 giờ (tức là từ 4-6 lần/ ngày), tùy thuộc vào mức độ đau. Không được vượt quá tổng liều là 4.560 mg methocarbamol/ 3.600 mg paracetamol (12 viên) trong 24 giờ.</p><p>Thời gian điều trị tối đa là 6 ngày.</p><p><strong>Các đối tượng bệnh nhân đặc biệt</strong></p><p><i>Bệnh nhân cao tuổi</i></p><p>Đã ghi nhận thời gian bán thải của paracetamol tăng ở bệnh nhân cao tuổi và cũng đã ghi nhận rằng với một nửa liều methocarbamol có thể là đủ để đạt được đáp ứng điều trị. Vì vậy khuyến cáo nên giảm liều xuống còn 380 mg methocarbamol/ 300 mg paracetamol (1 viên) cho mỗi 4 giờ hoặc 760 mg methocarbamol/ 600 mg paracetamol (2 viên) cho mỗi 8 giờ.</p><p><i>Bệnh nhân suy thận</i></p><p>Trong trường hợp suy thận, nên giảm liều dựa theo tốc độ lọc cầu thận:</p><ul><li>Tốc độ lọc cầu thận 10 - 50 ml/ phút: Liều dùng 380 mg methocarbamol/ 300 mg paracetamol (1 viên) cho mỗi 6 giờ</li><li>Tốc độ lọc cầu thận &lt; 10 ml/ phút: Liều dùng 380 mg methocarbamol/ 300 mg paracetamol (1 viên) cho mỗi 8 giờ</li></ul><p><i>Bệnh nhân suy gan</i></p><p>Trường hợp suy gan, không được vượt quá tổng liều 2 g paracetamol/ 24 giờ (tối đa là 6 viên mỗi ngày chia thành 3 - 6 lần dùng trong ngày).</p><p>Do thời gian bán thải của methocarbamol có thể dài hơn ở những bệnh nhân này nên có thể cần phải tăng khoảng thời gian giữa các lần dùng thuốc.</p><p><i>Trẻ em</i></p><p>Sự an toàn và hiệu quả ở trẻ em và thanh thiếu niên dưới 18 tuổi chưa được thiết lập. Không khuyến cáo dùng methocarbamol/paracetamol cho trẻ em và thanh thiếu niên dưới 18 tuổi.</p><h3>Xử trí quá liều</h3><p><strong>Methocarbamol</strong></p><p>Ít có thông tin sẵn có liên quan đến nhiễm độc cấp tính với methocarbamol. Các trường hợp quá liều với methocarbamol được báo cáo đã xảy ra khi dùng kết hợp với rượu và các chất ức chế thần kinh trung ương khác và có các triệu chứng sau: buồn nôn, chóng mặt, nhìn mờ, hạ huyết áp, động kinh và hôn mê. Đã ghi nhận các trường hợp riêng lẻ dùng nhiều hơn 22 - 30 gram methocarbamol mà không ghi nhận tình trạng nhiễm độc nghiêm trọng và trường hợp bệnh nhân đã sống sót/ phục hồi sau khi dùng 30 - 50 gram methocarbamol. Triệu chứng chính trong các trường hợp này là người bệnh cảm thấy rất buồn ngủ. Xử trí sau đó là điều trị triệu chứng và không ghi nhận biến cố trong quá trình hồi phục. Tuy nhiên, đã có báo cáo về các trường hợp quá liều dẫn đến tử vong.</p><p>Trong trường hợp quá liều với methocarbamol, bệnh nhân cần điều trị triệu chứng và điều trị hỗ trợ. Các biện pháp hỗ trợ bao gồm duy trì thông thoáng đường thở, theo dõi lượng nước tiểu thải ra và các dấu hiệu sinh tồn cũng như truyền dịch qua đường tĩnh mạch cho bệnh nhân, nếu cần thiết. Chưa biết rõ về lợi ích của thẩm phân máu trong trường hợp quá liều.</p><p><strong>Paracetamol</strong></p><p>Trong trường hợp quá liều với paracetamol, các triệu chứng quá liều bao gồm chóng mặt, nôn, chán ăn, vàng da, đau bụng, suy thận và suy gan. Nếu uống quá liều, bệnh nhân phải nhanh chóng được cấp cứu tại trung tâm y tế ngay cả khi không có dấu hiệu hoặc triệu chứng nào đáng kể. Lý do vì, quá liều với paracetamol có thể gây tử vong nhưng thường không phải là ngay sau khi dùng quá liều mà có thể xảy ra từ ngày thứ ba trở đi. Tử vong có thể xảy ra do hoại tử gan. Suy thận cấp tính cũng có thể xảy ra với xác suất tương tự.</p><p>Quá liều với paracetamol được đánh giá theo 4 giai đoạn, bắt đầu kể từ thời điểm uống quá liều:</p><ul><li>Giai đoạn I (12 - 24 giờ): Buồn nôn, nôn, vã mồ hôi và chán ăn.</li><li>Giai đoạn II (24 - 48 giờ): Tình trạng lâm sàng được cải thiện; nồng độ AST, ALT, bilirubin và prothrombin bắt đầu tăng.</li><li>Giai đoạn III (72 - 96 giờ): Nhiễm độc gan đạt đỉnh; có thể đạt giá trị nồng độ AST là 20.000.</li><li>Giai đoạn IV (7 - 8 ngày): Hồi phục.</li></ul><p>Nhiễm độc gan có thể xảy ra. Liều gây độc tối thiểu là 6 g ở người lớn và hơn 100 mg/kg cân nặng ở trẻ em. Các mức liều cao hơn 20 - 25 g có khả năng gây tử vong.</p><p>Các triệu chứng nhiễm độc gan bao gồm buồn nôn, nôn, chán ăn, khó chịu, vã mồ hôi, đau bụng và tiêu chảy. Nhiễm độc gan không biểu hiện cho đến 48 - 72 giờ sau khi uống quá liều.</p><p>Nếu uống liều cao hơn 150 mg/kg hoặc không thể xác định được lượng đã uống, nồng độ paracetamol trong huyết thanh phải được đo tại thời điểm 4 giờ sau khi uống và tiến hành xét nghiệm kiểm tra chức năng gan và lặp lại xét nghiệm này sau mỗi 24 giờ. Suy gan có thể tiến triển thành bệnh não, hôn mê và tử vong.</p><p>Nồng độ paracetamol trong huyết tương cao hơn 300 microgam/ml được ghi nhận sau 4 giờ sau khi uống có liên quan đến tổn thương gan xuất hiện ở 90% bệnh nhân. Tình trạng này bắt đầu xuất hiện khi nồng độ paracetamol trong huyết tương tại thời điểm 4 giờ sau khi dùng thuốc quá liều thấp hơn 120 microgam/ml hoặc thấp hơn 30 microgam/ml tại thời điểm 12 giờ sau khi dùng thuốc quá liều.</p><p>Nếu dùng liều cao hơn 4 g/ngày trong thời gian dài có thể gây nguy cơ nhiễm độc gan thoáng qua. Có thể dẫn tới hoại tử ống thận và tổn thương cơ tim.</p><p><i><strong>Xử trí</strong></i></p><p>Trong mọi trường hợp quá liều nên tiến hành hút và rửa dạ dày, tốt nhất là thực hiện trong vòng 4 giờ sau khi uống quá liều.</p><p>Thuốc giải độc đặc hiệu cho độc tính gây bởi paracetamol là N-acetylcystein. Khuyến cáo dùng đường tĩnh mạch N-acetylcystein liều 300 mg/kg (tương đương với liều 1,5 ml/kg của dung dịch N-acetylcystein 20%; pH: 6,5), trong vòng 20,25 giờ (tức là 20 giờ và 15 phút) theo phác đồ dưới đây cho đối tượng người lớn:</p><p><i>Liều khởi đầu:</i> Dùng liều 150 mg/kg (tương đương với liều 0,75 ml/kg của dung dịch N-acetylcystein 20%; pH: 6,5) hoặc pha loãng trong 200 ml dung dịch dextrose 5%, truyền tĩnh mạch chậm trong 15 phút.</p><p><i>Liều duy trì:</i></p><ul><li>a) Ban đầu dùng liều 50 mg/kg (tương đương với liều 0,25 ml/kg của dung dịch N-acetylcystein 20%; pH: 6,5) pha trong 500 ml dung dịch dextrose 5%, truyền chậm trong 4 giờ.</li><li>b) Sau đó dùng liều 100 mg/kg (tương đương với liều 0,5 ml/kg của dung dịch N-acetylcystein 20%; pH: 6,5) pha trong 1000 ml của dung dịch dextrose 5%, truyền chậm trong 16 giờ.</li></ul><p>Thuốc giải độc cho paracetamol có hiệu quả cao nhất nếu được dùng trong vòng 8 giờ sau khi bị ngộ độc. Hiệu quả giảm dần dần sau giờ thứ 8 và không có hiệu quả sau 15 giờ kể từ khi uống quá liều.</p><p>Việc truyền dung dịch N-acetylcystein 20% có thể gián đoạn khi kết quả xét nghiệm máu cho thấy nồng độ paracetamol trong máu dưới 200 microgam/ml.</p><p>Tác dụng không mong muốn của N-acetylcystein khi dùng đường tĩnh mạch: trong một số trường hợp ngoại lệ đã ghi nhận phát ban và sốc phản vệ, thường xuất hiện trong khoảng thời gian từ 15 phút đến 1 giờ kể từ khi bắt đầu truyền.</p><p>Khi dùng đường uống, thuốc giải độc N-acetylcystein phải được dùng trong vòng 10 giờ sau khi uống quá liều. Liều khuyến cáo của N-acetylcystein cho người lớn:</p><ul><li>Liều khởi đầu là 140 mg/kg cân nặng.</li><li>Tiếp theo dùng liều 70 mg/kg cân nặng cho mỗi 4 giờ một lần với tổng số lần dùng là 17 lần.</li></ul><p>Nên pha loãng mỗi liều tới nồng độ 5% với đồ uống có gas không cồn, nước ép nho, nước ép cam hoặc nước trước khi dùng do thuốc này có mùi khó chịu và có đặc tính gây kích ứng hoặc gây xơ cứng. Nếu bệnh nhân bị nôn trong vòng 1 giờ sau khi uống, nên uống lại một liều khác. Nếu cần thiết, thuốc giải độc (đã pha loãng với nước) có thể được dùng qua ống thông dẫn vào tá tràng.</p><h3>Quên liều</h3><p>Nếu bệnh nhân quên uống một liều thuốc, thì không được uống gấp đôi liều để bù lại liều đã quên. Nếu người bệnh chắc chắn đã quên uống một liều thuốc thì nên uống liều thuốc đã quên ngay khi nhớ ra và tiếp tục dùng thuốc như bình thường, tuy nhiên phải lưu ý rằng phải chờ tối thiểu là 4 giờ để uống liều tiếp theo.</p><p>Không có yêu cầu gì đặc biệt về việc xử lý thuốc sau khi sử dụng.</p><p>Mọi thông tin chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc Miderix 380mg/300mg được dùng để điều trị ngắn hạn triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính ở người lớn.</p><h3>Dược lực học</h3><p><strong>Nhóm dược lý điều trị: Thuốc giãn cơ, thuốc tác dụng trên hệ thần kinh trung ương; các ester của acid cacbamic</strong></p><p><strong>Mã ATC: M03BA53</strong></p><p><i>Methocarbamol</i></p><p>Methocarbamol là thuốc giãn cơ tác dụng trên hệ thần kinh trung ương, có tác dụng giãn cơ do ức chế sự dẫn truyền phản xạ đa synap ở cấp độ tủy sống và ở các trung tâm dưới vỏ não. Ở liều điều trị, methocarbamol không ảnh hưởng đến trương lực sinh lý hoặc khả năng co rút của hệ cơ xương hoặc khả năng di động của hệ cơ trơn.</p><p><i>Paracetamol</i></p><p>Paracetamol là hoạt chất có tác dụng giảm đau đồng thời cũng có đặc tính hạ sốt.</p><p>Cơ chế tác dụng chính xác của paracetamol vẫn chưa được biết rõ, mặc dù đã biết hoạt chất này có tác động ở cấp độ hệ thống thần kinh trung ương và ở cấp độ thấp hơn là ức chế hình thành các đáp ứng gây đau ở ngoại biên. Paracetamol được cho là làm tăng ngưỡng đau bằng cách ức chế tổng hợp prostaglandin thông qua phong bế cyclooxygenase trong hệ thống thần kinh trung ương (cụ thể là COX-3). Tuy nhiên, paracetamol không ức chế đáng kể các cyclooxygenase trong các mô ngoại biên. Paracetamol kích thích hoạt động của con đường serotonergic giảm dần cơn đau, có tác dụng chặn sự truyền đi của tín hiệu đau đến tủy sống từ các mô ngoại biên. Về khía cạnh này, một số dữ liệu thực nghiệm chỉ ra rằng khi đưa các thuốc đối kháng với các phân nhóm khác nhau của các thụ thể serotonergic vào trong tủy sống có thể làm mất đi tác dụng làm giảm đau của paracetamol.</p><p>Tác dụng hạ sốt của paracetamol có liên quan đến ức chế tổng hợp PGE1 ở vùng dưới đồi, là cơ quan điều tiết sinh lý nhiệt độ của cơ thể.</p><h3>Dược động học</h3><p><strong>Methocarbamol</strong></p><p><i>Hấp thu</i></p><p>Sau khi uống methocarbamol được hấp thu nhanh chóng và hoàn toàn, đạt nồng độ đỉnh trong huyết tương sau 1 - 3 giờ. Tác dụng giãn cơ bắt đầu được ghi nhận 30 phút sau khi uống.</p><p><i>Phân bố</i></p><p>Ngay sau khi được hấp thu vào hệ thống tuần hoàn, methocarbamol được phân bố rộng khắp cơ thể, và tỉ lệ liên kết với protein huyết tương ở những người tình nguyện khỏe mạnh là khoảng 46 - 50%.</p><p><i>Chuyển hóa</i></p><p>Methocarbamol được chuyển hóa mạnh ở gan bởi quá trình khử nhóm alkyl và quá trình hydroxyl hóa.</p><p><i>Thải trừ</i></p><p>Độ thanh thải trong huyết tương của methocarbamol ở những người tình nguyện khỏe mạnh nằm trong khoảng từ 0,2 đến 0,8 L/giờ/kg, trong khi thời gian bán thải là từ 1 đến 2 giờ. Methocarbamol chủ yếu được thải trừ qua nước tiểu, dưới dạng liên hợp của các chất chuyển hóa với glucuronid và sulphat. Một tỉ lệ nhỏ được thải trừ qua phân.</p><p><strong>Paracetamol</strong></p><p><i>Hấp thu</i></p><p>Sinh khả dụng của paracetamol khi dùng đường uống là 75 - 85%. Paracetamol được hấp thu nhanh và nhiều, thời gian để đạt được nồng độ đỉnh trong huyết tương là từ 0,5 - 2 giờ. Các thuốc làm chậm quá trình làm rỗng dạ dày cũng làm trì hoãn quá trình hấp thu paracetamol.</p><p><i>Phân bố</i></p><p>Sau khi được hấp thu, paracetamol được phân bố đồng đều trong tất cả các khoang của cơ thể, với nồng độ thấp hơn ở mô mỡ và dịch não tủy. Tỉ lệ liên kết với protein huyết tương là 10%. Thời gian để đạt được hiệu quả tối đa là từ 1 đến 3 giờ và thời gian duy trì tác dụng là 3 đến 4 giờ.</p><p><i>Chuyển hóa</i></p><p>Paracetamol được chuyển hóa lần đầu qua gan, theo động học tuyến tính. Tuy nhiên, tính tuyến tính mất đi khi sử dụng liều trên 2 g. Paracetamol được chuyển hóa chủ yếu ở gan (90 - 95%) và hơn 90% được chuyển hóa thông qua quá trình liên hợp nhóm hydroxyl của chất này với acid glucuronic và nhóm sulphat. Tuy nhiên, 5% liều dùng đường uống của paracetamol bị oxy hóa ở gan bởi cytochrom P-450, tạo ra N-acetyl-para-benzoquinon imin (NAPQI), là nguyên nhân gây độc cho gan. Ở các mức liều điều trị, lượng nhỏ NAPQI tạo ra được khử độc bằng cách liên hợp với glutathion ở trạng thái khử (cung cấp nhóm sulfhydryl). Khi trữ lượng glutathion giảm 70% hoặc hơn, NAPQI không thể được khử độc, từ đó dẫn đến hoại tử trung tâm tiểu thùy gan. Các mức liều cao hơn của paracetamol có thể làm bão hòa cơ chế chuyển hóa thông thường ở gan, do đó phải sử dụng đến các cơ chế chuyển hóa thay thế này, làm tạo ra các chất chuyển hóa gây độc cho gan và có thể gây độc cho cả thận do sự suy giảm glutathion.</p><p><i>Thải trừ</i></p><p>Phần lớn paracetamol được thải trừ qua nước tiểu dưới dạng liên hợp với acid glucuronic và một tỉ lệ nhỏ hơn dưới dạng liên hợp với các nhóm sulphat; dưới 5% được thải trừ dưới dạng không đổi. Thời gian bán thải là 1,5 - 3 giờ.</p>",
+      "brand": "Meditop",
+      "brandType": null,
+      "adverseEffect": "<p><strong>Tổng quan</strong></p><p>Không ghi nhận các tác dụng không mong muốn trong các nghiên cứu lâm sàng với sự kết hợp của paracetamol và methocarbamol được công bố trong tài liệu y văn.</p><p>Các tác dụng không mong muốn thường gặp nhất được báo cáo sau khi dùng methocarbamol là đau đầu. Các tác dụng không mong muốn thường gặp nhất được báo cáo sau khi dùng paracetamol là nhiễm độc gan, nhiễm độc thận, các rối loạn về máu, hạ đường huyết và viêm da dị ứng.</p><p><strong>Bảng liệt kê các tác dụng không mong muốn:</strong></p><p>Các tác dụng không mong muốn được báo cáo khi dùng phối hợp của paracetamol và methocarbamol được trình bày trong bảng dưới đây.</p><p>Các tác dụng không mong muốn này được liệt kê hệ hệ thống cơ quan của MedDRA với tần suất sau: rất thường gặp (≥ 1/10), thường gặp (≥ 1/100 đến &lt; 1/10), ít gặp (≥ 1/1.000 đến &lt; 1/100), hiếm gặp (≥ 1/10.000 đến &lt; 1/1.000), rất hiếm gặp (&lt; 1/10.000) và chưa rõ (không thể ước tính từ các dữ liệu sẵn có).</p><figure class=\"table\"><table><thead><tr><th><strong>Hệ cơ quan</strong></th><th><strong>Hiếm gặp</strong> (&lt;1/1.000 đến &lt;1/100)</th><th><strong>Rất hiếm gặp</strong></th><th><strong>Chưa rõ</strong></th></tr></thead><tbody><tr><td><strong>Rối loạn máu và hệ thống bạch huyết</strong></td><td>—</td><td>Giảm tiểu cầu<sup>2</sup>; mất bạch cầu hạt<sup>2</sup>; giảm bạch cầu<sup>2</sup>; giảm bạch cầu trung tính<sup>2</sup>; giảm toàn thể huyết cầu<sup>2</sup>; thiếu máu tan máu<sup>2</sup></td><td>Giảm bạch cầu<sup>1</sup></td></tr><tr><td><strong>Rối loạn hệ thống miễn dịch</strong></td><td>—</td><td>Phản ứng phản vệ<sup>1</sup>; các phản ứng quá mẫn tiếp phát ban da đối với thuốc nói mày đay đến phù mạch và sốc phản vệ<sup>2</sup></td><td>—</td></tr><tr><td><strong>Rối loạn chuyển hóa và dinh dưỡng</strong></td><td>—</td><td>Hạ đường huyết<sup>2</sup></td><td>—</td></tr><tr><td><strong>Rối loạn tâm thần</strong></td><td>—</td><td>Bồn chồn<sup>1</sup>, lo lắng<sup>1</sup>, lú lẫn<sup>1</sup></td><td>—</td></tr><tr><td><strong>Rối loạn hệ thần kinh</strong></td><td>Đau đầu<sup>1</sup>; chóng mặt (hoặc choáng váng nhẹ)<sup>1</sup></td><td>Ngất<sup>1</sup>; rung giật nhãn cầu<sup>1</sup>; run<sup>1</sup>; cơn động kinh (bao gồm cả co lớn)<sup>1</sup>; ngủ gà<sup>1</sup></td><td>Mất sự phối hợp cơ bắp<sup>1</sup>; mất trí nhớ<sup>1</sup>; mất ngủ<sup>1</sup>; choáng váng<sup>1</sup></td></tr><tr><td><strong>Các rối loạn mắt</strong></td><td>Viêm kết mạc<sup>1</sup></td><td>Nhìn mờ<sup>1</sup></td><td>Nhìn đôi<sup>1</sup></td></tr><tr><td><strong>Rối loạn tim</strong></td><td>—</td><td>Nhịp tim chậm<sup>1</sup></td><td>—</td></tr><tr><td><strong>Rối loạn mạch</strong></td><td>Hạ huyết áp<sup>3</sup></td><td>Chứng đỏ bừng<sup>1</sup></td><td>—</td></tr><tr><td><strong>Rối loạn hô hấp, lồng ngực và trung thất</strong></td><td>Nghẹt mũi<sup>1</sup></td><td>Co thắt phế quản<sup>1</sup></td><td>—</td></tr><tr><td><strong>Rối loạn dạ dày – ruột</strong></td><td>Rối loạn vị giác (miệng có vị kim loại)<sup>1</sup></td><td>Buồn nôn<sup>1</sup>, nôn<sup>1</sup></td><td>Khó tiêu<sup>1</sup>; khô miệng<sup>1</sup>; tiêu chảy<sup>3</sup></td></tr><tr><td><strong>Rối loạn gan mật</strong></td><td>Tăng nồng độ các transaminase gan<sup>2</sup></td><td>Nhiễm độc gan (vàng da)<sup>2</sup></td><td>Vàng da (bao gồm cả vàng da ứ mật)<sup>1</sup></td></tr><tr><td><strong>Rối loạn da và mô dưới da</strong></td><td>Phù mạch<sup>1</sup>; ngứa<sup>1</sup>; phát ban<sup>1</sup>; mày đay<sup>1</sup></td><td>Viêm da dị ứng<sup>2</sup>; các phản ứng nghiêm trọng trên da (bao gồm hội chứng Stevens-Johnson, hoại tử da nhiễm độc)<sup>2</sup></td><td>—</td></tr><tr><td><strong>Rối loạn thận và tiết niệu</strong></td><td>—</td><td>Nước tiểu có mủ vô trùng (nước tiểu vẫn đục)<sup>2</sup>; các rối loạn có hại cho thận<sup>2</sup>; đặc biệt là trong trường hợp quá liều</td><td>—</td></tr><tr><td><strong>Các rối loạn toàn thân và tại vị trí dùng thuốc</strong></td><td>Sốt<sup>1</sup>; khó chịu<sup>2</sup></td><td>—</td><td>Mệt mỏi<sup>1</sup></td></tr></tbody></table></figure><p>Chú thích:</p><p><sup>1</sup>Thuốc gây bởi methocarbamol.</p><p><sup>2</sup>Thuốc gây bởi paracetamol.</p><p><sup>3</sup>Thuốc gây bởi kết hợp của methocarbamol và paracetamol.</p>",
+      "specification": "Hộp 4 Vỉ x 15 Viên",
+      "indications": [],
+      "brandOrigin": "Hungary",
+      "producer": "Meditop Gyogyszeripari Kft.",
+      "shortDescription": "<p>Thuốc Miderix 380mg/300mg được dùng để điều trị ngắn hạn triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính ở người lớn.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": false,
+      "brandSlug": "thuong-hieu/meditop",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "MIDERIX ",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 58,
+        "attributeName": "Hungary",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/hu_Hungary_025bdc77ac.png"
+      },
+      "videoType": "VERTICAL",
+      "guideline": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/MIDERIX_fb4e42a5d3.pdf",
+        "alternativeText": null,
+        "caption": null,
+        "ext": ".pdf",
+        "mime": "application/pdf",
+        "name": "MIDERIX.pdf",
+        "hash": "MIDERIX_fb4e42a5d3"
+      },
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "15 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 741,
+        "name": "Thuốc giãn cơ",
+        "parentName": "Cơ - xương - khớp",
+        "slug": "thuoc/co-xuong-khop/thuoc-gian-co",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_1_9654a9f520.png",
+          "alternativeText": "Thuốc Miderix 380mg/300mg Meditop điều trị triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính (4 vỉ x 15 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_2_41b4589402.png",
+          "alternativeText": "Thuốc Miderix 380mg/300mg Meditop điều trị triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính (4 vỉ x 15 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_3_b569517f8f.png",
+          "alternativeText": "Thuốc Miderix 380mg/300mg Meditop điều trị triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính (4 vỉ x 15 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_4_b46866f26f.png",
+          "alternativeText": "Thuốc Miderix 380mg/300mg Meditop điều trị triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính (4 vỉ x 15 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_5_b45c8bedca.png",
+          "alternativeText": "Thuốc Miderix 380mg/300mg Meditop điều trị triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính (4 vỉ x 15 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_6_1731d1ed20.png",
+          "alternativeText": "Thuốc Miderix 380mg/300mg Meditop điều trị triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính (4 vỉ x 15 viên) 6"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Cơ - xương - khớp",
+        "slug": "/thuoc/co-xuong-khop"
+      },
+      {
+        "name": "Thuốc giãn cơ",
+        "slug": "/thuoc/co-xuong-khop/thuoc-gian-co"
+      }
+    ],
+    "content": {
+      "sku": "00051553",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc Miderix 380mg/300mg dùng đường uống.</p><h3>Liều dùng</h3><p>Điều trị với methocarbamol trong thời gian ngắn nhất có thể. Nên ngừng sử dụng thuốc này khi không còn các triệu chứng đau.</p><p><strong>Người lớn</strong></p><p>760 mg methocarbamol/ 600 mg paracetamol (2 viên) cho mỗi 4 - 6 giờ (tức là từ 4-6 lần/ ngày), tùy thuộc vào mức độ đau. Không được vượt quá tổng liều là 4.560 mg methocarbamol/ 3.600 mg paracetamol (12 viên) trong 24 giờ.</p><p>Thời gian điều trị tối đa là 6 ngày.</p><p><strong>Các đối tượng bệnh nhân đặc biệt</strong></p><p><i>Bệnh nhân cao tuổi</i></p><p>Đã ghi nhận thời gian bán thải của paracetamol tăng ở bệnh nhân cao tuổi và cũng đã ghi nhận rằng với một nửa liều methocarbamol có thể là đủ để đạt được đáp ứng điều trị. Vì vậy khuyến cáo nên giảm liều xuống còn 380 mg methocarbamol/ 300 mg paracetamol (1 viên) cho mỗi 4 giờ hoặc 760 mg methocarbamol/ 600 mg paracetamol (2 viên) cho mỗi 8 giờ.</p><p><i>Bệnh nhân suy thận</i></p><p>Trong trường hợp suy thận, nên giảm liều dựa theo tốc độ lọc cầu thận:</p><ul><li>Tốc độ lọc cầu thận 10 - 50 ml/ phút: Liều dùng 380 mg methocarbamol/ 300 mg paracetamol (1 viên) cho mỗi 6 giờ</li><li>Tốc độ lọc cầu thận &lt; 10 ml/ phút: Liều dùng 380 mg methocarbamol/ 300 mg paracetamol (1 viên) cho mỗi 8 giờ</li></ul><p><i>Bệnh nhân suy gan</i></p><p>Trường hợp suy gan, không được vượt quá tổng liều 2 g paracetamol/ 24 giờ (tối đa là 6 viên mỗi ngày chia thành 3 - 6 lần dùng trong ngày).</p><p>Do thời gian bán thải của methocarbamol có thể dài hơn ở những bệnh nhân này nên có thể cần phải tăng khoảng thời gian giữa các lần dùng thuốc.</p><p><i>Trẻ em</i></p><p>Sự an toàn và hiệu quả ở trẻ em và thanh thiếu niên dưới 18 tuổi chưa được thiết lập. Không khuyến cáo dùng methocarbamol/paracetamol cho trẻ em và thanh thiếu niên dưới 18 tuổi.</p><h3>Xử trí quá liều</h3><p><strong>Methocarbamol</strong></p><p>Ít có thông tin sẵn có liên quan đến nhiễm độc cấp tính với methocarbamol. Các trường hợp quá liều với methocarbamol được báo cáo đã xảy ra khi dùng kết hợp với rượu và các chất ức chế thần kinh trung ương khác và có các triệu chứng sau: buồn nôn, chóng mặt, nhìn mờ, hạ huyết áp, động kinh và hôn mê. Đã ghi nhận các trường hợp riêng lẻ dùng nhiều hơn 22 - 30 gram methocarbamol mà không ghi nhận tình trạng nhiễm độc nghiêm trọng và trường hợp bệnh nhân đã sống sót/ phục hồi sau khi dùng 30 - 50 gram methocarbamol. Triệu chứng chính trong các trường hợp này là người bệnh cảm thấy rất buồn ngủ. Xử trí sau đó là điều trị triệu chứng và không ghi nhận biến cố trong quá trình hồi phục. Tuy nhiên, đã có báo cáo về các trường hợp quá liều dẫn đến tử vong.</p><p>Trong trường hợp quá liều với methocarbamol, bệnh nhân cần điều trị triệu chứng và điều trị hỗ trợ. Các biện pháp hỗ trợ bao gồm duy trì thông thoáng đường thở, theo dõi lượng nước tiểu thải ra và các dấu hiệu sinh tồn cũng như truyền dịch qua đường tĩnh mạch cho bệnh nhân, nếu cần thiết. Chưa biết rõ về lợi ích của thẩm phân máu trong trường hợp quá liều.</p><p><strong>Paracetamol</strong></p><p>Trong trường hợp quá liều với paracetamol, các triệu chứng quá liều bao gồm chóng mặt, nôn, chán ăn, vàng da, đau bụng, suy thận và suy gan. Nếu uống quá liều, bệnh nhân phải nhanh chóng được cấp cứu tại trung tâm y tế ngay cả khi không có dấu hiệu hoặc triệu chứng nào đáng kể. Lý do vì, quá liều với paracetamol có thể gây tử vong nhưng thường không phải là ngay sau khi dùng quá liều mà có thể xảy ra từ ngày thứ ba trở đi. Tử vong có thể xảy ra do hoại tử gan. Suy thận cấp tính cũng có thể xảy ra với xác suất tương tự.</p><p>Quá liều với paracetamol được đánh giá theo 4 giai đoạn, bắt đầu kể từ thời điểm uống quá liều:</p><ul><li>Giai đoạn I (12 - 24 giờ): Buồn nôn, nôn, vã mồ hôi và chán ăn.</li><li>Giai đoạn II (24 - 48 giờ): Tình trạng lâm sàng được cải thiện; nồng độ AST, ALT, bilirubin và prothrombin bắt đầu tăng.</li><li>Giai đoạn III (72 - 96 giờ): Nhiễm độc gan đạt đỉnh; có thể đạt giá trị nồng độ AST là 20.000.</li><li>Giai đoạn IV (7 - 8 ngày): Hồi phục.</li></ul><p>Nhiễm độc gan có thể xảy ra. Liều gây độc tối thiểu là 6 g ở người lớn và hơn 100 mg/kg cân nặng ở trẻ em. Các mức liều cao hơn 20 - 25 g có khả năng gây tử vong.</p><p>Các triệu chứng nhiễm độc gan bao gồm buồn nôn, nôn, chán ăn, khó chịu, vã mồ hôi, đau bụng và tiêu chảy. Nhiễm độc gan không biểu hiện cho đến 48 - 72 giờ sau khi uống quá liều.</p><p>Nếu uống liều cao hơn 150 mg/kg hoặc không thể xác định được lượng đã uống, nồng độ paracetamol trong huyết thanh phải được đo tại thời điểm 4 giờ sau khi uống và tiến hành xét nghiệm kiểm tra chức năng gan và lặp lại xét nghiệm này sau mỗi 24 giờ. Suy gan có thể tiến triển thành bệnh não, hôn mê và tử vong.</p><p>Nồng độ paracetamol trong huyết tương cao hơn 300 microgam/ml được ghi nhận sau 4 giờ sau khi uống có liên quan đến tổn thương gan xuất hiện ở 90% bệnh nhân. Tình trạng này bắt đầu xuất hiện khi nồng độ paracetamol trong huyết tương tại thời điểm 4 giờ sau khi dùng thuốc quá liều thấp hơn 120 microgam/ml hoặc thấp hơn 30 microgam/ml tại thời điểm 12 giờ sau khi dùng thuốc quá liều.</p><p>Nếu dùng liều cao hơn 4 g/ngày trong thời gian dài có thể gây nguy cơ nhiễm độc gan thoáng qua. Có thể dẫn tới hoại tử ống thận và tổn thương cơ tim.</p><p><i><strong>Xử trí</strong></i></p><p>Trong mọi trường hợp quá liều nên tiến hành hút và rửa dạ dày, tốt nhất là thực hiện trong vòng 4 giờ sau khi uống quá liều.</p><p>Thuốc giải độc đặc hiệu cho độc tính gây bởi paracetamol là N-acetylcystein. Khuyến cáo dùng đường tĩnh mạch N-acetylcystein liều 300 mg/kg (tương đương với liều 1,5 ml/kg của dung dịch N-acetylcystein 20%; pH: 6,5), trong vòng 20,25 giờ (tức là 20 giờ và 15 phút) theo phác đồ dưới đây cho đối tượng người lớn:</p><p><i>Liều khởi đầu:</i> Dùng liều 150 mg/kg (tương đương với liều 0,75 ml/kg của dung dịch N-acetylcystein 20%; pH: 6,5) hoặc pha loãng trong 200 ml dung dịch dextrose 5%, truyền tĩnh mạch chậm trong 15 phút.</p><p><i>Liều duy trì:</i></p><ul><li>a) Ban đầu dùng liều 50 mg/kg (tương đương với liều 0,25 ml/kg của dung dịch N-acetylcystein 20%; pH: 6,5) pha trong 500 ml dung dịch dextrose 5%, truyền chậm trong 4 giờ.</li><li>b) Sau đó dùng liều 100 mg/kg (tương đương với liều 0,5 ml/kg của dung dịch N-acetylcystein 20%; pH: 6,5) pha trong 1000 ml của dung dịch dextrose 5%, truyền chậm trong 16 giờ.</li></ul><p>Thuốc giải độc cho paracetamol có hiệu quả cao nhất nếu được dùng trong vòng 8 giờ sau khi bị ngộ độc. Hiệu quả giảm dần dần sau giờ thứ 8 và không có hiệu quả sau 15 giờ kể từ khi uống quá liều.</p><p>Việc truyền dung dịch N-acetylcystein 20% có thể gián đoạn khi kết quả xét nghiệm máu cho thấy nồng độ paracetamol trong máu dưới 200 microgam/ml.</p><p>Tác dụng không mong muốn của N-acetylcystein khi dùng đường tĩnh mạch: trong một số trường hợp ngoại lệ đã ghi nhận phát ban và sốc phản vệ, thường xuất hiện trong khoảng thời gian từ 15 phút đến 1 giờ kể từ khi bắt đầu truyền.</p><p>Khi dùng đường uống, thuốc giải độc N-acetylcystein phải được dùng trong vòng 10 giờ sau khi uống quá liều. Liều khuyến cáo của N-acetylcystein cho người lớn:</p><ul><li>Liều khởi đầu là 140 mg/kg cân nặng.</li><li>Tiếp theo dùng liều 70 mg/kg cân nặng cho mỗi 4 giờ một lần với tổng số lần dùng là 17 lần.</li></ul><p>Nên pha loãng mỗi liều tới nồng độ 5% với đồ uống có gas không cồn, nước ép nho, nước ép cam hoặc nước trước khi dùng do thuốc này có mùi khó chịu và có đặc tính gây kích ứng hoặc gây xơ cứng. Nếu bệnh nhân bị nôn trong vòng 1 giờ sau khi uống, nên uống lại một liều khác. Nếu cần thiết, thuốc giải độc (đã pha loãng với nước) có thể được dùng qua ống thông dẫn vào tá tràng.</p><h3>Quên liều</h3><p>Nếu bệnh nhân quên uống một liều thuốc, thì không được uống gấp đôi liều để bù lại liều đã quên. Nếu người bệnh chắc chắn đã quên uống một liều thuốc thì nên uống liều thuốc đã quên ngay khi nhớ ra và tiếp tục dùng thuốc như bình thường, tuy nhiên phải lưu ý rằng phải chờ tối thiểu là 4 giờ để uống liều tiếp theo.</p><p>Không có yêu cầu gì đặc biệt về việc xử lý thuốc sau khi sử dụng.</p><p>Mọi thông tin chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.</p>",
+      "referenceSource": "",
+      "adverseEffect": "<p><strong>Tổng quan</strong></p><p>Không ghi nhận các tác dụng không mong muốn trong các nghiên cứu lâm sàng với sự kết hợp của paracetamol và methocarbamol được công bố trong tài liệu y văn.</p><p>Các tác dụng không mong muốn thường gặp nhất được báo cáo sau khi dùng methocarbamol là đau đầu. Các tác dụng không mong muốn thường gặp nhất được báo cáo sau khi dùng paracetamol là nhiễm độc gan, nhiễm độc thận, các rối loạn về máu, hạ đường huyết và viêm da dị ứng.</p><p><strong>Bảng liệt kê các tác dụng không mong muốn:</strong></p><p>Các tác dụng không mong muốn được báo cáo khi dùng phối hợp của paracetamol và methocarbamol được trình bày trong bảng dưới đây.</p><p>Các tác dụng không mong muốn này được liệt kê hệ hệ thống cơ quan của MedDRA với tần suất sau: rất thường gặp (≥ 1/10), thường gặp (≥ 1/100 đến &lt; 1/10), ít gặp (≥ 1/1.000 đến &lt; 1/100), hiếm gặp (≥ 1/10.000 đến &lt; 1/1.000), rất hiếm gặp (&lt; 1/10.000) và chưa rõ (không thể ước tính từ các dữ liệu sẵn có).</p><figure class=\"table\"><table><thead><tr><th><strong>Hệ cơ quan</strong></th><th><strong>Hiếm gặp</strong> (&lt;1/1.000 đến &lt;1/100)</th><th><strong>Rất hiếm gặp</strong></th><th><strong>Chưa rõ</strong></th></tr></thead><tbody><tr><td><strong>Rối loạn máu và hệ thống bạch huyết</strong></td><td>—</td><td>Giảm tiểu cầu<sup>2</sup>; mất bạch cầu hạt<sup>2</sup>; giảm bạch cầu<sup>2</sup>; giảm bạch cầu trung tính<sup>2</sup>; giảm toàn thể huyết cầu<sup>2</sup>; thiếu máu tan máu<sup>2</sup></td><td>Giảm bạch cầu<sup>1</sup></td></tr><tr><td><strong>Rối loạn hệ thống miễn dịch</strong></td><td>—</td><td>Phản ứng phản vệ<sup>1</sup>; các phản ứng quá mẫn tiếp phát ban da đối với thuốc nói mày đay đến phù mạch và sốc phản vệ<sup>2</sup></td><td>—</td></tr><tr><td><strong>Rối loạn chuyển hóa và dinh dưỡng</strong></td><td>—</td><td>Hạ đường huyết<sup>2</sup></td><td>—</td></tr><tr><td><strong>Rối loạn tâm thần</strong></td><td>—</td><td>Bồn chồn<sup>1</sup>, lo lắng<sup>1</sup>, lú lẫn<sup>1</sup></td><td>—</td></tr><tr><td><strong>Rối loạn hệ thần kinh</strong></td><td>Đau đầu<sup>1</sup>; chóng mặt (hoặc choáng váng nhẹ)<sup>1</sup></td><td>Ngất<sup>1</sup>; rung giật nhãn cầu<sup>1</sup>; run<sup>1</sup>; cơn động kinh (bao gồm cả co lớn)<sup>1</sup>; ngủ gà<sup>1</sup></td><td>Mất sự phối hợp cơ bắp<sup>1</sup>; mất trí nhớ<sup>1</sup>; mất ngủ<sup>1</sup>; choáng váng<sup>1</sup></td></tr><tr><td><strong>Các rối loạn mắt</strong></td><td>Viêm kết mạc<sup>1</sup></td><td>Nhìn mờ<sup>1</sup></td><td>Nhìn đôi<sup>1</sup></td></tr><tr><td><strong>Rối loạn tim</strong></td><td>—</td><td>Nhịp tim chậm<sup>1</sup></td><td>—</td></tr><tr><td><strong>Rối loạn mạch</strong></td><td>Hạ huyết áp<sup>3</sup></td><td>Chứng đỏ bừng<sup>1</sup></td><td>—</td></tr><tr><td><strong>Rối loạn hô hấp, lồng ngực và trung thất</strong></td><td>Nghẹt mũi<sup>1</sup></td><td>Co thắt phế quản<sup>1</sup></td><td>—</td></tr><tr><td><strong>Rối loạn dạ dày – ruột</strong></td><td>Rối loạn vị giác (miệng có vị kim loại)<sup>1</sup></td><td>Buồn nôn<sup>1</sup>, nôn<sup>1</sup></td><td>Khó tiêu<sup>1</sup>; khô miệng<sup>1</sup>; tiêu chảy<sup>3</sup></td></tr><tr><td><strong>Rối loạn gan mật</strong></td><td>Tăng nồng độ các transaminase gan<sup>2</sup></td><td>Nhiễm độc gan (vàng da)<sup>2</sup></td><td>Vàng da (bao gồm cả vàng da ứ mật)<sup>1</sup></td></tr><tr><td><strong>Rối loạn da và mô dưới da</strong></td><td>Phù mạch<sup>1</sup>; ngứa<sup>1</sup>; phát ban<sup>1</sup>; mày đay<sup>1</sup></td><td>Viêm da dị ứng<sup>2</sup>; các phản ứng nghiêm trọng trên da (bao gồm hội chứng Stevens-Johnson, hoại tử da nhiễm độc)<sup>2</sup></td><td>—</td></tr><tr><td><strong>Rối loạn thận và tiết niệu</strong></td><td>—</td><td>Nước tiểu có mủ vô trùng (nước tiểu vẫn đục)<sup>2</sup>; các rối loạn có hại cho thận<sup>2</sup>; đặc biệt là trong trường hợp quá liều</td><td>—</td></tr><tr><td><strong>Các rối loạn toàn thân và tại vị trí dùng thuốc</strong></td><td>Sốt<sup>1</sup>; khó chịu<sup>2</sup></td><td>—</td><td>Mệt mỏi<sup>1</sup></td></tr></tbody></table></figure><p>Chú thích:</p><p><sup>1</sup>Thuốc gây bởi methocarbamol.</p><p><sup>2</sup>Thuốc gây bởi paracetamol.</p><p><sup>3</sup>Thuốc gây bởi kết hợp của methocarbamol và paracetamol.</p>",
+      "preservation": "<p>Bảo quản thuốc ở nhiệt độ dưới 30°C trong bao bì gốc.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc Miderix 380mg/300mg được dùng để điều trị ngắn hạn triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính ở người lớn.</p><h3>Dược lực học</h3><p><strong>Nhóm dược lý điều trị: Thuốc giãn cơ, thuốc tác dụng trên hệ thần kinh trung ương; các ester của acid cacbamic</strong></p><p><strong>Mã ATC: M03BA53</strong></p><p><i>Methocarbamol</i></p><p>Methocarbamol là thuốc giãn cơ tác dụng trên hệ thần kinh trung ương, có tác dụng giãn cơ do ức chế sự dẫn truyền phản xạ đa synap ở cấp độ tủy sống và ở các trung tâm dưới vỏ não. Ở liều điều trị, methocarbamol không ảnh hưởng đến trương lực sinh lý hoặc khả năng co rút của hệ cơ xương hoặc khả năng di động của hệ cơ trơn.</p><p><i>Paracetamol</i></p><p>Paracetamol là hoạt chất có tác dụng giảm đau đồng thời cũng có đặc tính hạ sốt.</p><p>Cơ chế tác dụng chính xác của paracetamol vẫn chưa được biết rõ, mặc dù đã biết hoạt chất này có tác động ở cấp độ hệ thống thần kinh trung ương và ở cấp độ thấp hơn là ức chế hình thành các đáp ứng gây đau ở ngoại biên. Paracetamol được cho là làm tăng ngưỡng đau bằng cách ức chế tổng hợp prostaglandin thông qua phong bế cyclooxygenase trong hệ thống thần kinh trung ương (cụ thể là COX-3). Tuy nhiên, paracetamol không ức chế đáng kể các cyclooxygenase trong các mô ngoại biên. Paracetamol kích thích hoạt động của con đường serotonergic giảm dần cơn đau, có tác dụng chặn sự truyền đi của tín hiệu đau đến tủy sống từ các mô ngoại biên. Về khía cạnh này, một số dữ liệu thực nghiệm chỉ ra rằng khi đưa các thuốc đối kháng với các phân nhóm khác nhau của các thụ thể serotonergic vào trong tủy sống có thể làm mất đi tác dụng làm giảm đau của paracetamol.</p><p>Tác dụng hạ sốt của paracetamol có liên quan đến ức chế tổng hợp PGE1 ở vùng dưới đồi, là cơ quan điều tiết sinh lý nhiệt độ của cơ thể.</p><h3>Dược động học</h3><p><strong>Methocarbamol</strong></p><p><i>Hấp thu</i></p><p>Sau khi uống methocarbamol được hấp thu nhanh chóng và hoàn toàn, đạt nồng độ đỉnh trong huyết tương sau 1 - 3 giờ. Tác dụng giãn cơ bắt đầu được ghi nhận 30 phút sau khi uống.</p><p><i>Phân bố</i></p><p>Ngay sau khi được hấp thu vào hệ thống tuần hoàn, methocarbamol được phân bố rộng khắp cơ thể, và tỉ lệ liên kết với protein huyết tương ở những người tình nguyện khỏe mạnh là khoảng 46 - 50%.</p><p><i>Chuyển hóa</i></p><p>Methocarbamol được chuyển hóa mạnh ở gan bởi quá trình khử nhóm alkyl và quá trình hydroxyl hóa.</p><p><i>Thải trừ</i></p><p>Độ thanh thải trong huyết tương của methocarbamol ở những người tình nguyện khỏe mạnh nằm trong khoảng từ 0,2 đến 0,8 L/giờ/kg, trong khi thời gian bán thải là từ 1 đến 2 giờ. Methocarbamol chủ yếu được thải trừ qua nước tiểu, dưới dạng liên hợp của các chất chuyển hóa với glucuronid và sulphat. Một tỉ lệ nhỏ được thải trừ qua phân.</p><p><strong>Paracetamol</strong></p><p><i>Hấp thu</i></p><p>Sinh khả dụng của paracetamol khi dùng đường uống là 75 - 85%. Paracetamol được hấp thu nhanh và nhiều, thời gian để đạt được nồng độ đỉnh trong huyết tương là từ 0,5 - 2 giờ. Các thuốc làm chậm quá trình làm rỗng dạ dày cũng làm trì hoãn quá trình hấp thu paracetamol.</p><p><i>Phân bố</i></p><p>Sau khi được hấp thu, paracetamol được phân bố đồng đều trong tất cả các khoang của cơ thể, với nồng độ thấp hơn ở mô mỡ và dịch não tủy. Tỉ lệ liên kết với protein huyết tương là 10%. Thời gian để đạt được hiệu quả tối đa là từ 1 đến 3 giờ và thời gian duy trì tác dụng là 3 đến 4 giờ.</p><p><i>Chuyển hóa</i></p><p>Paracetamol được chuyển hóa lần đầu qua gan, theo động học tuyến tính. Tuy nhiên, tính tuyến tính mất đi khi sử dụng liều trên 2 g. Paracetamol được chuyển hóa chủ yếu ở gan (90 - 95%) và hơn 90% được chuyển hóa thông qua quá trình liên hợp nhóm hydroxyl của chất này với acid glucuronic và nhóm sulphat. Tuy nhiên, 5% liều dùng đường uống của paracetamol bị oxy hóa ở gan bởi cytochrom P-450, tạo ra N-acetyl-para-benzoquinon imin (NAPQI), là nguyên nhân gây độc cho gan. Ở các mức liều điều trị, lượng nhỏ NAPQI tạo ra được khử độc bằng cách liên hợp với glutathion ở trạng thái khử (cung cấp nhóm sulfhydryl). Khi trữ lượng glutathion giảm 70% hoặc hơn, NAPQI không thể được khử độc, từ đó dẫn đến hoại tử trung tâm tiểu thùy gan. Các mức liều cao hơn của paracetamol có thể làm bão hòa cơ chế chuyển hóa thông thường ở gan, do đó phải sử dụng đến các cơ chế chuyển hóa thay thế này, làm tạo ra các chất chuyển hóa gây độc cho gan và có thể gây độc cho cả thận do sự suy giảm glutathion.</p><p><i>Thải trừ</i></p><p>Phần lớn paracetamol được thải trừ qua nước tiểu dưới dạng liên hợp với acid glucuronic và một tỉ lệ nhỏ hơn dưới dạng liên hợp với các nhóm sulphat; dưới 5% được thải trừ dưới dạng không đổi. Thời gian bán thải là 1,5 - 3 giờ.</p>",
+      "ingredient": "",
+      "careful": "<h3>Chống chỉ định</h3><p>Thuốc Miderix 380mg/300 chống chỉ định trong các trường hợp sau:</p><ul><li>Mẫn cảm với hoạt chất hoặc với bất kỳ tá dược nào có trong thuốc.</li><li>Bệnh nhân đang trong tình trạng hôn mê hoặc tiền hôn mê.</li><li>Bệnh nhân đã biết có tổn thương não.</li><li>Bệnh nhân có tiền sử động kinh hoặc co giật.</li><li>Bệnh nhược cơ.</li></ul><h3>Thận trọng khi sử dụng</h3><p>Bác sĩ cần cảnh báo bệnh nhân về các dấu hiệu của phản ứng trên da nghiêm trọng như hội chứng Stevens-Johnson (SJS), hội chứng hoại tử da nhiễm độc (TEN) hay hội chứng Lyell, hội chứng ngoại ban mụn mủ toàn thân cấp tính (AGEP).</p><p>Phản ứng phụ nghiêm trọng trên da mặc dù tỉ lệ mắc phải là không cao nhưng nghiêm trọng, thậm chí đe dọa tính mạng bao gồm hội chứng Stevens-Johnson (SJS), hội chứng hoại tử da nhiễm độc: toxic epidermal necrolysis (TEN) hay hội chứng Lyell, hội chứng ngoại ban mụn mủ toàn thân cấp tính: acute generalized exanthematous pustulosis (AGEP).</p><p>Triệu chứng của các hội chứng nêu trên được mô tả như sau:</p><p><i>Hội chứng Stevens-Johnson (SJS): </i>Là dị ứng thuốc thể bọng nước, bọng nước khu trú ở quanh các hốc tự nhiên: mắt, mũi, miệng, tai, bộ phận sinh dục và hậu môn. Ngoài ra có thể kèm sốt cao, viêm phổi, rối loạn chức năng gan thận. Chẩn đoán hội chứng Stevens-Johnson (SJS) khi có ít nhất 2 hốc tự nhiên bị tổn thương.</p><p><i>Hội chứng hoại tử da nhiễm độc (TEN): </i>Là thể dị ứng thuốc nặng nhất, gồm:</p><ul><li>Các tổn thương đa dạng ở da: Ban dạng sởi, ban dạng tinh hồng nhiệt, hồng ban hoặc các bọng nước bùng nhùng, các tổn thương nhanh chóng lan tỏa khắp người;</li><li>Tổn thương niêm mạc mắt: Viêm giác mạc, viêm kết mạc mủ, loét giác mạc.</li><li>Tổn thương niêm mạc đường tiêu hóa: Viêm miệng, trợt niêm mạc miệng, loét hầu, họng thực quản, dạ dày, ruột;</li><li>Tổn thương niêm mạc đường sinh dục, tiết niệu.</li><li>Ngoài ra còn có các triệu chứng toàn thân trầm trọng như sốt, xuất huyết đường tiêu hóa, viêm phổi, viêm cầu thận, viêm gan... tỷ lệ tử vong cao 15 - 30%.</li></ul><p><i>Hội chứng ngoại ban mụn mủ toàn thân cấp tính (AGEP):</i> Mụn mủ vô trùng nhỏ phát sinh trên nền hồng ban lan rộng. Tổn thương thường xuất hiện ở các nếp gấp như nách, bẹn và mặt, sau đó có thể lan rộng toàn thân. Triệu chứng toàn thân thường có là sốt, xét nghiệm máu bạch cầu múi trung tính tăng cao.</p><p>Khi phát hiện những dấu hiệu phát ban trên da đầu tiên hoặc bất kỳ dấu hiệu phản ứng quá mẫn nào khác, bệnh nhân cần phải ngừng sử dụng thuốc. Người đã từng bị các phản ứng trên da nghiêm trọng do paracetamol gây ra thì không được dùng thuốc trở lại và khi đến khám chữa bệnh cần phải thông báo cho nhân viên y tế biết về vấn đề này.</p><p>Sử dụng đồng thời nhiều hơn một thuốc có chứa paracetamol có thể gây ra các triệu chứng nhiễm độc (xem mục 12). Bệnh nhân phải được cảnh báo về nguy cơ nhiễm độc có thể xảy ra do vô tình sử dụng đồng thời nhiều hơn một thuốc có chứa paracetamol. Các triệu chứng nhiễm độc liên quan đến paracetamol có thể xảy ra sau một lần dùng quá liều hoặc là kết quả của sự tích lũy thuốc sau nhiều lần dùng quá liều paracetamol (xem mục 12).</p><p>Phải thận trọng khi dùng thuốc này, tránh điều trị kéo dài ở những bệnh nhân bị thiếu hụt enzym glucose-6-phosphate dehydrogenase, thiếu máu, có bệnh về tim và phổi.</p><p>Việc sử dụng thuốc này ở những bệnh nhân có thói quen uống rượu (≥ 3 lần sử dụng đồ uống có cồn mỗi ngày) có thể gây tổn thương gan. Bệnh nhân nghiện rượu mạn tính không nên dùng quá 2 g paracetamol/ ngày (tối đa 5 viên/ ngày). Không được uống rượu trong thời gian điều trị với paracetamol.</p><p>Cần thận trọng khi dùng thuốc này ở những bệnh nhân bị hen phế quản nhạy cảm với acid acetylsalicylic do đã ghi nhận sự xuất hiện của phản ứng co thắt phế quản nhẹ với paracetamol (phản ứng chéo) ở những bệnh nhân này (xem mục 11). Mặc dù ảnh hưởng này chỉ được ghi nhận ở một số ít bệnh nhân, nó có thể gây ra các phản ứng nghiêm trọng trong một số trường hợp, đặc biệt là khi dùng paracetamol liều cao.</p><p><strong>Các đối tượng bệnh nhân đặc biệt</strong></p><p><i>Bệnh nhân suy gan và suy thận</i></p><p>Nên thận trọng khi dùng thuốc này cho bệnh nhân suy thận hoặc suy gan. Nên tránh điều trị kéo dài ở những đối tượng bệnh nhân này.</p><p>Ở bệnh nhân suy thận, có thể cần thiết phải điều chỉnh liều. Trong trường hợp suy thận nặng, đôi khi có thể sử dụng paracetamol nhưng dùng liều cao trong thời gian dài có thể làm tăng nguy cơ gặp phải các ảnh hưởng có hại trên gan và thận.</p><p>Cần thận trọng khi dùng paracetamol cho bệnh nhân bị suy gan mức độ nhẹ đến trung bình (bao gồm hội chứng Gilbert), suy gan nặng (điểm Child-Pugh &gt; 9), viêm gan cấp tính, thiếu hụt glutathion, mất nước, suy dinh dưỡng mạn tính và có tiền sử lạm dụng rượu và khi đang điều trị đồng thời với các thuốc gây cảm ứng enzym gan.</p><p><i>Ảnh hưởng đến các xét nghiệm chẩn đoán</i></p><p>Methocarbamol có thể gây ra ảnh hưởng về màu sắc trong một số xét nghiệm sàng lọc nhất định, chẳng hạn như xét nghiệm xác định acid 5-hydroxyindoleacetic (5-HIAA) sử dụng thuốc thử nitrosonaphthol và trong các xét nghiệm sàng lọc acid vanillylmandelic (VMA) sử dụng phương pháp Gitlow. Ngoài ra, đã có báo cáo màu của mẫu nước tiểu thay đổi trong quá trình lưu trữ: chuyển sang màu nâu, đen, xanh lục hoặc xanh lá ở một số bệnh nhân.</p><p>Paracetamol có thể làm thay đổi kết quả phân tích xác định acid uric và glucose.</p><h3>Khả năng lái xe và vận hành máy móc</h3><p>Do thuốc này có thể gây buồn ngủ, bệnh nhân không nên lái xe hoặc vận hành máy móc trừ khi đã biết chắc rằng thuốc này không có ảnh hưởng lên sự tỉnh táo của bản thân, đặc biệt khi dùng đồng thời với các thuốc khác cũng có khả năng gây buồn ngủ.</p><h3>Thời kỳ mang thai</h3><p>Paracetamol qua được hàng rào nhau thai. Một lượng lớn dữ liệu trên phụ nữ mang thai không cho thấy khả năng gây dị tật bẩm sinh, cũng như không có độc tính trên thai nhi/ trẻ sơ sinh. Các nghiên cứu dịch tễ học về sự phát triển thần kinh ở trẻ em đã phơi nhiễm với paracetamol trong thai kỳ không đưa ra được kết luận cuối cùng. Nếu có yêu cầu trên lâm sàng, có thể sử dụng paracetamol trong thời kỳ mang thai, nhưng nên dùng ở liều thấp nhất có hiệu quả trong thời gian ngắn nhất có thể và với tần suất dùng thuốc thấp nhất có thể.</p><p>Chưa thực hiện các nghiên cứu về khả năng sinh sản trên động vật với methocarbamol. Chưa biết rõ liệu methocarbamol có thể gây hại cho thai nhi hoặc có ảnh hưởng lên khả năng sinh sản hay không khi sử dụng cho phụ nữ có thai.</p><p>Sự an toàn khi dùng methocarbamol trong thai kỳ ở người chưa được thiết lập. Đã có một số báo cáo riêng lẻ về những bất thường ở thai nhi và bất thường bẩm sinh sau khi sinh ở trẻ phơi nhiễm với methocarbamol trong thai kỳ.</p><p>Không khuyến cáo sử dụng thuốc này cho phụ nữ có thai hoặc có dự định mang thai, đặc biệt là trong giai đoạn đầu của thai kỳ trừ khi có chỉ định của bác sĩ và khi lợi ích điều trị vượt trội các nguy cơ có thể xảy ra.</p><h3>Thời kỳ cho con bú</h3><p>Paracetamol được bài tiết vào sữa mẹ nhưng với lượng không có ý nghĩa về mặt lâm sàng.</p><p>Methocarbamol và/hoặc các chất chuyển hóa của nó được bài tiết vào sữa của động vật mẹ.</p><p>Tuy nhiên, chưa biết rõ liệu methocarbamol hoặc các chất chuyển hóa của nó có được bài tiết vào sữa mẹ ở người hay không.</p><p>Do đó, cũng cần thận trọng khi sử dụng thuốc này cho phụ nữ đang cho con bú.</p><h3>Tương tác thuốc</h3><p><strong>Methocarbamol</strong></p><p>Methocarbamol có thể làm tăng tác dụng của các thuốc ức chế và các chất kích thích hệ thần kinh trung ương khác, bao gồm rượu, các barbiturat, thuốc gây mê và thuốc ức chế sự thèm ăn.</p><p>Hoạt chất này cũng có thể làm tăng tác dụng của thuốc kháng cholinergic như atropin và một số thuốc hướng thần.</p><p>Methocarbamol có thể ức chế tác dụng của pyridostigmin bromid.</p><p><strong>Paracetamol</strong></p><p>Paracetamol được chuyển hóa ở gan, tạo ra các chất chuyển hóa gây độc cho gan. Do đó, hoạt chất này có thể tương tác với các thuốc cũng có cùng con đường chuyển hóa. Những thuốc này bao gồm:</p><p>Thuốc chống đông máu đường uống (acenocoumarol, warfarin): dùng kéo dài paracetamol với liều trên 2 g/ngày đồng thời với nhóm thuốc này có thể làm tăng tác dụng chống đông máu, có thể là do giảm sự tham gia các enzym vào quá trình tổng hợp tại gan của các yếu tố đông máu phụ thuộc vitamin K. Tương tác giữa paracetamol và các thuốc chống đông máu đường uống có thể làm tăng tác dụng chống đông máu và từ đó gây nguy cơ xuất huyết. Do sự liên quan trên lâm sàng là thấp khi dùng liều dưới 2 g/ngày, paracetamol nên được cân nhắc như một thuốc điều trị thay thế cho các salicylat ở bệnh nhân đang được điều trị với các thuốc chống đông máu. Tuy nhiên, nên theo dõi định kỳ INR ở những bệnh nhân này.</p><p>Ethyl alcohol: có thể cảm ứng quá trình hình thành các dẫn xuất gây độc cho gan của paracetamol tại gan, từ đó làm tăng độc tính của paracetamol.</p><p>Thuốc kháng cholinergic (glycopyrrolat, propanthelin): làm chậm quá trình làm rỗng dạ dày, dẫn đến làm giảm hấp thu paracetamol và có thể ức chế tác dụng của paracetamol.</p><p>Thuốc chống co giật (phenytoin, phenobarbital, methylphenobarbital, primidon): làm cảm ứng sự chuyển hóa ở gan, từ đó làm giảm sinh khả dụng của paracetamol cũng như làm tăng độc tính trên gan trong trường hợp quá liều.</p><p>Thuốc lợi tiểu quai: tác dụng của các thuốc lợi tiểu có thể bị giảm do paracetamol có thể làm giảm bài tiết prostaglandin ở thận và giảm hoạt động của renin trong huyết tương.</p><p>Isoniazid: làm ức chế sự chuyển hóa paracetamol ở gan, dẫn đến giảm thanh thải paracetamol, từ đó có thể làm tăng tác dụng và/hoặc độc tính của paracetamol.</p><p>Lamotrigin: sinh khả dụng của lamotrigin giảm, và tác dụng có thể giảm gây bởi sự cảm ứng chuyển hóa tại gan của chất này.</p><p>Metoclopramid và domperidon: do ảnh hưởng của các thuốc này lên quá trình làm rỗng dạ dày nên làm tăng hấp thu paracetamol ở ruột non và từ đó làm trì hoãn khởi phát tác dụng.</p><p>Probenecid: làm tăng thời gian bán thải trong huyết tương của paracetamol do làm giảm giáng hóa và giảm bài tiết các chất chuyển hóa của paracetamol qua nước tiểu.</p><p>Propranolol: có thể ức chế sự chuyển hóa qua gan của paracetamol và từ đó làm tăng nồng độ trong huyết tương của paracetamol.</p><p>Rifampicin: có thể làm cảm ứng sự chuyển hóa qua gan của paracetamol, từ đó làm tăng thanh thải paracetamol và sự tạo thành các chất chuyển hóa gây độc cho gan.</p><p>Nhựa trao đổi ion (cholestyramin): làm cố định paracetamol trong ruột dẫn đến giảm hấp thu paracetamol, từ đó có khả năng làm giảm tác dụng của paracetamol.</p><p>Chloramphenicol: độc tính của chloramphenicol tăng lên có thể do sự chuyển hóa tại gan của chất này bị ức chế.</p><p>Zidovudin (AZT): Dùng đồng thời với paracetamol làm tăng nguy cơ giảm nồng độ bạch cầu (giảm bạch cầu trung tính). Do đó, không được dùng đồng thời paracetamol với zidovudin, ngoại trừ trường hợp có chỉ định của bác sĩ.</p><p>Tương kỵ: do không có các nghiên cứu về tính tương kỵ của thuốc, không trộn lẫn thuốc này với các thuốc khác.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Ngô Kim Thúy",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp loại giỏi trường Đại học Y Dược Huế. Từng tham gia nghiên cứu khoa học đề tài về Dược liệu. Nhiều năm kinh nghiệm làm việc trong lĩnh vực Dược phẩm. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-ngo-kim-thuy",
+        "isLegit": true,
+        "id": 9,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Nguyen_Kim_Thuy_ea92026f36.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_1_9654a9f520.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Miderix 380mg/300mg Meditop điều trị triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính (4 vỉ x 15 viên)",
+            "description": "Thuốc Miderix 380mg/300mg được dùng để điều trị ngắn hạn triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính ở người lớn."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 39366,
+        "title": "Thuốc Miderix thuộc nhóm dược lý và mã ATC nào?",
+        "content": "<p>Nhóm dược lý điều trị: Thuốc giãn cơ, thuốc tác dụng trên hệ thần kinh trung ương; các ester của acid cacbamic.</p><p>Mã ATC: M03BA53.</p>"
+      },
+      {
+        "id": 39363,
+        "title": "Thuốc Miderix được sử dụng để điều trị bệnh gì?",
+        "content": "<p>Thuốc Miderix được chỉ định để điều trị ngắn hạn các triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính ở người lớn.</p>"
+      },
+      {
+        "id": 39364,
+        "title": "Nên sử dụng thuốc Miderix trong thời gian bao lâu?",
+        "content": "<p>Nên điều trị với thuốc Miderix trong thời gian ngắn nhất có thể và ngừng sử dụng khi không còn triệu chứng đau. Thời gian điều trị tối đa được khuyến cáo là 6 ngày để đảm bảo an toàn và tránh các tác dụng không mong muốn.</p>"
+      },
+      {
+        "id": 39365,
+        "title": "Trẻ em có dùng được thuốc Miderix không?",
+        "content": "<p>Sự an toàn và hiệu quả ở trẻ em và thanh thiếu niên dưới 18 tuổi chưa được thiết lập. Không khuyến cáo dùng methocarbamol/paracetamol cho trẻ em và thanh thiếu niên dưới 18 tuổi.</p>"
+      },
+      {
+        "id": 39367,
+        "title": "Cần lưu ý gì khi uống thuốc Miderix cùng với các loại thuốc khác?",
+        "content": "<p>Thuốc Miderix có thể tương tác với nhiều loại thuốc như thuốc chống đông máu, thuốc chống co giật, thuốc lợi tiểu, và đặc biệt là các thuốc ức chế thần kinh trung ương hoặc đồ uống có cồn. Việc sử dụng chung có thể làm tăng độc tính hoặc giảm hiệu quả điều trị, do đó cần thông báo cho bác sĩ tất cả các loại thuốc đang sử dụng.</p>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 2,
+      "items": [
+        {
+          "id": 3347490,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0989xxxxxx",
+          "name": "Hoàng Hiệp",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 hộp giá bao nhiêu ạ",
+          "createdAt": "2026-07-28 14:49:42",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-28 14:49:42",
+          "replies": [
+            {
+              "id": 3347500,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Chu Thị Quỳnh",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Chu Thị Quỳnh",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Hoàng Hiệp,</p><p>Hiện tại, Thuốc Miderix 380mg/300mg Meditop điều trị triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính (4 vỉ x 15 viên) có giá 693,000 ₫/hộp.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a>&nbsp;</strong>để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-07-28 14:52:10",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-28 14:49:42",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3326655,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0962xxxxxx",
+          "name": "anh Kiên",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá thuốc",
+          "createdAt": "2026-06-23 09:33:31",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-23 09:33:31",
+          "replies": [
+            {
+              "id": 3326656,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ánh",
+                "moderatorEmail": "anhnth44@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ánh",
+              "email": "anhnth44@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh <strong>Kiên</strong>,</p><p>Hiện tại, sản phẩm MIDERIX 380/300 MEDITOP 4X15 có giá 693,000 ₫/hộp.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-06-23 09:34:18",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-23 09:33:31",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Miderix 380mg/300mg Meditop điều trị triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính (4 vỉ x 15 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_1_9654a9f520.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_2_41b4589402.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_3_b569517f8f.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_4_b46866f26f.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_5_b45c8bedca.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_6_1731d1ed20.png",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Miderix 380mg/300mg được dùng để điều trị ngắn hạn triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính ở người lớn.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ngô Kim Thúy"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Miderix 380mg/300mg Meditop điều trị triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính (4 vỉ x 15 viên) - Nhà thuốc FPT Long Châu",
+      "description": "Thuốc Miderix 380mg/300mg được dùng để điều trị ngắn hạn triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính ở người lớn.",
+      "openGraph": {
+        "title": "Thuốc Miderix 380mg/300mg Meditop điều trị triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính (4 vỉ x 15 viên)",
+        "description": "Thuốc Miderix 380mg/300mg được dùng để điều trị ngắn hạn triệu chứng đau do co thắt cơ trong các rối loạn cơ xương cấp tính ở người lớn.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_miderix_380_300_meditop_4x15_00051553_1_9654a9f520.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/miderix-380-300-meditop-4-x15.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/miderix-380-300-meditop-4-x15.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

@@ -1,0 +1,2024 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/surbex-z-1213.html",
+  "ingestion_timestamp": "2026-09-05T11:13:31.622244+00:00",
+  "file_hash": "f09d5f95c253d34e48649edcdeff15c58da379fc573269b0702d1a2b4ee87314",
+  "lineage_hash": "25cfbd7afe592366631372d250e7141359b9495c18016c5bff78e178731a5a09",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/surbex-z-1213.html",
+    "product": {
+      "sku": "00010697",
+      "webName": "Thuốc Surbex-Z Abbott điều trị chứng thiếu các vitamin nhóm B, vitamin C và kẽm (10 vỉ x 10 viên)",
+      "name": "SURBEX-Z ABBOTT 10X10",
+      "shortName": "SURBEX Z 750 ABBOTT 10X10",
+      "headingText": "Thuốc Surbex-Z",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_7008_5bba_large_7ce88fee1d.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_1096_5bba_large_978eab52fa.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_2154_5bba_large_bb1c329df3.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_9615_5bba_large_e2ad4a8285.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_5302_5bba_large_9af324e021.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 727,
+          "name": "Thuốc bổ & vitamin",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-bo-and-vitamin",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 752,
+          "name": "Thuốc bổ",
+          "parentName": "Thuốc bổ & vitamin",
+          "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 417000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Hộp 10 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": 41700,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 2,
+          "productSpecs": "10 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 4170,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/surbex-z-1213.html",
+      "ingredient": [
+        {
+          "id": 48973,
+          "ingredientId": 24482,
+          "shortDescription": "22.5mg",
+          "name": "Kẽm",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 48974,
+          "ingredientId": 31508,
+          "shortDescription": "20mg",
+          "name": "Pantothenic acid",
+          "isPrimary": false,
+          "slug": "thanh-phan/pantothenic-acid"
+        },
+        {
+          "id": 48975,
+          "ingredientId": 40318,
+          "shortDescription": "12mcg",
+          "name": "Vitamin B12",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b12"
+        },
+        {
+          "id": 48976,
+          "ingredientId": 40333,
+          "shortDescription": "20mg",
+          "name": "Vitamin B6",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 48977,
+          "ingredientId": 40329,
+          "shortDescription": "100mg",
+          "name": "Vitamin B3",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b3"
+        },
+        {
+          "id": 48978,
+          "ingredientId": 40324,
+          "shortDescription": "15mg",
+          "name": "Vitamin B2",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b2"
+        },
+        {
+          "id": 48979,
+          "ingredientId": 40316,
+          "shortDescription": "15mg",
+          "name": "Vitamin B1",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b1"
+        },
+        {
+          "id": 48980,
+          "ingredientId": 40363,
+          "shortDescription": "30mg",
+          "name": "Vitamin E",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-e"
+        },
+        {
+          "id": 48981,
+          "ingredientId": 40342,
+          "shortDescription": "",
+          "name": "Vitamin B9",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 48982,
+          "ingredientId": 40349,
+          "shortDescription": "",
+          "name": "Vitamin C",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-c"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VN-17803-14",
+      "manufactor": "Indonesia",
+      "dosageForm": "Viên nén",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc Surbex Z dùng đường uống.</p><h3>Liều dùng</h3><p>Ngày uống một viên Surbex Z hoặc theo chỉ dẫn của bác sĩ.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Liều cao của các thành phần trong thuốc Surbex Z có thể gây eczema và ngoại ban da, mệt mỏi, mất ngủ.</p><p>Dùng liều cao vitamin B6, đã có báo cáo bệnh thần kinh cảm giác ngoại biên và tổn thương da dạng mụn nước.</p><p>Đã ghi nhận thấy tổn thương gan, gout và loét khi dùng liều cao niacinamid.</p><p>Đã có báo cáo về tác dụng giãn mạch như choáng váng, ngất, cơn mạch thần kinh phế vị, sốc phản vệ.</p><p>Đã có báo cáo về tan máu khi dùng liều cao vitamin C, đặc biệt trên bệnh nhân thiếu enzym glucose 6 phosphat dehydrogenase.&nbsp;</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc Surbex Z, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/surbex-z-1213.html\">Surbex Z</a> điều trị chứng thiếu các vitamin nhóm B, vitamin C và <a href=\"https://nhathuoclongchau.com.vn/bai-viet/thieu-kem-gay-ra-benh-gi-nguyen-nhan-va-cach-bo-sung-kem-nhanh-chong-55454.html\">thiếu kẽm</a>.</p><h3>Dược lực học</h3><p>Vitamin B-complex trong viên Surbex Z được hấp thu bởi quá trình vận chuyển tích cực. Các vitamin B được đào thải nhanh và không tích lại trong cơ thể.</p><p>Calcium pantothenate được hấp thu nhanh từ đường tiêu hóa và phân bố tới các tế bào của cơ thể.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/vitamin-c-500mg-khapharco-10x10-31801.html\">Vitamin C</a> hấp thu nhanh từ đường ruột, và khoảng 80 - 90% vitamin C được hấp thụ từ thức ăn.</p><p><strong>Dữ liệu an toàn tiền lâm sàng</strong></p><p><i>Vitamin C</i></p><p>Về cơ bản, vitamin C không gây độc trừ khi uống liều cao bất thường (4 - 12 g). Khi sử dụng các liều cao này, nước tiểu bị acid hóa, cũng như trong một số nhiễm khuẩn đường niệu mãn tính, có thê gây kết tủa sỏi urate va cystin.</p><p><i>Niacinamide</i></p><p>Không có báo cáo riêng biệt cho niacinamide.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/natural-vitamin-e-400iu-naturecare-60v-19778.html\"><i>Vitamin E</i></a></p><p>Thường đáp ứng tốt. Liều cao đôi khi gây rối loạn đường tiêu hóa, mệt mỏi, yếu mệt.</p><p><i>Calcium Pantothenate</i></p><p>Về cơ bản không gây độc. Liều gây độc cấp ở chuột nhắt là 10 g/kg khi dùng đường uống;&nbsp;0,91 g/kg khi dùng đường tiêm. Quan sát trên 15 người tiêm ven liều 100 mg pantothenate (dưới dạng muối canxi hoặc muối natri), không thấy thay đổi đáng kể về huyết áp, mạch, nhiệt độ hoặc nhịp thở.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/vitamin-b1-50mg-1158.html\"><i>Vitamin B1</i></a></p><p>Tiêm tĩnh mạch gây độc cho chuột cống với liều 125 mg/kg, gây độc cho chó với liều 350 mg/kg. Khi dùng đường uống, liều gây độc cao gấp 40 lần dùng đường tiêm. Về phương diện lâm sàng, đôi khi có báo cáo phản ứng độc tính với việc sử dụng đường tiêm, có thể do nhạy cảm cao.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/vitamin-b2-2mg-31564.html\"><i>Vitamin B2</i></a></p><p>Hầu như không gây độc tính. Với liều uống 10 g/kg cho chuột cống, 2 g/kg cho chó không thấy gây độc.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/vitamin-b6-250mg-1759.html\"><i>Vitamin B6</i></a></p><p>Liều cao từ 3 tới 4 g/kg có thể gây co giật và tử vong ở động vật. Liều dùng thấp hơn có thể không cho tác dụng rõ ràng.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/vitamin-b12-vinh-phuc-100-ong-x-1ml-dung-dich-tiem-28340.html\"><i>Vitamin B12</i></a></p><p>Về cơ bản không gây độc. Tiêm tĩnh mạch chuột với liều 1,6 g/kg tinh thể vitamin B12 không gây độc ở chuột nhắt. Về phương diện lâm sàng, tiêm vitamin B12 không đau và không gây phản ứng tại chỗ tiêm. Tiêm bắp và tiêm dưới da liều cao 1000 mcg, tiêm ven liều cao 3000 mcg không thấy có phản ứng phụ.</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/folic-acid\"><i>Folic Acid</i></a><i>&nbsp;</i></p><p>Về cơ bản không gây độc.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/kem-magie\"><i>Kẽm</i></a></p><p>Uống lượng lớn kẽm gây buồn nôn, mất nước, mất sự phối hợp cơ, chóng mặt, mất cân bằng điện giải.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+      "brand": "Abbott",
+      "brandType": null,
+      "adverseEffect": "<p><em>Thường gặp, ADR &gt;1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Không xác định tần suất</em></p>\n\n<ul>\n\t<li>\n\t<p>Hệ miễn dịch: Các phản ứng dị ứng bao gồm ngứa, phát ban, phản ứng phản vệ.</p>\n\t</li>\n\t<li>\n\t<p>Hệ tiêu hóa: Nóng rát, ợ hơi, đau và co cứng vùng bụng, tiêu chảy, nôn, buồn nôn và chán ăn.</p>\n\t</li>\n\t<li>\n\t<p>Hệ gan mật: Bất thường xét nghiệm chức năng gan, bao gồm cả tăng bilirubin máu.</p>\n\t</li>\n\t<li>\n\t<p>Da và mô dưới da: Mụn trứng cá đỏ, ngoại ban dạng trứng cá.</p>\n\t</li>\n\t<li>\n\t<p>Chuyển hóa và nội tiết: Nước tiểu chuyển sang màu vàng sáng, loạn chuyển hóa oxalate.</p>\n\t</li>\n\t<li>\n\t<p>Mạch máu: Giãn mạch, nóng đỏ bừng.</p>\n\t</li>\n\t<li>\n\t<p>Hệ thần kinh: Chóng mặt, choáng váng, ngất, bệnh thần kinh ngoại biên.</p>\n\t</li>\n\t<li>\n\t<p>Hệ tiết niệu: Sỏi, tinh thể niệu.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 10 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Hoa Kỳ",
+      "producer": "PT. ABBOTT INDONESIA",
+      "shortDescription": "<p>Surbex Z là sản phẩm của Công ty PT. Abbott Indonesia, có thành phần chính là vitamin E (dl-alpha tocopheryl acetate), vitamin C, acid folic, vitamin B1 (thiamine mononitrate), vitamin B2 (riboflavin), niacin, vitamin B6, vitamin B12, pantothenic acid và kẽm. Thuốc được dùng để điều trị chứng thiếu các vitamin nhóm B, vitamin C và kẽm.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "Trên 18 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Phụ nữ cho con bú"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/abbott",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "SURBEX-Z",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "24 tháng",
+      "brandOriginBadges": {
+        "id": 248,
+        "attributeName": "Hoa Kỳ",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/us_United_States_of_America_usa_59e1ad3af3.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": 4170,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 752,
+        "name": "Thuốc bổ",
+        "parentName": "Thuốc bổ & vitamin",
+        "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_7008_5bba_large_7ce88fee1d.JPG",
+          "alternativeText": "Thuốc Surbex-Z Abbott điều trị chứng thiếu các vitamin nhóm B, vitamin C và kẽm (10 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_1096_5bba_large_978eab52fa.JPG",
+          "alternativeText": "Thuốc Surbex-Z Abbott điều trị chứng thiếu các vitamin nhóm B, vitamin C và kẽm (10 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_2154_5bba_large_bb1c329df3.JPG",
+          "alternativeText": "Thuốc Surbex-Z Abbott điều trị chứng thiếu các vitamin nhóm B, vitamin C và kẽm (10 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_9615_5bba_large_e2ad4a8285.JPG",
+          "alternativeText": "Thuốc Surbex-Z Abbott điều trị chứng thiếu các vitamin nhóm B, vitamin C và kẽm (10 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_5302_5bba_large_9af324e021.JPG",
+          "alternativeText": "Thuốc Surbex-Z Abbott điều trị chứng thiếu các vitamin nhóm B, vitamin C và kẽm (10 vỉ x 10 viên) 5"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 417000,
+        "itemCode": "00010697",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 417000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 41700,
+        "itemCode": "00010697",
+        "unitCode": 13,
+        "maxValue": 0,
+        "price": 41700,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 4170,
+        "itemCode": "00010697",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 4170,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc bổ & vitamin",
+        "slug": "/thuoc/thuoc-bo-and-vitamin"
+      },
+      {
+        "name": "Thuốc bổ",
+        "slug": "/thuoc/thuoc-bo-and-vitamin/thuoc-bo"
+      }
+    ],
+    "content": {
+      "sku": "00010697",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc Surbex Z dùng đường uống.</p><h3>Liều dùng</h3><p>Ngày uống một viên Surbex Z hoặc theo chỉ dẫn của bác sĩ.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Liều cao của các thành phần trong thuốc Surbex Z có thể gây eczema và ngoại ban da, mệt mỏi, mất ngủ.</p><p>Dùng liều cao vitamin B6, đã có báo cáo bệnh thần kinh cảm giác ngoại biên và tổn thương da dạng mụn nước.</p><p>Đã ghi nhận thấy tổn thương gan, gout và loét khi dùng liều cao niacinamid.</p><p>Đã có báo cáo về tác dụng giãn mạch như choáng váng, ngất, cơn mạch thần kinh phế vị, sốc phản vệ.</p><p>Đã có báo cáo về tan máu khi dùng liều cao vitamin C, đặc biệt trên bệnh nhân thiếu enzym glucose 6 phosphat dehydrogenase.&nbsp;</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc Surbex Z, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<p>Tờ Hướng dẫn sử dụng thuốc Surbex Z của Công ty PT. Abbott Indonesia.</p>",
+      "adverseEffect": "<p><em>Thường gặp, ADR &gt;1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Không xác định tần suất</em></p>\n\n<ul>\n\t<li>\n\t<p>Hệ miễn dịch: Các phản ứng dị ứng bao gồm ngứa, phát ban, phản ứng phản vệ.</p>\n\t</li>\n\t<li>\n\t<p>Hệ tiêu hóa: Nóng rát, ợ hơi, đau và co cứng vùng bụng, tiêu chảy, nôn, buồn nôn và chán ăn.</p>\n\t</li>\n\t<li>\n\t<p>Hệ gan mật: Bất thường xét nghiệm chức năng gan, bao gồm cả tăng bilirubin máu.</p>\n\t</li>\n\t<li>\n\t<p>Da và mô dưới da: Mụn trứng cá đỏ, ngoại ban dạng trứng cá.</p>\n\t</li>\n\t<li>\n\t<p>Chuyển hóa và nội tiết: Nước tiểu chuyển sang màu vàng sáng, loạn chuyển hóa oxalate.</p>\n\t</li>\n\t<li>\n\t<p>Mạch máu: Giãn mạch, nóng đỏ bừng.</p>\n\t</li>\n\t<li>\n\t<p>Hệ thần kinh: Chóng mặt, choáng váng, ngất, bệnh thần kinh ngoại biên.</p>\n\t</li>\n\t<li>\n\t<p>Hệ tiết niệu: Sỏi, tinh thể niệu.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Giữ thuộc ở nhiệt độ không quá 30°C.</p>",
+      "usage": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/surbex-z-1213.html\">Surbex Z</a> điều trị chứng thiếu các vitamin nhóm B, vitamin C và <a href=\"https://nhathuoclongchau.com.vn/bai-viet/thieu-kem-gay-ra-benh-gi-nguyen-nhan-va-cach-bo-sung-kem-nhanh-chong-55454.html\">thiếu kẽm</a>.</p><h3>Dược lực học</h3><p>Vitamin B-complex trong viên Surbex Z được hấp thu bởi quá trình vận chuyển tích cực. Các vitamin B được đào thải nhanh và không tích lại trong cơ thể.</p><p>Calcium pantothenate được hấp thu nhanh từ đường tiêu hóa và phân bố tới các tế bào của cơ thể.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/vitamin-c-500mg-khapharco-10x10-31801.html\">Vitamin C</a> hấp thu nhanh từ đường ruột, và khoảng 80 - 90% vitamin C được hấp thụ từ thức ăn.</p><p><strong>Dữ liệu an toàn tiền lâm sàng</strong></p><p><i>Vitamin C</i></p><p>Về cơ bản, vitamin C không gây độc trừ khi uống liều cao bất thường (4 - 12 g). Khi sử dụng các liều cao này, nước tiểu bị acid hóa, cũng như trong một số nhiễm khuẩn đường niệu mãn tính, có thê gây kết tủa sỏi urate va cystin.</p><p><i>Niacinamide</i></p><p>Không có báo cáo riêng biệt cho niacinamide.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/natural-vitamin-e-400iu-naturecare-60v-19778.html\"><i>Vitamin E</i></a></p><p>Thường đáp ứng tốt. Liều cao đôi khi gây rối loạn đường tiêu hóa, mệt mỏi, yếu mệt.</p><p><i>Calcium Pantothenate</i></p><p>Về cơ bản không gây độc. Liều gây độc cấp ở chuột nhắt là 10 g/kg khi dùng đường uống;&nbsp;0,91 g/kg khi dùng đường tiêm. Quan sát trên 15 người tiêm ven liều 100 mg pantothenate (dưới dạng muối canxi hoặc muối natri), không thấy thay đổi đáng kể về huyết áp, mạch, nhiệt độ hoặc nhịp thở.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/vitamin-b1-50mg-1158.html\"><i>Vitamin B1</i></a></p><p>Tiêm tĩnh mạch gây độc cho chuột cống với liều 125 mg/kg, gây độc cho chó với liều 350 mg/kg. Khi dùng đường uống, liều gây độc cao gấp 40 lần dùng đường tiêm. Về phương diện lâm sàng, đôi khi có báo cáo phản ứng độc tính với việc sử dụng đường tiêm, có thể do nhạy cảm cao.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/vitamin-b2-2mg-31564.html\"><i>Vitamin B2</i></a></p><p>Hầu như không gây độc tính. Với liều uống 10 g/kg cho chuột cống, 2 g/kg cho chó không thấy gây độc.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/vitamin-b6-250mg-1759.html\"><i>Vitamin B6</i></a></p><p>Liều cao từ 3 tới 4 g/kg có thể gây co giật và tử vong ở động vật. Liều dùng thấp hơn có thể không cho tác dụng rõ ràng.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/vitamin-b12-vinh-phuc-100-ong-x-1ml-dung-dich-tiem-28340.html\"><i>Vitamin B12</i></a></p><p>Về cơ bản không gây độc. Tiêm tĩnh mạch chuột với liều 1,6 g/kg tinh thể vitamin B12 không gây độc ở chuột nhắt. Về phương diện lâm sàng, tiêm vitamin B12 không đau và không gây phản ứng tại chỗ tiêm. Tiêm bắp và tiêm dưới da liều cao 1000 mcg, tiêm ven liều cao 3000 mcg không thấy có phản ứng phụ.</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/folic-acid\"><i>Folic Acid</i></a><i>&nbsp;</i></p><p>Về cơ bản không gây độc.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/kem-magie\"><i>Kẽm</i></a></p><p>Uống lượng lớn kẽm gây buồn nôn, mất nước, mất sự phối hợp cơ, chóng mặt, mất cân bằng điện giải.</p><h3>Dược động học</h3><p>Chưa có báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<h3>Chống chỉ định</h3><p>Surbex Z chống chỉ định dùng cho các trường hợp:</p><ul><li>Những người mẫn cảm với bất kỳ thành phần nào của thuốc.</li><li>Trẻ em.</li><li>Phụ nữ có thai do thuốc chứa liều cao vitamin B6. Đã có báo cáo bằng y văn về dị tật chi ở trẻ sơ sinh với liều sử dụng 50 mg một ngày.</li></ul><h3>Thận trọng khi sử dụng</h3><p>Giữ thuốc xa tầm tay trẻ em.</p><p>Nên thận trọng khi sử dụng vitamin C cho bệnh nhân suy thận và bệnh nhân đang dùng acetyl salicylic.</p><h3>Khả năng lái xe và vận hành máy móc</h3><p>Chưa có báo cáo về tác động của thuốc Surbex Z trong khi lái xe và vận hành máy móc.</p><h3>Thời kỳ mang thai&nbsp;</h3><p>Không nên sử dụng cho phụ nữ có thai do thuốc chứa liều cao vitamin B6.</p><h3>Thời kỳ cho con bú</h3><p>Vitamin B-complex khuếch tán qua nhau thai và có trong sữa mẹ.</p><h3>Tương tác thuốc</h3><p>Pyridoxin có thể tương tác với levodopa, có thể khắc phục bằng cách dùng levodopa phối hợp với một thuốc ức chế decarboxylase.</p><p>Đã có ghi nhận về tương tác thuốc khi sử dụng đồng thời niacinamide và alcohol, ngộ độc rượu và&nbsp;nhiễm acid lactic.</p><p>Đã có báo cáo về tình trạng nóng đỏ&nbsp;bừng và chóng mặt tăng lên khi sử dụng đồng thời niacin và nicotin.</p><p>Do pyridoxine có tác động lên dopamine, tương tác thuốc có thể xảy ra. Đã ghi nhận tương tác thuốc giữa pyridoxine với levodopa nhưng có thể tránh được nếu dùng levodopa phối hợp với thuốc ức chế decarboxylase.</p><p>Đã có báo cáo về giảm nồng độ phenytoin và phenobarbital ở bệnh nhân sử dụng 80 - 200 mg vitamin B6 một ngày.</p><p>Có liên quan giữa việc sử dụng thuốc chống co giật và sulfasalazine với sự thiếu hụt folate, ngay cả khi uống acid folic.</p><p>Dùng đồng thời vitamin C với thuốc chống đông máu làm giảm thời gian prothrombin.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Surbex Z® bổ sung Vitamin B, Vitamin C và Kẽm (100 viên)",
+        "metaDescription": "Thuốc Surbex Z Abbott bổ sung Vitamin nhóm B, Vitamin C và Kẽm chính hãng, giá tốt, được dược sĩ tư vấn, giao hàng nhanh 24/7 trong 2-4 giờ.",
+        "id": 15428,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_7008_5bba_large_7ce88fee1d.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc Surbex-Z Abbott điều trị chứng thiếu các vitamin nhóm B, vitamin C và kẽm (10 vỉ x 10 viên)",
+            "description": "Surbex Z là sản phẩm của Công ty PT. Abbott Indonesia, có thành phần chính là vitamin E (dl-alpha tocopheryl acetate), vitamin C, acid folic, vitamin B1 (thiamine mononitrate), vitamin B2 (riboflavin), niacin, vitamin B6, vitamin B12, pantothenic acid và kẽm. Thuốc được dùng để điều trị chứng thiếu các vitamin nhóm B, vitamin C và kẽm."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 33924,
+        "title": "Surbex-Z là thuốc gì và công dụng chính như thế nào?",
+        "content": "<p>Surbex-Z là một loại thuốc bổ sung vitamin tổng hợp và kẽm. Công dụng chính của nó là điều trị các tình trạng thiếu hụt vitamin nhóm B, vitamin C và kẽm. Thuốc chứa nhiều thành phần quan trọng như Kẽm (22.5mg), Pantothenic acid (20mg), Vitamin B12 (12mcg), Vitamin B6 (20mg), Vitamin B3 (100mg), Vitamin B2 (15mg), Vitamin B1 (15mg), Vitamin E (30mg), Vitamin B9 (Folic Acid), và Vitamin C.</p>"
+      },
+      {
+        "id": 33927,
+        "title": "Surbex-Z có những tác dụng phụ nào cần lưu ý?",
+        "content": "<p>Mặc dù chưa có báo cáo về tần suất thường gặp hay ít gặp, một số tác dụng phụ không xác định tần suất đã được ghi nhận bao gồm: Các phản ứng dị ứng (ngứa, phát ban, phản ứng phản vệ), rối loạn tiêu hóa (nóng rát, ợ hơi, đau bụng, tiêu chảy, buồn nôn, chán ăn), bất thường xét nghiệm chức năng gan, các vấn đề về da (mụn trứng cá đỏ, ngoại ban dạng trứng cá), nước tiểu chuyển màu vàng sáng, loạn chuyển hóa oxalate, giãn mạch, nóng đỏ bừng, chóng mặt, choáng váng, ngất, bệnh thần kinh ngoại biên, và sỏi tiết niệu. Nếu gặp bất kỳ tác dụng phụ nào, cần ngưng sử dụng thuốc và thông báo cho bác sĩ.</p>"
+      },
+      {
+        "id": 33926,
+        "title": "Phải làm gì nếu quên một liều hoặc dùng quá liều Surbex-Z?",
+        "content": "<p>Nếu bạn quên một liều Surbex-Z, hãy uống ngay khi nhớ ra. Tuy nhiên, nếu gần đến thời điểm của liều kế tiếp, hãy bỏ qua liều đã quên và tiếp tục dùng liều kế tiếp theo đúng lịch trình. Không nên dùng gấp đôi liều đã quy định để bù lại. Trong trường hợp dùng quá liều, có thể xuất hiện các tác dụng phụ như eczema, ngoại ban da, mệt mỏi, mất ngủ. Liều cao vitamin B6 có thể gây bệnh thần kinh cảm giác ngoại biên và tổn thương da dạng mụn nước. Quá liều niacinamid có thể dẫn đến tổn thương gan, gout và loét. Ngoài ra, có thể xảy ra các tác dụng giãn mạch như choáng váng, ngất, và <a href=\"https://nhathuoclongchau.com.vn/benh/soc-phan-ve-108.html\">sốc phản vệ</a>. Đặc biệt, liều cao vitamin C có thể gây tan máu ở bệnh nhân thiếu enzym glucose 6 phosphat dehydrogenase. Khi gặp các dấu hiệu quá liều, cần ngưng thuốc và đến cơ sở y tế gần nhất.</p>"
+      },
+      {
+        "id": 33928,
+        "title": "Những đối tượng nào không nên sử dụng Surbex-Z?",
+        "content": "<p>Surbex-Z chống chỉ định cho:</p><ul><li>Những người mẫn cảm với bất kỳ thành phần nào của thuốc.</li><li>Trẻ em.</li><li>Phụ nữ có thai, đặc biệt do thuốc chứa liều cao vitamin B6. Đã có báo cáo về dị tật chi ở trẻ sơ sinh khi mẹ sử dụng liều 50 mg vitamin B6 một ngày.</li></ul>"
+      },
+      {
+        "id": 33925,
+        "title": "Liều dùng và cách sử dụng Surbex-Z như thế nào?",
+        "content": "<p>Thuốc Surbex-Z được dùng bằng đường uống. Liều khuyến nghị thông thường là một viên mỗi ngày, hoặc theo chỉ dẫn của bác sĩ. Điều quan trọng cần lưu ý là liều dùng cụ thể có thể khác nhau tùy thuộc vào thể trạng và mức độ tiến triển của bệnh, do đó, người dùng nên tham khảo ý kiến bác sĩ hoặc chuyên viên y tế để có liều dùng phù hợp.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00029004",
+        "name": "POKEMINE MEDISUN 20X10ML",
+        "webName": "Dung dịch uống Pokemine 50mg Medisun bổ sung sắt cho bệnh nhân thiếu máu (20 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/pokemine_20x10ml_medisun_00029004_18974a7442.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37079,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 152000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pokemine-medisun-20x10ml-29296.html",
+        "ingredients": "Sắt 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Medisun",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 20 ống X 10ml",
+        "prices": [
+          {
+            "id": 37079,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 152000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 37078,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 7600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00047080",
+        "name": "MYHEMO RELIV 3X10",
+        "webName": "Thuốc Myhemo 305mg Reliv dự phòng thiếu sắt và folic acid (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_myhemo_reliv_3x10_00047080_42c390f09b.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 73453,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 165000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/myhemo-reliv-3-x10.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 100mg",
+        "dosageForm": "Viên bao đường",
+        "brand": "Reliv",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 73453,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 165000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 73454,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 73455,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007450",
+        "name": "TOTHEMA 2X10 ỐNG 10ML",
+        "webName": "Dung dịch Tot'héma Innothera điều trị thiếu máu do sắt (2 vỉ x 10 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04101_788e84a74a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10875,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 120000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tothema-1952.html",
+        "ingredients": "Mangan gluconat 1.33mg, Đồng gluconat 0.7mg, Sắt gluconat 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Innothera",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 10 Ống x 10ml",
+        "prices": [
+          {
+            "id": 10875,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 120000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10873,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10874,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049621",
+        "name": "VITAMIN A-D HDPHARMA 10X10",
+        "webName": "Thuốc Vitamin A-D Hdpharma dùng dự phòng và điều trị các triệu chứng do thiếu vitamin A - D (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_vitamin_a_d_10x10_hdpharma_00049621_f8bba8c44a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 78290,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 32000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vitamin-a-d-hdpharma-10-x10.html",
+        "ingredients": "Vitamin A 5000iu, Vitamin D3 400iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Hdpharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 78290,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 32000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 78291,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 3200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 78292,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 320,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049065",
+        "name": "MAZZGIN DHG PHARMA 10X10",
+        "webName": "Thuốc Mazzgin DHG Pharma điều trị các trường hợp thiếu magnesi riêng biệt hay kết hợp (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_mazzgin_dhg_pharma_10x10_00049065_82218241b8.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 77246,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 53550,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/mazzgin-dhg-pharma-10-x10.html",
+        "ingredients": "Magnesi lactat dihydrat 470mg, Vitamin B6 5mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Dhg",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 77246,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 53550,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 77247,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 5355,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 77248,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 536,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00041155",
+        "name": "CARDIOTON LIPA 6X10",
+        "webName": "Thuốc Cardioton Lipa Pharma điều trị suy tim, tăng huyết áp, bổ sung năng lượng (6 vỉ x 10 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_cardioton_lipa_6x10_00041155_9ecff2b28f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 62161,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 7667,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cardioton-lipa-6-x10.html",
+        "ingredients": "Ubidecarenone 30mg, D-alpha tocopherol 6.71mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "LIPA PHARMACEUTICALSLTD",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 62161,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 62159,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 460000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 62160,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 76667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500658",
+        "name": "ZY-10 FORTE 100MG Y-MED 3X10",
+        "webName": "Thuốc Zy-10 Forte 100mg Y-Med điều trị bệnh suy tim xung huyết, thiếu hụt coenzym Q10 (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/5_9e44bd6ebd.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48922,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 15600,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/zy-10-forte-100mg-hop-3-vi-x-10-vien-ha-tay-34787.html",
+        "ingredients": "Ubidecarenone 100mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Y-MED",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48922,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 15600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 48924,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 468000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 48923,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 156000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 249,
+          "attributeName": "Ấn Độ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/in_India_090039de61.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009723",
+        "name": "BEROCCA BAYER 10V",
+        "webName": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1758_33831b7cab.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12974,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 75000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/berocca-1515.html",
+        "ingredients": "Vitamin B1 15mg, Vitamin B2 15mg, Vitamin B6 10mg, Vitamin B12 0.01mg, Vitamin B3 50mg, Vitamin B5 23mg, Magnesia 100mg, Vitamin C 500mg, Calcium 100mg, Vitamin B8 0.15mg, Kẽm 10mg",
+        "dosageForm": "Viên sủi",
+        "brand": "Bayer",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 12973,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 7500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12974,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 75000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00008451",
+        "name": "LONG HUYẾT PH 2X12 - TAN BẦM TÍM GIẢM PHÙ NỀ",
+        "webName": "Thuốc Long Huyết P/H Phúc Hưng đặc trị tan bầm tím, mau lành vết thương (2 vỉ x 12 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1039_fba416224d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12490,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 47000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/long-huyet-ph-tan-bam-tim-chua-lanh-vet-thuong-1590.html",
+        "ingredients": "Cao khô huyết giác 280mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Phúc Hưng",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 2 vỉ x 12 viên",
+        "prices": [
+          {
+            "id": 12488,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1958,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12489,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 23500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 12490,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 47000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007678",
+        "name": "UPSA-C 10V",
+        "webName": "Viên sủi UPSA-C UPSA SAS hỗ trợ điều trị tình trạng thiếu hụt vitamin C (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1794_11051dc2c2.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11216,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 37000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/upsa-c-1000mg-1878.html",
+        "ingredients": "Vitamin C 1000mg",
+        "dosageForm": "Viên nén sủi bọt",
+        "brand": "Upsa Sas",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 11215,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 3700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11216,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 37000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007180",
+        "name": "TARDYFERON B9 3X10",
+        "webName": "Thuốc Tardyferon B9 Pierre Fabre dự phòng thiếu sắt, acid folic cho phụ nữ có thai (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_tardyferon_b9_3_vi_x_10_vien_pierre_fabre_00007180_aec7b4c600.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10449,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tardyferon-b9-2068.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 50mg",
+        "dosageForm": "Viên nén",
+        "brand": "Pierre Fabre",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 10449,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10451,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 87000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10450,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 29000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006109",
+        "name": "PROCARE DIAMOND 216MG CATALENT 30V",
+        "webName": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_7021_60ee_large_89e91ba6fb.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8834,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 420000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/procare-diamond-216mg-2522.html",
+        "ingredients": "Vitamin B1 5mg, Vitamin B2 5mg, Nicotinamide 5mg, Vitamin D3 200iu, Vitamin B6 5mg, Vitamin B12 10mcg, Vitamin E 10iu, Folic Acid 500mcg, Calcium 59mg, Phosphorus 46.6mg, Magnesium ion 30mg, Vitamin C 50mg, Zinc 8mg, Iron 24mg, Iodine 200mcg, Omega 3 500mg, Betacarotene 1mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "PROCARE",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 30 Viên",
+        "prices": [
+          {
+            "id": 8833,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 14000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 8834,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 420000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 254,
+          "attributeName": "Tây Ban Nha",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/es_Spain_03bf620563.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 9,
+      "items": [
+        {
+          "id": 3025209,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0347xxxxxx",
+          "name": "Chị Hoa",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá 1 vỉ bao nhiêu vậy e",
+          "createdAt": "2025-01-09 21:13:37",
+          "createdAtDisplay": "09/01/2025",
+          "updatedAt": "2025-01-09 21:13:37",
+          "replies": [
+            {
+              "id": 3025210,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Linh",
+                "moderatorEmail": "linhnk32@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Linh",
+              "email": "linhnk32@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hoa,</p><p>Dạ chị có thể tham khảo sản phẩm tương tự là Thuốc Moriamin Forte Roussel hỗ trợ duy trì và phục hồi sức khỏe (100 viên) có giá 35.000đ/&nbsp;Vỉ, tham khảo thêm thông tin sản phẩm tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/thuoc/moriamin-forte-2976.html\" rel=\"noopener noreferrer\" target=\"_blank\">link</a></u></strong>.</p><p>Dạ sẽ có tư vấn viên của Nhà thuốc Long Châu liên hệ theo SĐT chị để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-01-09 21:15:07",
+              "createdAtDisplay": "09/01/2025",
+              "updatedAt": "2025-01-09 21:13:37",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3001165,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0782xxxxxx",
+          "name": "MINH NHAT",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "0782xxxxxx, mình cần mua 60 viên theo chỉ định bác sĩ, xin tư vấn với ạ",
+          "createdAt": "2024-12-07 17:47:06",
+          "createdAtDisplay": "07/12/2024",
+          "updatedAt": "2024-12-07 17:47:06",
+          "replies": [
+            {
+              "id": 3001168,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Minh Hằng",
+                "moderatorEmail": "hangnm31@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Minh Hằng",
+              "email": "hangnm31@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Minh Nhat,</p><p>Dạ bạn có thể tham khảo sản phẩm tương tự là Thuốc Moriamin Forte Roussel hỗ trợ duy trì và phục hồi sức khỏe (100 viên), tham khảo thêm thông tin sản phẩm tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/thuoc/moriamin-forte-2976.html\" rel=\"noopener noreferrer\" target=\"_blank\">link</a></u></strong>.</p><p>Bạn vui lòng liên hệ tổng đài miễn phí 18006928 để được hỗ trợ tư vấn và đặt hàng.</p><p>Thân mến!</p>",
+              "createdAt": "2024-12-07 17:50:27",
+              "createdAtDisplay": "07/12/2024",
+              "updatedAt": "2024-12-07 17:47:06",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 312352,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0505xxxxxx",
+          "name": "Khải",
+          "email": "",
+          "score": null,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 vỉ bao nhiêu ạ",
+          "createdAt": "2023-11-20 14:02:24",
+          "createdAtDisplay": "20/11/2023",
+          "updatedAt": "2023-11-20 14:04:02",
+          "replies": [
+            {
+              "id": 312360,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lữ Thị Anh Thư",
+                "moderatorEmail": "Thulta11@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Lữ Thị Anh Thư",
+              "email": "Thulta11@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Khải, </span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sản phẩm có giá 41,700 đồng/ vỉ ạ.</span><br><span>Dạ sẽ có tư vấn viên của Nhà thuốc Long Châu liên hệ theo SĐT bạn để lại ạ. </span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p>",
+              "createdAt": "2023-11-20 14:04:02",
+              "createdAtDisplay": "20/11/2023",
+              "updatedAt": "2023-11-20 14:04:02",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 198672,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0328xxxxxx",
+          "name": "Ngọc",
+          "email": "",
+          "score": null,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "10 viên gia bn ạ ?",
+          "createdAt": "2023-08-08 18:37:27",
+          "createdAtDisplay": "08/08/2023",
+          "updatedAt": "2023-08-08 18:47:11",
+          "replies": [
+            {
+              "id": 198683,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Thị Giang",
+                "moderatorEmail": "GiangMT8@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Mai Thị Giang",
+              "email": "GiangMT8@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<div style=\"font-family: Roboto;\"><p>Chào Bạn Ngọc ,</p><p>Dạ bạn có thể tham khảo sản phẩm tương tự là Thuốc Moriamin Forte Roussel hỗ trợ duy trì và phục hồi sức khỏe (100 viên), tham khảo thêm thông tin sản phẩm tại <u><strong><a class=\"on\" alt=\"link\" href=\"https://nhathuoclongchau.com.vn/thuoc/moriamin-forte-2976.html\">link</a></strong></u>.Bạn vui lòng liên hệ tổng đài miễn phí 18006928 để được hỗ trợ tư vấn và đặt hàng.<br>Thân mến!</p></div>",
+              "createdAt": "2023-08-08 18:47:12",
+              "createdAtDisplay": "08/08/2023",
+              "updatedAt": "2023-08-08 18:47:11",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 162324,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0997xxxxxx",
+          "name": "hai",
+          "email": "",
+          "score": null,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "10 vien bao nhieu ak",
+          "createdAt": "2023-06-06 14:19:57",
+          "createdAtDisplay": "06/06/2023",
+          "updatedAt": "2023-06-06 14:19:57",
+          "replies": [
+            {
+              "id": 162326,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thị Thu Thảo",
+                "moderatorEmail": "ThaoHTT32@fpt.com.vn",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Huỳnh Thị Thu Thảo",
+              "email": "ThaoHTT32@fpt.com.vn",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn hai,</p><p>Dạ sản phẩm có giá 4,170 đồng/ Viên.&nbsp;<span style=\"font-family: Roboto;\">Dạ sẽ có dược sĩ liên hệ tư vấn theo SĐT bạn đã để lại ạ. Thân mến</span></p>",
+              "createdAt": "2023-06-06 14:20:56",
+              "createdAtDisplay": "06/06/2023",
+              "updatedAt": "2023-06-06 14:19:57",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 205881,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0947xxxxxx",
+          "name": "Anh Vinh",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2023-08-20 11:07:35",
+          "createdAtDisplay": "20/08/2023",
+          "updatedAt": "2023-08-20 11:10:31",
+          "replies": [
+            {
+              "id": 205883,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thu Trang",
+                "moderatorEmail": "trangntt291@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Thị Thu Trang",
+              "email": "trangntt291@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<div style=\"font-family: Roboto;\"><p>Chào bạn Vinh,</p><p>Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu. Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được hỗ trợ tư vấn và đặt hàng. Thân mến!</p></div>",
+              "createdAt": "2023-08-20 11:10:32",
+              "createdAtDisplay": "20/08/2023",
+              "updatedAt": "2023-08-20 11:10:31",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Surbex-Z Abbott điều trị chứng thiếu các vitamin nhóm B, vitamin C và kẽm (10 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_7008_5bba_large_7ce88fee1d.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_1096_5bba_large_978eab52fa.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_2154_5bba_large_bb1c329df3.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_9615_5bba_large_e2ad4a8285.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_5302_5bba_large_9af324e021.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "Surbex Z là sản phẩm của Công ty PT. Abbott Indonesia, có thành phần chính là vitamin E (dl-alpha tocopheryl acetate), vitamin C, acid folic, vitamin B1 (thiamine mononitrate), vitamin B2 (riboflavin), niacin, vitamin B6, vitamin B12, pantothenic acid và kẽm. Thuốc được dùng để điều trị chứng thiếu các vitamin nhóm B, vitamin C và kẽm.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/surbex-z-1213.html",
+        "priceCurrency": "VND",
+        "price": 4170,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/OutStock"
+      }
+    },
+    "seo": {
+      "title": "Surbex Z® bổ sung Vitamin B, Vitamin C và Kẽm (100 viên)",
+      "description": "Thuốc Surbex Z Abbott bổ sung Vitamin nhóm B, Vitamin C và Kẽm chính hãng, giá tốt, được dược sĩ tư vấn, giao hàng nhanh 24/7 trong 2-4 giờ.",
+      "openGraph": {
+        "title": "Thuốc Surbex-Z Abbott điều trị chứng thiếu các vitamin nhóm B, vitamin C và kẽm (10 vỉ x 10 viên)",
+        "description": "Surbex Z là sản phẩm của Công ty PT. Abbott Indonesia, có thành phần chính là vitamin E (dl-alpha tocopheryl acetate), vitamin C, acid folic, vitamin B1 (thiamine mononitrate), vitamin B2 (riboflavin), niacin, vitamin B6, vitamin B12, pantothenic acid và kẽm. Thuốc được dùng để điều trị chứng thiếu các vitamin nhóm B, vitamin C và kẽm.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010697_surbex_z_7008_5bba_large_7ce88fee1d.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/surbex-z-1213.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/surbex-z-1213.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

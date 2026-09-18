@@ -1,0 +1,1991 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/silkron-10g-2259.html",
+  "ingestion_timestamp": "2026-09-05T11:14:56.983580+00:00",
+  "file_hash": "f12696a125e91df76055a41cca135b1dbba743144f9bbce0625e46066512a7d6",
+  "lineage_hash": "2c9a43eb2c2870e7cba6d26ef67406b01bef74d21c94abfd94d22d80369c04df",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/silkron-10g-2259.html",
+    "product": {
+      "sku": "00006704",
+      "webName": "Kem bôi da SILKRON Dongkwang điều trị nhiễm khuẩn, nhiễm nấm (10g)",
+      "name": "SILKRON DONGKWANG 10G",
+      "shortName": "SILKRON DW 10G",
+      "headingText": "Kem bôi da SILKRON",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_1_59ea24d6cd.png",
+        "alternativeText": ""
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_1_2f17f3c052.gif",
+          "alternativeText": ""
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_2_004cfa2125.png",
+          "alternativeText": ""
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_3_f6e24124aa.png",
+          "alternativeText": ""
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_4_082486ac39.png",
+          "alternativeText": ""
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_5_84255a80d8.png",
+          "alternativeText": ""
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 33,
+          "name": "Thuốc da liễu",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-da-lieu",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 370,
+          "name": "Thuốc bôi ngoài da",
+          "parentName": "Thuốc da liễu",
+          "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Tuýp x 10g"
+        }
+      ],
+      "slug": "thuoc/silkron-10g-2259.html",
+      "ingredient": [
+        {
+          "id": 32293,
+          "ingredientId": 15238,
+          "shortDescription": "100mg",
+          "name": "Clotrimazole",
+          "isPrimary": false,
+          "slug": "thanh-phan/clotrimazole"
+        },
+        {
+          "id": 83560,
+          "ingredientId": 10843,
+          "shortDescription": "6.4mg",
+          "name": "Betamethasone dipropionate",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 83561,
+          "ingredientId": 21137,
+          "shortDescription": "10mg",
+          "name": "Gentamicin sulfat",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 83562,
+          "ingredientId": 45009,
+          "shortDescription": "",
+          "name": "Cetanol",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 83563,
+          "ingredientId": 36814,
+          "shortDescription": "",
+          "name": "Stearyl alcohol",
+          "isPrimary": false,
+          "slug": "thanh-phan/stearyl-alcohol"
+        },
+        {
+          "id": 83564,
+          "ingredientId": 25652,
+          "shortDescription": "",
+          "name": "Liquid Paraffin",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 83565,
+          "ingredientId": 33134,
+          "shortDescription": "",
+          "name": "Polysorbate 60",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 83566,
+          "ingredientId": 45010,
+          "shortDescription": "",
+          "name": "Sorbitan monostearate",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 83567,
+          "ingredientId": 33645,
+          "shortDescription": "",
+          "name": "Propylene glycol",
+          "isPrimary": false,
+          "slug": "thanh-phan/propylene-glycol"
+        },
+        {
+          "id": 83568,
+          "ingredientId": 45011,
+          "shortDescription": "",
+          "name": "Citric acid hydrate",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 83569,
+          "ingredientId": 18177,
+          "shortDescription": "",
+          "name": "Disodium Edetate Hydrate",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 83570,
+          "ingredientId": 27300,
+          "shortDescription": "",
+          "name": "Methyl paraben",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 83571,
+          "ingredientId": 33638,
+          "shortDescription": "",
+          "name": "Propyl paraben",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 83572,
+          "ingredientId": 33849,
+          "shortDescription": "",
+          "name": "Purified water",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "10g",
+      "registNum": "VN-17420-13",
+      "manufactor": "Hàn Quốc",
+      "dosageForm": "Kem bôi da",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Thuốc 7 màu Silkron 10 g chỉ dùng ngoài da.</p><h3><strong>Liều dùng</strong></h3><p>Thoa một lượng vừa đủ vào vùng da bị ảnh hưởng ngày 2 lần vào buổi sáng và buổi tối.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tuỳ&nbsp;thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Triệu chứng quá liều Silkron chưa rõ. Tuy nhiên, nếu nghi ngờ quá liều, khẩn trương đến các cơ sở y tế.</p><p><i>Xử trí</i></p><p>Tích cực theo dõi để có biện pháp xử trí kịp thời.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu bạn quên một liều thuốc 7 màu, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc 7 màu <a href=\"https://nhathuoclongchau.com.vn/thuoc/silkron-10g-2259.html\">Silkron</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị nhiễm khuẩn hoặc nhiễm nấm, hoặc <a href=\"https://nhathuoclongchau.com.vn/bai-viet/can-trong-da-nhiem-corticoid-nhan-biet-dau-hieu-va-cach-phuc-hoi.html\">các bệnh ở da do corticoid</a> có liên quan đến nhiễm khuẩn như: Viêm da dị ứng, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-da-do-tiep-xuc-538.html\">viêm da tiếp xúc</a>, viêm da cơ địa, viêm da tiết bã, <a href=\"https://nhathuoclongchau.com.vn/benh/cham-516.html\">chàm</a>, hăm, viêm da tróc vẩy và lichen đơn mãn tính (viêm da thần kinh).</li></ul><h3><strong>Dược lực học</strong></h3><p><strong>Nhóm dược lý:</strong></p><p><strong>Nhóm dược lý: Corticosteroid hoạt tính mạnh kết hợp với kháng sinh; betamethasone và kháng sinh.</strong></p><p><strong>Mã ATC: D07CC01.</strong></p><p>Thuốc chứa betamethason dipropionat, một glucocorticoid thể hiện rõ đặc tính chung của corticosteroid; clotrimazol là một chất kháng nấm nhóm imidazol; gentamicin sulfat là một kháng sinh nhóm aminoglycosid.</p><p>Corticoid dùng tại chỗ hữu hiệu trong việc điều trị các bệnh về da vì tác động co mạch và chống ngứa, kháng viêm.&nbsp;</p><p>Clotrimazol là thuốc kháng nấm phổ rộng được dùng để điều trị các bệnh ngoài da do nhiễm các loại nấm gây bệnh khác nhau, clotrimazol cũng có tác dụng trên Trichomonas, Staphylococci và Bacteroides.</p><p>Gentamicin sulfat là một kháng sinh thuộc nhóm aminoglycosid có tác dụng diệt khuẩn chống lại nhiều vi khuẩn gram âm và một số chủng staphylococci.</p><h3>Dược động học</h3><p>Thuốc được dùng tại chỗ để điều trị các bệnh về da. Vì vậy, có rất ít dữ liệu về dược động học liên quan đến sinh khả dụng tại vị trí tác động.</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/clotrimazole\">Clotrimazol</a> thấm vào biểu bì sau khi dùng bôi tại chỗ nhưng rất ít hấp thu toàn thân, nếu có. Mức độ hấp thu qua da của corticoid dùng tại chỗ được xác định qua các yếu tố như tá dược, tình trạng da và sử dụng băng kín.</p><p>Corticosteroid dùng tại chỗ được hấp thu toàn thân, gắn kết protein huyết tương chuyển hóa ờ gan và bài tiết ở thận. Một số corticoid và chất chuyển hóa của chúng được bài tiết qua mật. Betamethason dùng tại chỗ cũng có thể hấp thu toàn thân, đặc biệt khi băng rịt hoặc có vết thương ngoài da.&nbsp;</p><p>Đã có báo cáo gentamicin và các aminoglycosid khác được hấp thu toàn thân sau khi thoa lên vùng da bị tróc, bỏng.</p>",
+      "brand": "DongKwang",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Silkron 10g bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p>Đã có báo cáo các tác dụng không mong muốn như sau: Nhiễm virus hoặc nhiễm khuẩn (đặc biệt khi dùng băng ép). Viêm nang lông, nổi nhọt, kích ứng da, cảm giác châm chích, kích thích da, cảm giác bỏng rát, phát ban, đỏ da, nóng bừng, ngứa, khô da, viêm da có mủ, viêm gia tiếp xúc dị ứng, đổ mồ hôi, vết thương trầm trọng hơn, loét, mụn mủ do steroid, phản ứng da do steroid, mụn do steroid, viêm da quanh miệng, thay đổi hình dạng vảy cá trên da, rậm lông, tăng sắc tố do ức chế trục vùng dưới đồi - tuyến yên - thượng thận.</p><p><a href=\"https://nhathuoclongchau.com.vn/benh/suy-than-679.html\">Suy thận</a>, giảm thính lực.</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Tuýp X 10g",
+      "indications": [
+        {
+          "id": 286,
+          "name": "Ngứa",
+          "slug": "benh/ngua-530.html"
+        },
+        {
+          "id": 291,
+          "name": "Viêm da cơ địa",
+          "slug": "benh/viem-da-co-dia-535.html"
+        },
+        {
+          "id": 292,
+          "name": "Viêm da dầu",
+          "slug": "benh/viem-da-dau-536.html"
+        },
+        {
+          "id": 294,
+          "name": "Viêm da do tiếp xúc",
+          "slug": "benh/viem-da-do-tiep-xuc-538.html"
+        }
+      ],
+      "brandOrigin": "Hàn Quốc",
+      "producer": "Kyung Dong",
+      "shortDescription": "<p>Thuốc 7 màu Silkron 10g điều trị nhiễm khuẩn hoặc nhiễm nấm, hoặc các bệnh ở da do corticoid có liên quan đến nhiễm khuẩn như: Viêm da dị ứng, viêm da tiếp xúc, viêm da cơ địa, viêm da tiết bã, chàm, hăm, viêm da tróc vẩy và lichen đơn mãn tính (viêm da thần kinh).</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Trên 8 tuổi",
+      "objectUse": [
+        "Người lớn",
+        "Trẻ em"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": false,
+      "brandSlug": "thuong-hieu/dongkwang",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "SILKRON",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 257,
+        "attributeName": "Hàn Quốc",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Han_Quoc_760f524a89.png"
+      },
+      "videoType": "",
+      "guideline": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dongwang_silkron_03b025720a.pdf",
+        "alternativeText": null,
+        "caption": null,
+        "ext": ".pdf",
+        "mime": "application/pdf",
+        "name": "dongwang silkron.pdf",
+        "hash": "dongwang_silkron_03b025720a"
+      },
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 2,
+        "measureUnitName": "Tuýp",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Tuýp x 10g"
+      },
+      "highestLevelCategory": {
+        "id": 370,
+        "name": "Thuốc bôi ngoài da",
+        "parentName": "Thuốc da liễu",
+        "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_1_59ea24d6cd.png",
+          "alternativeText": "Kem bôi da SILKRON Dongkwang điều trị nhiễm khuẩn, nhiễm nấm (10g) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_1_2f17f3c052.gif",
+          "alternativeText": "Kem bôi da SILKRON Dongkwang điều trị nhiễm khuẩn, nhiễm nấm (10g) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_2_004cfa2125.png",
+          "alternativeText": "Kem bôi da SILKRON Dongkwang điều trị nhiễm khuẩn, nhiễm nấm (10g) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_3_f6e24124aa.png",
+          "alternativeText": "Kem bôi da SILKRON Dongkwang điều trị nhiễm khuẩn, nhiễm nấm (10g) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_4_082486ac39.png",
+          "alternativeText": "Kem bôi da SILKRON Dongkwang điều trị nhiễm khuẩn, nhiễm nấm (10g) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_5_84255a80d8.png",
+          "alternativeText": "Kem bôi da SILKRON Dongkwang điều trị nhiễm khuẩn, nhiễm nấm (10g) 6"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc da liễu",
+        "slug": "/thuoc/thuoc-da-lieu"
+      },
+      {
+        "name": "Thuốc bôi ngoài da",
+        "slug": "/thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da"
+      }
+    ],
+    "content": {
+      "sku": "00006704",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Thuốc 7 màu Silkron 10 g chỉ dùng ngoài da.</p><h3><strong>Liều dùng</strong></h3><p>Thoa một lượng vừa đủ vào vùng da bị ảnh hưởng ngày 2 lần vào buổi sáng và buổi tối.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tuỳ&nbsp;thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Triệu chứng quá liều Silkron chưa rõ. Tuy nhiên, nếu nghi ngờ quá liều, khẩn trương đến các cơ sở y tế.</p><p><i>Xử trí</i></p><p>Tích cực theo dõi để có biện pháp xử trí kịp thời.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu bạn quên một liều thuốc 7 màu, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<p>Tờ hướng dẫn sử dụng thuốc Silkron 10g.</p>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Silkron 10g bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p>Đã có báo cáo các tác dụng không mong muốn như sau: Nhiễm virus hoặc nhiễm khuẩn (đặc biệt khi dùng băng ép). Viêm nang lông, nổi nhọt, kích ứng da, cảm giác châm chích, kích thích da, cảm giác bỏng rát, phát ban, đỏ da, nóng bừng, ngứa, khô da, viêm da có mủ, viêm gia tiếp xúc dị ứng, đổ mồ hôi, vết thương trầm trọng hơn, loét, mụn mủ do steroid, phản ứng da do steroid, mụn do steroid, viêm da quanh miệng, thay đổi hình dạng vảy cá trên da, rậm lông, tăng sắc tố do ức chế trục vùng dưới đồi - tuyến yên - thượng thận.</p><p><a href=\"https://nhathuoclongchau.com.vn/benh/suy-than-679.html\">Suy thận</a>, giảm thính lực.</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Trong bao bì kín, nơi khô, tránh ánh sáng, nhiệt độ không quá 30<sup>o</sup>C.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc 7 màu <a href=\"https://nhathuoclongchau.com.vn/thuoc/silkron-10g-2259.html\">Silkron</a> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Điều trị nhiễm khuẩn hoặc nhiễm nấm, hoặc <a href=\"https://nhathuoclongchau.com.vn/bai-viet/can-trong-da-nhiem-corticoid-nhan-biet-dau-hieu-va-cach-phuc-hoi.html\">các bệnh ở da do corticoid</a> có liên quan đến nhiễm khuẩn như: Viêm da dị ứng, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-da-do-tiep-xuc-538.html\">viêm da tiếp xúc</a>, viêm da cơ địa, viêm da tiết bã, <a href=\"https://nhathuoclongchau.com.vn/benh/cham-516.html\">chàm</a>, hăm, viêm da tróc vẩy và lichen đơn mãn tính (viêm da thần kinh).</li></ul><h3><strong>Dược lực học</strong></h3><p><strong>Nhóm dược lý:</strong></p><p><strong>Nhóm dược lý: Corticosteroid hoạt tính mạnh kết hợp với kháng sinh; betamethasone và kháng sinh.</strong></p><p><strong>Mã ATC: D07CC01.</strong></p><p>Thuốc chứa betamethason dipropionat, một glucocorticoid thể hiện rõ đặc tính chung của corticosteroid; clotrimazol là một chất kháng nấm nhóm imidazol; gentamicin sulfat là một kháng sinh nhóm aminoglycosid.</p><p>Corticoid dùng tại chỗ hữu hiệu trong việc điều trị các bệnh về da vì tác động co mạch và chống ngứa, kháng viêm.&nbsp;</p><p>Clotrimazol là thuốc kháng nấm phổ rộng được dùng để điều trị các bệnh ngoài da do nhiễm các loại nấm gây bệnh khác nhau, clotrimazol cũng có tác dụng trên Trichomonas, Staphylococci và Bacteroides.</p><p>Gentamicin sulfat là một kháng sinh thuộc nhóm aminoglycosid có tác dụng diệt khuẩn chống lại nhiều vi khuẩn gram âm và một số chủng staphylococci.</p><h3>Dược động học</h3><p>Thuốc được dùng tại chỗ để điều trị các bệnh về da. Vì vậy, có rất ít dữ liệu về dược động học liên quan đến sinh khả dụng tại vị trí tác động.</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/clotrimazole\">Clotrimazol</a> thấm vào biểu bì sau khi dùng bôi tại chỗ nhưng rất ít hấp thu toàn thân, nếu có. Mức độ hấp thu qua da của corticoid dùng tại chỗ được xác định qua các yếu tố như tá dược, tình trạng da và sử dụng băng kín.</p><p>Corticosteroid dùng tại chỗ được hấp thu toàn thân, gắn kết protein huyết tương chuyển hóa ờ gan và bài tiết ở thận. Một số corticoid và chất chuyển hóa của chúng được bài tiết qua mật. Betamethason dùng tại chỗ cũng có thể hấp thu toàn thân, đặc biệt khi băng rịt hoặc có vết thương ngoài da.&nbsp;</p><p>Đã có báo cáo gentamicin và các aminoglycosid khác được hấp thu toàn thân sau khi thoa lên vùng da bị tróc, bỏng.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3><strong>Chống chỉ định</strong></h3><p>Thuốc Silkron chống chỉ định trong các trường hợp sau:</p><ul><li>Người nhiễm trùng da do nhiễm vi khuẩn (lao da, <a href=\"https://nhathuoclongchau.com.vn/benh/giang-mai-585.html\">giang mai</a>,...), nấm (nhiễm candida, giun tròn, ...), virus (giời leo, rộp da, thủy đậu, đậu mùa,...) và côn trùng (ghẻ ngứa, chí rận,...) (triệu chứng có thể xấu đi).</li><li>Người có tiền sử mẫn cảm với thuốc này hoặc các thành phần của thuốc.</li><li>Eczema tai ngoài có thủng màng nhỉ.</li><li>Loét da (ngoại trừ bệnh Behcet), phỏng mức độ 2 trở lên (việc chữa trị có thể bị trì hoãn đợi tái tạo da).</li><li>Viêm da quanh miệng, mụn nói chung và mụn trứng cá.</li><li>Mẫn cảm với nhóm aminoglycosid (Streptomycin, Kanamycin, Gentamicin, Neomycin,...) hoặc kháng sinh.&nbsp;</li><li>Bệnh nhân có tiền sử&nbsp;quá mẫn với imidazole.</li></ul><h3><strong>Thận trọng khi sử dụng</strong></h3><p>Corticoid dùng tại chỗ hấp thu toàn thân có thể gây ức chế vùng dưới đồi - tuyến yên - thận có hồi phục, hội chứng Cushing, tăng đường huyết, tiểu đường và loãng xương ở một số bệnh nhân, ở một số người dùng corticoid thoa ngoài da với diện rộng hoặc trong tình trạng băng kín, sự ức chế trục vùng dưới đồi - tuyến yên - thượng thận (HPA) phải được kiểm tra thường xuyên qua nồng độ cortisol trong máu, cortisol tự do trong nước tiểu hoặc thử nghiệm sự kích thích ACTH.</p><p>Nên tránh dùng để điều trị lâu dài, đặc biệt là băng kín vì thuốc có thể gây ra tác dụng phụ giống như dùng corticoid đường uống.</p><p>Dùng đồng thời với kháng sinh <a href=\"https://nhathuoclongchau.com.vn/thuoc/thuoc-khang-sinh-duong-toan-than/aminoglycosid\">aminoglycosid</a> toàn thân có thể gây độc tính từ việc tích lũy thuốc kháng sinh. Trừ những trường hợp đặc biệt, tránh dùng liên tục trong dài ngày và trong tình trạng băng kín. Đặc biệt lưu ý những thông tin trên đối với trẻ sơ sinh và trẻ em.</p><h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3><p>Chưa có bằng chứng về ảnh hưởng của thuốc lên khả năng lái xe, vận hành máy móc.</p><h3><strong>Thời kỳ mang thai&nbsp;</strong></h3><p>Có xảy ra dị tật ở thú vật khi dùng tại chỗ sản phẩm này.</p><p>Tính an toàn của thuốc cho phụ nữ mang thai chưa được thiết lập, vì vậy, không nên dùng cho phụ nữ mang thai hoặc người có khả năng có thai.</p><h3><strong>Thời kỳ cho con bú</strong></h3><p>Chưa có báo cáo corticoid dùng ngoài da có vào sữa mẹ hay không, nhưng corticoid dùng uống thì có vào sữa mẹ. Thận trọng sử dụng cho phụ nữ đang cho con bú.</p><h3><strong>Tương tác thuốc</strong></h3><p>Chưa có báo cáo.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Ngô Kim Thúy",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp loại giỏi trường Đại học Y Dược Huế. Từng tham gia nghiên cứu khoa học đề tài về Dược liệu. Nhiều năm kinh nghiệm làm việc trong lĩnh vực Dược phẩm. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-ngo-kim-thuy",
+        "isLegit": true,
+        "id": 9,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Nguyen_Kim_Thuy_ea92026f36.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc 7 màu Silkron trị ngứa, nấm da hiệu quả  (Tuýp 10g)",
+        "metaDescription": "Silkron là thuốc gì? Silkron còn được biết đến với tên gọi là thuốc 7 màu, điều trị nhiễm khuẩn hoặc nhiễm nấm, hoặc các bệnh ở da do corticoid,...",
+        "id": 3062,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_1_59ea24d6cd.png",
+              "alternativeText": ""
+            },
+            "title": "Kem bôi da SILKRON Dongkwang điều trị nhiễm khuẩn, nhiễm nấm (10g)",
+            "description": "Thuốc 7 màu Silkron 10g điều trị nhiễm khuẩn hoặc nhiễm nấm, hoặc các bệnh ở da do corticoid có liên quan đến nhiễm khuẩn như: Viêm da dị ứng, viêm da tiếp xúc, viêm da cơ địa, viêm da tiết bã, chàm, hăm, viêm da tróc vẩy và lichen đơn mãn tính (viêm da thần kinh)."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 11361,
+        "title": "Thuốc bảy màu Silkron được sử dụng để điều trị những bệnh gì?",
+        "content": "<p>Thuốc Silkron được chỉ định dùng trong các trường hợp sau: Điều trị nhiễm khuẩn hoặc nhiễm nấm, hoặc các bệnh ở da do corticoid có liên quan đến nhiễm khuẩn như: <a href=\"https://nhathuoclongchau.com.vn/benh/viem-da-di-ung-1187.html\">Viêm da dị ứng</a>, viêm da tiếp xúc, viêm da cơ địa, viêm da tiết bã, chàm, hăm, viêm da tróc vẩy và lichen đơn mãn tính (viêm da thần kinh).</p>"
+      },
+      {
+        "id": 11362,
+        "title": "Nên sử dụng thuốc bảy màu Silkron như thế nào cho an toàn và hiệu quả?",
+        "content": "<p>Dùng 1 lượng kem vừa đủ thoa nhẹ nhàng lên vùng da bị bệnh 2 lần/ngày, sáng và tối. Nên thoa thuốc đều đặn.</p>"
+      },
+      {
+        "id": 11363,
+        "title": "Dùng thuốc bảy màu Silkron trị mụn trứng cá được không?",
+        "content": "<p>Thuốc Silkron chống chỉ định trong trường hợp mụn nói chung và <a href=\"https://nhathuoclongchau.com.vn/benh/mun-trung-ca-529.html\">mụn trứng cá</a>. Không dùng thuốc bảy màu Silkron trị mụn trứng cá.</p>"
+      },
+      {
+        "id": 11365,
+        "title": "Bệnh nhân thủy đậu, đậu mùa dùng thuốc bảy màu Silkron được không?",
+        "content": "<p>Thuốc Silkron chống chỉ định trong các trường hợp: Nhiễm trùng da do nhiễm vi khuẩn (lao da, giang mai,...), nấm (nhiễm candida, giun tròn, ...), virus (giời leo, rộp da, <a href=\"https://nhathuoclongchau.com.vn/benh/thuy-dau-591.html\">thủy đậu</a>, đậu mùa,...) và côn trùng (ghẻ ngứa, chí rận,...) (triệu chứng có thể xấu đi). Bệnh nhân thủy đậu, đậu mùa không được dùng thuốc bảy màu Silkron.</p>"
+      },
+      {
+        "id": 11364,
+        "title": "Phụ nữ mang thai có dùng thuốc bảy màu Silkron được không?",
+        "content": "<p>Tính an toàn của thuốc bảy màu Silkron cho phụ nữ mang thai chưa được thiết lập, vì vậy, không nên dùng cho phụ nữ mang thai hoặc người có khả năng có thai.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00502568",
+        "name": "KETOCONAZOL 2% MEDIPHARCO 10G",
+        "webName": "Kem bôi da Ketoconazol 2% Medipharco điều trị các bệnh nấm da và niêm mạc (10g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4407_3c1526a388.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 33,
+            "name": "Thuốc da liễu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-da-lieu",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 370,
+            "name": "Thuốc bôi ngoài da",
+            "parentName": "Thuốc da liễu",
+            "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 52626,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 11000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/ketoconazol-2-medipharco-10g-36827.html",
+        "ingredients": "Ketoconazol 20mg",
+        "dosageForm": "Kem",
+        "brand": "Medipharco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp x 10g",
+        "prices": [
+          {
+            "id": 52626,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 11000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500237",
+        "name": "PROMETHAZIN CREAM 2% MEDIPHARCO 10G",
+        "webName": "Kem bôi da Promethazin 2% Medipharco điều trị ngứa sẩn, mày đay, côn trùng đốt (1 tuýp x 10g) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500237_kem_boi_da_promethazin_10g_2303_63bb_large_511e9c072e.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 33,
+            "name": "Thuốc da liễu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-da-lieu",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 370,
+            "name": "Thuốc bôi ngoài da",
+            "parentName": "Thuốc da liễu",
+            "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48095,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 11000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/kem-boi-da-promethazin-10g-34359.html",
+        "ingredients": "Promethazine 100mg",
+        "dosageForm": "Kem",
+        "brand": "Medipharco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 1 Tuýp x 10g",
+        "prices": [
+          {
+            "id": 48095,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 11000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00033149",
+        "name": "LIFEDOVATE CREAM 0.05% HADIPHAR 10G",
+        "webName": "Kem bôi da Lifedovate Cream 0,05% Hadiphar điều trị các vết long eczema, viêm da (10g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4498_cfb40bbebc.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 33,
+            "name": "Thuốc da liễu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-da-lieu",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 370,
+            "name": "Thuốc bôi ngoài da",
+            "parentName": "Thuốc da liễu",
+            "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 46577,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 35000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/lifedovate-cream-kem-boi-tram-viem-da-10gam-hadiphar-33265.html",
+        "ingredients": "Clobetasone butyrate 0.05% (kl/kl)",
+        "dosageForm": "Kem bôi da",
+        "brand": "Hadiphar",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Tuýp x 10g",
+        "prices": [
+          {
+            "id": 46577,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 35000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00032608",
+        "name": "BIROXIME CREAM 1% Y-MED 20G",
+        "webName": "Thuốc bôi ngoài da Biroxime 1% điều trị nấm da chân, nấm kẽ (20g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00032608_biroxim_cream_1_y_med_20g_4075_6283_large_5d36a897b0.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 33,
+            "name": "Thuốc da liễu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-da-lieu",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 370,
+            "name": "Thuốc bôi ngoài da",
+            "parentName": "Thuốc da liễu",
+            "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 44716,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 28000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/biroxim-cream-1-y-med-20g-32734.html",
+        "ingredients": "Clotrimazol 10mg",
+        "dosageForm": "Kem",
+        "brand": "Agio",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Tuýp x 20g",
+        "prices": [
+          {
+            "id": 44716,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 28000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 249,
+          "attributeName": "Ấn Độ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/in_India_090039de61.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00050986",
+        "name": "NIZORAL CREAM STADA 15G",
+        "webName": "Kem Nizoral Stada 20mg/g điều trị nhiễm nấm ngoài da (15g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/Kem_Nizoral_20mg_g_Stada_1_a4e290ce1e.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 33,
+            "name": "Thuốc da liễu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-da-lieu",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 370,
+            "name": "Thuốc bôi ngoài da",
+            "parentName": "Thuốc da liễu",
+            "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 80665,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 78750,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/nizoral-cream-stada-15-g.html",
+        "ingredients": "Ketoconazole 20mg",
+        "dosageForm": "Kem",
+        "brand": "Stada",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp x 15g",
+        "prices": [
+          {
+            "id": 80665,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 78750,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00502269",
+        "name": "KEM BÔI DA TRỊ NẤM CICLOPIROX 0.77% VCP TUÝP 15G",
+        "webName": "Kem bôi da Ciclopirox 0,77% VCP điều trị nấm da chân, nấm da đùi và nấm da toàn thân (15g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03119_a9324fd2e6.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 33,
+            "name": "Thuốc da liễu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-da-lieu",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 370,
+            "name": "Thuốc bôi ngoài da",
+            "parentName": "Thuốc da liễu",
+            "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 52011,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 50000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/kem-boi-da-tri-nam-ciclopirox-077-vcp-tuyp-15g-36519.html",
+        "ingredients": "Ciclopirox olamin 10mg",
+        "dosageForm": "Dạng kem",
+        "brand": "Vcp",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp X 15g",
+        "prices": [
+          {
+            "id": 52011,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 50000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00502000",
+        "name": "BUNPIL 150MG APROGEN 15G",
+        "webName": "Kem bôi ngoài da Bunpil 10mg Aprogen điều trị nấm da, lang ben (15g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/15_9c148d250c.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 33,
+            "name": "Thuốc da liễu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-da-lieu",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 370,
+            "name": "Thuốc bôi ngoài da",
+            "parentName": "Thuốc da liễu",
+            "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 51496,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 88000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bunpil-10mg-aprogen-15g-36212.html",
+        "ingredients": "Terbinafine HCL 10mg",
+        "dosageForm": "Kem",
+        "brand": "Aprogen",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp x 15g",
+        "prices": [
+          {
+            "id": 51496,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 88000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 257,
+          "attributeName": "Hàn Quốc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Han_Quoc_760f524a89.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500679",
+        "name": "HỒ NƯỚC HDPHARMA 20G",
+        "webName": "Hỗn dịch dùng ngoài Hồ Nước 20g HDPharma điều trị viêm da, làm dịu da và điều trị hỗ trợ chàm eczema",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/honuoc_c29d20ae89.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 33,
+            "name": "Thuốc da liễu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-da-lieu",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 370,
+            "name": "Thuốc bôi ngoài da",
+            "parentName": "Thuốc da liễu",
+            "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48966,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 4500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/ho-nuoc-hdpharma-20g-34790.html",
+        "ingredients": "Talc 3g, Kẽm oxyd 3g",
+        "dosageForm": "Hỗn dịch",
+        "brand": "Hải Dương",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 20g",
+        "prices": [
+          {
+            "id": 48966,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 4500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009764",
+        "name": "NADYROSA NADYPHAR 50G",
+        "webName": "Phấn thoa da NadyRosa Nadyphar hỗ trợ điều trị rôm sảy, ngứa, sần đỏ da (50g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009764_nadyrosa_50g_2684_5b30_large_07901dfde4.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 33,
+            "name": "Thuốc da liễu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-da-lieu",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 370,
+            "name": "Thuốc bôi ngoài da",
+            "parentName": "Thuốc da liễu",
+            "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 13043,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 29530,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/nadyrosa-50g-653.html",
+        "ingredients": "Kẽm oxyd 0.5g, Acid Boric 0.1g, Titan dioxit 0.3g",
+        "dosageForm": "Dạng bột",
+        "brand": "Nadyphar",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 50g",
+        "prices": [
+          {
+            "id": 13043,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 29530,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00011158",
+        "name": "NADY ROSA NADYPHAR 80G",
+        "webName": "Phấn thoa da NadyRosa Nadyphar làm mát da, trị rôm sảy, ngứa, sần đỏ da (80g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00011158_nady_rosa_80g_8460_5b02_large_f23f97306a.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 33,
+            "name": "Thuốc da liễu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-da-lieu",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 370,
+            "name": "Thuốc bôi ngoài da",
+            "parentName": "Thuốc da liễu",
+            "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 15436,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 45000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/nady-rosa-80g-1140.html",
+        "ingredients": "Titan dioxit 0.3g, Axit boric 0.1g, Kẽm oxyd 0.5g",
+        "dosageForm": "Dạng bột",
+        "brand": "Nadyphar",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 80g",
+        "prices": [
+          {
+            "id": 15436,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 45000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007593",
+        "name": "TYROSUR ENGELHARD 5G",
+        "webName": "Gel bôi ngoài da Tyrosur Engelhard điều trị và phòng ngừa nhiễm khuẩn (5g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/12_988fab9f02.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 33,
+            "name": "Thuốc da liễu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-da-lieu",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 370,
+            "name": "Thuốc bôi ngoài da",
+            "parentName": "Thuốc da liễu",
+            "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11107,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 76000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tyrosur-1898.html",
+        "ingredients": "Tyrothricin 1mg/g",
+        "dosageForm": "Gel",
+        "brand": "Engelhard",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp x 5g",
+        "prices": [
+          {
+            "id": 11107,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 76000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007255",
+        "name": "TERBINAFINE CREAM 1% STELLA 10G",
+        "webName": "Kem bôi da Terbinafine Stella Cream 1% (10g) điều trị nhiễm nấm ở da, lang ben",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007255_terbinafin_stada_cream_1_2491_61dc_large_45b4cc8239.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 33,
+            "name": "Thuốc da liễu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-da-lieu",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 370,
+            "name": "Thuốc bôi ngoài da",
+            "parentName": "Thuốc da liễu",
+            "slug": "thuoc/thuoc-da-lieu/thuoc-boi-ngoai-da",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10583,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 15000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/terbinafin-stada-cream-1-2029.html",
+        "ingredients": "Terbinafine hydrochloride 100mg",
+        "dosageForm": "Kem",
+        "brand": "Stella Pharm",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp X 10g",
+        "prices": [
+          {
+            "id": 10583,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 15000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 159,
+      "items": [
+        {
+          "id": 3367572,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0939xxxxxx",
+          "name": "Chị Trâm",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá bao nhiêu shop",
+          "createdAt": "2026-09-03 08:02:34",
+          "createdAtDisplay": "2 ngày trước",
+          "updatedAt": "2026-09-03 08:02:34",
+          "replies": [
+            {
+              "id": 3367581,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Minh Tiến",
+                "moderatorEmail": "tiennm50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Minh Tiến",
+              "email": "tiennm50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Trâm.</p><p>Hiện tại, sản phẩm Kem bôi da SILKRON có giá 21,000 ₫/tuýt. </p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-09-03 08:21:21",
+              "createdAtDisplay": "2 ngày trước",
+              "updatedAt": "2026-09-03 08:02:34",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3359125,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0337xxxxxx",
+          "name": "0337xxxxxx",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mới phá mụt ruồi mình sức thuốc này có lành sẹo đc kh ạ",
+          "createdAt": "2026-08-17 18:34:33",
+          "createdAtDisplay": "18 ngày trước",
+          "updatedAt": "2026-08-17 18:34:33",
+          "replies": [
+            {
+              "id": 3359131,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Ngọc Bình Giao",
+                "moderatorEmail": "giaonnb@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Ngọc Bình Giao",
+              "email": "giaonnb@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý khách,</p><p>Dạ Kem bôi da SILKRON Dongkwang điều trị nhiễm khuẩn, nhiễm nấm (10g) chưa có công dụng điều trị sẹo ạ.</p><p>Nhà thuốc thông tin đến Quý khách ạ.</p>",
+              "createdAt": "2026-08-17 18:40:38",
+              "createdAtDisplay": "18 ngày trước",
+              "updatedAt": "2026-08-17 18:34:33",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3356938,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0907xxxxxx",
+          "name": "Lý Công Minh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mình đặt hàng online được không?",
+          "createdAt": "2026-08-13 16:52:32",
+          "createdAtDisplay": "23 ngày trước",
+          "updatedAt": "2026-08-13 16:52:32",
+          "replies": [
+            {
+              "id": 3356943,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phạm Thị Kiều Anh",
+                "moderatorEmail": "anhptk10@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phạm Thị Kiều Anh",
+              "email": "anhptk10@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p><em>Chào Anh Mình ạ, </em></p><p><em>Hiện tại, sản phẩm </em>Kem bôi da SILKRON Dongkwang <em>có giá 21.000đ/tuýp ạ.</em></p><p><em>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"ứng dụng Long Châu/ZALO OA Nhà thuốc FPT Long Châu\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</em></p>",
+              "createdAt": "2026-08-13 16:58:02",
+              "createdAtDisplay": "23 ngày trước",
+              "updatedAt": "2026-08-13 16:52:32",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3355935,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0906xxxxxx",
+          "name": "Chị Oanh",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá ",
+          "createdAt": "2026-08-11 20:41:01",
+          "createdAtDisplay": "24 ngày trước",
+          "updatedAt": "2026-08-11 20:41:01",
+          "replies": [
+            {
+              "id": 3355936,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Tú Chi",
+                "moderatorEmail": "chintt3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Tú Chi",
+              "email": "chintt3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị ,</p><p>Hiện tại, sản phẩm Kem bôi da SILKRON Dongkwang điều trị nhiễm khuẩn, nhiễm nấm (10g) có giá 21,000 đ/ Tuýp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu</a></u>/<u><a href=\"https://oa.zalo.me/nhathuocfptlongchau\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-08-11 20:42:18",
+              "createdAtDisplay": "24 ngày trước",
+              "updatedAt": "2026-08-11 20:41:01",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3342942,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0389xxxxxx",
+          "name": "Kim huong",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Về quê bị muỗi đốt sứt dầu không hết càng c giải ngứa thì thành ghẻ sữ dụng đc khong",
+          "createdAt": "2026-07-20 17:06:28",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-20 17:06:29",
+          "replies": [
+            {
+              "id": 3342943,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Tiến Bắc",
+                "moderatorEmail": "bacnt16@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Tiến Bắc",
+              "email": "bacnt16@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Huong,</p><p>Để tư vấn đúng và phù hợp nhất với tình trạng của chị, tư vấn viên Long Châu sẽ sớm liên hệ qua số điện thoại chị đã cung cấp để trao đổi kỹ hơn ạ.</p><p><br></p>",
+              "createdAt": "2026-07-20 17:08:32",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-20 17:06:29",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 26,
+      "items": [
+        {
+          "id": 3344535,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0967xxxxxx",
+          "name": "a nhật",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "có dùng được cho Lichen đơn mãn tính không ạ",
+          "createdAt": "2026-07-23 11:52:23",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-23 11:52:23",
+          "replies": [
+            {
+              "id": 3344538,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Ngọc Diệu Tuyền",
+                "moderatorEmail": "tuyennnd2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Ngọc Diệu Tuyền",
+              "email": "tuyennnd2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Nhật,</p><p>Dạ sản phẩm điều trị nhiễm khuẩn hoặc nhiễm nấm, hoặc các bệnh ở da do corticoid có liên quan đến nhiễm khuẩn&nbsp;trong đó có lichen đơn mãn tính (viêm da thần kinh) ạ.</p><p>Nhà thuốc thông tin tới anh.</p><p><br></p>",
+              "createdAt": "2026-07-23 11:55:42",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-23 11:52:23",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3314466,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0359xxxxxx",
+          "name": "Nguyễn Thị Diễm Hương",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-05-29 09:37:00",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-29 09:37:00",
+          "replies": [
+            {
+              "id": 3314469,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Bích Diệp",
+                "moderatorEmail": "diepnb6@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Bích Diệp",
+              "email": "diepnb6@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hương,</p><p> Dạ nhà thuốc FPT Long Châu rất cảm ơn chị luôn tin tưởng và ủng hộ. Chúc chị nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-05-29 09:41:25",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-29 09:37:00",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3298382,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0365xxxxxx",
+          "name": "anh Khang",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-04-29 11:39:50",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-29 11:39:50",
+          "replies": [
+            {
+              "id": 3298383,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thanh Hoà",
+                "moderatorEmail": "hoantt53@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thanh Hoà",
+              "email": "hoantt53@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Khang,</p><p>Dạ nhà thuốc FPT Long Châu rất cảm ơn anh luôn tin tưởng và ủng hộ. Chúc anh nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-04-29 11:41:48",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-29 11:39:50",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3284435,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0385xxxxxx",
+          "name": "EM DIỆU",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bnhiu 1túyp thế ạ",
+          "createdAt": "2026-04-02 22:54:51",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-04-02 22:54:51",
+          "replies": [
+            {
+              "id": 3284473,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Văn Tâm",
+                "moderatorEmail": "tamtv19@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Văn Tâm",
+              "email": "tamtv19@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Diệu,</p><p>Hiện tại, sản phẩm Kem bôi da SILKRON Dongkwang điều trị nhiễm khuẩn, nhiễm nấm (10g) có giá 21,000 đ/ Tuýp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\"> ứng dụng Long Châu</a></u>/<u><a href=\"https://oa.zalo.me/nhathuocfptlongchau\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-04-03 08:10:39",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-04-02 22:54:51",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3243521,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0812xxxxxx",
+          "name": "chi như ",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "be 3 t thoa duoc ko ạ",
+          "createdAt": "2026-01-10 21:19:17",
+          "createdAtDisplay": "7 tháng trước",
+          "updatedAt": "2026-01-10 21:19:17",
+          "replies": [
+            {
+              "id": 3243529,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Lê Hải Bình",
+                "moderatorEmail": "binhtlh@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Lê Hải Bình",
+              "email": "binhtlh@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Như,</p><p>Dạ sản phẩm là thuốc kê đơn, chị nên tham khảo ý kiến bác sĩ trước khi dùng ạ</p><p>Nhà thuốc xin phép thông tin đến chị ạ.</p>",
+              "createdAt": "2026-01-10 21:44:31",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-01-10 21:19:17",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 4.9,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 1,
+        "totalLv5": 25
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Kem bôi da SILKRON Dongkwang điều trị nhiễm khuẩn, nhiễm nấm (10g)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_1_59ea24d6cd.png",
+          "alternativeText": ""
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_1_2f17f3c052.gif",
+          "alternativeText": ""
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_2_004cfa2125.png",
+          "alternativeText": ""
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_3_f6e24124aa.png",
+          "alternativeText": ""
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_4_082486ac39.png",
+          "alternativeText": ""
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_5_84255a80d8.png",
+          "alternativeText": ""
+        }
+      ],
+      "description": "Thuốc 7 màu Silkron 10g điều trị nhiễm khuẩn hoặc nhiễm nấm, hoặc các bệnh ở da do corticoid có liên quan đến nhiễm khuẩn như: Viêm da dị ứng, viêm da tiếp xúc, viêm da cơ địa, viêm da tiết bã, chàm, hăm, viêm da tróc vẩy và lichen đơn mãn tính (viêm da thần kinh).",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.9",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ngô Kim Thúy"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "26"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc 7 màu Silkron trị ngứa, nấm da hiệu quả  (Tuýp 10g)",
+      "description": "Silkron là thuốc gì? Silkron còn được biết đến với tên gọi là thuốc 7 màu, điều trị nhiễm khuẩn hoặc nhiễm nấm, hoặc các bệnh ở da do corticoid,...",
+      "openGraph": {
+        "title": "Kem bôi da SILKRON Dongkwang điều trị nhiễm khuẩn, nhiễm nấm (10g)",
+        "description": "Thuốc 7 màu Silkron 10g điều trị nhiễm khuẩn hoặc nhiễm nấm, hoặc các bệnh ở da do corticoid có liên quan đến nhiễm khuẩn như: Viêm da dị ứng, viêm da tiếp xúc, viêm da cơ địa, viêm da tiết bã, chàm, hăm, viêm da tróc vẩy và lichen đơn mãn tính (viêm da thần kinh).",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/kem_boi_da_silkron_dongkwang_10g_00006704_1_59ea24d6cd.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/silkron-10g-2259.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/silkron-10g-2259.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

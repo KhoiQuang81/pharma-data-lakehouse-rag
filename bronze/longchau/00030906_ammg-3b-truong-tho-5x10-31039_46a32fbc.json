@@ -1,0 +1,2197 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/ammg-3b-truong-tho-5x10-31039.html",
+  "ingestion_timestamp": "2026-09-05T08:31:52.363453+00:00",
+  "file_hash": "03cd3a6f4f0ebfb3786635b9efe19f701a782b6b2e7ebb6ad20c30935dd62f8e",
+  "lineage_hash": "ce467f396eede93924aaa753512b485c393253abec94e6b39b1fd99949615794",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/ammg-3b-truong-tho-5x10-31039.html",
+    "product": {
+      "sku": "00030906",
+      "webName": "Thuốc Ammg-3B Trường Thọ điều trị bệnh lý thần kinh do thiếu vitamin B1, B6, B12 (5 vỉ x 10 viên)",
+      "name": "AMMG 3B TRƯỜNG THỌ 5X10",
+      "shortName": "AMMG 3B TRƯỜNG THỌ 5X10",
+      "headingText": "Thuốc Ammg-3B",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ammg_3b_5x10_truong_tho_00030906_6d672405fc.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_8160_60b6_large_c0bbfc3eb9.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_5262_60b6_large_b5dbd07bfe.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_7572_60b6_large_b6f640f719.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_4406_60b6_large_5ed77e2538.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_1340_60b6_large_e6b5220c67.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_2285_60d2_large_f6d028bc13.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_1624437063_f254d627cd.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 727,
+          "name": "Thuốc bổ & vitamin",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-bo-and-vitamin",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 752,
+          "name": "Thuốc bổ",
+          "parentName": "Thuốc bổ & vitamin",
+          "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 5 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "5 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/ammg-3b-truong-tho-5x10-31039.html",
+      "ingredient": [
+        {
+          "id": 228,
+          "ingredientId": 40316,
+          "shortDescription": "100mg",
+          "name": "Vitamin B1",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b1"
+        },
+        {
+          "id": 229,
+          "ingredientId": 40333,
+          "shortDescription": "200mg",
+          "name": "Vitamin B6",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 230,
+          "ingredientId": 40318,
+          "shortDescription": "200Mcg",
+          "name": "Vitamin B12",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b12"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893110210024",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén bao đường",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Dùng đường uống.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Dùng 1 – 3 viên/ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Vitamin B dư thừa được bài tiết dễ dàng nên không có vấn đề nghiêm trọng khi dùng quá liều.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/ammg-3b-truong-tho-5x10-31039.html\">Thuốc AMMG-3B</a> được chỉ định dùng trong các trường hợp sau điều trị những bệnh lý thần kinh gây ra do thiếu hụt vitamin B1, B6, B12. </p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><em>Thiamin nitrat (vitamin B1):</em></p>\n\n<p>Thiamin thực tế không có tác dụng dược lý, thậm chí ở liều cao. Thiamin kết hợp với Adenosin triphosphat (ATP) trong gan, thận và bạch cầu tạo thành dạng thiamin diphosphat (thiamin pyrophosphate) có hoạt tính sinh lý.</p>\n\n<p>Thiamin pyrophosphat, dạng thiamin có hoạt tính sinh lý, là coenzym chuyển hóa carbohydrat làm nhiệm vụ khử carboxyl của các alpha - cetoacid như pyruvat và alpha - cetoglutarat và trong việc sử dụng pentose trong chu trình hexose monophosphat.</p>\n\n<p>Lượng thiamin ăn vào hàng ngày cần 0,9 - 1,5mg cho nam và 0,8 - 1,1mg cho nữ khoẻ mạnh. Nhu cầu thiamin có liên quan trực tiếp với lượng dùng carbohydrat và tốc độ chuyển hóa. Điều này có ý nghĩa thực tiễn trong nuôi dưỡng người bệnh bằng đường tĩnh mạch và ở người bệnh có nguồn năng lượng calo lấy chủ yếu từ dextrose (glucose).</p>\n\n<p>Khi thiếu hụt thiamin, sự oxy hóa các alpha - cetoacid bị ảnh hưởng, làm cho nồng độ pyruvat trong máu tăng lên, giúp chẩn đoán tình trạng thiếu thiamin.</p>\n\n<p>Thiếu hụt thiamin sẽ gây ra beriberi (bệnh tê phù). Thiếu hụt nhẹ biểu hiện trên hệ thần kinh (beriberi khô) như viêm dây thần kinh ngoại biên, rối loạn cảm giác các chi, có thể tăng hoặc mất cảm giác. Trương lực cơ giảm dần và có thể gây ra chứng bại chi hoặc liệt một chi nào đó.</p>\n\n<p>Thiếu hụt trầm trọng gây rối loạn nhân cách, trầm cảm, thiếu sáng kiến và trí nhớ kém như trong bệnh não Wernicke và nếu điều trị muộn gây loạn tâm thần Korsakoff.</p>\n\n<p>Các triệu chứng tim mạch do thiếu hụt thiamin bao gồm <a href=\"https://nhathuoclongchau.com.vn/benh/kho-tho-700.html\">khó thở</a> khi gắng sức, đánh trống ngực, nhịp tim nhanh và các rối loạn khác trên tim được biểu hiện bằng những thay đổi ĐTĐ (chủ yếu sóng R thấp, sóng T đảo ngược và kéo dài đoạn 2 - T) và bằng suy tim có cung lượng tim cao. Sự suy tim như vậy được gọi là beriberi ướt, phù tăng mạnh là do hậu quả của giảm protein huyết nếu dùng không đủ protein, hoặc của bệnh gan kết hợp với suy chức năng tâm thất.</p>\n\n<p>Thiếu hụt thiamin có thể xảy ra do nhiều nguyên nhân:</p>\n\n<ul>\n\t<li>\n\t<p>Tuy có sẵn trong thực phẩm nhưng do kém bền với nhiệt độ và ánh sáng nên quá trình bảo quản, chế biến không đúng sẽ làm giảm nhanh hàm lượng vitamin này.</p>\n\t</li>\n\t<li>\n\t<p>Do nhu cầu tăng, nhưng cung cấp không đủ: Tuổi dậy thì, có thai, cho con bú, ốm nặng, nghiện rượu, nuôi dưỡng qua đường tĩnh mạch.</p>\n\t</li>\n\t<li>\n\t<p>Do giảm hấp thu: <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">Tiêu chảy</a> kéo dài, người cao tuổi.</p>\n\t</li>\n\t<li>\n\t<p>Do mất nhiều vitamin này khi thẩm phân phúc mạc, thẩm phân thận nhân tạo.</p>\n\t</li>\n</ul>\n\n<p><em>Pyridoxin hydroclorid (vitamin B6):</em></p>\n\n<p>Vitamin B6 tồn tại dưới 3 dạng: Pyridoxal, pyridoxin và pyridoxamin, khi vào cơ thể người biến đổi thành pyridoxal phosphat và một phần thành pyridoxamin phosphat. Hai chất này hoạt động như những coenzym trong chuyển hóa protein, glucid và lipid.</p>\n\n<p>Pyridoxin tham gia tổng hợp acid gamma - aminobutyric (GABA) trong hệ thần kinh trung ương và tham gia tổng hợp hemoglobulin. Pyridoxin được hấp thu nhanh chóng qua đường tiêu hóa, trừ trường hợp mắc các hội chứng kém hấp thu.</p>\n\n<p>Sau khi tiêm hoặc uống, thuốc phần lớn dự trữ ở gan và một phần ở cơ và não. Pyridoxin thải trừ chủ yếu qua thận dưới dạng chuyển hóa. Lượng đưa vào, nếu vượt quá nhu cầu hàng ngày, phần lớn đào thải dưới dạng không biến đổi.</p>\n\n<p>Nhu cầu hàng ngày cho trẻ em là 0,3 - 2mg, người lớn khoảng 1,6 - 2mg và người mang thai hoặc cho con bú là 2,1 - 2,2mg. Hiếm gặp tình trạng thiếu hụt vitamin B6 người, nhưng có thể xảy ra trong trường hợp rối loạn hấp thu, rối loạn chuyển hóa bẩm sinh hoặc rối loạn do thuốc gây nên.</p>\n\n<p>Với người bệnh điều trị bằng isoniazid hoặc phụ nữ uống thuốc tránh thai, nhu cầu vitamin B6 hàng ngày nhiều hơn bình thường.</p>\n\n<p>Nhiều thuốc tác dụng như các chất đối kháng pyridoxin: <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/isoniazid\">Isoniazid</a>, cycloserin, penicilamin, hydralazin và các chất có nhóm carbonyl khác có thể kết hợp với vitamin B6 và ức chế chức năng coenzym của vitamin này.</p>\n\n<p>Pyridoxin được dùng để điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/co-giat-765.html\">co giật </a>và/hoặc hôn mê do ngộ độc isoniazid. Những triệu chứng này được xem là do giảm nồng độ GABA trong hệ thần kinh trung ương, có lẽ do isoniazid ức chế hoạt động của pyridoxal - 5 - phosphat trong não.</p>\n\n<p>Pyridoxin cũng được dùng làm thuốc hỗ trợ cho các biện pháp khác trong việc điều trị ngộ độc cấp do nấm thuộc chi Gyromitra nhằm trị các tác dụng trên thần kinh (như co giật, hôn mê) của chất methylhydrazin, được thủy phân từ độc tố gyrometrin có trong các nấm này.</p>\n\n<p><em>Cyanocobalamin (vitamin B12):</em></p>\n\n<p>Hai dạng vitamin B12, cyanocobalamin và hydroxocobalamin đều có tác dụng tạo máu. Trong cơ thể người, các cobalamin này tạo thành các coenzym hoạt động là methylcobalamin và 5 deoxyadenosycobalamin rất cần thiết cho tế bào sao chép và tăng trưởng.</p>\n\n<p>Methylcobalamin rất cần để tạo methionin và dẫn chất là S-adenosylmethionin từ homocystein.</p>\n\n<p>Ngoài ra, khi nồng độ vitamin B12 không đủ sẽ gây ra suy giảm chức năng của một số dạng acid folic cần thiết khác ở trong tế bào. Bất thường huyết học ở các người bệnh thiếu vitamin B12 là do quá trình này. 5 - deoxyadenosycobalamin rất cần cho sự đồng phân hóa, chuyển L - methylmalonyl CoA thành succinyl CoA.</p>\n\n<p>Vitamin B12 rất cần thiết cho tất cả các mô có tốc độ sinh trưởng tế bào mạnh như các mô tạo máu, ruột non, tử cung. Thiếu vitamin B12 cũng gây hủy myelin sợi thần kinh.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Thiamin nitrat:</em></p>\n\n<p>Sự hấp thu thiamin trong ăn uống hàng ngày qua đường tiêu hóa là do sự vận chuyển tích cực phụ thuộc Na+. Khi nồng độ thiamin trong đường tiêu hóa cao sự khuếch tán thụ động cũng quan trọng. Tuy vậy, hấp thu liều cao bị hạn chế.</p>\n\n<p>Sau khi tiêm bắp, thiamin cũng được hấp thu nhanh, phân bố vào đa số các mô và sữa.</p>\n\n<p>Ở người lớn, khoảng 1mg thiamin bị giáng hóa hoàn toàn mỗi ngày trong các mô, và đây chính là lượng tối thiểu cần hàng ngày. Khi hấp thu ở mức thấp này, có rất ít hoặc không thấy thiamin thải trừ qua nước tiểu. Khi hấp thu vượt quá nhu cầu tối thiểu, các kho chứa thiamin ở các mô đầu tiên được bão hòa.</p>\n\n<p>Sau đó lượng thừa sẽ thải trừ qua nước tiểu dưới dạng phân tử thiamin nguyên vẹn. Khi hấp thu thiamin tăng lên hơn nữa, thải trừ dưới dạng thiamin chưa biến hóa sẽ tăng hơn.</p>\n\n<p><em>Pyridoxin hydroclorid:</em></p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/pyridoxine\">Pyridoxin</a> được hấp thu nhanh chóng qua đường tiêu hóa, trừ trường hợp mắc các hội chứng kém hấp thu. Sau khi tiêm hoặc uống, thuốc phần lớn dự trữ ở gan và một phần ở cơ và não. Pyridoxin thải trừ chủ yếu qua thận dưới dạng chuyển hóa.</p>\n\n<p>Lượng đưa vào, nếu vượt quá nhu cầu hàng ngày, phần lớn đào thải dưới dạng không biến đổi.</p>\n\n<p><em>Cyanocobalamin:</em></p>\n\n<p>Sau khi uống, vitamin B12 được hấp thu qua ruột, chủ yếu ở hồi tràng theo hai cơ chế: Cơ chế thụ động khi lượng dùng nhiều và cơ chế tích cực, cho phép hấp thu những liều lượng sinh lý, nhưng cần phải có yếu tố nội tại là glycoprotein do tế bào thành niêm mạc dạ dày tiết ra.</p>\n\n<p>Mức độ hấp thu khoảng 1% không phụ thuộc vào liều và do đó ngày uống 1mg sẽ thỏa mãn nhu cầu hàng ngày và đủ để điều trị tất cả các dạng thiếu vitamin B12.</p>\n\n<p>Sau khi tiêm bắp, nồng độ đỉnh trong huyết tương đạt được sau 1 giờ.</p>\n\n<p>Sau khi hấp thu, vitamin B12 liên kết với transcobalamin II và được loại nhanh khỏi huyết tương để phân bố ưu tiên vào nhu mô gan.</p>\n\n<p>Gan chính là kho dự trữ vitamin B12 cho các mô khác. Khoảng 3 microgam cobalamin thải trừ vào mật mỗi ngày, trong đó 50 - 60% là các dẫn chất của cobalamin không tái hấp thu lại được.</p>\n\n<p>Hydroxocobalamin được hấp thu qua đường tiêu hóa tốt hơn, và có ái lực với các mô lớn hơn cyanocobalamin.</p>",
+      "brand": "Trường Thọ Pharma",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc AMMG-3B, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p>Tác dụng không mong muốn có thể gặp khi sử dụng Ammg 3B là: Nôn, buồn nôn.</p>\n\n<p>Khi dùng kéo dài trên 2 tháng có thể gây bệnh thần kinh ngoại vi nặng, tiến triển từ dáng đi không vững và tê cóng bàn chân đến tê cóng và vụng về bàn tay (do vitamin B6), tình trạng này có thể hồi phục khi ngừng thuốc.</p>\n\n<p>Tác dụng không mong muốn hiếm gặp (do vitamin B12):</p>\n\n<ul>\n\t<li>\n\t<p>Toàn thân: Phản ứng phản vệ, sốt, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">đau đầu</a>, hoa mắt, co thắt phế quản, phù mạch miệng - hầu.</p>\n\t</li>\n\t<li>\n\t<p>Ngoài da: Phản ứng dụng trứng cá, <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mày đay</a>, ban đỏ, ngứa.</p>\n\t</li>\n\t<li>\n\t<p>Tiêu hóa: Buồn nôn.</p>\n\t</li>\n\t<li>\n\t<p>Loạn nhịp tim thứ phát do hạ kali huyết khi bắt đầu điều trị.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 5 Vỉ x 10 Viên",
+      "indications": [
+        {
+          "id": 215,
+          "name": "Mệt mỏi",
+          "slug": "benh/met-moi-659.html"
+        },
+        {
+          "id": 217,
+          "name": "Đau đầu",
+          "slug": null
+        },
+        {
+          "id": 463,
+          "name": "Đau thần kinh tọa",
+          "slug": "benh/dau-than-kinh-toa-13.html"
+        },
+        {
+          "id": 495,
+          "name": "Đau lưng",
+          "slug": "benh/dau-lung-64.html"
+        },
+        {
+          "id": 513,
+          "name": "Đau nhức toàn thân",
+          "slug": "benh/dau-nhuc-toan-than-63.html"
+        },
+        {
+          "id": 1150,
+          "name": "Thiếu vitamin nhóm B",
+          "slug": null
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "TRƯỜNG THỌ",
+      "shortDescription": "<p>Thuốc AMMG-3B là sản phẩm của Công ty Cổ phần Dược phẩm Trường Thọ, chứa dược chất chính gồm hỗn hợp vitamin B1, vitamin B6, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/vitamin-b12\">vitamin B12</a> được dùng để điều trị những bệnh lý thần kinh gây ra do thiếu hụt vitamin B1, B6, B12.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/truong-tho-pharma",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "AMMG 3B",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 752,
+        "name": "Thuốc bổ",
+        "parentName": "Thuốc bổ & vitamin",
+        "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ammg_3b_5x10_truong_tho_00030906_6d672405fc.png",
+          "alternativeText": "Thuốc Ammg-3B Trường Thọ điều trị bệnh lý thần kinh do thiếu vitamin B1, B6, B12 (5 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_8160_60b6_large_c0bbfc3eb9.jpg",
+          "alternativeText": "Thuốc Ammg-3B Trường Thọ điều trị bệnh lý thần kinh do thiếu vitamin B1, B6, B12 (5 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_5262_60b6_large_b5dbd07bfe.jpg",
+          "alternativeText": "Thuốc Ammg-3B Trường Thọ điều trị bệnh lý thần kinh do thiếu vitamin B1, B6, B12 (5 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_7572_60b6_large_b6f640f719.jpg",
+          "alternativeText": "Thuốc Ammg-3B Trường Thọ điều trị bệnh lý thần kinh do thiếu vitamin B1, B6, B12 (5 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_4406_60b6_large_5ed77e2538.jpg",
+          "alternativeText": "Thuốc Ammg-3B Trường Thọ điều trị bệnh lý thần kinh do thiếu vitamin B1, B6, B12 (5 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_1340_60b6_large_e6b5220c67.jpg",
+          "alternativeText": "Thuốc Ammg-3B Trường Thọ điều trị bệnh lý thần kinh do thiếu vitamin B1, B6, B12 (5 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_2285_60d2_large_f6d028bc13.jpg",
+          "alternativeText": "Thuốc Ammg-3B Trường Thọ điều trị bệnh lý thần kinh do thiếu vitamin B1, B6, B12 (5 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_1624437063_f254d627cd.jpg",
+          "alternativeText": "Thuốc Ammg-3B Trường Thọ điều trị bệnh lý thần kinh do thiếu vitamin B1, B6, B12 (5 vỉ x 10 viên) 8"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc bổ & vitamin",
+        "slug": "/thuoc/thuoc-bo-and-vitamin"
+      },
+      {
+        "name": "Thuốc bổ",
+        "slug": "/thuoc/thuoc-bo-and-vitamin/thuoc-bo"
+      }
+    ],
+    "content": {
+      "sku": "00030906",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Dùng đường uống.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Dùng 1 – 3 viên/ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Vitamin B dư thừa được bài tiết dễ dàng nên không có vấn đề nghiêm trọng khi dùng quá liều.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ hướng dẫn sử dụng thuốc AMMG-3B</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc AMMG-3B, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p>Tác dụng không mong muốn có thể gặp khi sử dụng Ammg 3B là: Nôn, buồn nôn.</p>\n\n<p>Khi dùng kéo dài trên 2 tháng có thể gây bệnh thần kinh ngoại vi nặng, tiến triển từ dáng đi không vững và tê cóng bàn chân đến tê cóng và vụng về bàn tay (do vitamin B6), tình trạng này có thể hồi phục khi ngừng thuốc.</p>\n\n<p>Tác dụng không mong muốn hiếm gặp (do vitamin B12):</p>\n\n<ul>\n\t<li>\n\t<p>Toàn thân: Phản ứng phản vệ, sốt, <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">đau đầu</a>, hoa mắt, co thắt phế quản, phù mạch miệng - hầu.</p>\n\t</li>\n\t<li>\n\t<p>Ngoài da: Phản ứng dụng trứng cá, <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mày đay</a>, ban đỏ, ngứa.</p>\n\t</li>\n\t<li>\n\t<p>Tiêu hóa: Buồn nôn.</p>\n\t</li>\n\t<li>\n\t<p>Loạn nhịp tim thứ phát do hạ kali huyết khi bắt đầu điều trị.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Nơi khô, tránh ánh sáng, nhiệt độ không quá 30<sup>o</sup>C.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/ammg-3b-truong-tho-5x10-31039.html\">Thuốc AMMG-3B</a> được chỉ định dùng trong các trường hợp sau điều trị những bệnh lý thần kinh gây ra do thiếu hụt vitamin B1, B6, B12. </p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p><em>Thiamin nitrat (vitamin B1):</em></p>\n\n<p>Thiamin thực tế không có tác dụng dược lý, thậm chí ở liều cao. Thiamin kết hợp với Adenosin triphosphat (ATP) trong gan, thận và bạch cầu tạo thành dạng thiamin diphosphat (thiamin pyrophosphate) có hoạt tính sinh lý.</p>\n\n<p>Thiamin pyrophosphat, dạng thiamin có hoạt tính sinh lý, là coenzym chuyển hóa carbohydrat làm nhiệm vụ khử carboxyl của các alpha - cetoacid như pyruvat và alpha - cetoglutarat và trong việc sử dụng pentose trong chu trình hexose monophosphat.</p>\n\n<p>Lượng thiamin ăn vào hàng ngày cần 0,9 - 1,5mg cho nam và 0,8 - 1,1mg cho nữ khoẻ mạnh. Nhu cầu thiamin có liên quan trực tiếp với lượng dùng carbohydrat và tốc độ chuyển hóa. Điều này có ý nghĩa thực tiễn trong nuôi dưỡng người bệnh bằng đường tĩnh mạch và ở người bệnh có nguồn năng lượng calo lấy chủ yếu từ dextrose (glucose).</p>\n\n<p>Khi thiếu hụt thiamin, sự oxy hóa các alpha - cetoacid bị ảnh hưởng, làm cho nồng độ pyruvat trong máu tăng lên, giúp chẩn đoán tình trạng thiếu thiamin.</p>\n\n<p>Thiếu hụt thiamin sẽ gây ra beriberi (bệnh tê phù). Thiếu hụt nhẹ biểu hiện trên hệ thần kinh (beriberi khô) như viêm dây thần kinh ngoại biên, rối loạn cảm giác các chi, có thể tăng hoặc mất cảm giác. Trương lực cơ giảm dần và có thể gây ra chứng bại chi hoặc liệt một chi nào đó.</p>\n\n<p>Thiếu hụt trầm trọng gây rối loạn nhân cách, trầm cảm, thiếu sáng kiến và trí nhớ kém như trong bệnh não Wernicke và nếu điều trị muộn gây loạn tâm thần Korsakoff.</p>\n\n<p>Các triệu chứng tim mạch do thiếu hụt thiamin bao gồm <a href=\"https://nhathuoclongchau.com.vn/benh/kho-tho-700.html\">khó thở</a> khi gắng sức, đánh trống ngực, nhịp tim nhanh và các rối loạn khác trên tim được biểu hiện bằng những thay đổi ĐTĐ (chủ yếu sóng R thấp, sóng T đảo ngược và kéo dài đoạn 2 - T) và bằng suy tim có cung lượng tim cao. Sự suy tim như vậy được gọi là beriberi ướt, phù tăng mạnh là do hậu quả của giảm protein huyết nếu dùng không đủ protein, hoặc của bệnh gan kết hợp với suy chức năng tâm thất.</p>\n\n<p>Thiếu hụt thiamin có thể xảy ra do nhiều nguyên nhân:</p>\n\n<ul>\n\t<li>\n\t<p>Tuy có sẵn trong thực phẩm nhưng do kém bền với nhiệt độ và ánh sáng nên quá trình bảo quản, chế biến không đúng sẽ làm giảm nhanh hàm lượng vitamin này.</p>\n\t</li>\n\t<li>\n\t<p>Do nhu cầu tăng, nhưng cung cấp không đủ: Tuổi dậy thì, có thai, cho con bú, ốm nặng, nghiện rượu, nuôi dưỡng qua đường tĩnh mạch.</p>\n\t</li>\n\t<li>\n\t<p>Do giảm hấp thu: <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">Tiêu chảy</a> kéo dài, người cao tuổi.</p>\n\t</li>\n\t<li>\n\t<p>Do mất nhiều vitamin này khi thẩm phân phúc mạc, thẩm phân thận nhân tạo.</p>\n\t</li>\n</ul>\n\n<p><em>Pyridoxin hydroclorid (vitamin B6):</em></p>\n\n<p>Vitamin B6 tồn tại dưới 3 dạng: Pyridoxal, pyridoxin và pyridoxamin, khi vào cơ thể người biến đổi thành pyridoxal phosphat và một phần thành pyridoxamin phosphat. Hai chất này hoạt động như những coenzym trong chuyển hóa protein, glucid và lipid.</p>\n\n<p>Pyridoxin tham gia tổng hợp acid gamma - aminobutyric (GABA) trong hệ thần kinh trung ương và tham gia tổng hợp hemoglobulin. Pyridoxin được hấp thu nhanh chóng qua đường tiêu hóa, trừ trường hợp mắc các hội chứng kém hấp thu.</p>\n\n<p>Sau khi tiêm hoặc uống, thuốc phần lớn dự trữ ở gan và một phần ở cơ và não. Pyridoxin thải trừ chủ yếu qua thận dưới dạng chuyển hóa. Lượng đưa vào, nếu vượt quá nhu cầu hàng ngày, phần lớn đào thải dưới dạng không biến đổi.</p>\n\n<p>Nhu cầu hàng ngày cho trẻ em là 0,3 - 2mg, người lớn khoảng 1,6 - 2mg và người mang thai hoặc cho con bú là 2,1 - 2,2mg. Hiếm gặp tình trạng thiếu hụt vitamin B6 người, nhưng có thể xảy ra trong trường hợp rối loạn hấp thu, rối loạn chuyển hóa bẩm sinh hoặc rối loạn do thuốc gây nên.</p>\n\n<p>Với người bệnh điều trị bằng isoniazid hoặc phụ nữ uống thuốc tránh thai, nhu cầu vitamin B6 hàng ngày nhiều hơn bình thường.</p>\n\n<p>Nhiều thuốc tác dụng như các chất đối kháng pyridoxin: <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/isoniazid\">Isoniazid</a>, cycloserin, penicilamin, hydralazin và các chất có nhóm carbonyl khác có thể kết hợp với vitamin B6 và ức chế chức năng coenzym của vitamin này.</p>\n\n<p>Pyridoxin được dùng để điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/co-giat-765.html\">co giật </a>và/hoặc hôn mê do ngộ độc isoniazid. Những triệu chứng này được xem là do giảm nồng độ GABA trong hệ thần kinh trung ương, có lẽ do isoniazid ức chế hoạt động của pyridoxal - 5 - phosphat trong não.</p>\n\n<p>Pyridoxin cũng được dùng làm thuốc hỗ trợ cho các biện pháp khác trong việc điều trị ngộ độc cấp do nấm thuộc chi Gyromitra nhằm trị các tác dụng trên thần kinh (như co giật, hôn mê) của chất methylhydrazin, được thủy phân từ độc tố gyrometrin có trong các nấm này.</p>\n\n<p><em>Cyanocobalamin (vitamin B12):</em></p>\n\n<p>Hai dạng vitamin B12, cyanocobalamin và hydroxocobalamin đều có tác dụng tạo máu. Trong cơ thể người, các cobalamin này tạo thành các coenzym hoạt động là methylcobalamin và 5 deoxyadenosycobalamin rất cần thiết cho tế bào sao chép và tăng trưởng.</p>\n\n<p>Methylcobalamin rất cần để tạo methionin và dẫn chất là S-adenosylmethionin từ homocystein.</p>\n\n<p>Ngoài ra, khi nồng độ vitamin B12 không đủ sẽ gây ra suy giảm chức năng của một số dạng acid folic cần thiết khác ở trong tế bào. Bất thường huyết học ở các người bệnh thiếu vitamin B12 là do quá trình này. 5 - deoxyadenosycobalamin rất cần cho sự đồng phân hóa, chuyển L - methylmalonyl CoA thành succinyl CoA.</p>\n\n<p>Vitamin B12 rất cần thiết cho tất cả các mô có tốc độ sinh trưởng tế bào mạnh như các mô tạo máu, ruột non, tử cung. Thiếu vitamin B12 cũng gây hủy myelin sợi thần kinh.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Thiamin nitrat:</em></p>\n\n<p>Sự hấp thu thiamin trong ăn uống hàng ngày qua đường tiêu hóa là do sự vận chuyển tích cực phụ thuộc Na+. Khi nồng độ thiamin trong đường tiêu hóa cao sự khuếch tán thụ động cũng quan trọng. Tuy vậy, hấp thu liều cao bị hạn chế.</p>\n\n<p>Sau khi tiêm bắp, thiamin cũng được hấp thu nhanh, phân bố vào đa số các mô và sữa.</p>\n\n<p>Ở người lớn, khoảng 1mg thiamin bị giáng hóa hoàn toàn mỗi ngày trong các mô, và đây chính là lượng tối thiểu cần hàng ngày. Khi hấp thu ở mức thấp này, có rất ít hoặc không thấy thiamin thải trừ qua nước tiểu. Khi hấp thu vượt quá nhu cầu tối thiểu, các kho chứa thiamin ở các mô đầu tiên được bão hòa.</p>\n\n<p>Sau đó lượng thừa sẽ thải trừ qua nước tiểu dưới dạng phân tử thiamin nguyên vẹn. Khi hấp thu thiamin tăng lên hơn nữa, thải trừ dưới dạng thiamin chưa biến hóa sẽ tăng hơn.</p>\n\n<p><em>Pyridoxin hydroclorid:</em></p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/pyridoxine\">Pyridoxin</a> được hấp thu nhanh chóng qua đường tiêu hóa, trừ trường hợp mắc các hội chứng kém hấp thu. Sau khi tiêm hoặc uống, thuốc phần lớn dự trữ ở gan và một phần ở cơ và não. Pyridoxin thải trừ chủ yếu qua thận dưới dạng chuyển hóa.</p>\n\n<p>Lượng đưa vào, nếu vượt quá nhu cầu hàng ngày, phần lớn đào thải dưới dạng không biến đổi.</p>\n\n<p><em>Cyanocobalamin:</em></p>\n\n<p>Sau khi uống, vitamin B12 được hấp thu qua ruột, chủ yếu ở hồi tràng theo hai cơ chế: Cơ chế thụ động khi lượng dùng nhiều và cơ chế tích cực, cho phép hấp thu những liều lượng sinh lý, nhưng cần phải có yếu tố nội tại là glycoprotein do tế bào thành niêm mạc dạ dày tiết ra.</p>\n\n<p>Mức độ hấp thu khoảng 1% không phụ thuộc vào liều và do đó ngày uống 1mg sẽ thỏa mãn nhu cầu hàng ngày và đủ để điều trị tất cả các dạng thiếu vitamin B12.</p>\n\n<p>Sau khi tiêm bắp, nồng độ đỉnh trong huyết tương đạt được sau 1 giờ.</p>\n\n<p>Sau khi hấp thu, vitamin B12 liên kết với transcobalamin II và được loại nhanh khỏi huyết tương để phân bố ưu tiên vào nhu mô gan.</p>\n\n<p>Gan chính là kho dự trữ vitamin B12 cho các mô khác. Khoảng 3 microgam cobalamin thải trừ vào mật mỗi ngày, trong đó 50 - 60% là các dẫn chất của cobalamin không tái hấp thu lại được.</p>\n\n<p>Hydroxocobalamin được hấp thu qua đường tiêu hóa tốt hơn, và có ái lực với các mô lớn hơn cyanocobalamin.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3><strong>Chống chỉ định</strong></h3>\n\n<p>Thuốc AMMG-3B chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Mẫn cảm với một trong các thành phần của thuốc.</p>\n\t</li>\n\t<li>\n\t<p>Phối hợp với levodopa.</p>\n\t</li>\n\t<li>\n\t<p>U ác tính.</p>\n\t</li>\n\t<li>\n\t<p>Người bệnh cơ địa dị ứng (hen, eczema).</p>\n\t</li>\n</ul>\n\n<h3><strong>Thận trọng khi sử dụng</strong></h3>\n\n<p>Không nên dùng liều cao và kéo dài và vitamin B6 dùng với liều 200mg/ngày và kéo dài có thể làm cho bệnh thần kinh ngoại vi và bệnh thần kinh cảm giác nặng thêm, ngoài ra còn gây chứng lệ thuộc vitamin B6.</p>\n\n<p>Vitamin B6 có thể làm tăng chuyển hóa ngoại biên của levodopa, do vậy bệnh nhân parkinson đang điều trị với levodopa không nên dùng vitamin B6 vượt quá nhu cầu hàng ngày. Điều này không áp dụng khi levodopa được dùng phối hợp với một chất ức chế enzyme khử nhóm carboxy ngoại biên.</p>\n\n<p>AMMG 3B là viên nén bao đường, do vậy không nên dùng cho người tiểu đường.</p>\n\n<p>Viên nén bao đường AMMG 3B có chứa tá dược đường trắng do vậy trước khi uống thuốc này, bạn cần thông báo cho bác sĩ nếu bạn không dung nạp một vài loại đường.</p>\n\n<h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3>\n\n<p>Chưa ghi nhận trường hợp nào ảnh hưởng tới khả năng lái xe và vận hành máy móc.</p>\n\n<h3><strong>Thời kỳ mang thai</strong></h3>\n\n<p>Chỉ dùng thuốc trong thời kỳ mang thai  khi thật cần thiết và theo sự hướng dẫn của thầy thuốc.</p>\n\n<p>Phụ nữ trong thời kỳ mang thai nếu sử dụng vitamin B6 liều cao và kéo dài có thể gây hội chứng lệ thuộc thuốc ở trẻ sơ sinh.</p>\n\n<h3><strong>Thời kỳ cho con bú</strong></h3>\n\n<p>Chỉ dùng thuốc trong thời kỳ cho con bú khi thật cần thiết và theo sự hướng dẫn của thầy thuốc.</p>\n\n<p>Phụ nữ trong thời kỳ cho con bú nếu sử dụng vitamin B6 liều cao và kéo dài có thể gây hội chứng lệ thuộc thuốc ở trẻ sơ sinh.</p>\n\n<p>Một vài trường hợp cá biệt, dùng liều cao (Vitamin B6 &gt; 600mg/ngày, chia 3 lần) có thể gây ức chế sự tạo sữa.</p>\n\n<h3><strong>Tương tác thuốc</strong></h3>\n\n<p>Vitamin B6 có thể làm tăng chuyển hóa ngoại biên của levodopa, do đó làm giảm tác dụng của levodopa.</p>\n\n<p>Vitamin B6 với liều 200mg/ngày có thể làm giảm 40 – 50% nồng độ phenytoin và <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/phenobarbital\">phenobarbital</a> trong máu ở một số người bệnh.</p>\n\n<p>Thuốc tránh thai có thể làm tăng nhu cầu về vitamin B6.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Ammg 3B Trường Thọ: Thuốc điều trị bệnh lý thần kinh",
+        "metaDescription": "Thuốc AMMG 3B Trường Thọ, chứa dược chất chính gồm hỗn hợp vitamin B1, B6, B12 được dùng điều trị những bệnh lý thần kinh gây ra do thiếu hụt vitamin B1, B6, B12.",
+        "id": 5911,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ammg_3b_5x10_truong_tho_00030906_6d672405fc.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Ammg-3B Trường Thọ điều trị bệnh lý thần kinh do thiếu vitamin B1, B6, B12 (5 vỉ x 10 viên)",
+            "description": "Thuốc AMMG-3B là sản phẩm của Công ty Cổ phần Dược phẩm Trường Thọ, chứa dược chất chính gồm hỗn hợp vitamin B1, vitamin B6, vitamin B12 được dùng để điều trị những bệnh lý thần kinh gây ra do thiếu hụt vitamin B1, B6, B12."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 373,
+        "title": "Dược lực học là gì?",
+        "content": "<p>\r\n\r\nDược lực học l&agrave; nghi&ecirc;n cứu c&aacute;c ảnh hưởng sinh h&oacute;a, sinh l&yacute;, v&agrave; ph&acirc;n tử của thuốc tr&ecirc;n cơ thể v&agrave; li&ecirc;n quan đến thụ thể li&ecirc;n kết, hiệu ứng sau thụ thể, v&agrave; tương t&aacute;c h&oacute;a học. Dược lực học, với dược động học, gi&uacute;p giải th&iacute;ch mối quan hệ giữa liều v&agrave; đ&aacute;p ứng, tức l&agrave; c&aacute;c t&aacute;c dụng của thuốc. Đ&aacute;p ứng dược l&yacute; phụ thuộc v&agrave;o sự li&ecirc;n kết của thuốc với đ&iacute;ch t&aacute;c dụng. Nồng độ thuốc ở vị tr&iacute; thụ thể ảnh hưởng đến t&aacute;c dụng của thuốc.</p>"
+      },
+      {
+        "id": 372,
+        "title": "Dược động học là gì?",
+        "content": "<p>\r\n\r\nDược động học l&agrave; những t&aacute;c động của cơ thể đối với thuốc trong suốt qu&aacute; tr&igrave;nh thuốc đi v&agrave;o, ở trong v&agrave; đi ra khỏi cơ thể- bao gồm c&aacute;c qu&aacute; tr&igrave;nh hấp thụ, sinh khả dụng, ph&acirc;n bố, chuyển h&oacute;a, v&agrave; thải trừ.</p>"
+      },
+      {
+        "id": 371,
+        "title": "Tác dụng phụ của thuốc là gì? Cách phòng tránh tác dụng phụ của thuốc",
+        "content": "<p>\r\n\r\nT&aacute;c dụng phụ l&agrave; những triệu chứng kh&ocirc;ng mong muốn xảy ra khi ch&uacute;ng ta uống thuốc. C&aacute;c t&aacute;c dụng phụ n&agrave;y c&oacute; thể kh&ocirc;ng nghi&ecirc;m trọng, chẳng hạn chỉ g&acirc;y <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><strong>đau đầu</strong></a> hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mieng-312.html\"><strong>kh&ocirc; miệng</strong></a>. Nhưng cũng c&oacute; những t&aacute;c dụng phụ đe dọa t&iacute;nh mạng. Cẩn ph&ograve;ng tr&aacute;nh t&aacute;c dụng phụ của <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> như: Th&ocirc;ng b&aacute;o c&aacute;c loại thuốc đang sử dụng với b&aacute;c sĩ, c&aacute;c <strong><a href=\"https://nhathuoclongchau.com.vn/benh\">bệnh</a></strong> l&yacute; nền hiện tại, c&aacute;c tương t&aacute;c của thuốc đến thực phẩm hằng ng&agrave;y. Đọc kỹ hướng dẫn sử dụng thuốc v&agrave; nếu gặp t&aacute;c dụng phụ cần b&aacute;o ngay cho b&aacute;c sĩ.</p>"
+      },
+      {
+        "id": 370,
+        "title": "Sử dụng thuốc đúng cách như thế nào?",
+        "content": "<p>\r\n\r\nSử dụng <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> đ&uacute;ng c&aacute;ch l&agrave; uống thuốc theo chỉ dẫn của dược sĩ, b&aacute;c sĩ. Ngo&agrave;i ra kh&ocirc;ng d&ugrave;ng nước quả, nước kho&aacute;ng hoặc c&aacute;c loại nước ngọt đ&oacute;ng hộp c&oacute; gas để uống thuốc. Kh&ocirc;ng d&ugrave;ng sữa để uống thuốc v&igrave; trong th&agrave;nh phần của sữa c&oacute; chứa <strong><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/canxi\">canxi</a></strong>. Kh&ocirc;ng d&ugrave;ng c&agrave; ph&ecirc; hay nước ch&egrave; để uống thuốc. Chỉ n&ecirc;n uống c&ugrave;ng nước lọc.</p>"
+      },
+      {
+        "id": 369,
+        "title": "Các dạng bào chế của thuốc?",
+        "content": "<p>\r\n\r\nC&oacute; c&aacute;c dạng b&agrave;o chế thuốc như<br />\r\nTheo thể chất:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc thể rắn (thuốc bột, thuốc vi&ecirc;n).</li>\r\n\t<li>C&aacute;c dạng thuốc thể mềm (thuốc cao, thuốc mỡ, gel).</li>\r\n\t<li>C&aacute;c dạng thuốc thể lỏng (dung dịch, hỗn dịch, nhũ dịch, xiro).</li>\r\n</ul>\r\n\r\n<p>Theo đường d&ugrave;ng:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc uống (vi&ecirc;n, bột, dung dịch, nhũ dịch, hỗn dịch).</li>\r\n\t<li>C&aacute;c dạng thuốc ti&ecirc;m (dung dịch, hỗn dịch, nhũ dịch, bột pha ti&ecirc;m, dịch truyền).</li>\r\n\t<li>C&aacute;c dạng thuốc d&ugrave;ng ngo&agrave;i (thuốc b&ocirc;i tr&ecirc;n da, thuốc nhỏ l&ecirc;n ni&ecirc;m mạc, thuốc s&uacute;c miệng).</li>\r\n\t<li>C&aacute;c dạng thuốc đặt v&agrave;o c&aacute;c hốc tự nhi&ecirc;n tr&ecirc;n cơ thể (thuốc đặt hậu m&ocirc;n, thuốc trứng đặt &acirc;m đạo...).</li>\r\n</ul>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00029004",
+        "name": "POKEMINE MEDISUN 20X10ML",
+        "webName": "Dung dịch uống Pokemine 50mg Medisun bổ sung sắt cho bệnh nhân thiếu máu (20 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/pokemine_20x10ml_medisun_00029004_18974a7442.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37079,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 152000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pokemine-medisun-20x10ml-29296.html",
+        "ingredients": "Sắt 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Medisun",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 20 ống X 10ml",
+        "prices": [
+          {
+            "id": 37079,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 152000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 37078,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 7600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00047080",
+        "name": "MYHEMO RELIV 3X10",
+        "webName": "Thuốc Myhemo 305mg Reliv dự phòng thiếu sắt và folic acid (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_myhemo_reliv_3x10_00047080_42c390f09b.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 73453,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 165000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/myhemo-reliv-3-x10.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 100mg",
+        "dosageForm": "Viên bao đường",
+        "brand": "Reliv",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 73453,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 165000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 73454,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 73455,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007450",
+        "name": "TOTHEMA 2X10 ỐNG 10ML",
+        "webName": "Dung dịch Tot'héma Innothera điều trị thiếu máu do sắt (2 vỉ x 10 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04101_788e84a74a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10875,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 120000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tothema-1952.html",
+        "ingredients": "Mangan gluconat 1.33mg, Đồng gluconat 0.7mg, Sắt gluconat 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Innothera",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 10 Ống x 10ml",
+        "prices": [
+          {
+            "id": 10875,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 120000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10873,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10874,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049621",
+        "name": "VITAMIN A-D HDPHARMA 10X10",
+        "webName": "Thuốc Vitamin A-D Hdpharma dùng dự phòng và điều trị các triệu chứng do thiếu vitamin A - D (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_vitamin_a_d_10x10_hdpharma_00049621_f8bba8c44a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 78290,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 32000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vitamin-a-d-hdpharma-10-x10.html",
+        "ingredients": "Vitamin A 5000iu, Vitamin D3 400iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Hdpharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 78290,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 32000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 78291,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 3200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 78292,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 320,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049065",
+        "name": "MAZZGIN DHG PHARMA 10X10",
+        "webName": "Thuốc Mazzgin DHG Pharma điều trị các trường hợp thiếu magnesi riêng biệt hay kết hợp (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_mazzgin_dhg_pharma_10x10_00049065_82218241b8.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 77246,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 53550,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/mazzgin-dhg-pharma-10-x10.html",
+        "ingredients": "Magnesi lactat dihydrat 470mg, Vitamin B6 5mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Dhg",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 77246,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 53550,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 77247,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 5355,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 77248,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 536,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00041155",
+        "name": "CARDIOTON LIPA 6X10",
+        "webName": "Thuốc Cardioton Lipa Pharma điều trị suy tim, tăng huyết áp, bổ sung năng lượng (6 vỉ x 10 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_cardioton_lipa_6x10_00041155_9ecff2b28f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 62161,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 7667,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cardioton-lipa-6-x10.html",
+        "ingredients": "Ubidecarenone 30mg, D-alpha tocopherol 6.71mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "LIPA PHARMACEUTICALSLTD",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 62161,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 62159,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 460000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 62160,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 76667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500658",
+        "name": "ZY-10 FORTE 100MG Y-MED 3X10",
+        "webName": "Thuốc Zy-10 Forte 100mg Y-Med điều trị bệnh suy tim xung huyết, thiếu hụt coenzym Q10 (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/5_9e44bd6ebd.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48922,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 15600,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/zy-10-forte-100mg-hop-3-vi-x-10-vien-ha-tay-34787.html",
+        "ingredients": "Ubidecarenone 100mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Y-MED",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48922,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 15600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 48924,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 468000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 48923,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 156000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 249,
+          "attributeName": "Ấn Độ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/in_India_090039de61.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009723",
+        "name": "BEROCCA BAYER 10V",
+        "webName": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1758_33831b7cab.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12974,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 75000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/berocca-1515.html",
+        "ingredients": "Vitamin B1 15mg, Vitamin B2 15mg, Vitamin B6 10mg, Vitamin B12 0.01mg, Vitamin B3 50mg, Vitamin B5 23mg, Magnesia 100mg, Vitamin C 500mg, Calcium 100mg, Vitamin B8 0.15mg, Kẽm 10mg",
+        "dosageForm": "Viên sủi",
+        "brand": "Bayer",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 12973,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 7500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12974,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 75000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00008451",
+        "name": "LONG HUYẾT PH 2X12 - TAN BẦM TÍM GIẢM PHÙ NỀ",
+        "webName": "Thuốc Long Huyết P/H Phúc Hưng đặc trị tan bầm tím, mau lành vết thương (2 vỉ x 12 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1039_fba416224d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12490,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 47000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/long-huyet-ph-tan-bam-tim-chua-lanh-vet-thuong-1590.html",
+        "ingredients": "Cao khô huyết giác 280mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Phúc Hưng",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 2 vỉ x 12 viên",
+        "prices": [
+          {
+            "id": 12488,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1958,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12489,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 23500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 12490,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 47000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007678",
+        "name": "UPSA-C 10V",
+        "webName": "Viên sủi UPSA-C UPSA SAS hỗ trợ điều trị tình trạng thiếu hụt vitamin C (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1794_11051dc2c2.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11216,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 37000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/upsa-c-1000mg-1878.html",
+        "ingredients": "Vitamin C 1000mg",
+        "dosageForm": "Viên nén sủi bọt",
+        "brand": "Upsa Sas",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 11215,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 3700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11216,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 37000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007180",
+        "name": "TARDYFERON B9 3X10",
+        "webName": "Thuốc Tardyferon B9 Pierre Fabre dự phòng thiếu sắt, acid folic cho phụ nữ có thai (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_tardyferon_b9_3_vi_x_10_vien_pierre_fabre_00007180_aec7b4c600.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10449,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tardyferon-b9-2068.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 50mg",
+        "dosageForm": "Viên nén",
+        "brand": "Pierre Fabre",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 10449,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10451,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 87000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10450,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 29000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006109",
+        "name": "PROCARE DIAMOND 216MG CATALENT 30V",
+        "webName": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_7021_60ee_large_89e91ba6fb.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8834,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 420000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/procare-diamond-216mg-2522.html",
+        "ingredients": "Vitamin B1 5mg, Vitamin B2 5mg, Nicotinamide 5mg, Vitamin D3 200iu, Vitamin B6 5mg, Vitamin B12 10mcg, Vitamin E 10iu, Folic Acid 500mcg, Calcium 59mg, Phosphorus 46.6mg, Magnesium ion 30mg, Vitamin C 50mg, Zinc 8mg, Iron 24mg, Iodine 200mcg, Omega 3 500mg, Betacarotene 1mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "PROCARE",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 30 Viên",
+        "prices": [
+          {
+            "id": 8833,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 14000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 8834,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 420000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 254,
+          "attributeName": "Tây Ban Nha",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/es_Spain_03bf620563.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 38,
+      "items": [
+        {
+          "id": 3359794,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0980xxxxxx",
+          "name": "vinh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 hộp",
+          "createdAt": "2026-08-18 18:36:26",
+          "createdAtDisplay": "17 ngày trước",
+          "updatedAt": "2026-08-18 18:36:26",
+          "replies": [
+            {
+              "id": 3359813,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Mai Anh",
+                "moderatorEmail": "anhnm70@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Mai Anh",
+              "email": "anhnm70@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Vinh,</p><p> Hiện tại, sản phẩm Thuốc Ammg-3B Trường Thọ điều trị bệnh lý thần kinh do thiếu vitamin B1, B6, B12 (5 vỉ x 10 viên) có giá 65.000đ/ hộp.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-08-18 18:43:32",
+              "createdAtDisplay": "17 ngày trước",
+              "updatedAt": "2026-08-18 18:36:26",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3346430,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0988xxxxxx",
+          "name": "CHỊ DUNG ĐOÀN",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin chào Long Châu, uống thuốc này thường xuyên trong 2 tháng có ok không ạ?",
+          "createdAt": "2026-07-27 07:12:28",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-27 07:12:28",
+          "replies": [
+            {
+              "id": 3346448,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Phương Lan",
+                "moderatorEmail": "lannp9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Phương Lan",
+              "email": "lannp9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Dung ạ,</p><p>Thuốc Ammg-3B bổ sung Vitamin B1, B6, B12 hỗ trợ các vấn đề về thần kinh. Việc sử dụng liên tục trong 2 tháng cần có sự chỉ định của bác sĩ để đảm bảo an toàn phù hợp ạ.</p><p>Chị vui lòng gửi yêu cầu tư vấn trực tiếp trên website để Dược sĩ Long Châu chủ động liên hệ tư vấn chi tiết nhất cho mình ạ.</p><p>Chúc Chị và gia đình luôn dồi dào sức khỏe ạ.</p>",
+              "createdAt": "2026-07-27 08:13:11",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-27 07:12:28",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3346269,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0357xxxxxx",
+          "name": "0357xxxxxx",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "tôi bị có cơ trám dau mỏi vai gáy co uống được không ",
+          "createdAt": "2026-07-26 19:33:33",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-26 19:33:33",
+          "replies": [
+            {
+              "id": 3346369,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Vũ Hải Hà",
+                "moderatorEmail": "havh17@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Vũ Hải Hà",
+              "email": "havh17@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý khách ạ,</p><p>Thuốc Ammg-3B chứa Vitamin B1, B6, B12 hỗ trợ phục hồi dây thần kinh và giảm đau mỏi vai gáy hiệu quả.</p><p>Với tình trạng co cơ trám, Quý khách hoàn toàn có thể sử dụng sản phẩm để hỗ trợ cải thiện.</p><p>Để nhận tư vấn kỹ hơn về liều dùng, Quý khách vui lòng gửi yêu cầu tư vấn trên website để Dược sĩ Long Châu liên hệ hỗ trợ mình sớm nhất ạ.</p><p>Chúc Quý khách và gia đình luôn dồi dào sức khỏe ạ.</p>",
+              "createdAt": "2026-07-26 21:30:54",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-26 19:33:33",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3339620,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0372xxxxxx",
+          "name": "b Bằng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "tại sao mình bị ho dược sĩ lại kê loại thuốc này",
+          "createdAt": "2026-07-15 13:03:34",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-15 13:03:34",
+          "replies": [
+            {
+              "id": 3339628,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thanh Hoà",
+                "moderatorEmail": "hoantt53@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thanh Hoà",
+              "email": "hoantt53@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Bằng ạ,</p><p>Thuốc Ammg-3B chứa các Vitamin nhóm B giúp hỗ trợ phục hồi sức khỏe thần kinh và tăng cường thể trạng. Khi Anh bị ho kéo dài, cơ thể thường dễ suy nhược và mệt mỏi, nên việc bổ sung thuốc này giúp Anh nhanh hồi phục sức khỏe và tăng sức đề kháng tốt hơn ạ.</p><p>Chúc Anh Bằng và gia đình luôn dồi dào sức khỏe ạ.</p>",
+              "createdAt": "2026-07-15 13:11:19",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-15 13:03:34",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3294068,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0865xxxxxx",
+          "name": "bacs khang",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá bán bao nhiêu tiền một hộp ",
+          "createdAt": "2026-04-20 20:06:06",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-20 20:06:06",
+          "replies": [
+            {
+              "id": 3294072,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trương Thị Hoàng Yến",
+                "moderatorEmail": "yentth25@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trương Thị Hoàng Yến",
+              "email": "yentth25@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Qúy khách</p><p>Hiện tại, sản phẩm có giá 65.000đ/hộp.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với quý khách qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-04-20 20:11:51",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-20 20:06:06",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 19,
+      "items": [
+        {
+          "id": 3346399,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0908xxxxxx",
+          "name": "chị Hằng",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá",
+          "createdAt": "2026-07-26 22:49:17",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-26 22:49:17",
+          "replies": [
+            {
+              "id": 3346503,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phạm Thị Kiều Anh",
+                "moderatorEmail": "anhptk10@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phạm Thị Kiều Anh",
+              "email": "anhptk10@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p><em>Chào Chị Hằng ạ, </em></p><p><em>Hiện tại, sản phẩm </em>AMMG 3B Trường Thọ 5X10<em> có giá 65.000đ/hộp.</em></p><p><em>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"ứng dụng Long Châu/ZALO OA Nhà thuốc FPT Long Châu\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</em></p>",
+              "createdAt": "2026-07-27 09:11:55",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-26 22:49:17",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3337998,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0906xxxxxx",
+          "name": "Chị Thơm",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mình bị K vú thì có uống được ko ạ",
+          "createdAt": "2026-07-13 09:50:39",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-13 09:50:39",
+          "replies": [
+            {
+              "id": 3338016,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Quý",
+                "moderatorEmail": "quyntn@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Ngọc Quý",
+              "email": "quyntn@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào <strong>Chị Thơm,</strong></p><p>Dạ sản phẩm AMMG 3B TRƯỜNG THỌ 5X10 là thuốc kê toa, chị đang điều trị hoặc có tiền sử bệnh lý K vú, chị không nên tự ý sử dụng sản phẩm này khi chưa có chỉ định trực tiếp từ bác sĩ chuyên khoa, để được kê đơn các loại thuốc hỗ trợ phù hợp và an toàn nhất với thể trạng hiện tại cần thăm khám và sử dụng theo chỉ định của bác sĩ ạ. </p><p>Nhà thuốc thông tin tới Chị.</p>",
+              "createdAt": "2026-07-13 10:00:29",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-13 09:50:39",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3333028,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0327xxxxxx",
+          "name": "Nguyễn Vy",
+          "email": "nguyenvyphuong280211954@gmail.com",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc này dùng cho bệnh gì ạ",
+          "createdAt": "2026-07-03 20:31:31",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-07-03 20:31:31",
+          "replies": [
+            {
+              "id": 3333035,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phạm Hoàng Phương",
+                "moderatorEmail": "phuongph10@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phạm Hoàng Phương",
+              "email": "phuongph10@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Vy,</p><p>Dạ Thuốc Ammg-3B Trường Thọ điều trị bệnh lý thần kinh do thiếu vitamin B1, B6, B12 (5 vỉ x 10 viên) được chỉ định dùng trong các trường hợp sau điều trị những bệnh lý thần kinh gây ra do thiếu hụt vitamin B1, B6, B12.</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-07-03 20:44:35",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-07-03 20:31:31",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3332318,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0783xxxxxx",
+          "name": "Nguyễn Thị Phương Trinh",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "tại sao vẫn để thuốc trong hộp lâu ngày bị xuất hiện đốm vàng trên viên thuốc ạ",
+          "createdAt": "2026-07-02 20:22:08",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-07-02 20:22:08",
+          "replies": [
+            {
+              "id": 3332420,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Bảo Quyên",
+                "moderatorEmail": "quyentb6@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Bảo Quyên",
+              "email": "quyentb6@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Trinh ạ.</p><p>Hiện tượng viên thuốc xuất hiện đốm vàng thường do độ ẩm môi trường gây oxy hóa các hoạt chất Vitamin nhóm B. Khi thuốc bị biến đổi cảm quan, hoạt chất có thể bị phân hủy hoặc giảm tác dụng đáng kể.</p><p>Để đảm bảo an toàn y tế, Chị vui lòng không tiếp tục sử dụng các viên thuốc đã đổi màu này ạ.</p><p>Nhà thuốc thông tin đến chị. </p>",
+              "createdAt": "2026-07-03 08:14:13",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-07-02 20:22:08",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3244009,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0853xxxxxx",
+          "name": "0853xxxxxx",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuóc này có giá bao nhieu ạ",
+          "createdAt": "2026-01-11 21:44:54",
+          "createdAtDisplay": "7 tháng trước",
+          "updatedAt": "2026-01-11 21:44:54",
+          "replies": [
+            {
+              "id": 3244015,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Nhật Tân",
+                "moderatorEmail": "tannn23@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Nhật Tân",
+              "email": "tannn23@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Qúy khách </p><p>Hiện tại, sản phẩm có giá 65.000đ/hộp.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với quý khách qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-01-11 21:48:50",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-01-11 21:44:54",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 19
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Ammg-3B Trường Thọ điều trị bệnh lý thần kinh do thiếu vitamin B1, B6, B12 (5 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ammg_3b_5x10_truong_tho_00030906_6d672405fc.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_8160_60b6_large_c0bbfc3eb9.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_5262_60b6_large_b5dbd07bfe.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_7572_60b6_large_b6f640f719.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_4406_60b6_large_5ed77e2538.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_1340_60b6_large_e6b5220c67.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00030906_ammg_3b_truong_tho_5x10_2285_60d2_large_f6d028bc13.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc AMMG-3B là sản phẩm của Công ty Cổ phần Dược phẩm Trường Thọ, chứa dược chất chính gồm hỗn hợp vitamin B1, vitamin B6, vitamin B12 được dùng để điều trị những bệnh lý thần kinh gây ra do thiếu hụt vitamin B1, B6, B12.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "19"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Ammg 3B Trường Thọ: Thuốc điều trị bệnh lý thần kinh",
+      "description": "Thuốc AMMG 3B Trường Thọ, chứa dược chất chính gồm hỗn hợp vitamin B1, B6, B12 được dùng điều trị những bệnh lý thần kinh gây ra do thiếu hụt vitamin B1, B6, B12.",
+      "openGraph": {
+        "title": "Thuốc Ammg-3B Trường Thọ điều trị bệnh lý thần kinh do thiếu vitamin B1, B6, B12 (5 vỉ x 10 viên)",
+        "description": "Thuốc AMMG-3B là sản phẩm của Công ty Cổ phần Dược phẩm Trường Thọ, chứa dược chất chính gồm hỗn hợp vitamin B1, vitamin B6, vitamin B12 được dùng để điều trị những bệnh lý thần kinh gây ra do thiếu hụt vitamin B1, B6, B12.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ammg_3b_5x10_truong_tho_00030906_6d672405fc.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/ammg-3b-truong-tho-5x10-31039.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/ammg-3b-truong-tho-5x10-31039.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

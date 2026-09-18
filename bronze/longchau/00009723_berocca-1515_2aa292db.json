@@ -1,0 +1,2280 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/berocca-1515.html",
+  "ingestion_timestamp": "2026-09-05T08:47:32.303650+00:00",
+  "file_hash": "c8b0e34a312d1c52951e986d34c3fe75d7f85762fe1f59c03e9395d595a8891b",
+  "lineage_hash": "39e310a04b4015266e375c097a911c589b4d6f61b9ada6a68996308cf23d0cf9",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/berocca-1515.html",
+    "product": {
+      "sku": "00009723",
+      "webName": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên)",
+      "name": "BEROCCA BAYER 10V",
+      "shortName": "BEROCCA BAYER 10V",
+      "headingText": "Viên sủi Berocca",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1758_33831b7cab.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1748_e5cdb638e9.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1752_a52605d7b4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1749_29f2e2edb7.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1751_57a74584f2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1750_9dc71f21e6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1753_5272706a4a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1759_c1254ddcd6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1760_6d244a3552.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1757_c35ccdf362.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 727,
+          "name": "Thuốc bổ & vitamin",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-bo-and-vitamin",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 752,
+          "name": "Thuốc bổ",
+          "parentName": "Thuốc bổ & vitamin",
+          "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 75000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Tuýp 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": 7500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/berocca-1515.html",
+      "ingredient": [
+        {
+          "id": 43293,
+          "ingredientId": 40316,
+          "shortDescription": "15mg",
+          "name": "Vitamin B1",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b1"
+        },
+        {
+          "id": 43294,
+          "ingredientId": 40324,
+          "shortDescription": "15mg",
+          "name": "Vitamin B2",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b2"
+        },
+        {
+          "id": 43295,
+          "ingredientId": 40333,
+          "shortDescription": "10mg",
+          "name": "Vitamin B6",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 43296,
+          "ingredientId": 40318,
+          "shortDescription": "0.01mg",
+          "name": "Vitamin B12",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b12"
+        },
+        {
+          "id": 43297,
+          "ingredientId": 40329,
+          "shortDescription": "50mg",
+          "name": "Vitamin B3",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-b3"
+        },
+        {
+          "id": 43298,
+          "ingredientId": 40331,
+          "shortDescription": "23mg",
+          "name": "Vitamin B5",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 43299,
+          "ingredientId": 26302,
+          "shortDescription": "100mg",
+          "name": "Magnesia",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 43300,
+          "ingredientId": 40349,
+          "shortDescription": "500mg",
+          "name": "Vitamin C",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-c"
+        },
+        {
+          "id": 43301,
+          "ingredientId": 12326,
+          "shortDescription": "100mg",
+          "name": "Calcium",
+          "isPrimary": false,
+          "slug": "thanh-phan/calcium"
+        },
+        {
+          "id": 43302,
+          "ingredientId": 40340,
+          "shortDescription": "0.15mg",
+          "name": "Vitamin B8",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 43303,
+          "ingredientId": 24482,
+          "shortDescription": "10mg",
+          "name": "Kẽm",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "899100177223",
+      "manufactor": "Indonesia",
+      "dosageForm": "Viên sủi",
+      "dosage": "<h3>Cách dùng</h3><p>Berocca Performance Orange được bào chế dưới dạng viên sủi dùng đường uống. Hoà tan viên thuốc trong một ly nước khoảng 200ml.</p><h3>Liều dùng</h3><p>Người lớn và trẻ vị thành niên: Một viên sủi/ngày.</p><p>Không nên vượt quá liều khuyến cáo hàng ngày.</p><p>Không dùng cho trẻ dưới 12 tuổi do chưa có dữ liệu về hiệu quả và an toàn trên nhóm tuổi này.</p><h3>Làm gì khi dùng quá liều?</h3><p>Khi sử dụng theo liều khuyến cáo, không có bằng chứng cho thấy thuốc Berocca gây quá liều.</p><p>Cần tính đến lượng vitamin và khoáng chất được cung cấp từ các nguồn khác.</p><p>Biếu hiện thông thường của quá liều có thể gồm lẫn lộn và rối loạn dạ dày ruột như táo bón, tiêu chảy, nôn và buồn nôn.</p><p>Nếu các triệu chứng này xuất hiện, nên ngừng dùng thuốc Berocca và tham khảo ý kiến của chuyên gia y tế.</p><p>Tình trạng quá liều cấp hoặc mạn tính của thuốc (ví dụ, sử dụng liều gấp 10 lần liều khuyến cáo) có thể gây ra độc tính đặc hiệu liên quan tới vitamin C, <a href=\"https://nhathuoclongchau.com.vn/thuoc/vitamin-b6-250mg-1759.html\">vitamin B6</a>, hoặc kẽm.</p><p>Các triệu chứng lâm sàng đặc hiệu, các phát hiện trên xét nghiệm, và các hậu quả do quá liều rất đa dạng, phụ thuộc vào mức độ nhạy cảm của từng người và tình trạng xung quanh.</p><p>Nếu nghi ngờ có quá liều, nên ngưng sản phẩm và nhờ tư vấn từ chuyên gia y tế để điều trị các biểu hiện lâm sàng.</p><h3>Làm gì khi quên 1 liều?</h3><p>Không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/berocca-1515.html\">Berocca</a> Performance được chỉ định dùng trong các trường hợp sau:</p><ul><li>Dùng trong trường hợp thiếu hụt và tăng nhu cầu vitamin C, các <a href=\"https://nhathuoclongchau.com.vn/bai-viet/6-vitamin-nhom-b-pho-bien-nhat-hien-nay-48132.html\">vitamin nhóm B</a>.</li><li>Dùng trong trường hợp thiếu hụt và tăng nhu cầu <a href=\"https://nhathuoclongchau.com.vn/bai-viet/vai-tro-cua-kem-doi-voi-suc-khoe-va-cach-bo-sung-kem-ma-ban-can-nam-61372.html\">kẽm</a>.</li></ul>",
+      "brand": "Bayer",
+      "brandType": null,
+      "adverseEffect": "<p>Các tác dụng không mong muốn khi dùng Berocca Performance Orange&nbsp;mà bạn có thể gặp.</p><p><i>Không rõ tần suất (Các phản ứng này được báo cáo tự ý vì vậy không thể đánh giá được tần suất xuất hiện):</i></p><p>Các bệnh lý dạ dày ruột: Tiêu chảy, buồn nôn, nôn, đau bụng và đau dạ dày ruột, <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a>.</p><p>Các bệnh lý hệ miễn dịch:</p><p>Phản ứng dị ứng, phản ứng phản vệ, <a href=\"https://nhathuoclongchau.com.vn/benh/soc-phan-ve-108.html\">sốc phản vệ</a>.</p><p>Các phản ứng quá mẫn với các biểu hiện lâm sàng và xét nghiệm tương ứng gồm hội chứng hen, các phản ứng nhẹ đến trung bình ảnh hưởng lên da, và/hoặc đường hô hấp, đường tiêu hóa, và/hoặc hệ tim mạch.</p><p>Các triệu chứng này có thể gồm phát ban, <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mề đay</a>, phù, ngứa, rối loạn tim-hô hấp, và các phản ứng nghiêm trọng gồm sốc phản vệ đã được báo cáo.</p><p>Bệnh lý hệ thống thần kinh: Đau đầu, chóng mặt, mất ngủ, căng thẳng có thể xuất hiện.</p><p>Bệnh lý thận niệu:&nbsp;</p><p>Màu sắc nước tiểu: Có thể thấy nước tiểu đổi màu vàng nhẹ.</p><p>Ảnh hưởng này không có hại và do thành phần vitamin B2 có trong thuốc.</p><p>Thông báo cho bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Tuýp 10 Viên",
+      "indications": [],
+      "brandOrigin": "Đức",
+      "producer": "BAYER",
+      "shortDescription": "<p>Viên sủi Berocca Performance Orange được chỉ định trong trường hợp thiếu hụt và tăng nhu cầu vitamin C, các vitamin nhóm B và kẽm.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "",
+      "objectUse": [
+        "Người lớn",
+        "Trẻ em"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Phụ nữ cho con bú",
+        "Suy gan thận"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/bayer",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "BEROCCA",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "24 tháng",
+      "brandOriginBadges": {
+        "id": 266,
+        "attributeName": "Đức",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 2,
+        "measureUnitName": "Tuýp",
+        "isSellDefault": true,
+        "price": 75000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Tuýp 10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 752,
+        "name": "Thuốc bổ",
+        "parentName": "Thuốc bổ & vitamin",
+        "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1758_33831b7cab.jpg",
+          "alternativeText": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1748_e5cdb638e9.jpg",
+          "alternativeText": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1752_a52605d7b4.jpg",
+          "alternativeText": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1749_29f2e2edb7.jpg",
+          "alternativeText": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1751_57a74584f2.jpg",
+          "alternativeText": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1750_9dc71f21e6.jpg",
+          "alternativeText": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1753_5272706a4a.jpg",
+          "alternativeText": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1759_c1254ddcd6.jpg",
+          "alternativeText": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1760_6d244a3552.jpg",
+          "alternativeText": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1757_c35ccdf362.jpg",
+          "alternativeText": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên) 10"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 75000,
+        "itemCode": "00009723",
+        "unitCode": 2,
+        "maxValue": 0,
+        "price": 75000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 7500,
+        "itemCode": "00009723",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 7500,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc bổ & vitamin",
+        "slug": "/thuoc/thuoc-bo-and-vitamin"
+      },
+      {
+        "name": "Thuốc bổ",
+        "slug": "/thuoc/thuoc-bo-and-vitamin/thuoc-bo"
+      }
+    ],
+    "content": {
+      "sku": "00009723",
+      "dosage": "<h3>Cách dùng</h3><p>Berocca Performance Orange được bào chế dưới dạng viên sủi dùng đường uống. Hoà tan viên thuốc trong một ly nước khoảng 200ml.</p><h3>Liều dùng</h3><p>Người lớn và trẻ vị thành niên: Một viên sủi/ngày.</p><p>Không nên vượt quá liều khuyến cáo hàng ngày.</p><p>Không dùng cho trẻ dưới 12 tuổi do chưa có dữ liệu về hiệu quả và an toàn trên nhóm tuổi này.</p><h3>Làm gì khi dùng quá liều?</h3><p>Khi sử dụng theo liều khuyến cáo, không có bằng chứng cho thấy thuốc Berocca gây quá liều.</p><p>Cần tính đến lượng vitamin và khoáng chất được cung cấp từ các nguồn khác.</p><p>Biếu hiện thông thường của quá liều có thể gồm lẫn lộn và rối loạn dạ dày ruột như táo bón, tiêu chảy, nôn và buồn nôn.</p><p>Nếu các triệu chứng này xuất hiện, nên ngừng dùng thuốc Berocca và tham khảo ý kiến của chuyên gia y tế.</p><p>Tình trạng quá liều cấp hoặc mạn tính của thuốc (ví dụ, sử dụng liều gấp 10 lần liều khuyến cáo) có thể gây ra độc tính đặc hiệu liên quan tới vitamin C, <a href=\"https://nhathuoclongchau.com.vn/thuoc/vitamin-b6-250mg-1759.html\">vitamin B6</a>, hoặc kẽm.</p><p>Các triệu chứng lâm sàng đặc hiệu, các phát hiện trên xét nghiệm, và các hậu quả do quá liều rất đa dạng, phụ thuộc vào mức độ nhạy cảm của từng người và tình trạng xung quanh.</p><p>Nếu nghi ngờ có quá liều, nên ngưng sản phẩm và nhờ tư vấn từ chuyên gia y tế để điều trị các biểu hiện lâm sàng.</p><h3>Làm gì khi quên 1 liều?</h3><p>Không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<p>Tờ hướng dẫn sử dụng thuốc Berocca Performance Orange.</p>",
+      "adverseEffect": "<p>Các tác dụng không mong muốn khi dùng Berocca Performance Orange&nbsp;mà bạn có thể gặp.</p><p><i>Không rõ tần suất (Các phản ứng này được báo cáo tự ý vì vậy không thể đánh giá được tần suất xuất hiện):</i></p><p>Các bệnh lý dạ dày ruột: Tiêu chảy, buồn nôn, nôn, đau bụng và đau dạ dày ruột, <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a>.</p><p>Các bệnh lý hệ miễn dịch:</p><p>Phản ứng dị ứng, phản ứng phản vệ, <a href=\"https://nhathuoclongchau.com.vn/benh/soc-phan-ve-108.html\">sốc phản vệ</a>.</p><p>Các phản ứng quá mẫn với các biểu hiện lâm sàng và xét nghiệm tương ứng gồm hội chứng hen, các phản ứng nhẹ đến trung bình ảnh hưởng lên da, và/hoặc đường hô hấp, đường tiêu hóa, và/hoặc hệ tim mạch.</p><p>Các triệu chứng này có thể gồm phát ban, <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mề đay</a>, phù, ngứa, rối loạn tim-hô hấp, và các phản ứng nghiêm trọng gồm sốc phản vệ đã được báo cáo.</p><p>Bệnh lý hệ thống thần kinh: Đau đầu, chóng mặt, mất ngủ, căng thẳng có thể xuất hiện.</p><p>Bệnh lý thận niệu:&nbsp;</p><p>Màu sắc nước tiểu: Có thể thấy nước tiểu đổi màu vàng nhẹ.</p><p>Ảnh hưởng này không có hại và do thành phần vitamin B2 có trong thuốc.</p><p>Thông báo cho bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p>Trong bao bì kín, nơi khô.</p><p>Nhiệt độ không quá 30<sup>o</sup>C và đóng chặt nắp tuýp thuốc Berocca.</p>",
+      "usage": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/berocca-1515.html\">Berocca</a> Performance được chỉ định dùng trong các trường hợp sau:</p><ul><li>Dùng trong trường hợp thiếu hụt và tăng nhu cầu vitamin C, các <a href=\"https://nhathuoclongchau.com.vn/bai-viet/6-vitamin-nhom-b-pho-bien-nhat-hien-nay-48132.html\">vitamin nhóm B</a>.</li><li>Dùng trong trường hợp thiếu hụt và tăng nhu cầu <a href=\"https://nhathuoclongchau.com.vn/bai-viet/vai-tro-cua-kem-doi-voi-suc-khoe-va-cach-bo-sung-kem-ma-ban-can-nam-61372.html\">kẽm</a>.</li></ul>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc Berocca bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p>Berocca Performance Orange chống chỉ định trong các trường hợp sau:</p><ul><li>Mẫn cảm với bất cứ thành phần nào của thuốc.</li><li>Suy thận nặng gồm cả các bệnh nhân đang lọc máu.</li><li>Sỏi thận hoặc tiền sử <a href=\"https://nhathuoclongchau.com.vn/benh/soi-than-358.html\">sỏi thận</a>.</li><li>Tăng Calci huyết.</li><li>Tăng Calci niệu nặng.</li></ul><h3>Thận trọng khi sử dụng</h3><p>Không nên vượt quá liều khuyến cáo.</p><p>Quá liều cấp và mạn tính làm tăng nguy cơ các tác dụng ngoại ý. Cần tính đến lượng vitamin và khoáng chất được cung cấp từ các nguồn khác kể cả thực phẩm được bổ sung vitamin, thực phẩm chức năng và các thuốc sử dụng đồng thời.</p><p>Những bệnh nhân đang sử dụng các chế phẩm vitamin riêng lẻ hay đa vitamin khác, bất kì thuốc nào khác, được đặt trong chế độ ăn kiêng, hay những bệnh nhân đang điều trị y khoa nên nhờ tư vấn từ các chuyên gia y tế trước khi sử dụng thuốc này.</p><p>Nên uống thuốc cách khoảng 4 giờ với các thuốc khác trừ khi có hướng dẫn riêng.</p><p>Thuốc có thể ảnh hưởng đến các xét nghiệm làm sai lệch kết quả. Thông báo cho các bác sĩ hoặc các chuyên gia y tế khi sử dụng thuốc này vào các xét nghiệm dự kiến thực hiện.</p><p>Vitamin C có thể ảnh hưởng đến bộ xét nghiệm và dụng cụ đo đường huyết dẫn đến sai lệch các kết quả. Tham khảo thông tin trong tờ hướng dẫn sử dụng của bộ xét nghiệm hay dụng cụ đo đường huyết.</p><p>Vitamin C làm tăng hấp thu sắt. Các bệnh nhân có tình trạng thừa sắt trong cơ thể nên thận trọng khi sử dụng thuốc và tránh sử dụng Vitamin C &gt; 500 mg/ngày.</p><p>Quá liều vitamin C ở các bệnh nhân thiếu hụt men glucose-6-phosphate dehydrogenase có liên quan tới thiếu máu tán huyết.</p><p>Sản phẩm không được bào chế để điều trị thiếu hụt vitamin B12 do viêm teo dạ dày, rối loạn ruột hồi hoặc tụy, và kém hấp thu vitamin B12 ở dạ dày - ruột hoặc suy giảm yếu tố nội tại.</p><p>Bệnh nhân có phenylketon niệu nên tránh các sản phẩm có chứa aspartame vì đó là nguồn phenylalanine.</p><p>Dạng viên nén sủi bọt có chứa muối. Nên cân nhắc vấn đề này ở các bệnh nhân có chế độ ăn hạn chế muối.</p><h3>Khả năng lái xe và vận hành máy móc</h3><p>Không ảnh hưởng đến khả năng lái xe và vận hành máy móc.</p><h3>Thời kỳ mang thai</h3><p>Nhìn chung thuốc an toàn trong thai kỳ khi sử dụng theo hướng dẫn.</p><p>Tuy nhiên, vì không có đầy đủ các nghiên cứu có kiểm soát trên người để đánh giá nguy cơ của điều trị thuốc trong thai kỳ, thuốc chỉ nên được sử dụng ở phụ nữ có thai khi được chỉ định lâm sàng và khuyến cáo của thầy thuốc.</p><p>Không nên vượt quá liều dùng khuyến cáo vì tình trạng quá liều mãn tính có thể gây hại cho thai nhi, cần tính đến lượng vitamin và khoáng chất được cung cấp từ các nguồn khác.</p><h3>Thời kỳ cho con bú</h3><p>Nhìn chung thuốc an toàn trong thời kỳ cho con bú khi sử dụng theo hướng dẫn.</p><p>Tuy nhiên, vì không có đầy đủ các nghiên cứu có kiểm soát trên người để đánh giá nguy cơ của điều trị thuốc trong thời kỳ cho con bú, thuốc chỉ nên được sử dụng ở phụ nữ cho con bú khi được chỉ định lâm sàng và khuyến cáo của thầy thuốc.</p><p>Không nên vượt quá liều dùng khuyến cáo vì tình trạng quá liều mãn tính có thể gây hại cho trẻ sơ sinh, cần tính đến lượng vitamin và khoáng chất được cung cấp từ các nguồn khác.</p><p>Các vitamin và khoáng chất trong thuốc được bài tiết qua sữa mẹ. Nên cân nhắc điều này khi sử dụng thuốc.</p><h3>Tương tác thuốc</h3><p><i><strong>Tương tác thuốc theo từng thành phần trong sản phẩm</strong></i></p><p><strong>Vitamin C</strong></p><p>Desferrioxamine:&nbsp;Vitamin C có thể làm tăng độc tính sắt ở mô, đặt biệt ở tim, gây tình trạng mất bù ở tim.</p><p>Cylosporine:&nbsp;Vitamin C có thể giảm nồng độ cyclosporine trong máu.</p><p>Disulfiram:&nbsp;Dùng liều cao kéo dài của vitamin C có thể ảnh hưởng hiệu quả của disulfiram.</p><p>Warfarin:&nbsp;Dùng liều cao kéo dài của vitamin C có thể ảnh hưởng hiệu quả của wafarin.</p><p><strong>Vitamin B6</strong></p><p>Levodopa:&nbsp;Pyridoxine làm tăng chuyển hoá của levodopa, tuy nhiên tương tác này không xuất hiện khi có carbidopa phối hợp.</p><p><strong>Vitamin B12</strong></p><p>Chloramphenicol:&nbsp;Chloramphenicol có thể làm chậm hoặc gián đoạn phản ứng của hồng cầu lưới với vitamin B12, vì vậy cần theo dõi công thức máu nếu dùng kết hợp thuốc.</p><p><strong>Folic acid (Vitamin B9)</strong></p><p>Methotrexat:&nbsp;Bổ sung acid folic có thể làm giảm hiệu quả của methotrexat trong điều trị leukemia lympho bào cấp.</p><p><strong>Calci</strong></p><p>Thuốc lợi tiểu thiazid:&nbsp;Thuốc lợi tiểu thiazide làm giảm bài tiết calci. Do đó có nguy cơ tăng calci máu.</p><p><strong>Magie, kẽm</strong></p><p>Thuốc lợi tiểu giữ Kali:&nbsp;Thuốc lợi tiểu giữ Kali có đặc tính giữ magie và/hoặc giữ kẽm. Do đó có thể gây tăng nồng độ magie và kẽm.</p><p><strong>Calci, magie, kẽm</strong></p><p>Kháng sinh tetracycline; kháng sinh quinolone;&nbsp;Penicillamine;&nbsp;các Biphosphonate;&nbsp;Levothyroxine;&nbsp;Methyldopa;&nbsp;Mycophenolate mofeti;&nbsp;Eltrombopag:&nbsp;Các cation nhiều hoá trị như calci, magie, kẽm hình thành các phức chất với các chất nhất định dẫn đến giảm hấp thu của cả hai chất.</p><p>Uống cách&nbsp;trước 2 giờ hoặc sau 4 giờ với các thuốc khác, trừ những chỉ dẫn riêng.</p><p><i><strong>Tương tác với thức ăn</strong></i></p><p><strong>Vitamin C</strong></p><p>Sắt: Vitamin C có thể làm tăng hấp thu sắt, đặc biệt ở các bệnh nhân thiếu sắt. Tăng tích lũy sắt ở mức độ nhỏ có thể là quan trọng với các bệnh nhân có bệnh lý ứ sắt di truyền (hemochromatosis) hoặc các bệnh nhân dị hợp tử với bệnh lý này, do có thể làm trầm trọng hơn tình trạng ứ sắt.</p><p><strong>Canxi, Magnesi và Kẽm</strong></p><p>Acid oxalic (có trong rau bi na và cây đại hoàng) và acid phytic (có trong hầu hết các ngũ cốc) có thể hạn chế hấp thu canxi, magnesi và kẽm. Các sản phẩm dược không nên sử dụng trong vòng 2 giờ với các thức ăn có chứa hàm lượng acid oxalic và acid phytic.</p><p><i><strong>Tương tác với các xét nghiệm</strong></i></p><p><strong>Vitamin C</strong></p><p>Vitamin C là một chất khử mạnh (cho electron), nó có thể gây ra các ảnh hưởng hóa học trong các xét nghiệm mà có sự tham gia của các phản ứng oxy hóa khử, như xét nghiệm creatinine, carbamazepine, acid uric và phosphate vô cơ trong nước tiểu, trong huyết thanh và tìm thấy trong phân. Sử dụng các xét nghiệm chuyên biệt có đặc điểm không phụ thuộc vào việc giảm hoặc ngưng chế độ ăn nhiều vitamin C sẽ tránh các ảnh hưởng không mong muốn. Tham khảo thông tin của nhà sản xuất để xác định liệu vitamin C có ảnh hưởng tới kết quả xét nghiệm hay không. Tuy không ảnh hưởng đến chỉ số đường huyết, vitamin C có thể ảnh hưởng đến các xét nghiệm đo đường huyết và niệu đường dẫn đến sai lệch kết quả. Tham khảo thông tin bên trong vỏ hộp về dụng cụ và bộ xét nghiệm nhằm xác định ảnh hưởng của vitamin C (acid ascorbic) và hướng dẫn để có các kết quả xét nghiệm chính xác.</p><p><strong>Vitamin B1 và vitamin B6</strong></p><p>Urobilinogen: Thiamine và/hoặc pyridoxine có thể tạo ra kết quả dương tính giả trong xét nghiệm với thuốc thử Ehrlich.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Ngô Kim Thúy",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp loại giỏi trường Đại học Y Dược Huế. Từng tham gia nghiên cứu khoa học đề tài về Dược liệu. Nhiều năm kinh nghiệm làm việc trong lĩnh vực Dược phẩm. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-ngo-kim-thuy",
+        "isLegit": true,
+        "id": 9,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Nguyen_Kim_Thuy_ea92026f36.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Viên sủi Berocca Performance bổ sung vitamin C, B và Kẽm",
+        "metaDescription": "Thuốc Berocca là viên sủi bổ sung vitamin nhóm B, C cùng Canxi, Magie, Kẽm từ Bayer, hỗ trợ tăng năng lượng, giảm mệt mỏi, cải thiện tỉnh táo và tập trung.",
+        "id": 3381,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1758_33831b7cab.jpg",
+              "alternativeText": null
+            },
+            "title": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên)",
+            "description": "Viên sủi Berocca Performance Orange được chỉ định trong trường hợp thiếu hụt và tăng nhu cầu vitamin C, các vitamin nhóm B và kẽm."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 41916,
+        "title": "Hàm lượng vitamin C có trong 1 viên sủi Berocca Performance Orange là bao nhiêu?",
+        "content": "<p>Có 500mg vitamin C trong 1 viên sủi Berocca Performance Orange.</p>"
+      },
+      {
+        "id": 41922,
+        "title": "Nên pha 1 viên sủi Berocca Performance Orange với bao nhiêu ml nước?",
+        "content": "<p>Hòa tan viên sủi Berocca Performance Orange trong 1 ly nước khoảng 200ml.</p>"
+      },
+      {
+        "id": 41921,
+        "title": "Viên sủi Berocca Performance Orange có dùng được cho trẻ em hay không?",
+        "content": "<p>Không dùng viên sủi Berocca Performance Orange cho trẻ dưới 12 tuổi do chưa có dữ liệu về hiệu quả và an toàn trên nhóm tuổi này.</p>"
+      },
+      {
+        "id": 41923,
+        "title": "Nước tiểu có màu vàng hơn sau khi uống Berocca® Performance Orange có sao không?",
+        "content": "<p>Hiện tượng nước tiểu có màu vàng nhẹ sau khi sử dụng Berocca® Performance Orange là bình thường và không có hại. Đây là do thành phần vitamin B2 (riboflavin) có trong sản phẩm được cơ thể thải ra ngoài qua nước tiểu.</p>"
+      },
+      {
+        "id": 41924,
+        "title": "Phụ nữ có thai có thể dùng Berocca® Performance Orange để bổ sung vitamin không?",
+        "content": "<p>Mặc dù Berocca® Performance Orange được xem là an toàn khi dùng theo hướng dẫn, phụ nữ có thai chỉ nên sử dụng khi có chỉ định và khuyến cáo cụ thể từ thầy thuốc. Điều này là do chưa có đủ nghiên cứu kiểm soát đầy đủ trên đối tượng này để đánh giá toàn bộ nguy cơ.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00029004",
+        "name": "POKEMINE MEDISUN 20X10ML",
+        "webName": "Dung dịch uống Pokemine 50mg Medisun bổ sung sắt cho bệnh nhân thiếu máu (20 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/pokemine_20x10ml_medisun_00029004_18974a7442.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37079,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 152000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pokemine-medisun-20x10ml-29296.html",
+        "ingredients": "Sắt 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Medisun",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 20 ống X 10ml",
+        "prices": [
+          {
+            "id": 37079,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 152000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 37078,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 7600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00047080",
+        "name": "MYHEMO RELIV 3X10",
+        "webName": "Thuốc Myhemo 305mg Reliv dự phòng thiếu sắt và folic acid (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_myhemo_reliv_3x10_00047080_42c390f09b.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 73453,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 165000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/myhemo-reliv-3-x10.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 100mg",
+        "dosageForm": "Viên bao đường",
+        "brand": "Reliv",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 73453,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 165000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 73454,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 73455,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007450",
+        "name": "TOTHEMA 2X10 ỐNG 10ML",
+        "webName": "Dung dịch Tot'héma Innothera điều trị thiếu máu do sắt (2 vỉ x 10 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04101_788e84a74a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10875,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 120000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tothema-1952.html",
+        "ingredients": "Mangan gluconat 1.33mg, Đồng gluconat 0.7mg, Sắt gluconat 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Innothera",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 10 Ống x 10ml",
+        "prices": [
+          {
+            "id": 10875,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 120000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10873,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10874,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049621",
+        "name": "VITAMIN A-D HDPHARMA 10X10",
+        "webName": "Thuốc Vitamin A-D Hdpharma dùng dự phòng và điều trị các triệu chứng do thiếu vitamin A - D (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_vitamin_a_d_10x10_hdpharma_00049621_f8bba8c44a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 78290,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 32000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vitamin-a-d-hdpharma-10-x10.html",
+        "ingredients": "Vitamin A 5000iu, Vitamin D3 400iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Hdpharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 78290,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 32000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 78291,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 3200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 78292,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 320,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049065",
+        "name": "MAZZGIN DHG PHARMA 10X10",
+        "webName": "Thuốc Mazzgin DHG Pharma điều trị các trường hợp thiếu magnesi riêng biệt hay kết hợp (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_mazzgin_dhg_pharma_10x10_00049065_82218241b8.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 77246,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 53550,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/mazzgin-dhg-pharma-10-x10.html",
+        "ingredients": "Magnesi lactat dihydrat 470mg, Vitamin B6 5mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Dhg",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 77246,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 53550,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 77247,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 5355,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 77248,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 536,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00041155",
+        "name": "CARDIOTON LIPA 6X10",
+        "webName": "Thuốc Cardioton Lipa Pharma điều trị suy tim, tăng huyết áp, bổ sung năng lượng (6 vỉ x 10 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_cardioton_lipa_6x10_00041155_9ecff2b28f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 62161,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 7667,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cardioton-lipa-6-x10.html",
+        "ingredients": "Ubidecarenone 30mg, D-alpha tocopherol 6.71mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "LIPA PHARMACEUTICALSLTD",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 62161,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 62159,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 460000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 62160,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 76667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500658",
+        "name": "ZY-10 FORTE 100MG Y-MED 3X10",
+        "webName": "Thuốc Zy-10 Forte 100mg Y-Med điều trị bệnh suy tim xung huyết, thiếu hụt coenzym Q10 (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/5_9e44bd6ebd.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48922,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 15600,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/zy-10-forte-100mg-hop-3-vi-x-10-vien-ha-tay-34787.html",
+        "ingredients": "Ubidecarenone 100mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Y-MED",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48922,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 15600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 48924,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 468000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 48923,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 156000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 249,
+          "attributeName": "Ấn Độ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/in_India_090039de61.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00008451",
+        "name": "LONG HUYẾT PH 2X12 - TAN BẦM TÍM GIẢM PHÙ NỀ",
+        "webName": "Thuốc Long Huyết P/H Phúc Hưng đặc trị tan bầm tím, mau lành vết thương (2 vỉ x 12 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1039_fba416224d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12490,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 47000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/long-huyet-ph-tan-bam-tim-chua-lanh-vet-thuong-1590.html",
+        "ingredients": "Cao khô huyết giác 280mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Phúc Hưng",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 2 vỉ x 12 viên",
+        "prices": [
+          {
+            "id": 12488,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1958,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12489,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 23500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 12490,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 47000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007678",
+        "name": "UPSA-C 10V",
+        "webName": "Viên sủi UPSA-C UPSA SAS hỗ trợ điều trị tình trạng thiếu hụt vitamin C (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1794_11051dc2c2.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11216,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 37000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/upsa-c-1000mg-1878.html",
+        "ingredients": "Vitamin C 1000mg",
+        "dosageForm": "Viên nén sủi bọt",
+        "brand": "Upsa Sas",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 11215,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 3700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11216,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 37000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007180",
+        "name": "TARDYFERON B9 3X10",
+        "webName": "Thuốc Tardyferon B9 Pierre Fabre dự phòng thiếu sắt, acid folic cho phụ nữ có thai (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_tardyferon_b9_3_vi_x_10_vien_pierre_fabre_00007180_aec7b4c600.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10449,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tardyferon-b9-2068.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 50mg",
+        "dosageForm": "Viên nén",
+        "brand": "Pierre Fabre",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 10449,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10451,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 87000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10450,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 29000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006109",
+        "name": "PROCARE DIAMOND 216MG CATALENT 30V",
+        "webName": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_7021_60ee_large_89e91ba6fb.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8834,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 420000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/procare-diamond-216mg-2522.html",
+        "ingredients": "Vitamin B1 5mg, Vitamin B2 5mg, Nicotinamide 5mg, Vitamin D3 200iu, Vitamin B6 5mg, Vitamin B12 10mcg, Vitamin E 10iu, Folic Acid 500mcg, Calcium 59mg, Phosphorus 46.6mg, Magnesium ion 30mg, Vitamin C 50mg, Zinc 8mg, Iron 24mg, Iodine 200mcg, Omega 3 500mg, Betacarotene 1mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "PROCARE",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 30 Viên",
+        "prices": [
+          {
+            "id": 8833,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 14000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 8834,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 420000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 254,
+          "attributeName": "Tây Ban Nha",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/es_Spain_03bf620563.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 89,
+      "items": [
+        {
+          "id": 3326179,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0947xxxxxx",
+          "name": "Thu Vũ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Trẻ em 4 tuổi có sử dụng được không",
+          "createdAt": "2026-06-22 09:22:29",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-22 09:22:29",
+          "replies": [
+            {
+              "id": 3326180,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Phương Thảo",
+                "moderatorEmail": "thaoltp50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Phương Thảo",
+              "email": "thaoltp50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Thu, </p><p>Hiện sản phẩm không dùng cho trẻ dưới 12 tuổi do chưa có dữ liệu về hiệu quả và an toàn trên nhóm tuổi này ạ</p><p>Nhà thuốc thông tin đến chị.</p><p><br></p>",
+              "createdAt": "2026-06-22 09:23:11",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-22 09:22:29",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3319150,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0373xxxxxx",
+          "name": "Đinh Thị Như Quỳnh",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Bầu dùng được không ạ",
+          "createdAt": "2026-06-07 23:33:20",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-07 23:33:20",
+          "replies": [
+            {
+              "id": 3319259,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Đăng Dương",
+                "moderatorEmail": "duongnd46@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Đăng Dương",
+              "email": "duongnd46@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Quỳnh,</p><p>Phụ nữ có thai có thể sử dụng viên sủi Berocca, tuy nhiên không nên tự ý sử dụng nếu không có chỉ định từ bác sĩ. Việc tham vấn y khoa là cực kỳ quan trọng đối với các loại viên sủi bổ sung.</p><p>Nhà thuốc thông tin đến.</p>",
+              "createdAt": "2026-06-08 09:15:44",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-07 23:33:20",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3317587,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0905xxxxxx",
+          "name": "Ngọc Nguyễn",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Sinh viên học thi cả ngày thì nên bổ sung loại này hay loại khác hoặc là chỉ ăn uống mà không cần bổ sung à ? Cám ơn !",
+          "createdAt": "2026-06-04 17:28:25",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-06-04 17:28:25",
+          "replies": [
+            {
+              "id": 3317589,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Tiểu Thanh Trúc",
+                "moderatorEmail": "trucptt5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Tiểu Thanh Trúc",
+              "email": "trucptt5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị <strong>Ngọc</strong>,</p><p>Dạ chị có thể sử dụng để giúp tăng đề kháng cho cơ thể và kết hợp thêm chế độ ăn uống phù hợp ạ.</p><p>Nhà thuốc thông tin đến chị.</p><p><br></p>",
+              "createdAt": "2026-06-04 17:30:48",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-06-04 17:28:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3305438,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0906xxxxxx",
+          "name": "Nguyệt Nhi",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Uống viên sủi này kết hợp với uống sắt cùng lúc có được không ạ",
+          "createdAt": "2026-05-12 01:25:03",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-12 01:25:03",
+          "replies": [
+            {
+              "id": 3305542,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ngọc",
+                "moderatorEmail": "ngocnth74@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ngọc",
+              "email": "ngocnth74@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Nhi</p><p>Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất&nbsp;<strong>NÊN UỐNG CÁCH XA</strong>&nbsp;viên sắt ít nhất 1-2 tiếng.&nbsp;</p><p>Nhà thuốc thông tin đến chị.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-05-12 09:11:36",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-12 01:25:03",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3290492,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0333xxxxxx",
+          "name": "A Việt",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "ngày uống đc mấy viên",
+          "createdAt": "2026-04-14 10:55:05",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-14 10:55:05",
+          "replies": [
+            {
+              "id": 3290500,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Lê Hải Bình",
+                "moderatorEmail": "binhtlh@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Lê Hải Bình",
+              "email": "binhtlh@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Việt,</p><p>Dạ liều dùng sản phẩm Viên sủi Berocca Bayer: </p><p>Người lớn và trẻ vị thành niên: Một viên sủi/ ngày.</p><p>Nhà thuốc xin phép thông tin đến anh ạ.</p>",
+              "createdAt": "2026-04-14 11:03:50",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-14 10:55:05",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 23,
+      "items": [
+        {
+          "id": 3361400,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0961xxxxxx",
+          "name": "Phạm Minh Khuê",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mình thấy có cặn trong nước, liệu có làm sao không?",
+          "createdAt": "2026-08-21 11:25:24",
+          "createdAtDisplay": "15 ngày trước",
+          "updatedAt": "2026-08-21 11:25:24",
+          "replies": [
+            {
+              "id": 3361403,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Ngọc Diệu Tuyền",
+                "moderatorEmail": "tuyennnd2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Ngọc Diệu Tuyền",
+              "email": "tuyennnd2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Phạm Minh Khuê,</p><p>Dạ hiện tượng cặn là bình thường do các thành phần khoáng chất (Canxi, Magie, Kẽm) không tan hết hoàn toàn. Nếu thuốc không bị ẩm mốc, biến màu lạ hoặc hết hạn, chị có thể khuấy nhẹ và sử dụng bình thường ạ.</p><p>Nhà thuốc thông tin tới chị.</p><p><br></p>",
+              "createdAt": "2026-08-21 11:32:27",
+              "createdAtDisplay": "15 ngày trước",
+              "updatedAt": "2026-08-21 11:25:24",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3335625,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0903xxxxxx",
+          "name": "Nguyễn Thị Thúy Hằng",
+          "email": "",
+          "score": 4,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "em uống viên này buổi sáng mà tiểu ra nước tiểu vàng giống nước của thuốc có sao ko ạ",
+          "createdAt": "2026-07-08 17:33:43",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-08 17:33:43",
+          "replies": [
+            {
+              "id": 3335632,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Hồng Khuyên",
+                "moderatorEmail": "khuyennh4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Hồng Khuyên",
+              "email": "khuyennh4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hằng,</p><p><strong>Hiện tượng nước tiểu có màu vàng đậm sau khi uống Viên sủi Berocca là phản ứng sinh lý hoàn toàn bình thường và lành tính do thành phần Vitamin B2 (Riboflavin) gây ra ạ. Chị hoàn toàn có thể yên tâm tiếp tục sử dụng sản phẩm để tăng cường sức đề kháng và bổ sung năng lượng thiết yếu cho cơ thể mỗi ngày ạ.</strong></p><p>Nhà thuốc xin phép thông tin đến chị ạ. </p>",
+              "createdAt": "2026-07-08 17:46:43",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-08 17:33:43",
+              "replies": []
+            },
+            {
+              "id": 3343108,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0974xxxxxx",
+              "name": "Trần Nguyên Kha",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "sỏi thận có uốn dc k ạ",
+              "createdAt": "2026-07-20 22:10:21",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-08 17:33:43",
+              "replies": []
+            },
+            {
+              "id": 3343152,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Bảo Quyên",
+                "moderatorEmail": "quyentb6@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Bảo Quyên",
+              "email": "quyentb6@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Kha</p><p>Hiện tại sản phẩm viên sủi Berocca Bayer bổ sung vitamin và khoáng chất&nbsp;có thông tin chống chỉ định với bênh sỏi thận và hoặc tiền sử&nbsp;sỏi thận ạ. Tình trạng của anh chưa phù hợp dùng sản phẩm ạ.</p><p>Nhà thuốc thông tin đến anh.</p>",
+              "createdAt": "2026-07-21 08:06:07",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-08 17:33:43",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3304417,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0985xxxxxx",
+          "name": "Đặng Thanh Hải",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Người tiểu đường týp 2 có sử dụng đc k ah?",
+          "createdAt": "2026-05-09 20:50:28",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-09 20:50:28",
+          "replies": [
+            {
+              "id": 3304434,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Quý",
+                "moderatorEmail": "quyntn@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Ngọc Quý",
+              "email": "quyntn@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh <strong>Đặng Thanh Hải, </strong></p><p>Dạ sản phẩm viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên) đối với người tiểu đường tuýp 2 cần sử dụng theo chỉ định của bác sĩ ạ. </p><p>Nhà thuốc thông tin tới anh.</p>",
+              "createdAt": "2026-05-09 22:07:05",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-09 20:50:28",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3263676,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0984xxxxxx",
+          "name": "Chị Dung",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bà bầu ,trẻ em 3 tuổi ,nam giới uống bổ tinh trùng dùng được k",
+          "createdAt": "2026-02-24 07:52:33",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-24 07:52:33",
+          "replies": [
+            {
+              "id": 3263688,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mào Thị Chín",
+                "moderatorEmail": "chinmt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mào Thị Chín",
+              "email": "chinmt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Dung,</p><p>Dạ Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất, phù hợp cho người từ 12 tuổi trở lên. Với phụ nữ đang mang thai, Chị nên tham khảo ý kiến Bác sĩ trước khi sử dụng để đảm bảo an toàn ạ.</p><p>Đối với nam giới đang dùng thuốc bổ tinh, vẫn có thể sử dụng Kudos Vitamin C 1000mg để bổ sung vitamin C cho cơ thể. Tuy nhiên nên uống cách thuốc bổ tinh trước 2 giờ hoặc sau 4 giờ để hạn chế tương tác và giúp hấp thu tốt hơn ạ.</p><p>Nhà thuốc gửi thông tin đến Chị. </p>",
+              "createdAt": "2026-02-24 08:02:54",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-24 07:52:33",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3236105,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0933xxxxxx",
+          "name": "Le Vu",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "ngày nào cũng uống được ko ds",
+          "createdAt": "2025-12-27 13:45:40",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2025-12-27 13:45:40",
+          "replies": [
+            {
+              "id": 3236109,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Thị Bích Lựu",
+                "moderatorEmail": "luuntb4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Thị Bích Lựu",
+              "email": "luuntb4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Vũ, </p><p>Dạ anh có thể dùng 1 viên/ ngày theo đợt ngắn khoảng 10-30 ngày. Sau đó ngưng 1-2 tuần và dùng lại theo nhu cầu ạ. </p><p>Nhà thuốc thông tin đến anh ạ. </p>",
+              "createdAt": "2025-12-27 13:55:12",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-12-27 13:45:40",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 4.9,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 1,
+        "totalLv5": 22
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1758_33831b7cab.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1748_e5cdb638e9.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1752_a52605d7b4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1749_29f2e2edb7.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1751_57a74584f2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1750_9dc71f21e6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1753_5272706a4a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1759_c1254ddcd6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1760_6d244a3552.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Viên sủi Berocca Performance Orange được chỉ định trong trường hợp thiếu hụt và tăng nhu cầu vitamin C, các vitamin nhóm B và kẽm.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.9",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ngô Kim Thúy"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "23"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/berocca-1515.html",
+        "priceCurrency": "VND",
+        "price": 75000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Viên sủi Berocca Performance bổ sung vitamin C, B và Kẽm",
+      "description": "Thuốc Berocca là viên sủi bổ sung vitamin nhóm B, C cùng Canxi, Magie, Kẽm từ Bayer, hỗ trợ tăng năng lượng, giảm mệt mỏi, cải thiện tỉnh táo và tập trung.",
+      "openGraph": {
+        "title": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên)",
+        "description": "Viên sủi Berocca Performance Orange được chỉ định trong trường hợp thiếu hụt và tăng nhu cầu vitamin C, các vitamin nhóm B và kẽm.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1758_33831b7cab.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/berocca-1515.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/berocca-1515.html"
+    },
+    "productPacks": {
+      "totalCount": 1,
+      "packs": [
+        {
+          "id": 4,
+          "name": "Nhóm sản phẩm giảm cảm ho sổ mũi người lớn",
+          "description": "<p><span style=\"color:#1976d2;\"><strong>🤧Combo Cảm - Ho - Sổ mũi </strong></span>giúp hỗ trợ cải thiện cảm giác mệt mỏi, cổ họng khô rát, mũi khó chịu hoặc đau đầu nhẹ, đặc biệt là khi thời tiết thay đổi thất thường.</p>",
+          "products": [
+            {
+              "sku": "00009723",
+              "measureUnitId": 2,
+              "measureUnitName": "Tuýp"
+            },
+            {
+              "sku": "00049129",
+              "measureUnitId": 1,
+              "measureUnitName": "Hộp"
+            },
+            {
+              "sku": "00010601",
+              "measureUnitId": 1,
+              "measureUnitName": "Hộp"
+            },
+            {
+              "sku": "00000462",
+              "measureUnitId": 1,
+              "measureUnitName": "Hộp"
+            }
+          ],
+          "thumbnail": {
+            "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cam_ho_so_mui_386a19ed01.png",
+            "alternativeText": null
+          }
+        }
+      ]
+    }
+  }
+}

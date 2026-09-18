@@ -1,0 +1,748 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/febuday-1408.html",
+  "ingestion_timestamp": "2026-09-05T09:41:08.562168+00:00",
+  "file_hash": "dcf7a66ffc979c9856ed5ab97156cc4c940cacd95b1077a03029060fa2e08de8",
+  "lineage_hash": "6c735384bfd68948695a1181d3165e11189adc991fb4acfa14e5932e32cc41ce",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/febuday-1408.html",
+    "product": {
+      "sku": "00010054",
+      "webName": "Thuốc Febuday 40 MSN điều trị tăng acid uric huyết (3 vỉ x 10 viên)",
+      "name": "FEBUDAY 40 MSN 3X10",
+      "shortName": "FEBUDAY 40 MSN 3X10",
+      "headingText": "Thuốc Febuday 40",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/febuday_40_5054cb0fe9.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010054_febuday_2262_6110_large_c7f26c853b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010054_febuday_6919_6110_large_cb97ad43ea.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010054_febuday_1628491947_337d920c98.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 726,
+          "name": "Cơ - xương - khớp",
+          "parentName": "Thuốc",
+          "slug": "thuoc/co-xuong-khop",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 739,
+          "name": "Thuốc trị gout",
+          "parentName": "Cơ - xương - khớp",
+          "slug": "thuoc/co-xuong-khop/thuoc-tri-gout",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/febuday-1408.html",
+      "ingredient": [
+        {
+          "id": 24233,
+          "ingredientId": 20055,
+          "shortDescription": "40mg",
+          "name": "Febuxostat",
+          "isPrimary": false,
+          "slug": "thanh-phan/febuxostat"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "890110135024",
+      "manufactor": "Ấn Độ",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Có thể dùng thuốc mà không cần quan tâm đến thức ăn hoặc sử dụng các thuốc kháng acid.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Liều khuyến cáo của febuxostat là 40 mg hoặc 80 mg/lần/ ngày.</p>\n\n<p>Liều febuxostat 80 mg được khuyến cáo sử dụng ở bệnh nhân không đạt mức acid uric huyết (sUA) nhỏ hơn 6 mg/dl sau 2 tuần dùng liều 40 mg.</p>\n\n<p>Liều febuxostat 120 mg ngày một lần có thể được xem xét nếu chỉ số acid uric huyết thanh &gt; 6 mg/dl (357μmol/l) sau 2-4 tuần dùng liều 80 mg.</p>\n\n<p>Mục tiêu điều trị là giảm và duy trì acid uric huyết thanh dưới 6 mg/dl (357μmol/l). Kiểm tra để đạt mục tiêu này, SUA &lt; 6mg/dl có thể được thực hiện sớm nhất là 2 tuần sau khi bắt đầu điều trị febuxostat.</p>\n\n<p>Ngăn ngừa cơn gút cấp: Sau khi khởi đầu điều trị với febuxostat, sự gia tăng cơn gút cấp thường xuyên được báo cáo. Sự tăng này là do thay đổi chỉ số acid uric huyết thanh, kết quả của việc huy động urate từ kho dự trữ ở mô. Dự phòng cơn gút cấp với 1 thuốc chống viêm không steroid (NSAID) hay colchicine được khuyến cáo khi khởi đầu điều trị với febuxostat. Khuyến cáo dự phòng còn gút cấp ít nhất là 6 tháng. Nếu cơn gút cấp xảy ra trong quá trình điều trị với frbuxostat, cần ngưng sử dụng. Cơn gút cấp nên được kiểm soát đồng thời, khi thích hợp ở từng bệnh nhân.</p>\n\n<p><em>Các nhóm bệnh nhân đặc biệt:</em></p>\n\n<p><em>Bệnh nhân suy thận:</em> Không cần chỉnh liều ở bệnh nhân suy thận nhẹ đến trung bình. Hiệu quả và an toàn không được đánh giá đầy đủ ở những bệnh nhân suy thận nặng (độ thanh thải creatinin &lt; 30ml/phút).</p>\n\n<p><em>Bệnh nhân suy gan: </em>Liều khuyến cáo ở bệnh nhân suy gan nhẹ là 80mg. Những thông tin có sẵn ở bệnh nhân suy gan trung bình là hạn chế. Hiệu quả và an toàn của febuxostat chưa được cáo báo ở bệnh nhân suy gan nặng.</p>\n\n<p><em>Người cao tuổi: </em>Không cần chỉnh liều.</p>\n\n<p><em>Trẻ em và thanh thiếu niên</em>: Không có kinh nghiệm ở trẻ em và thanh thiếu niên, việc sử dụng febuxostat ở những bệnh nhân này không được khuyến cáo.</p>\n\n<p><em>Bệnh nhân ghép tạng:</em> Không có kinh nghiệm ở bệnh nhân ghép tạng, sử dụng febuxostat ở những bệnh nhân này không được khuyến cáo.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Nghiên cứu ở các đối tượng khỏe mạnh dùng febuxostat với liều lượng lên đến 300 mg/ngày trong 7 ngày mà không có bằng chứng về giới hạn liều độc. Không có quá liều của febuxostat được báo cáo trong các nghiên cứu lâm sàng. Trường hợp quá liều, bệnh nhân cần được điều trị triệu chứng và chăm sóc hỗ trợ.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Chưa ghi nhận</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc FEBUDAY 40 được chỉ định dùng trong trường hợp sau:</p>\n\n<p>Điều trị chứng tăng acid uric huyết khi tinh thể urat đã hình thành (bao gồm tiền sử, sự hiện diện của u cục (hạt tophi) và/hoặc <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-253.html\">viêm khớp</a></strong> do <strong><a href=\"https://nhathuoclongchau.com.vn/benh/gut-564.html\">gút</a></strong>).</p>\n\n<h3>Dược lực học</h3>\n\n<p>Febuxostat là chất ức chế xanthin oxidase, hiệu quả điều trị của nó đạt được bằng cách làm giảm acid uric huyết thanh. Ở nồng độ điều trị febuxostat không ức chế các enzym khác tham gia vào việc tổng hợp và chuyển hóa của purin và pyrimidin.</p>\n\n<p>Ảnh hưởng trên nồng độ acid uric và xanthin: Ở người khỏe mạnh, febuxostat gây ra sự giảm phụ thuộc liều đối với nồng độ acid uric huyết thanh trung bình trong vòng 24 giờ và làm tăng nồng độ xanthin huyết thanh trung bình trong vòng 24 giờ. Ngoài ra, có sự giảm bài tiết acid uric nước tiểu hàng ngày toàn phần. Tương tự, có sự tăng bài tiết xanthin trong nước tiểu hàng ngày toàn phần. Sự giảm tỉ lệ phần trăm acid uric huyết thanh trung bình trong vòng 24 giờ năm trong khoảng 40% - 50% ở liều 40 mg và 80 mg.</p>\n\n<p>Ảnh hưởng đối với sự tái khử cực ở tim: Ảnh hưởng của febuxostat đối với sự tái khử cực ở tim được đánh giá bằng khoảng QTc đã được báo cáo ở người khỏe mạnh bình thường và bệnh nhân gút. Febuxostat ở liều lên tới 300mg/ngày, ở trạng thái ổn định, không cho thấy ảnh hưởng trên khoảng QTc.</p>\n\n<h3>Dược động học</h3>\n\n<p>Ở người khỏe mạnh, nồng độ huyết tương tối đa (Cmax) và AUC của febuxostat tăng tỉ lệ với liều sau khi dùng liều đơn và đa liều 10 mg đến 120mg. Không có tích lũy ở liều điều trị được dùng mỗi 24 giờ. Febuxostat có vòng đời bán thải trung bình (t1/2) kiểu biến khoảng 5-8 giờ.</p>\n\n<p><em>Hấp thu</em>: Sự hấp thu của febuxostat có gắn phóng xạ sau khi dùng liều dự đoán ít nhất là 49% (dựa trên tổng hoạt tính phóng xạ được tái hấp thu từ nước tiểu). Nồng độ huyết tương tối đa của febuxostat đạt được từ 1 đến 1,5 giờ sau khi uống. Sau khi uống đa liều 40 mg và 80 mg, một lần/ ngày, Cmax đạt khoảng 1,6 ± 0,6 mcg/ml và 2,6 ± 1,7 mcg/ml tương ứng. Sinh khả dụng tuyệt đối của viên nén febuxostat vẫn chưa được báo cáo.</p>\n\n<p><em>Phân bố:</em> Thể tích phân bố kiểu biến trung bình của febuxostat (VSS/F) là khoảng 50 L (CV ~ 40%). Liên kết của febuxostat với protein huyết tương khoảng 99,2% (chủ yếu với albumin) và không đổi trong khoảng nồng độ đạt được khi dùng liều 40mg và 80mg.</p>\n\n<p><em>Chuyển hóa</em>: Febuxostat được chuyển hóa rộng rãi bằng sự liên kết qua uridin diphosphat glucuronosyltransferase (UGT) enzymes gồm UGT1A1, UGT1A3, UGT1A9 và UGT2B7 và sự oxy hóa qua cytochrome P450 (CYP) enzymes gồm CYP1A2, 2C8 và 2C9 và non-P450 enzymes. Vai trò của mỗi đồng vị enzyme trong quá trình trao đổi chất của febuxostat là không rõ ràng. Sự oxy hóa của chuỗi isobutyl dẫn đến sự hình thành các chất chuyển hóa hydroxy có dược tính, tất cả đều xảy ra trong huyết tương của người ở một mức độ thấp hơn nhiều so với febuxostat.</p>\n\n<p><em>Thải trừ: </em>Febuxostat được bài tiết bằng cả hai đường gan và thận. Sau khi uống liều 80 mg febuxostat được gắn 14C, khoảng 49% liều dùng được tìm thấy trong nước tiểu dưới dạng febuxostat không đổi (3%), dạng glucuronid acyl (30%), các dạng chuyển hóa do oxy hóa và dạng liên hợp của nó (13%), các chất chuyển hóa không được biết khác (3%). Ngoài sự bài tiết qua nước tiểu, khoảng 45% liều dùng được tìm thấy trong phần dưới dạng febuxostat không đổi (12%), dạng glucuronid acyl (1%), chất chuyển hóa oxy hóa và dạng liên hợp của nó (25%) và các chất chuyển hóa khác không được biết (7%).</p>",
+      "brand": "MSN",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc FEBUDAY 40, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt;1/100</em></p>\n\n<ul>\n\t<li>Hệ tiêu hóa: Buồn nôn.</li>\n\t<li>Hệ gan mật: Bất thường chức năng gan.</li>\n\t<li>Hệ cơ xương khớp: Đau khớp.</li>\n\t<li>Da: Phát ban.</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>Máu và các rối loạn hệ thống bạch huyết: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-267.html\">Thiếu máu</a></strong>, ban xuất huyết giảm tiểu cầu tự phát, tăng bạch cầu/ giảm bạch cầu, giảm bạch cầu trung tính, giảm toàn thể huyết cầu, phì đại lách, giảm tiểu cầu.</li>\n\t<li>Hệ tim mạch: Đỏ bừng mặt, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">tăng huyết áp</a></strong>, hạ huyết áp, cơn đau thắt ngực, rung tâm nhĩ/cuồng động tâm nhĩ, tiếng thổi tim, ECG bất thường, đánh trống ngực, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhi-p-tim-cha-m-301.html\">nhịp tim chậm</a></strong> xoang, nhịp tim nhanh.</li>\n\t<li>Tai và đường rối (tai trong): Điếc, ù tai, chóng mặt.</li>\n\t<li>Rối loạn về mắt: Thị lực bị mờ.</li>\n\t<li>Hệ tiêu hóa: Chướng bụng, đau bụng, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a></strong>, khô miệng, khó tiêu, đầy hơi, viêm dạ dày, bệnh trào ngược dạ dày, khó chịu đường tiêu hóa, đau nướu, thổ huyết, toàn dịch vị, đại tiện phân có máu, loét miệng, viêm tụy, loét dạ dày, nôn mửa và tiêu chảy.</li>\n\t<li>Rối loạn toàn thân và tại vị trí dùng: Suy nhược, ngực đau/khó chịu, phù nề, mệt mỏi, cảm thấy bất thường, rối loạn dáng đi, các triệu chứng giống như cúm, đau, khát nước.</li>\n\t<li>Hệ gan mật: Sỏi mật/<strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-tui-mat-409.html\">viêm túi mật</a></strong>, gan nhiễm mỡ, viêm gan, gan to.</li>\n\t<li>Hệ thống miễn dịch: Quá mẫn.</li>\n\t<li>Rối loạn trao đổi chất và dinh dưỡng: Chán ăn, giảm/tăng thèm ăn, mất nước, đái tháo đường, tăng cholesterol máu, tăng đường huyết, tăng lipid máu, tăng triglycerid máu, hạ kali máu, giảm/tăng trọng lượng.</li>\n\t<li>Hệ cơ xương khớp: Viêm khớp, cứng khớp, sưng khớp, co thắt cơ/co giật/ căng cơ/<strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhuoc-co-26.html\">nhược cơ</a></strong>, đau cơ xương/cứng cơ, đau cơ.</li>\n\t<li>Hệ thần kinh: Vị giác thay đổi, rối loạn cân bằng, tai biến mạch máu não, hội chứng Guillain-Barré, nhức đầu, liệt nhẹ bán thân, giảm cảm giác, giảm khứu giác, hôn mê, suy giảm tinh thần, đau nửa đầu, dị cảm, buồn ngủ, thiếu máu cục bộ thoáng qua, run.</li>\n\t<li>Rối loạn tâm thần: Kích động, lo âu, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tram-cam-79.html\">trầm cảm</a></strong>, mất ngủ, dễ bị kích thích, giảm ham muốn tình dục, căng thẳng, hoảng loạn, thay đổi tính cách.</li>\n\t<li>Da và rối loạn các mô dưới da: Rụng tóc, phù mạch, viêm da, chứng da vẽ nổi, bầm máu, chàm bội nhiễm, thay đổi màu tóc, tóc tăng trưởng bất thường, tăng tiết mồ hôi, lột da, xuất huyết dưới da, mẫn cảm ánh sáng, ngứa, ban xuất huyết, sự đổi màu da/thay đổi sắc tố da, tổn thương da, da có mùi bất thường, nổi mề đay.</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "indications": [
+        {
+          "id": 289,
+          "name": "Gút",
+          "slug": "benh/gut-564.html"
+        }
+      ],
+      "brandOrigin": "Ấn Độ",
+      "producer": "MSN",
+      "shortDescription": "<p>Thuốc FEBUDAY 40 của MSN LABORATORIES PRIVATE LIMITED, chứa dược chất chính là febuxostat, được dùng để giảm acid uric ở những người bị bệnh gút.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/msn",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "FEBUDAY 40",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "24 tháng",
+      "brandOriginBadges": {
+        "id": 249,
+        "attributeName": "Ấn Độ",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/in_India_090039de61.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 739,
+        "name": "Thuốc trị gout",
+        "parentName": "Cơ - xương - khớp",
+        "slug": "thuoc/co-xuong-khop/thuoc-tri-gout",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/febuday_40_5054cb0fe9.jpg",
+          "alternativeText": "Thuốc Febuday 40 MSN điều trị tăng acid uric huyết (3 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010054_febuday_2262_6110_large_c7f26c853b.jpg",
+          "alternativeText": "Thuốc Febuday 40 MSN điều trị tăng acid uric huyết (3 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010054_febuday_6919_6110_large_cb97ad43ea.jpg",
+          "alternativeText": "Thuốc Febuday 40 MSN điều trị tăng acid uric huyết (3 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010054_febuday_1628491947_337d920c98.jpg",
+          "alternativeText": "Thuốc Febuday 40 MSN điều trị tăng acid uric huyết (3 vỉ x 10 viên) 4"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Cơ - xương - khớp",
+        "slug": "/thuoc/co-xuong-khop"
+      },
+      {
+        "name": "Thuốc trị gout",
+        "slug": "/thuoc/co-xuong-khop/thuoc-tri-gout"
+      }
+    ],
+    "content": {
+      "sku": "00010054",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Có thể dùng thuốc mà không cần quan tâm đến thức ăn hoặc sử dụng các thuốc kháng acid.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Liều khuyến cáo của febuxostat là 40 mg hoặc 80 mg/lần/ ngày.</p>\n\n<p>Liều febuxostat 80 mg được khuyến cáo sử dụng ở bệnh nhân không đạt mức acid uric huyết (sUA) nhỏ hơn 6 mg/dl sau 2 tuần dùng liều 40 mg.</p>\n\n<p>Liều febuxostat 120 mg ngày một lần có thể được xem xét nếu chỉ số acid uric huyết thanh &gt; 6 mg/dl (357μmol/l) sau 2-4 tuần dùng liều 80 mg.</p>\n\n<p>Mục tiêu điều trị là giảm và duy trì acid uric huyết thanh dưới 6 mg/dl (357μmol/l). Kiểm tra để đạt mục tiêu này, SUA &lt; 6mg/dl có thể được thực hiện sớm nhất là 2 tuần sau khi bắt đầu điều trị febuxostat.</p>\n\n<p>Ngăn ngừa cơn gút cấp: Sau khi khởi đầu điều trị với febuxostat, sự gia tăng cơn gút cấp thường xuyên được báo cáo. Sự tăng này là do thay đổi chỉ số acid uric huyết thanh, kết quả của việc huy động urate từ kho dự trữ ở mô. Dự phòng cơn gút cấp với 1 thuốc chống viêm không steroid (NSAID) hay colchicine được khuyến cáo khi khởi đầu điều trị với febuxostat. Khuyến cáo dự phòng còn gút cấp ít nhất là 6 tháng. Nếu cơn gút cấp xảy ra trong quá trình điều trị với frbuxostat, cần ngưng sử dụng. Cơn gút cấp nên được kiểm soát đồng thời, khi thích hợp ở từng bệnh nhân.</p>\n\n<p><em>Các nhóm bệnh nhân đặc biệt:</em></p>\n\n<p><em>Bệnh nhân suy thận:</em> Không cần chỉnh liều ở bệnh nhân suy thận nhẹ đến trung bình. Hiệu quả và an toàn không được đánh giá đầy đủ ở những bệnh nhân suy thận nặng (độ thanh thải creatinin &lt; 30ml/phút).</p>\n\n<p><em>Bệnh nhân suy gan: </em>Liều khuyến cáo ở bệnh nhân suy gan nhẹ là 80mg. Những thông tin có sẵn ở bệnh nhân suy gan trung bình là hạn chế. Hiệu quả và an toàn của febuxostat chưa được cáo báo ở bệnh nhân suy gan nặng.</p>\n\n<p><em>Người cao tuổi: </em>Không cần chỉnh liều.</p>\n\n<p><em>Trẻ em và thanh thiếu niên</em>: Không có kinh nghiệm ở trẻ em và thanh thiếu niên, việc sử dụng febuxostat ở những bệnh nhân này không được khuyến cáo.</p>\n\n<p><em>Bệnh nhân ghép tạng:</em> Không có kinh nghiệm ở bệnh nhân ghép tạng, sử dụng febuxostat ở những bệnh nhân này không được khuyến cáo.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Nghiên cứu ở các đối tượng khỏe mạnh dùng febuxostat với liều lượng lên đến 300 mg/ngày trong 7 ngày mà không có bằng chứng về giới hạn liều độc. Không có quá liều của febuxostat được báo cáo trong các nghiên cứu lâm sàng. Trường hợp quá liều, bệnh nhân cần được điều trị triệu chứng và chăm sóc hỗ trợ.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Chưa ghi nhận</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc FEBUDAY 40</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc FEBUDAY 40, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt;1/100</em></p>\n\n<ul>\n\t<li>Hệ tiêu hóa: Buồn nôn.</li>\n\t<li>Hệ gan mật: Bất thường chức năng gan.</li>\n\t<li>Hệ cơ xương khớp: Đau khớp.</li>\n\t<li>Da: Phát ban.</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>Máu và các rối loạn hệ thống bạch huyết: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/thieu-mau-267.html\">Thiếu máu</a></strong>, ban xuất huyết giảm tiểu cầu tự phát, tăng bạch cầu/ giảm bạch cầu, giảm bạch cầu trung tính, giảm toàn thể huyết cầu, phì đại lách, giảm tiểu cầu.</li>\n\t<li>Hệ tim mạch: Đỏ bừng mặt, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">tăng huyết áp</a></strong>, hạ huyết áp, cơn đau thắt ngực, rung tâm nhĩ/cuồng động tâm nhĩ, tiếng thổi tim, ECG bất thường, đánh trống ngực, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhi-p-tim-cha-m-301.html\">nhịp tim chậm</a></strong> xoang, nhịp tim nhanh.</li>\n\t<li>Tai và đường rối (tai trong): Điếc, ù tai, chóng mặt.</li>\n\t<li>Rối loạn về mắt: Thị lực bị mờ.</li>\n\t<li>Hệ tiêu hóa: Chướng bụng, đau bụng, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a></strong>, khô miệng, khó tiêu, đầy hơi, viêm dạ dày, bệnh trào ngược dạ dày, khó chịu đường tiêu hóa, đau nướu, thổ huyết, toàn dịch vị, đại tiện phân có máu, loét miệng, viêm tụy, loét dạ dày, nôn mửa và tiêu chảy.</li>\n\t<li>Rối loạn toàn thân và tại vị trí dùng: Suy nhược, ngực đau/khó chịu, phù nề, mệt mỏi, cảm thấy bất thường, rối loạn dáng đi, các triệu chứng giống như cúm, đau, khát nước.</li>\n\t<li>Hệ gan mật: Sỏi mật/<strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-tui-mat-409.html\">viêm túi mật</a></strong>, gan nhiễm mỡ, viêm gan, gan to.</li>\n\t<li>Hệ thống miễn dịch: Quá mẫn.</li>\n\t<li>Rối loạn trao đổi chất và dinh dưỡng: Chán ăn, giảm/tăng thèm ăn, mất nước, đái tháo đường, tăng cholesterol máu, tăng đường huyết, tăng lipid máu, tăng triglycerid máu, hạ kali máu, giảm/tăng trọng lượng.</li>\n\t<li>Hệ cơ xương khớp: Viêm khớp, cứng khớp, sưng khớp, co thắt cơ/co giật/ căng cơ/<strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhuoc-co-26.html\">nhược cơ</a></strong>, đau cơ xương/cứng cơ, đau cơ.</li>\n\t<li>Hệ thần kinh: Vị giác thay đổi, rối loạn cân bằng, tai biến mạch máu não, hội chứng Guillain-Barré, nhức đầu, liệt nhẹ bán thân, giảm cảm giác, giảm khứu giác, hôn mê, suy giảm tinh thần, đau nửa đầu, dị cảm, buồn ngủ, thiếu máu cục bộ thoáng qua, run.</li>\n\t<li>Rối loạn tâm thần: Kích động, lo âu, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tram-cam-79.html\">trầm cảm</a></strong>, mất ngủ, dễ bị kích thích, giảm ham muốn tình dục, căng thẳng, hoảng loạn, thay đổi tính cách.</li>\n\t<li>Da và rối loạn các mô dưới da: Rụng tóc, phù mạch, viêm da, chứng da vẽ nổi, bầm máu, chàm bội nhiễm, thay đổi màu tóc, tóc tăng trưởng bất thường, tăng tiết mồ hôi, lột da, xuất huyết dưới da, mẫn cảm ánh sáng, ngứa, ban xuất huyết, sự đổi màu da/thay đổi sắc tố da, tổn thương da, da có mùi bất thường, nổi mề đay.</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Bảo quản dưới 30°C. Tránh ẩm và ánh sáng.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Thuốc FEBUDAY 40 được chỉ định dùng trong trường hợp sau:</p>\n\n<p>Điều trị chứng tăng acid uric huyết khi tinh thể urat đã hình thành (bao gồm tiền sử, sự hiện diện của u cục (hạt tophi) và/hoặc <strong><a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-253.html\">viêm khớp</a></strong> do <strong><a href=\"https://nhathuoclongchau.com.vn/benh/gut-564.html\">gút</a></strong>).</p>\n\n<h3>Dược lực học</h3>\n\n<p>Febuxostat là chất ức chế xanthin oxidase, hiệu quả điều trị của nó đạt được bằng cách làm giảm acid uric huyết thanh. Ở nồng độ điều trị febuxostat không ức chế các enzym khác tham gia vào việc tổng hợp và chuyển hóa của purin và pyrimidin.</p>\n\n<p>Ảnh hưởng trên nồng độ acid uric và xanthin: Ở người khỏe mạnh, febuxostat gây ra sự giảm phụ thuộc liều đối với nồng độ acid uric huyết thanh trung bình trong vòng 24 giờ và làm tăng nồng độ xanthin huyết thanh trung bình trong vòng 24 giờ. Ngoài ra, có sự giảm bài tiết acid uric nước tiểu hàng ngày toàn phần. Tương tự, có sự tăng bài tiết xanthin trong nước tiểu hàng ngày toàn phần. Sự giảm tỉ lệ phần trăm acid uric huyết thanh trung bình trong vòng 24 giờ năm trong khoảng 40% - 50% ở liều 40 mg và 80 mg.</p>\n\n<p>Ảnh hưởng đối với sự tái khử cực ở tim: Ảnh hưởng của febuxostat đối với sự tái khử cực ở tim được đánh giá bằng khoảng QTc đã được báo cáo ở người khỏe mạnh bình thường và bệnh nhân gút. Febuxostat ở liều lên tới 300mg/ngày, ở trạng thái ổn định, không cho thấy ảnh hưởng trên khoảng QTc.</p>\n\n<h3>Dược động học</h3>\n\n<p>Ở người khỏe mạnh, nồng độ huyết tương tối đa (Cmax) và AUC của febuxostat tăng tỉ lệ với liều sau khi dùng liều đơn và đa liều 10 mg đến 120mg. Không có tích lũy ở liều điều trị được dùng mỗi 24 giờ. Febuxostat có vòng đời bán thải trung bình (t1/2) kiểu biến khoảng 5-8 giờ.</p>\n\n<p><em>Hấp thu</em>: Sự hấp thu của febuxostat có gắn phóng xạ sau khi dùng liều dự đoán ít nhất là 49% (dựa trên tổng hoạt tính phóng xạ được tái hấp thu từ nước tiểu). Nồng độ huyết tương tối đa của febuxostat đạt được từ 1 đến 1,5 giờ sau khi uống. Sau khi uống đa liều 40 mg và 80 mg, một lần/ ngày, Cmax đạt khoảng 1,6 ± 0,6 mcg/ml và 2,6 ± 1,7 mcg/ml tương ứng. Sinh khả dụng tuyệt đối của viên nén febuxostat vẫn chưa được báo cáo.</p>\n\n<p><em>Phân bố:</em> Thể tích phân bố kiểu biến trung bình của febuxostat (VSS/F) là khoảng 50 L (CV ~ 40%). Liên kết của febuxostat với protein huyết tương khoảng 99,2% (chủ yếu với albumin) và không đổi trong khoảng nồng độ đạt được khi dùng liều 40mg và 80mg.</p>\n\n<p><em>Chuyển hóa</em>: Febuxostat được chuyển hóa rộng rãi bằng sự liên kết qua uridin diphosphat glucuronosyltransferase (UGT) enzymes gồm UGT1A1, UGT1A3, UGT1A9 và UGT2B7 và sự oxy hóa qua cytochrome P450 (CYP) enzymes gồm CYP1A2, 2C8 và 2C9 và non-P450 enzymes. Vai trò của mỗi đồng vị enzyme trong quá trình trao đổi chất của febuxostat là không rõ ràng. Sự oxy hóa của chuỗi isobutyl dẫn đến sự hình thành các chất chuyển hóa hydroxy có dược tính, tất cả đều xảy ra trong huyết tương của người ở một mức độ thấp hơn nhiều so với febuxostat.</p>\n\n<p><em>Thải trừ: </em>Febuxostat được bài tiết bằng cả hai đường gan và thận. Sau khi uống liều 80 mg febuxostat được gắn 14C, khoảng 49% liều dùng được tìm thấy trong nước tiểu dưới dạng febuxostat không đổi (3%), dạng glucuronid acyl (30%), các dạng chuyển hóa do oxy hóa và dạng liên hợp của nó (13%), các chất chuyển hóa không được biết khác (3%). Ngoài sự bài tiết qua nước tiểu, khoảng 45% liều dùng được tìm thấy trong phần dưới dạng febuxostat không đổi (12%), dạng glucuronid acyl (1%), chất chuyển hóa oxy hóa và dạng liên hợp của nó (25%) và các chất chuyển hóa khác không được biết (7%).</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định</h3>\n\n<p>Thuốc FEBUDAY 40 chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Quá mẫn với bất kỳ thành phần nào của thuốc.</li>\n\t<li>Bệnh nhân đang điều trị với azathioprin, mercaptopurin hoặc theophyllin.</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Cơn gút cấp: Để ngăn ngừa cơn gút cấp khi khởi đầu điều trị với febuxostat, điều trị dự phòng đồng thời với một chống viêm không steroid (NSAID) hoặc colchicine được khuyến cáo.</p>\n\n<p>Bệnh lý tim mạch: Trong các nghiên cứu kiểm soát ngẫu nhiên được báo cáo, có một tỷ lệ cao hơn của các trường hợp huyết khối tim mạch (tử vong do bệnh tim mạch, nhồi máu cơ tim không gây tử vong và đột quỵ không gây tử vong) trong bệnh nhân được điều trị với febuxostat [0.74/100 P-Y (95% CI 0.36-1.37)] so với allopurinol [0,60/100 PY (95% CI 0,16-1,53)]. Một mối quan hệ nhân quả với febuxostat chưa được thiết lập. Theo dõi các dấu hiệu và triệu chứng của nhồi máu cơ tim (MI) và đột quỵ. </p>\n\n<p>Tăng men gan: Trong các nghiên cứu kiểm soát ngẫu nhiên được báo cáo, tăng transaminase lớn hơn 3 lần giới hạn trên của mức bình thường (UN) đã được báo cáo (AST: 2%, 2%, và ALT: 3%, 2% tương ứng ở những bệnh nhân được điều trị với febuxostat và allopurinol). Không có báo cáo về mối quan hệ giữa liều lượng-tác dụng đối với sự tăng men transaminase này. Kiểm tra chức năng gan được khuyến cáo, ví dụ: 2 và 4 tháng sau khi bắt đầu điều trị với febuxostat và định kỳ sau đó.</p>\n\n<p>Rối loạn tuyến giáp: Tăng giá trị TSH (&gt;5.5 IU/ml) được báo cáo ở bệnh nhân điều trị lâu dài với febuxostat (5.0%). Cần thận trọng khi sử dụng febuxostat ở những bệnh nhân có thay đổi chức năng tuyến giáp.</p>\n\n<p>Trẻ em: Hiệu quả và an toàn của febuxostat chưa được thiết lập ở bệnh nhân trẻ em dưới 18 tuổi.</p>\n\n<p>Tăng acid uric máu thứ cấp: Không có nghiên cứu được báo cáo ở những bệnh nhân tăng acid uric máu thứ cấp (bao gồm cả người ghép tạng); không khuyến cáo sử dụng febuxostat ở những bệnh nhân mà tỷ lệ hình thành urate được tăng lên rất nhiều (ví dụ: Bệnh ác tính và điều trị bệnh, hội chứng Lesch-Nyhan). Trong rất ít trường hợp, nồng độ của xanthin trong nước tiểu có thể tăng đủ để có lắng đọng trong đường tiết niệu.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Febuxostat có thể ảnh hưởng lên khả năng lái xe hoặc vận hành máy móc.</p>\n\n<h3>Thời kỳ mang thai </h3>\n\n<p>Chưa có nghiên cứu đầy đủ của febuxostat ở phụ nữ mang thai. Không nên sử dụng Febuxostat trong suốt thời gian mang thai trừ khi lợi ích mang lại cao hơn nguy cơ tiềm tàng đối với thai nhi.</p>\n\n<h3>Thời kỳ cho con bú</h3>\n\n<p>Người ta không biết liệu thuốc có bài tiết trong sữa mẹ hay không. Febuxostat không nên sử dụng ở phụ nữ cho con bú.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Thuốc nhóm Xanthin oxidase (XO): Febuxostat là một chất ức chế xanthin oxidase. Nghiên cứu tương tác thuốc của febuxostat với các thuốc được chuyển hóa bởi XO (ví dụ, theophyllin, mercaptopurin, azathioprin) chưa được báo cáo. Sự ức chế của XO bởi có thể gây tăng nồng độ trong huyết tương của các thuốc này dẫn đến độc tính. Febuxostat được chống chỉ định ở những bệnh nhân được điều trị bằng azathioprin, mercaptopurin, hoặc theophyllin.</p>\n\n<p>Thuốc hóa trị gây độc tế bào: Nghiên cứu tương tác thuốc của febuxostat với thuốc hóa trị gây độc tế bào không được báo cáo. Không có số liệu về sự an toàn của febuxostat trong suốt quá trình hóa trị liệu gây độc tế bào.</p>\n\n<p>Các nghiên cứu tương tác thuốc in vivo: Dựa trên các nghiên cứu về tương tác thuốc ở người khỏe mạnh, febuxostat không có tương tác có ý nghĩa lâm sàng với colchicin, indomethacin, hydrochlorothiazid, warfarin hoặc desipramin. Vì vậy, febuxostat có thể được sử dụng đồng thời với các thuốc này.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Febuday trị bệnh gút, Cách dùng & Liều dùng",
+        "metaDescription": "Thuốc FEBUDAY 40 của MSN LABORATORIES PRIVATE LIMITED, chứa dược chất chính là febuxostat, được dùng để giảm acid uric ở những người bị bệnh gút. Điều trị chứng tăng acid uric huyết khi tinh thể urat đã hình thành.",
+        "id": 5272,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/febuday_40_5054cb0fe9.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Febuday 40 MSN điều trị tăng acid uric huyết (3 vỉ x 10 viên)",
+            "description": "Thuốc FEBUDAY 40 của MSN LABORATORIES PRIVATE LIMITED, chứa dược chất chính là febuxostat, được dùng để giảm acid uric ở những người bị bệnh gút."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 33627,
+        "title": "Liều dùng khuyến cáo của FEBUDAY 40 là bao nhiêu và dùng như thế nào?",
+        "content": "<p>Liều khởi đầu khuyến cáo của febuxostat là 40 mg hoặc 80 mg mỗi ngày một lần. Thuốc có thể dùng mà không cần quan tâm đến bữa ăn hoặc các thuốc kháng acid. Đối với những bệnh nhân không đạt được mức acid uric huyết dưới 6 mg/dl sau 2 tuần dùng liều 40 mg, liều 80 mg được khuyến cáo. Nếu sau 2-4 tuần dùng liều 80 mg mà chỉ số acid uric huyết thanh vẫn trên 6 mg/dl (357μmol/l), có thể xem xét liều 120 mg mỗi ngày một lần. Mục tiêu điều trị là duy trì nồng độ acid uric huyết thanh dưới 6 mg/dl.</p>"
+      },
+      {
+        "id": 33626,
+        "title": "Ai không nên sử dụng FEBUDAY 40?",
+        "content": "<p>FEBUDAY 40 chống chỉ định cho những người quá mẫn với bất kỳ thành phần nào của thuốc. Đặc biệt, thuốc này không được sử dụng ở bệnh nhân đang điều trị bằng azathioprin, mercaptopurin hoặc theophyllin, do có nguy cơ tăng nồng độ trong huyết tương của các thuốc này dẫn đến độc tính.</p>"
+      },
+      {
+        "id": 33625,
+        "title": "FEBUDAY 40 có an toàn cho bệnh nhân suy thận hoặc suy gan không?",
+        "content": "<p>Đối với bệnh nhân suy thận nhẹ đến trung bình, không cần chỉnh liều FEBUDAY 40. Tuy nhiên, hiệu quả và an toàn của thuốc chưa được đánh giá đầy đủ ở những bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/suy-than-679.html\">suy thận</a> nặng (độ thanh thải creatinin &lt; 30 ml/phút). Ở bệnh nhân suy gan nhẹ, liều khuyến cáo là 80 mg. Thông tin về việc sử dụng thuốc ở bệnh nhân suy gan trung bình còn hạn chế và hiệu quả, an toàn của febuxostat chưa được báo cáo ở bệnh nhân suy gan nặng.</p>"
+      },
+      {
+        "id": 33624,
+        "title": "Cần lưu ý gì khi bắt đầu điều trị với FEBUDAY 40 để tránh cơn gút cấp?",
+        "content": "<p>Sau khi bắt đầu điều trị bằng FEBUDAY 40, bệnh nhân thường có thể gặp các cơn gút cấp gia tăng. Điều này xảy ra do sự thay đổi nồng độ acid uric huyết thanh, dẫn đến việc huy động urat từ các kho dự trữ trong mô. Do đó, khuyến cáo sử dụng đồng thời một thuốc chống viêm không steroid (NSAID) hoặc colchicine để dự phòng cơn gút cấp khi bắt đầu dùng febuxostat. Việc dự phòng cơn gút cấp được khuyến cáo kéo dài ít nhất 6 tháng. Nếu cơn gút cấp xảy ra trong quá trình điều trị, không cần ngừng febuxostat mà nên kiểm soát cơn gút cấp đồng thời.</p>"
+      },
+      {
+        "id": 33623,
+        "title": "FEBUDAY 40 hoạt động như thế nào để điều trị bệnh gút?",
+        "content": "<p>Febuxostat, thành phần chính của FEBUDAY 40, là một chất ức chế xanthin oxidase. Enzym này đóng vai trò quan trọng trong việc sản xuất acid uric trong cơ thể. Bằng cách ức chế xanthin oxidase, febuxostat giúp làm giảm nồng độ acid uric trong huyết thanh, từ đó ngăn chặn sự hình thành và lắng đọng của tinh thể urat, nguyên nhân gây ra các cơn gút cấp và các biểu hiện của <a href=\"https://nhathuoclongchau.com.vn/benh/gut-564.html\">bệnh gút</a>.</p>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 24,
+      "items": [
+        {
+          "id": 3359785,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0980xxxxxx",
+          "name": "nhân",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu vậy ạ",
+          "createdAt": "2026-08-18 18:32:37",
+          "createdAtDisplay": "17 ngày trước",
+          "updatedAt": "2026-08-18 18:32:37",
+          "replies": [
+            {
+              "id": 3359796,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Mai Anh",
+                "moderatorEmail": "anhnm70@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Mai Anh",
+              "email": "anhnm70@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Nhân,</p><p> Hiện tại, sản phẩm Thuốc Febuday 40 MSN điều trị tăng acid uric huyết (3 vỉ x 10 viên) có giá 456.000đ/ hộp.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-08-18 18:37:05",
+              "createdAtDisplay": "17 ngày trước",
+              "updatedAt": "2026-08-18 18:32:37",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3320461,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0336xxxxxx",
+          "name": "nhi",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá 1 hộp",
+          "createdAt": "2026-06-10 19:53:25",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-10 19:53:25",
+          "replies": [
+            {
+              "id": 3320465,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Mai Anh",
+                "moderatorEmail": "anhltm9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Mai Anh",
+              "email": "anhltm9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Nhi,</p><p>Hiện tại, sản phẩm Thuốc Febuday 40 MSN điều trị tăng acid uric huyết (3 vỉ x 10 viên) có giá 456,000 ₫/hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-06-10 19:56:07",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-10 19:53:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3286022,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0357xxxxxx",
+          "name": "hà",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiu 1 hop ạ",
+          "createdAt": "2026-04-06 11:03:09",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-04-06 11:03:09",
+          "replies": [
+            {
+              "id": 3286032,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Mai Anh",
+                "moderatorEmail": "anhltm9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Mai Anh",
+              "email": "anhltm9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hà,</p><p>Hiện tại, sản phẩm Thuốc Febuday 40 MSN điều trị tăng acid uric huyết (3 vỉ x 10 viên) có giá 456,000 ₫/hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-04-06 11:15:53",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-04-06 11:03:09",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3269703,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0905xxxxxx",
+          "name": "anh bình",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thành phố Đà Nẵng nhà thuốc nào có loại này ạ",
+          "createdAt": "2026-03-06 17:22:14",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-03-06 17:22:14",
+          "replies": [
+            {
+              "id": 3269709,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Đình Nhân",
+                "moderatorEmail": "nhanhd4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Đình Nhân",
+              "email": "nhanhd4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Bình, </p><p>Dạ sản phẩm Thuốc Febuday 40 MSN còn hàng ở khu vực trên ạ</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-03-06 17:32:18",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-03-06 17:22:14",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3259605,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0358xxxxxx",
+          "name": "a Thắng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "có bán lẻ theo vỉ không ạ",
+          "createdAt": "2026-02-10 20:09:58",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-10 20:09:58",
+          "replies": [
+            {
+              "id": 3259608,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ánh",
+                "moderatorEmail": "anhnth44@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ánh",
+              "email": "anhnth44@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh <strong>Thắng</strong>, </p><p>Dạ nhà thuốc có bán lẻ ạ.</p><p>Hiện tại, sản phẩm Thuốc Febuday 40 MSN điều trị tăng acid uric huyết (3 vỉ x 10 viên) có giá 152,000 ₫/vỉ. Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại ứng dụng Long Châu/ZALO OA Nhà thuốc FPT Long Châu để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-02-10 20:12:37",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-10 20:09:58",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 215066,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0903xxxxxx",
+          "name": "Thinh ",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc đáp ứng tốt cho người bị gout",
+          "createdAt": "2023-09-04 19:56:37",
+          "createdAtDisplay": "04/09/2023",
+          "updatedAt": "2023-09-04 19:58:21",
+          "replies": [
+            {
+              "id": 215069,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Đỗ Thị Hòa",
+                "moderatorEmail": "HoaDT81@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Đỗ Thị Hòa",
+              "email": "HoaDT81@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<div style=\"font-family: Roboto;\"><p>Chào bạn Thinh,</p><p>Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu. Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được hỗ trợ tư vấn và đặt hàng. Thân mến!</p></div><div style=\"font-family: Roboto;\"><br class=\"Apple-interchange-newline\"></div>",
+              "createdAt": "2023-09-04 19:58:22",
+              "createdAtDisplay": "04/09/2023",
+              "updatedAt": "2023-09-04 19:58:21",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Febuday 40 MSN điều trị tăng acid uric huyết (3 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/febuday_40_5054cb0fe9.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010054_febuday_2262_6110_large_c7f26c853b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010054_febuday_6919_6110_large_cb97ad43ea.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc FEBUDAY 40 của MSN LABORATORIES PRIVATE LIMITED, chứa dược chất chính là febuxostat, được dùng để giảm acid uric ở những người bị bệnh gút.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Febuday trị bệnh gút, Cách dùng & Liều dùng",
+      "description": "Thuốc FEBUDAY 40 của MSN LABORATORIES PRIVATE LIMITED, chứa dược chất chính là febuxostat, được dùng để giảm acid uric ở những người bị bệnh gút. Điều trị chứng tăng acid uric huyết khi tinh thể urat đã hình thành.",
+      "openGraph": {
+        "title": "Thuốc Febuday 40 MSN điều trị tăng acid uric huyết (3 vỉ x 10 viên)",
+        "description": "Thuốc FEBUDAY 40 của MSN LABORATORIES PRIVATE LIMITED, chứa dược chất chính là febuxostat, được dùng để giảm acid uric ở những người bị bệnh gút.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/febuday_40_5054cb0fe9.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/febuday-1408.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/febuday-1408.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

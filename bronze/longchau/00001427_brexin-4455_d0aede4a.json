@@ -1,0 +1,2011 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/brexin-4455.html",
+  "ingestion_timestamp": "2026-09-05T08:54:51.345027+00:00",
+  "file_hash": "acae78f06935c2971af2e3cb10630990c8016c06a7f3ad874f6dbe435f0594d3",
+  "lineage_hash": "49369441fd0789b891b389dfbc6e793c709d6e16d0f72107fccf2381f1d44d30",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/brexin-4455.html",
+    "product": {
+      "sku": "00001427",
+      "webName": "Thuốc Brexin Chiesi giảm các triệu chứng do viêm xương khớp (2 vỉ x 10 viên)",
+      "name": "BREXIN 20MG CHIESI 2X10",
+      "shortName": "BREXIN 20MG CHIESI 2X10",
+      "headingText": "Thuốc Brexin",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/brexin_20mg_2x10_chiesi_00001427_02c6728428.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_1404_63d7_large_4105160f59.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_4522_63d7_large_3c942f3800.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_4496_63d7_large_065258322f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_3952_63d7_large_f04156cebe.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_2596_63d7_large_218081d3dc.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_1672_63d7_large_5fb289b63e.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_5262_63d7_large_683adf168a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_1960_63d7_large_3f36cdd93d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_9786_63d7_large_065b8e3470.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_1675062525_01b36f8e59.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 729,
+          "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 769,
+          "name": "Thuốc giảm đau kháng viêm",
+          "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+          "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Hộp 2 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 2,
+          "productSpecs": "2 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/brexin-4455.html",
+      "ingredient": [
+        {
+          "id": 20520,
+          "ingredientId": 32755,
+          "shortDescription": "20mg",
+          "name": "Piroxicam",
+          "isPrimary": false,
+          "slug": "thanh-phan/piroxicam"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "800110067623",
+      "manufactor": "Ý",
+      "dosageForm": "Viên nén",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Nên dùng Brexin 1 lần/ngày.</p><p>Viên nén dùng đường uống: Nếu bệnh nhân được kê đơn 1 nửa liều, để chia đôi viên thuốc, để viên thuốc lên mặt phẳng, rãnh khía ở mặt trên. Ấn nhẹ bằng ngón tay cái, viên thuốc sẽ được bẻ đôi thành hai phần bằng nhau.</p><h3><strong>Liều dùng</strong></h3><p>Việc kê toa thuốc piroxicam cần được chỉ định bởi bác sĩ có kinh nghiệm trong việc đánh giá chẩn đoán và điều trị bệnh nhân bị viêm khớp hoặc thoái hóa khớp.&nbsp;</p><p>Liều khuyến cáo tối đa mỗi ngày là 20mg piroxicam.&nbsp;</p><p>Tác dụng không mong muốn có thể được giảm bằng cách sử dụng liều tối thiểu có tác dụng trong thời gian ngắn nhất cần thiết để kiểm soát các triệu chứng. Lợi ích điều trị và khả năng dung nạp thuốc cần được xem xét lại trong vòng 14 ngày. Nếu việc tiếp tục điều trị được coi là cần thiết, điều này nên được xem xét thường xuyên. Việc sử dụng piroxicam có liên quan đến tăng nguy cơ biến chứng đường tiêu hóa nên việc dùng liệu pháp phối hợp với các thuốc bảo vệ dạ dày (ví dụ như misoprostol hoặc thuốc ức chế bơm proton) nên được cân nhắc, đặc biệt đối với bệnh nhân cao tuổi.&nbsp;</p><p>Người cao tuổi: Việc giảm liều hàng ngày có thể là hợp lý; liều đúng phải được chỉ định chính xác bởi bác sĩ.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p><i>Triệu chứng</i></p><p>Các triệu chứng quá liều đáng kể là <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">đau đầu</a>, buồn ngủ, <a href=\"https://nhathuoclongchau.com.vn/benh/hoa-mat-chong-mat-14.html\">chóng mặt</a> và ngất. Trong trường hợp quá liều, cần phải điều trị hỗ trợ và điều trị triệu chứng. Uống than hoạt có thể giúp giảm hấp thu piroxicam-b-cyclodextrin.&nbsp;</p><p><i>Xử trí</i></p><p>Mặc dù không có nghiên cứu nào được thực hiện cho đến nay, việc thẩm tách máu là không thể loại bỏ piroxicam, do thuốc liên kết mạnh với protein huyết tương.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Brexin được chỉ định dùng để giảm các triệu chứng do viêm xương khớp (bao gồm cả <a href=\"https://nhathuoclongchau.com.vn/benh/thoai-hoa-khop-609.html\">thoái hóa khớp</a>), viêm khớp dạng thấp hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/viem-cot-song-dinh-khop-217.html\">viêm cột sống dính khớp</a>.</p><h3><strong>Dược lực học</strong></h3><p>Piroxicam, thuộc nhóm dẫn chất N-etherocyclic-carboxyamide benzothiazin, là thuốc đầu tiên của nhóm oxicam, một phân nhóm NSAID mới. Piroxicam có tác dụng chống viêm, giảm đau, hạ nhiệt, tương tự như các thuốc chống viêm không steroid khác. Các nghiên cứu trên động vật cho thấy piroxicam ảnh hưởng tới sự di chuyển các tế bào tới vùng bị viêm. Cũng giống như các NSAID khác, piroxicam ảnh hưởng tới sự tổng hợp prostaglandin thông qua ức chế cyclo-oxygenase. Khác với indomethacin, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/piroxicam\">piroxicam</a> là một chức ức chế tổng hợp prostaglandin có hồi phục. Trong một nghiên cứu trên 8 bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-dang-thap-254.html\">viêm khớp dạng thấp</a> tiến triển, piroxicam (20 mg/ngày trong 15 ngày) làm giảm đáng kể chức năng tế bào bạch cầu đa nhân (PMN), sự tạo ra anion peroxid trong máu ngoại vi và hoạt dịch, cũng như nồng độ của PMN và PMN-elastase trong hoạt dịch. Sự điều biến hoạt tính của PMN tạo ra tác dụng chống viêm của piroxicam.&nbsp;</p><p>Brexin là một dạng chế phẩm mới của piroxicam, trong đó hoạt chất chính được tạo phức với beta-cyclodextrin.&nbsp;</p><p>Beta-cyclodextrin là một oligosaccharide vòng, dẫn chất tạo ra từ thuỷ phân tinh bột thông thường bằng enzym. Do đặc điểm của cấu trúc hoá học, beta-cyclodextrin có thể tạo ra phức lồng với nhiều thuốc khác nhau, nhờ vậy có thể cải thiện được một số đặc tính của thuốc như độ hoà tan, độ ổn định và sinh khả dụng.</p><p>Piroxicam-beta-cyclodextrin tan rất tốt trong nước và hấp thu nhanh hơn nhiều so với piroxicam khi dùng đường uống và đặt trực tràng. Tăng khả năng hoà tan sẽ giúp thuốc nhanh chóng đạt được nồng độ cao trong máu và nồng độ đỉnh sẽ đạt được sớm hơn, trên lâm sàng tác dụng chống viêm giảm đau của thuốc sẽ xuất hiện sớm hơn và có hiệu quả hơn.&nbsp;</p><p>Cũng vẫn như với piroxicam, nửa đời thải trừ huyết tương kéo dài của Brexin vẫn được giữ nguyên, vì vậy chế phẩm vẫn chỉ cần dùng một lần mỗi ngày.</p><p>Với đặc tính dược lực học và dược động học phù hợp, Brexin thích hợp để điều trị những bệnh viêm và/hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/thap-khop-88.html\">thấp khớp</a> gây đau, ảnh hưởng nhiều đến toàn trạng và khả năng thực hiện những hoạt động thông thường của bệnh nhân, và cần thiết phải điều trị tích cực và nhanh chóng.</p><p>Trong thử nghiệm gây phù chân chuột bằng carrageenin, Brexin có tác dụng chống viêm nhanh hơn piroxicam; trong những giờ đầu tiên sau khi dùng thực tế là Brexin hiệu quả hơn piroxicam 2 - 3 lần kể cả dùng đường uống hay đường đặt trực tràng.&nbsp;</p><p>Tác dụng giảm đau của thuốc theo đường uống được đánh giá trên chuột nhắt bằng thử nghiệm gây đau bằng phenylquinone; 5 phút sau khi uống, đã thu được 99% của tác dụng ức chế tối đa của Brexin và 78% của piroxicam. Tác dụng của cả 2 thuốc duy trì ổn định trong khoảng 2 giờ sau khi uống.&nbsp;</p><p>Giá trị chỉ số điều trị của Brexin và piroxicam được tính bằng cách so sánh tác dụng chống viêm, đánh giá trên chuột cống bằng thử nghiệm gây phù chân chuột bằng carrageenin và tác dụng gây kích ứng dạ dày, trên cùng động vật thí nghiệm.</p><p>Brexin dùng đường uống có chỉ số điều trị cao hơn 2.65 lần so với piroxicam dùng đường uống; chỉ số điều trị của Brexin đặt trực tràng cao hơn 2.31 lần so với Brexin dùng đường uống.&nbsp;</p><p>Brexin được chứng minh là ít gây tác dụng bất lợi trên đường tiêu hoá của người thông qua 3 thử nghiệm lâm sàng mù đôi, có đối chứng, đánh giá sự mất máu qua phần bằng phương pháp đánh dấu phóng xạ 51Cr hồng cầu. Trong các nghiên cứu này, thời gian dùng thuốc là 28 ngày. Hai trong số 3 nghiên cứu đã cho thấy sự mất máu qua phần do dùng Brexin ít hơn đáng kể cho tới kết thúc 4 tuần điều trị, nghiên cứu còn lại cũng cho thấy có xu hướng tương tự.&nbsp;</p><p>Trong một nghiên cứu khác đã tiến hành so sánh ảnh hưởng đối với dạ dày của Brexin, piroxicam thường, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/indometacin\">indomethacin</a> và giả dược sau thời gian dùng 14 ngày; sự khác biệt trong nguy cơ đối với dạ dày (max GPD) cũng được đánh giá. Brexin gây ra nguy cơ đối với dạ dày ít hơn piroxicam hay indomethacin theo chỉ số này và có mối liên quan tương ứng giữa max GPD và tổn thương đánh giá bằng nội soi. Tóm lại, Brexin có chỉ số hoạt tính dược lực so với độc tính trên đường tiêu hoá tốt hơn so với piroxicam thường.</p><h3><strong>Dược động học</strong></h3><p>Sau khi uống hoặc đặt trực tràng Brexin, chỉ có phần hoạt tính (piroxicam) được hấp thu.&nbsp;</p><p>Nghiên cứu trên người tình nguyện khoẻ mạnh cho thấy ở liều tương đương (20 mg piroxicam), nồng độ tối đa piroxicam trong huyết tương đạt được sớm hơn nhiều khi dùng Brexin (dùng đường uống: Trong vòng 30 - 60 phút, so sánh với khoảng 2 giờ của piroxicam thường, dùng đường đặt trực tràng: Trong vòng 2 giờ so với 6 - 7 giờ của piroxicam thường).&nbsp;</p><p>Các thông số thải trừ, Kel và t1/2 không có khác biệt so với piroxicam thường vì phức hợp với beta-cyclodextrin chỉ ảnh hưởng tới động học hấp thu chứ không ảnh hưởng đến thải trừ.&nbsp;</p><p>Lượng hoạt chất được thải trừ qua thận trong 72 giờ sau khi dùng thuốc của cả chế phẩm Brexin và piroxicam thường đều vào khoảng 10% liều dùng.&nbsp;</p><p>Sau khi uống phức hợp, beta-cyclodextrin ở dạng không chuyển hoá không được phát hiện thấy trong huyết tương hay nước tiểu. Beta-cyclodextrin được chuyển hoá trong đại tràng bởi hệ vi khuẩn ruột thành dextrins không phân nhánh, maltose và glucose.</p>",
+      "brand": "Chiesi",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Brexin, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p>Các nghiên cứu lâm sàng và dữ liệu dịch tễ học cho thấy việc sử dụng NSAIDs (đặc biệt ở liều cao và điều trị lâu dài) có thể làm tăng nhẹ nguy cơ huyết khối động mạch (ví dụ nhồi máu cơ tim và đột quỵ) (xem phần Cảnh báo đặc biệt và thận trọng khi dùng). Các báo cáo về ADR hay gặp ở đường tiêu hóa. Có thể xảy ra loét dạ dày, thủng hoặc chảy máu đường tiêu hóa, đôi khi gây tử vong, đặc biệt ở người cao tuổi (xem phần Cảnh báo đặc biệt và thận trọng). Các triệu chứng buồn nôn, nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a>, đầy hơi, <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a>, chứng khó tiêu, viêm loét miệng, đau bụng, đi ngoài phân đen, nôn ra máu, trầm trọng thêm viêm đại tràng hoặc bệnh Crohn (xem phần Cảnh báo đặc biệt và thận trọng) đã được báo cáo có liên quan đến việc sử dụng NSAIDs.</p><p><i>Thường gặp, ADR &gt; 1/100</i></p><ul><li>Rối loạn máu và bạch huyết: Thiếu máu.</li><li>Rối loạn hệ thần kinh: Đau đầu.</li><li>Rối loạn tai và tai trong: Chóng mặt, <a href=\"https://nhathuoclongchau.com.vn/benh/u-tai-572.html\">ù tai</a>.</li><li>Rối loạn đường tiêu hóa: Khó chịu ở bụng, đau bụng, táo bón, tiêu chảy, khó chịu hoặc đau vùng thượng vị, đầy hơi, buồn nôn, nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/kho-tieu-578.html\">khó tiêu</a>.</li><li>Rối loạn da và tổ chức dưới da: Phát ban, ngứa.</li></ul><p>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</p><ul><li>Rối loạn hệ thần kinh: Chóng mặt, buồn ngủ.</li><li>Rối loạn mắt: Nhìn mờ.</li><li>Rối loạn đường tiêu hóa: Viêm miệng.</li></ul><p><i>Hiếm gặp, 1/10000 &lt; ADR &lt; 1/1000</i></p><ul><li>Rối loạn máu và bạch huyết: Thiếu máu cục bộ, thiếu máu tán huyết, giảm tiểu cầu, giảm bạch cầu, tăng bạch cầu ái toan, giảm 3 dòng tế bào máu ngoại vi.</li><li>Rối loạn hệ miễn dịch: Bệnh huyết thanh, sốc phản vệ.</li><li>Rối loạn da và tổ chức dưới da: Phản ứng nhạy cảm với ánh sáng, nổi mày đay, phù mạch, ban xuất huyết không giảm tiểu cầu.</li><li>Rối loạn thận và đường tiết niệu: Viêm thận kế hoại tử nhú thận, hội chứng thận hư, suy thận.</li><li>Rối loạn chung và tại vị trí dùng thuốc: Phù.</li></ul><p><i>Rất hiếm, ADR &lt; 1/10000:</i></p><p>Rối loạn da và tổ chức dưới da: Các phản ứng bất lợi nghiêm trọng trên da (SCARs): Hội chứng Stevens Johnson (SJS) và hoại tử thượng bì nhiễm độc (TEN) đã được báo cáo (xem phần Cảnh báo đặc biệt và thận trọng khi dùng)</p><p><i>Không rõ tần suất:</i></p><ul><li>Rối loạn chuyển hóa và dinh dưỡng: Giữ nước.</li><li>Rối loạn tâm thần: <a href=\"https://nhathuoclongchau.com.vn/benh/tram-cam-79.html\">Trầm cảm</a>, những giấc mơ bất thường, ảo giác, mất ngủ, trạng thái lẫn lộn, thay đổi tâm trạng, lo lắng.</li><li>Rối loạn tai và tai trong: Giảm thính lực.</li><li>Rối loạn mạch máu: Viêm mạch máu.</li><li>Rối loạn hô hấp, lồng ngực và trung thất: Co thắt phế quản, chảy máu cam.</li><li>Rối loạn da và tổ chức dưới da: <a href=\"https://nhathuoclongchau.com.vn/chuyen-de/rung-toc\">Rụng tóc</a>, bong da, hồng ban đa dạng.</li><li>Rối loạn đường tiêu hóa: Viêm dạ dày, xuất huyết tiêu hóa, thủng đường tiêu hóa, đi ngoài phân đen, nôn ra máu, loét dạ dày, viêm tụy.</li><li>Rối loạn gan mật: Vàng da, viêm gan.</li><li>Các xét nghiệm: Transaminase tăng, tăng cân, kháng thể kháng nhân dương tính, hemoglobin giảm, hematocrit giảm.</li></ul><p>Phù, <a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">cao huyết áp</a>, và suy tim, đã được báo cáo có liên quan với điều trị bằng thuốc NSAID. Khả năng gây suy tim xung huyết ở bệnh nhân cao tuổi hoặc những người có chức năng tim bị tổn thương cần được lưu ý.&nbsp;</p><p>Nguy cơ huyết khối tim mạch (xem thêm phần Cảnh báo và thận trọng).&nbsp;</p><p>Các thử nghiệm lâm sàng và dữ liệu dịch tễ học cho thấy việc sử dụng một số NSAIDs (đặc biệt ở liều cao và điều trị dài hạn) có thể làm tăng nhẹ nguy cơ huyết khối động mạch (ví dụ nhồi máu cơ tim hoặc đột quy).</p><p><u>Hướng dẫn cách xử trí ADR</u></p><p>Hãy thông báo cho bác sỹ hoặc dược sỹ về mọi tác dụng không mong muốn của thuốc đã nêu hoặc bất kỳ tác dụng phụ nào của thuốc mà chưa nêu ở đây.&nbsp;</p>",
+      "specification": "Hộp 2 Vỉ x 10 Viên",
+      "indications": [
+        {
+          "id": 289,
+          "name": "Gút",
+          "slug": "benh/gut-564.html"
+        },
+        {
+          "id": 319,
+          "name": "Thoái hóa khớp",
+          "slug": "benh/thoai-hoa-khop-609.html"
+        },
+        {
+          "id": 499,
+          "name": "Chấn thương bụng kín",
+          "slug": "benh/chan-thuong-bung-kin-49.html"
+        },
+        {
+          "id": 516,
+          "name": "Viêm đường hô hấp trên",
+          "slug": "benh/viem-duong-ho-hap-tren-177.html"
+        },
+        {
+          "id": 619,
+          "name": "Viêm cột sống dính khớp",
+          "slug": "benh/viem-cot-song-dinh-khop-217.html"
+        },
+        {
+          "id": 655,
+          "name": "Viêm khớp",
+          "slug": "benh/viem-khop-253.html"
+        },
+        {
+          "id": 656,
+          "name": "Viêm khớp dạng thấp",
+          "slug": "benh/viem-khop-dang-thap-254.html"
+        }
+      ],
+      "brandOrigin": "Ý",
+      "producer": "CHIESI",
+      "shortDescription": "<p>Brexin là sản phẩm của nhà sản xuất Chiesi Farmaceutici S.p.A, Ý, có thành phần hoạt chất là piroxicam-beta-cyclodextrin 191,2 mg, tương đương piroxicam 20 mg. Đây là thuốc chống viêm không steroid (NSAID) dùng để giảm các triệu chứng do viêm xương khớp (bao gồm cả thoái hóa khớp), viêm khớp dạng thấp hoặc viêm cột sống dính khớp.</p>\n\n<p>Thuốc có dạng viên nén, màu vàng nhạt, hình lục giác. Viên nén có một rãnh khía ở giữa, có thể bẻ đôi thành hai phần bằng nhau. </p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Suy gan thận",
+        "Phụ nữ cho con bú"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Mang thai, Dị ứng thuốc",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": false,
+      "brandSlug": "thuong-hieu/chiesi",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "BREXIN ",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 259,
+        "attributeName": "Ý",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Y_7fc103d37f.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 769,
+        "name": "Thuốc giảm đau kháng viêm",
+        "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+        "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/brexin_20mg_2x10_chiesi_00001427_02c6728428.png",
+          "alternativeText": "Thuốc Brexin Chiesi giảm các triệu chứng do viêm xương khớp (2 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_1404_63d7_large_4105160f59.jpg",
+          "alternativeText": "Thuốc Brexin Chiesi giảm các triệu chứng do viêm xương khớp (2 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_4522_63d7_large_3c942f3800.jpg",
+          "alternativeText": "Thuốc Brexin Chiesi giảm các triệu chứng do viêm xương khớp (2 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_4496_63d7_large_065258322f.jpg",
+          "alternativeText": "Thuốc Brexin Chiesi giảm các triệu chứng do viêm xương khớp (2 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_3952_63d7_large_f04156cebe.jpg",
+          "alternativeText": "Thuốc Brexin Chiesi giảm các triệu chứng do viêm xương khớp (2 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_2596_63d7_large_218081d3dc.jpg",
+          "alternativeText": "Thuốc Brexin Chiesi giảm các triệu chứng do viêm xương khớp (2 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_1672_63d7_large_5fb289b63e.jpg",
+          "alternativeText": "Thuốc Brexin Chiesi giảm các triệu chứng do viêm xương khớp (2 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_5262_63d7_large_683adf168a.jpg",
+          "alternativeText": "Thuốc Brexin Chiesi giảm các triệu chứng do viêm xương khớp (2 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_1960_63d7_large_3f36cdd93d.jpg",
+          "alternativeText": "Thuốc Brexin Chiesi giảm các triệu chứng do viêm xương khớp (2 vỉ x 10 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_9786_63d7_large_065b8e3470.jpg",
+          "alternativeText": "Thuốc Brexin Chiesi giảm các triệu chứng do viêm xương khớp (2 vỉ x 10 viên) 10"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_1675062525_01b36f8e59.jpg",
+          "alternativeText": "Thuốc Brexin Chiesi giảm các triệu chứng do viêm xương khớp (2 vỉ x 10 viên) 11"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+        "slug": "/thuoc/thuoc-giam-dau-ha-sot-khang-viem"
+      },
+      {
+        "name": "Thuốc giảm đau kháng viêm",
+        "slug": "/thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem"
+      }
+    ],
+    "content": {
+      "sku": "00001427",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Nên dùng Brexin 1 lần/ngày.</p><p>Viên nén dùng đường uống: Nếu bệnh nhân được kê đơn 1 nửa liều, để chia đôi viên thuốc, để viên thuốc lên mặt phẳng, rãnh khía ở mặt trên. Ấn nhẹ bằng ngón tay cái, viên thuốc sẽ được bẻ đôi thành hai phần bằng nhau.</p><h3><strong>Liều dùng</strong></h3><p>Việc kê toa thuốc piroxicam cần được chỉ định bởi bác sĩ có kinh nghiệm trong việc đánh giá chẩn đoán và điều trị bệnh nhân bị viêm khớp hoặc thoái hóa khớp.&nbsp;</p><p>Liều khuyến cáo tối đa mỗi ngày là 20mg piroxicam.&nbsp;</p><p>Tác dụng không mong muốn có thể được giảm bằng cách sử dụng liều tối thiểu có tác dụng trong thời gian ngắn nhất cần thiết để kiểm soát các triệu chứng. Lợi ích điều trị và khả năng dung nạp thuốc cần được xem xét lại trong vòng 14 ngày. Nếu việc tiếp tục điều trị được coi là cần thiết, điều này nên được xem xét thường xuyên. Việc sử dụng piroxicam có liên quan đến tăng nguy cơ biến chứng đường tiêu hóa nên việc dùng liệu pháp phối hợp với các thuốc bảo vệ dạ dày (ví dụ như misoprostol hoặc thuốc ức chế bơm proton) nên được cân nhắc, đặc biệt đối với bệnh nhân cao tuổi.&nbsp;</p><p>Người cao tuổi: Việc giảm liều hàng ngày có thể là hợp lý; liều đúng phải được chỉ định chính xác bởi bác sĩ.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p><i>Triệu chứng</i></p><p>Các triệu chứng quá liều đáng kể là <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">đau đầu</a>, buồn ngủ, <a href=\"https://nhathuoclongchau.com.vn/benh/hoa-mat-chong-mat-14.html\">chóng mặt</a> và ngất. Trong trường hợp quá liều, cần phải điều trị hỗ trợ và điều trị triệu chứng. Uống than hoạt có thể giúp giảm hấp thu piroxicam-b-cyclodextrin.&nbsp;</p><p><i>Xử trí</i></p><p>Mặc dù không có nghiên cứu nào được thực hiện cho đến nay, việc thẩm tách máu là không thể loại bỏ piroxicam, do thuốc liên kết mạnh với protein huyết tương.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<p>Tờ Hướng dẫn sử dụng thuốc Brexin.</p>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Brexin, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p>Các nghiên cứu lâm sàng và dữ liệu dịch tễ học cho thấy việc sử dụng NSAIDs (đặc biệt ở liều cao và điều trị lâu dài) có thể làm tăng nhẹ nguy cơ huyết khối động mạch (ví dụ nhồi máu cơ tim và đột quỵ) (xem phần Cảnh báo đặc biệt và thận trọng khi dùng). Các báo cáo về ADR hay gặp ở đường tiêu hóa. Có thể xảy ra loét dạ dày, thủng hoặc chảy máu đường tiêu hóa, đôi khi gây tử vong, đặc biệt ở người cao tuổi (xem phần Cảnh báo đặc biệt và thận trọng). Các triệu chứng buồn nôn, nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a>, đầy hơi, <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a>, chứng khó tiêu, viêm loét miệng, đau bụng, đi ngoài phân đen, nôn ra máu, trầm trọng thêm viêm đại tràng hoặc bệnh Crohn (xem phần Cảnh báo đặc biệt và thận trọng) đã được báo cáo có liên quan đến việc sử dụng NSAIDs.</p><p><i>Thường gặp, ADR &gt; 1/100</i></p><ul><li>Rối loạn máu và bạch huyết: Thiếu máu.</li><li>Rối loạn hệ thần kinh: Đau đầu.</li><li>Rối loạn tai và tai trong: Chóng mặt, <a href=\"https://nhathuoclongchau.com.vn/benh/u-tai-572.html\">ù tai</a>.</li><li>Rối loạn đường tiêu hóa: Khó chịu ở bụng, đau bụng, táo bón, tiêu chảy, khó chịu hoặc đau vùng thượng vị, đầy hơi, buồn nôn, nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/kho-tieu-578.html\">khó tiêu</a>.</li><li>Rối loạn da và tổ chức dưới da: Phát ban, ngứa.</li></ul><p>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</p><ul><li>Rối loạn hệ thần kinh: Chóng mặt, buồn ngủ.</li><li>Rối loạn mắt: Nhìn mờ.</li><li>Rối loạn đường tiêu hóa: Viêm miệng.</li></ul><p><i>Hiếm gặp, 1/10000 &lt; ADR &lt; 1/1000</i></p><ul><li>Rối loạn máu và bạch huyết: Thiếu máu cục bộ, thiếu máu tán huyết, giảm tiểu cầu, giảm bạch cầu, tăng bạch cầu ái toan, giảm 3 dòng tế bào máu ngoại vi.</li><li>Rối loạn hệ miễn dịch: Bệnh huyết thanh, sốc phản vệ.</li><li>Rối loạn da và tổ chức dưới da: Phản ứng nhạy cảm với ánh sáng, nổi mày đay, phù mạch, ban xuất huyết không giảm tiểu cầu.</li><li>Rối loạn thận và đường tiết niệu: Viêm thận kế hoại tử nhú thận, hội chứng thận hư, suy thận.</li><li>Rối loạn chung và tại vị trí dùng thuốc: Phù.</li></ul><p><i>Rất hiếm, ADR &lt; 1/10000:</i></p><p>Rối loạn da và tổ chức dưới da: Các phản ứng bất lợi nghiêm trọng trên da (SCARs): Hội chứng Stevens Johnson (SJS) và hoại tử thượng bì nhiễm độc (TEN) đã được báo cáo (xem phần Cảnh báo đặc biệt và thận trọng khi dùng)</p><p><i>Không rõ tần suất:</i></p><ul><li>Rối loạn chuyển hóa và dinh dưỡng: Giữ nước.</li><li>Rối loạn tâm thần: <a href=\"https://nhathuoclongchau.com.vn/benh/tram-cam-79.html\">Trầm cảm</a>, những giấc mơ bất thường, ảo giác, mất ngủ, trạng thái lẫn lộn, thay đổi tâm trạng, lo lắng.</li><li>Rối loạn tai và tai trong: Giảm thính lực.</li><li>Rối loạn mạch máu: Viêm mạch máu.</li><li>Rối loạn hô hấp, lồng ngực và trung thất: Co thắt phế quản, chảy máu cam.</li><li>Rối loạn da và tổ chức dưới da: <a href=\"https://nhathuoclongchau.com.vn/chuyen-de/rung-toc\">Rụng tóc</a>, bong da, hồng ban đa dạng.</li><li>Rối loạn đường tiêu hóa: Viêm dạ dày, xuất huyết tiêu hóa, thủng đường tiêu hóa, đi ngoài phân đen, nôn ra máu, loét dạ dày, viêm tụy.</li><li>Rối loạn gan mật: Vàng da, viêm gan.</li><li>Các xét nghiệm: Transaminase tăng, tăng cân, kháng thể kháng nhân dương tính, hemoglobin giảm, hematocrit giảm.</li></ul><p>Phù, <a href=\"https://nhathuoclongchau.com.vn/benh/cao-huyet-ap-225.html\">cao huyết áp</a>, và suy tim, đã được báo cáo có liên quan với điều trị bằng thuốc NSAID. Khả năng gây suy tim xung huyết ở bệnh nhân cao tuổi hoặc những người có chức năng tim bị tổn thương cần được lưu ý.&nbsp;</p><p>Nguy cơ huyết khối tim mạch (xem thêm phần Cảnh báo và thận trọng).&nbsp;</p><p>Các thử nghiệm lâm sàng và dữ liệu dịch tễ học cho thấy việc sử dụng một số NSAIDs (đặc biệt ở liều cao và điều trị dài hạn) có thể làm tăng nhẹ nguy cơ huyết khối động mạch (ví dụ nhồi máu cơ tim hoặc đột quy).</p><p><u>Hướng dẫn cách xử trí ADR</u></p><p>Hãy thông báo cho bác sỹ hoặc dược sỹ về mọi tác dụng không mong muốn của thuốc đã nêu hoặc bất kỳ tác dụng phụ nào của thuốc mà chưa nêu ở đây.&nbsp;</p>",
+      "preservation": "<p>Bảo quản ở nhiệt độ dưới 30°C.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Brexin được chỉ định dùng để giảm các triệu chứng do viêm xương khớp (bao gồm cả <a href=\"https://nhathuoclongchau.com.vn/benh/thoai-hoa-khop-609.html\">thoái hóa khớp</a>), viêm khớp dạng thấp hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/viem-cot-song-dinh-khop-217.html\">viêm cột sống dính khớp</a>.</p><h3><strong>Dược lực học</strong></h3><p>Piroxicam, thuộc nhóm dẫn chất N-etherocyclic-carboxyamide benzothiazin, là thuốc đầu tiên của nhóm oxicam, một phân nhóm NSAID mới. Piroxicam có tác dụng chống viêm, giảm đau, hạ nhiệt, tương tự như các thuốc chống viêm không steroid khác. Các nghiên cứu trên động vật cho thấy piroxicam ảnh hưởng tới sự di chuyển các tế bào tới vùng bị viêm. Cũng giống như các NSAID khác, piroxicam ảnh hưởng tới sự tổng hợp prostaglandin thông qua ức chế cyclo-oxygenase. Khác với indomethacin, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/piroxicam\">piroxicam</a> là một chức ức chế tổng hợp prostaglandin có hồi phục. Trong một nghiên cứu trên 8 bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-dang-thap-254.html\">viêm khớp dạng thấp</a> tiến triển, piroxicam (20 mg/ngày trong 15 ngày) làm giảm đáng kể chức năng tế bào bạch cầu đa nhân (PMN), sự tạo ra anion peroxid trong máu ngoại vi và hoạt dịch, cũng như nồng độ của PMN và PMN-elastase trong hoạt dịch. Sự điều biến hoạt tính của PMN tạo ra tác dụng chống viêm của piroxicam.&nbsp;</p><p>Brexin là một dạng chế phẩm mới của piroxicam, trong đó hoạt chất chính được tạo phức với beta-cyclodextrin.&nbsp;</p><p>Beta-cyclodextrin là một oligosaccharide vòng, dẫn chất tạo ra từ thuỷ phân tinh bột thông thường bằng enzym. Do đặc điểm của cấu trúc hoá học, beta-cyclodextrin có thể tạo ra phức lồng với nhiều thuốc khác nhau, nhờ vậy có thể cải thiện được một số đặc tính của thuốc như độ hoà tan, độ ổn định và sinh khả dụng.</p><p>Piroxicam-beta-cyclodextrin tan rất tốt trong nước và hấp thu nhanh hơn nhiều so với piroxicam khi dùng đường uống và đặt trực tràng. Tăng khả năng hoà tan sẽ giúp thuốc nhanh chóng đạt được nồng độ cao trong máu và nồng độ đỉnh sẽ đạt được sớm hơn, trên lâm sàng tác dụng chống viêm giảm đau của thuốc sẽ xuất hiện sớm hơn và có hiệu quả hơn.&nbsp;</p><p>Cũng vẫn như với piroxicam, nửa đời thải trừ huyết tương kéo dài của Brexin vẫn được giữ nguyên, vì vậy chế phẩm vẫn chỉ cần dùng một lần mỗi ngày.</p><p>Với đặc tính dược lực học và dược động học phù hợp, Brexin thích hợp để điều trị những bệnh viêm và/hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/thap-khop-88.html\">thấp khớp</a> gây đau, ảnh hưởng nhiều đến toàn trạng và khả năng thực hiện những hoạt động thông thường của bệnh nhân, và cần thiết phải điều trị tích cực và nhanh chóng.</p><p>Trong thử nghiệm gây phù chân chuột bằng carrageenin, Brexin có tác dụng chống viêm nhanh hơn piroxicam; trong những giờ đầu tiên sau khi dùng thực tế là Brexin hiệu quả hơn piroxicam 2 - 3 lần kể cả dùng đường uống hay đường đặt trực tràng.&nbsp;</p><p>Tác dụng giảm đau của thuốc theo đường uống được đánh giá trên chuột nhắt bằng thử nghiệm gây đau bằng phenylquinone; 5 phút sau khi uống, đã thu được 99% của tác dụng ức chế tối đa của Brexin và 78% của piroxicam. Tác dụng của cả 2 thuốc duy trì ổn định trong khoảng 2 giờ sau khi uống.&nbsp;</p><p>Giá trị chỉ số điều trị của Brexin và piroxicam được tính bằng cách so sánh tác dụng chống viêm, đánh giá trên chuột cống bằng thử nghiệm gây phù chân chuột bằng carrageenin và tác dụng gây kích ứng dạ dày, trên cùng động vật thí nghiệm.</p><p>Brexin dùng đường uống có chỉ số điều trị cao hơn 2.65 lần so với piroxicam dùng đường uống; chỉ số điều trị của Brexin đặt trực tràng cao hơn 2.31 lần so với Brexin dùng đường uống.&nbsp;</p><p>Brexin được chứng minh là ít gây tác dụng bất lợi trên đường tiêu hoá của người thông qua 3 thử nghiệm lâm sàng mù đôi, có đối chứng, đánh giá sự mất máu qua phần bằng phương pháp đánh dấu phóng xạ 51Cr hồng cầu. Trong các nghiên cứu này, thời gian dùng thuốc là 28 ngày. Hai trong số 3 nghiên cứu đã cho thấy sự mất máu qua phần do dùng Brexin ít hơn đáng kể cho tới kết thúc 4 tuần điều trị, nghiên cứu còn lại cũng cho thấy có xu hướng tương tự.&nbsp;</p><p>Trong một nghiên cứu khác đã tiến hành so sánh ảnh hưởng đối với dạ dày của Brexin, piroxicam thường, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/indometacin\">indomethacin</a> và giả dược sau thời gian dùng 14 ngày; sự khác biệt trong nguy cơ đối với dạ dày (max GPD) cũng được đánh giá. Brexin gây ra nguy cơ đối với dạ dày ít hơn piroxicam hay indomethacin theo chỉ số này và có mối liên quan tương ứng giữa max GPD và tổn thương đánh giá bằng nội soi. Tóm lại, Brexin có chỉ số hoạt tính dược lực so với độc tính trên đường tiêu hoá tốt hơn so với piroxicam thường.</p><h3><strong>Dược động học</strong></h3><p>Sau khi uống hoặc đặt trực tràng Brexin, chỉ có phần hoạt tính (piroxicam) được hấp thu.&nbsp;</p><p>Nghiên cứu trên người tình nguyện khoẻ mạnh cho thấy ở liều tương đương (20 mg piroxicam), nồng độ tối đa piroxicam trong huyết tương đạt được sớm hơn nhiều khi dùng Brexin (dùng đường uống: Trong vòng 30 - 60 phút, so sánh với khoảng 2 giờ của piroxicam thường, dùng đường đặt trực tràng: Trong vòng 2 giờ so với 6 - 7 giờ của piroxicam thường).&nbsp;</p><p>Các thông số thải trừ, Kel và t1/2 không có khác biệt so với piroxicam thường vì phức hợp với beta-cyclodextrin chỉ ảnh hưởng tới động học hấp thu chứ không ảnh hưởng đến thải trừ.&nbsp;</p><p>Lượng hoạt chất được thải trừ qua thận trong 72 giờ sau khi dùng thuốc của cả chế phẩm Brexin và piroxicam thường đều vào khoảng 10% liều dùng.&nbsp;</p><p>Sau khi uống phức hợp, beta-cyclodextrin ở dạng không chuyển hoá không được phát hiện thấy trong huyết tương hay nước tiểu. Beta-cyclodextrin được chuyển hoá trong đại tràng bởi hệ vi khuẩn ruột thành dextrins không phân nhánh, maltose và glucose.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3><strong>Chống chỉ định</strong></h3><p>Thuốc Brexin chống chỉ định trong các trường hợp sau:</p><ul><li>Có tiền sử loét dạ dày-ruột, chảy máu hoặc thủng ống tiêu hóa.</li><li>Bệnh nhân có tiền sử bệnh lý đường tiêu hóa có rối loạn xuất huyết như viêm loét đại tràng, <a href=\"https://nhathuoclongchau.com.vn/benh/benh-crohn-46.html\">bệnh Crohn</a>, ung thư ống tiêu hóa, viêm túi thừa.</li><li>Bệnh nhân đang bị loét dạ dày tiến triển, hoặc chảy máu đường tiêu hóa.</li><li>Sử dụng phối hợp với các NSAID khác, bao gồm thuốc ức chế chọn lọc COX-2 và acid acetylsalicylic với liều giảm đau.</li><li>Khi đang dùng thuốc chống đông.</li><li>Có tiền sử dị ứng nghiêm trọng, đặc biệt là các phản ứng ngoài da như hồng ban đa dạng, hội chứng Stevens-Johnson, hoại tử thượng bì nhiễm độc.</li><li>Quá mẫn với hoạt chất hoặc bất kỳ thành phần nào của thuốc trong phần tá dược, trước đây có phản ứng bất lợi ở da (bất kể mức độ nghiêm trọng) khi dùng Piroxicam, với các NSAID khác và các thuốc khác.</li><li>Không nên dùng Piroxicam-B-cyclodextrin cho bệnh nhân bị hen khi dùng aspirin hoặc các NSAIDs khác.</li><li>Bệnh nhân bị tăng huyết áp nặng.</li><li>Bệnh nhân bị suy tim nặng.</li><li>Bệnh nhân bị bệnh gan nặng.</li><li>Bệnh nhân bị bệnh thận nặng.</li><li>Phụ nữ mang thai và cho con bú.</li><li>Trẻ em.</li></ul><h3><strong>Thận trọng khi sử dụng</strong></h3><p>Tác dụng không mong muốn có thể giảm bằng cách dùng liều tối thiểu có tác dụng trong thời gian ngắn nhất cần thiết để kiểm soát các triệu chứng. Lợi ích lâm sàng và khả năng dung nạp nên được đánh giá định kỳ và nên ngưng điều trị ngay khi phản ứng ngoài da xuất hiện lần đầu tiên hoặc các biến chứng về đường tiêu hóa có liên quan đến dùng NSAIDs.&nbsp;</p><p><u>Tác dụng trên đường tiêu hóa, nguy cơ loét đường tiêu hóa, chảy máu và thủng ống tiêu hóa</u>&nbsp;</p><p>NSAIDs, bao gồm piroxicam, có thể gây ra các biến chứng tiêu hóa nghiêm trọng bao gồm chảy máu, loét, và thủng dạ dày, ruột non hoặc ruột già, có thể gây tử vong. Những phản ứng phụ nghiêm trọng này có thể xảy ra bất cứ lúc nào, có hoặc không có triệu chứng cảnh báo, ở bệnh nhân được điều trị với NSAIDs.&nbsp;</p><p>Những bệnh nhân dùng <a href=\"https://nhathuoclongchau.com.vn/bai-viet/nsaid-la-gi-dac-diem-cua-thuoc-chong-viem-khong-steroid-nsaid.html\">NSAID</a> trong thời gian ngắn và dài hạn có nguy cơ gia tăng các biến chứng đường tiêu hóa nghiêm trọng. Bằng chứng từ các nghiên cứu quan sát cho thấy piroxicam có thể có nguy cơ cao về độc tính trên dạ dày-ruột, như các NSAID khác. Bệnh nhân có các yếu tố nguy cơ đáng kể đối với các biến chứng tiêu hóa nghiêm trọng chỉ nên được điều trị bằng piroxicam sau khi xem xét cẩn thận (xem phần Chống chỉ định và dưới đây). Nên cân nhắc việc phối hợp với các tác nhân bảo vệ dạ dày (ví dụ như misoprostol hoặc thuốc ức chế bơm proton -PPI) (xem phần Liều dùng và cách dùng).&nbsp;</p><p><u>Các biến chứng tiêu hóa nghiêm trọng</u></p><p><i>Xác định đối tượng có nguy cơ&nbsp;</i></p><p>Nguy cơ các biến chứng tiêu hóa nghiêm trọng tăng theo tuổi. Tuổi trên 70 năm có nguy cơ biến chứng cao. Cần tránh dùng thuốc cho bệnh nhân trên 80 tuổi. Các bệnh nhân dùng đồng thời corticosteroid uống, các thuốc ức chế tái hấp thu chọn lọc serotonin (SSRIs) hoặc các chất chống kết tập tiểu cầu như acid acetylsalicylic liều thấp đang có nguy cơ cao bị biến chứng tiêu hóa nghiêm trọng (xem phần dưới và phần Tương tác thuốc). Cũng như các thuốc NSAID khác, việc sử dụng piroxicam kết hợp với các thuốc bảo vệ (ví dụ như misoprostol hoặc chất ức chế bơm proton) phải được xem xét đối với những bệnh nhân có nguy cơ này.&nbsp;</p><p>Bệnh nhân và bác sĩ nên cảnh giác với các dấu hiệu và triệu chứng loét và/hoặc xuất huyết trong khi điều trị bằng <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/piroxicam\">piroxicam</a>. Bệnh nhân nên được yêu cầu báo cáo bất kỳ triệu chứng bất thường ở bụng hoặc bất thường trong quá trình điều trị. Nếu nghi ngờ có biến chứng đường tiêu hóa trong khi điều trị, nên ngừng sử dụng piroxicam ngay và cân nhắc việc đánh giá thêm về lâm sàng và điều trị.</p><p><i>Rối loạn tim mạch và mạch máu não&nbsp;</i></p><p>Bệnh nhân tăng huyết áp và/hoặc suy tim cần được theo dõi và tư vấn hợp lý, vì tình trạng giữ muối nước và phù nề đã được báo cáo khi kết hợp với liệu pháp điều trị bằng NSAID.&nbsp;</p><p>Bệnh nhân tăng huyết áp động mạch không kiểm soát, suy tim sung huyết, bệnh tim thiếu máu cục bộ, bệnh động mạch ngoại vi, và/hoặc bệnh mạch máu não chỉ nên điều trị với piroxicam sau khi xem xét cẩn thận.&nbsp;</p><p>Cần phải cân nhắc trước khi bắt đầu điều trị dài hạn ở những bệnh nhân có các yếu tố nguy cơ tim mạch (ví dụ: tăng huyết áp động mạch, tăng lipide máu, đái tháo đường, hút thuốc).&nbsp;</p><p><i>Nguy cơ huyết khối tim mạch&nbsp;</i></p><p>Các thuốc NSAIDs, không phải aspirin, dùng đường toàn thân, có thể làm tăng nguy cơ xuất hiện biến cố huyết khối tim mạch, bao gồm cả nhồi máu cơ tim và đột quy, có thể dẫn đến tử vong. Nguy cơ này có thể xuất hiện sớm trong vài tuần đầu dùng thuốc và có thể tăng lên theo thời gian dùng thuốc. Nguy cơ huyết khối tim mạch được ghi nhận chủ yếu ở liều cao.&nbsp;</p><p>Bác sĩ cần đánh giá định kỳ sự xuất hiện của các biến cố tim mạch, ngay cả khi bệnh nhân không có các triệu chứng tim mạch trước đó. Bệnh nhân cần được cảnh báo về các triệu chứng của biến cố tim mạch nghiêm trọng và cần thăm khám bác sỹ ngay khi xuất hiện các triệu chứng này.&nbsp;</p><p>Để giảm thiểu nguy cơ xuất hiện biến cố bất lợi, cần sử dụng Brexin ở liều hàng ngày thấp nhất có hiệu quả trong thời gian ngắn nhất có thể.</p><p><i>Suy giảm chức năng thận&nbsp;</i></p><p>Chú ý trong trường hợp suy thận (xem phần Chống chỉ định). Có nguy cơ mắc bệnh thận ở những bệnh nhân mất nước.&nbsp;</p><p><i>Phản ứng ở da&nbsp;</i></p><p>Các phản ứng ngoài da đe doạ tính mạng (<a href=\"https://nhathuoclongchau.com.vn/benh/hoi-chung-stevens-johnson-1098.html\">hội chứng Stevens-Johnson</a> (SJS) và hoại tử thượng bì nhiễm độc (TEN) đã được báo cáo khi sử dụng piroxicam.&nbsp;</p><p>Bệnh nhân cần được thông báo về các dấu hiệu và triệu chứng cũng như được theo dõi chặt chẽ các phản ứng trên da. Nguy cơ xuất hiện SJS hoặc TEN cao nhất trong những tuần đầu điều trị.&nbsp;</p><p>Nếu có triệu chứng hoặc dấu hiệu của SJS hoặc TEN (ví dụ phát ban da tiến triển thường kèm bóng nước hoặc có tổn thương niêm mạc) xuất hiện, nên ngưng dùng piroxicam.&nbsp;</p><p>Việc xử trí SJS và TEN cho kết quả tốt nhất nếu được chẩn đoán sớm và ngưng ngay lập tức bất kỳ loại thuốc nghi ngờ nào. Việc dùng thuốc sớm cho tiên lượng tốt hơn.&nbsp;</p><p>Nếu bệnh nhân đã xuất hiện SJS hoặc TEN khi sử dụng piroxicam, tuyệt đối không được sử dụng lại piroxicam ở bệnh nhân này.&nbsp;</p><p><i>Khác&nbsp;</i></p><p>Do những tương tác với sự chuyển hóa của acid arachidonic, thuốc có thể gây ra các cơn co thắt phế quản và có thể gây sốc và các phản ứng dị ứng khác ở bệnh nhân hen hoặc bệnh nhân có tiền sử.&nbsp;</p><p>Piroxicam, cũng giống như các NSAID khác, làm giảm kết tập tiểu cầu và kéo dài thời gian máu chảy, điều này phải được lưu ý khi xét nghiệm máu và yêu cầu thận trọng khi bệnh nhân được điều trị đồng thời với các thuốc ức chế kết tập tiểu cầu.&nbsp;</p><p>Viên nén có chứa lactose monohydrate. Bệnh nhân có các vấn đề di truyền hiếm gặp như không dung nạp galactose, thiếu men lactase bẩm sinh hoặc không dung nạp glucose và galactose không nên sử dụng sản phẩm này.</p><h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3><p>Piroxicam-3-cyclodextrin có thể làm thay đổi tình trạng tỉnh táo dẫn đến việc lái xe hoặc thực hiện các hoạt động đòi hỏi phản xạ nhanh (như vận hành máy móc) có thể bị ảnh hưởng.</p><h3><strong>Thời kỳ mang thai&nbsp;</strong></h3><p><i>Khả năng sinh sản&nbsp;</i></p><p>Việc sử dụng piroxicam-B-cyclodextrin có thể làm giảm khả năng sinh sản của phụ nữ và không được khuyến cáo ở phụ nữ dự định mang thai. Ở phụ nữ gặp khó khăn trong việc thụ thai hoặc đang kiểm tra về khả năng sinh sản, nên xem xét việc ngưng sử dụng piroxicam.</p><p><i>Phụ nữ có thai&nbsp;</i></p><p>Ức chế tổng hợp Prostaglandin có thể có những tác hại trong quá trình mang thai và/hoặc sự phát triển phôi thai/thai. Các nghiên cứu dịch tễ chỉ ra nguy cơ sẩy thai, dị tật tim mạch và thoát vị thành bụng bẩm sinh (gastroschisis) tăng sau khi dùng thuốc ức chế tổng hợp prostaglandin vào đầu thai kỳ. Nguy cơ tuyệt đối của các dị tật tim mạch tăng từ dưới 1% lên khoảng 1,5%. Nguy cơ này được cho là tăng theo liều lượng và thời gian điều trị.&nbsp;</p><p>Các nghiên cứu trên động vật đã cho thấy có độc tính trên hệ sinh sản. Piroxicam không được sử dụng trong ba tháng đầu hoặc 3 tháng giữa thai kỳ trừ khi thực sự cần thiết. Nếu phải dùng piroxicam cho phụ nữ đang mong con hoặc trong ba tháng đầu hoặc 3 tháng giữa thai kỳ, nên dùng ở liều thấp và thời gian điều trị càng ngắn càng tốt.&nbsp;</p><p>Nếu sử dụng trong ba tháng cuối thai kỳ, chất ức chế tổng hợp prostaglandin gây ra các ảnh hưởng trên thai như sau:&nbsp;</p><ul><li>Độc tính trên tim phổi (với đóng sớm ống động mạch và tăng áp động mạch phổi).&nbsp;</li><li>Rối loạn chức năng thận, có thể dẫn đến suy thận và thiểu ối.&nbsp;</li></ul><p>Đối với mẹ và trẻ sơ sinh:</p><ul><li>Thời gian chảy máu kéo dài, có thể xảy ra ngay cả khi dùng liều rất thấp.&nbsp;</li><li>Ức chế phản ứng, do đó làm chậm hoặc kéo dài việc chuyển dạ.&nbsp;</li></ul><p>Do đó Piroxicam không được dùng trong ba tháng cuối của thai kỳ (xem phần Chống chỉ định).</p><h3><strong>Thời kỳ cho con bú</strong></h3><p>Dữ liệu cho thấy nồng độ piroxicam trong sữa mẹ khoảng từ 1% đến 3% nồng độ piroxicam trong huyết tương của người mẹ. Piroxicam-B-cyclodextrin không được khuyến cáo sử dụng cho các phụ nữ cho con bú vì sự an toàn trên lâm sàng ở trẻ sơ sinh chưa được xác định.</p><h3><strong>Tương tác thuốc</strong></h3><p>Cũng như các NSAIDs khác, nên tránh dùng piroxicam cùng với axit acetylsalicylic hoặc sử dụng đồng thời với các thuốc NSAID khác, kể cả các công thức piroxicam khác, vì dữ liệu không đủ để chỉ ra rằng các kết hợp này có tác dụng hơn so với việc chỉ dùng piroxicam; hơn nữa, khả năng xảy ra các phản ứng bất lợi lại tăng lên (xem phần Cảnh báo đặc biệt và thận trọng khi dùng).&nbsp;</p><p>Các nghiên cứu trên người cho thấy sử dụng đồng thời piroxicam và axit acetylsalicylic làm giảm nồng độ piroxicam huyết tương xuống khoảng 80% giá trị thông thường (xem phần Chống chỉ định).&nbsp;</p><p>Corticosteroids: Tăng nguy cơ loét dạ dày ruột hoặc chảy máu (xem phần Cảnh báo đặc biệt và thận trọng khi dùng).&nbsp;</p><p>Thuốc chống đông: NSAIDs, bao gồm piroxicam, có thể làm tăng tác dụng của thuốc chống động, như warfarin. Do đó, tránh sử dụng piroxicam với thuốc chống đông máu như <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/warfarin\">warfarin</a> (xem phần Chống chỉ định).&nbsp;</p><p>Các thuốc chống kết tập tiểu cầu và thuốc ức chế tái hấp thu chon loc serotonin (SSRIs): Làm tăng nguy cơ xuất huyết tiêu hóa (xem phần Cảnh báo đặc biệt và thận trọng khi dùng).&nbsp;</p><p>Lithium: Các thuốc NSAIDs bao gồm piroxicam đã được báo cáo là làm tăng nồng độ lithi huyết tương ở trạng thái ổn định và cần phải theo dõi khi bắt đầu dùng thuốc, chỉnh liều hoặc ngưng điều trị với piroxicam-B-cyclodextrin.&nbsp;</p><p>Thuốc lợi tiểu, thuốc ức chế men chuyển, thuốc đối kháng thụ thể angiotensin II: NSAIDs có thể làm mất tác dụng lợi tiểu, bằng cách ngăn chặn sự tổng hợp prostaglandin. Điều trị kết hợp thuốc ức chế men chuyển và NSAIDs ở bệnh nhân giảm chức năng thận có thể làm tăng nguy cơ suy giảm chức năng thận nhiều hơn và suy thận. Bệnh nhân cần được bù nước. Nên theo dõi chức năng thận khi bắt đầu điều trị. Hơn nữa, NSAIDs có thể làm giảm tác dụng hạ áp của thuốc ức chế men chuyển.&nbsp;</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ciclosporin\">Ciclosporin</a> và Tarolimus: Có thể tăng nguy cơ gây độc cho thận khi dùng NSAIDs cùng với ciclosporin hoặc Tacrolimus. <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/piroxicam\">Piroxicam</a> có thể làm giảm hiệu quả của thuốc lợi tiểu và thuốc hạ áp. Trong trường hợp dùng đồng thời với thuốc có chứa kali, hoặc thuốc lợi tiểu giữ kali, có nguy cơ gia tăng nồng độ kali máu (tăng kali máu).&nbsp;</p><p>Khi gặp bất kỳ trường hợp nào kể trên, thông báo cho bác sỹ ngay lập tức.</p><p>Không được uống rượu trong suốt thời gian điều trị với Brexin.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Nguyễn Thị Thảo Nguyên",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp Khoa Dược trường Đại học Nam Cần Thơ. Có nhiều năm kinh nghiệm công tác trong lĩnh vực Dược phẩm. Hiện đang giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-nguyen-thi-thao-nguyen",
+        "isLegit": true,
+        "id": 12,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/nguyen_thi_thao_nguyen_d3d35676f5.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Brexin giảm đau, kháng viêm cho xương khớp (hộp 20 viên)",
+        "metaDescription": "Thuốc Brexin có chứa thành phần hoạt chất piroxicam-beta-cyclodextrin, là thuốc chống viêm không steroid (NSAID) dùng để giảm triệu chứng viêm xương khớp.",
+        "id": 1552,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/brexin_20mg_2x10_chiesi_00001427_02c6728428.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Brexin Chiesi giảm các triệu chứng do viêm xương khớp (2 vỉ x 10 viên)",
+            "description": "Brexin là sản phẩm của nhà sản xuất Chiesi Farmaceutici S.p.A, Ý, có thành phần hoạt chất là piroxicam-beta-cyclodextrin 191,2 mg, tương đương piroxicam 20 mg. Đây là thuốc chống viêm không steroid (NSAID) dùng để giảm các triệu chứng do viêm xương khớp (bao gồm cả thoái hóa khớp), viêm khớp dạng thấp hoặc viêm cột sống dính khớp.\n\nThuốc có dạng viên nén, màu vàng nhạt, hình lục giác. Viên nén có một rãnh khía ở giữa, có thể bẻ đôi thành hai phần bằng nhau. "
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 9045,
+        "title": "Thuốc Brexin có tác dụng gì?",
+        "content": "<p>Thuốc Brexin có hoạt chất là piroxicam, là thuốc chống viêm không steroid, được chỉ định để giảm các triệu chứng do viêm xương khớp, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-khop-dang-thap-254.html\">viêm khớp dạng thấp</a> hoặc viêm cột sống dính khớp.&nbsp;</p>"
+      },
+      {
+        "id": 9046,
+        "title": "Liều dùng thuốc Brexin như thế nào?",
+        "content": "<p>Theo khuyến cáo từ nhà sản xuất nên dùng Brexin 1 lần/ngày. Liều khuyến cáo tối đa mỗi ngày là 20mg <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/piroxicam\">piroxicam</a>. Người bệnh cần tuân thủ đúng liều lượng theo hướng dẫn sử dụng hoặc đơn thuốc của bác sĩ, tránh quá liều thuốc.</p><p>Nếu bệnh nhân được kê đơn 1 nửa liều, bệnh nhân cần chia đôi viên thuốc, để viên thuốc lên mặt phẳng, rãnh khía ở mặt trên. Ấn nhẹ bằng ngón tay cái, viên thuốc sẽ được bẻ đôi thành hai phần bằng nhau.</p>"
+      },
+      {
+        "id": 9047,
+        "title": "Phụ nữ có thai có được uống thuốc Brexin không?",
+        "content": "<p>Với phụ nữ đang có thai, Brexin không được sử dụng trong 3 tháng đầu hoặc 3 tháng giữa thai kỳ trừ khi thực sự cần thiết, nếu phải dùng trong thời gian này thì dùng liều thấp với thời gian càng ngắn càng tốt. Tuy nhiên, những đối tượng này chỉ nên dùng khi thực sự cần thiết và dưới sự theo dõi chặt chẽ của bác sĩ.&nbsp;</p><p>Brexin không được dùng trong 3 tháng cuối thai kỳ (chống chỉ định).</p><p>Sử dụng Brexin có thể làm giảm khả năng sinh sản của phụ nữ và không được khuyến cáo ở phụ nữ dự định mang thai.</p>"
+      },
+      {
+        "id": 9048,
+        "title": "Dùng thuốc Brexin khi lái xe có gây nguy hiểm gì không?",
+        "content": "<p>Brexin có thể làm thay đổi tình trạng tỉnh táo dẫn đến việc lái xe hoặc thực hiện các hoạt động đòi hỏi phản xạ nhanh bị ảnh hưởng. Vậy nên cần thận trọng khi phải lái xe sau khi dùng thuốc.</p>"
+      },
+      {
+        "id": 9049,
+        "title": "Người bệnh có thể uống rượu khi sử dụng thuốc Brexin không?",
+        "content": "<p>Brexin là một loại <a href=\"https://nhathuoclongchau.com.vn/thuoc/he-than-kinh-trung-uong/thuoc-khang-viem-khong-steroid\">thuốc chống viêm không steroid</a> (NSAID). Khi sử dụng Brexin, việc uống rượu có thể tạo ra một số rủi ro cho sức khỏe.</p><p>Vì vậy, để tránh tác động tiêu cực đến sức khỏe, hãy tuân thủ hướng dẫn của bác sĩ và đặc biệt không được uống rượu trong suốt thời gian điều trị với Brexin.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00050166",
+        "name": "HAPACOL EVA GIẢM ĐAU BỤNG KINH DHG PHARMA 10X5",
+        "webName": "Thuốc Hapacol Eva giảm đau bụng kinh Dhg Pharma (10 vỉ x 5 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_hapacol_eva_giam_dau_bung_kinh_dhg_pharma_10x5_00050166_43c17a09ed.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 79196,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 42000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/hapacol-eva-giam-dau-bung-kinh-dhg-pharma-10-x5.html",
+        "ingredients": "Paracetamol 325mg, Ibuprofen 200mg",
+        "dosageForm": "Viên nén",
+        "brand": "Dhg",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 5 Viên",
+        "prices": [
+          {
+            "id": 79196,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 42000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 79197,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 4200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 79198,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 840,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00011052",
+        "name": "FASTUM GEL MENARINI 30G",
+        "webName": "Gel Fastum Menarini giảm đau và kháng viêm cơ xương khớp (30g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4326_efa7ccd69b.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 15269,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 56000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/fastum-gel-30g-1153.html",
+        "ingredients": "Ketoprofen 2.5%",
+        "dosageForm": "Gel",
+        "brand": "Menarini",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp X 30g",
+        "prices": [
+          {
+            "id": 15269,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 56000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 259,
+          "attributeName": "Ý",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Y_7fc103d37f.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00008077",
+        "name": "VOLTAREN EMULGEL HALEON 20G",
+        "webName": "Gel bôi Voltaren Emulgel Novartis điều trị giảm đau do chấn thương hoặc thấp khớp (20g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02012_b5c0680262.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11872,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 69000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/voltaren-emulgel-20g-1737.html",
+        "ingredients": "Diclofenac diethylamine 1.16g",
+        "dosageForm": "Gel",
+        "brand": "HALEON",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp x 20g",
+        "prices": [
+          {
+            "id": 11872,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 69000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 87,
+          "attributeName": "Thụy Sĩ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/ch_Switzerland_8023147879.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00021344",
+        "name": "DOBUTANE SPRAY UNISON 60ML",
+        "webName": "Xịt Dobutane Spray Unison giảm đau, chống viêm trong bệnh lý cơ xương và khớp (60ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/dobutane_spray_unison_60ml_00021344_1_e2ffe7d92c.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 26665,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 184000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/dobutane-spray-unison-60ml-21700.html",
+        "ingredients": "Diclofenac 1%",
+        "dosageForm": "Dung dịch xịt",
+        "brand": "Unison",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 60ml",
+        "prices": [
+          {
+            "id": 26665,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 184000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 262,
+          "attributeName": "Thái Lan",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/th_Thailand_cdaa8c1601.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00050692",
+        "name": "NAPROFAZT 250MG MEGA 5X10",
+        "webName": "Thuốc Naprofazt 250mg Chống viêm không steroid (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/NAPROFAZT_250_MG_MEGA_5_X10_00050692_6_0802576e45.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 80100,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 5000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/naprofazt-250-mg-mega-5-x10.html",
+        "ingredients": "Naproxen 250mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "MEGA We care",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 80098,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 250000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 80099,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 50000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 80100,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 262,
+          "attributeName": "Thái Lan",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/th_Thailand_cdaa8c1601.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00038668",
+        "name": "AMIFULL 300MG MEDIPLANTEX 6X10",
+        "webName": "Thuốc Amifull 300mg Mediplantex giúp giảm đau lưng, đau khớp, đau cơ (6 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00038668_b916336cc4.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 57341,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 678000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/amifull-300-mg-mediplantex-6-x10.html",
+        "ingredients": "Cao khô Devil's Claw 300mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Mediplantex",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 57341,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 678000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 57342,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 113000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 57343,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 11300,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00502868",
+        "name": "BROMETIC 2MG/10ML CPC1 4 VỈ X 5 ỐNG",
+        "webName": "Thuốc Brometic 2mg/10ml làm loãng đờm trong các bệnh phế quản phổi cấp và mạn tính (4 vỉ x 5 ống)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00502868_5b2d455b4b.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 53201,
+          "measureUnitCode": 15,
+          "measureUnitName": "Ống",
+          "isSellDefault": true,
+          "price": 5000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-brometic-2mg10ml-cpc1-hop-4-vi-x-5-ong-37169.html",
+        "ingredients": "Bromhexin hydroclorid 2mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "CPC1HN",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 4 Vỉ x 5 Ống",
+        "prices": [
+          {
+            "id": 53203,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 100000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 53201,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": true,
+            "price": 5000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 53202,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 25000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00003886",
+        "name": "IBUMED 400MG ABBOTT 10X10",
+        "webName": "Thuốc Ibumed 400 Glomed giảm đau do cảm cúm, cảm lạnh, viêm khớp dạng thấp (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_ibumed_400_10_vi_x_10_vien_glomed_00003886_7882e54e7e.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 5376,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 800,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/ibumed-400mg-3430.html",
+        "ingredients": "Ibuprofen 400mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Abbott",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 5376,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 800,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 5378,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 80000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 5377,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 8000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 248,
+          "attributeName": "Hoa Kỳ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/us_United_States_of_America_usa_59e1ad3af3.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00003460",
+        "name": "GOFEN 400MG MEGA 5X10",
+        "webName": "Thuốc Gofen 400 MEGA We care điều trị hạ sốt, giảm đau (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_gofen_400_5_vi_x_10_vien_mega_we_care_00003460_565d3a853b.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 4779,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 3880,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/gofen-400ml-3566.html",
+        "ingredients": "Ibuprofen 400mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "MEGA We care",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 4780,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 38800,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 4781,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 194000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 4779,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 3880,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 262,
+          "attributeName": "Thái Lan",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/th_Thailand_cdaa8c1601.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00002522",
+        "name": "DOLFENAL UNITED 25X4",
+        "webName": "Thuốc Dolfenal United giảm đau bụng kinh, đau răng, đau do chấn thương (25 vỉ x 4 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/dolfenal_25x4_united_00002522_5bf9e7d125.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 3258,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 1500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/dolfenal-3968.html",
+        "ingredients": "Mefenamic acid 500mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "United",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 25 Vỉ x 4 Viên",
+        "prices": [
+          {
+            "id": 3260,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 150000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 3258,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 1500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 3259,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001412",
+        "name": "BOSTANEX 5MG BOSTON 3X10",
+        "webName": "Thuốc Bostanex Boston giảm viêm mũi dị ứng, hắt hơi, sổ mũi, ngứa mũi (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/bostanex_94c08abeb7.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1531,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 63000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bostanex-5mg-boston-pharma-4461.html",
+        "ingredients": "Desloratadine 5mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Boston",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 1529,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2100,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1531,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 63000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 1530,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 21000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00013630",
+        "name": "ROSIDEN GEL DAEWON 20G",
+        "webName": "Gel Rosiden Deawoo giảm đau và kháng viêm (20g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013630_rosiden_gel_20g_9813_6103_large_cccb2cea4e.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 729,
+            "name": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 769,
+            "name": "Thuốc giảm đau kháng viêm",
+            "parentName": "Thuốc giảm đau, hạ sốt, kháng viêm",
+            "slug": "thuoc/thuoc-giam-dau-ha-sot-khang-viem/thuoc-giam-dau-khang-viem",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 16205,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 14000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/rosiden-gel-20g-15924.html",
+        "ingredients": "Piroxicam 100mg",
+        "dosageForm": "Gel",
+        "brand": "Daewon",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Tuýp x 20g",
+        "prices": [
+          {
+            "id": 16205,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 14000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 257,
+          "attributeName": "Hàn Quốc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Han_Quoc_760f524a89.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 43,
+      "items": [
+        {
+          "id": 3361031,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0961xxxxxx",
+          "name": "T Nguyen",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 họp bao nhiêu vậy nhà thuoc",
+          "createdAt": "2026-08-20 15:16:30",
+          "createdAtDisplay": "16 ngày trước",
+          "updatedAt": "2026-08-20 15:16:30",
+          "replies": [
+            {
+              "id": 3361034,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Quỳnh Thư Liễu",
+                "moderatorEmail": "lieunqt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Quỳnh Thư Liễu",
+              "email": "lieunqt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Nguyên,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ. Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm</p>",
+              "createdAt": "2026-08-20 15:21:51",
+              "createdAtDisplay": "16 ngày trước",
+              "updatedAt": "2026-08-20 15:16:30",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3303227,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0929xxxxxx",
+          "name": "chị Anh",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "muốn mua thì đặt hàng sao shop",
+          "createdAt": "2026-05-07 12:29:25",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-07 12:29:25",
+          "replies": [
+            {
+              "id": 3303231,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Lan Phượng",
+                "moderatorEmail": "phuonghl4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Lan Phượng",
+              "email": "phuonghl4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Anh,</p><p>Tư vấn viên nhà thuốc sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-05-07 12:32:35",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-07 12:29:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3298275,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0967xxxxxx",
+          "name": "Lê thị Thoa",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tôi muốn mua thuốc Brexin 20mg",
+          "createdAt": "2026-04-29 08:47:24",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-29 08:47:24",
+          "replies": [
+            {
+              "id": 3298277,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Kim Linh",
+                "moderatorEmail": "linhhk21@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Kim Linh",
+              "email": "linhhk21@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Thoa,</p><p> Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-04-29 08:48:24",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-29 08:47:24",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3286227,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0977xxxxxx",
+          "name": "Vũ cao thế",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mình muốn mua loại thốc này thì mua như nào ạ",
+          "createdAt": "2026-04-06 17:40:47",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-06 17:40:47",
+          "replies": [
+            {
+              "id": 3286229,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Bảo Nghi",
+                "moderatorEmail": "nghintb2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Bảo Nghi",
+              "email": "nghintb2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Thế,</p><p>Dạ tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p><p><br></p>",
+              "createdAt": "2026-04-06 17:42:45",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-06 17:40:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3207008,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0908xxxxxx",
+          "name": "Phan thị lan anh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc này mình có bán ko ạ?",
+          "createdAt": "2025-11-04 07:32:25",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-11-04 07:32:21",
+          "replies": [
+            {
+              "id": 3207034,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ánh",
+                "moderatorEmail": "anhnth44@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ánh",
+              "email": "anhnth44@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Anh,</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p>",
+              "createdAt": "2025-11-04 08:24:02",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-11-04 07:32:21",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 2,
+      "items": [
+        {
+          "id": 2699909,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0898xxxxxx",
+          "name": "Lê Vĩnh Bá",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc này có phải thuốc giảm đau không ? Uống có hại Dạ dày không ?",
+          "createdAt": "2024-11-12 07:27:42",
+          "createdAtDisplay": "12/11/2024",
+          "updatedAt": "2024-11-12 08:09:33",
+          "replies": [
+            {
+              "id": 2700299,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thanh Thảo",
+                "moderatorEmail": "Thaont214@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Thanh Thảo",
+              "email": "Thaont214@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Lê Vĩnh Bá, </span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sản phẩm là thuốc chống viêm không steroid (NSAID) dùng để giảm các triệu chứng do viêm xương khớp (bao gồm cả thoái hóa khớp), viêm khớp dạng thấp hoặc viêm cột sống dính khớp. Với người có tiền sử dạ dày nên hạn chế sử dụng ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Nhà thuốc thông tin đến bạn. </span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p><p class=\"editor-paragraph\"><br></p>",
+              "createdAt": "2024-11-12 08:09:33",
+              "createdAtDisplay": "12/11/2024",
+              "updatedAt": "2024-11-12 08:09:33",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 362370,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0906xxxxxx",
+          "name": "Chị Oanh",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2023-12-02 17:58:35",
+          "createdAtDisplay": "02/12/2023",
+          "updatedAt": "2023-12-02 18:00:13",
+          "replies": [
+            {
+              "id": 362376,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thu Phương",
+                "moderatorEmail": "phuongtt124@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Trần Thu Phương",
+              "email": "phuongtt124@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào chị Oanh,</span><br><span>Dạ rất cảm ơn tình cảm của chị dành cho nhà thuốc FPT Long châu. Bất cứ khi nào chị cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.  Thân mến!</span><br></p>",
+              "createdAt": "2023-12-02 18:00:13",
+              "createdAtDisplay": "02/12/2023",
+              "updatedAt": "2023-12-02 18:00:13",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 2
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Brexin Chiesi giảm các triệu chứng do viêm xương khớp (2 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/brexin_20mg_2x10_chiesi_00001427_02c6728428.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_1404_63d7_large_4105160f59.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_4522_63d7_large_3c942f3800.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_4496_63d7_large_065258322f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_3952_63d7_large_f04156cebe.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_2596_63d7_large_218081d3dc.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_1672_63d7_large_5fb289b63e.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_5262_63d7_large_683adf168a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_1960_63d7_large_3f36cdd93d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001427_brexin_9786_63d7_large_065b8e3470.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Brexin là sản phẩm của nhà sản xuất Chiesi Farmaceutici S.p.A, Ý, có thành phần hoạt chất là piroxicam-beta-cyclodextrin 191,2 mg, tương đương piroxicam 20 mg. Đây là thuốc chống viêm không steroid (NSAID) dùng để giảm các triệu chứng do viêm xương khớp (bao gồm cả thoái hóa khớp), viêm khớp dạng thấp hoặc viêm cột sống dính khớp.\n\nThuốc có dạng viên nén, màu vàng nhạt, hình lục giác. Viên nén có một rãnh khía ở giữa, có thể bẻ đôi thành hai phần bằng nhau. ",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nguyễn Thị Thảo Nguyên"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "2"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Brexin giảm đau, kháng viêm cho xương khớp (hộp 20 viên)",
+      "description": "Thuốc Brexin có chứa thành phần hoạt chất piroxicam-beta-cyclodextrin, là thuốc chống viêm không steroid (NSAID) dùng để giảm triệu chứng viêm xương khớp.",
+      "openGraph": {
+        "title": "Thuốc Brexin Chiesi giảm các triệu chứng do viêm xương khớp (2 vỉ x 10 viên)",
+        "description": "Brexin là sản phẩm của nhà sản xuất Chiesi Farmaceutici S.p.A, Ý, có thành phần hoạt chất là piroxicam-beta-cyclodextrin 191,2 mg, tương đương piroxicam 20 mg. Đây là thuốc chống viêm không steroid (NSAID) dùng để giảm các triệu chứng do viêm xương khớp (bao gồm cả thoái hóa khớp), viêm khớp dạng thấp hoặc viêm cột sống dính khớp.\n\nThuốc có dạng viên nén, màu vàng nhạt, hình lục giác. Viên nén có một rãnh khía ở giữa, có thể bẻ đôi thành hai phần bằng nhau. ",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/brexin_20mg_2x10_chiesi_00001427_02c6728428.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/brexin-4455.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/brexin-4455.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

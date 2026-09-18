@@ -1,0 +1,930 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/cefdinir-300-4339.html",
+  "ingestion_timestamp": "2026-09-05T09:09:56.350937+00:00",
+  "file_hash": "ddf8cf1e926daa5074f0bd0cd020ca6f40e2348782f7156dbe2b85240dc9d616",
+  "lineage_hash": "2201afbfb86404534abfdad3de2aa91a1f16daf83f80b7ac3cd192793fc51054",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/cefdinir-300-4339.html",
+    "product": {
+      "sku": "00001673",
+      "webName": "Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên)",
+      "name": "CEFDINIR 300 HV USP 2X10",
+      "shortName": "CEFDINIR 300 HV USP 2X10",
+      "headingText": "Thuốc Cefdinir 300 - HV",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cefdinir_300_2x10_hv_usp_00001673_dddd928b1d.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6090_171110456f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6091_7bc8c714d5.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6092_3b5fb1200f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6093_af36c795f6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6094_f13e64f32d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6095_3010e75f32.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6097_7493b76f11.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6098_6dc94ecffe.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cefdinir_300_1_83c2d4fce1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cefdinir_300_2_c221fff272.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 731,
+          "name": "Thuốc kháng sinh, kháng nấm",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 781,
+          "name": "Thuốc kháng sinh",
+          "parentName": "Thuốc kháng sinh, kháng nấm",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Hộp 2 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 2,
+          "productSpecs": "2 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/cefdinir-300-4339.html",
+      "ingredient": [
+        {
+          "id": 20653,
+          "ingredientId": 13569,
+          "shortDescription": "300mg",
+          "name": "Cefdinir",
+          "isPrimary": false,
+          "slug": "thanh-phan/cefdinir"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893110056100",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang cứng",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Uống nguyên viên thuốc.</p>\n\n<p>Nên uống thuốc ngay sau bữa ăn và ít nhất 2 giờ trước hay sau khi dùng các thuốc kháng acid hoặc các chế phẩm chứa sắt.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Liều dùng và thời gian dùng thuốc cho từng trường hợp cụ thể theo chỉ định của bác sĩ điều trị.</p>\n\n<p>Liều dùng thông thường như sau: Thời gian điều trị từ 5- 10 ngày tùy trường hợp, có thể dùng 1 lần/ngày hay chia 2 lần/ngày.</p>\n\n<p><em>Người lớn và trẻ em trên 13 tuổi: </em></p>\n\n<p>Dùng 300 mg x 2 lần/ngày hay 600mg/1 lần/ngày.</p>\n\n<p>Tổng liều là 600mg cho các loại nhiễm trùng.</p>\n\n<p><em>Bệnh nhân suy thận: </em></p>\n\n<p>Người lớn với độ thanh thải creatinin &lt;30ml/phút: Nên dùng liều 300mg/lần/ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Triệu chứng và dấu hiệu ngộ độc khi dùng quá liều của các kháng sinh họ beta-lactam đã được biết đến như: Buồn nôn, nôn mửa, đau thượng vị, tiêu chảy, co giật. Lọc máu có thể loại trừ Cefdinir ra khỏi cơ thể, đặc biệt trong trường hợp có suy chức năng thận.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Cefdinir 300 được chỉ định cho các trường hợp nhiễm khuẩn từ nhẹ đến vừa, gây ra bởi những vi khuẩn nhạy cảm trong trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-phoi-180.html\">Viêm phổi</a> mắc phải cộng đồng do các tác nhân Haemophilus influenzae, Moraxella catarrhalis (gồm cả chúng sinh beta-Lactamase), Streptococcus pneumoniae (chủng nhạy cảm với penicillin).</p>\n\t</li>\n\t<li>\n\t<p>Đợt cấp của <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phe-quan-man-tinh-179.html\">viêm phế quản mãn</a> cũng do các tác nhân Haemophilus influenzae, Moraxella catarrhalis (gồm cả chúng sinh beta-Lactamase), Streptococcus pneumoniae (chủng nhạy cảm với penicillin).</p>\n\t</li>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-xoang-479.html\">Viêm xoang</a> cấp tính do Haemophilus influenzae, Moraxella catarrhalis (gồm cả chủng sinh beta-Lactamase) và Streptococcus pneumoniae (chủng nhạy cảm với penicillin);</p>\n\t</li>\n\t<li>\n\t<p>Viêm hầu họng/viêm amidan do Streptococcus pyogenes.</p>\n\t</li>\n\t<li>\n\t<p>Nhiễm khuẩn da và cấu trúc da: Do Staphylococcus aureus (gồm cả chủng sinh beta-Lactamase) và Streptococcus pyogenes.</p>\n\t</li>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\">Viêm tai giữa</a> cấp gây ra bởi Haemophilus influenzae, Moraxella catarrhalis (gồm cả chủng sinh beta-Lactamase), Streptococcus pneumoniae.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Dược chất chính của thuốc Cefdinir 300 là <a href=\"http://nhathuoclongchau.com.vn/thanh-phan/cefdinir\" rel='nofollow'>Cefdinir</a>, có hoạt tính trên nhiều loại vi khuẩn Gram dương và Gram âm.</p>\n\n<p>Phổ kháng khuẩn bao gồm:</p>\n\n<ul>\n\t<li>\n\t<p>Các vi khuẩn Gram dương: Staphylococcus aureus, Staphyloccus apidermidis (kể cả chủng sinh beta-lactamase nhưng nhạy cảm với methicillin), Streptococcus pneumoniae, Streptococcus pyogenes (nhạy với penicillin).</p>\n\t</li>\n\t<li>\n\t<p>Các vi khuẩn Gram âm: Haemophilus influenzae, Moraxella catarrhalis, Escherichia coli, Kebsiella pneumoniae, Proteus mirabilis, Neisseria gonorrhoeae.</p>\n\t</li>\n</ul>\n\n<p><strong>Dược động học</strong></p>\n\n<p><em>Hấp thu</em></p>\n\n<p>Nồng độ tối đa của Cefdinir trong huyết tương xuất hiện sau 2 đến 4 giờ sau khi uống. Nồng độ Cefdinir trong huyết tương tăng theo liều nhưng tăng ít hơn ở liều từ 300 mg (7 mg/kg) tới liều 600 mg (14 mg/kg). Sinh khả dụng dự đoán của Cefdinir là 21% sau khi uống liều 300 mg.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Thể tích phân bố trung bình của Cefdinir ở người lớn là 0.35 1/kg (± 0.29), ở trẻ em (từ 6 tháng đến 12 tuổi) là 0.67/kg (± 0.38). Cefdinir gắn với protein huyết tương từ 60% đến 70% ở người lớn và trẻ em; sự gắn kết không phụ thuộc nồng độ.</p>\n\n<p><em>Chuyển hóa và thải trừ</em></p>\n\n<p>Cefdinir chuyển hoá không đáng kể. Cefdinir được thải trừ chủ yếu qua thận với thời gian bán thải trung bình là 1.7 giờ. Ở người khỏe mạnh với chức năng thận bình thường, độ thanh thải của thận là 2.0 (+ 1.0) mL/min/kg và độ thanh thải của thận sau khi uống thuốc là 11.6 (t6.0) sau khi uống liều 300 mg.</p>\n\n<p>Tỉ lệ thuốc tái hấp thu dưới dạng không đổi trong nước tiểu sau khi uống liều 300 mg là 18.4%. Độ thanh thải Cefdinir giảm ở bệnh nhân suy thận.</p>",
+      "brand": "Usp",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Cefdinir 300, bạn có thể gặp các tác dụng không mong muốn (ADR). Các tác dụng không mong muốn do Cefdinir thường nhẹ bao gồm:</p>\n\n<ul>\n\t<li>\n\t<p>Hiếm khi: <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">Tiêu chảy</a>, buồn nôn, nhức đầu, đau bụng, nổi mẩn, viêm âm đạo;</p>\n\t</li>\n\t<li>\n\t<p>Rất hiếm: Khó tiêu, đầy hơi, nôn mửa, biếng ăn, táo bón, phân khác thường, suy nhược, <a href=\"https://nhathuoclongchau.com.vn/benh/chong-mat-763.html\">chóng mặt</a>, mất ngủ, ngứa ngáy, ngủ gà.</p>\n\t</li>\n</ul>\n\n<p>Thông báo cho bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Có thể giảm nhẹ các tác dụng phụ của thuốc bằng cách giảm liều.</p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 2 Vỉ x 10 Viên",
+      "indications": [
+        {
+          "id": 8,
+          "name": "Viêm amidan",
+          "slug": "benh/viem-amidan-467.html"
+        },
+        {
+          "id": 10,
+          "name": "Viêm họng cấp",
+          "slug": "benh/viem-hong-cap-469.html"
+        },
+        {
+          "id": 43,
+          "name": "Viêm xoang",
+          "slug": "benh/viem-xoang-479.html"
+        },
+        {
+          "id": 300,
+          "name": "Viêm phế quản cấp tính",
+          "slug": "benh/viem-phe-quan-cap-tinh-611.html"
+        },
+        {
+          "id": 625,
+          "name": "Viêm phổi",
+          "slug": "benh/viem-phoi-180.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "USP",
+      "shortDescription": "<p>Cefdinir 300 của Công ty cổ phần US Pharma USA, có thành phần chính Cefdinir, Cefdinir 300mg được dùng trong các nhiễm trùng gây ra bởi những dòng vi khuẩn nhạy cảm với các bệnh như: Nhiễm trùng hô hấp trên và dưới, viêm nang lông, nhọt, chốc lở, viêm thận - bể thận, viêm bàng quang, viêm phần phụ tử cung, viêm tử cung, viêm tuyến Bartholin.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Trên 13 tuổi",
+      "objectUse": [
+        "Người lớn",
+        "Trẻ em"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Phụ nữ cho con bú",
+        "Suy gan thận",
+        "Trẻ em"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Dị ứng thuốc",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/usp",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "CEFDINIR",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 781,
+        "name": "Thuốc kháng sinh",
+        "parentName": "Thuốc kháng sinh, kháng nấm",
+        "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cefdinir_300_2x10_hv_usp_00001673_dddd928b1d.png",
+          "alternativeText": "Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6090_171110456f.jpg",
+          "alternativeText": "Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6091_7bc8c714d5.jpg",
+          "alternativeText": "Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6092_3b5fb1200f.jpg",
+          "alternativeText": "Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6093_af36c795f6.jpg",
+          "alternativeText": "Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6094_f13e64f32d.jpg",
+          "alternativeText": "Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6095_3010e75f32.jpg",
+          "alternativeText": "Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6097_7493b76f11.jpg",
+          "alternativeText": "Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6098_6dc94ecffe.jpg",
+          "alternativeText": "Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cefdinir_300_1_83c2d4fce1.jpg",
+          "alternativeText": "Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên) 10"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cefdinir_300_2_c221fff272.jpg",
+          "alternativeText": "Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên) 11"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc kháng sinh, kháng nấm",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam"
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh"
+      }
+    ],
+    "content": {
+      "sku": "00001673",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Uống nguyên viên thuốc.</p>\n\n<p>Nên uống thuốc ngay sau bữa ăn và ít nhất 2 giờ trước hay sau khi dùng các thuốc kháng acid hoặc các chế phẩm chứa sắt.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Liều dùng và thời gian dùng thuốc cho từng trường hợp cụ thể theo chỉ định của bác sĩ điều trị.</p>\n\n<p>Liều dùng thông thường như sau: Thời gian điều trị từ 5- 10 ngày tùy trường hợp, có thể dùng 1 lần/ngày hay chia 2 lần/ngày.</p>\n\n<p><em>Người lớn và trẻ em trên 13 tuổi: </em></p>\n\n<p>Dùng 300 mg x 2 lần/ngày hay 600mg/1 lần/ngày.</p>\n\n<p>Tổng liều là 600mg cho các loại nhiễm trùng.</p>\n\n<p><em>Bệnh nhân suy thận: </em></p>\n\n<p>Người lớn với độ thanh thải creatinin &lt;30ml/phút: Nên dùng liều 300mg/lần/ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Triệu chứng và dấu hiệu ngộ độc khi dùng quá liều của các kháng sinh họ beta-lactam đã được biết đến như: Buồn nôn, nôn mửa, đau thượng vị, tiêu chảy, co giật. Lọc máu có thể loại trừ Cefdinir ra khỏi cơ thể, đặc biệt trong trường hợp có suy chức năng thận.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<?xml encoding=\"utf-8\" ?>\n",
+      "adverseEffect": "<p>Khi sử dụng thuốc Cefdinir 300, bạn có thể gặp các tác dụng không mong muốn (ADR). Các tác dụng không mong muốn do Cefdinir thường nhẹ bao gồm:</p>\n\n<ul>\n\t<li>\n\t<p>Hiếm khi: <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">Tiêu chảy</a>, buồn nôn, nhức đầu, đau bụng, nổi mẩn, viêm âm đạo;</p>\n\t</li>\n\t<li>\n\t<p>Rất hiếm: Khó tiêu, đầy hơi, nôn mửa, biếng ăn, táo bón, phân khác thường, suy nhược, <a href=\"https://nhathuoclongchau.com.vn/benh/chong-mat-763.html\">chóng mặt</a>, mất ngủ, ngứa ngáy, ngủ gà.</p>\n\t</li>\n</ul>\n\n<p>Thông báo cho bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Có thể giảm nhẹ các tác dụng phụ của thuốc bằng cách giảm liều.</p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p>\n\n<p>Để xa tầm tay trẻ em.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Cefdinir 300 được chỉ định cho các trường hợp nhiễm khuẩn từ nhẹ đến vừa, gây ra bởi những vi khuẩn nhạy cảm trong trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-phoi-180.html\">Viêm phổi</a> mắc phải cộng đồng do các tác nhân Haemophilus influenzae, Moraxella catarrhalis (gồm cả chúng sinh beta-Lactamase), Streptococcus pneumoniae (chủng nhạy cảm với penicillin).</p>\n\t</li>\n\t<li>\n\t<p>Đợt cấp của <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phe-quan-man-tinh-179.html\">viêm phế quản mãn</a> cũng do các tác nhân Haemophilus influenzae, Moraxella catarrhalis (gồm cả chúng sinh beta-Lactamase), Streptococcus pneumoniae (chủng nhạy cảm với penicillin).</p>\n\t</li>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-xoang-479.html\">Viêm xoang</a> cấp tính do Haemophilus influenzae, Moraxella catarrhalis (gồm cả chủng sinh beta-Lactamase) và Streptococcus pneumoniae (chủng nhạy cảm với penicillin);</p>\n\t</li>\n\t<li>\n\t<p>Viêm hầu họng/viêm amidan do Streptococcus pyogenes.</p>\n\t</li>\n\t<li>\n\t<p>Nhiễm khuẩn da và cấu trúc da: Do Staphylococcus aureus (gồm cả chủng sinh beta-Lactamase) và Streptococcus pyogenes.</p>\n\t</li>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\">Viêm tai giữa</a> cấp gây ra bởi Haemophilus influenzae, Moraxella catarrhalis (gồm cả chủng sinh beta-Lactamase), Streptococcus pneumoniae.</p>\n\t</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Dược chất chính của thuốc Cefdinir 300 là <a href=\"http://nhathuoclongchau.com.vn/thanh-phan/cefdinir\" rel='nofollow'>Cefdinir</a>, có hoạt tính trên nhiều loại vi khuẩn Gram dương và Gram âm.</p>\n\n<p>Phổ kháng khuẩn bao gồm:</p>\n\n<ul>\n\t<li>\n\t<p>Các vi khuẩn Gram dương: Staphylococcus aureus, Staphyloccus apidermidis (kể cả chủng sinh beta-lactamase nhưng nhạy cảm với methicillin), Streptococcus pneumoniae, Streptococcus pyogenes (nhạy với penicillin).</p>\n\t</li>\n\t<li>\n\t<p>Các vi khuẩn Gram âm: Haemophilus influenzae, Moraxella catarrhalis, Escherichia coli, Kebsiella pneumoniae, Proteus mirabilis, Neisseria gonorrhoeae.</p>\n\t</li>\n</ul>\n\n<p><strong>Dược động học</strong></p>\n\n<p><em>Hấp thu</em></p>\n\n<p>Nồng độ tối đa của Cefdinir trong huyết tương xuất hiện sau 2 đến 4 giờ sau khi uống. Nồng độ Cefdinir trong huyết tương tăng theo liều nhưng tăng ít hơn ở liều từ 300 mg (7 mg/kg) tới liều 600 mg (14 mg/kg). Sinh khả dụng dự đoán của Cefdinir là 21% sau khi uống liều 300 mg.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Thể tích phân bố trung bình của Cefdinir ở người lớn là 0.35 1/kg (± 0.29), ở trẻ em (từ 6 tháng đến 12 tuổi) là 0.67/kg (± 0.38). Cefdinir gắn với protein huyết tương từ 60% đến 70% ở người lớn và trẻ em; sự gắn kết không phụ thuộc nồng độ.</p>\n\n<p><em>Chuyển hóa và thải trừ</em></p>\n\n<p>Cefdinir chuyển hoá không đáng kể. Cefdinir được thải trừ chủ yếu qua thận với thời gian bán thải trung bình là 1.7 giờ. Ở người khỏe mạnh với chức năng thận bình thường, độ thanh thải của thận là 2.0 (+ 1.0) mL/min/kg và độ thanh thải của thận sau khi uống thuốc là 11.6 (t6.0) sau khi uống liều 300 mg.</p>\n\n<p>Tỉ lệ thuốc tái hấp thu dưới dạng không đổi trong nước tiểu sau khi uống liều 300 mg là 18.4%. Độ thanh thải Cefdinir giảm ở bệnh nhân suy thận.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3><strong>Chống chỉ định</strong></h3>\n\n<p>Thuốc Cefdinir 300 chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Bệnh nhân dị ứng với kháng sinh nhóm cephalosporin hay bất cứ thành phần nào của thuốc.</p>\n\t</li>\n\t<li>\n\t<p>Chống chỉ định ở người dị ứng với penicillin.</p>\n\t</li>\n</ul>\n\n<h3><strong>Thận trọng khi sử dụng</strong></h3>\n\n<p>Cũng như các kháng sinh phổ rộng khác, việc điều trị lâu ngày với Cefdinir có thể gây phát sinh các vi khuẩn đề kháng thuốc. Cần theo dõi bệnh nhân chặt chẽ, nếu có hiện tượng tái nhiễm trong lúc điều trị cần phải đổi sang kháng sinh khác thích hợp.</p>\n\n<p>Cẩn trọng khi dùng cho bệnh nhân có tiền sử viêm đại tràng.</p>\n\n<h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3>\n\n<p>Thuốc hầu như không ảnh hưởng đến khả năng lái xe và vận hành máy móc. Tuy nhiên, cũng có một vài báo cáo về nguy cơ gây chóng mặt nên bác sĩ có thể tùy trường hợp cụ thể mà khuyến cáo hay không khuyến cáo bệnh nhân dùng thuốc khi lái xe và vận hành máy móc.</p>\n\n<h3><strong>Thời kỳ mang thai và cho con bú</strong></h3>\n\n<p><em>Thời kỳ mang thai</em></p>\n\n<p>Chưa có nghiên cứu cụ thể trên phụ nữ mang thai và cho con bú, chỉ dùng thuốc khi thật cần thiết.</p>\n\n<p><em>Thời kỳ cho con bú</em></p>\n\n<p>Chưa có nghiên cứu cụ thể trên phụ nữ mang thai và cho con bú, chỉ dùng thuốc khi thật cần thiết.</p>\n\n<h3><strong>Tương tác thuốc</strong></h3>\n\n<p>Các thuốc trung hòa acid dịch vị có chứa nhôm hay magnesium và chế phẩm có chứa sắt làm giảm hấp thu Cefdinir. Nếu cần thiết phải dừng các thuốc này trong khi đang điều trị với cefdinir.</p>\n\n<p>Probenecid: Cũng giống như kháng sinh nhóm beta-lactam khác ức chế sự bài tiết qua thận.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Nguyễn Mỹ Huyền",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Dược sĩ Đại học có nhiều năm kinh nghiệm trong việc tư vấn Dược phẩm và hỗ trợ giải đáp thắc mắc về Bệnh học. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-nguyen-my-huyen",
+        "isLegit": true,
+        "id": 6,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ds_my_huyen_780f9bef46.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Cefdinir 300 - HV US Pharma: Thuốc điều trị nhiễm khuẩn",
+        "metaDescription": "Thuốc Cefdinir 300 - HV US Pharma được dùng trong các nhiễm trùng gây ra bởi những dòng vi khuẩn nhạy cảm như: Nhiễm trùng hô hấp, viêm nang lông, nhọt, chốc lở.",
+        "id": 1815,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cefdinir_300_2x10_hv_usp_00001673_dddd928b1d.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên)",
+            "description": "Cefdinir 300 của Công ty cổ phần US Pharma USA, có thành phần chính Cefdinir, Cefdinir 300mg được dùng trong các nhiễm trùng gây ra bởi những dòng vi khuẩn nhạy cảm với các bệnh như: Nhiễm trùng hô hấp trên và dưới, viêm nang lông, nhọt, chốc lở, viêm thận - bể thận, viêm bàng quang, viêm phần phụ tử cung, viêm tử cung, viêm tuyến Bartholin."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 15885,
+        "title": "Thuốc Cefdinir 300 - HV chứa thành phần gì?",
+        "content": "<p>Thuốc Cefdinir 300 - HV chứa thành phần Cefdinir, có hoạt tính trên nhiều loại vi khuẩn Gram dương và Gram âm.</p>"
+      },
+      {
+        "id": 15886,
+        "title": "Thuốc Cefdinir 300 - HV được sử dụng để điều trị những bệnh gì?",
+        "content": "<p>Thuốc Cefdinir 300 - HV được sử dụng để điều trị các trường hợp nhiễm khuẩn từ nhẹ đến vừa, gây ra bởi những vi khuẩn nhạy cảm trong trường hợp sau:</p><p>Viêm phổi, đợt cấp của viêm phế quản mãn, viêm xoang cấp tính, viêm hầu họng/viêm amidan, nhiễm khuẩn da và cấu trúc da, viêm tai giữa cấp gây ra bởi các chủng virus.</p>"
+      },
+      {
+        "id": 15887,
+        "title": "Thuốc Cefdinir 300 - HV nên uống trước hay sau bữa ăn?",
+        "content": "<p>Nên uống thuốc Cefdinir 300 - HV ngay sau bữa ăn và ít nhất 2 giờ trước hay sau khi dùng các thuốc kháng acid hoặc các chế phẩm chứa sắt.</p>"
+      },
+      {
+        "id": 15888,
+        "title": "Thời gian điều trị với thuốc Cefdinir 300 - HV là bao lâu?",
+        "content": "<p>Thời gian điều trị với thuốc Cefdinir 300 - HV từ 5- 10 ngày tùy trường hợp.</p>"
+      },
+      {
+        "id": 15889,
+        "title": "Ai không nên dùng điều trị với thuốc Cefdinir 300 - HV?",
+        "content": "<p>Bệnh nhân dị ứng với kháng sinh nhóm cephalosporin hay bất cứ thành phần nào của thuốc, chống chỉ định ở người dị ứng với penicillin dùng điều trị với thuốc Cefdinir 300 - HV.</p>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 13,
+      "items": [
+        {
+          "id": 3332297,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0935xxxxxx",
+          "name": "phú",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá nhiêu 1h shop",
+          "createdAt": "2026-07-02 19:47:20",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-07-02 19:47:20",
+          "replies": [
+            {
+              "id": 3332299,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Mai Anh",
+                "moderatorEmail": "anhltm9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Mai Anh",
+              "email": "anhltm9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Phú, </p><p>Hiện tại, sản phẩm Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên) có giá 140,000 ₫/hộp.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-07-02 19:49:10",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-07-02 19:47:20",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3290613,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0347xxxxxx",
+          "name": "CHỊ THANH TÂM",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 hộp ạ",
+          "createdAt": "2026-04-14 14:20:45",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-14 14:20:45",
+          "replies": [
+            {
+              "id": 3290625,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trịnh Thị Mỹ Vi",
+                "moderatorEmail": "vittm2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trịnh Thị Mỹ Vi",
+              "email": "vittm2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Tâm</p><p>Hiện tại, sản phẩm Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên) có giá 140,000 ₫/ hộp ạ</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-04-14 14:24:45",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-14 14:20:45",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3193593,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0369xxxxxx",
+          "name": "KIM",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mua 1 hộp bao nhiêu ạ",
+          "createdAt": "2025-10-09 20:09:55",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-09 20:09:47",
+          "replies": [
+            {
+              "id": 3193594,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Quỳnh Anh",
+                "moderatorEmail": "anhntq56@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Quỳnh Anh",
+              "email": "anhntq56@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn&nbsp;<strong>KIM,</strong></p><p>Hiện tại, sản phẩm có giá 140.000đ/hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p> Thân mến!</p>",
+              "createdAt": "2025-10-09 20:11:14",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-09 20:09:47",
+              "replies": []
+            },
+            {
+              "id": 3289683,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0777xxxxxx",
+              "name": "Phát",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "1 vỉ 70k ạk",
+              "createdAt": "2026-04-12 20:36:12",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2025-10-09 20:09:47",
+              "replies": []
+            },
+            {
+              "id": 3289698,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Thị Bích Lựu",
+                "moderatorEmail": "luuntb4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Thị Bích Lựu",
+              "email": "luuntb4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Phát, </p><p>Hiện tại, sản phẩm CEFDINIR 300 HV USP 2X10 có giá 70,000 ₫/ vỉ.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-04-12 20:46:15",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2025-10-09 20:09:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3128437,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0976xxxxxx",
+          "name": "Hiệu",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "loại này giá sao ak",
+          "createdAt": "2025-06-17 09:42:53",
+          "createdAtDisplay": "17/06/2025",
+          "updatedAt": "2025-06-17 09:42:45",
+          "replies": [
+            {
+              "id": 3128438,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thu Phương",
+                "moderatorEmail": "phuongtt124@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thu Phương",
+              "email": "phuongtt124@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Hiệu,</p><p>Hiện tại, sản phẩm có giá 140,000 ₫/ hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p>",
+              "createdAt": "2025-06-17 09:43:51",
+              "createdAtDisplay": "17/06/2025",
+              "updatedAt": "2025-06-17 09:42:45",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 2840975,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0369xxxxxx",
+          "name": "Trang",
+          "email": "",
+          "score": null,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cần mua 1h bao nhiêu vậy em",
+          "createdAt": "2024-11-28 20:47:40",
+          "createdAtDisplay": "28/11/2024",
+          "updatedAt": "2024-11-28 20:50:22",
+          "replies": [
+            {
+              "id": 2841000,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Minh Hằng",
+                "moderatorEmail": "hangnm31@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Minh Hằng",
+              "email": "hangnm31@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Trang,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Dạ sản phẩm có giá 140,000 ₫/hộp</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Thân mến!</span></p>",
+              "createdAt": "2024-11-28 20:50:22",
+              "createdAtDisplay": "28/11/2024",
+              "updatedAt": "2024-11-28 20:50:22",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 1649950,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0763xxxxxx",
+          "name": "Anh Hùng",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2024-07-14 22:06:02",
+          "createdAtDisplay": "14/07/2024",
+          "updatedAt": "2024-07-15 08:08:28",
+          "replies": [
+            {
+              "id": 1650764,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thu Phương",
+                "moderatorEmail": "phuongtt124@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Trần Thu Phương",
+              "email": "phuongtt124@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào anh Hùng,</span><br><span>Dạ rất cảm ơn tình cảm của anh dành cho nhà thuốc FPT Long châu. Bất cứ khi nào anh cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.  </span><br><span>Thân mến!</span><br></p>",
+              "createdAt": "2024-07-15 08:08:28",
+              "createdAtDisplay": "15/07/2024",
+              "updatedAt": "2024-07-15 08:08:28",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cefdinir_300_2x10_hv_usp_00001673_dddd928b1d.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6090_171110456f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6091_7bc8c714d5.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6092_3b5fb1200f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6093_af36c795f6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6094_f13e64f32d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6095_3010e75f32.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6097_7493b76f11.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6098_6dc94ecffe.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cefdinir_300_1_83c2d4fce1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cefdinir_300_2_c221fff272.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Cefdinir 300 của Công ty cổ phần US Pharma USA, có thành phần chính Cefdinir, Cefdinir 300mg được dùng trong các nhiễm trùng gây ra bởi những dòng vi khuẩn nhạy cảm với các bệnh như: Nhiễm trùng hô hấp trên và dưới, viêm nang lông, nhọt, chốc lở, viêm thận - bể thận, viêm bàng quang, viêm phần phụ tử cung, viêm tử cung, viêm tuyến Bartholin.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nguyễn Mỹ Huyền"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Cefdinir 300 - HV US Pharma: Thuốc điều trị nhiễm khuẩn",
+      "description": "Thuốc Cefdinir 300 - HV US Pharma được dùng trong các nhiễm trùng gây ra bởi những dòng vi khuẩn nhạy cảm như: Nhiễm trùng hô hấp, viêm nang lông, nhọt, chốc lở.",
+      "openGraph": {
+        "title": "Thuốc Cefdinir 300 - HV USP điều trị nhiễm khuẩn (2 vỉ x 10 viên)",
+        "description": "Cefdinir 300 của Công ty cổ phần US Pharma USA, có thành phần chính Cefdinir, Cefdinir 300mg được dùng trong các nhiễm trùng gây ra bởi những dòng vi khuẩn nhạy cảm với các bệnh như: Nhiễm trùng hô hấp trên và dưới, viêm nang lông, nhọt, chốc lở, viêm thận - bể thận, viêm bàng quang, viêm phần phụ tử cung, viêm tử cung, viêm tuyến Bartholin.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cefdinir_300_2x10_hv_usp_00001673_dddd928b1d.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/cefdinir-300-4339.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/cefdinir-300-4339.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

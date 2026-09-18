@@ -1,0 +1,1990 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/meclon-500mg-3096.html",
+  "ingestion_timestamp": "2026-09-05T10:26:02.284300+00:00",
+  "file_hash": "ca96e469f5f91518ed8e07d674bd38a57247f14a882e48baecaef5721f7f143f",
+  "lineage_hash": "1e39e65897e9c67a6abcce7db84c864f5729c84e7f06994cb20e14481008ac5c",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/meclon-500mg-3096.html",
+    "product": {
+      "sku": "00004747",
+      "webName": "Viên đặt âm đạo Meclon Doppel Pharma điều trị viêm cổ tử cung, âm đạo (2 vỉ x 5 viên)",
+      "name": "MECLON ALFASIGMA 2X5",
+      "shortName": "MECLON ALFASIGMA 2X5",
+      "headingText": "Viên đặt âm đạo Meclon",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_dat_am_dao_meclon_2_vi_x_5_vien_doppel_pharma_00004747_78bde86ecb.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_7326_63d7_large_3b7443a771.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_9008_63d7_large_ea5708db09.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_6258_63d7_large_1ea492aa3d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_2840_63d7_large_732082b8c8.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_8342_63d7_large_d049a32443.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_5287_63d7_large_91e7fbbc15.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_3846_63d7_large_f5be91793e.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_2103_63d7_large_0d45875f83.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_1675062051_f6ae2072bd.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 738,
+          "name": "Thuốc tiết niệu - sinh dục",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 824,
+          "name": "Thuốc đặt âm đạo",
+          "parentName": "Thuốc tiết niệu - sinh dục",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 2 Vỉ x 5 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "2 Vỉ x 5 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "5 Viên"
+        }
+      ],
+      "slug": "thuoc/meclon-500mg-3096.html",
+      "ingredient": [
+        {
+          "id": 22262,
+          "ingredientId": 15238,
+          "shortDescription": "100mg",
+          "name": "Clotrimazole",
+          "isPrimary": false,
+          "slug": "thanh-phan/clotrimazole"
+        },
+        {
+          "id": 29113,
+          "ingredientId": 27535,
+          "shortDescription": "500mg",
+          "name": "Metronidazole",
+          "isPrimary": false,
+          "slug": "thanh-phan/metronidazole"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VN-16977-13",
+      "manufactor": "Ý",
+      "dosageForm": "Viên đặt âm đạo",
+      "dosage": "<h3>Cách dùng</h3><p>Mỗi ngày đặt 1 viên Meclon vào trong âm đạo khi nằm ngửa, chân hơi gập lại.</p><h3>Liều dùng</h3><p>Mỗi ngày đặt 1 viên Meclon.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Cho tới nay chưa có báo cáo về các trường hợp dùng thuốc quá liều.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho trung tâm cấp cứu 115 hoặc đến trạm y tế địa phương gần nhất.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3><p><strong>Meclon</strong> có tác dụng điều trị:</p><p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-co-tu-cung-506.html\"><strong>Viêm cổ tử cung</strong></a>, viêm cổ tử cung - âm đạo, viêm âm đạo và viêm âm hộ - âm đạo do <i>Trichomonas vaginalis</i> cùng với nhiễm nấm <i>Candida</i> hoặc vi khuẩn.</p><h3>Dược lực học</h3><p><strong>Meclon</strong> là một chế phẩm phối hợp giữa metronidazol và clotrimazol.&nbsp;</p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/metronidazol-250mg-hataphar-50x10-22719.html\">Metronidazol</a> là một dẫn chất của nitroimidazol có phổ kháng khuẩn và kháng nguyên sinh động vật rộng. Nó có tác dụng diệt <i>Trichomonas </i>trực tiếp và có tác dụng đối với cầu khuẩn yếm khí gram dương, trực khuẩn sinh bào tử, cầu khuẩn yếm khí gram âm. Meclon đặc biệt có tác dụng trên <i>Gardnerella vaginalis.</i> Nó không có tác dụng đối với flora ưa acid ở âm đạo.&nbsp;</p><p>Clotrimazol là một dẫn chất imidazol có phổ kháng nấm rộng (<i>Candida</i>...). Nó cũng có tác dụng đối với <i>Trichomonas vaginalis</i>, cầu khuẩn Gram dương, <i>Toxoplasma</i>...&nbsp;</p><p>Sự kết hợp giữa clotrimazol và metronidazol đã được chứng minh làm tăng cường tác dụng của thuốc, làm cho thuốc đạt được 3 tác dụng điều trị chủ yếu sau:&nbsp;</p><p>Có phổ kháng khuẩn rộng do sự kết hợp của 2 hoạt chất.&nbsp;</p><p>Tăng cường tác dụng kháng nấm, kháng nguyên sinh động vật và kháng khuẩn.&nbsp;</p><p>Làm giảm hoặc mất sự kháng thuốc.&nbsp;</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Các thử nghiệm trên thỏ, chó và chuột cống cho thấy clotrimazol và metronidazol không được hấp thu vào máu khi dùng nhắc lại Meclon theo đường ngoài da. Khi dùng đặt âm đạo, metronidazol và clotrimazol được hấp thu khoảng 10% đến 20%.</p>",
+      "brand": "ALFASIGMA",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng&nbsp;Meclon bạn có thể gặp một số tác dụng không mong muốn (ADR).</p><p><i>Thường gặp, ADR &gt; 1/100</i></p><p>Da: Ngứa, viêm da tiếp xúc dị ứng, ban da.</p><p><i>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</i></p><p>Chưa có báo cáo.</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 2 Vỉ x 5 Viên",
+      "indications": [
+        {
+          "id": 45,
+          "name": "Viêm âm đạo",
+          "slug": "benh/viem-am-dao-504.html"
+        },
+        {
+          "id": 47,
+          "name": "Viêm cổ tử cung",
+          "slug": "benh/viem-co-tu-cung-506.html"
+        },
+        {
+          "id": 642,
+          "name": "Nhiễm Candida",
+          "slug": "benh/nhiem-candida-197.html"
+        }
+      ],
+      "brandOrigin": "Ý",
+      "producer": "DOPPEL FARMACEUTICI S.R.L",
+      "shortDescription": "<p><strong>Meclon</strong> của <i>công ty Doppel Farmaceutici S.R.L</i>, thành phần chính là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/clotrimazole\"><strong>clotrimazol</strong></a>, metronidazol. Thuốc có tác dụng điều trị viêm nhiễm phụ khoa.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [
+        "Người lớn"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Phụ nữ cho con bú",
+        "Trẻ em"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "Nữ",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": false,
+      "brandSlug": "thuong-hieu/alfasigma",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "MECLON",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 259,
+        "attributeName": "Ý",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Y_7fc103d37f.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "5 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 824,
+        "name": "Thuốc đặt âm đạo",
+        "parentName": "Thuốc tiết niệu - sinh dục",
+        "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_dat_am_dao_meclon_2_vi_x_5_vien_doppel_pharma_00004747_78bde86ecb.jpg",
+          "alternativeText": "Viên đặt âm đạo Meclon Doppel Pharma điều trị viêm cổ tử cung, âm đạo (2 vỉ x 5 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_7326_63d7_large_3b7443a771.jpg",
+          "alternativeText": "Viên đặt âm đạo Meclon Doppel Pharma điều trị viêm cổ tử cung, âm đạo (2 vỉ x 5 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_9008_63d7_large_ea5708db09.jpg",
+          "alternativeText": "Viên đặt âm đạo Meclon Doppel Pharma điều trị viêm cổ tử cung, âm đạo (2 vỉ x 5 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_6258_63d7_large_1ea492aa3d.jpg",
+          "alternativeText": "Viên đặt âm đạo Meclon Doppel Pharma điều trị viêm cổ tử cung, âm đạo (2 vỉ x 5 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_2840_63d7_large_732082b8c8.jpg",
+          "alternativeText": "Viên đặt âm đạo Meclon Doppel Pharma điều trị viêm cổ tử cung, âm đạo (2 vỉ x 5 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_8342_63d7_large_d049a32443.jpg",
+          "alternativeText": "Viên đặt âm đạo Meclon Doppel Pharma điều trị viêm cổ tử cung, âm đạo (2 vỉ x 5 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_5287_63d7_large_91e7fbbc15.jpg",
+          "alternativeText": "Viên đặt âm đạo Meclon Doppel Pharma điều trị viêm cổ tử cung, âm đạo (2 vỉ x 5 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_3846_63d7_large_f5be91793e.jpg",
+          "alternativeText": "Viên đặt âm đạo Meclon Doppel Pharma điều trị viêm cổ tử cung, âm đạo (2 vỉ x 5 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_2103_63d7_large_0d45875f83.jpg",
+          "alternativeText": "Viên đặt âm đạo Meclon Doppel Pharma điều trị viêm cổ tử cung, âm đạo (2 vỉ x 5 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_1675062051_f6ae2072bd.jpg",
+          "alternativeText": "Viên đặt âm đạo Meclon Doppel Pharma điều trị viêm cổ tử cung, âm đạo (2 vỉ x 5 viên) 10"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiết niệu - sinh dục",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc"
+      },
+      {
+        "name": "Thuốc đặt âm đạo",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao"
+      }
+    ],
+    "content": {
+      "sku": "00004747",
+      "dosage": "<h3>Cách dùng</h3><p>Mỗi ngày đặt 1 viên Meclon vào trong âm đạo khi nằm ngửa, chân hơi gập lại.</p><h3>Liều dùng</h3><p>Mỗi ngày đặt 1 viên Meclon.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Cho tới nay chưa có báo cáo về các trường hợp dùng thuốc quá liều.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho trung tâm cấp cứu 115 hoặc đến trạm y tế địa phương gần nhất.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Meclon.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng&nbsp;Meclon bạn có thể gặp một số tác dụng không mong muốn (ADR).</p><p><i>Thường gặp, ADR &gt; 1/100</i></p><p>Da: Ngứa, viêm da tiếp xúc dị ứng, ban da.</p><p><i>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</i></p><p>Chưa có báo cáo.</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Nhiệt độ không quá 30°C.</p>",
+      "usage": "<h3>Chỉ định</h3><p><strong>Meclon</strong> có tác dụng điều trị:</p><p><a href=\"https://nhathuoclongchau.com.vn/benh/viem-co-tu-cung-506.html\"><strong>Viêm cổ tử cung</strong></a>, viêm cổ tử cung - âm đạo, viêm âm đạo và viêm âm hộ - âm đạo do <i>Trichomonas vaginalis</i> cùng với nhiễm nấm <i>Candida</i> hoặc vi khuẩn.</p><h3>Dược lực học</h3><p><strong>Meclon</strong> là một chế phẩm phối hợp giữa metronidazol và clotrimazol.&nbsp;</p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/metronidazol-250mg-hataphar-50x10-22719.html\">Metronidazol</a> là một dẫn chất của nitroimidazol có phổ kháng khuẩn và kháng nguyên sinh động vật rộng. Nó có tác dụng diệt <i>Trichomonas </i>trực tiếp và có tác dụng đối với cầu khuẩn yếm khí gram dương, trực khuẩn sinh bào tử, cầu khuẩn yếm khí gram âm. Meclon đặc biệt có tác dụng trên <i>Gardnerella vaginalis.</i> Nó không có tác dụng đối với flora ưa acid ở âm đạo.&nbsp;</p><p>Clotrimazol là một dẫn chất imidazol có phổ kháng nấm rộng (<i>Candida</i>...). Nó cũng có tác dụng đối với <i>Trichomonas vaginalis</i>, cầu khuẩn Gram dương, <i>Toxoplasma</i>...&nbsp;</p><p>Sự kết hợp giữa clotrimazol và metronidazol đã được chứng minh làm tăng cường tác dụng của thuốc, làm cho thuốc đạt được 3 tác dụng điều trị chủ yếu sau:&nbsp;</p><p>Có phổ kháng khuẩn rộng do sự kết hợp của 2 hoạt chất.&nbsp;</p><p>Tăng cường tác dụng kháng nấm, kháng nguyên sinh động vật và kháng khuẩn.&nbsp;</p><p>Làm giảm hoặc mất sự kháng thuốc.&nbsp;</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Các thử nghiệm trên thỏ, chó và chuột cống cho thấy clotrimazol và metronidazol không được hấp thu vào máu khi dùng nhắc lại Meclon theo đường ngoài da. Khi dùng đặt âm đạo, metronidazol và clotrimazol được hấp thu khoảng 10% đến 20%.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p><strong>Thuốc Melon</strong> chống chỉ định trong các trường hợp sau:</p><p>Bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.</p><h3>Thận trọng khi sử dụng</h3><p>Không nên dùng đồng thời Meclon với metronidazol theo đường uống.</p><h3>Khả năng lái xe và vận hành máy móc</h3><p>Thuốc không ảnh hưởng đến khả năng lái xe và vận hành máy móc.</p><h3>Thời kỳ mang thai&nbsp;</h3><p>Chỉ sử dụng thuốc trong thời gian mang thai khi thật cần thiết và phải theo dõi cẩn thận.</p><h3>Thời kỳ cho con bú</h3><p>Chưa có báo cáo.</p><h3>Tương tác thuốc</h3><p>Mặc dù khi đặt âm đạo, metronidazol và clotrimazol ít được hấp thu toàn thân nhưng vẫn cần thận trọng khi dùng đồng thời thuốc này với các thuốc khác vì metronidazol làm tăng tác dụng thuốc uống chống đông máu, đặc biệt warfarin. Metronidazol có tác dụng kiểu disulfiram, vì vậy không dùng đồng thời 2 thuốc này để tránh tác dụng độc trên thần kinh như loạn thần, lú lẫn.</p><p>Dùng metronidazol cho người bệnh đang có nồng độ lithi trong máu cao (do đang dùng lithi) sẽ làm nồng độ lithi huyết thanh tăng lên, gây độc.&nbsp;</p><p>Metronidazol tăng tác dụng của vecuronium là một thuốc giãn cơ không khử cực.&nbsp;</p><p>Nồng độ tacrolimus trong huyết thanh của người bệnh ghép gan tăng lên khi dùng đồng thời với clotrimazol, do đó nên giảm liều tacrolimus theo nhu cầu.&nbsp;</p><p>Clotrimazol có thể làm giảm hiệu lực của một số kháng sinh.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Trần Huỳnh Minh Nhật",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Dược sĩ chuyên khoa Dược lý - Dược lâm sàng. Tốt nghiệp 2 trường đại học Mở và Y Dược TP. Hồ Chí Minh. Có kinh nghiệm nghiên cứu về lĩnh vực sức khỏe, đạt được nhiều giải thưởng khoa học. Hiện là Dược sĩ chuyên môn phụ trách xây dựng nội dung và triển khai dự án đào tạo - Hội đồng chuyên môn tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-tran-huynh-minh-nhat",
+        "isLegit": true,
+        "id": 10,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tran_huynh_minh_nhat_905ca436dd.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Viên đặt âm đạo Meclon trị viêm nhiễm phụ khoa (10 viên)",
+        "metaDescription": "Viên đặt âm đạo Meclon Doppelherz thành phần chính là clotrimazol, metronidazol. Thuốc có tác dụng điều trị viêm nhiễm phụ khoa. Xem thêm!",
+        "id": 2498,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_dat_am_dao_meclon_2_vi_x_5_vien_doppel_pharma_00004747_78bde86ecb.jpg",
+              "alternativeText": null
+            },
+            "title": "Viên đặt âm đạo Meclon Doppel Pharma điều trị viêm cổ tử cung, âm đạo (2 vỉ x 5 viên)",
+            "description": "Meclon của công ty Doppel Farmaceutici S.R.L, thành phần chính là clotrimazol, metronidazol. Thuốc có tác dụng điều trị viêm nhiễm phụ khoa."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 9893,
+        "title": "Có thể quan hệ tình dục trong quá trình điều trị bằng Meclon không?",
+        "content": "<p>Trong quá trình điều trị với thuốc Meclon không nên quan hệ tình dục. Để ngăn sự tái nhiễm nên điều trị cho cả bạn tình.</p>"
+      },
+      {
+        "id": 9892,
+        "title": "Phụ nữ có thai và cho con bú có sử dụng Meclon được không?",
+        "content": "<p>Chỉ sử dụng thuốc trong thời gian <a href=\"https://nhathuoclongchau.com.vn/benh/mang-thai-486.html\">mang thai</a> khi thật cần thiết và bệnh nhân phải được bác sĩ theo dõi trực tiếp. Chưa có thông tin về ảnh hưởng của thuốc khi dùng cho phụ nữ đang cho con bú.&nbsp;</p>"
+      },
+      {
+        "id": 9891,
+        "title": "Người dùng khi sử dụng viên đặt Meclon có thể gặp tác dụng không mong muốn gì?",
+        "content": "<p>Khi sử dụng Meclon bạn có thể gặp một số tác dụng không mong muốn như <a href=\"https://nhathuoclongchau.com.vn/benh/ngua-530.html\">ngứa</a>, viêm da tiếp xúc dị ứng, ban da. Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>"
+      },
+      {
+        "id": 9890,
+        "title": "Dùng thuốc Meclon như thế nào là đúng cách?",
+        "content": "<p>Thuốc Meclon được bào chế dưới dạng viên đặt âm đạo. Mỗi ngày đặt 1 viên Meclon vào trong âm đạo khi nằm ngửa, chân hơi gập lại.</p>"
+      },
+      {
+        "id": 9889,
+        "title": "Thuốc Meclon có tác dụng gì?",
+        "content": "<p>Thuốc Meclon có thành phần chính là clotrimazol, metronidazol. Thuốc có tác dụng điều trị viêm cổ tử cung, viêm cổ tử cung - âm đạo, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-am-dao-504.html\">viêm âm đạo</a> và viêm âm hộ - âm đạo do Trichomonas vaginalis cùng với nhiễm nấm Candida hoặc vi khuẩn.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00001553",
+        "name": "CANESTEN 100MG 6-DAYS-THERAPY BAYER 1X6",
+        "webName": "Viên đặt âm đạo Canesten 6-Days-Therapy 100mg điều trị viêm âm đạo",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00001553_canesten_100mg_9719_5b65_large_eff9bd5f76.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 824,
+            "name": "Thuốc đặt âm đạo",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1733,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 102000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/canesten-100mg-4399.html",
+        "ingredients": "Clotrimazole 100mg",
+        "dosageForm": "Viên nén đặt âm đạo",
+        "brand": "Bayer",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 1 Vỉ x 6 Viên",
+        "prices": [
+          {
+            "id": 1731,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 17000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1733,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 102000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00003104",
+        "name": "FLUOMIZIN 10MG  1X6",
+        "webName": "Viên đặt âm đạo Fluomizin Medinova điều trị nhiễm nấm âm đạo, nhiễm khuẩn âm đạo (1 vỉ x 6 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_4048_0a0dffaf58.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 824,
+            "name": "Thuốc đặt âm đạo",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 4184,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 21498,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/fluomizin-10mg-1x6-17288.html",
+        "ingredients": "Dequalinium chloride 10mg",
+        "dosageForm": "Viên nén đặt âm đạo",
+        "brand": "Medinova",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 1 Vỉ x 6 Viên",
+        "prices": [
+          {
+            "id": 4184,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 21498,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 4186,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 128990,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 87,
+          "attributeName": "Thụy Sĩ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/ch_Switzerland_8023147879.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00047799",
+        "name": "CANESTEN 1 DAY 500MG BAYER 1X1",
+        "webName": "Viên đặt âm đạo Canesten 1 Day 500mg Bayer điều trị viêm âm đạo và cơ quan sinh dục ngoài (1 vỉ x 1 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_dat_am_dao_canesten_1_day_500mg_bayer_1x1_00047799_0f5009896e.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 824,
+            "name": "Thuốc đặt âm đạo",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 74882,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 147000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/canesten-1-day-500-mg-bayer-1-x1.html",
+        "ingredients": "Clotrimazol 500mg",
+        "dosageForm": "Viên nang mềm đặt âm đạo",
+        "brand": "Bayer",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 1 Vỉ x 1 Viên",
+        "prices": [
+          {
+            "id": 74882,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 147000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 74883,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 147000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 74884,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 147000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00008352",
+        "name": "CANESTEN 1-DAY-THERAPY 500MG BAYER 1V",
+        "webName": "Viên đặt âm đạo Canesten 500mg Bayer hỗ trợ điều trị viêm âm đạo (1 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09387_d16411c388.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 824,
+            "name": "Thuốc đặt âm đạo",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12315,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 128000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/canesten-1-daytherapy-500mg-16706.html",
+        "ingredients": "Clotrimazole 500mg",
+        "dosageForm": "Viên đặt âm đạo",
+        "brand": "Bayer",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 1 Viên",
+        "prices": [
+          {
+            "id": 12315,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 128000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00039637",
+        "name": "CANDID V1 GLENMARK 1X1",
+        "webName": "Viên đặt âm đạo Candid V1 Glenmark điều trị tại chỗ nhiễm candida âm hộ (1 vỉ x 1 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00039637_7e631036df.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 824,
+            "name": "Thuốc đặt âm đạo",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 59193,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 55000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/candid-v1-glenmark-1-x1.html",
+        "ingredients": "Clotrimazol 500mg",
+        "dosageForm": "Viên nén đặt âm đạo",
+        "brand": "Glenmark",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 1 Vỉ x 1 Viên",
+        "prices": [
+          {
+            "id": 59193,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 59194,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 59195,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 249,
+          "attributeName": "Ấn Độ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/in_India_090039de61.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00002131",
+        "name": "CRISTAN SHINPOONG 1X6",
+        "webName": "Viên đặt âm đạo Shinpoong Cristan điều trị nấm Candida âm đạo (1 vỉ x 6 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/cristan_shinpoong_5a7ce63167.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 824,
+            "name": "Thuốc đặt âm đạo",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 2690,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2417,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cristan-4132.html",
+        "ingredients": "Clotrimazol 100mg",
+        "dosageForm": "Viên nén đặt âm đạo",
+        "brand": "Shinpoong Daewoo",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 1 vỉ x 6 viên",
+        "prices": [
+          {
+            "id": 2690,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2417,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 2692,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 14500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 2691,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 14500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 257,
+          "attributeName": "Hàn Quốc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Han_Quoc_760f524a89.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00004894",
+        "name": "METRIMA 100 F.T 1X6",
+        "webName": "Viên đặt âm đạo Metrima 100 Dược 3-2 điều trị nấm candida (1 vỉ x 6 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/metrima_100_1_c9614f202c.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 824,
+            "name": "Thuốc đặt âm đạo",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 6957,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2200,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/metrima-100-1x6-ftpharma-17092.html",
+        "ingredients": "Clotrimazol 100mg",
+        "dosageForm": "Viên nén đặt âm đạo",
+        "brand": "Dược 3-2",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 1 Vỉ x 6 Viên",
+        "prices": [
+          {
+            "id": 6958,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 13200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 6959,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 13200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 6957,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00004295",
+        "name": "LADYFORMINE 80MG USP 4X4",
+        "webName": "Thuốc vệ sinh phụ nữ Ladyformine USP vệ sinh vùng kín sau sinh, hành kinh, khí hư, viêm ngứa (4 vỉ x 4 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004295_ladyformine_80mg_4x4_7258_5b21_large_633436218e.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 824,
+            "name": "Thuốc đặt âm đạo",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 5950,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 170000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/ladyformine-80mg-4x4-17150.html",
+        "ingredients": "Natri fluorid 40mg, Đồng sulfate 40mg",
+        "dosageForm": "Viên sủi",
+        "brand": "Usp",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 4 Vỉ x 4 Viên",
+        "prices": [
+          {
+            "id": 5948,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 10625,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 5949,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 42500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 5950,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 170000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00031717",
+        "name": "GENBAY 100MG FARMAPRIM 2X6",
+        "webName": "Viên đặt âm đạo Genbay Farmaprim điều trị nhiễm khuẩn, viêm, nấm (2 vỉ x 6 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00031717_genbay_100mg_farmaprim_2x6_1735_6161_large_2fb61a8b92.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 824,
+            "name": "Thuốc đặt âm đạo",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-dat-am-dao",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 42895,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 108000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/genbay-100mg-farmaprim-2x6-31852.html",
+        "ingredients": "Clotrimazol 100mg",
+        "dosageForm": "Viên đạn đặt âm đạo",
+        "brand": "Farmaprim",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 6 Viên",
+        "prices": [
+          {
+            "id": 42894,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 54000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 42895,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 108000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 42893,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 9000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 182,
+          "attributeName": "Moldova",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/md_Moldova_67667feae5.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 105,
+      "items": [
+        {
+          "id": 3357592,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0366xxxxxx",
+          "name": "Phương Quỳnh",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mình cần mua thuốc này. nhờ ad giúp mình liên hệ với tư vấn viên gần oceanpark 1",
+          "createdAt": "2026-08-14 21:28:01",
+          "createdAtDisplay": "21 ngày trước",
+          "updatedAt": "2026-08-14 21:28:01",
+          "replies": [
+            {
+              "id": 3357596,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Ngọc Diệu",
+                "moderatorEmail": "dieuptn2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Ngọc Diệu",
+              "email": "dieuptn2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý Khách,</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với quý khách qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-08-14 21:34:05",
+              "createdAtDisplay": "21 ngày trước",
+              "updatedAt": "2026-08-14 21:28:01",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3341884,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0929xxxxxx",
+          "name": "Nguyễn Thị Tuyết Mai",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "e cần mua thuốc này ạ ",
+          "createdAt": "2026-07-18 19:04:01",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-18 19:04:01",
+          "replies": [
+            {
+              "id": 3341887,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Tuấn Đại",
+                "moderatorEmail": "daint17@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Tuấn Đại",
+              "email": "daint17@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Mai,</p><p>Hiện tại, sản phẩm MECLON ALFASIGMA có giá 245,000 ₫/hộp. </p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-07-18 19:06:57",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-18 19:04:01",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3341649,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0986xxxxxx",
+          "name": "thìn thị hạnh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "em ở Lục Ngạn  Bắc giang  , cho em xin nhà thuốc có sẵn hàng với ạ",
+          "createdAt": "2026-07-18 10:59:19",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-18 10:59:19",
+          "replies": [
+            {
+              "id": 3341651,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thanh Trúc",
+                "moderatorEmail": "trucht5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Thanh Trúc",
+              "email": "trucht5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Hạnh,</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với Chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-07-18 11:03:01",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-18 10:59:19",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3340806,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0988xxxxxx",
+          "name": "Chị Yến",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mình còn thuốc này ko ạ, cho e 1 hộp",
+          "createdAt": "2026-07-17 09:17:50",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-17 09:17:50",
+          "replies": [
+            {
+              "id": 3340821,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Quang Đức",
+                "moderatorEmail": "duchq2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Quang Đức",
+              "email": "duchq2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Yến,</p><p>Hiện tại, sản phẩm MECLON ALFASIGMA 2X5 có giá 245,000 ₫/hộp ạ</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-07-17 09:27:32",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-17 09:17:50",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3340752,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0368xxxxxx",
+          "name": "Huyền Trang",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "E bị viêm âm đạo đi khám bs kê thuốc meclon e vừa đặt hết khoảng 2 tuần h bị lại e có đặt thuốc meclon thêm được hk ạ",
+          "createdAt": "2026-07-17 06:42:59",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-17 06:42:59",
+          "replies": [
+            {
+              "id": 3340833,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Khánh Ngọc",
+                "moderatorEmail": "ngoclk2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Khánh Ngọc",
+              "email": "ngoclk2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Trang,</p><p>Tình trạng viêm âm đạo tái phát nhanh sau 2 tuần điều trị cần được bác sĩ kiểm tra lại để xác định chính xác nguyên nhân, tránh nguy cơ kháng thuốc ạ. Chị không nên tự ý đặt tiếp Meclon khi chưa có chỉ định mới vì có thể gây mất cân bằng hệ vi sinh âm đạo ạ.</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-07-17 09:41:35",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-17 06:42:59",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 19,
+      "items": [
+        {
+          "id": 3341333,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0912xxxxxx",
+          "name": "0912xxxxxx",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "minh cần mua thuốc này",
+          "createdAt": "2026-07-18 05:31:42",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-18 05:31:42",
+          "replies": [
+            {
+              "id": 3341508,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Yến Nhi",
+                "moderatorEmail": "nhinty23@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Yến Nhi",
+              "email": "nhinty23@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý Khách,</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với quý khách qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-07-18 09:09:44",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-18 05:31:42",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3247132,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0336xxxxxx",
+          "name": "Trần thị lâm",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-01-17 19:44:46",
+          "createdAtDisplay": "7 tháng trước",
+          "updatedAt": "2026-01-17 19:44:46",
+          "replies": [
+            {
+              "id": 3247134,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Mạnh Hà",
+                "moderatorEmail": "hahm5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Mạnh Hà",
+              "email": "hahm5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Lâm,</p><p> Dạ rất cảm ơn tình cảm của chị dành cho Nhà thuốc FPT Long Châu. Chúc chị nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-01-17 19:46:49",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-01-17 19:44:46",
+              "replies": []
+            },
+            {
+              "id": 3249143,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0965xxxxxx",
+              "name": "Kiều",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "cho mình giá thuốc này với?",
+              "createdAt": "2026-01-21 14:34:11",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-01-17 19:44:46",
+              "replies": []
+            },
+            {
+              "id": 3249144,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Mạnh Hà",
+                "moderatorEmail": "hahm5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Mạnh Hà",
+              "email": "hahm5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị <strong>Kiều</strong>,</p><p> Hiện tại, sản phẩm MECLON ALFASIGMA 2X5 có giá 245,000 ₫.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-01-21 14:35:31",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-01-17 19:44:46",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3227367,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0388xxxxxx",
+          "name": "Nguyễn Lan",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 hộp giá bao nhiêu ạ?",
+          "createdAt": "2025-12-10 21:09:25",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2025-12-10 21:09:25",
+          "replies": [
+            {
+              "id": 3227368,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Ngọc Hân",
+                "moderatorEmail": "hanltn7@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Ngọc Hân",
+              "email": "hanltn7@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Nguyễn Lan,</p><p> Hiện tại, sản phẩm có giá 245.000đ/Hộp</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2025-12-10 21:11:03",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-12-10 21:09:25",
+              "replies": []
+            },
+            {
+              "id": 3296482,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0355xxxxxx",
+              "name": "chi lien",
+              "email": "",
+              "score": null,
+              "gender": 1,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "viêm lộ tuyến có sử dụng để điều trị được k ạ",
+              "createdAt": "2026-04-24 19:59:45",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2025-12-10 21:09:25",
+              "replies": []
+            },
+            {
+              "id": 3296495,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lương Trần Bảo Phúc",
+                "moderatorEmail": "phucltb2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lương Trần Bảo Phúc",
+              "email": "phucltb2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Liên</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-04-24 20:20:00",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2025-12-10 21:09:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3195580,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0394xxxxxx",
+          "name": "Chị Liên",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "viên này mình còn bán không ạ",
+          "createdAt": "2025-10-13 19:38:45",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-13 19:38:35",
+          "replies": [
+            {
+              "id": 3195582,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Ngọc Hân",
+                "moderatorEmail": "hanltn7@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Ngọc Hân",
+              "email": "hanltn7@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Liên, </p><p> Dạ sản phẩm còn hàng trên hệ thống.</p><p> Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT chị đã để lại ạ.</p>",
+              "createdAt": "2025-10-13 19:40:22",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-13 19:38:35",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3153285,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0327xxxxxx",
+          "name": "Tú",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Viên này có bán lẻ không ạ\n0327.705.202 cần tư vấn",
+          "createdAt": "2025-07-30 12:05:54",
+          "createdAtDisplay": "30/07/2025",
+          "updatedAt": "2025-07-30 12:05:35",
+          "replies": [
+            {
+              "id": 3153286,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Tuấn Đại",
+                "moderatorEmail": "daint17@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Tuấn Đại",
+              "email": "daint17@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn&nbsp;Tú,</p><p>Dạ thuốc có bán lẻ theo viên, vỉ và hộp.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-07-30 12:06:17",
+              "createdAtDisplay": "30/07/2025",
+              "updatedAt": "2025-07-30 12:05:35",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 19
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Viên đặt âm đạo Meclon Doppel Pharma điều trị viêm cổ tử cung, âm đạo (2 vỉ x 5 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_dat_am_dao_meclon_2_vi_x_5_vien_doppel_pharma_00004747_78bde86ecb.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_7326_63d7_large_3b7443a771.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_9008_63d7_large_ea5708db09.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_6258_63d7_large_1ea492aa3d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_2840_63d7_large_732082b8c8.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_8342_63d7_large_d049a32443.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_5287_63d7_large_91e7fbbc15.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_3846_63d7_large_f5be91793e.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004747_meclon_500mg_2103_63d7_large_0d45875f83.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Meclon của công ty Doppel Farmaceutici S.R.L, thành phần chính là clotrimazol, metronidazol. Thuốc có tác dụng điều trị viêm nhiễm phụ khoa.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Trần Huỳnh Minh Nhật"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "19"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Viên đặt âm đạo Meclon trị viêm nhiễm phụ khoa (10 viên)",
+      "description": "Viên đặt âm đạo Meclon Doppelherz thành phần chính là clotrimazol, metronidazol. Thuốc có tác dụng điều trị viêm nhiễm phụ khoa. Xem thêm!",
+      "openGraph": {
+        "title": "Viên đặt âm đạo Meclon Doppel Pharma điều trị viêm cổ tử cung, âm đạo (2 vỉ x 5 viên)",
+        "description": "Meclon của công ty Doppel Farmaceutici S.R.L, thành phần chính là clotrimazol, metronidazol. Thuốc có tác dụng điều trị viêm nhiễm phụ khoa.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_dat_am_dao_meclon_2_vi_x_5_vien_doppel_pharma_00004747_78bde86ecb.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/meclon-500mg-3096.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/meclon-500mg-3096.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

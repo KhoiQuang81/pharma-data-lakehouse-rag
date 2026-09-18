@@ -1,0 +1,1356 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/cao-sao-vang-tw-3-6-lo-x-17-g.html",
+  "ingestion_timestamp": "2026-09-05T08:57:16.080943+00:00",
+  "file_hash": "bf0e10f9fa62ebabfcd876febfa38b9dfa0f4fc19b165840323a9e3015623650",
+  "lineage_hash": "8177c2643b254a55d08aadd4a7f6323971c745e75f5883fff4ffdd0d3f1add32",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/cao-sao-vang-tw-3-6-lo-x-17-g.html",
+    "product": {
+      "sku": "00050178",
+      "webName": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt (6 lọ 17G)",
+      "name": "CAO SAO VÀNG TW3 6 LỌ X 17G",
+      "shortName": "CAO SAO VÀNG TW3 6 LỌ X 17G",
+      "headingText": "Cao Sao Vàng TW3",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07769_4dd7263858.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07765_2a74795fdb.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07766_ef67a8aef1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07767_c49421c777.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07770_10d1cbfbb6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07771_68a4df6bbd.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cao_sao_vang_tw3_a20362005f.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 688,
+          "name": "Miếng dán, cao xoa, dầu",
+          "parentName": "Thuốc",
+          "slug": "thuoc/mieng-dan-cao-xoa-dau",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 744,
+          "name": "Cao xoa",
+          "parentName": "Miếng dán, cao xoa, dầu",
+          "slug": "thuoc/mieng-dan-cao-xoa-dau/cao-xoa",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 228000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 6 Lọ x 17g"
+        },
+        {
+          "measureUnitCode": 7,
+          "measureUnitName": "Lọ",
+          "isSellDefault": true,
+          "price": 38000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "6 Lọ x 17g"
+        }
+      ],
+      "slug": "thuoc/cao-sao-vang-tw-3-6-lo-x-17-g.html",
+      "ingredient": [
+        {
+          "id": 54450,
+          "ingredientId": 25837,
+          "shortDescription": "584.16mg",
+          "name": "Long não",
+          "isPrimary": false,
+          "slug": "thanh-phan/long-nao"
+        },
+        {
+          "id": 54451,
+          "ingredientId": 26940,
+          "shortDescription": "33.66mg",
+          "name": "Menthol",
+          "isPrimary": false,
+          "slug": "thanh-phan/menthol"
+        },
+        {
+          "id": 54452,
+          "ingredientId": 38658,
+          "shortDescription": "178.22mg",
+          "name": "Tinh dầu bạc hà",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 54453,
+          "ingredientId": 38709,
+          "shortDescription": "643.56mg",
+          "name": "Tinh dầu tràm",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 54454,
+          "ingredientId": 22796,
+          "shortDescription": "56.44mg",
+          "name": "Hương nhu trắng",
+          "isPrimary": false,
+          "slug": "thanh-phan/huong-nhu-trang"
+        },
+        {
+          "id": 54455,
+          "ingredientId": 38695,
+          "shortDescription": "56.44mg",
+          "name": "Tinh dầu quế",
+          "isPrimary": false,
+          "slug": "thanh-phan/tinh-dau-que"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "",
+      "registNum": "893100072900",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Cao",
+      "dosage": "<h3>Cách dùng</h3><p>Bôi vào hai bên thái dương, hai cánh mũi và nơi côn trùng đốt.</p><h3>Liều dùng</h3><p>&nbsp;Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3>Làm gì khi quên 1 liều?</h3><p>&nbsp;Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<p>Cao sao vàng TW3 dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt.</p>",
+      "brand": "Tw3",
+      "brandType": null,
+      "adverseEffect": "<p>Thông báo cho bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Hộp 6 Lọ x 17g",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "CÔNG TY CỔ PHẦN DP TRUNG ƯƠNG 3",
+      "shortDescription": "<p>Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị <strong>nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt.</strong></p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/tw3",
+      "badges": [],
+      "isMonopoly": true,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "CAO SAO VÀNG TW3",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 7,
+        "measureUnitName": "Lọ",
+        "isSellDefault": true,
+        "price": 38000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "6 Lọ x 17g"
+      },
+      "highestLevelCategory": {
+        "id": 744,
+        "name": "Cao xoa",
+        "parentName": "Miếng dán, cao xoa, dầu",
+        "slug": "thuoc/mieng-dan-cao-xoa-dau/cao-xoa",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07769_4dd7263858.jpg",
+          "alternativeText": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt (6 lọ 17G) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07765_2a74795fdb.jpg",
+          "alternativeText": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt (6 lọ 17G) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07766_ef67a8aef1.jpg",
+          "alternativeText": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt (6 lọ 17G) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07767_c49421c777.jpg",
+          "alternativeText": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt (6 lọ 17G) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07770_10d1cbfbb6.jpg",
+          "alternativeText": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt (6 lọ 17G) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07771_68a4df6bbd.jpg",
+          "alternativeText": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt (6 lọ 17G) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cao_sao_vang_tw3_a20362005f.jpg",
+          "alternativeText": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt (6 lọ 17G) 7"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 228000,
+        "itemCode": "00050178",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 228000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 38000,
+        "itemCode": "00050178",
+        "unitCode": 7,
+        "maxValue": 0,
+        "price": 38000,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Miếng dán, cao xoa, dầu",
+        "slug": "/thuoc/mieng-dan-cao-xoa-dau"
+      },
+      {
+        "name": "Cao xoa",
+        "slug": "/thuoc/mieng-dan-cao-xoa-dau/cao-xoa"
+      }
+    ],
+    "content": {
+      "sku": "00050178",
+      "dosage": "<h3>Cách dùng</h3><p>Bôi vào hai bên thái dương, hai cánh mũi và nơi côn trùng đốt.</p><h3>Liều dùng</h3><p>&nbsp;Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3>Làm gì khi quên 1 liều?</h3><p>&nbsp;Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "",
+      "adverseEffect": "<p>Thông báo cho bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p>Nơi khô ráo, thoáng mát, nhiệt độ không quá 30°C.</p>",
+      "usage": "<p>Cao sao vàng TW3 dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/cao-sao-vang-tw-3-6-lo-x-17-g.html\">Cao sao vàng TW3</a> chống chỉ định trong các trường hợp sau:</p><ul><li>Trẻ em dưới 30 tháng tuổi, trẻ em có tiền sử <a href=\"https://nhathuoclongchau.com.vn/benh/dong-kinh-621.html\">động kinh</a> hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/co-giat-765.html\">co giật</a> do sốt cao.</li><li>Không bôi vào mắt, không bôi lên vết thương hở và vùng vú khi cho con bú.</li></ul><h3>Thận trọng khi sử dụng</h3><p>Thận trọng khi sử dụng cho phụ nữ có thai.</p><h3>Tương tác thuốc</h3><p>Không có.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Ngô Kim Thúy",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp loại giỏi trường Đại học Y Dược Huế. Từng tham gia nghiên cứu khoa học đề tài về Dược liệu. Nhiều năm kinh nghiệm làm việc trong lĩnh vực Dược phẩm. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-ngo-kim-thuy",
+        "isLegit": true,
+        "id": 9,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Nguyen_Kim_Thuy_ea92026f36.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Cao sao vàng TW3 trị nhức đầu, sổ mũi, cảm cúm, côn trùng đốt",
+        "metaDescription": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt. Mua cao sao vàng TW3 chính hãng tại Long Châu.",
+        "id": 53318,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07769_4dd7263858.jpg",
+              "alternativeText": null
+            },
+            "title": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt (6 lọ 17G)",
+            "description": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 36951,
+        "title": "Cao Sao Vàng dùng được trong trường hợp nào?",
+        "content": "<p>Cao Sao Vàng giúp giảm nghẹt mũi, đau đầu, chóng mặt, đau mỏi cơ và hỗ trợ giảm triệu chứng cảm lạnh.</p>"
+      },
+      {
+        "id": 36953,
+        "title": "Có cần lưu ý gì khi bảo quản sản phẩm Cao Sao Vàng?",
+        "content": "<p>Bảo quản Cao Sao Vàng nơi khô ráo, tránh ánh nắng, đậy nắp ngay sau khi dùng để giữ mùi tinh dầu lâu bền.</p>"
+      },
+      {
+        "id": 36952,
+        "title": "Sản phẩm có dùng được cho phụ nữ mang thai không?",
+        "content": "<p>Phụ nữ mang thai cần thận trọng và nên tham khảo ý kiến bác sĩ trước khi dùng, đặc biệt khi có cơ địa nhạy cảm.</p>"
+      },
+      {
+        "id": 36950,
+        "title": "Bôi Cao Sao Vàng vào đâu để giảm nghẹt mũi?",
+        "content": "<p>Người dùng có thể thoa một ít vào hai bên thái dương, hai cánh mũi để tạo cảm giác thông thoáng.</p>"
+      },
+      {
+        "id": 36949,
+        "title": "Cao Sao Vàng có dùng cho trẻ em được không?",
+        "content": "<p>Cao Sao Vàng chống chỉ định cho trẻ em dưới 30 tháng tuổi, trẻ em có tiền sử động kinh hoặc co giật do sốt cao.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00033095",
+        "name": "CAO XOA SAO VÀNG DANAPHA 16G",
+        "webName": "Cao Sao Vàng Danapha điều trị cảm cúm, nhức đầu (16g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00033095_cao_xoa_sao_vang_danapha_16g_6809_61c9_large_799d989e95.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 744,
+            "name": "Cao xoa",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/cao-xoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 45983,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 29000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cao-xoa-sao-vang-danapha-16g-33219.html",
+        "ingredients": "Camphor 4.128 , Menthol 0.656 , Tinh dầu bạc hà 2 , Tinh dầu tràm 1.408 , Tinh dầu đinh hương 0.144 , Tinh dầu quế 0.224, Tá dược vừa đủ 16",
+        "dosageForm": "Cao",
+        "brand": "Danapha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp x 16g",
+        "prices": [
+          {
+            "id": 45983,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 29000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001560",
+        "name": "CAO BẠCH HỔ HOẠT LẠC CAO BẢO LINH 20G - 12 LỌ",
+        "webName": "Cao xoa bóp Bạch Hổ Hoạt Lạc Cao Bảo Linh điều trị đau lưng cấp, đau thần kinh tọa (12 chai x 20g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/cao_bach_ho_hoat_lac_cao_20g_12_lo_bao_linh_00001560_c4d326dd2b.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 744,
+            "name": "Cao xoa",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/cao-xoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1738,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 312000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cao-bach-ho-hoat-lac-cao-4397.html",
+        "ingredients": "Methyl salicylate 4, Đinh hương 0.4, Long não 2.18, Eucalytol 0.98, Menthol 1.6",
+        "dosageForm": "Cao",
+        "brand": "Bảo Linh",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 12 Chai X 20g",
+        "prices": [
+          {
+            "id": 1737,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 26000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1738,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 312000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00021623",
+        "name": "TIGER BALM RED 19.4G (NEW)",
+        "webName": "Cao xoa Tiger Balm Red Ointment Haw Par giảm đau và nhức cơ, bong gân (19.4g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00021623_tiger_balm_red_194g_new_3848_62ba_large_10a7f38214.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 744,
+            "name": "Cao xoa",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/cao-xoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 27161,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 48000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tiger-balm-red-194g-new-21978.html",
+        "ingredients": "Menthol 10%, Tinh dầu bạc hà 6%, Tinh dầu đinh hương 5%, Tinh dầu tràm 7%, Camphor 25%",
+        "dosageForm": "Thuốc mỡ",
+        "brand": "Haw Par",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai X 19.4g",
+        "prices": [
+          {
+            "id": 27161,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 48000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 241,
+          "attributeName": "Singapore",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/sg_Singapore_9f4a4a9cd9.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00030776",
+        "name": "CAO SAO VÀNG TW3 3G",
+        "webName": "Cao Sao Vàng Golden Star TW3 dùng trong cảm cúm, nhức đầu, sổ mũi, đau bụng, buồn nôn, say tàu xe (3g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/cao_sao_vang_57cbfff9dd.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 744,
+            "name": "Cao xoa",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/cao-xoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 40882,
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": 5000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cao-sao-vang-3g-30923.html",
+        "ingredients": "Long não 584.16mg, Menthol 33.66mg, Tinh dầu bạc hà 178.22mg, Tinh dầu tràm 643.56mg, Hương nhu trắng 56.44mg, Tinh dầu quế 56.44mg",
+        "dosageForm": "Cao",
+        "brand": "Tw3",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Gói 1 Lọ x 3g",
+        "prices": [
+          {
+            "id": 40882,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 5000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00021625",
+        "name": "TIGER BALM WHITE 19.4G (NEW)",
+        "webName": "Cao xoa Tiger Balm White Ointment Haw Par giảm đau đầu và ngạt mũi (19.4g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00021625_tiger_balm_white_194g_new_4673_61d6_large_57772e7b49.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 744,
+            "name": "Cao xoa",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/cao-xoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 27163,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 48000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tiger-balm-white-194g-new-21976.html",
+        "ingredients": "Menthol 8%, Camphor 25%, Tinh dầu bạc hà 16%, Tinh dầu đinh hương 1.5%, Tinh dầu tràm 13%",
+        "dosageForm": "Thuốc mỡ",
+        "brand": "Haw Par",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Chai x 19.4g",
+        "prices": [
+          {
+            "id": 27163,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 48000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 241,
+          "attributeName": "Singapore",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/sg_Singapore_9f4a4a9cd9.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00021624",
+        "name": "TIGER BALM RED 30G (NEW)",
+        "webName": "Cao xoa Tiger Balm Red Ointment Haw Par giảm đau và nhức cơ, bong gân (30g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00021624_tiger_balm_red_30g_new_9351_62c3_large_e70b436f24.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 744,
+            "name": "Cao xoa",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/cao-xoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 27162,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 65000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tiger-balm-red-30g-new-21977.html",
+        "ingredients": "Menthol 10%, Camphor 25%, Bạc hà 6%, Đinh hương 5%, Tinh dầu tràm 7%",
+        "dosageForm": "Cao",
+        "brand": "Haw Par",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Chai x 30g",
+        "prices": [
+          {
+            "id": 27162,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 65000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 241,
+          "attributeName": "Singapore",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/sg_Singapore_9f4a4a9cd9.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00013948",
+        "name": "TIGER BALM OIL 57ML",
+        "webName": "Dầu Tiger Balm Oil Haw Par hỗ trợ giảm đau nhức cơ bắp, đau trật khớp (57ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013948_tiger_balm_oil_57ml_5947_6095_large_e42b9f11a8.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 744,
+            "name": "Cao xoa",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/cao-xoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 16573,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 92000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tiger-balm-oil-57ml-1020.html",
+        "ingredients": "Camphor 15%, Methyl salicylate 38%, Menthol 8%, Eucalyptus oil 6%",
+        "dosageForm": "Dung dịch",
+        "brand": "Haw Par",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Chai X 57ml",
+        "prices": [
+          {
+            "id": 16573,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 92000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 241,
+          "attributeName": "Singapore",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/sg_Singapore_9f4a4a9cd9.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00002227",
+        "name": "CAO SAO VÀNG 10G OPC 12 LỌ",
+        "webName": "Cao Sao Vàng OPC điều trị cảm cúm, nhức đầu (12 chai x 10g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002227_cao_sao_vang_8902_5ba3_large_c3427aff07.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 744,
+            "name": "Cao xoa",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/cao-xoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 2824,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 18000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cao-sao-vang-10g-opc-12-lo-4094.html",
+        "ingredients": "Camphor 849.20mg, Tinh dầu quế 53.20mg, Tinh dầu hương nhu 130.80mg, Tinh dầu tràm 210.80mg, Tinh dầu bạc hà 525.20mg, Menthol 425.20mg",
+        "dosageForm": "Cao",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 12 Chai X 10g",
+        "prices": [
+          {
+            "id": 2825,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 216000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 2824,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 18000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00021626",
+        "name": "TIGER BALM WHITE 30G (NEW)",
+        "webName": "Cao xoa Tiger Balm White Ointment Haw Par giảm đau đầu và ngạt mũi (30g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00021626_tiger_balm_white_30g_new_6311_5d77_large_f0b5f77e96.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 744,
+            "name": "Cao xoa",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/cao-xoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 27164,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 65000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tiger-balm-white-30g-new-21975.html",
+        "ingredients": "Menthol 8%, Camphor 25%, Tinh dầu bạc hà 16%, Tinh dầu đinh hương 1.5%, Tinh dầu tràm 13%",
+        "dosageForm": "Thuốc mỡ",
+        "brand": "Haw Par",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Chai x 30g",
+        "prices": [
+          {
+            "id": 27164,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 65000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 241,
+          "attributeName": "Singapore",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/sg_Singapore_9f4a4a9cd9.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00031795",
+        "name": "CAO SAO VÀNG TW3 8G",
+        "webName": "Cao Sao Vàng TW3 điều trị cảm gió, nhức đầu (8g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/cao_sao_vang_f905395e9f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 688,
+            "name": "Miếng dán, cao xoa, dầu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 744,
+            "name": "Cao xoa",
+            "parentName": "Miếng dán, cao xoa, dầu",
+            "slug": "thuoc/mieng-dan-cao-xoa-dau/cao-xoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 43062,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 180000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cao-sao-vang-tw3-8g-31938.html",
+        "ingredients": "Long não 584.16mg, Menthol 33.66mg, Tinh dầu bạc hà 178.22mg, Tinh dầu tràm 643.56mg, Hương nhu trắng 56.44mg, Tinh dầu quế 56.44mg",
+        "dosageForm": "Cao",
+        "brand": "Tw3",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 40,
+        "productRanking": 0,
+        "specification": "Hộp 12 Lọ X 8g",
+        "prices": [
+          {
+            "id": 43061,
+            "measureUnitCode": 7,
+            "measureUnitName": "Lọ",
+            "isSellDefault": true,
+            "price": 15000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 43062,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 180000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 0,
+      "items": []
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt (6 lọ 17G)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07769_4dd7263858.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07765_2a74795fdb.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07766_ef67a8aef1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07767_c49421c777.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07770_10d1cbfbb6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07771_68a4df6bbd.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cao_sao_vang_tw3_a20362005f.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ngô Kim Thúy"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/cao-sao-vang-tw-3-6-lo-x-17-g.html",
+        "priceCurrency": "VND",
+        "price": 38000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Cao sao vàng TW3 trị nhức đầu, sổ mũi, cảm cúm, côn trùng đốt",
+      "description": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt. Mua cao sao vàng TW3 chính hãng tại Long Châu.",
+      "openGraph": {
+        "title": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt (6 lọ 17G)",
+        "description": "Cao sao vàng TW3 với thành phần tinh dầu dược liệu dùng trị nhức đầu, sổ mũi, cảm cúm, muỗi và côn trùng đốt.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_07769_4dd7263858.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/cao-sao-vang-tw-3-6-lo-x-17-g.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/cao-sao-vang-tw-3-6-lo-x-17-g.html"
+    },
+    "productPacks": {
+      "totalCount": 1,
+      "packs": [
+        {
+          "id": 3,
+          "name": "Nhóm sản phẩm giảm đau đầu, căng thẳng",
+          "description": "<p><span style=\"color:#1976d2;\"><strong>🧠Combo Xoa dịu trí não </strong></span>giúp hỗ trợ giảm nhanh cơn đau đầu, làm dịu căng thẳng và bổ sung dưỡng chất thiết yếu cho hệ thần kinh, đặc biệt khi làm việc với cường độ cao, nhạy cảm với thời tiết hoặc cơ thể đang trong trạng thái mệt mỏi, suy nhược.</p>",
+          "products": [
+            {
+              "sku": "00050178",
+              "measureUnitId": 1,
+              "measureUnitName": "Hộp"
+            },
+            {
+              "sku": "00049065",
+              "measureUnitId": 1,
+              "measureUnitName": "Hộp"
+            },
+            {
+              "sku": "00020710",
+              "measureUnitId": 1,
+              "measureUnitName": "Hộp"
+            },
+            {
+              "sku": "00021300",
+              "measureUnitId": 1,
+              "measureUnitName": "Hộp"
+            },
+            {
+              "sku": "00018343",
+              "measureUnitId": 13,
+              "measureUnitName": "Vỉ"
+            }
+          ],
+          "thumbnail": {
+            "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thumbnail_a3deaf44a7.png",
+            "alternativeText": null
+          }
+        }
+      ]
+    }
+  }
+}

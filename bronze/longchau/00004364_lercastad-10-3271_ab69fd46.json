@@ -1,0 +1,1359 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/lercastad-10-3271.html",
+  "ingestion_timestamp": "2026-09-05T10:18:28.750488+00:00",
+  "file_hash": "cdee4277aae3f39ce3dd1dff48b823df1792e5d157e382127042d770d4d4327e",
+  "lineage_hash": "e88e7beb6cc2f19d6b4654dc43eec35123b1f0d0d43b5227d24ba19d7dcbb1c8",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/lercastad-10-3271.html",
+    "product": {
+      "sku": "00004364",
+      "webName": "Viên nén Lercastad 10 Stella điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình (6 vỉ x 10 viên)",
+      "name": "LERCASTAD 10 STELLA 6X10",
+      "shortName": "LERCASTAD 10 STELLA 6X10",
+      "headingText": "Viên nén Lercastad 10",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_nen_lercastad_10_6_vi_x_10_vien_stella_00004364_cb82621bee.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_8181_6424_large_a4cfe01c29.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_4597_6424_large_84f590b00f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_9991_6424_large_c6982a7980.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_1696_6424_large_8673691b60.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_9419_6424_large_8475c408b3.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_6815_6424_large_5263879816.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_1680142794_7c4ef9374f.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 737,
+          "name": "Thuốc tim mạch & máu",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tim-mach-and-mau",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 811,
+          "name": "Thuốc tim mạch huyết áp",
+          "parentName": "Thuốc tim mạch & máu",
+          "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Hộp 6 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 2,
+          "productSpecs": "6 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/lercastad-10-3271.html",
+      "ingredient": [
+        {
+          "id": 22085,
+          "ingredientId": 25313,
+          "shortDescription": "10mg",
+          "name": "Lercanidipine",
+          "isPrimary": false,
+          "slug": "thanh-phan/lercanidipine"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-21101-14",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3>Cách dùng</h3><p><strong>Lercastad 10</strong> được uống trước bữa ăn ít nhất 15 phút.</p><h3>Liều dùng</h3><p>Liều chỉ định là 10mg, 1 lần/ngày, liều có thể tăng đến 20mg phụ thuộc vào đáp ứng của từng bệnh nhân.</p><p>Do tác dụng hạ huyết áp tối đa chỉ biểu hiện sau 2 tuần nên việc hiệu chỉnh liều dùng nên tiến hành từ từ.</p><p><i>Điều trị cho người lớn tuổi</i></p><p>Cần theo dõi cẩn thận khi bắt đầu điều trị.</p><p><i>Điều trị cho bệnh nhân rối loạn chức năng thận hoặc gan</i></p><p>Cần theo dõi cẩn thận khi bắt đầu điều trị đối với bệnh nhân rối loạn chức năng gan và thận nhẹ đến trung bình. Liều chỉ định thông thường có thể được dung nạp bởi nhóm đối tượng này, nên phải thận trọng khi điều chỉnh tăng liều lên 20mg mỗi ngày. Tác động hạ huyết áp ở bệnh nhân suy gan tăng do đó cần xem xét việc điều chỉnh liều dùng.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p><i>Triệu chứng</i></p><p>Tương tự các thuốc khác thuộc nhóm dihydropyridin, quá liều có thể gây ra giãn mạch quá mức với triệu chứng hạ huyết áp rõ rệt và phản xạ tim đập nhanh.</p><p><i>Điều trị</i></p><p>Trường hợp hạ huyết áp trầm trọng, nhịp tim chậm và bất tỉnh, trợ tim bằng cách tiêm tĩnh mạch atropin có thể hữu ích cho trường hợp nhịp tim chậm. Do tác động dược lý kéo dài của lercanidipin, nên theo dõi tình trạng tim mạch của bệnh nhân bị quá liều ít nhất 24 giờ.</p><p>Chưa có thông tin về giá trị của sự thẩm tách máu. Vì thuốc có tính thân dầu cao, nên nồng độ huyết tương không chỉ ra khoảng thời gian của giai đoạn nguy hiểm và quá trình thẩm tách máu có thể không có hiệu quả.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3><p><strong>Lercastad 10</strong> được chỉ định sử dụng trong trường hợp:</p><ul><li>Điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình.</li></ul><h3>Dược lực học</h3><p>Tác động hạ huyết áp của lercanidipin chủ yếu là do chất đối hình (S). Lercanidipin là thuốc chẹn kênh calci thuộc nhóm dihydropyridin, ức chế dòng calci di chuyển qua màng tế bào đến cơ trơn mạch máu và cơ tim. Cơ chế hạ huyết áp là do tác động giãn cơ trơn mạch máu trực tiếp nên làm giảm sức cản ngoại vi.&nbsp;</p><p>Tuy thời gian bán thải ngắn, lercanidipin có tác dụng hạ huyết áp kéo dài do có hệ số phân bố trong màng cao và không gây tác động hướng cơ âm tính do có tính chọn lọc cao trên mạch. Vì lercanidipin hydroclorid giãn mạch từ từ lúc khởi đầu nên hiếm gặp các triệu chứng hạ huyết áp cấp với tim đập nhanh do phản xạ trên bệnh nhân cao huyết áp.</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Lercanidipin được hấp thụ hoàn toàn qua đường tiêu hóa sau khi uống nhưng chịu sự chuyển hóa lần đầu đáng kể. Sinh khả dụng của thuốc thấp tuy nhiên tăng khi có sự hiện diện của thức ăn. Nồng độ đỉnh trong huyết tương đạt được sau khi uống thuốc 1,5 – 3 giờ.&nbsp;</p><p><i>Phân bố</i></p><p>Lercanidipin phân bố rộng rãi và nhanh. Trên 98% lercanidipin gắn kết với protein huyết tương.</p><p><i>Chuyển hóa</i></p><p>Lercanidipin chuyển hóa mạnh, chủ yếu bởi isoenzym CYP3A4 của cytochrom P450, thành các chất chuyển hóa không hoạt tính.</p><p><i>Thải trừ</i></p><p>Khoảng 50% liều dùng được bài tiết qua nước tiểu. Thời gian bán thải cuối cùng khoảng 2 - 5 giờ nhưng các nghiên cứu khác sử dụng phương pháp định lượng nhạy hơn đã đưa ra giá trị từ 8 - 10 giờ.</p>",
+      "brand": "Stella Pharm",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Lercastad 10 , bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Thần kinh: Đau đầu, chóng mặt.</p>\n\t</li>\n\t<li>\n\t<p>Tim mạch: Phù nề ngoại biên, tim đập nhanh, hồi hộp, đỏ bừng.</p>\n\t</li>\n</ul>\n\n<p><em>Hiếm gặp ADR &lt; 1000</em></p>\n\n<ul>\n\t<li>\n\t<p>Thần kinh: Ngủ gật, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/ngat-23.html\">ngất</a>.</strong></p>\n\t</li>\n\t<li>\n\t<p>Toàn thân: Suy nhược, mệt mỏi, tăng nhạy cảm.</p>\n\t</li>\n\t<li>\n\t<p>Da và mô dưới da: Phát ban.</p>\n\t</li>\n\t<li>\n\t<p>Cơ xương khớp: Đau cơ.</p>\n\t</li>\n\t<li>\n\t<p>Tim mạch: Đau thắt ngực, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhoi-mau-co-tim-595.html\">nhồi máu cơ tim</a></strong>.</p>\n\t</li>\n\t<li>\n\t<p>Tiêu hóa: Buồn nôn, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/kho-tieu-578.html\">khó tiêu</a></strong>, tiêu chảy, đau bụng, nôn.</p>\n\t</li>\n\t<li>\n\t<p>Răng: Phì đại nướu.</p>\n\t</li>\n\t<li>\n\t<p>Chuyển hóa: Tăng thuận nghịch nồng độ các transaminase huyết thanh.</p>\n\t</li>\n\t<li>\n\t<p>Mạch máu: Hạ huyết áp.</p>\n\t</li>\n\t<li>\n\t<p>Thận và tiết niệu: Đi tiểu nhiều.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 6 vỉ x 10 viên",
+      "indications": [
+        {
+          "id": 670,
+          "name": "Cao huyết áp",
+          "slug": "benh/cao-huyet-ap-225.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "STELLA",
+      "shortDescription": "<p>Lercastad 10 thành phần chính là lercanidipin hydroclorid. Lercastad 10 là thuốc điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Lái tàu xe",
+        "Phụ nữ cho con bú",
+        "Phụ nữ có thai"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Suy gan, Dị ứng thuốc, Suy tim",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/stella-pharm",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "LERCASTAD 10",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 811,
+        "name": "Thuốc tim mạch huyết áp",
+        "parentName": "Thuốc tim mạch & máu",
+        "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_nen_lercastad_10_6_vi_x_10_vien_stella_00004364_cb82621bee.jpg",
+          "alternativeText": "Viên nén Lercastad 10 Stella điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình (6 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_8181_6424_large_a4cfe01c29.jpg",
+          "alternativeText": "Viên nén Lercastad 10 Stella điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình (6 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_4597_6424_large_84f590b00f.jpg",
+          "alternativeText": "Viên nén Lercastad 10 Stella điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình (6 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_9991_6424_large_c6982a7980.jpg",
+          "alternativeText": "Viên nén Lercastad 10 Stella điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình (6 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_1696_6424_large_8673691b60.jpg",
+          "alternativeText": "Viên nén Lercastad 10 Stella điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình (6 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_9419_6424_large_8475c408b3.jpg",
+          "alternativeText": "Viên nén Lercastad 10 Stella điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình (6 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_6815_6424_large_5263879816.jpg",
+          "alternativeText": "Viên nén Lercastad 10 Stella điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình (6 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_1680142794_7c4ef9374f.jpg",
+          "alternativeText": "Viên nén Lercastad 10 Stella điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình (6 vỉ x 10 viên) 8"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tim mạch & máu",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau"
+      },
+      {
+        "name": "Thuốc tim mạch huyết áp",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap"
+      }
+    ],
+    "content": {
+      "sku": "00004364",
+      "dosage": "<h3>Cách dùng</h3><p><strong>Lercastad 10</strong> được uống trước bữa ăn ít nhất 15 phút.</p><h3>Liều dùng</h3><p>Liều chỉ định là 10mg, 1 lần/ngày, liều có thể tăng đến 20mg phụ thuộc vào đáp ứng của từng bệnh nhân.</p><p>Do tác dụng hạ huyết áp tối đa chỉ biểu hiện sau 2 tuần nên việc hiệu chỉnh liều dùng nên tiến hành từ từ.</p><p><i>Điều trị cho người lớn tuổi</i></p><p>Cần theo dõi cẩn thận khi bắt đầu điều trị.</p><p><i>Điều trị cho bệnh nhân rối loạn chức năng thận hoặc gan</i></p><p>Cần theo dõi cẩn thận khi bắt đầu điều trị đối với bệnh nhân rối loạn chức năng gan và thận nhẹ đến trung bình. Liều chỉ định thông thường có thể được dung nạp bởi nhóm đối tượng này, nên phải thận trọng khi điều chỉnh tăng liều lên 20mg mỗi ngày. Tác động hạ huyết áp ở bệnh nhân suy gan tăng do đó cần xem xét việc điều chỉnh liều dùng.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p><i>Triệu chứng</i></p><p>Tương tự các thuốc khác thuộc nhóm dihydropyridin, quá liều có thể gây ra giãn mạch quá mức với triệu chứng hạ huyết áp rõ rệt và phản xạ tim đập nhanh.</p><p><i>Điều trị</i></p><p>Trường hợp hạ huyết áp trầm trọng, nhịp tim chậm và bất tỉnh, trợ tim bằng cách tiêm tĩnh mạch atropin có thể hữu ích cho trường hợp nhịp tim chậm. Do tác động dược lý kéo dài của lercanidipin, nên theo dõi tình trạng tim mạch của bệnh nhân bị quá liều ít nhất 24 giờ.</p><p>Chưa có thông tin về giá trị của sự thẩm tách máu. Vì thuốc có tính thân dầu cao, nên nồng độ huyết tương không chỉ ra khoảng thời gian của giai đoạn nguy hiểm và quá trình thẩm tách máu có thể không có hiệu quả.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<p>Tờ Hướng dẫn sử dụng thuốc Lercastad 10.</p>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Lercastad 10 , bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chưa có báo cáo.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Thần kinh: Đau đầu, chóng mặt.</p>\n\t</li>\n\t<li>\n\t<p>Tim mạch: Phù nề ngoại biên, tim đập nhanh, hồi hộp, đỏ bừng.</p>\n\t</li>\n</ul>\n\n<p><em>Hiếm gặp ADR &lt; 1000</em></p>\n\n<ul>\n\t<li>\n\t<p>Thần kinh: Ngủ gật, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/ngat-23.html\">ngất</a>.</strong></p>\n\t</li>\n\t<li>\n\t<p>Toàn thân: Suy nhược, mệt mỏi, tăng nhạy cảm.</p>\n\t</li>\n\t<li>\n\t<p>Da và mô dưới da: Phát ban.</p>\n\t</li>\n\t<li>\n\t<p>Cơ xương khớp: Đau cơ.</p>\n\t</li>\n\t<li>\n\t<p>Tim mạch: Đau thắt ngực, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhoi-mau-co-tim-595.html\">nhồi máu cơ tim</a></strong>.</p>\n\t</li>\n\t<li>\n\t<p>Tiêu hóa: Buồn nôn, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/kho-tieu-578.html\">khó tiêu</a></strong>, tiêu chảy, đau bụng, nôn.</p>\n\t</li>\n\t<li>\n\t<p>Răng: Phì đại nướu.</p>\n\t</li>\n\t<li>\n\t<p>Chuyển hóa: Tăng thuận nghịch nồng độ các transaminase huyết thanh.</p>\n\t</li>\n\t<li>\n\t<p>Mạch máu: Hạ huyết áp.</p>\n\t</li>\n\t<li>\n\t<p>Thận và tiết niệu: Đi tiểu nhiều.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Trong bao bì kín, nơi khô, tránh ánh sáng. Nhiệt độ không quá 30°C.</p>",
+      "usage": "<h3>Chỉ định</h3><p><strong>Lercastad 10</strong> được chỉ định sử dụng trong trường hợp:</p><ul><li>Điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình.</li></ul><h3>Dược lực học</h3><p>Tác động hạ huyết áp của lercanidipin chủ yếu là do chất đối hình (S). Lercanidipin là thuốc chẹn kênh calci thuộc nhóm dihydropyridin, ức chế dòng calci di chuyển qua màng tế bào đến cơ trơn mạch máu và cơ tim. Cơ chế hạ huyết áp là do tác động giãn cơ trơn mạch máu trực tiếp nên làm giảm sức cản ngoại vi.&nbsp;</p><p>Tuy thời gian bán thải ngắn, lercanidipin có tác dụng hạ huyết áp kéo dài do có hệ số phân bố trong màng cao và không gây tác động hướng cơ âm tính do có tính chọn lọc cao trên mạch. Vì lercanidipin hydroclorid giãn mạch từ từ lúc khởi đầu nên hiếm gặp các triệu chứng hạ huyết áp cấp với tim đập nhanh do phản xạ trên bệnh nhân cao huyết áp.</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Lercanidipin được hấp thụ hoàn toàn qua đường tiêu hóa sau khi uống nhưng chịu sự chuyển hóa lần đầu đáng kể. Sinh khả dụng của thuốc thấp tuy nhiên tăng khi có sự hiện diện của thức ăn. Nồng độ đỉnh trong huyết tương đạt được sau khi uống thuốc 1,5 – 3 giờ.&nbsp;</p><p><i>Phân bố</i></p><p>Lercanidipin phân bố rộng rãi và nhanh. Trên 98% lercanidipin gắn kết với protein huyết tương.</p><p><i>Chuyển hóa</i></p><p>Lercanidipin chuyển hóa mạnh, chủ yếu bởi isoenzym CYP3A4 của cytochrom P450, thành các chất chuyển hóa không hoạt tính.</p><p><i>Thải trừ</i></p><p>Khoảng 50% liều dùng được bài tiết qua nước tiểu. Thời gian bán thải cuối cùng khoảng 2 - 5 giờ nhưng các nghiên cứu khác sử dụng phương pháp định lượng nhạy hơn đã đưa ra giá trị từ 8 - 10 giờ.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p><strong>Thuốc Lercastad 10</strong> chống chỉ định trong các trường hợp sau:</p><p>Quá mẫn với lercanidipin, nhóm dihydropyridin hay bất kỳ thành phần nào trong công thức.</p><p>Phụ nữ có thai và cho con bú.</p><p>Phụ nữ có khả năng mang thai trừ khi sử dụng phương pháp tránh thai hiệu quả.</p><p>Tắc nghẽn đường ra tâm thất trái.</p><p><a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-314.html\"><strong>Suy tim</strong></a> sung huyết chưa được điều trị.</p><p>Đau thắt ngực không ổn định.</p><p>Trong 1 tháng sau nhồi máu cơ tim.</p><p>Dùng đồng thời với các thuốc ức chế mạnh CYP3A4, cyclosporin, nước bưởi chùm.</p><p>Bệnh nhân suy gan hay suy thận trầm trọng (Clcr &lt; 30ml/phút).</p><p>Trẻ em dưới 18 tuổi.</p><h3>Thận trọng khi sử dụng</h3><p>Nên theo dõi cẩn thận khi lercanidipin được chỉ định cho bệnh nhân có hội chứng nút xoang bệnh lý (trường hợp không sử dụng máy tạo nhịp tim), bệnh nhân rối loạn chức năng tâm thất trái. Tăng nguy cơ tim mạch ở bệnh nhân thiếu máu cục bộ khi sử dụng dihydropyridin tác động ngắn, nên lercanidipin tác động kéo dài được đề nghị cho đối tượng này.</p><h3>Khả năng lái xe và vận hành máy móc</h3><p>Dựa vào kinh nghiệm lâm sàng, lercanidipin không làm giảm khả năng lái xe và vận hành máy móc. Tuy nhiên, cần được theo dõi cẩn thận bởi các tác dụng phụ có xảy ra nhự chóng mặt, suy nhược, mệt mỏi, và ngủ gật nhưng hiếm gặp.</p><h3>Thời kỳ mang thai&nbsp;</h3><p>Chưa có kinh nghiệm sử dụng lercanidipin trên lâm sàng cho phụ nữ có thai và cho con bú nhưng những thuốc khác thuộc nhóm dihydropyridin được biết là gây quái thai trên động vật, do đó lercanidipin không nên chỉ định cho phụ nữ có thai hay có khả năng mang thai trừ khi có sử dụng những biện pháp tránh thai có hiệu quả.</p><h3>Thời kỳ cho con bú</h3><p>Do có tính thân dầu cao nên lercanidipin có thể phân bố vào sữa. Vì vậy, thuốc không nên được chỉ định với phụ nữ cho con bú.</p><h3>Tương tác thuốc</h3><p>Rượu: Tránh dùng đồng thời vì rượu có khả năng ảnh hưởng đến thuốc hạ huyết áp do làm giãn mạch.</p><p>Nhóm ức chế và cảm ứng men CYP3A4: Lercanidipin được chuyển hóa bởi men CYP3A4 do đó dùng đồng thời với các thuốc gây ức chế và cảm ứng men CYP3A4 sẽ gây tương tác đến chuyển hóa và thải trừ của lercanidipin.</p><p>Một nghiên cứu về sự tương tác với chất ức chế mạnh CYP3A4 như <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ketoconazole\"><strong>ketoconazol</strong></a> cho thấy có sự tăng nồng độ của lercanidipin trong huyết tương.</p><p>Thận trọng khi dùng đồng thời lercanidipin với các chất cảm ứng CYP3A4 như thuốc chống co giật (<a href=\"https://nhathuoclongchau.com.vn/thanh-phan/phenytoin\"><strong>phenytoin</strong></a>, carbamazepin) và rifampicin vì ảnh hưởng đến tác động giảm áp nên cần theo dõi huyết áp thường xuyên hơn.</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/midazolam\"><strong>Midazolam</strong></a> và các chất nền của CYP3A4: Dùng đồng thời lercanidipin liều 20mg và midazolam đường uống cho người tình nguyện lớn tuổi, nồng độ hấp thu lercanidipin tăng xấp xỉ 40%&nbsp;và tốc độ hấp thu giảm (tmax giảm từ 1,75 đến 3 giờ). Nồng độ midazolam không bị thay đổi. Nên thận trọng khi chỉ định đồng thời lercanidipin và các chất nền của CYP3A4 như terfenadin, astemizol, thuốc chống loạn nhịp nhóm III như amiodaron và quinidin.</p><p>Thuốc lợi tiểu, thuốc ức chế men chuyển và thuốc chẹn beta: Khi sử dụng đồng thời lercanidipin với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/metoprolol\"><strong>metoprolol</strong></a>, một thuốc chẹn beta được thải trừ chủ yếu qua gan, sinh khả dụng metoprolol không thay đổi nhưng lercanidipin giảm 50%. Tác động này cũng xảy ra với các thuốc khác thuộc nhóm này do thuốc chẹn beta làm giảm lưu lượng máu tới gan. Do vậy, lercanidipin sử dụng an toàn khi dùng đồng thời với thuốc chẹn beta nhưng phải điều chỉnh liều.</p><p>Cimetidin: Cần phải thận trọng khi sử dụng cimetidin liều trên 80mg vì sinh khả dụng và tác động giảm áp của lercanidipin có thể tăng.</p><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/digoxin\"><strong>Digoxin</strong></a>: Điều trị đồng thời digoxin và lercanidipin 20mg, nồng độ Cmax của digoxin tăng 33% trong khi AUC và độ thanh thải thận không có sự thay đổi có ý nghĩa. Bệnh nhân được điều trị đồng thời digoxin nên được theo dõi lâm sàng chặt chẽ các dấu hiệu nhiễm độc digoxin.</p><p>Cyclosporin: Nồng độ của lercanidipin và cyclosporin trong huyết thanh đều tăng khi dùng đồng thời.</p><p>Nước bưởi chùm: Lercanidipin dễ bị ức chế chuyển hóa bởi nước bưởi chùm đưa đến kết quả làm tăng sinh khả dụng và tác động hạ huyết áp.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Lercastad 10 Stella trị tăng huyết áp nguyên phát (Hộp 60 viên)",
+        "metaDescription": "Thuốc Lercastad 10 Stella có thành phần chính là lercanidipin hydroclorid.  Lercastad 10 là thuốc điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình.",
+        "id": 2011,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_nen_lercastad_10_6_vi_x_10_vien_stella_00004364_cb82621bee.jpg",
+              "alternativeText": null
+            },
+            "title": "Viên nén Lercastad 10 Stella điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình (6 vỉ x 10 viên)",
+            "description": "Lercastad 10 thành phần chính là lercanidipin hydroclorid. Lercastad 10 là thuốc điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 35279,
+        "title": "Thuốc Lercastad 10 Stella được chỉ định để điều trị bệnh gì và thành phần chính của thuốc là gì?",
+        "content": "<p>Thuốc Lercastad 10 Stella được chỉ định để điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình. Thành phần chính của thuốc là lercanidipin hydroclorid với hàm lượng 10mg. Lercanidipin là thuốc chẹn kênh calci thuộc nhóm dihydropyridin, có tác động hạ huyết áp chủ yếu do giãn trực tiếp cơ trơn mạch máu, làm giảm sức cản ngoại vi. Thuốc có tác dụng hạ huyết áp kéo dài, và hiếm khi gây hạ huyết áp cấp với tim đập nhanh.</p>"
+      },
+      {
+        "id": 35277,
+        "title": "Cách dùng và liều dùng khuyến nghị của Viên nén Lercastad 10 là gì?",
+        "content": "<p>Lercastad 10 nên được uống trước bữa ăn ít nhất 15 phút. Liều dùng chỉ định thông thường là 10mg, uống một lần mỗi ngày. Liều này có thể được tăng lên đến 20mg tùy thuộc vào đáp ứng của từng bệnh nhân. Vì tác dụng hạ huyết áp tối đa của thuốc chỉ biểu hiện sau khoảng hai tuần, việc điều chỉnh liều nên được tiến hành từ từ. Cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế để có liều dùng phù hợp và theo dõi cẩn thận, đặc biệt khi điều trị người lớn tuổi hoặc bệnh nhân rối loạn chức năng gan/thận.</p>"
+      },
+      {
+        "id": 35276,
+        "title": "Những trường hợp nào không được sử dụng thuốc Lercastad 10 Stella?",
+        "content": "<p>Thuốc Lercastad 10 chống chỉ định cho người quá mẫn với lercanidipin hoặc nhóm dihydropyridin, phụ nữ có thai và cho con bú, phụ nữ có khả năng mang thai nếu không dùng biện pháp tránh thai hiệu quả. Ngoài ra, không dùng cho bệnh nhân tắc nghẽn đường ra tâm thất trái, suy tim sung huyết chưa điều trị, đau thắt ngực không ổn định, hoặc trong vòng 1 tháng sau nhồi máu cơ tim. Bệnh nhân suy gan hoặc suy thận trầm trọng (Clcr &lt; 30ml/phút), trẻ em dưới 18 tuổi cũng không được dùng thuốc này. Đồng thời, tránh dùng với các thuốc ức chế mạnh CYP3A4, cyclosporin, nước bưởi chùm.</p>"
+      },
+      {
+        "id": 35275,
+        "title": "Thuốc Lercastad 10 có thể gây ra những tác dụng phụ nào?",
+        "content": "<p>Khi sử dụng Lercastad 10, người bệnh có thể gặp các tác dụng phụ. Ít gặp (1/1000 &lt; ADR &lt; 1/100) bao gồm đau đầu, chóng mặt, phù nề ngoại biên, tim đập nhanh, hồi hộp và đỏ bừng. Hiếm gặp (ADR &lt; 1/1000) có thể là ngủ gật, ngất, suy nhược, mệt mỏi, phát ban, đau cơ, đau thắt ngực, nhồi máu cơ tim, buồn nôn, khó tiêu, tiêu chảy, đau bụng, nôn, phì đại nướu, tăng nồng độ transaminase huyết thanh, hạ huyết áp, và đi tiểu nhiều. Khi gặp tác dụng phụ, cần ngưng thuốc và thông báo ngay cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>"
+      },
+      {
+        "id": 35273,
+        "title": "Lercastad 10 tương tác với những loại thuốc hoặc thực phẩm nào cần lưu ý?",
+        "content": "<p>Lercastad 10 tương tác với nhiều chất. Không nên dùng đồng thời với rượu vì có khả năng ảnh hưởng đến tác dụng hạ huyết áp do làm giãn mạch. Đặc biệt, tránh dùng cùng các thuốc ức chế mạnh CYP3A4 (như ketoconazol, cyclosporin) và nước bưởi chùm vì chúng làm tăng nồng độ lercanidipin trong huyết tương và tác động hạ huyết áp. Cần thận trọng khi dùng với các chất cảm ứng CYP3A4 (phenytoin, rifampicin) hoặc các chất nền của CYP3A4 (midazolam, terfenadin, amiodaron). Cũng cần điều chỉnh liều và theo dõi khi dùng với thuốc chẹn beta (metoprolol), cimetidin liều cao, hoặc digoxin.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00005718",
+        "name": "PANANGIN GEDEON 50V",
+        "webName": "Viên nén Panangin Gedeon bổ sung kali, magnesi dùng trong suy tim (50 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2062_d16aeaf713.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8218,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2820,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/panangin-2715.html",
+        "ingredients": "Kali aspartat khan 158mg, Magie 140mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Gedeon",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 50 Viên",
+        "prices": [
+          {
+            "id": 8219,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 141000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 8218,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2820,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 58,
+          "attributeName": "Hungary",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/hu_Hungary_025bdc77ac.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001598",
+        "name": "CARDIOTON 30MG  3X10",
+        "webName": "Thuốc Cardioton Lipa Pharmaceuticals điều trị suy tim, tăng huyết áp, thiếu máu cơ tim (3 vỉ x 10 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/cardioton_30mg_3x10_00001598_efd03b68ec.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1797,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 7647,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cardilopin-30mg-4382.html",
+        "ingredients": "Ubidecarenone 30mg, D-alpha tocopherol 6.71mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "LIPA PHARMACEUTICALSLTD",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 1799,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 229400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 1797,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7647,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1798,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 76467,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "A052300000450",
+        "name": "ANBA-QE PHƯƠNG ĐÔNG 3X10",
+        "webName": "Thuốc Anba-QE Phương Đông điều trị thiểu năng tuần hoàn, thiếu máu cơ tim, tăng huyết áp động mạch (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/36_5f16613b76.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 56221,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 540000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/anba-qe-phuong-dong-3-x10.html",
+        "ingredients": "Ubidecarenone 100mg, Vitamin E 12.31mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Phương Đông",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 56221,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 540000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 56222,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 180000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 56223,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 18000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00022504",
+        "name": "BESTIMAC Q10 30MG MEDIPLANTEX 6X10",
+        "webName": "Thuốc Bestimac Q10 30mg Mediplantex điều trị tăng cholesterol máu, suy tim sung huyết (6 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00022504_bestimac_q10_30mg_mediplantex_6x10_7525_609b_large_619f0b04cf.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 28906,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 286000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bestimac-q10-30mg-mediplantex-6x10-22830.html",
+        "ingredients": "Ubidecarenone 30mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Mediplantex",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 28904,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 4767,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 28906,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 286000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 28905,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 47667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00050619",
+        "name": "PAVICARDI 50MG/250IU CPC1HN 2X15",
+        "webName": "Thuốc Parvicardi CPC1 bổ sung năng lượng cho cơ tim, điều trị các bệnh tim mạch (2 vỉ x 15 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_pavicardi_50mg_250iu_2x15_cpc1hn_00050619_82c96ce76a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 79961,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 16000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pavicardi-50-mg-250-iu-cpc-1-hn-2-x15.html",
+        "ingredients": "Coenzym Q10 50mg, Vitamin E 250iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "CPC1HN",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 15 Viên",
+        "prices": [
+          {
+            "id": 79959,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 480000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 79960,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 240000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 79961,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 16000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00000769",
+        "name": "AN THẦN BỔ TÂM-F FITO 40V",
+        "webName": "Thuốc An Thần Bổ Tâm - F Fito dưỡng tâm, an thần (40 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_4882_599f_large_1e78644b05.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 571,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 66000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vien-uong-an-than-bo-tam-f-516.html",
+        "ingredients": "Táo Nhân 133.3mg, Mạch môn 133.3mg, Sinh Địa 400mg, Thiên môn đông 133.3mg, Bá tử nhân 133.3mg, Huyền sâm 66.7mg, Viễn chí 66.7mg, Ngũ vị tử 66.7mg, Đảng Sâm 53.3mg, Đương quy 53.3mg, Đan sâm 46.7mg, Phục thần 46.7mg, Cát cánh 26.7mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Fito",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 40 viên",
+        "prices": [
+          {
+            "id": 570,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1650,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 571,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 66000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 13,
+      "items": [
+        {
+          "id": 3331219,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0971xxxxxx",
+          "name": "kim",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá sản PHẨM",
+          "createdAt": "2026-07-01 11:36:00",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-07-01 11:36:00",
+          "replies": [
+            {
+              "id": 3331220,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thanh Hoà",
+                "moderatorEmail": "hoantt53@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thanh Hoà",
+              "email": "hoantt53@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Kim,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-07-01 11:37:45",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-07-01 11:36:00",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3322993,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0774xxxxxx",
+          "name": "Linh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá 1 hộp hiện nhiêu vậy em",
+          "createdAt": "2026-06-15 20:25:31",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-15 20:25:31",
+          "replies": [
+            {
+              "id": 3322996,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Bích Diệp",
+                "moderatorEmail": "diepnb6@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Bích Diệp",
+              "email": "diepnb6@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Linh,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-06-15 20:28:16",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-15 20:25:31",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3278396,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0377xxxxxx",
+          "name": "Sang",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá hiên tại nhiêu hộp em",
+          "createdAt": "2026-03-23 06:32:21",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-23 06:32:21",
+          "replies": [
+            {
+              "id": 3278484,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Mai Anh",
+                "moderatorEmail": "anhnm70@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Mai Anh",
+              "email": "anhnm70@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Sang,</p><p> Hiện tại, sản phẩm Viên nén Lercastad 10 Stella điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình (6 vỉ x 10 viên) có giá 177.000đ/ hộp ạ.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-03-23 09:26:50",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-23 06:32:21",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3182499,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0399xxxxxx",
+          "name": "NGUYỄN QUYÊN",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "XIN GIÁ 1 HỘP THUỐC A",
+          "createdAt": "2025-09-19 09:36:26",
+          "createdAtDisplay": "11 tháng trước",
+          "updatedAt": "2025-09-19 09:36:19",
+          "replies": [
+            {
+              "id": 3182500,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Thị Giang",
+                "moderatorEmail": "giangmt8@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mai Thị Giang",
+              "email": "giangmt8@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn NGUYỄN QUYÊN,</p><p>Hiện tại, sản phẩm có giá 177,000đ/hộp  (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp). </p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm. </p><p>Thân mến! </p>",
+              "createdAt": "2025-09-19 09:37:26",
+              "createdAtDisplay": "11 tháng trước",
+              "updatedAt": "2025-09-19 09:36:19",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3140304,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0987xxxxxx",
+          "name": "Ngọc",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá và date, date tháng mấy?",
+          "createdAt": "2025-07-07 00:37:59",
+          "createdAtDisplay": "07/07/2025",
+          "updatedAt": "2025-07-07 00:37:54",
+          "replies": [
+            {
+              "id": 3140410,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Đoàn Anh Thư",
+                "moderatorEmail": "thumda@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mai Đoàn Anh Thư",
+              "email": "thumda@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Ngọc,</p><p>Hiện tại, sản phẩm có giá 177,000 ₫/hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp) và hạn sử dụng  phụ thuộc vào số lô, khu vực và tình trạng tồn kho tại từng thời điểm ạ</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p>",
+              "createdAt": "2025-07-07 09:19:31",
+              "createdAtDisplay": "07/07/2025",
+              "updatedAt": "2025-07-07 00:37:54",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 3156389,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0356xxxxxx",
+          "name": "Vy",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Gía 1 hộp sao ạ",
+          "createdAt": "2025-08-04 13:19:38",
+          "createdAtDisplay": "04/08/2025",
+          "updatedAt": "2025-08-04 13:19:16",
+          "replies": [
+            {
+              "id": 3156391,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thu Phương",
+                "moderatorEmail": "phuongtt124@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thu Phương",
+              "email": "phuongtt124@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Vy,</p><p>Hiện tại, sản phẩm có giá 177,000 ₫/ hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p>",
+              "createdAt": "2025-08-04 13:20:05",
+              "createdAtDisplay": "04/08/2025",
+              "updatedAt": "2025-08-04 13:19:16",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Viên nén Lercastad 10 Stella điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình (6 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_nen_lercastad_10_6_vi_x_10_vien_stella_00004364_cb82621bee.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_8181_6424_large_a4cfe01c29.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_4597_6424_large_84f590b00f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_9991_6424_large_c6982a7980.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_1696_6424_large_8673691b60.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_9419_6424_large_8475c408b3.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004364_lercastad_10_6815_6424_large_5263879816.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Lercastad 10 thành phần chính là lercanidipin hydroclorid. Lercastad 10 là thuốc điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Lercastad 10 Stella trị tăng huyết áp nguyên phát (Hộp 60 viên)",
+      "description": "Thuốc Lercastad 10 Stella có thành phần chính là lercanidipin hydroclorid.  Lercastad 10 là thuốc điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình.",
+      "openGraph": {
+        "title": "Viên nén Lercastad 10 Stella điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình (6 vỉ x 10 viên)",
+        "description": "Lercastad 10 thành phần chính là lercanidipin hydroclorid. Lercastad 10 là thuốc điều trị tăng huyết áp nguyên phát từ nhẹ đến trung bình.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_nen_lercastad_10_6_vi_x_10_vien_stella_00004364_cb82621bee.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/lercastad-10-3271.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/lercastad-10-3271.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

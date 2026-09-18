@@ -1,0 +1,711 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/trimoxtal-500500-1315.html",
+  "ingestion_timestamp": "2026-09-05T16:01:46.334804+00:00",
+  "file_hash": "b3bd59ffd062fa9c40f263d3ccda4ce9fcff517e8a374772a2f32b54a2ef8dc9",
+  "lineage_hash": "0340bba2720cd89e4d908b963ca0bd1d113d35b73233add6d871abb39eed3dc9",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/trimoxtal-500500-1315.html",
+    "product": {
+      "sku": "00010329",
+      "webName": "Thuốc Trimoxtal Minh Hải điều trị nhiễm trùng vùng miệng, đường hô hấp (2 vỉ x 7 viên)",
+      "name": "TRIMOXTAL 875/125 MINH HẢI 2X7",
+      "shortName": "TRIMOXTAL 875/125 MH 2X7",
+      "headingText": "Thuốc Trimoxtal",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/trimoxtal_27634728c6.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 731,
+          "name": "Thuốc kháng sinh, kháng nấm",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 781,
+          "name": "Thuốc kháng sinh",
+          "parentName": "Thuốc kháng sinh, kháng nấm",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 1,
+          "productSpecs": "Hộp 2 Vỉ x 7 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 2,
+          "productSpecs": "2 Vỉ x 7 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": false,
+          "level": 3,
+          "productSpecs": "7 Viên"
+        }
+      ],
+      "slug": "thuoc/trimoxtal-500500-1315.html",
+      "ingredient": [
+        {
+          "id": 24317,
+          "ingredientId": 8917,
+          "shortDescription": "875mg",
+          "name": "Amoxycillin",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 24318,
+          "ingredientId": 37018,
+          "shortDescription": "125mg",
+          "name": "Sulbactam",
+          "isPrimary": false,
+          "slug": "thanh-phan/sulbactam"
+        }
+      ],
+      "webIngredient": "<p><meta charset=\"utf-8\" /></p>",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-19820-13",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Thuốc dùng đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<p><strong>Liều thông thường người lớn và trẻ em trên 12 tuổi</strong></p>\n\n<p>Uống 1 viên/lần, ngày 3 lần.</p>\n\n<p><strong>Bệnh nhân suy thận</strong></p>\n\n<p><em>Liều người lớn</em></p>\n\n<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Độ thanh thải creatinin</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Liều</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t<p>&gt; 30ml/phút</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Không cần chỉnh liều</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t<p>Từ 10 đến 30 ml/phút</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Liều ban đầu 1 g, sau đó cứ 12 giờ tiêm 500 mg.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t<p>&lt; 10ml/phút</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Liều ban đầu 1 g, sau đó cứ tiêm 500 mg/ngày.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><em>Liều trẻ em</em></p>\n\n<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Độ thanh thải creatinin</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Liều</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t<p>&gt; 30ml/phút</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Không cần chỉnh liều</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t<p>Từ 10 đến 30 ml/phút</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>25 mg/kg, 2 lần/ngày</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t<p>&lt; 10ml/phút</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>25 mg/kg/ngày</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Hiện nay chưa có báo cáo về các trường hợp dùng quá liều Amoxicillin và Sulbactam. Trong trường hợp dùng quá liều, ngừng dùng thuốc ngay và sử dụng các biện pháp điều trị hỗ trợ. Có thể gây nôn, rửa dạ dày nếu mới quá liều, trừ khi chống chỉ định. </p>\n\n<p>Không có thuốc giải độc đặc hiệu, có thể được loại bỏ bằng thẩm phân máu.</p>\n\n<p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm Cấp cứu 115 hoặc đến trạm y tế địa phương gần nhất.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Trimoxtal 875/125 được chỉ định dùng trong các trường hợp:</p>\n\n<ul>\n\t<li>Nhiễm trùng vùng miệng và đường hô hấp (đặc biệt trong những trường hợp nặng hay tái phát): <a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\">Viêm tai giữa</a>, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-xoang-479.html\">viêm xoang</a>, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-amidan-467.html\">viêm Amidan</a>, viêm họng, viêm thanh quản, viêm khí quản, viêm phổi, viêm phế quản... </li>\n\t<li>Nhiễm trùng ổ bụng, nhiễm trùng phụ khoa. </li>\n\t<li><a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-trung-tiet-nieu-355.html\">Nhiễm trùng đường tiết niệu</a>: Các trường hợp viêm bàng quang tái phát hoặc có biến chứng. </li>\n\t<li>Nhiễm trùng da và mô mềm: Viêm mạch bạch huyết, viêm mô tế bào, các vết thương hở hoặc mất mô, abces chân răng và vùng miệng do tụ cầu vàng.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Sinh khả dụng của thuốc khi sử dụng đường uống đạt 90% so với dùng đường tĩnh mạch liều tương đương của Sulbactam và Amoxicillin. </p>\n\n<p>Những nghiên cứu sinh hóa học với các hệ vi khuẩn không tế bào đã chứng minh Sulbactam có khả năng làm bất hoạt không hồi phục phần lớn các enzym beta-lactamase quan trọng của các vi khuẩn kháng penicillin. Sulbactam có hoạt tính kháng khuẩn đáng kể đối với <em>Neisseriaceae, Acinetobacter calcoaceticus, Bacteroides spp, Branhamella catarrhalis </em>và<em> Pseudomonas cepacia</em>.</p>\n\n<p>Sự kết hợp giữa Sulbactam với Amoxicillin có tính năng diệt những dòng vi khuẩn nhạy với thuốc bằng cách ức chế sinh tổng hợp mucopeptide của vách tế bào.</p>\n\n<p>Thuốc có phổ kháng khuẩn rộng đối với cả vi khuẩn Gram dương và Gram âm, gồm có: <em>Staphylococcus aureus </em>và<em> S. epidermidis</em> (gồm cả những vi khuẩn đề kháng penicillin và một số vi khuẩn đề kháng methicillin), <em>Streptococcus pneumoniae</em>.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Uống thuốc sau khi ăn không làm ảnh hưởng sinh khả dụng toàn thân. Nồng độ đỉnh trong huyết tương của Amoxicillin sau khi uống thuốc dạng kết hợp đạt cao gấp 2 lần so với dùng liều tương đương Amoxicillin uống.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Sulbactam và Amoxicillin khuếch tán dễ dàng vào hầu hết các mô và dịch cơ thể. Thuốc ít thâm nhập vào não và dịch não tủy trừ khi có viêm màng não. Thuốc cũng qua được hàng rào rau thai và được bài xuất vào sữa mẹ.</p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Thời gian bán thải của Sulbactam là 0,75 giờ và của Amoxicillin là 1 giờ, với ưu điểm là có từ 50% tới 75% lượng thuốc thải trừ nguyên vẹn qua nước tiểu.</p>",
+      "brand": "Minh Hải",
+      "brandType": null,
+      "adverseEffect": "<p><em>Thường gặp, ADR &gt;1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Hệ tiêu hóa: Buồn nôn, nôn, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a></strong>, khó tiêu.</p>\n\t</li>\n\t<li>\n\t<p>Toàn thân: Dị ứng.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Tiêu hóa: Buồn nôn, nôn, ỉa chảy.</p>\n\t</li>\n\t<li>\n\t<p>Phản ứng quá mẫn: Ban đỏ, ban rát sần và mày đay, đặc biệt là hội chứng Stevens - Johnson</p>\n\t</li>\n</ul>\n\n<p><em>Hiếm gặp, ADR &lt; 1/1000</em></p>\n\n<ul>\n\t<li>\n\t<p>Gan: Tăng nhẹ SGOT.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh trung ương: Kích động, vật vã, lo lắng, mất ngủ, lú lẫn, thay đổi ứng xử và/hoặc chóng mặt.</p>\n\t</li>\n\t<li>\n\t<p>Máu: Thiếu máu, giảm tiểu cầu, ban xuất huyết giảm tiểu cầu, tăng bạch cầu ưa eosin, giảm bạch cầu, mất bạch cầu hạt</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Những phản ứng không mong muốn của Amoxicilin ở đường tiêu hóa, ở máu thường mất đi khi ngừng điều trị.</p>\n\n<p>Mề đay, các dạng ban khác và những phản ứng giống bệnh huyết thanh có thể điều trị bằng kháng histamin, và nếu cần, dùng liệu pháp corticosteroid toàn thân. Tuy nhiên khi phản ứng như vậy xảy ra, phải ngừng dùng Amoxicilin, trừ khi có ý kiến của thầy thuốc trong những trường hợp đặc biệt, nguy hiểm đến tính mạng mà chỉ có Amoxicilin mới giải quyết được.</p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 2 vỉ x 7 viên",
+      "indications": [
+        {
+          "id": 8,
+          "name": "Viêm amidan",
+          "slug": "benh/viem-amidan-467.html"
+        },
+        {
+          "id": 9,
+          "name": "Viêm họng",
+          "slug": "benh/viem-hong-468.html"
+        },
+        {
+          "id": 15,
+          "name": "Viêm tai giữa",
+          "slug": "benh/viem-tai-giua-474.html"
+        },
+        {
+          "id": 43,
+          "name": "Viêm xoang",
+          "slug": "benh/viem-xoang-479.html"
+        },
+        {
+          "id": 112,
+          "name": "Nhiễm trùng tiết niệu",
+          "slug": "benh/nhiem-trung-tiet-nieu-355.html"
+        },
+        {
+          "id": 229,
+          "name": "Nhiễm trùng da và mô mềm",
+          "slug": null
+        },
+        {
+          "id": 625,
+          "name": "Viêm phổi",
+          "slug": "benh/viem-phoi-180.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "Minh Hải",
+      "shortDescription": "<p>Trimoxtal 875/125 của Công ty Cổ phần Dược Minh Hải, có thành phần chính là Amoxicillin trihydrat, Sulbactam natri. Thuốc có tác dụng điều trị một số bệnh nhiễm trùng.</p>\n\n<p>Trimoxtal 875/125 được bào chế dạng viên nén dài bao phim, đóng gói theo quy cách hộp 2 vỉ x 7 viên nén.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Trên 12 tuổi",
+      "objectUse": [
+        "Người cao tuổi",
+        "Trẻ em"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Suy gan thận",
+        "Phụ nữ cho con bú"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Mang thai, Dị ứng thuốc, Nhiễm Herpes simplex, Tăng bạch cầu đơn nhân",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/minh-hai",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "TRIMOXTAL 875/125",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": false,
+        "level": 3,
+        "productSpecs": "7 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 781,
+        "name": "Thuốc kháng sinh",
+        "parentName": "Thuốc kháng sinh, kháng nấm",
+        "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/trimoxtal_27634728c6.jpg",
+          "alternativeText": "Thuốc Trimoxtal Minh Hải điều trị nhiễm trùng vùng miệng, đường hô hấp (2 vỉ x 7 viên) 1"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc kháng sinh, kháng nấm",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam"
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh"
+      }
+    ],
+    "content": {
+      "sku": "00010329",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Thuốc dùng đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<p><strong>Liều thông thường người lớn và trẻ em trên 12 tuổi</strong></p>\n\n<p>Uống 1 viên/lần, ngày 3 lần.</p>\n\n<p><strong>Bệnh nhân suy thận</strong></p>\n\n<p><em>Liều người lớn</em></p>\n\n<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Độ thanh thải creatinin</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Liều</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t<p>&gt; 30ml/phút</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Không cần chỉnh liều</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t<p>Từ 10 đến 30 ml/phút</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Liều ban đầu 1 g, sau đó cứ 12 giờ tiêm 500 mg.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t<p>&lt; 10ml/phút</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Liều ban đầu 1 g, sau đó cứ tiêm 500 mg/ngày.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p><em>Liều trẻ em</em></p>\n\n<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Độ thanh thải creatinin</strong></p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Liều</strong></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t<p>&gt; 30ml/phút</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>Không cần chỉnh liều</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t<p>Từ 10 đến 30 ml/phút</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>25 mg/kg, 2 lần/ngày</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t<p>&lt; 10ml/phút</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p>25 mg/kg/ngày</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Hiện nay chưa có báo cáo về các trường hợp dùng quá liều Amoxicillin và Sulbactam. Trong trường hợp dùng quá liều, ngừng dùng thuốc ngay và sử dụng các biện pháp điều trị hỗ trợ. Có thể gây nôn, rửa dạ dày nếu mới quá liều, trừ khi chống chỉ định. </p>\n\n<p>Không có thuốc giải độc đặc hiệu, có thể được loại bỏ bằng thẩm phân máu.</p>\n\n<p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm Cấp cứu 115 hoặc đến trạm y tế địa phương gần nhất.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Trimoxtal 875/125.</p></body></html>",
+      "adverseEffect": "<p><em>Thường gặp, ADR &gt;1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Hệ tiêu hóa: Buồn nôn, nôn, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">tiêu chảy</a></strong>, khó tiêu.</p>\n\t</li>\n\t<li>\n\t<p>Toàn thân: Dị ứng.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Tiêu hóa: Buồn nôn, nôn, ỉa chảy.</p>\n\t</li>\n\t<li>\n\t<p>Phản ứng quá mẫn: Ban đỏ, ban rát sần và mày đay, đặc biệt là hội chứng Stevens - Johnson</p>\n\t</li>\n</ul>\n\n<p><em>Hiếm gặp, ADR &lt; 1/1000</em></p>\n\n<ul>\n\t<li>\n\t<p>Gan: Tăng nhẹ SGOT.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh trung ương: Kích động, vật vã, lo lắng, mất ngủ, lú lẫn, thay đổi ứng xử và/hoặc chóng mặt.</p>\n\t</li>\n\t<li>\n\t<p>Máu: Thiếu máu, giảm tiểu cầu, ban xuất huyết giảm tiểu cầu, tăng bạch cầu ưa eosin, giảm bạch cầu, mất bạch cầu hạt</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Những phản ứng không mong muốn của Amoxicilin ở đường tiêu hóa, ở máu thường mất đi khi ngừng điều trị.</p>\n\n<p>Mề đay, các dạng ban khác và những phản ứng giống bệnh huyết thanh có thể điều trị bằng kháng histamin, và nếu cần, dùng liệu pháp corticosteroid toàn thân. Tuy nhiên khi phản ứng như vậy xảy ra, phải ngừng dùng Amoxicilin, trừ khi có ý kiến của thầy thuốc trong những trường hợp đặc biệt, nguy hiểm đến tính mạng mà chỉ có Amoxicilin mới giải quyết được.</p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Bảo quản ở nhiệt độ không quá 30°C.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p>Trimoxtal 875/125 được chỉ định dùng trong các trường hợp:</p>\n\n<ul>\n\t<li>Nhiễm trùng vùng miệng và đường hô hấp (đặc biệt trong những trường hợp nặng hay tái phát): <a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\">Viêm tai giữa</a>, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-xoang-479.html\">viêm xoang</a>, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-amidan-467.html\">viêm Amidan</a>, viêm họng, viêm thanh quản, viêm khí quản, viêm phổi, viêm phế quản... </li>\n\t<li>Nhiễm trùng ổ bụng, nhiễm trùng phụ khoa. </li>\n\t<li><a href=\"https://nhathuoclongchau.com.vn/benh/nhiem-trung-tiet-nieu-355.html\">Nhiễm trùng đường tiết niệu</a>: Các trường hợp viêm bàng quang tái phát hoặc có biến chứng. </li>\n\t<li>Nhiễm trùng da và mô mềm: Viêm mạch bạch huyết, viêm mô tế bào, các vết thương hở hoặc mất mô, abces chân răng và vùng miệng do tụ cầu vàng.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Sinh khả dụng của thuốc khi sử dụng đường uống đạt 90% so với dùng đường tĩnh mạch liều tương đương của Sulbactam và Amoxicillin. </p>\n\n<p>Những nghiên cứu sinh hóa học với các hệ vi khuẩn không tế bào đã chứng minh Sulbactam có khả năng làm bất hoạt không hồi phục phần lớn các enzym beta-lactamase quan trọng của các vi khuẩn kháng penicillin. Sulbactam có hoạt tính kháng khuẩn đáng kể đối với <em>Neisseriaceae, Acinetobacter calcoaceticus, Bacteroides spp, Branhamella catarrhalis </em>và<em> Pseudomonas cepacia</em>.</p>\n\n<p>Sự kết hợp giữa Sulbactam với Amoxicillin có tính năng diệt những dòng vi khuẩn nhạy với thuốc bằng cách ức chế sinh tổng hợp mucopeptide của vách tế bào.</p>\n\n<p>Thuốc có phổ kháng khuẩn rộng đối với cả vi khuẩn Gram dương và Gram âm, gồm có: <em>Staphylococcus aureus </em>và<em> S. epidermidis</em> (gồm cả những vi khuẩn đề kháng penicillin và một số vi khuẩn đề kháng methicillin), <em>Streptococcus pneumoniae</em>.</p>\n\n<h3>Dược động học</h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Uống thuốc sau khi ăn không làm ảnh hưởng sinh khả dụng toàn thân. Nồng độ đỉnh trong huyết tương của Amoxicillin sau khi uống thuốc dạng kết hợp đạt cao gấp 2 lần so với dùng liều tương đương Amoxicillin uống.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Sulbactam và Amoxicillin khuếch tán dễ dàng vào hầu hết các mô và dịch cơ thể. Thuốc ít thâm nhập vào não và dịch não tủy trừ khi có viêm màng não. Thuốc cũng qua được hàng rào rau thai và được bài xuất vào sữa mẹ.</p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Thời gian bán thải của Sulbactam là 0,75 giờ và của Amoxicillin là 1 giờ, với ưu điểm là có từ 50% tới 75% lượng thuốc thải trừ nguyên vẹn qua nước tiểu.</p>",
+      "ingredient": "<p><meta charset=\"utf-8\" /></p>",
+      "careful": "<h3>Chống chỉ định</h3>\n\n<p>Thuốc Trimoxtal 875/125 chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Bệnh nhân có tiền sử dị ứng với Penicillin hoặc các Cephalosporin và Sulbactam hoặc bất kỳ thành phần nào của thuốc. </p>\n\t</li>\n\t<li>\n\t<p>Có tiền sử bệnh đường tiêu hóa. </p>\n\t</li>\n\t<li>\n\t<p>Nhiễm trùng có tăng bạch cầu đơn nhân. </p>\n\t</li>\n\t<li>\n\t<p>Nhiễm virus herpes. </p>\n\t</li>\n\t<li>\n\t<p>Đang điều trị bằng Allopurinol. </p>\n\t</li>\n\t<li>\n\t<p>Phụ nữ có thai và đang cho con bú </p>\n\t</li>\n\t<li>\n\t<p>Trẻ em dưới 12 tuổi.</p>\n\t</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Phải định kỳ kiểm tra chức năng gan, thận trong suốt quá trình điều trị dài ngày.</p>\n\n<p>Có thể xảy ra phản ứng quá mẫn trầm trọng ở những người bệnh có tiền sử dị ứng với penicilin hoặc các dị nguyên khác, nên cần phải điều tra kỹ tiền sử dị ứng với penicilin, cephalosporin và các dị nguyên khác.</p>\n\n<p>Nếu phản ứng dị ứng xảy ra như ban đỏ, phù Quincke, sốc phản vệ, hội chứng Stevens - Johnson, phải ngừng liệu pháp amoxicilin và ngay lập tức điều trị cấp cứu bằng adrenalin, thở oxy, liệu pháp corticoid tiêm tĩnh mạch và thông khí, kể cả đặt nội khí quản và không bao giờ được điều trị bằng penicilin hoặc cephalosporin nữa.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Chưa tìm thấy tài liệu trong dược thư.</p>\n\n<h3>Thời kỳ mang thai </h3>\n\n<p>Sử dụng an toàn amoxicilin trong thời kỳ mang thai chưa được xác định rõ ràng. Vì vậy, chỉ sử dụng thuốc này khi thật cần thiết trong thời kỳ mang thai. Tuy nhiên, chưa có bằng chứng nào về tác dụng có hại cho thai nhi khi dùng amoxicilin cho người mang thai.</p>\n\n<h3>Thời kỳ cho con bú</h3>\n\n<p>Vì amoxicilin bài tiết vào sữa mẹ, nên phải thận trọng khi dùng thuốc trong thời kỳ cho con bú.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Hấp thu amoxicilin không bị ảnh hưởng bởi thức ăn trong dạ dày, do đó có thể uống trước hoặc sau bữa ăn.</p>\n\n<p>Nifedipin làm tăng hấp thu amoxicilin.</p>\n\n<p>Khi dùng alopurinol cùng với amoxicilin hoặc ampicilin sẽ làm tăng khả năng phát ban của ampicilin, amoxicilin.</p>\n\n<p>Có thể có sự đối kháng giữa chất diệt khuẩn amoxicilin và các chất kìm khuẩn như cloramphenicol, tetracyclin.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Trimoxtal trị các trường hợp nhiễm trùng (2 vỉ x 7 viên)",
+        "metaDescription": "Thuốc Trimoxtal Minh Hải c thành phần chính là Amoxicillin trihydrat, Sulbactam natri. Thuốc có tác dụng điều trị một số bệnh nhiễm trùng. Được bào chế dạng viên nén dài bao phim, đóng gói theo quy cách hộp 2 vỉ x 7 viên nén.",
+        "id": 3239,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/trimoxtal_27634728c6.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Trimoxtal Minh Hải điều trị nhiễm trùng vùng miệng, đường hô hấp (2 vỉ x 7 viên)",
+            "description": "Trimoxtal 875/125 của Công ty Cổ phần Dược Minh Hải, có thành phần chính là Amoxicillin trihydrat, Sulbactam natri. Thuốc có tác dụng điều trị một số bệnh nhiễm trùng.\n\nTrimoxtal 875/125 được bào chế dạng viên nén dài bao phim, đóng gói theo quy cách hộp 2 vỉ x 7 viên nén."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 373,
+        "title": "Dược lực học là gì?",
+        "content": "<p>\r\n\r\nDược lực học l&agrave; nghi&ecirc;n cứu c&aacute;c ảnh hưởng sinh h&oacute;a, sinh l&yacute;, v&agrave; ph&acirc;n tử của thuốc tr&ecirc;n cơ thể v&agrave; li&ecirc;n quan đến thụ thể li&ecirc;n kết, hiệu ứng sau thụ thể, v&agrave; tương t&aacute;c h&oacute;a học. Dược lực học, với dược động học, gi&uacute;p giải th&iacute;ch mối quan hệ giữa liều v&agrave; đ&aacute;p ứng, tức l&agrave; c&aacute;c t&aacute;c dụng của thuốc. Đ&aacute;p ứng dược l&yacute; phụ thuộc v&agrave;o sự li&ecirc;n kết của thuốc với đ&iacute;ch t&aacute;c dụng. Nồng độ thuốc ở vị tr&iacute; thụ thể ảnh hưởng đến t&aacute;c dụng của thuốc.</p>"
+      },
+      {
+        "id": 372,
+        "title": "Dược động học là gì?",
+        "content": "<p>\r\n\r\nDược động học l&agrave; những t&aacute;c động của cơ thể đối với thuốc trong suốt qu&aacute; tr&igrave;nh thuốc đi v&agrave;o, ở trong v&agrave; đi ra khỏi cơ thể- bao gồm c&aacute;c qu&aacute; tr&igrave;nh hấp thụ, sinh khả dụng, ph&acirc;n bố, chuyển h&oacute;a, v&agrave; thải trừ.</p>"
+      },
+      {
+        "id": 371,
+        "title": "Tác dụng phụ của thuốc là gì? Cách phòng tránh tác dụng phụ của thuốc",
+        "content": "<p>\r\n\r\nT&aacute;c dụng phụ l&agrave; những triệu chứng kh&ocirc;ng mong muốn xảy ra khi ch&uacute;ng ta uống thuốc. C&aacute;c t&aacute;c dụng phụ n&agrave;y c&oacute; thể kh&ocirc;ng nghi&ecirc;m trọng, chẳng hạn chỉ g&acirc;y <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><strong>đau đầu</strong></a> hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mieng-312.html\"><strong>kh&ocirc; miệng</strong></a>. Nhưng cũng c&oacute; những t&aacute;c dụng phụ đe dọa t&iacute;nh mạng. Cẩn ph&ograve;ng tr&aacute;nh t&aacute;c dụng phụ của <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> như: Th&ocirc;ng b&aacute;o c&aacute;c loại thuốc đang sử dụng với b&aacute;c sĩ, c&aacute;c <strong><a href=\"https://nhathuoclongchau.com.vn/benh\">bệnh</a></strong> l&yacute; nền hiện tại, c&aacute;c tương t&aacute;c của thuốc đến thực phẩm hằng ng&agrave;y. Đọc kỹ hướng dẫn sử dụng thuốc v&agrave; nếu gặp t&aacute;c dụng phụ cần b&aacute;o ngay cho b&aacute;c sĩ.</p>"
+      },
+      {
+        "id": 370,
+        "title": "Sử dụng thuốc đúng cách như thế nào?",
+        "content": "<p>\r\n\r\nSử dụng <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> đ&uacute;ng c&aacute;ch l&agrave; uống thuốc theo chỉ dẫn của dược sĩ, b&aacute;c sĩ. Ngo&agrave;i ra kh&ocirc;ng d&ugrave;ng nước quả, nước kho&aacute;ng hoặc c&aacute;c loại nước ngọt đ&oacute;ng hộp c&oacute; gas để uống thuốc. Kh&ocirc;ng d&ugrave;ng sữa để uống thuốc v&igrave; trong th&agrave;nh phần của sữa c&oacute; chứa <strong><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/canxi\">canxi</a></strong>. Kh&ocirc;ng d&ugrave;ng c&agrave; ph&ecirc; hay nước ch&egrave; để uống thuốc. Chỉ n&ecirc;n uống c&ugrave;ng nước lọc.</p>"
+      },
+      {
+        "id": 369,
+        "title": "Các dạng bào chế của thuốc?",
+        "content": "<p>\r\n\r\nC&oacute; c&aacute;c dạng b&agrave;o chế thuốc như<br />\r\nTheo thể chất:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc thể rắn (thuốc bột, thuốc vi&ecirc;n).</li>\r\n\t<li>C&aacute;c dạng thuốc thể mềm (thuốc cao, thuốc mỡ, gel).</li>\r\n\t<li>C&aacute;c dạng thuốc thể lỏng (dung dịch, hỗn dịch, nhũ dịch, xiro).</li>\r\n</ul>\r\n\r\n<p>Theo đường d&ugrave;ng:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc uống (vi&ecirc;n, bột, dung dịch, nhũ dịch, hỗn dịch).</li>\r\n\t<li>C&aacute;c dạng thuốc ti&ecirc;m (dung dịch, hỗn dịch, nhũ dịch, bột pha ti&ecirc;m, dịch truyền).</li>\r\n\t<li>C&aacute;c dạng thuốc d&ugrave;ng ngo&agrave;i (thuốc b&ocirc;i tr&ecirc;n da, thuốc nhỏ l&ecirc;n ni&ecirc;m mạc, thuốc s&uacute;c miệng).</li>\r\n\t<li>C&aacute;c dạng thuốc đặt v&agrave;o c&aacute;c hốc tự nhi&ecirc;n tr&ecirc;n cơ thể (thuốc đặt hậu m&ocirc;n, thuốc trứng đặt &acirc;m đạo...).</li>\r\n</ul>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 14,
+      "items": [
+        {
+          "id": 3361534,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0848xxxxxx",
+          "name": "Hùng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Giá trimoxtal 1g bao nhiêu 1 hộp",
+          "createdAt": "2026-08-21 16:04:20",
+          "createdAtDisplay": "15 ngày trước",
+          "updatedAt": "2026-08-21 16:04:20",
+          "replies": [
+            {
+              "id": 3361536,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thanh Huyền",
+                "moderatorEmail": "huyennt317@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thanh Huyền",
+              "email": "huyennt317@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Hùng,</p><p>Hiện tại, sản phẩm TRIMOXTAL 875/125 MH 2X7 có giá 140.000/hộp</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-08-21 16:10:28",
+              "createdAtDisplay": "15 ngày trước",
+              "updatedAt": "2026-08-21 16:04:20",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3334315,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0848xxxxxx",
+          "name": "anh Thái Nguyên",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cho mình xin giá 1hộp",
+          "createdAt": "2026-07-06 15:12:26",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-07-06 15:12:26",
+          "replies": [
+            {
+              "id": 3334321,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trương Anh Thư",
+                "moderatorEmail": "thuta13@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trương Anh Thư",
+              "email": "thuta13@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Nguyên,</p><p>Hiện tại, sản phẩm TRIMOXTAL 875/125 MH 2X7  có giá 140.000/hộp</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-07-06 15:25:35",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-07-06 15:12:26",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3327137,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0823xxxxxx",
+          "name": "Nhung",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Cho e xin giá",
+          "createdAt": "2026-06-24 10:22:35",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-24 10:22:35",
+          "replies": [
+            {
+              "id": 3327159,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Minh Tiến",
+                "moderatorEmail": "tiennm50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Minh Tiến",
+              "email": "tiennm50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Nhung</p><p>Hiện tại, sản phẩm Thuốc Trimoxtal có giá 140,000 ₫/ hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-06-24 10:53:55",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-24 10:22:35",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3268459,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0374xxxxxx",
+          "name": "Chị Quỳnh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này có sẵn ở cơ sở ocean park 1 không ạ? giá bao nhiêu ạ?",
+          "createdAt": "2026-03-04 14:09:15",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-03-04 14:09:15",
+          "replies": [
+            {
+              "id": 3268465,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Quỳnh Anh",
+                "moderatorEmail": "anhntq56@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Quỳnh Anh",
+              "email": "anhntq56@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Quỳnh,</p><p> Dạ sản phẩm còn hàng trên hệ thống Nhà thuốc FPT Long Châu.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-03-04 14:17:31",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-03-04 14:09:15",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3223125,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0912xxxxxx",
+          "name": "Nguyễn đức tiến",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Có thuốc này chưa ạ",
+          "createdAt": "2025-12-02 15:54:09",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-12-02 15:54:09",
+          "replies": [
+            {
+              "id": 3223131,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Nhật Tân",
+                "moderatorEmail": "tannn23@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Nhật Tân",
+              "email": "tannn23@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn <strong>Nguyễn đức tiến</strong>,</p><p>Dạ, hiện tại sản phẩm TRIMOXTAL 875/125 MH 2X7 đang trong quá trình chờ bổ sung từ nhà cung cấp.</p><p>Bạn có thể tham khảo sản phẩm tương tự là BACTAMOX 1G IMEX 2X7, có cùng thành phần, hàm lượng. Sản phẩm được sản xuất tại Việt Nam, xem thêm thông tin tại&nbsp;<a href=\"https://nhathuoclongchau.com.vn/thuoc/bactamox-1g-imexpharm-2x7-15240.html\" rel=\"noopener noreferrer\" target=\"_blank\">link</a>.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p>",
+              "createdAt": "2025-12-02 15:59:50",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-12-02 15:54:09",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Trimoxtal Minh Hải điều trị nhiễm trùng vùng miệng, đường hô hấp (2 vỉ x 7 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/trimoxtal_27634728c6.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Trimoxtal 875/125 của Công ty Cổ phần Dược Minh Hải, có thành phần chính là Amoxicillin trihydrat, Sulbactam natri. Thuốc có tác dụng điều trị một số bệnh nhiễm trùng.\n\nTrimoxtal 875/125 được bào chế dạng viên nén dài bao phim, đóng gói theo quy cách hộp 2 vỉ x 7 viên nén.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Trimoxtal trị các trường hợp nhiễm trùng (2 vỉ x 7 viên)",
+      "description": "Thuốc Trimoxtal Minh Hải c thành phần chính là Amoxicillin trihydrat, Sulbactam natri. Thuốc có tác dụng điều trị một số bệnh nhiễm trùng. Được bào chế dạng viên nén dài bao phim, đóng gói theo quy cách hộp 2 vỉ x 7 viên nén.",
+      "openGraph": {
+        "title": "Thuốc Trimoxtal Minh Hải điều trị nhiễm trùng vùng miệng, đường hô hấp (2 vỉ x 7 viên)",
+        "description": "Trimoxtal 875/125 của Công ty Cổ phần Dược Minh Hải, có thành phần chính là Amoxicillin trihydrat, Sulbactam natri. Thuốc có tác dụng điều trị một số bệnh nhiễm trùng.\n\nTrimoxtal 875/125 được bào chế dạng viên nén dài bao phim, đóng gói theo quy cách hộp 2 vỉ x 7 viên nén.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/trimoxtal_27634728c6.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/trimoxtal-500500-1315.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/trimoxtal-500500-1315.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

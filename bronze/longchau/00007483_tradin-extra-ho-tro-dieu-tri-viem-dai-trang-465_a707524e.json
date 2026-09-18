@@ -1,0 +1,2159 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/tradin-extra-ho-tro-dieu-tri-viem-dai-trang-465.html",
+  "ingestion_timestamp": "2026-09-05T11:28:17.958968+00:00",
+  "file_hash": "0ddc636a1ce1064e3dee00eb6cf713f9b85a0b35e6159a92242e80c905732521",
+  "lineage_hash": "861221eddf23348d20dc9038c9e5506304a60113334dbd5afdc7b18520af95b4",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/tradin-extra-ho-tro-dieu-tri-viem-dai-trang-465.html",
+    "product": {
+      "sku": "00007483",
+      "webName": "Thuốc Tradin Extra Traphaco điều trị viêm đại tràng (2 vỉ x 10 viên)",
+      "name": "TRADIN EXTRA TRAPHACO 2X10",
+      "shortName": "TRADIN EXTRA 2X10",
+      "headingText": "Thuốc Tradin Extra",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_8237_5b1e_large_c3c1af5144.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_4907_5b1e_large_8fae31a9f7.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_4259_5b1e_large_9c38b4114c.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_1582_5b1e_large_a39641a93c.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_4115_5b1e_large_d22c9dcd0b.JPG",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 736,
+          "name": "Thuốc tiêu hoá & gan mật",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 807,
+          "name": "Thuốc tiêu hoá",
+          "parentName": "Thuốc tiêu hoá & gan mật",
+          "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 45000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 2 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": 22500,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "2 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": 2250,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/tradin-extra-ho-tro-dieu-tri-viem-dai-trang-465.html",
+      "ingredient": [
+        {
+          "id": 26568,
+          "ingredientId": 12652,
+          "shortDescription": "24mg",
+          "name": "Cao Cam Thảo",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 60925,
+          "ingredientId": 42379,
+          "shortDescription": "52mg",
+          "name": "Cao hoàng liên",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 60926,
+          "ingredientId": 42380,
+          "shortDescription": "260mg",
+          "name": "Cao kha tử",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 60927,
+          "ingredientId": 42381,
+          "shortDescription": "18mg",
+          "name": "Cao bạch thược",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 60928,
+          "ingredientId": 42382,
+          "shortDescription": "250mg",
+          "name": "Bột mộc hương",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 60929,
+          "ingredientId": 42383,
+          "shortDescription": "50mg",
+          "name": "Bột bạch truật",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-24477-16",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang cứng",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Thuốc dùng đường uống.</p><h3><strong>Liều dùng</strong></h3><p><i>Người lớn</i></p><p>Uống 1 - 2 viên/lần, 2 - 3 lần/ngày.</p><p><i>Trẻ em trên 8 tuổi</i></p><p>Uống 1 viên/lần, 2 lần/ngày.</p><p><i>Thời gian sử dụng</i></p><p>Viêm đại tràng mạn tính: Mỗi đợt sử dụng kéo dài 2 tuần, có thể sử dụng củng cố 2 - 3 đợt tùy theo mức độ bệnh.</p><p>Viêm đại tràng cấp tính: Mỗi đợt sử dụng 5 ngày.</p><p>Rối loạn chức năng đại tràng: Mỗi đợt sử dụng 7 - 10 ngày.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định của thuốc.</p><p>Trường hợp sử dụng thuốc quá liều, cần tích cực theo dõi để có biện pháp xử trí kịp thời.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt ngay khi nhớ ra. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Tradin Extra</strong> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Viêm đại tràng cấp và mạn tính với các triệu chứng: Đau bụng, tiêu chảy, mót rặn, sống phân, kiết lỵ, rối loạn tiêu hóa kéo dài, ăn khó tiêu, đầy bụng, sôi bụng.</li><li>Rối loạn chức năng đại tràng.</li></ul><h3><strong>Dược lực học</strong></h3><p>Chưa có thông tin.</p><h3><strong>Dược động học</strong></h3><p>Chưa có thông tin.</p>",
+      "brand": "Traphaco",
+      "brandType": null,
+      "adverseEffect": "<p>Chưa ghi nhận được báo cáo về phản ứng có hại của thuốc.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 2 vỉ x 10 viên",
+      "indications": [
+        {
+          "id": 334,
+          "name": "Khó tiêu",
+          "slug": "benh/kho-tieu-578.html"
+        },
+        {
+          "id": 335,
+          "name": "Kiết lỵ",
+          "slug": "benh/kiet-ly-579.html"
+        },
+        {
+          "id": 612,
+          "name": "Rối loạn tiêu hóa",
+          "slug": "benh/roi-loan-tieu-hoa-210.html"
+        },
+        {
+          "id": 1036,
+          "name": "Đầy hơi",
+          "slug": "benh/day-hoi-818.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "TRAPHACO",
+      "shortDescription": "<p>Thuốc Tradin Extra là sản phẩm được sản xuất bởi <i>Công ty Cổ phần Công nghệ cao Traphaco,</i> là thuốc thuộc nhóm thuốc dạ dày tiêu hóa, có nguồn gốc hoàn toàn từ thảo dược, có tác dụng điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-dai-trang-1309.html\"><strong>viêm đại tràng</strong></a> cấp và mãn tính.</p>",
+      "description": "<p><strong>Giới thiệu thuốc Tradin Extra:</strong></p><ul><li><strong>Chỉ định: </strong>Dùng trong các trường hợp viêm đại tràng cấp và mạn tính, rối loạn chức năng đại tràng.</li><li><strong>Cách dùng:</strong> Thuốc dùng đường uống.</li><li><strong>Đối tượng sử dụng:</strong> Người lớn và trẻ em trên 8 tuổi có triệu chứng viêm đại tràng.</li><li><strong>Lưu ý khi sử dụng:</strong> Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</li><li><strong>Chống chỉ định:</strong> Mẫn cảm với bất cứ thành phần nào của thuốc, phụ nữ có thai, trẻ em dưới 8 tuổi.</li></ul>",
+      "prescription": false,
+      "ageUse": "Trên 8 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": true,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/traphaco",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "TRADIN EXTRA",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": 45000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 2 Vỉ x 10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 807,
+        "name": "Thuốc tiêu hoá",
+        "parentName": "Thuốc tiêu hoá & gan mật",
+        "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_8237_5b1e_large_c3c1af5144.JPG",
+          "alternativeText": "Thuốc Tradin Extra Traphaco điều trị viêm đại tràng (2 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_4907_5b1e_large_8fae31a9f7.JPG",
+          "alternativeText": "Thuốc Tradin Extra Traphaco điều trị viêm đại tràng (2 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_4259_5b1e_large_9c38b4114c.JPG",
+          "alternativeText": "Thuốc Tradin Extra Traphaco điều trị viêm đại tràng (2 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_1582_5b1e_large_a39641a93c.JPG",
+          "alternativeText": "Thuốc Tradin Extra Traphaco điều trị viêm đại tràng (2 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_4115_5b1e_large_d22c9dcd0b.JPG",
+          "alternativeText": "Thuốc Tradin Extra Traphaco điều trị viêm đại tràng (2 vỉ x 10 viên) 5"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 45000,
+        "itemCode": "00007483",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 45000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 22500,
+        "itemCode": "00007483",
+        "unitCode": 13,
+        "maxValue": 0,
+        "price": 22500,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 2250,
+        "itemCode": "00007483",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 2250,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiêu hoá & gan mật",
+        "slug": "/thuoc/thuoc-tieu-hoa-and-gan-mat"
+      },
+      {
+        "name": "Thuốc tiêu hoá",
+        "slug": "/thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa"
+      }
+    ],
+    "content": {
+      "sku": "00007483",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Thuốc dùng đường uống.</p><h3><strong>Liều dùng</strong></h3><p><i>Người lớn</i></p><p>Uống 1 - 2 viên/lần, 2 - 3 lần/ngày.</p><p><i>Trẻ em trên 8 tuổi</i></p><p>Uống 1 viên/lần, 2 lần/ngày.</p><p><i>Thời gian sử dụng</i></p><p>Viêm đại tràng mạn tính: Mỗi đợt sử dụng kéo dài 2 tuần, có thể sử dụng củng cố 2 - 3 đợt tùy theo mức độ bệnh.</p><p>Viêm đại tràng cấp tính: Mỗi đợt sử dụng 5 ngày.</p><p>Rối loạn chức năng đại tràng: Mỗi đợt sử dụng 7 - 10 ngày.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định của thuốc.</p><p>Trường hợp sử dụng thuốc quá liều, cần tích cực theo dõi để có biện pháp xử trí kịp thời.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt ngay khi nhớ ra. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc TRADIN Extra.</p></body></html>",
+      "adverseEffect": "<p>Chưa ghi nhận được báo cáo về phản ứng có hại của thuốc.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Nơi khô ráo, nhiệt độ không quá 30ºC, tránh ánh sáng.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Tradin Extra</strong> được chỉ định dùng trong các trường hợp sau:</p><ul><li>Viêm đại tràng cấp và mạn tính với các triệu chứng: Đau bụng, tiêu chảy, mót rặn, sống phân, kiết lỵ, rối loạn tiêu hóa kéo dài, ăn khó tiêu, đầy bụng, sôi bụng.</li><li>Rối loạn chức năng đại tràng.</li></ul><h3><strong>Dược lực học</strong></h3><p>Chưa có thông tin.</p><h3><strong>Dược động học</strong></h3><p>Chưa có thông tin.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3><strong>Chống chỉ định</strong></h3><p><strong>Thuốc Tradin Extra</strong> chống chỉ định trong các trường hợp sau:</p><p>Mẫn cảm với bất cứ thành phần nào của thuốc.</p><p>Phụ nữ có thai.</p><p>Trẻ em dưới 8 tuổi.</p><h3><strong>Thận trọng khi sử dụng</strong></h3><p>Chưa có báo cáo.</p><h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3><p>Không ảnh hưởng.</p><h3><strong>Thời kỳ mang thai&nbsp;</strong></h3><p>Không dùng cho phụ nữ có thai.</p><h3><strong>Thời kỳ cho con bú</strong></h3><p>Dùng được cho phụ nữ cho con bú.</p><h3><strong>Tương tác thuốc</strong></h3><p>Chưa có dữ liệu về tương tác thuốc.</p>",
+      "description": "<p><strong>Giới thiệu thuốc Tradin Extra:</strong></p><ul><li><strong>Chỉ định: </strong>Dùng trong các trường hợp viêm đại tràng cấp và mạn tính, rối loạn chức năng đại tràng.</li><li><strong>Cách dùng:</strong> Thuốc dùng đường uống.</li><li><strong>Đối tượng sử dụng:</strong> Người lớn và trẻ em trên 8 tuổi có triệu chứng viêm đại tràng.</li><li><strong>Lưu ý khi sử dụng:</strong> Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</li><li><strong>Chống chỉ định:</strong> Mẫn cảm với bất cứ thành phần nào của thuốc, phụ nữ có thai, trẻ em dưới 8 tuổi.</li></ul>",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Tradin Extra Traphaco điều trị viêm đại tràng (2 vỉ x 10 viên)",
+        "metaDescription": "Thuốc Tradin Extra Traphaco thuộc nhóm thuốc dạ dày tiêu hóa có nguồn gốc hoàn toàn từ thảo dược, có tác dụng điều trị viêm đại tràng cấp và mãn tính",
+        "id": 5556,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_8237_5b1e_large_c3c1af5144.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc Tradin Extra Traphaco điều trị viêm đại tràng (2 vỉ x 10 viên)",
+            "description": "Thuốc Tradin Extra là sản phẩm được sản xuất bởi Công ty Cổ phần Công nghệ cao Traphaco, là thuốc thuộc nhóm thuốc dạ dày tiêu hóa, có nguồn gốc hoàn toàn từ thảo dược, có tác dụng điều trị viêm đại tràng cấp và mãn tính."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 34178,
+        "title": "Những đối tượng nào không nên sử dụng Thuốc Tradin Extra Traphaco?",
+        "content": "<p>Thuốc Tradin Extra Traphaco chống chỉ định đối với những người mẫn cảm với bất kỳ thành phần nào của thuốc, phụ nữ có thai và trẻ em dưới 8 tuổi.</p>"
+      },
+      {
+        "id": 34177,
+        "title": "Cần làm gì khi dùng quá liều Thuốc Tradin Extra Traphaco?",
+        "content": "<p>Hiện tại chưa có dữ liệu về việc sử dụng thuốc Tradin Extra quá liều. Tuy nhiên, không nên dùng quá liều chỉ định của thuốc. Trong trường hợp sử dụng thuốc quá liều, cần theo dõi tích cực để có biện pháp xử trí kịp thời.</p>"
+      },
+      {
+        "id": 34176,
+        "title": "Thời gian sử dụng Thuốc Tradin Extra Traphaco cho từng tình trạng bệnh là bao lâu?",
+        "content": "<p>Thời gian sử dụng thuốc phụ thuộc vào tình trạng bệnh. Với viêm đại tràng mạn tính, mỗi đợt điều trị kéo dài 2 tuần và có thể lặp lại 2 - 3 đợt tùy theo mức độ bệnh. Viêm đại tràng cấp tính cần sử dụng trong 5 ngày. Rối loạn chức năng đại tràng cần sử dụng 7 - 10 ngày cho mỗi đợt.</p>"
+      },
+      {
+        "id": 34175,
+        "title": "Thành phần chính của Thuốc Tradin Extra Traphaco là gì?",
+        "content": "<p>Thuốc Tradin Extra Traphaco chứa các thành phần từ thảo dược bao gồm: Cao Cam Thảo, Cao hoàng liên, Cao kha tử, Cao bạch thược, Bột mộc hương và Bột bạch truật với hàm lượng cụ thể cho mỗi thành phần.</p>"
+      },
+      {
+        "id": 34174,
+        "title": "Tradin Extra Traphaco là gì và được chỉ định điều trị những bệnh gì?",
+        "content": "<p>Tradin Extra Traphaco là thuốc được chỉ định để điều trị các trường hợp rối loạn chức năng đại tràng với các triệu chứng như đau bụng, tiêu chảy, mót rặn, sống phân, rối loạn tiêu hóa kéo dài, ăn khó tiêu, đầy bụng, sôi bụng. Ngoài ra, thuốc còn hỗ trợ điều trị viêm đại tràng cấp và mạn tính do nhiễm khuẩn.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "A042300000189",
+        "name": "ĐẠI TRÀNG TRƯỜNG PHÚC 3X10",
+        "webName": "Thuốc Đại Tràng Trường Phúc điều trị viêm loét đại tràng, rối loạn tiêu hóa (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_0219_3cd93f1c8d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 807,
+            "name": "Thuốc tiêu hoá",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 55720,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 105000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/dai-trang-truong-phuc-3-x10.html",
+        "ingredients": "Hoàng liên 1.35g, Mộc hương 1.2g, Bạch truật 0.9g, Bạch thược 0.9g, Ngũ bội tử 0.9g, Hậu phác 0.6g, Cam thảo 0.45g, Xa tiền tử 0.45g, Hoạt thạch 0.15g",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "TRƯỜNG PHÚC",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 55720,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 105000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00053172",
+        "name": "THUỐC CAM HÀNG BẠC TÙNG LỘC 10 GÓI X 8G",
+        "webName": "Thuốc Cam hàng bạc Tùng lộc chỉ định chứng đầy bụng, không muốn ăn, ra mồ hôi trộm, suy dinh dưỡng. Trẻ em chậm lớn (10 gói x 8g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_cam_hang_bac_tung_loc_10_goi_x_8g_00053172_1_0467e8f28a.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 807,
+            "name": "Thuốc tiêu hoá",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 85261,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 135000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-cam-hang-bac-tung-loc-10-goi-x-8-g.html",
+        "ingredients": "Nhân Sâm 0.5g, Đảng Sâm 1.0g, Bạch linh 0.7g, Bạch truật 0.6g, Cam thảo 0.45g, Hoài Sơn 0.55g, Ý Dĩ 0.5g, Khiếm thực 0.3g, Liên Nhục 1.2g, Mạch Nha 0.5g, Sử quân tử 0.4g, Sơn Tra 0.5g, Thần Khúc 0.2g, Cốc Tinh Thảo 0.12g, Bạch biển đậu 0.31g, Ô tặc cốt 0.17g",
+        "dosageForm": "Thuốc bột uống",
+        "brand": "TÙNG LỘC",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 80,
+        "productRanking": 0,
+        "specification": "Hộp 10 Gói x 8g",
+        "prices": [
+          {
+            "id": 85261,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 135000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 85262,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 13500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/2583_van_de_doi_tuong_1189_628d_large_7d3c29f731.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00051091",
+        "name": "ENTEROGERMINA GUT DEFENSE 2 TỶ OPELLA 2X10 ỐNG",
+        "webName": "Hỗn dịch uống men vi sinh Enterogermina Gut Defense 2 tỷ/5ml Opella tăng cường tiêu hóa, hỗ trợ bảo vệ đường ruột (2 vỉ 10 ống)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/enterogermina_gut_defense_2_ty_2x10_ong_opella_00051091_1_ce38b37a33.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 807,
+            "name": "Thuốc tiêu hoá",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 80867,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 184000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/enterogermina-gut-defense-2-ty-opella-2-x10-ong.html",
+        "ingredients": "Bào tử kháng đa kháng sinh Bacillus clausii 2x10^9cfu",
+        "dosageForm": "Hỗn dịch uống",
+        "brand": "Opella",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 10 Ống x 5ml",
+        "prices": [
+          {
+            "id": 80867,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 184000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 80868,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 92000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 80869,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 9200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007466",
+        "name": "TRÀ GỪNG TRAPHACO 10 GÓI",
+        "webName": "Trà Gừng Traphaco điều trị đau bụng do lạnh, đầy trướng, không tiêu (10 gói x 3g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/tra_gung_traphaco_10_goi_00007466_9d5278a73b.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 807,
+            "name": "Thuốc tiêu hoá",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10896,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 14000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tra-gung-traphaco-bo-huyet-bo-can-than-891.html",
+        "ingredients": "Gừng tươi 1.6g",
+        "dosageForm": "Cốm pha dung dịch uống",
+        "brand": "Traphaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Gói x 3g",
+        "prices": [
+          {
+            "id": 10895,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": false,
+            "price": 1400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10896,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 14000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006163",
+        "name": "PRUZENA 10MG DAVI 3X10",
+        "webName": "Thuốc Pruzena Davipharm điều trị buồn nôn và nôn mửa trong thai kỳ (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/Pruzena_26697ea2df.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 807,
+            "name": "Thuốc tiêu hoá",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8918,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 3800,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pruzena-10mg-2496.html",
+        "ingredients": "Doxylamine 10mg, Pyridoxin hydroclorid 10mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Davipharm",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 8918,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 3800,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 8919,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 38000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 8920,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 114000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00005369",
+        "name": "NORMAGUT 250MG MEGA 3X10",
+        "webName": "Thuốc Normagut MEGA We care cân bằng hệ vi sinh đường ruột (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_normagut_3_vi_x_10_vien_mega_we_00005369_affcea715c.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 807,
+            "name": "Thuốc tiêu hoá",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 7679,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 210000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/normagut-250mg-2837.html",
+        "ingredients": "Saccharomyces boulardii đông khô 250mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "MEGA We care",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 7677,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 7678,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 70000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 7679,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 210000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 262,
+          "attributeName": "Thái Lan",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/th_Thailand_cdaa8c1601.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00005144",
+        "name": "NATRI BICARBONAT 500MG BIDIPHAR 160V",
+        "webName": "Thuốc Natri Bicarbonat 500mg Bidiphar điều trị nhiễm toan chuyển hóa, khó tiêu hóa, ợ nóng (160 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6672_8ee60f926b.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 807,
+            "name": "Thuốc tiêu hoá",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 7366,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 20200,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/natri-bicarbonat-500mg-2916.html",
+        "ingredients": "Natri hydrocarbonat 500mg",
+        "dosageForm": "Viên nén",
+        "brand": "Bidiphar",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 160 Viên",
+        "prices": [
+          {
+            "id": 7365,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 126,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 7366,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 20200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00002875",
+        "name": "ESPUMISAN BERLIN 30ML MENARINI",
+        "webName": "Nhũ dịch Espumisan L Menarini điều trị các triệu chứng chướng bụng, đau bụng (30ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/nhu_dich_espumisan_berlin_30ml_menarini_00002875_5_79fb80ff41.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 807,
+            "name": "Thuốc tiêu hoá",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 3841,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 63000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/espumisan-berlin-30-ml-menarini.html",
+        "ingredients": "Simethicone 40mg",
+        "dosageForm": "Nhũ tương uống nhỏ giọt",
+        "brand": "Menarini",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai X 30ml",
+        "prices": [
+          {
+            "id": 3841,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 63000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 259,
+          "attributeName": "Ý",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Y_7fc103d37f.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/2583_van_de_doi_tuong_1189_628d_large_7d3c29f731.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00002874",
+        "name": "ESPUMISAN 40MG MENARINI 2X25",
+        "webName": "Thuốc Espumisan điều trị các triệu chứng đầy hơi, chướng bụng (2 vỉ x 25 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002874_espumisan_40mg_9247_62ad_large_ee15df8760.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 807,
+            "name": "Thuốc tiêu hoá",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 3838,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 980,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/espumisan-40mg-3835.html",
+        "ingredients": "Simethicone 40mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Menarini",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 2 vỉ x 25 viên",
+        "prices": [
+          {
+            "id": 3838,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 980,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 3839,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 24500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 3840,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 49000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 259,
+          "attributeName": "Ý",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Y_7fc103d37f.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001309",
+        "name": "BIOSUBTYL DL 1G DAVAC 25 GÓI",
+        "webName": "Men tiêu hoá sống Biosubtyl DL Davac điều trị tiêu chảy, viêm đại tràng, rối loạn tiêu hoá (25 gói)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/biosubtyl_dl_1g_25_goi_davac_00001309_7a657cf03a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 807,
+            "name": "Thuốc tiêu hoá",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1350,
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": 800,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/biosubtyl-dl-1g-4492.html",
+        "ingredients": "Bacillus subtilis 30000000cfu/g, Lactobacillus acidophilus 30000000cfu/g",
+        "dosageForm": "Bột",
+        "brand": "Davac",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 25 Gói",
+        "prices": [
+          {
+            "id": 1350,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 800,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1351,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 20000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00014445",
+        "name": "CREON 25000 2X10 CAPSULES",
+        "webName": "Thuốc Creon 25000 Abbott điều trị thiểu năng tụy ngoại tiết (20 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/creon_25000_2x10_capsules_00014445_7a3097c6ac.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 807,
+            "name": "Thuốc tiêu hoá",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 17052,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 300000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/creon-25000-20capsules-15633.html",
+        "ingredients": "Pancreatin 300mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Abbott",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 20 Viên",
+        "prices": [
+          {
+            "id": 17051,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 15000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 17052,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 300000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 248,
+          "attributeName": "Hoa Kỳ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/us_United_States_of_America_usa_59e1ad3af3.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006722",
+        "name": "SIMETHICONE STELLA 15ML",
+        "webName": "Nhũ dịch uống Simethicon Stella giảm đầy hơi, khó chịu ở bụng (15ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/simethicone_70a9b854f7.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 807,
+            "name": "Thuốc tiêu hoá",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tieu-hoa",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 9799,
+          "measureUnitCode": 6,
+          "measureUnitName": "Chai",
+          "isSellDefault": true,
+          "price": 22000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/simethicon-15ml-stada-16881.html",
+        "ingredients": "Simethicon 1g",
+        "dosageForm": "Hỗn dịch uống nhỏ giọt",
+        "brand": "Stella Pharm",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Chai x 15ml",
+        "prices": [
+          {
+            "id": 9799,
+            "measureUnitCode": 6,
+            "measureUnitName": "Chai",
+            "isSellDefault": true,
+            "price": 22000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 23,
+      "items": [
+        {
+          "id": 3296739,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0982xxxxxx",
+          "name": "Đặng văn Tuyên",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuoc TradinExtra uống trước an hay uống sau an hiệu quả hơn",
+          "createdAt": "2026-04-25 11:10:51",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-25 11:10:51",
+          "replies": [
+            {
+              "id": 3296741,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Quỳnh Trâm Anh",
+                "moderatorEmail": "anhmqt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mai Quỳnh Trâm Anh",
+              "email": "anhmqt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Tuyên,</p><p>Dạ nên dùng sau ăn ạ.</p><p>Nhà thuốc thông tin tới Anh.</p>",
+              "createdAt": "2026-04-25 11:14:05",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-25 11:10:51",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3188557,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0968xxxxxx",
+          "name": "chính",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mình bị trào ngược dạ dày thực quản, có dùng được không ạ",
+          "createdAt": "2025-09-30 13:55:02",
+          "createdAtDisplay": "11 tháng trước",
+          "updatedAt": "2025-09-30 13:55:00",
+          "replies": [
+            {
+              "id": 3188563,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Khả Linh",
+                "moderatorEmail": "linhpk16@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Khả Linh",
+              "email": "linhpk16@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Chính, </p><p>Dạ sản phẩm điều trị rối loạn chức năng đại tràng với các triệu chứng: Đau bụng, tiêu chảy, mót rặn, sống phân, rối loạn tiêu hóa kéo dài, ăn khó tiêu, đầy bụng, sôi bụng, sản phẩm chưa có thông tin chống chỉ định với người bị trào ngược dạ dày, mình có thể sử dụng và theo dõi thêm ạ </p><p>Nhà thuốc thông tin đến bạn. </p><p>Thân mến!</p>",
+              "createdAt": "2025-09-30 14:12:58",
+              "createdAtDisplay": "11 tháng trước",
+              "updatedAt": "2025-09-30 13:55:00",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3172512,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0968xxxxxx",
+          "name": "Tuấn",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Giá bao tiền 1h shop",
+          "createdAt": "2025-09-01 12:18:54",
+          "createdAtDisplay": "01/09/2025",
+          "updatedAt": "2025-09-01 12:18:39",
+          "replies": [
+            {
+              "id": 3172513,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Quang Đạo",
+                "moderatorEmail": "daolq3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Quang Đạo",
+              "email": "daolq3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Tuấn</p><p>Hiện tại, sản phẩm có giá 45.000₫/ hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-09-01 12:19:28",
+              "createdAtDisplay": "01/09/2025",
+              "updatedAt": "2025-09-01 12:18:39",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3138999,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0935xxxxxx",
+          "name": "c Linh",
+          "email": "yohoovn@yahoo.com.vn",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mình bị hội chứng ruột kích thích và bị trĩ hỗn hợp, mình đang uống Qee tree thì mình có dùng thêm được Tradin extra không ạ?",
+          "createdAt": "2025-07-04 10:11:41",
+          "createdAtDisplay": "04/07/2025",
+          "updatedAt": "2025-07-04 10:11:38",
+          "replies": [
+            {
+              "id": 3139000,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Chu Thị Quỳnh",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Chu Thị Quỳnh",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Linh,</p><p>Dạ mình uống cách nhau 2 tiếng để đảm bảo hấp thu ạ.</p><p>Nhà thuốc thông tin đến chị.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-07-04 10:12:59",
+              "createdAtDisplay": "04/07/2025",
+              "updatedAt": "2025-07-04 10:11:38",
+              "replies": []
+            },
+            {
+              "id": 3139003,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0935xxxxxx",
+              "name": "c Linh",
+              "email": "yohoovn@yahoo.com.vn",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "2 thuốc này có dùng chung với Phlebodia 600mg được không e?",
+              "createdAt": "2025-07-04 10:18:10",
+              "createdAtDisplay": "04/07/2025",
+              "updatedAt": "2025-07-04 10:11:38",
+              "replies": []
+            },
+            {
+              "id": 3139007,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Chu Thị Quỳnh",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Chu Thị Quỳnh",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Linh, </p><p>Dạ hiện mình có thể dùng Phlebodia 600mg&nbsp;chung với thuốc Tradin và cách 2 tiếng uống viên uống Qee Tree&nbsp;ạ.</p><p>Nhà thuốc thông tin đến chị.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-07-04 10:22:07",
+              "createdAtDisplay": "04/07/2025",
+              "updatedAt": "2025-07-04 10:11:38",
+              "replies": []
+            },
+            {
+              "id": 3139009,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0935xxxxxx",
+              "name": "c Linh",
+              "email": "yohoovn@yahoo.com.vn",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "cảm ơn em",
+              "createdAt": "2025-07-04 10:25:31",
+              "createdAtDisplay": "04/07/2025",
+              "updatedAt": "2025-07-04 10:11:38",
+              "replies": []
+            },
+            {
+              "id": 3139011,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Chu Thị Quỳnh",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Chu Thị Quỳnh",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Linh, </p><p>Dạ rất cảm ơn tình cảm của chị dành cho nhà thuốc FPT Long châu. Bất cứ khi nào chị cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.Thân mến!</p>",
+              "createdAt": "2025-07-04 10:26:10",
+              "createdAtDisplay": "04/07/2025",
+              "updatedAt": "2025-07-04 10:11:38",
+              "replies": []
+            }
+          ],
+          "totalReplies": 5
+        },
+        {
+          "id": 3121306,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0373xxxxxx",
+          "name": "An",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "đại tràng co thắt uống đc không ạ",
+          "createdAt": "2025-06-05 08:59:03",
+          "createdAtDisplay": "05/06/2025",
+          "updatedAt": "2025-06-05 08:59:02",
+          "replies": [
+            {
+              "id": 3121314,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Chu Thị Quỳnh",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Chu Thị Quỳnh",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn An, </p><p>Dạ Thuốc Tradin Extra&nbsp;là thuốc thuộc nhóm thuốc dạ dày tiêu hóa có nguồn gốc hoàn toàn từ thảo dược, có tác dụng điều trị viêm đại tràng, cấp và mãn tính, tình trạng của mình có thể sử dụng ạ.</p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-06-05 09:02:47",
+              "createdAtDisplay": "05/06/2025",
+              "updatedAt": "2025-06-05 08:59:02",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 3,
+      "items": [
+        {
+          "id": 3243370,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0913xxxxxx",
+          "name": "Mai Thị Bích Phượng",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Cho c hỏi: Tradin Extra Traphaco uống trước ăn hay sau ăn (nếu trước ăn thì trước ăn bao nhiêu phút) (nếu sau ăn thì sau ăn bao nhiêu phút). C cảm ơn.",
+          "createdAt": "2026-01-10 15:44:14",
+          "createdAtDisplay": "7 tháng trước",
+          "updatedAt": "2026-01-10 15:44:14",
+          "replies": [
+            {
+              "id": 3243372,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Huệ",
+                "moderatorEmail": "huent39@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Huệ",
+              "email": "huent39@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Phượng,</p><p>Dạ sản phẩm thường uống&nbsp;sau bữa ăn 30 phút ạ.</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-01-10 15:47:46",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-01-10 15:44:14",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 700204,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0975xxxxxx",
+          "name": "anh Hùng",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc tốt. tôi dùng thấy hợp hơn Tràng Phục Linh",
+          "createdAt": "2024-02-04 12:23:50",
+          "createdAtDisplay": "04/02/2024",
+          "updatedAt": "2024-02-04 12:24:27",
+          "replies": [
+            {
+              "id": 700208,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Đoàn Anh Thư",
+                "moderatorEmail": "Thumda@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Mai Đoàn Anh Thư",
+              "email": "Thumda@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào anh Hùng,</span><br><span> Dạ rất cảm ơn tình cảm của anh dành cho nhà thuốc FPT Long châu. Bất cứ khi nào anh cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.  </span><br><span>Thân mến!</span><br></p>",
+              "createdAt": "2024-02-04 12:24:27",
+              "createdAtDisplay": "04/02/2024",
+              "updatedAt": "2024-02-04 12:24:27",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 649974,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0383xxxxxx",
+          "name": "cô luyen ",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2024-01-27 09:07:14",
+          "createdAtDisplay": "27/01/2024",
+          "updatedAt": "2024-01-27 09:07:52",
+          "replies": [
+            {
+              "id": 649979,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Cao Thị Ngọc Nhi",
+                "moderatorEmail": "Nhictn2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Cao Thị Ngọc Nhi",
+              "email": "Nhictn2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào Cô Luyen,</span><br><span>Dạ rất cảm ơn tình cảm của cô dành cho nhà thuốc FPT Long châu. Bất cứ khi nào cô cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.  </span><br><span>Thân mến!</span><br></p>",
+              "createdAt": "2024-01-27 09:07:52",
+              "createdAtDisplay": "27/01/2024",
+              "updatedAt": "2024-01-27 09:07:52",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 3
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Tradin Extra Traphaco điều trị viêm đại tràng (2 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_8237_5b1e_large_c3c1af5144.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_4907_5b1e_large_8fae31a9f7.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_4259_5b1e_large_9c38b4114c.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_1582_5b1e_large_a39641a93c.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_4115_5b1e_large_d22c9dcd0b.JPG",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Tradin Extra là sản phẩm được sản xuất bởi Công ty Cổ phần Công nghệ cao Traphaco, là thuốc thuộc nhóm thuốc dạ dày tiêu hóa, có nguồn gốc hoàn toàn từ thảo dược, có tác dụng điều trị viêm đại tràng cấp và mãn tính.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "3"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/tradin-extra-ho-tro-dieu-tri-viem-dai-trang-465.html",
+        "priceCurrency": "VND",
+        "price": 45000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Thuốc Tradin Extra Traphaco điều trị viêm đại tràng (2 vỉ x 10 viên)",
+      "description": "Thuốc Tradin Extra Traphaco thuộc nhóm thuốc dạ dày tiêu hóa có nguồn gốc hoàn toàn từ thảo dược, có tác dụng điều trị viêm đại tràng cấp và mãn tính",
+      "openGraph": {
+        "title": "Thuốc Tradin Extra Traphaco điều trị viêm đại tràng (2 vỉ x 10 viên)",
+        "description": "Thuốc Tradin Extra là sản phẩm được sản xuất bởi Công ty Cổ phần Công nghệ cao Traphaco, là thuốc thuộc nhóm thuốc dạ dày tiêu hóa, có nguồn gốc hoàn toàn từ thảo dược, có tác dụng điều trị viêm đại tràng cấp và mãn tính.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007483_tradin_extra_ho_tro_dieu_tri_viem_dai_trang_8237_5b1e_large_c3c1af5144.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/tradin-extra-ho-tro-dieu-tri-viem-dai-trang-465.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/tradin-extra-ho-tro-dieu-tri-viem-dai-trang-465.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

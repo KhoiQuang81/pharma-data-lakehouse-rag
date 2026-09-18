@@ -1,0 +1,1988 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/antacil-4712.html",
+  "ingestion_timestamp": "2026-09-05T08:29:10.208040+00:00",
+  "file_hash": "544d8e22ed96355b26714eeb9dc591343c73dd812e63e669f71e7865c2e929a0",
+  "lineage_hash": "56801f8a7412cbd3d4aa521a561380d4bc4f343d9d13220039d711a1df5750f0",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/antacil-4712.html",
+    "product": {
+      "sku": "00000790",
+      "webName": "Thuốc Antacil 250mg Thai Nakorn Patana điều trị bệnh loét dạ dày, tá tràng (25 vỉ x 10 viên)",
+      "name": "ANTACIL NAKORN 25X10",
+      "shortName": "ANTACIL NAKORN 25X10",
+      "headingText": "Thuốc Antacil 250mg",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/antacil_25x10_nakorn_00000790_59df3f88e9.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_4251_6423_large_1faa2c0c86.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_7280_6423_large_d16631fbd7.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_6224_6423_large_2c487cb79b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_4206_6423_large_fd4ea5b2f2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_6165_6423_large_25a2c542e8.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_5724_6423_large_140aade116.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_3791_6423_large_7b7726ffdc.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_4646_6423_large_15423dd24e.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_4462_6423_large_085ae24258.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_1680055338_1b86ae676a.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 736,
+          "name": "Thuốc tiêu hoá & gan mật",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 804,
+          "name": "Thuốc dạ dày",
+          "parentName": "Thuốc tiêu hoá & gan mật",
+          "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 160000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 25 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": 6400,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "25 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 640,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/antacil-4712.html",
+      "ingredient": [
+        {
+          "id": 34197,
+          "ingredientId": 26372,
+          "shortDescription": "350mg",
+          "name": "Magnesium Trisilicate",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 34198,
+          "ingredientId": 24439,
+          "shortDescription": "50mg",
+          "name": "Kaolin",
+          "isPrimary": false,
+          "slug": "thanh-phan/kaolin"
+        },
+        {
+          "id": 34199,
+          "ingredientId": 8619,
+          "shortDescription": "250mg",
+          "name": "Aluminum hydroxide",
+          "isPrimary": false,
+          "slug": "thanh-phan/aluminum-hydroxide"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893100106724",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Nhai kỹ viên thuốc trước khi nuốt với một ít nước. Uống sau mỗi bữa ăn 1 - 2 giờ và trước khi đi ngủ.</p><h3><strong>Liều dùng</strong></h3><p><strong>Người lớn</strong></p><p>Uống mỗi lần 1 - 2 viên, nhai kĩ trước khi nuốt với một ít nước, ngày uống 3 - 4 lần sau mỗi bữa ăn 1 - 2 giờ và trước khi đi ngủ hoặc theo hướng dẫn của thầy thuốc.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p><i>Quá liều</i></p><p>Gây tiêu chảy do tác dụng của muối magnesi hòa tan trên đường ruột.</p><p><i>Xử trí</i></p><p>Dừng thuốc, hỏi ý kiến bác sĩ.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/antacil-4712.html\">Thuốc Antacil</a> có tác dụng kháng acid và bao phủ vết loét, được dùng trong điều trị bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/loet-da-day-ta-trang-580.html\">loét dạ dày</a>, tá tràng, giảm chứng <a href=\"https://nhathuoclongchau.com.vn/benh/o-chua-200.html\">ợ chua</a>, đầy hơi <a href=\"https://nhathuoclongchau.com.vn/benh/kho-tieu-578.html\">khó tiêu</a> do bệnh viêm loét dạ dày dư acid.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Về phương diện sinh lý, Magnesium là một cation có nhiều trong nội bào. Magnesium làm giảm tính kích thích của neurone và sự dẫn truyền neurone-cơ. Magnesium tham gia vào nhiều phản ứng men.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Không hấp thu qua đường tiêu hoá.</p>\n\n<p><em>Chuyển hoá</em></p>\n\n<p>Thuốc không chuyển hoá trong cơ thể.</p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Thuốc thải trừ chủ yếu qua nước tiểu.</p>",
+      "brand": "Thai Nakorn Patana",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Antacil bạn có thể gặp các tác dụng không mong muốn (ADR) như:</p>\n\n<p>Gây <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a> hay tiêu chảy do tác dụng trên nhu động ruột của ion Nhôm và Magnesi.</p>\n\n<p>Gây dư thừa acid do làm tăng tiết acid hay dịch trong dạ dày.</p>\n\n<p>Hầu hết các tác dụng phụ chỉ xảy ra khi dùng thuốc trong thời gian dài.</p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 25 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "Nakorn",
+      "shortDescription": "<p>Antacil của Công ty TNHH Thai Nakorn Patana (Thái Lan) nhượng quyền cho Công ty TNHH Thai Nakorn Patana (Việt Nam) sản xuất. Thuốc có thành phần chính là gel khô Nhôm hydroxyd và Magnesi trisilicat. Đây là thuốc kháng acid và bao phủ vết loét, được dùng trong điều trị bệnh loét dạ dày, tá tràng, giảm chứng ợ chua, đầy hơi khó tiêu do bệnh viêm loét dạ dày dư acid.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Suy gan thận"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/thai-nakorn-patana",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "ANTACIL",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "60 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": 640,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 804,
+        "name": "Thuốc dạ dày",
+        "parentName": "Thuốc tiêu hoá & gan mật",
+        "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/antacil_25x10_nakorn_00000790_59df3f88e9.png",
+          "alternativeText": "Thuốc Antacil 250mg Thai Nakorn Patana điều trị bệnh loét dạ dày, tá tràng (25 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_4251_6423_large_1faa2c0c86.jpg",
+          "alternativeText": "Thuốc Antacil 250mg Thai Nakorn Patana điều trị bệnh loét dạ dày, tá tràng (25 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_7280_6423_large_d16631fbd7.jpg",
+          "alternativeText": "Thuốc Antacil 250mg Thai Nakorn Patana điều trị bệnh loét dạ dày, tá tràng (25 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_6224_6423_large_2c487cb79b.jpg",
+          "alternativeText": "Thuốc Antacil 250mg Thai Nakorn Patana điều trị bệnh loét dạ dày, tá tràng (25 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_4206_6423_large_fd4ea5b2f2.jpg",
+          "alternativeText": "Thuốc Antacil 250mg Thai Nakorn Patana điều trị bệnh loét dạ dày, tá tràng (25 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_6165_6423_large_25a2c542e8.jpg",
+          "alternativeText": "Thuốc Antacil 250mg Thai Nakorn Patana điều trị bệnh loét dạ dày, tá tràng (25 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_5724_6423_large_140aade116.jpg",
+          "alternativeText": "Thuốc Antacil 250mg Thai Nakorn Patana điều trị bệnh loét dạ dày, tá tràng (25 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_3791_6423_large_7b7726ffdc.jpg",
+          "alternativeText": "Thuốc Antacil 250mg Thai Nakorn Patana điều trị bệnh loét dạ dày, tá tràng (25 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_4646_6423_large_15423dd24e.jpg",
+          "alternativeText": "Thuốc Antacil 250mg Thai Nakorn Patana điều trị bệnh loét dạ dày, tá tràng (25 vỉ x 10 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_4462_6423_large_085ae24258.jpg",
+          "alternativeText": "Thuốc Antacil 250mg Thai Nakorn Patana điều trị bệnh loét dạ dày, tá tràng (25 vỉ x 10 viên) 10"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_1680055338_1b86ae676a.jpg",
+          "alternativeText": "Thuốc Antacil 250mg Thai Nakorn Patana điều trị bệnh loét dạ dày, tá tràng (25 vỉ x 10 viên) 11"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 160000,
+        "itemCode": "00000790",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 160000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 6400,
+        "itemCode": "00000790",
+        "unitCode": 13,
+        "maxValue": 0,
+        "price": 6400,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 640,
+        "itemCode": "00000790",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 640,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiêu hoá & gan mật",
+        "slug": "/thuoc/thuoc-tieu-hoa-and-gan-mat"
+      },
+      {
+        "name": "Thuốc dạ dày",
+        "slug": "/thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day"
+      }
+    ],
+    "content": {
+      "sku": "00000790",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Nhai kỹ viên thuốc trước khi nuốt với một ít nước. Uống sau mỗi bữa ăn 1 - 2 giờ và trước khi đi ngủ.</p><h3><strong>Liều dùng</strong></h3><p><strong>Người lớn</strong></p><p>Uống mỗi lần 1 - 2 viên, nhai kĩ trước khi nuốt với một ít nước, ngày uống 3 - 4 lần sau mỗi bữa ăn 1 - 2 giờ và trước khi đi ngủ hoặc theo hướng dẫn của thầy thuốc.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p><i>Quá liều</i></p><p>Gây tiêu chảy do tác dụng của muối magnesi hòa tan trên đường ruột.</p><p><i>Xử trí</i></p><p>Dừng thuốc, hỏi ý kiến bác sĩ.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<p>https://drugbank.vn/thuoc/Antacil&amp;VD-20399-13</p>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Antacil bạn có thể gặp các tác dụng không mong muốn (ADR) như:</p>\n\n<p>Gây <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a> hay tiêu chảy do tác dụng trên nhu động ruột của ion Nhôm và Magnesi.</p>\n\n<p>Gây dư thừa acid do làm tăng tiết acid hay dịch trong dạ dày.</p>\n\n<p>Hầu hết các tác dụng phụ chỉ xảy ra khi dùng thuốc trong thời gian dài.</p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p>\n\n<p>Để xa tầm tay trẻ em.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/antacil-4712.html\">Thuốc Antacil</a> có tác dụng kháng acid và bao phủ vết loét, được dùng trong điều trị bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/loet-da-day-ta-trang-580.html\">loét dạ dày</a>, tá tràng, giảm chứng <a href=\"https://nhathuoclongchau.com.vn/benh/o-chua-200.html\">ợ chua</a>, đầy hơi <a href=\"https://nhathuoclongchau.com.vn/benh/kho-tieu-578.html\">khó tiêu</a> do bệnh viêm loét dạ dày dư acid.</p>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Về phương diện sinh lý, Magnesium là một cation có nhiều trong nội bào. Magnesium làm giảm tính kích thích của neurone và sự dẫn truyền neurone-cơ. Magnesium tham gia vào nhiều phản ứng men.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Không hấp thu qua đường tiêu hoá.</p>\n\n<p><em>Chuyển hoá</em></p>\n\n<p>Thuốc không chuyển hoá trong cơ thể.</p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Thuốc thải trừ chủ yếu qua nước tiểu.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3><strong>Chống chỉ định</strong></h3><p>Không dùng thuốc Antacil cho bệnh nhân suy thận.&nbsp;</p><h3><strong>Thận trọng khi sử dụng</strong></h3><p>Các chất kháng acid có thể gây ra “hồi ứng acid” tức là có thể làm tăng tiết acid hay dịch trong dạ dày. Tuy nhiên, hiệu ứng này ít biểu hiện trên lâm sàng, vì nó có thể được bù bởi các hệ đệm trong thuốc kháng acid.</p><p>Giảm phosphat huyết: Dùng lâu dài Nhôm hydroxyd có thể gây ra chứng giảm phosphat huyết ở bệnh nhân có nồng độ phosphat huyết bình thường khi lượng phosphat hấp thu không đủ. Trong những trường hợp nặng hơn, chứng giảm phosphat huyết có thể dẫn đến chứng chán ăn, phiền muộn, yếu cơ và xốp xương.</p><p>Đối với bệnh nhân suy giảm chức năng thận: Phải đặc biệt chú ý khi dùng &gt;50mEq magnesi mỗi ngày cho bệnh nhân suy thận. Do giảm thải ion Magnesi nên có thể gây tăng magnesi huyết và gây độc. Khoảng từ 5% đến 20% muối magnesi có thể được hấp thu bằng đường uống.</p><p>Xuất huyết đường tiêu hoá: Sử dụng Nhôm hydroxyd phải thận trọng với bệnh nhân bị xuất huyết nhiều ở đường tiêu hoá trên.</p><p>Dùng lâu dài Nhôm hydroxyd ở bệnh nhân suy thận có thể dẫn đến xốp xương hoặc làm trầm trọng chứng xốp xương. Nồng độ nhôm ở mức cao trong mô làm phát triển các bệnh não và các triệu chứng xốp xương. Một lượng nhỏ nhôm được hấp thụ qua đường tiêu hoá và thải trừ qua thận gây hại thận.</p><p>Nhôm kết hợp với albumin và được chuyển đi mà không qua màng thẩm tích, do vậy, nhôm bị tích tụ trong xương và chứng xốp xương có thể nặng thêm khi bệnh nhân suy giảm chức năng thận dùng một lượng lớn nhôm.</p><h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3><p>Thuốc hầu như không ảnh hưởng đến khả năng lái xe và vận hành máy móc.</p><h3><strong>Thời kỳ mang thai</strong></h3><p>Phụ nữ có thai nên hỏi ý kiến của thầy thuốc trước khi sử dụng thuốc kháng acid.&nbsp;</p><h3><strong>Thời kỳ cho con bú</strong></h3><p>Đối với phụ nữ cho con bú, các tác hại chưa được chứng minh mặc dù nhôm, calci và magnesi có thể được tiết ra trong sữa, nồng độ không đủ lớn để gây ảnh hưởng đến trẻ sơ sinh.</p><h3><strong>Tương tác thuốc</strong></h3><p>Thuốc kháng acid làm tăng pH dạ dày, làm thay đổi sự tan rã, sự hoà tan, sự ion hóa của một số thuốc và thay đổi thời gian làm rỗng dạ dày. Làm giảm sự hấp thu các thuốc có tính acid yếu, có thể dẫn đến làm giảm hiệu quả của thuốc (Ví dụ: <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/digoxin\"><strong>Digoxin</strong></a>, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/phenytoin\"><strong>Phenytoin</strong></a>, Chlorpromazin, Izoniazid). Làm tăng sự hấp thu các thuốc có tính bazơ yếu, có thể gây độc tính hay phản ứng có hại (Ví dụ: Pseudoephedrin, Levodopa).</p><p>Thuốc kháng acid hấp phụ hay kết hợp với các thuốc khác trên bề mặt làm giảm sinh khả dụng của các thuốc này (ví dụ Tetracyclin). Magnesi trisilicat và Magnesi hydroxyd có khả năng hấp phụ rất cao, calci carbonat và nhôm hydroxyd có khả năng hấp phụ trung bình.</p><p>Thuốc kháng acid làm tăng pH nước tiểu, làm ảnh hưởng đến mức độ bài tiết các thuốc, làm ức chế sự bài tiết của thuốc có tính bazơ (Ví dụ: Quinidin, Amphetamin) và làm tăng cường sự bài tiết của thuốc có tính acid (Ví dụ: Salicylat).</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Nguyễn Mỹ Huyền",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Dược sĩ Đại học có nhiều năm kinh nghiệm trong việc tư vấn Dược phẩm và hỗ trợ giải đáp thắc mắc về Bệnh học. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-nguyen-my-huyen",
+        "isLegit": true,
+        "id": 6,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/ds_my_huyen_780f9bef46.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Antacil Nakorn: Điều trị triệu chứng đau viêm loét dạ dày – tá tràng",
+        "metaDescription": "Antacil là thuốc kháng acid và bao phủ vết loét, được dùng trong điều trị bệnh loét dạ dày, tá tràng, giảm chứng ợ chua, đầy hơi khó tiêu do bệnh viêm loét dạ dày dư acid.",
+        "id": 1670,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/antacil_25x10_nakorn_00000790_59df3f88e9.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Antacil 250mg Thai Nakorn Patana điều trị bệnh loét dạ dày, tá tràng (25 vỉ x 10 viên)",
+            "description": "Antacil của Công ty TNHH Thai Nakorn Patana (Thái Lan) nhượng quyền cho Công ty TNHH Thai Nakorn Patana (Việt Nam) sản xuất. Thuốc có thành phần chính là gel khô Nhôm hydroxyd và Magnesi trisilicat. Đây là thuốc kháng acid và bao phủ vết loét, được dùng trong điều trị bệnh loét dạ dày, tá tràng, giảm chứng ợ chua, đầy hơi khó tiêu do bệnh viêm loét dạ dày dư acid."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 36093,
+        "title": "Cách dùng thuốc Antacil như thế nào?",
+        "content": "<ul><li>Dạng dùng: Viên nhai.</li><li>Cách dùng: Nhai kỹ viên thuốc trước khi nuốt, uống với một ít nước.</li><li>Thời điểm dùng: Sau bữa ăn 1 - 2 giờ và trước khi đi ngủ.</li></ul>"
+      },
+      {
+        "id": 36095,
+        "title": "Có tương tác thuốc nào cần lưu ý khi dùng Antacil?",
+        "content": "<p>Antacil có thể làm giảm hấp thu hoặc hiệu quả của các thuốc như:</p><ul><li>Digoxin, Phenytoin, Tetracyclin, Levodopa.</li><li>Nên uống cách xa các thuốc khác ít nhất 2 giờ để tránh tương tác.</li></ul>"
+      },
+      {
+        "id": 36096,
+        "title": "Liều dùng thuốc Antacil ra sao?",
+        "content": "<p>Người lớn dùng 1 - 2 viên/lần, 3 - 4 lần/ngày. Tuy nhiên, liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>"
+      },
+      {
+        "id": 36094,
+        "title": "Thuốc Antacil có gây tác dụng phụ không?",
+        "content": "<p>Một số tác dụng không mong muốn có thể gặp:</p><ul><li>Tiêu chảy hoặc táo bón do ảnh hưởng của Magnesi và Nhôm.</li><li>Tăng tiết acid nếu dùng lâu dài.</li><li>Giảm phosphat huyết, nguy cơ yếu cơ, xốp xương nếu dùng kéo dài.</li></ul>"
+      },
+      {
+        "id": 36097,
+        "title": "Thuốc Antacil dùng trong những trường hợp nào?",
+        "content": "<p>Thuốc Antacil có tác dụng kháng acid và bao phủ vết loét, được dùng trong điều trị bệnh loét dạ dày, tá tràng, giảm chứng ợ chua, đầy hơi khó tiêu do bệnh viêm loét dạ dày dư acid.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00041178",
+        "name": "SIMEGAZ PLUS OPV 20 GÓI X 10ML MÙI BẠC HÀ",
+        "webName": "Hỗn dịch uống Simegaz Plus OPV vị bạc hà, điều trị viêm loét dạ dày , tăng acid dạ dày (20 gói x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/hon_hop_dich_uong_simegaz_plus_opv_20_goi_x_10ml_mui_bac_ha_00041178_6c67d36d63.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 804,
+            "name": "Thuốc dạ dày",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 62208,
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": 4000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/simegaz-plus-opv-20-goi-x-10-ml-mui-bac-ha-1.html",
+        "ingredients": "Nhôm hydroxyd 0.61g, Magnesi hydroxyd 0.8g, Simethicone 0.08g",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Opv",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 20 Gói X 10ml",
+        "prices": [
+          {
+            "id": 62207,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 80000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 62208,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 4000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00016534",
+        "name": "GAVISCON DUAL ACTION 24 GÓI X 10ML",
+        "webName": "Hỗn dịch Gaviscon Dual Action Reckitt Benckiser điều trị trào ngược dạ dày, thực quản (24 gói x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00016534_gaviscon_dual_action_24_goi_x_10ml_9446_63ab_large_cea99ca16b.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 804,
+            "name": "Thuốc dạ dày",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 19999,
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": 10000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/gaviscon-dual-action-24-goi-x-10ml-17619.html",
+        "ingredients": "Alginic acid 500mg, Sodium bicarbonate 213mg, Calcium Carbonate 325mg",
+        "dosageForm": "Hỗn dịch uống",
+        "brand": "Reckitt Benckiser",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 24 Gói X 10ml",
+        "prices": [
+          {
+            "id": 19999,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 10000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 20000,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 240000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 260,
+          "attributeName": "Anh",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/gb_United_Kingdom_uk_6de6aae5ef.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001846",
+        "name": "CHOLAPAN OPC 5X10",
+        "webName": "Viên mật nghệ Cholapan OPC điều trị các chứng gan đau, mật kém, đau dạ dày (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/cholapan_hop_vi_18ecf2b5b3.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 804,
+            "name": "Thuốc dạ dày",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 2215,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 49000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cholapan-18080.html",
+        "ingredients": "Mật heo 60mg, Trần bì 139mg, Nghệ 540.35mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 100,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 2213,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 980,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 2214,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 9800,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 2215,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 49000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009877",
+        "name": "FUDOPHOS 1000MG PHƯƠNG ĐÔNG 30 GÓI",
+        "webName": "Hỗn dịch uống Fudophos Phương Đông điều trị loét dạ dày tá tràng (30 gói x 5g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00009877_fudophos_1g_30_goi_2635_2618_large_897abd3dac.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 804,
+            "name": "Thuốc dạ dày",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 13252,
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": 3900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/fudophos-1000-mg-phuong-dong-30-goi.html",
+        "ingredients": "Sucralfate 1000mg",
+        "dosageForm": "Hỗn dịch uống",
+        "brand": "Phương Đông",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 30 Gói x 5g",
+        "prices": [
+          {
+            "id": 13253,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 117000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 13252,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 3900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00008182",
+        "name": "YUMANGEL 1G 20 GÓI",
+        "webName": "Hỗn dịch uống Yumangel Yuhan kháng acid và cải thiện loét dạ dày - tá tràng (20 gói x 15ml) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/hon_hop_dich_uong_yumangel_1g_20_goi_00008182_229279fc21.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 804,
+            "name": "Thuốc dạ dày",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12014,
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": 5250,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-yumangel-yuhan-cai-thien-loet-da-day-loet-ta-trang-hop-20-goi-1706.html",
+        "ingredients": "Almagate 1g",
+        "dosageForm": "Hỗn dịch",
+        "brand": "Yuhan",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 20 Gói x 15ml",
+        "prices": [
+          {
+            "id": 12014,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 5250,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12015,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 105000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 257,
+          "attributeName": "Hàn Quốc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Han_Quoc_760f524a89.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007777",
+        "name": "VAROGEL SHINPOONG 20 GÓI X 10ML",
+        "webName": "Hỗn dịch uống Varogel Shinpoong Deawoo điều trị viêm loét dạ dày, tá tràng (20 gói x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/varogel_shinpoong_20_goi_x_10ml_00007777_fa1ba525bd.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 804,
+            "name": "Thuốc dạ dày",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11395,
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": 2800,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/varogel-1837.html",
+        "ingredients": "Aluminum hydroxide 400mg, Magnesium oxide 800.4mg, Simethicone 80mg",
+        "dosageForm": "Hỗn dịch uống",
+        "brand": "Shinpoong Daewoo",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 20 Gói x 10ml",
+        "prices": [
+          {
+            "id": 11395,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 2800,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11396,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 56000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 257,
+          "attributeName": "Hàn Quốc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Han_Quoc_760f524a89.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00005924",
+        "name": "PHOSPHALUGEL PHARMATIS 26 GÓI",
+        "webName": "Hỗn dịch uống Phosphalugel Sanofi giảm độ axit của dạ dày (26 gói x 20g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/hon_dich_uong_phosphalugel_26_goi_x_20g_sanofi_00005924_510123ad08.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 804,
+            "name": "Thuốc dạ dày",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8536,
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": 4692,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/phosphalugel-2611.html",
+        "ingredients": "Aluminium phosphate 20%",
+        "dosageForm": "Hỗn dịch uống",
+        "brand": "Sanofi",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 26 Gói x 20g",
+        "prices": [
+          {
+            "id": 8537,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 122000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 8536,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 4692,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00004218",
+        "name": "KONIMAG 2.5G  30 GÓI 7ML",
+        "webName": "Hỗn dịch uống Konimag PT Konimex giảm buồn nôn, khó tiêu, loét đường tiêu hóa (30 gói x 7ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/hon_dich_uong_konimag_30_goi_x_7ml_pt_konimex_00004218_9a7c5a123f.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 804,
+            "name": "Thuốc dạ dày",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 5844,
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": 2100,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/konimag-25g-3324.html",
+        "ingredients": "Aluminum hydroxide, dried 300mg, Magnesium ion 300mg, Simethicone 25mg",
+        "dosageForm": "Hỗn dịch uống",
+        "brand": "PT Konimex",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 30 Gói x 7ml",
+        "prices": [
+          {
+            "id": 5844,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 2100,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 5845,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 63000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 247,
+          "attributeName": "Indonesia",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/id_Indonesia_45a243430f.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00003280",
+        "name": "GAVISCON 24 GÓI X 10ML",
+        "webName": "Hỗn dịch Gaviscon Reckitt Benckiser điều trị trào ngược dạ dày, thực quản (24 gói x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/hon_dich_gaviscon_24_goi_x_10ml_reckitt_benckiser_00003280_c6840d4a39.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 804,
+            "name": "Thuốc dạ dày",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 4459,
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": 8000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/gaviscon-927-3656.html",
+        "ingredients": "alginate 500mg, natri bicarbonate 267mg, Calci carbonat 160mg",
+        "dosageForm": "Hỗn dịch",
+        "brand": "Reckitt Benckiser",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 24 Gói X 10ml",
+        "prices": [
+          {
+            "id": 4460,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 192000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 4459,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 8000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 260,
+          "attributeName": "Anh",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/gb_United_Kingdom_uk_6de6aae5ef.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00015195",
+        "name": "YUMANGEL F 20 GÓI YUHAN",
+        "webName": "Hỗn dịch uống Yumangel F Yuhan kháng acid và cả thiện loét dạ dày - tá tràng (20 gói x 15ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/yumangel_f_20_goi_yuhan_00015195_7747ba08af.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 804,
+            "name": "Thuốc dạ dày",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 18408,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 126000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/yumangel-f-20-goi-yuhan-15001.html",
+        "ingredients": "Almagate 1.5g",
+        "dosageForm": "Hỗn dịch",
+        "brand": "Yuhan",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 20 gói X 15ml",
+        "prices": [
+          {
+            "id": 18408,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 126000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 18407,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 6300,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 257,
+          "attributeName": "Hàn Quốc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Han_Quoc_760f524a89.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00002183",
+        "name": "ĐẠI TRÀNG HOÀN PH 10 GÓI",
+        "webName": "Thuốc Đại Tràng Hoàn-P/H điều trị viêm đại tràng cấp và mãn tính (10 gói x 4g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2138_a0c86034af.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 804,
+            "name": "Thuốc dạ dày",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 2765,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 47000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/dai-trang-hoan-ph-18068.html",
+        "ingredients": "Hoàng liên 0.54 , Hoài Sơn 0.42 , Hoàng đằng 0.40 , Mộc hương 0.35 , Bạch linh 0.35 , Sa nhân 0.35 , Bạch thược 0.35 , Đảng Sâm 0.22 , Trần bì 0.25 , Mật ong 4 ",
+        "dosageForm": "Viên nang cứng",
+        "brand": "PH",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Gói X 4g",
+        "prices": [
+          {
+            "id": 2765,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 47000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 2764,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": false,
+            "price": 4700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00029074",
+        "name": "A.T SUCRALFATE 1000MG 20 GÓI X 5G",
+        "webName": "Hỗn dịch uống A.T Sucralfate 1000mg An Thiên điều trị loét dạ dày tá tràng (20 gói x 5g)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/a_t_sucralfate_1000mg_20_goi_x_5g_an_thien_00029074_df101aa85f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 804,
+            "name": "Thuốc dạ dày",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-da-day",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37162,
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": true,
+          "price": 2475,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/sucralfate-1000mg-an-thien-20-goi-x-5g-huong-dau-29339.html",
+        "ingredients": "Sucralfate 1g",
+        "dosageForm": "Hỗn dịch uống",
+        "brand": "An Thiên",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 20 Gói x 5g",
+        "prices": [
+          {
+            "id": 37163,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 49500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 37162,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": true,
+            "price": 2475,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 29,
+      "items": [
+        {
+          "id": 3361232,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0944xxxxxx",
+          "name": "chị hạnh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "có vị gì vậy b? bị đau dạ dày, nóng, buồn ói/ ói dùng bao lâu ?",
+          "createdAt": "2026-08-20 21:56:23",
+          "createdAtDisplay": "15 ngày trước",
+          "updatedAt": "2026-08-20 21:56:24",
+          "replies": [
+            {
+              "id": 3361234,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Lan Phượng",
+                "moderatorEmail": "phuonghl4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Lan Phượng",
+              "email": "phuonghl4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hạnh,</p><p>Thuốc có vị dễ dùng, không đắng.</p><p>Uống mỗi lần 1 - 2 viên, nhai kĩ trước khi nuốt với một ít nước, ngày uống 3 - 4 lần sau mỗi bữa ăn 1 - 2 giờ và trước khi đi ngủ&nbsp;</p><p>Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế ạ.</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-08-20 21:59:56",
+              "createdAtDisplay": "15 ngày trước",
+              "updatedAt": "2026-08-20 21:56:24",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3219699,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0839xxxxxx",
+          "name": "Chị Linh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "phụ nữ có thai dùng antacil được không ạ",
+          "createdAt": "2025-11-25 18:16:21",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-25 18:16:21",
+          "replies": [
+            {
+              "id": 3219700,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ánh",
+                "moderatorEmail": "anhnth44@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ánh",
+              "email": "anhnth44@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào <strong>Chị Linh</strong>,</p><p>Dạ sản phẩm chưa có thông tin dùng được cho bà bầu, chị tham khảo ý kiến bác sĩ trước khi dùng ạ.</p><p>Nhà thuốc thông tin đến chị ạ.</p><p><br></p>",
+              "createdAt": "2025-11-25 18:18:31",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-25 18:16:21",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3165851,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0967xxxxxx",
+          "name": "Võ huỳnh trọng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Xin giá antacil",
+          "createdAt": "2025-08-19 17:22:41",
+          "createdAtDisplay": "19/08/2025",
+          "updatedAt": "2025-08-19 17:22:33",
+          "replies": [
+            {
+              "id": 3165853,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thuỳ Linh",
+                "moderatorEmail": "linhntt77@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thuỳ Linh",
+              "email": "linhntt77@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Võ huỳnh trọng,</p><p>Hiện tại, sản phẩm có giá 150.000₫/ hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p>",
+              "createdAt": "2025-08-19 17:25:14",
+              "createdAtDisplay": "19/08/2025",
+              "updatedAt": "2025-08-19 17:22:33",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3149554,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0385xxxxxx",
+          "name": "Bảo Khanh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Giá bao nhiu ạ",
+          "createdAt": "2025-07-23 17:19:49",
+          "createdAtDisplay": "23/07/2025",
+          "updatedAt": "2025-07-23 17:19:34",
+          "replies": [
+            {
+              "id": 3149558,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Quang Đạo",
+                "moderatorEmail": "daolq3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Quang Đạo",
+              "email": "daolq3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Bảo Khanh</p><p>Hiện tại, sản phẩm có giá 150.000₫/ hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-07-23 17:21:02",
+              "createdAtDisplay": "23/07/2025",
+              "updatedAt": "2025-07-23 17:19:34",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3104365,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0513xxxxxx",
+          "name": "Linh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Xin giá ạ",
+          "createdAt": "2025-05-08 19:28:25",
+          "createdAtDisplay": "08/05/2025",
+          "updatedAt": "2025-05-08 19:28:25",
+          "replies": [
+            {
+              "id": 3104370,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Đạo",
+                "moderatorEmail": "daolq3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Đạo",
+              "email": "daolq3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Linh,</p><p>Dạ sản phẩm có giá 150,000 ₫/ hộp ạ.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-05-08 19:30:15",
+              "createdAtDisplay": "08/05/2025",
+              "updatedAt": "2025-05-08 19:28:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 2,
+      "items": [
+        {
+          "id": 3356883,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0982xxxxxx",
+          "name": "CHU TAM",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-08-13 14:22:51",
+          "createdAtDisplay": "23 ngày trước",
+          "updatedAt": "2026-08-13 14:22:52",
+          "replies": [
+            {
+              "id": 3356888,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Tiến Bắc",
+                "moderatorEmail": "bacnt16@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Tiến Bắc",
+              "email": "bacnt16@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào  chú Tam</p><p>Dạ rất cảm ơn tình cảm của chú  dành cho Nhà thuốc FPT Long Châu. Chúc chú nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-08-13 14:39:54",
+              "createdAtDisplay": "23 ngày trước",
+              "updatedAt": "2026-08-13 14:22:52",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3321820,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0974xxxxxx",
+          "name": "Nguyễn Hữu bách",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-06-13 04:41:52",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-13 04:41:52",
+          "replies": [
+            {
+              "id": 3321892,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Kim Uyên",
+                "moderatorEmail": "uyenntk3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Kim Uyên",
+              "email": "uyenntk3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý khách,</p><p> Dạ nhà thuốc FPT Long Châu rất cảm ơn Quý khách luôn tin tưởng và ủng hộ. Chúc Quý khách nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-06-13 09:21:24",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-13 04:41:52",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 2
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Antacil 250mg Thai Nakorn Patana điều trị bệnh loét dạ dày, tá tràng (25 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/antacil_25x10_nakorn_00000790_59df3f88e9.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_4251_6423_large_1faa2c0c86.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_7280_6423_large_d16631fbd7.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_6224_6423_large_2c487cb79b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_4206_6423_large_fd4ea5b2f2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_6165_6423_large_25a2c542e8.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_5724_6423_large_140aade116.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_3791_6423_large_7b7726ffdc.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_4646_6423_large_15423dd24e.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00000790_antacil_4462_6423_large_085ae24258.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Antacil của Công ty TNHH Thai Nakorn Patana (Thái Lan) nhượng quyền cho Công ty TNHH Thai Nakorn Patana (Việt Nam) sản xuất. Thuốc có thành phần chính là gel khô Nhôm hydroxyd và Magnesi trisilicat. Đây là thuốc kháng acid và bao phủ vết loét, được dùng trong điều trị bệnh loét dạ dày, tá tràng, giảm chứng ợ chua, đầy hơi khó tiêu do bệnh viêm loét dạ dày dư acid.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nguyễn Mỹ Huyền"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "2"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/antacil-4712.html",
+        "priceCurrency": "VND",
+        "price": 640,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Antacil Nakorn: Điều trị triệu chứng đau viêm loét dạ dày – tá tràng",
+      "description": "Antacil là thuốc kháng acid và bao phủ vết loét, được dùng trong điều trị bệnh loét dạ dày, tá tràng, giảm chứng ợ chua, đầy hơi khó tiêu do bệnh viêm loét dạ dày dư acid.",
+      "openGraph": {
+        "title": "Thuốc Antacil 250mg Thai Nakorn Patana điều trị bệnh loét dạ dày, tá tràng (25 vỉ x 10 viên)",
+        "description": "Antacil của Công ty TNHH Thai Nakorn Patana (Thái Lan) nhượng quyền cho Công ty TNHH Thai Nakorn Patana (Việt Nam) sản xuất. Thuốc có thành phần chính là gel khô Nhôm hydroxyd và Magnesi trisilicat. Đây là thuốc kháng acid và bao phủ vết loét, được dùng trong điều trị bệnh loét dạ dày, tá tràng, giảm chứng ợ chua, đầy hơi khó tiêu do bệnh viêm loét dạ dày dư acid.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/antacil_25x10_nakorn_00000790_59df3f88e9.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/antacil-4712.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/antacil-4712.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

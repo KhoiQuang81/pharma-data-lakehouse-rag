@@ -1,0 +1,923 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/dorogyne-3944.html",
+  "ingestion_timestamp": "2026-09-05T09:19:56.213887+00:00",
+  "file_hash": "4baa596beb078731b4565116b2b9f766e1445f798213a256fa673ef82ca2691e",
+  "lineage_hash": "e9851f330921dc6ceebd1a45316f6ea6156c8d0e3813c41def99a137203c34d6",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/dorogyne-3944.html",
+    "product": {
+      "sku": "00002571",
+      "webName": "Thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính (2 vỉ x 10 viên)",
+      "name": "DOROGYNE DOMESCO 2X10",
+      "shortName": "DOROGYNE DMC 2X10",
+      "headingText": "Thuốc Dorogyne",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dorogyne_2x10_domesco_00002571_c5b34d044f.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2797_ed11dd881b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2798_93ca36fedb.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2799_fbff5c0082.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2800_89963f86a2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2801_afb7e2d210.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2803_6a83ffb12f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2802_8f22a826c0.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2804_42322acd19.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2805_697ae4de18.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dorogyne_a085203ff6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dorogyne_2_270f8c5167.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 731,
+          "name": "Thuốc kháng sinh, kháng nấm",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 781,
+          "name": "Thuốc kháng sinh",
+          "parentName": "Thuốc kháng sinh, kháng nấm",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 2 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "2 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/dorogyne-3944.html",
+      "ingredient": [
+        {
+          "id": 33779,
+          "ingredientId": 36693,
+          "shortDescription": "750000iu",
+          "name": "Spiramycin",
+          "isPrimary": false,
+          "slug": "thanh-phan/spiramycin"
+        },
+        {
+          "id": 33780,
+          "ingredientId": 27535,
+          "shortDescription": "125mg",
+          "name": "Metronidazole",
+          "isPrimary": false,
+          "slug": "thanh-phan/metronidazole"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893115246800",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3><b>Cách dùng</b></h3>\n\n<p>Dorogyne dùng uống. Sử dụng trong các bữa ăn.</p>\n\n<h3><b>Liều dùng</b></h3>\n\n<p><em>Người lớn:</em> Uống 4 - 6 viên/ngày, chia 2 - 3 lần. Trường hợp nặng, có thể tới 8 viên/ngày.</p>\n\n<p><em>Trẻ em:</em></p>\n\n<ul>\n\t<li>Từ 6 - 9 tuổi: 2 viên/ngày, chia 2 lần.</li>\n\t<li>Từ 10 - 15 tuổi: 3 viên/ngày, chia 3 lần.</li>\n</ul>\n\n<p><em>Lưu ý</em>: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p><strong>Metronidazol</strong></p>\n\n<p>Triệu chứng: Metronidazol uống 1 liều duy nhất tới 15g đã được báo cáo. Triệu chứng bao gồm buồn nôn, nôn và mất điều hòa. Tác dụng độc thần kinh gồm có co giật, viêm dây thần kinh ngoại biên đã được báo cáo sau 5 tới 7 ngày dùng liều 6 - 10, 4g cách 2 ngày/lần.</p>\n\n<p>Xử trí: Không có thuốc giải độc đặc hiệu, điều trị triệu chứng và hỗ trợ.</p>\n\n<p><strong>Spiramycin</strong></p>\n\n<p>Triệu chứng của quá liều có thể bao gồm buồn nôn, nôn, tiêu chảy.</p>\n\n<p>Báo ngay cho Bác sĩ thông tin về quá liều spiramycin và đưa bệnh nhân đến bệnh viện.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Dùng thuốc Dorogyne ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Dorogyne được chỉ định dùng trong các trường hợp sau:</p><ul><li>Các bệnh nhiễm trùng răng miệng cấp, mạn tính hoặc tái phát như áp-xe răng, viêm tấy, viêm mô tế bào quanh xương hàm, viêm quanh thân răng, viêm nướu, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-nha-chu-1154.html\">viêm nha chu</a>, viêm miệng, viêm tuyến mang tai, viêm dưới hàm.</li><li>Phòng các bệnh nhiễm khuẩn răng miệng sau phẫu thuật.</li><li>Dự phòng trước khi phẫu thuật và phòng ngừa ở bệnh nhân bị giảm sức đề kháng của cơ thể.</li></ul><h3><strong>Dược lực học</strong></h3><p>Là thuốc phối hợp giữa <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/spiramycin\">Spiramycin</a> kháng sinh nhóm Macrolid và Metronidazol kháng sinh nhóm Nitro-5-imidazol, đặc trị các bệnh nhiễm trùng răng miệng.</p><p><strong>Spiramycin:</strong></p><p>Spiramycin có tác dụng kìm khuẩn trên vi khuẩn đang phân chia tế bào. Ở các nồng độ trong huyết thanh, thuốc có tác dụng kìm khuẩn, nhưng khi đạt nồng độ ở mô thuốc có tác dụng diệt khuẩn.</p><p>Cơ chế tác dụng của thuốc là tác dụng trên các tiểu đơn vị 50S của ribosom vi khuẩn và ngăn cản vi khuẩn tổng hợp protein. Spiramycin có tác dụng kháng các chủng Gram dương như Staphylococcus, Pneumococcus, Meningococcus, Gonococcus, Streptococcus, Enterococcus, Bordetella pertussis, Corynebacteria, Chlamydia, Actinomyces, Mycoplasma, Toxoplasma.</p><p><strong>Metronidazol:</strong></p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/metronidazol-250mg-hataphar-50x10-22719.html\">Metronidazol</a> là một dẫn chất 5-nitro-imidazol, có phổ hoạt tính rộng trên động vật nguyên sinh như amip, Giardia và trên vi khuẩn kỵ khí.</p><p>Cơ chế tác dụng của metronidazol còn chưa thật rõ. Trong ký sinh trùng, nhóm 5-nitro của thuốc bị khử thành các chất trung gian độc với tế bào. Các chất này liên kết với cấu trúc xoắn của phân tử DNA làm vỡ các sợi này và cuối cùng làm tế bào chết.</p><p>Nồng độ trung bình có hiệu quả của metronidazol là ≤ 8 microgam/ml đối với hầu hết các động vật nguyên sinh và các vi khuẩn nhạy cảm. Nồng độ tối thiểu ức chế các chủng nhạy cảm khoảng 0,5 microgam/ml.</p><p>Metronidazol là một thuốc rất mạnh trong điều trị nhiễm động vật nguyên sinh như Entamoeba histolytica, Giardia lamblia và Trichomonas vaginalis. Metronidazol diệt khuẩn trên Bacteroides, Fusobacterium và các vi khuẩn kỵ khí bắt buộc khác nhưng không có tác dụng trên vi khuẩn ái khí.</p><p>Nhiễm Trichomonas vaginalis điều trị bằng uống metronidazol. Cả phụ nữ và nam giới đều phải điều trị vì nam giới có thể mang mầm bệnh mà không có triệu chứng.</p><p>Metronidazol làm cho hệ vi khuẩn âm đạo trở lại bình thường, khi bị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-co-tu-cung-506.html\">viêm cổ tử cung</a>/âm đạo và không tác động trên hệ vi khuẩn bình thường ở âm đạo.</p><p>Metronidazol điều trị tiêu chảy kéo dài và sút cân do Giardia. Metronidazol là thuốc được lựa chọn đầu tiên để điều trị lỵ cấp tính và áp xe gan nặng do amip.</p><p>Metronidazol tác dụng tốt chống Bacteroides nên thường dùng làm thuốc chuẩn để phòng bệnh trước phẫu thuật dạ dày - ruột.</p><p>Metronidazol được chọn dùng trong tiêu chảy do Clostridium difficile.</p><h3><strong>Dược động học</strong></h3><p><strong>Spiramycin:</strong></p><p>Spiramycin hấp thu không hoàn toàn ở đường tiêu hóa, thuốc được hấp thu khoảng 20 - 50% liều sử dụng. Nồng độ đỉnh trong huyết tương đạt trong vòng 2 - 4 giờ sau khi uống. Nồng độ đỉnh trong huyết tương sau khi uống liều 1g đạt được 1microgam/ml. Uống spiramycin khi có thức ăn trong dạ dày làm giảm nhiều đến sinh khả dụng của thuốc. Thức ăn làm giảm khoảng 70% nồng độ tối đa của thuốc trong huyết thanh và làm cho thời gian đạt đỉnh chậm 2 giờ.</p><p>Spiramycin phân bố rộng khắp cơ thể. Thuốc đạt nồng độ cao trong phổi, amidan, phế quản và các xoang, spiramycin ít thâm nhập vào dịch não tủy. Nồng độ thuốc trong huyết thanh có tác dụng kìm khuẩn trong khoảng 0,1 - 3,0 microgam/ml và nồng độ thuốc trong mô có tác dụng diệt khuẩn trong khoảng 8 - 64 microgam/ml.</p><p>Spiramycin có thời gian bán thải phân bố ngắn (10,2 ± 3,72 phút). Thời gian bán thải trung bình là 5 - 8 giờ. Thuốc thải trừ chủ yếu ở mật. Nồng độ thuốc trong mật lớn gấp 15 - 40 lần nồng độ trong huyết thanh. Sau 36 giờ chỉ có khoảng 2% tổng liều uống tìm thấy trong nước tiểu.</p><p><strong>Metronidazol:</strong></p><p>Metronidazol hấp thu nhanh và hoàn toàn sau khi uống, đạt tới nồng độ trong huyết tương khoảng 10 microgam/ml, khoảng 1 giờ sau khi uống 500mg. Mối tương quan tuyến tính giữa liều dùng và nồng độ trong huyết tương diễn ra trong phạm vi liều từ 200 - 2000mg. Liều dùng lặp lại cứ 6 - 8 giờ/lần sẽ gây tích lũy thuốc.</p><p>Thời gian bán thải của metronidazol trong huyết tương khoảng 8 giờ và thể tích phân bố xấp xỉ thể tích nước trong cơ thể (0.6 - 0.8lít/kg). Khoảng 10 - 20% thuốc liên kết với protein huyết tương. Metronidazol thâm nhập tốt vào các mô và dịch cơ thể, vào nước bọt và sữa mẹ. Nồng độ điều trị cũng đạt được trong dịch não tủy.</p><p>Metronidazol chuyển hóa ở gan thành các chất chuyển hóa dạng hydroxy và acid, thải trừ qua nước tiểu một phần dưới dạng glucuronid. Các chất chuyển hóa vẫn còn phần nào tác dụng dược lý.</p><p>Thời gian bán thải trung bình trong huyết tương khoảng 7 giờ. Thời gian bán thải của chất chuyển hóa hydroxy là 9,5 - 19,2 giờ ở người bệnh có chức năng thận bình thường.</p><p>Trên 90% liều uống được thải trừ qua thận trong 24 giờ, chủ yếu là các chất chuyển hóa hydroxy (30 - 40%), dạng acid (10 - 22%). Dưới 10% thải trừ ở dạng chất mẹ, 14% liều dùng thải trừ qua phân.</p><p>Ở người suy thận thời gian bán thải của chất mẹ không thay đổi, nhưng thời gian bán thải của chất chuyển hóa hydroxy kéo dài gấp 4 - 17 lần. Chuyển hóa của metronidazol có thể bị ảnh hưởng nhiều khi bị suy gan nặng. Metronidazol có thể loại khỏi cơ thể có hiệu quả bằng thẩm tách máu.</p>",
+      "brand": "Domesco",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Dorogyne, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<ul>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">Rối loạn tiêu hóa</a> như đau dạ dày, buồn nôn, nôn mửa, tiêu chảy.</p>\n\t</li>\n\t<li>\n\t<p>Các phản ứng dị ứng: Nổi mề đay.</p>\n\t</li>\n\t<li>\n\t<p>Vị kim loại trong miệng, viêm lưỡi, viêm miệng, giảm bạch cầu vừa phải phục hồi ngay sau khi ngừng thuốc.</p>\n\t</li>\n\t<li>\n\t<p>Hiếm khi chóng mặt, hiện tượng mất điều hòa vận động, dị cảm, viêm đa thần kinh cảm giác và vận động do thời gian điều trị kéo dài.</p>\n\t</li>\n</ul>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời. </p>",
+      "specification": "Hộp 2 vỉ x 10 viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "DOMESCO",
+      "shortDescription": "<p style=\"text-align:justify;\">Thuốc Dorogyne là sản phẩm của Công ty Cổ phần Xuất nhập khẩu Y tế Domesco, với thành phần chính Spiramycin base và Metronidazol. Đây là một loại thuốc có tác dụng điều trị các bệnh nhiễm trùng răng miệng cấp, mạn tính hoặc tái phát như áp-xe răng, viêm tấy, viêm mô tế bào quanh xương hàm, viêm quanh thân răng, viêm nướu, viêm nha chu, viêm miệng, viêm tuyến mang tai, viêm dưới hàm; phòng các bệnh nhiễm khuẩn răng miệng sau phẫu thuật.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Trên 6 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Lái tàu xe",
+        "Suy gan thận",
+        "Phụ nữ cho con bú",
+        "Phụ nữ có thai"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/domesco",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "DOROGYNE (#RODOGYL) ",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "48 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 781,
+        "name": "Thuốc kháng sinh",
+        "parentName": "Thuốc kháng sinh, kháng nấm",
+        "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dorogyne_2x10_domesco_00002571_c5b34d044f.png",
+          "alternativeText": "Thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính (2 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2797_ed11dd881b.jpg",
+          "alternativeText": "Thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính (2 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2798_93ca36fedb.jpg",
+          "alternativeText": "Thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính (2 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2799_fbff5c0082.jpg",
+          "alternativeText": "Thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính (2 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2800_89963f86a2.jpg",
+          "alternativeText": "Thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính (2 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2801_afb7e2d210.jpg",
+          "alternativeText": "Thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính (2 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2803_6a83ffb12f.jpg",
+          "alternativeText": "Thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính (2 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2802_8f22a826c0.jpg",
+          "alternativeText": "Thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính (2 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2804_42322acd19.jpg",
+          "alternativeText": "Thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính (2 vỉ x 10 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2805_697ae4de18.jpg",
+          "alternativeText": "Thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính (2 vỉ x 10 viên) 10"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dorogyne_a085203ff6.jpg",
+          "alternativeText": "Thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính (2 vỉ x 10 viên) 11"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dorogyne_2_270f8c5167.jpg",
+          "alternativeText": "Thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính (2 vỉ x 10 viên) 12"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc kháng sinh, kháng nấm",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam"
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh"
+      }
+    ],
+    "content": {
+      "sku": "00002571",
+      "dosage": "<h3><b>Cách dùng</b></h3>\n\n<p>Dorogyne dùng uống. Sử dụng trong các bữa ăn.</p>\n\n<h3><b>Liều dùng</b></h3>\n\n<p><em>Người lớn:</em> Uống 4 - 6 viên/ngày, chia 2 - 3 lần. Trường hợp nặng, có thể tới 8 viên/ngày.</p>\n\n<p><em>Trẻ em:</em></p>\n\n<ul>\n\t<li>Từ 6 - 9 tuổi: 2 viên/ngày, chia 2 lần.</li>\n\t<li>Từ 10 - 15 tuổi: 3 viên/ngày, chia 3 lần.</li>\n</ul>\n\n<p><em>Lưu ý</em>: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p><strong>Metronidazol</strong></p>\n\n<p>Triệu chứng: Metronidazol uống 1 liều duy nhất tới 15g đã được báo cáo. Triệu chứng bao gồm buồn nôn, nôn và mất điều hòa. Tác dụng độc thần kinh gồm có co giật, viêm dây thần kinh ngoại biên đã được báo cáo sau 5 tới 7 ngày dùng liều 6 - 10, 4g cách 2 ngày/lần.</p>\n\n<p>Xử trí: Không có thuốc giải độc đặc hiệu, điều trị triệu chứng và hỗ trợ.</p>\n\n<p><strong>Spiramycin</strong></p>\n\n<p>Triệu chứng của quá liều có thể bao gồm buồn nôn, nôn, tiêu chảy.</p>\n\n<p>Báo ngay cho Bác sĩ thông tin về quá liều spiramycin và đưa bệnh nhân đến bệnh viện.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Dùng thuốc Dorogyne ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<?xml encoding=\"utf-8\" ?>\n",
+      "adverseEffect": "<p>Khi sử dụng thuốc Dorogyne, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<ul>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">Rối loạn tiêu hóa</a> như đau dạ dày, buồn nôn, nôn mửa, tiêu chảy.</p>\n\t</li>\n\t<li>\n\t<p>Các phản ứng dị ứng: Nổi mề đay.</p>\n\t</li>\n\t<li>\n\t<p>Vị kim loại trong miệng, viêm lưỡi, viêm miệng, giảm bạch cầu vừa phải phục hồi ngay sau khi ngừng thuốc.</p>\n\t</li>\n\t<li>\n\t<p>Hiếm khi chóng mặt, hiện tượng mất điều hòa vận động, dị cảm, viêm đa thần kinh cảm giác và vận động do thời gian điều trị kéo dài.</p>\n\t</li>\n</ul>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời. </p>",
+      "preservation": "<p style=\"text-align:justify;\">Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p>\n\n<p>Để xa tầm tay trẻ em.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Dorogyne được chỉ định dùng trong các trường hợp sau:</p><ul><li>Các bệnh nhiễm trùng răng miệng cấp, mạn tính hoặc tái phát như áp-xe răng, viêm tấy, viêm mô tế bào quanh xương hàm, viêm quanh thân răng, viêm nướu, <a href=\"https://nhathuoclongchau.com.vn/benh/viem-nha-chu-1154.html\">viêm nha chu</a>, viêm miệng, viêm tuyến mang tai, viêm dưới hàm.</li><li>Phòng các bệnh nhiễm khuẩn răng miệng sau phẫu thuật.</li><li>Dự phòng trước khi phẫu thuật và phòng ngừa ở bệnh nhân bị giảm sức đề kháng của cơ thể.</li></ul><h3><strong>Dược lực học</strong></h3><p>Là thuốc phối hợp giữa <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/spiramycin\">Spiramycin</a> kháng sinh nhóm Macrolid và Metronidazol kháng sinh nhóm Nitro-5-imidazol, đặc trị các bệnh nhiễm trùng răng miệng.</p><p><strong>Spiramycin:</strong></p><p>Spiramycin có tác dụng kìm khuẩn trên vi khuẩn đang phân chia tế bào. Ở các nồng độ trong huyết thanh, thuốc có tác dụng kìm khuẩn, nhưng khi đạt nồng độ ở mô thuốc có tác dụng diệt khuẩn.</p><p>Cơ chế tác dụng của thuốc là tác dụng trên các tiểu đơn vị 50S của ribosom vi khuẩn và ngăn cản vi khuẩn tổng hợp protein. Spiramycin có tác dụng kháng các chủng Gram dương như Staphylococcus, Pneumococcus, Meningococcus, Gonococcus, Streptococcus, Enterococcus, Bordetella pertussis, Corynebacteria, Chlamydia, Actinomyces, Mycoplasma, Toxoplasma.</p><p><strong>Metronidazol:</strong></p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/metronidazol-250mg-hataphar-50x10-22719.html\">Metronidazol</a> là một dẫn chất 5-nitro-imidazol, có phổ hoạt tính rộng trên động vật nguyên sinh như amip, Giardia và trên vi khuẩn kỵ khí.</p><p>Cơ chế tác dụng của metronidazol còn chưa thật rõ. Trong ký sinh trùng, nhóm 5-nitro của thuốc bị khử thành các chất trung gian độc với tế bào. Các chất này liên kết với cấu trúc xoắn của phân tử DNA làm vỡ các sợi này và cuối cùng làm tế bào chết.</p><p>Nồng độ trung bình có hiệu quả của metronidazol là ≤ 8 microgam/ml đối với hầu hết các động vật nguyên sinh và các vi khuẩn nhạy cảm. Nồng độ tối thiểu ức chế các chủng nhạy cảm khoảng 0,5 microgam/ml.</p><p>Metronidazol là một thuốc rất mạnh trong điều trị nhiễm động vật nguyên sinh như Entamoeba histolytica, Giardia lamblia và Trichomonas vaginalis. Metronidazol diệt khuẩn trên Bacteroides, Fusobacterium và các vi khuẩn kỵ khí bắt buộc khác nhưng không có tác dụng trên vi khuẩn ái khí.</p><p>Nhiễm Trichomonas vaginalis điều trị bằng uống metronidazol. Cả phụ nữ và nam giới đều phải điều trị vì nam giới có thể mang mầm bệnh mà không có triệu chứng.</p><p>Metronidazol làm cho hệ vi khuẩn âm đạo trở lại bình thường, khi bị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-co-tu-cung-506.html\">viêm cổ tử cung</a>/âm đạo và không tác động trên hệ vi khuẩn bình thường ở âm đạo.</p><p>Metronidazol điều trị tiêu chảy kéo dài và sút cân do Giardia. Metronidazol là thuốc được lựa chọn đầu tiên để điều trị lỵ cấp tính và áp xe gan nặng do amip.</p><p>Metronidazol tác dụng tốt chống Bacteroides nên thường dùng làm thuốc chuẩn để phòng bệnh trước phẫu thuật dạ dày - ruột.</p><p>Metronidazol được chọn dùng trong tiêu chảy do Clostridium difficile.</p><h3><strong>Dược động học</strong></h3><p><strong>Spiramycin:</strong></p><p>Spiramycin hấp thu không hoàn toàn ở đường tiêu hóa, thuốc được hấp thu khoảng 20 - 50% liều sử dụng. Nồng độ đỉnh trong huyết tương đạt trong vòng 2 - 4 giờ sau khi uống. Nồng độ đỉnh trong huyết tương sau khi uống liều 1g đạt được 1microgam/ml. Uống spiramycin khi có thức ăn trong dạ dày làm giảm nhiều đến sinh khả dụng của thuốc. Thức ăn làm giảm khoảng 70% nồng độ tối đa của thuốc trong huyết thanh và làm cho thời gian đạt đỉnh chậm 2 giờ.</p><p>Spiramycin phân bố rộng khắp cơ thể. Thuốc đạt nồng độ cao trong phổi, amidan, phế quản và các xoang, spiramycin ít thâm nhập vào dịch não tủy. Nồng độ thuốc trong huyết thanh có tác dụng kìm khuẩn trong khoảng 0,1 - 3,0 microgam/ml và nồng độ thuốc trong mô có tác dụng diệt khuẩn trong khoảng 8 - 64 microgam/ml.</p><p>Spiramycin có thời gian bán thải phân bố ngắn (10,2 ± 3,72 phút). Thời gian bán thải trung bình là 5 - 8 giờ. Thuốc thải trừ chủ yếu ở mật. Nồng độ thuốc trong mật lớn gấp 15 - 40 lần nồng độ trong huyết thanh. Sau 36 giờ chỉ có khoảng 2% tổng liều uống tìm thấy trong nước tiểu.</p><p><strong>Metronidazol:</strong></p><p>Metronidazol hấp thu nhanh và hoàn toàn sau khi uống, đạt tới nồng độ trong huyết tương khoảng 10 microgam/ml, khoảng 1 giờ sau khi uống 500mg. Mối tương quan tuyến tính giữa liều dùng và nồng độ trong huyết tương diễn ra trong phạm vi liều từ 200 - 2000mg. Liều dùng lặp lại cứ 6 - 8 giờ/lần sẽ gây tích lũy thuốc.</p><p>Thời gian bán thải của metronidazol trong huyết tương khoảng 8 giờ và thể tích phân bố xấp xỉ thể tích nước trong cơ thể (0.6 - 0.8lít/kg). Khoảng 10 - 20% thuốc liên kết với protein huyết tương. Metronidazol thâm nhập tốt vào các mô và dịch cơ thể, vào nước bọt và sữa mẹ. Nồng độ điều trị cũng đạt được trong dịch não tủy.</p><p>Metronidazol chuyển hóa ở gan thành các chất chuyển hóa dạng hydroxy và acid, thải trừ qua nước tiểu một phần dưới dạng glucuronid. Các chất chuyển hóa vẫn còn phần nào tác dụng dược lý.</p><p>Thời gian bán thải trung bình trong huyết tương khoảng 7 giờ. Thời gian bán thải của chất chuyển hóa hydroxy là 9,5 - 19,2 giờ ở người bệnh có chức năng thận bình thường.</p><p>Trên 90% liều uống được thải trừ qua thận trong 24 giờ, chủ yếu là các chất chuyển hóa hydroxy (30 - 40%), dạng acid (10 - 22%). Dưới 10% thải trừ ở dạng chất mẹ, 14% liều dùng thải trừ qua phân.</p><p>Ở người suy thận thời gian bán thải của chất mẹ không thay đổi, nhưng thời gian bán thải của chất chuyển hóa hydroxy kéo dài gấp 4 - 17 lần. Chuyển hóa của metronidazol có thể bị ảnh hưởng nhiều khi bị suy gan nặng. Metronidazol có thể loại khỏi cơ thể có hiệu quả bằng thẩm tách máu.</p>",
+      "ingredient": "",
+      "careful": "<p style=\"text-align:justify;\">Trước khi sử dụng thuốc Dorogyne, bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3><strong>Chống chỉ định</strong></h3>\n\n<p>Thuốc Dorogyne chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Quá mẫn cảm với imidazol hoặc spiramycin, erythromycin.</li>\n\t<li>Trẻ dưới 6 tuổi.</li>\n\t<li>Disulfiram, cồn.</li>\n</ul>\n\n<h3><strong>Thận trọng khi sử dụng</strong></h3>\n\n<p>Ngừng điều trị, khi mất điều hòa vận động, chóng mặt, lẫn tâm thần.</p>\n\n<p>Lưu ý nguy cơ có thể trầm trọng thêm trạng thái tâm thần ở người bị bệnh thần kinh trung ương và ngoại biên, ổn định hay tiến triển.</p>\n\n<p>Tránh uống rượu (hiệu ứng antabuse). Theo dõi công thức bạch cầu, nếu trường hợp có tiền sử loạn thể tạng máu hoặc điều trị với liều cao và kéo dài.</p>\n\n<p>Nếu bị giảm bạch cầu, việc tiếp tục điều trị hay không tùy thuộc vào mức độ nhiễm trùng.</p>\n\n<p>Không nên dùng cho phụ nữ có thai trong 3 tháng đầu hoặc đang nuôi con bú.</p>\n\n<p>Thận trọng khi dùng spiramycin cho người rối loạn chức năng gan vì thuốc có thể gây độc cho gan.</p>\n\n<p>Dùng liều cao điều trị các nhiễm khuẩn kỵ khí và điều trị bệnh do amip và do Giardia có thể gây rối loạn tạng máu và các bệnh thần kinh thể hoạt động.</p>\n\n<p>Metronidazol có thể gây bất động Treponema pallidum tạo nên phản ứng dương tính giả của nghiệm pháp Nelson.</p>\n\n<h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3>\n\n<p>Thuốc Dorogyne hầu như không ảnh hưởng đến khả năng lái xe và vận hành máy móc.</p>\n\n<h3><strong>Thời kỳ mang thai và cho con bú</strong></h3>\n\n<p>Thời kỳ mang thai: Thuốc qua được nhau thai, do đó tránh dùng thuốc trong 3 tháng đầu của thai kỳ.</p>\n\n<p>Thời kỳ cho con bú: Metronidazol và spiramycin qua sữa mẹ, do đó tránh sử dụng thuốc trong thời gian cho con bú.</p>\n\n<p><strong>Tương tác thuốc</strong></p>\n\n<p>Khi kết hợp với Disulfiram sẽ dẫn đến cơn hoang tưởng và rối loạn tâm thần.</p>\n\n<p>Thận trọng khi phối hợp với các thuốc chống đông máu (warfarin), dẫn chất cura không khử cực (Vecuronium), Fluoro-uracil.</p>\n\n<p>Metronidazol có thể làm tăng nồng độ lithium huyết, làm bất động xoắn khuẩn, do đó có thể làm sai kết quả xét nghiệm Nelson.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Ngô Kim Thúy",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp loại giỏi trường Đại học Y Dược Huế. Từng tham gia nghiên cứu khoa học đề tài về Dược liệu. Nhiều năm kinh nghiệm làm việc trong lĩnh vực Dược phẩm. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-ngo-kim-thuy",
+        "isLegit": true,
+        "id": 9,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Nguyen_Kim_Thuy_ea92026f36.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Dorogyne - Kháng sinh trị nhiễm trùng răng miệng (2 vỉ x 10 viên)",
+        "metaDescription": "Thuốc Dorogyne Domesco là thuốc điều trị các bệnh nhiễm trùng răng miệng như áp-xe răng, viêm tấy, viêm mô tế bào quanh xương hàm, viêm nướu, viêm nha chu...",
+        "id": 2530,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dorogyne_2x10_domesco_00002571_c5b34d044f.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính (2 vỉ x 10 viên)",
+            "description": "Thuốc Dorogyne là sản phẩm của Công ty Cổ phần Xuất nhập khẩu Y tế Domesco, với thành phần chính Spiramycin base và Metronidazol. Đây là một loại thuốc có tác dụng điều trị các bệnh nhiễm trùng răng miệng cấp, mạn tính hoặc tái phát như áp-xe răng, viêm tấy, viêm mô tế bào quanh xương hàm, viêm quanh thân răng, viêm nướu, viêm nha chu, viêm miệng, viêm tuyến mang tai, viêm dưới hàm; phòng các bệnh nhiễm khuẩn răng miệng sau phẫu thuật."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 13087,
+        "title": "Thuốc Dorogyne là thuốc gì?",
+        "content": "<p>Thuốc Dorogyne với thành phần chính Spiramycin base và Metronidazol. Đây là một loại thuốc có tác dụng điều trị các bệnh nhiễm trùng răng miệng cấp, mạn tính hoặc tái phát như áp-xe răng, viêm tấy, viêm mô tế bào quanh xương hàm, viêm quanh thân răng, viêm nướu, viêm nha chu, viêm miệng, viêm tuyến mang tai, viêm dưới hàm; phòng các bệnh nhiễm khuẩn răng miệng sau phẫu thuật.</p>"
+      },
+      {
+        "id": 13086,
+        "title": "Cách dùng thuốc Dorogyne như thế nào?",
+        "content": "<p>Thuốc Dorogyne được dùng uống. Sử dụng trong các bữa ăn.</p>"
+      },
+      {
+        "id": 13085,
+        "title": "Tác dụng phụ có thể gặp khi dùng thuốc Dorogyne là gì?",
+        "content": "<p>Khi sử dụng thuốc Dorogyne, bạn có thể gặp các tác dụng không mong muốn:</p><ul style=\"list-style-type:disc;\"><li><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">Rối loạn tiêu hóa</a> như đau dạ dày, buồn nôn, nôn mửa, tiêu chảy.</li><li>Các phản ứng dị ứng: Nổi mề đay.</li><li>Vị kim loại trong miệng, viêm lưỡi, viêm miệng, giảm bạch cầu vừa phải phục hồi ngay sau khi ngừng thuốc.</li><li>Hiếm khi chóng mặt, hiện tượng mất điều hòa vận động, dị cảm, viêm đa thần kinh cảm giác và vận động do thời gian điều trị kéo dài.</li></ul>"
+      },
+      {
+        "id": 13084,
+        "title": "Dùng thuốc Dorogyne cho phụ nữ mang thai và cho con bú được không?",
+        "content": "<p>Thời kỳ mang thai: Thuốc qua được nhau thai, do đó tránh dùng thuốc trong 3 tháng đầu của thai kỳ.</p><p>Thời kỳ cho con bú: Metronidazol và spiramycin qua sữa mẹ, do đó tránh sử dụng thuốc trong thời gian cho con bú.</p>"
+      },
+      {
+        "id": 13083,
+        "title": "Thuốc Dorogyne chống chỉ định trong các trường hợp nào?",
+        "content": "<p>Thuốc Dorogyne chống chỉ định trong các trường hợp sau:</p><ul><li>Quá mẫn cảm với imidazol hoặc spiramycin, erythromycin.</li><li>Trẻ dưới 6 tuổi.</li><li>Disulfiram, cồn.</li></ul>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 37,
+      "items": [
+        {
+          "id": 3365096,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0938xxxxxx",
+          "name": "Nhớ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Xin giá ạ",
+          "createdAt": "2026-08-28 17:46:47",
+          "createdAtDisplay": "7 ngày trước",
+          "updatedAt": "2026-08-28 17:46:47",
+          "replies": [
+            {
+              "id": 3365099,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Bảo Nghi",
+                "moderatorEmail": "nghintb2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Bảo Nghi",
+              "email": "nghintb2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý Khách,</p><p>Hiện tại, sản phẩm DOROGYNE DMC 2X10  có giá 48,000 ₫/hộp ạ </p><p>Quý khách có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a> <a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-08-28 17:50:21",
+              "createdAtDisplay": "7 ngày trước",
+              "updatedAt": "2026-08-28 17:46:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3353814,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0907xxxxxx",
+          "name": "Huỳnh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Há miệng to khi ăn,đau hàm dưới mang tai.Uống thuốc này được không?",
+          "createdAt": "2026-08-07 15:07:04",
+          "createdAtDisplay": "29 ngày trước",
+          "updatedAt": "2026-08-07 15:07:04",
+          "replies": [
+            {
+              "id": 3353821,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Đức Thắng",
+                "moderatorEmail": "thangtd48@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Đức Thắng",
+              "email": "thangtd48@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Huỳnh,</p><p>Tình trạng đau hàm dưới mang tai khi há miệng to có thể là dấu hiệu của viêm khớp thái dương hàm hoặc các vấn đề về cơ nhai, trong khi thuốc Dorogyne Domesco là thuốc kháng sinh chuyên điều trị các trường hợp nhiễm khuẩn răng miệng như viêm lợi, áp xe răng hoặc viêm nha chu. Chị không nên tự ý sử dụng thuốc này khi chưa xác định rõ nguyên nhân, thay vào đó Chị nên đến cơ sở y tế chuyên khoa Răng Hàm Mặt để được bác sĩ thăm khám và có phác đồ điều trị chính xác ạ.</p><p><br></p>",
+              "createdAt": "2026-08-07 15:12:11",
+              "createdAtDisplay": "29 ngày trước",
+              "updatedAt": "2026-08-07 15:07:04",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3341345,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0352xxxxxx",
+          "name": "c ngọc",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bé 4 tuổi dùng dc k ạ",
+          "createdAt": "2026-07-18 07:12:47",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-18 07:12:47",
+          "replies": [
+            {
+              "id": 3341386,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Phương Thảo",
+                "moderatorEmail": "thaoltp50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Phương Thảo",
+              "email": "thaoltp50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Ngọc,</p><p>Dạ sản phẩm là thuốc kê toa mình vui lòng thăm khám bác sĩ trước khi dùng ạ.</p><p>Nhà thuốc thông tin đến chị.</p><p>Thân mến!</p>",
+              "createdAt": "2026-07-18 08:21:53",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-18 07:12:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3334307,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0775xxxxxx",
+          "name": "NÔNG VĂNDDAAAN",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "NHƯ THUÔC SHIP VỀ LÂU KO",
+          "createdAt": "2026-07-06 14:58:25",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-07-06 14:58:25",
+          "replies": [
+            {
+              "id": 3334333,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trương Anh Thư",
+                "moderatorEmail": "thuta13@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trương Anh Thư",
+              "email": "thuta13@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Đán ạ,</p><p>Thời gian giao hàng tại Hệ thống Nhà thuốc FPT Long Châu rất tối ưu và nhanh chóng. Thông thường đơn hàng sẽ được giao đến tay Anh trong vòng 2 đến 4 giờ đối với khu vực nội thành và từ 1 đến 3 ngày đối với các tỉnh thành khác trên toàn quốc ạ.</p><p>Nhà thuốc thông tin đến anh.</p>",
+              "createdAt": "2026-07-06 15:38:03",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-07-06 14:58:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3313724,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0374xxxxxx",
+          "name": "Chị Quỳnh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Cho em xin giá với ạ",
+          "createdAt": "2026-05-27 17:20:29",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-27 17:20:29",
+          "replies": [
+            {
+              "id": 3313742,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Vũ Tiến Thành",
+                "moderatorEmail": "thanhvt57@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Vũ Tiến Thành",
+              "email": "thanhvt57@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Quỳnh,</p><p>Hiện tại thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính có giá là 48.000 đ/hộp ạ</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a> <a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-05-27 18:02:57",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-27 17:20:29",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 2,
+      "items": [
+        {
+          "id": 3338035,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0968xxxxxx",
+          "name": "Nguyễn Xuân Phong",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-07-13 10:25:05",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-13 10:25:05",
+          "replies": [
+            {
+              "id": 3338047,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Phan Quỳnh Anh",
+                "moderatorEmail": "anhnpq3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Phan Quỳnh Anh",
+              "email": "anhnpq3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh <strong>Nguyễn Xuân Phong</strong>,</p><p>Dạ nhà thuốc FPT Long Châu rất cảm ơn anh luôn tin tưởng và ủng hộ. Chúc anh nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-07-13 10:43:50",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-13 10:25:05",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 235271,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0933xxxxxx",
+          "name": "Nguyễn Văn Khôi",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2023-10-03 19:22:49",
+          "createdAtDisplay": "03/10/2023",
+          "updatedAt": "2023-10-03 19:24:10",
+          "replies": [
+            {
+              "id": 235273,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Thị Giang",
+                "moderatorEmail": "GiangMT8@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Mai Thị Giang",
+              "email": "GiangMT8@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<div style=\"font-family: Roboto;\"><p>Chào bạn Nguyễn Văn Khôi,</p></div><div style=\"font-family: Roboto;\"><p>Dạ cảm ơn bạn tin tưởng và ủng hộ nhà thuốc. Chúc bạn nhiều sức khỏe. Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng. <br>Thân mến!</p></div>",
+              "createdAt": "2023-10-03 19:24:10",
+              "createdAtDisplay": "03/10/2023",
+              "updatedAt": "2023-10-03 19:24:10",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 2
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính (2 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dorogyne_2x10_domesco_00002571_c5b34d044f.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2797_ed11dd881b.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2798_93ca36fedb.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2799_fbff5c0082.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2800_89963f86a2.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2801_afb7e2d210.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2803_6a83ffb12f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2802_8f22a826c0.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2804_42322acd19.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2805_697ae4de18.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dorogyne_a085203ff6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dorogyne_2_270f8c5167.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Dorogyne là sản phẩm của Công ty Cổ phần Xuất nhập khẩu Y tế Domesco, với thành phần chính Spiramycin base và Metronidazol. Đây là một loại thuốc có tác dụng điều trị các bệnh nhiễm trùng răng miệng cấp, mạn tính hoặc tái phát như áp-xe răng, viêm tấy, viêm mô tế bào quanh xương hàm, viêm quanh thân răng, viêm nướu, viêm nha chu, viêm miệng, viêm tuyến mang tai, viêm dưới hàm; phòng các bệnh nhiễm khuẩn răng miệng sau phẫu thuật.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ngô Kim Thúy"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "2"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Dorogyne - Kháng sinh trị nhiễm trùng răng miệng (2 vỉ x 10 viên)",
+      "description": "Thuốc Dorogyne Domesco là thuốc điều trị các bệnh nhiễm trùng răng miệng như áp-xe răng, viêm tấy, viêm mô tế bào quanh xương hàm, viêm nướu, viêm nha chu...",
+      "openGraph": {
+        "title": "Thuốc Dorogyne Domesco điều trị các bệnh nhiễm khuẩn răng miệng cấp và mạn tính (2 vỉ x 10 viên)",
+        "description": "Thuốc Dorogyne là sản phẩm của Công ty Cổ phần Xuất nhập khẩu Y tế Domesco, với thành phần chính Spiramycin base và Metronidazol. Đây là một loại thuốc có tác dụng điều trị các bệnh nhiễm trùng răng miệng cấp, mạn tính hoặc tái phát như áp-xe răng, viêm tấy, viêm mô tế bào quanh xương hàm, viêm quanh thân răng, viêm nướu, viêm nha chu, viêm miệng, viêm tuyến mang tai, viêm dưới hàm; phòng các bệnh nhiễm khuẩn răng miệng sau phẫu thuật.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/dorogyne_2x10_domesco_00002571_c5b34d044f.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/dorogyne-3944.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/dorogyne-3944.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

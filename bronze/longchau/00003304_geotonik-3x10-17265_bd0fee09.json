@@ -1,0 +1,2051 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/geotonik-3x10-17265.html",
+  "ingestion_timestamp": "2026-09-05T09:49:08.765737+00:00",
+  "file_hash": "30749d426e6286684bfcf042f94097e3df61b8600be49c86fe99723a4180bef5",
+  "lineage_hash": "bb1e14cb8cb4d914c131fdb91089c5a983c32b5b3f5379265ca3c663d3427aaf",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/geotonik-3x10-17265.html",
+    "product": {
+      "sku": "00003304",
+      "webName": "Thuốc Geotonik bổ sung Vitamin, khoáng chất (3 vỉ x 10 viên)",
+      "name": "GEOTONIK 3X10",
+      "shortName": "GEOTONIK 3X10",
+      "headingText": "Thuốc Geotonik",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_2039_60fa_large_d0c3cc7aac.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_8435_60fa_large_e0e0b05d70.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_9379_60fa_large_a9976ce9ee.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_5695_60fa_large_37fe91431f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_2713_60fa_large_2af8965a06.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_3281_60fa_large_8499f4da5b.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 727,
+          "name": "Thuốc bổ & vitamin",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-bo-and-vitamin",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 752,
+          "name": "Thuốc bổ",
+          "parentName": "Thuốc bổ & vitamin",
+          "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/geotonik-3x10-17265.html",
+      "ingredient": [
+        {
+          "id": 42826,
+          "ingredientId": 35190,
+          "shortDescription": "20mg",
+          "name": "Rutin",
+          "isPrimary": false,
+          "slug": "thanh-phan/rutin"
+        },
+        {
+          "id": 42827,
+          "ingredientId": 16264,
+          "shortDescription": "6mcg",
+          "name": "Cyanocobalamin",
+          "isPrimary": false,
+          "slug": "thanh-phan/cyanocobalamin"
+        },
+        {
+          "id": 42828,
+          "ingredientId": 38157,
+          "shortDescription": "1.62mg",
+          "name": "Thiamin",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 42829,
+          "ingredientId": 20215,
+          "shortDescription": "54.76mg",
+          "name": "Ferrous fumarate",
+          "isPrimary": false,
+          "slug": "thanh-phan/ferrous-fumarate"
+        },
+        {
+          "id": 42830,
+          "ingredientId": 16620,
+          "shortDescription": "30.2mg",
+          "name": "D-alpha-Tocopherol acetate",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 42831,
+          "ingredientId": 21264,
+          "shortDescription": "40mg",
+          "name": "Ginseng",
+          "isPrimary": false,
+          "slug": "thanh-phan/ginseng"
+        },
+        {
+          "id": 42832,
+          "ingredientId": 7418,
+          "shortDescription": "60mg",
+          "name": "Acid Ascorbic",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 42833,
+          "ingredientId": 24394,
+          "shortDescription": "8mg",
+          "name": "Kali",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 42834,
+          "ingredientId": 18483,
+          "shortDescription": "14.29mg",
+          "name": "Đồng gluconat",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 42835,
+          "ingredientId": 26506,
+          "shortDescription": "1mg",
+          "name": "Mangan",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 42836,
+          "ingredientId": 34748,
+          "shortDescription": "2mg",
+          "name": "Riboflavin",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 42837,
+          "ingredientId": 12282,
+          "shortDescription": "13.75mg",
+          "name": "Calci pantothenat",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 42838,
+          "ingredientId": 29896,
+          "shortDescription": "20mg",
+          "name": "Nicotinamid",
+          "isPrimary": false,
+          "slug": "thanh-phan/nicotinamid"
+        },
+        {
+          "id": 42839,
+          "ingredientId": 33932,
+          "shortDescription": "2mg",
+          "name": "Pyridoxin hydroclorid",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 42840,
+          "ingredientId": 24482,
+          "shortDescription": "4mg",
+          "name": "Kẽm",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 42841,
+          "ingredientId": 40309,
+          "shortDescription": "5000IU",
+          "name": "Vitamin A",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-a"
+        },
+        {
+          "id": 42842,
+          "ingredientId": 40361,
+          "shortDescription": "400mg",
+          "name": "Vitamin D3",
+          "isPrimary": false,
+          "slug": "thanh-phan/vitamin-d3"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "930110022825",
+      "manufactor": "Úc",
+      "dosageForm": "Viên nang mềm",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Thuốc dùng đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Liều dùng thông thường cho người lớn là 1 viên nang mềm/ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Chưa có thông tin về quá liều thuốc.</p>\n\n<p><em>Xử trí:</em></p>\n\n<p>Điều trị triệu chứng.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/geotonik-3x10-17265.html\">Thuốc Geotonik 3X10</a> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Chỉ định bổ sung vitamin và khoáng chất trong những trường hợp sau: Thể chất yếu, chán ăn, loạn dưỡng, cơ thể gầy yếu, mệt mỏi, stress, phụ nữ có thai, phụ nữ cho con bú, trẻ đang tuổi lớn. </li>\n\t<li>Là thuốc bổ và giảm mệt mỏi trong các trường hợp suy giảm thể chất khi đang bị bệnh hoặc trong giai đoạn hồi phục.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Geotonik là một phối hợp đa thành phần các yếu tố cần thiết cho sự chuyển hoá của cơ thể như: <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/nhan-sam-than-re-va-re\">Nhân sâm</a>, rutin, vitamin và các khoáng chất. Tất cả các thành phần này đều có tác động ở lượng nhỏ và hiệp đồng với nhau bất kể cơ thể đang khỏe mạnh hay đang mắc bệnh.</p>\n\n<p>Các chất này nếu không được cung cấp đủ có thể dẫn đến những thay đổi của các chức năng sống quan trọng đặc biệt trong các bệnh truyền nhiễm, mất cân bằng dinh dưỡng, làm việc quá sức, mới khỏi bệnh hay sau khi phẫu thuật hoặc đang mang thai hay cho con bú.</p>\n\n<p>Tuổi tác cũng làm giảm sự hấp thu các yếu tố này qua chế độ ăn, do đó làm suy giảm sức khỏe, sức đề kháng với ngoại cảnh và các bệnh nhiễm trùng cũng như một số bệnh chuyển hoá khác.</p>\n\n<p>Geotonik giúp cơ thể duy trì sự cân bằng của các yếu tố cần thiết.</p>\n\n<p>Vitamin A (Retinol palmitat): Là một vitamin cần thiết cho thị giác, cho sự tăng trưởng, phát triển và duy trì của biểu mô.</p>\n\n<p>Vitamin B1 (Thiamin nitrat): Dạng Co-enzym tham gia các phản ứng khử carboxyl của các acid α-Cetoglutaric và pyruvic. Thoái hóa glucid để tạo năng lượng cho nhu cầu chuyển hóa tế bào và dẫn truyền thần kinh. Tổng hợp acetyl cholin, các acid béo và các steroid. Thiếu B1 sẽ gây ra bệnh Beriberi (tê phù), viêm dây thần ngoại biên, rối loạn cảm giác chi.</p>\n\n<p>Vitamin B2 (Riboflavin): Được biến đổi thành các Co-enzyme hoạt động cần cho sự hô hấp của mô, chuyển hóa tryptophane thành niacin, hoạt hóa riboflavin và liên quan đến sự toàn vẹn của hồng cầu.</p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/bai-viet/vitamin-b6-la-gi-vai-tro-va-cong-dung-doi-voi-suc-khoe-ma-ban-nen-biet-48761.html\">Vitamin B6</a> (Pyridoxin hydroclorid): Sau khi vào cơ thể được biến đổi thành pyridoxal phosphate và pyridoxamin phosphat rồi hoạt động như những coenzyme trong chuyển hoá protein, glucid, lipid. Vitamin B6 còn tham gia tổng hợp acid gamma-aminobutyric (GABA) trong hệ thần kinh trung ương và tham gia tổng hợp hemoglobulin.</p>\n\n<p>Vitamin B12 (Cyanocobalamin): Có tác dụng trong tạo máu. Trong cơ thể biến đổi thành các coenzyme rất cần thiết cho tế bào sao chép và tăng trưởng.</p>\n\n<p>Vitamin D3 (Cholecalciferol): Có tác dụng duy trì nồng độ calci và phospho bình thường trong huyết tương.</p>\n\n<p>Calci pantothenat: Đóng vai trò coenzyme trong chuyển hoá carbonhydrate, lipid, protein.</p>\n\n<p>Vitamine E (d-alpha tocopherol): Vitamin E có tác dụng ngăn cản oxy hoá các thành phần thiết yếu trong tế bào, ngăn cản tạo thành các sản phẩm độc hại (peroxyd), tham gia phản ứng với các gốc tự do.</p>\n\n<p>Calci: Có vai trò quan trọng trong cấu tạo xương, ion Ca++ có vai trò quan trọng trong nhiều quá trình sinh học.</p>\n\n<p>Sắt: Cần thiết cho sự tạo hemoglobin, myoglobin và enzyme hô hấp cytochrom C.</p>\n\n<p>Mangan: Hoạt động như một coenzym để hỗ trợ hoạt động trao đổi chất trong cơ thể con người, tham gia vào sự hình thành các mô liên kết, sự hấp thu canxi, chức năng của tuyến giáp và hormone sinh dục, điều tiết lượng đường trong máu, chuyển hóa chất béo và carbohydrat.</p>\n\n<p>Kẽm: Cần thiết cho hệ thống miễn dịch của cơ thể. Ngoài ra kẽm còn có vai trò trong phân chia tế bào, cần thiết cho sự phát triển bình thường của tóc, da, móng tay.</p>\n\n<p>Kali: Cần thiết cho quá trình phát triển của cơ thể, hình thành cơ, dẫn truyền xung thần kinh, hoạt động của tim.</p>\n\n<p>Đồng: Giúp cơ thể hấp thu sắt, giúp cơ thể hấp thu vitamin C để tạo collagen, giúp sắt tạo thành hemoglobin để vận chuyển oxy trong máu. Đồng còn tác dụng lên màu da và hệ thần kinh.</p>\n\n<p>Nicotinamid: Thực hiện chức năng sau khi chuyển thành hoặc nicotinamid adenin dinucleotid (NAD) hoặc nicotinamid adenin dinucleotid phosphat (NADP). NAD và NADP có vai trò sống còn trong chuyển hóa, như một coenzym xúc tác phản ứng oxy hóa - khử cần thiết cho hô hấp tế bào, phân giải glycogen, và chuyển hóa lipid. Trong các phản ứng đó các coenzym này có tác dụng như những phân tử vận chuyển hydro.</p>\n\n<p>Rutin: Rutin là một flavonoid thuộc nhóm euflavonoid, có tác dụng làm bền và giảm tính thấm của mao mạch, tăng sự bền vững của hồng cầu, hạ thấp trương lực cơ và chống co thắt.</p>\n\n<p>Bột rễ nhân sâm: Thành phần chính là các ginsenosid, có tác dụng tăng mức độ hoạt động tổng quát của tế bào, thể hiện qua sự gia tăng rõ rệt khả năng thể chất và trí tuệ. Trong các thí nghiệm trên động vật, ginsenosid làm giảm nồng độ acid lactic trong cơ tích tụ qua quá trình vận động. Có thể quan sát được sự gia tăng thành phần dopamin và noradrenalin và giảm serotonin trong thân não.</p>\n\n<h3>Dược động học</h3>\n\n<p>Vitamin A (Retinol palmitat): Được hấp thu cùng với dầu mỡ trong thức ăn qua màng ruột, dự trữ ở gan dạng este và thải trừ dưới dạng glucoronid qua thận và ruột.</p>\n\n<p>Vitamin B1 (Thiamin nitrat): Hấp thu qua đường tiêu hoá theo cả 2 cơ chế tích cực và thụ động (nếu nồng độ trong đường tiêu hoá cao), không thấy hoặc rất ít thải trừ qua nước tiêu dưới dạng không chuyển hoá nếu dùng không quá 1g/ngày ở người lớn. Nếu dùng hơn 1g/mg ngày thì mức thải qua nước tiểu tăng lên.</p>\n\n<p>Vitamtin B2 (Riboflavin): Hấp thu qua đường tiêu hoá, đào thải qua thận dưới dạng không chuyển hoá.</p>\n\n<p>Vitamin B6 (Pyridoxin hydroclorid): Hấp thu nhanh chóng qua đường tiêu hoá, phần lớn được dự trữ ở cơ và não, thải trừ chủ yếu qua thận dưới dạng không chuyển hoá.</p>\n\n<p>Vitamin B12 (Cyanocobalamin): Hấp thu qua ruột theo cả 2 hai cơ chế tích cực và thụ động (nồng độ cao), thải trừ qua mật.</p>\n\n<p>Vitamin D3 (Cholecalciferol): Để hấp thu qua màng ruột cần có mật, thời gian bán thải là 19 - 25 giờ, thuốc được lưu giữ thời gian dài trong các mô mỡ.</p>\n\n<p>Calci pantothenat: Hấp thu tốt tại đường tiêu hoá, phân bố rộng rãi trong các mô của cơ thể, xuất hiện cả trong sữa. 70% thải trừ qua nước tiểu dưới dạng không chuyển hoá, 30% thải trừ qua phân.</p>\n\n<p>Vitamine E (d-alpha-tocopherol): Để hấp thu vitamin E qua đường tiêu hoá, mật và tuyến tụy phải hoạt động bình thường. Lượng vitamin E hấp thu giảm khi liều dùng tăng lên. Thuốc vào máu qua vi dưỡng chấp trong bạch huyết, rồi phân bố rống rãi vào tất cả các mô và tích lại ở các mô mỡ. Một ít vitamin E chuyển hoá ở gan thành các glucuronid của acid tocopheronic và gamma-lacton của acid này, rồi thải qua nước tiểu, còn hầu hết liều dùng thải trừ chậm qua mật.</p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/nicotinamid\">Nicotinamid</a>: Nicotinamid được hấp thu nhanh qua đường tiêu hóa sau khi uống và phân bố rộng khắp vào các mô cơ thể. Nicotinamid chuyển hóa ở gan thành N-methylnicotinamid, các dẫn chất 2-pyridon và 4-pyridon, và còn tạo thành nicotinuric. Sau khi dùng nicotinamid với liều thông thường, chỉ có một lượng nhỏ nicotinamid bài tiết vào nước tiểu ở dạng không thay đổi.</p>\n\n<p>Calci: Hấp thu ở ruột tỷ lệ nghịch với lượng calci sử dụng, thải trừ qua nước tiểu và có một lượng lớn được tái hấp thu ở ống thận.</p>\n\n<p>Các khoáng chất (sắt, mangan, kẽm, kali, đồng): Hấp thu tốt qua đường tiêu hoá theo cả cơ chế thụ động và tích cực.</p>\n\n<p>Ginsenosid trong chiết xuất nhân sâm có sinh khả dụng khoảng 30%. Bằng cách tiêm phúc mạc, tùy vào loài thú đuợc thí nghiệm và loại ginsenosid, đo được thời gian bán hủy trong khoảng 27 phút và 14,5 giờ.</p>\n\n<p>Rutin được hấp thu ở đường tiêu hoá, thải trừ qua nước tiểu dưới dạng chuyển hoá và dạng không đổi.</p>",
+      "brand": "LIPA PHARMACEUTICALSLTD",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Geotonik 3X10, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Không rõ tần suất:</em></p>\n\n<ul>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">Rối loạn tiêu hóa</a>, một số phản ứng dị ứng, rối loạn kinh nguyệt.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Úc",
+      "producer": "Lipa Pharmaceuticals Ltd.",
+      "shortDescription": "<p>Geotonik 3X10 là sản phẩm thuốc của công ty Lipa Pharmaceuticals Ltd. với nhiều thành phần hoạt chất bao gồm <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/rutin\">rutin</a>, các vitamin nhóm B, sắt, kẽm và các vi chất khác. Thuốc được chỉ định Bổ sung vitamin và khoáng chất trong những trường hợp sau: Thể chất yếu, chán ăn, loạn dưỡng, cơ thể gầy yếu, mệt mỏi, stress, phụ nữ có thai, phụ nữ cho con bú, trẻ đang tuổi lớn. Ngoài ra thuốc còn là thuốc bổ và giúp giảm mệt mỏi trong các trường hợp suy giảm thể chất khi đang bị bệnh hoặc trong giai đoạn hồi phục.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": false,
+      "brandSlug": "thuong-hieu/lipa-pharmaceuticalsltd",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "GEOTONIK",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "24 tháng",
+      "brandOriginBadges": {
+        "id": 129,
+        "attributeName": "Úc",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 752,
+        "name": "Thuốc bổ",
+        "parentName": "Thuốc bổ & vitamin",
+        "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_2039_60fa_large_d0c3cc7aac.jpg",
+          "alternativeText": "Thuốc Geotonik bổ sung Vitamin, khoáng chất (3 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_8435_60fa_large_e0e0b05d70.jpg",
+          "alternativeText": "Thuốc Geotonik bổ sung Vitamin, khoáng chất (3 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_9379_60fa_large_a9976ce9ee.jpg",
+          "alternativeText": "Thuốc Geotonik bổ sung Vitamin, khoáng chất (3 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_5695_60fa_large_37fe91431f.jpg",
+          "alternativeText": "Thuốc Geotonik bổ sung Vitamin, khoáng chất (3 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_2713_60fa_large_2af8965a06.jpg",
+          "alternativeText": "Thuốc Geotonik bổ sung Vitamin, khoáng chất (3 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_3281_60fa_large_8499f4da5b.jpg",
+          "alternativeText": "Thuốc Geotonik bổ sung Vitamin, khoáng chất (3 vỉ x 10 viên) 6"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc bổ & vitamin",
+        "slug": "/thuoc/thuoc-bo-and-vitamin"
+      },
+      {
+        "name": "Thuốc bổ",
+        "slug": "/thuoc/thuoc-bo-and-vitamin/thuoc-bo"
+      }
+    ],
+    "content": {
+      "sku": "00003304",
+      "dosage": "<h3>Cách dùng</h3>\n\n<p>Thuốc dùng đường uống.</p>\n\n<h3>Liều dùng</h3>\n\n<p>Liều dùng thông thường cho người lớn là 1 viên nang mềm/ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3>Làm gì khi dùng quá liều?</h3>\n\n<p>Chưa có thông tin về quá liều thuốc.</p>\n\n<p><em>Xử trí:</em></p>\n\n<p>Điều trị triệu chứng.</p>\n\n<h3>Làm gì khi quên 1 liều?</h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<html><body><p>Tờ hướng dẫn sử dụng thuốc.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Geotonik 3X10, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Không rõ tần suất:</em></p>\n\n<ul>\n\t<li>\n\t<p><a href=\"https://nhathuoclongchau.com.vn/benh/roi-loan-tieu-hoa-210.html\">Rối loạn tiêu hóa</a>, một số phản ứng dị ứng, rối loạn kinh nguyệt.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Để nơi khô ráo, tránh ánh sáng, nhiệt độ dưới 30°C.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/geotonik-3x10-17265.html\">Thuốc Geotonik 3X10</a> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Chỉ định bổ sung vitamin và khoáng chất trong những trường hợp sau: Thể chất yếu, chán ăn, loạn dưỡng, cơ thể gầy yếu, mệt mỏi, stress, phụ nữ có thai, phụ nữ cho con bú, trẻ đang tuổi lớn. </li>\n\t<li>Là thuốc bổ và giảm mệt mỏi trong các trường hợp suy giảm thể chất khi đang bị bệnh hoặc trong giai đoạn hồi phục.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p>Geotonik là một phối hợp đa thành phần các yếu tố cần thiết cho sự chuyển hoá của cơ thể như: <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/nhan-sam-than-re-va-re\">Nhân sâm</a>, rutin, vitamin và các khoáng chất. Tất cả các thành phần này đều có tác động ở lượng nhỏ và hiệp đồng với nhau bất kể cơ thể đang khỏe mạnh hay đang mắc bệnh.</p>\n\n<p>Các chất này nếu không được cung cấp đủ có thể dẫn đến những thay đổi của các chức năng sống quan trọng đặc biệt trong các bệnh truyền nhiễm, mất cân bằng dinh dưỡng, làm việc quá sức, mới khỏi bệnh hay sau khi phẫu thuật hoặc đang mang thai hay cho con bú.</p>\n\n<p>Tuổi tác cũng làm giảm sự hấp thu các yếu tố này qua chế độ ăn, do đó làm suy giảm sức khỏe, sức đề kháng với ngoại cảnh và các bệnh nhiễm trùng cũng như một số bệnh chuyển hoá khác.</p>\n\n<p>Geotonik giúp cơ thể duy trì sự cân bằng của các yếu tố cần thiết.</p>\n\n<p>Vitamin A (Retinol palmitat): Là một vitamin cần thiết cho thị giác, cho sự tăng trưởng, phát triển và duy trì của biểu mô.</p>\n\n<p>Vitamin B1 (Thiamin nitrat): Dạng Co-enzym tham gia các phản ứng khử carboxyl của các acid α-Cetoglutaric và pyruvic. Thoái hóa glucid để tạo năng lượng cho nhu cầu chuyển hóa tế bào và dẫn truyền thần kinh. Tổng hợp acetyl cholin, các acid béo và các steroid. Thiếu B1 sẽ gây ra bệnh Beriberi (tê phù), viêm dây thần ngoại biên, rối loạn cảm giác chi.</p>\n\n<p>Vitamin B2 (Riboflavin): Được biến đổi thành các Co-enzyme hoạt động cần cho sự hô hấp của mô, chuyển hóa tryptophane thành niacin, hoạt hóa riboflavin và liên quan đến sự toàn vẹn của hồng cầu.</p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/bai-viet/vitamin-b6-la-gi-vai-tro-va-cong-dung-doi-voi-suc-khoe-ma-ban-nen-biet-48761.html\">Vitamin B6</a> (Pyridoxin hydroclorid): Sau khi vào cơ thể được biến đổi thành pyridoxal phosphate và pyridoxamin phosphat rồi hoạt động như những coenzyme trong chuyển hoá protein, glucid, lipid. Vitamin B6 còn tham gia tổng hợp acid gamma-aminobutyric (GABA) trong hệ thần kinh trung ương và tham gia tổng hợp hemoglobulin.</p>\n\n<p>Vitamin B12 (Cyanocobalamin): Có tác dụng trong tạo máu. Trong cơ thể biến đổi thành các coenzyme rất cần thiết cho tế bào sao chép và tăng trưởng.</p>\n\n<p>Vitamin D3 (Cholecalciferol): Có tác dụng duy trì nồng độ calci và phospho bình thường trong huyết tương.</p>\n\n<p>Calci pantothenat: Đóng vai trò coenzyme trong chuyển hoá carbonhydrate, lipid, protein.</p>\n\n<p>Vitamine E (d-alpha tocopherol): Vitamin E có tác dụng ngăn cản oxy hoá các thành phần thiết yếu trong tế bào, ngăn cản tạo thành các sản phẩm độc hại (peroxyd), tham gia phản ứng với các gốc tự do.</p>\n\n<p>Calci: Có vai trò quan trọng trong cấu tạo xương, ion Ca++ có vai trò quan trọng trong nhiều quá trình sinh học.</p>\n\n<p>Sắt: Cần thiết cho sự tạo hemoglobin, myoglobin và enzyme hô hấp cytochrom C.</p>\n\n<p>Mangan: Hoạt động như một coenzym để hỗ trợ hoạt động trao đổi chất trong cơ thể con người, tham gia vào sự hình thành các mô liên kết, sự hấp thu canxi, chức năng của tuyến giáp và hormone sinh dục, điều tiết lượng đường trong máu, chuyển hóa chất béo và carbohydrat.</p>\n\n<p>Kẽm: Cần thiết cho hệ thống miễn dịch của cơ thể. Ngoài ra kẽm còn có vai trò trong phân chia tế bào, cần thiết cho sự phát triển bình thường của tóc, da, móng tay.</p>\n\n<p>Kali: Cần thiết cho quá trình phát triển của cơ thể, hình thành cơ, dẫn truyền xung thần kinh, hoạt động của tim.</p>\n\n<p>Đồng: Giúp cơ thể hấp thu sắt, giúp cơ thể hấp thu vitamin C để tạo collagen, giúp sắt tạo thành hemoglobin để vận chuyển oxy trong máu. Đồng còn tác dụng lên màu da và hệ thần kinh.</p>\n\n<p>Nicotinamid: Thực hiện chức năng sau khi chuyển thành hoặc nicotinamid adenin dinucleotid (NAD) hoặc nicotinamid adenin dinucleotid phosphat (NADP). NAD và NADP có vai trò sống còn trong chuyển hóa, như một coenzym xúc tác phản ứng oxy hóa - khử cần thiết cho hô hấp tế bào, phân giải glycogen, và chuyển hóa lipid. Trong các phản ứng đó các coenzym này có tác dụng như những phân tử vận chuyển hydro.</p>\n\n<p>Rutin: Rutin là một flavonoid thuộc nhóm euflavonoid, có tác dụng làm bền và giảm tính thấm của mao mạch, tăng sự bền vững của hồng cầu, hạ thấp trương lực cơ và chống co thắt.</p>\n\n<p>Bột rễ nhân sâm: Thành phần chính là các ginsenosid, có tác dụng tăng mức độ hoạt động tổng quát của tế bào, thể hiện qua sự gia tăng rõ rệt khả năng thể chất và trí tuệ. Trong các thí nghiệm trên động vật, ginsenosid làm giảm nồng độ acid lactic trong cơ tích tụ qua quá trình vận động. Có thể quan sát được sự gia tăng thành phần dopamin và noradrenalin và giảm serotonin trong thân não.</p>\n\n<h3>Dược động học</h3>\n\n<p>Vitamin A (Retinol palmitat): Được hấp thu cùng với dầu mỡ trong thức ăn qua màng ruột, dự trữ ở gan dạng este và thải trừ dưới dạng glucoronid qua thận và ruột.</p>\n\n<p>Vitamin B1 (Thiamin nitrat): Hấp thu qua đường tiêu hoá theo cả 2 cơ chế tích cực và thụ động (nếu nồng độ trong đường tiêu hoá cao), không thấy hoặc rất ít thải trừ qua nước tiêu dưới dạng không chuyển hoá nếu dùng không quá 1g/ngày ở người lớn. Nếu dùng hơn 1g/mg ngày thì mức thải qua nước tiểu tăng lên.</p>\n\n<p>Vitamtin B2 (Riboflavin): Hấp thu qua đường tiêu hoá, đào thải qua thận dưới dạng không chuyển hoá.</p>\n\n<p>Vitamin B6 (Pyridoxin hydroclorid): Hấp thu nhanh chóng qua đường tiêu hoá, phần lớn được dự trữ ở cơ và não, thải trừ chủ yếu qua thận dưới dạng không chuyển hoá.</p>\n\n<p>Vitamin B12 (Cyanocobalamin): Hấp thu qua ruột theo cả 2 hai cơ chế tích cực và thụ động (nồng độ cao), thải trừ qua mật.</p>\n\n<p>Vitamin D3 (Cholecalciferol): Để hấp thu qua màng ruột cần có mật, thời gian bán thải là 19 - 25 giờ, thuốc được lưu giữ thời gian dài trong các mô mỡ.</p>\n\n<p>Calci pantothenat: Hấp thu tốt tại đường tiêu hoá, phân bố rộng rãi trong các mô của cơ thể, xuất hiện cả trong sữa. 70% thải trừ qua nước tiểu dưới dạng không chuyển hoá, 30% thải trừ qua phân.</p>\n\n<p>Vitamine E (d-alpha-tocopherol): Để hấp thu vitamin E qua đường tiêu hoá, mật và tuyến tụy phải hoạt động bình thường. Lượng vitamin E hấp thu giảm khi liều dùng tăng lên. Thuốc vào máu qua vi dưỡng chấp trong bạch huyết, rồi phân bố rống rãi vào tất cả các mô và tích lại ở các mô mỡ. Một ít vitamin E chuyển hoá ở gan thành các glucuronid của acid tocopheronic và gamma-lacton của acid này, rồi thải qua nước tiểu, còn hầu hết liều dùng thải trừ chậm qua mật.</p>\n\n<p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/nicotinamid\">Nicotinamid</a>: Nicotinamid được hấp thu nhanh qua đường tiêu hóa sau khi uống và phân bố rộng khắp vào các mô cơ thể. Nicotinamid chuyển hóa ở gan thành N-methylnicotinamid, các dẫn chất 2-pyridon và 4-pyridon, và còn tạo thành nicotinuric. Sau khi dùng nicotinamid với liều thông thường, chỉ có một lượng nhỏ nicotinamid bài tiết vào nước tiểu ở dạng không thay đổi.</p>\n\n<p>Calci: Hấp thu ở ruột tỷ lệ nghịch với lượng calci sử dụng, thải trừ qua nước tiểu và có một lượng lớn được tái hấp thu ở ống thận.</p>\n\n<p>Các khoáng chất (sắt, mangan, kẽm, kali, đồng): Hấp thu tốt qua đường tiêu hoá theo cả cơ chế thụ động và tích cực.</p>\n\n<p>Ginsenosid trong chiết xuất nhân sâm có sinh khả dụng khoảng 30%. Bằng cách tiêm phúc mạc, tùy vào loài thú đuợc thí nghiệm và loại ginsenosid, đo được thời gian bán hủy trong khoảng 27 phút và 14,5 giờ.</p>\n\n<p>Rutin được hấp thu ở đường tiêu hoá, thải trừ qua nước tiểu dưới dạng chuyển hoá và dạng không đổi.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định </h3>\n\n<p>Thuốc Geotonik 3X10 chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Bệnh nhân mẫn cảm với bất cứ thành phần nào của thuốc.</p>\n\t</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Vì vitamin A cũng được cung cấp trong thức ăn hàng ngày, không nên dùng quá 5000 IU vitamin A mỗi ngày.</p>\n\n<p>Dùng hơn 8000 IU vitamin A (retinol) mỗi ngày có khả năng sinh quái thai, do đó không được dùng vitamin A vượt quá 5000 IU mỗi ngày ở phụ nữ trong 03 tháng đầu của thai kỳ hoặc phụ nữ có khả năng mang thai (ngoại trừ bệnh nhân thiếu vitamin A).</p>\n\n<p>Cần thận trọng khi sử dụng cho bệnh nhân tăng oxalat niệu.</p>\n\n<p>Thuốc có thể ảnh hưởng đến kết quả xét nghiệm glucose trong nước tiểu. Chẩn đoán lâm sàng có thể bị ảnh hưởng do sự đổi màu nước tiểu sang màu vàng.</p>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Không ảnh hưởng.</p>\n\n<h3>Thời kỳ mang thai </h3>\n\n<p>Có một vài báo cáo về tính sinh dị tật thai nhi, bị nghi ngờ do người mẹ dùng thường xuyên vitamin A liều cao (hơn 8.000 IU mỗi ngày) trong hoặc trước 3 tháng đầu thai kỳ. Do vậy khi dùng cho phụ nữ có thai hoặc có khả năng có thai phải thận trọng về liều lượng và cách dùng. Thuốc không gây ảnh hưởng cho phụ nữ có thai khi dùng đúng theo liều chỉ định.</p>\n\n<h3>Thời kỳ cho con bú</h3>\n\n<p>Thuốc không gây ảnh hưởng cho phụ nữ cho con bú khi dùng đúng theo liều chỉ định.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p>Chưa có nghiên cứu đầy đủ về tương tác thuốc của sản phẩm kết hợp nhân sâm, multi-vitamin và khoáng chất (viên nang mềm Geotonik), tuy nhiên các tương tác đơn lẻ của một số hoạt chất trong thuốc đã được báo cáo:</p>\n\n<p><em>Vitamin A (retinol palmitat):</em></p>\n\n<p>Neomycin, cholesterol, parafin lỏng làm giảm hấp thu vitamin A. Các thuốc uống tránh thai có thể làm tăng nồng độ vitamin A trong huyết tương và có tác dụng không thuận lợi cho sự thụ thai. Vitamin A và isotretinoin dùng đồng thời thì có thể dẫn đến tình trạng như dùng vitamin A quá liều.</p>\n\n<p><em>Vitamin E (alpha-tocopherol acetat):</em></p>\n\n<p>Vitamin E liều cao có thể suy giảm khả năng hấp thu của dạ dày đối với vitamin A và vitamin K. Vitamin E cũng có thể làm suy giảm tác dụng của vitamin K đối với quá trình tái tạo prothrombin và do vậy nó có thể làm cho warfarin phát huy tác dụng.</p>\n\n<p><em>Vitamin D3 (cholecalciferol):</em></p>\n\n<p>Không nên điều trị đồng thời vitamin D với cholestyramin hoặc colestipol hydroclorid, vì có thể dẫn đến giảm hấp thu vitamin D ở ruột. Không nên dùng đồng thời vitamin D với corticosteroid do cản trở tác dụng của vitamin D.</p>\n\n<p><em>Calcium pantothenat:</em></p>\n\n<p>Vitamin B5 tương tác với một số hoạt chất đối kháng như avidin, biotin, sulffon, desthiobiotin và một vài acid imidazolidon carboxylic.</p>\n\n<p><em>Vitamin B2 (riboflavin): </em></p>\n\n<p>Rượu có thể gây cản trở hấp thu riboflavin ở ruột. Probenecid sử dụng cùng riboflavin gây giảm hấp thu riboflavin ở dạ dày, ruột.</p>\n\n<p><em>Vitamin PP (nicotinamid):</em></p>\n\n<p>Sử dụng nicotinamid đồng thời với chất ức chế men khử HGM-CoA có thể làm tăng nguy cơ gây tiêu cơ vân. Sử dụng nicotinamid đồng thời với thuốc chẹn alpha-adrenergic trị tăng huyết áp có thể dẫn đến hạ huyết áp quá mức. Khẩu phần ăn và/hoặc liều lượng uống thuốc hạ đường huyết hoặc insulin có thể cần phải điều chỉnh khi sử dụng đồng thời với nicotinamid. Sử dụng nicotinamid đồng thời với các thuốc có độc tính với gan có thể làm tăng thêm tác hại độc cho gan. Không nên dùng đồng thời nicotinamid với carbamazepin vì gây tăng nồng độ carbamazepin huyết tương dẫn đến tăng độc tính.</p>\n\n<p><em>Vitamin B6 (pyridoxin hydroclorid):</em></p>\n\n<p>Vitamin B6 làm giảm tác dụng của levodopa trong điều trị bệnh Parkinson.</p>\n\n<p><em>Vitamin C (ascorbic acid):</em></p>\n\n<p>Dùng đồng thời vitamin C với aspirin làm tăng bài tiết vitamin C và làm giảm aspirin trong nước tiểu. Dùng đồng thời vitamin C và fluphenazin dẫn đến giảm nồng độ fluphenazin huyết tương. Sự acid hóa nước tiểu sau khi dùng vitamin C có thể làm thay đổi sự bài tiết của các thuốc khác.</p>\n\n<p><em>Calci:</em></p>\n\n<p>Những thuốc sau đây ức chế thải trừ calci qua thận: Các thiazid, clopamid, ciprofloxacin, chlorthalidon, thuốc chống co giật. Calci làm giảm hấp thu demeclocylin, doxycyclin, metacylin, minocyclin, sắt, kẽm và những chất khoáng thiết yếu khác. Thuốc lợi niệu thiazid làm tăng nồng độ calci huyết.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Geotonik Lipa: Thuốc bổ sung vitamin và khoáng chất",
+        "metaDescription": "Thuốc Geotonik Lipa Pharmaceuticals với nhiều thành phần hoạt chất bao gồm rutin, các vitamin nhóm B, sắt, kẽm và các vi chất khác được chỉ định bổ sung vitamin và khoáng chất.",
+        "id": 472,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_2039_60fa_large_d0c3cc7aac.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Geotonik bổ sung Vitamin, khoáng chất (3 vỉ x 10 viên)",
+            "description": "Geotonik 3X10 là sản phẩm thuốc của công ty Lipa Pharmaceuticals Ltd. với nhiều thành phần hoạt chất bao gồm rutin, các vitamin nhóm B, sắt, kẽm và các vi chất khác. Thuốc được chỉ định Bổ sung vitamin và khoáng chất trong những trường hợp sau: Thể chất yếu, chán ăn, loạn dưỡng, cơ thể gầy yếu, mệt mỏi, stress, phụ nữ có thai, phụ nữ cho con bú, trẻ đang tuổi lớn. Ngoài ra thuốc còn là thuốc bổ và giúp giảm mệt mỏi trong các trường hợp suy giảm thể chất khi đang bị bệnh hoặc trong giai đoạn hồi phục."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 373,
+        "title": "Dược lực học là gì?",
+        "content": "<p>\r\n\r\nDược lực học l&agrave; nghi&ecirc;n cứu c&aacute;c ảnh hưởng sinh h&oacute;a, sinh l&yacute;, v&agrave; ph&acirc;n tử của thuốc tr&ecirc;n cơ thể v&agrave; li&ecirc;n quan đến thụ thể li&ecirc;n kết, hiệu ứng sau thụ thể, v&agrave; tương t&aacute;c h&oacute;a học. Dược lực học, với dược động học, gi&uacute;p giải th&iacute;ch mối quan hệ giữa liều v&agrave; đ&aacute;p ứng, tức l&agrave; c&aacute;c t&aacute;c dụng của thuốc. Đ&aacute;p ứng dược l&yacute; phụ thuộc v&agrave;o sự li&ecirc;n kết của thuốc với đ&iacute;ch t&aacute;c dụng. Nồng độ thuốc ở vị tr&iacute; thụ thể ảnh hưởng đến t&aacute;c dụng của thuốc.</p>"
+      },
+      {
+        "id": 372,
+        "title": "Dược động học là gì?",
+        "content": "<p>\r\n\r\nDược động học l&agrave; những t&aacute;c động của cơ thể đối với thuốc trong suốt qu&aacute; tr&igrave;nh thuốc đi v&agrave;o, ở trong v&agrave; đi ra khỏi cơ thể- bao gồm c&aacute;c qu&aacute; tr&igrave;nh hấp thụ, sinh khả dụng, ph&acirc;n bố, chuyển h&oacute;a, v&agrave; thải trừ.</p>"
+      },
+      {
+        "id": 371,
+        "title": "Tác dụng phụ của thuốc là gì? Cách phòng tránh tác dụng phụ của thuốc",
+        "content": "<p>\r\n\r\nT&aacute;c dụng phụ l&agrave; những triệu chứng kh&ocirc;ng mong muốn xảy ra khi ch&uacute;ng ta uống thuốc. C&aacute;c t&aacute;c dụng phụ n&agrave;y c&oacute; thể kh&ocirc;ng nghi&ecirc;m trọng, chẳng hạn chỉ g&acirc;y <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><strong>đau đầu</strong></a> hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mieng-312.html\"><strong>kh&ocirc; miệng</strong></a>. Nhưng cũng c&oacute; những t&aacute;c dụng phụ đe dọa t&iacute;nh mạng. Cẩn ph&ograve;ng tr&aacute;nh t&aacute;c dụng phụ của <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> như: Th&ocirc;ng b&aacute;o c&aacute;c loại thuốc đang sử dụng với b&aacute;c sĩ, c&aacute;c <strong><a href=\"https://nhathuoclongchau.com.vn/benh\">bệnh</a></strong> l&yacute; nền hiện tại, c&aacute;c tương t&aacute;c của thuốc đến thực phẩm hằng ng&agrave;y. Đọc kỹ hướng dẫn sử dụng thuốc v&agrave; nếu gặp t&aacute;c dụng phụ cần b&aacute;o ngay cho b&aacute;c sĩ.</p>"
+      },
+      {
+        "id": 370,
+        "title": "Sử dụng thuốc đúng cách như thế nào?",
+        "content": "<p>\r\n\r\nSử dụng <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> đ&uacute;ng c&aacute;ch l&agrave; uống thuốc theo chỉ dẫn của dược sĩ, b&aacute;c sĩ. Ngo&agrave;i ra kh&ocirc;ng d&ugrave;ng nước quả, nước kho&aacute;ng hoặc c&aacute;c loại nước ngọt đ&oacute;ng hộp c&oacute; gas để uống thuốc. Kh&ocirc;ng d&ugrave;ng sữa để uống thuốc v&igrave; trong th&agrave;nh phần của sữa c&oacute; chứa <strong><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/canxi\">canxi</a></strong>. Kh&ocirc;ng d&ugrave;ng c&agrave; ph&ecirc; hay nước ch&egrave; để uống thuốc. Chỉ n&ecirc;n uống c&ugrave;ng nước lọc.</p>"
+      },
+      {
+        "id": 369,
+        "title": "Các dạng bào chế của thuốc?",
+        "content": "<p>\r\n\r\nC&oacute; c&aacute;c dạng b&agrave;o chế thuốc như<br />\r\nTheo thể chất:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc thể rắn (thuốc bột, thuốc vi&ecirc;n).</li>\r\n\t<li>C&aacute;c dạng thuốc thể mềm (thuốc cao, thuốc mỡ, gel).</li>\r\n\t<li>C&aacute;c dạng thuốc thể lỏng (dung dịch, hỗn dịch, nhũ dịch, xiro).</li>\r\n</ul>\r\n\r\n<p>Theo đường d&ugrave;ng:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc uống (vi&ecirc;n, bột, dung dịch, nhũ dịch, hỗn dịch).</li>\r\n\t<li>C&aacute;c dạng thuốc ti&ecirc;m (dung dịch, hỗn dịch, nhũ dịch, bột pha ti&ecirc;m, dịch truyền).</li>\r\n\t<li>C&aacute;c dạng thuốc d&ugrave;ng ngo&agrave;i (thuốc b&ocirc;i tr&ecirc;n da, thuốc nhỏ l&ecirc;n ni&ecirc;m mạc, thuốc s&uacute;c miệng).</li>\r\n\t<li>C&aacute;c dạng thuốc đặt v&agrave;o c&aacute;c hốc tự nhi&ecirc;n tr&ecirc;n cơ thể (thuốc đặt hậu m&ocirc;n, thuốc trứng đặt &acirc;m đạo...).</li>\r\n</ul>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00029004",
+        "name": "POKEMINE MEDISUN 20X10ML",
+        "webName": "Dung dịch uống Pokemine 50mg Medisun bổ sung sắt cho bệnh nhân thiếu máu (20 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/pokemine_20x10ml_medisun_00029004_18974a7442.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37079,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 152000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pokemine-medisun-20x10ml-29296.html",
+        "ingredients": "Sắt 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Medisun",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 20 ống X 10ml",
+        "prices": [
+          {
+            "id": 37079,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 152000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 37078,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 7600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00047080",
+        "name": "MYHEMO RELIV 3X10",
+        "webName": "Thuốc Myhemo 305mg Reliv dự phòng thiếu sắt và folic acid (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_myhemo_reliv_3x10_00047080_42c390f09b.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 73453,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 165000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/myhemo-reliv-3-x10.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 100mg",
+        "dosageForm": "Viên bao đường",
+        "brand": "Reliv",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 73453,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 165000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 73454,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 73455,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007450",
+        "name": "TOTHEMA 2X10 ỐNG 10ML",
+        "webName": "Dung dịch Tot'héma Innothera điều trị thiếu máu do sắt (2 vỉ x 10 ống x 10ml)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_04101_788e84a74a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10875,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 120000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tothema-1952.html",
+        "ingredients": "Mangan gluconat 1.33mg, Đồng gluconat 0.7mg, Sắt gluconat 50mg",
+        "dosageForm": "Dung dịch uống",
+        "brand": "Innothera",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 90,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 10 Ống x 10ml",
+        "prices": [
+          {
+            "id": 10875,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 120000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10873,
+            "measureUnitCode": 15,
+            "measureUnitName": "Ống",
+            "isSellDefault": false,
+            "price": 6000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10874,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049621",
+        "name": "VITAMIN A-D HDPHARMA 10X10",
+        "webName": "Thuốc Vitamin A-D Hdpharma dùng dự phòng và điều trị các triệu chứng do thiếu vitamin A - D (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_vitamin_a_d_10x10_hdpharma_00049621_f8bba8c44a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 78290,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 32000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vitamin-a-d-hdpharma-10-x10.html",
+        "ingredients": "Vitamin A 5000iu, Vitamin D3 400iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Hdpharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 78290,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 32000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 78291,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 3200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 78292,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 320,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00049065",
+        "name": "MAZZGIN DHG PHARMA 10X10",
+        "webName": "Thuốc Mazzgin DHG Pharma điều trị các trường hợp thiếu magnesi riêng biệt hay kết hợp (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_mazzgin_dhg_pharma_10x10_00049065_82218241b8.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 77246,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 53550,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/mazzgin-dhg-pharma-10-x10.html",
+        "ingredients": "Magnesi lactat dihydrat 470mg, Vitamin B6 5mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Dhg",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 77246,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 53550,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 77247,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 5355,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 77248,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 536,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00041155",
+        "name": "CARDIOTON LIPA 6X10",
+        "webName": "Thuốc Cardioton Lipa Pharma điều trị suy tim, tăng huyết áp, bổ sung năng lượng (6 vỉ x 10 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_cardioton_lipa_6x10_00041155_9ecff2b28f.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 62161,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 7667,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cardioton-lipa-6-x10.html",
+        "ingredients": "Ubidecarenone 30mg, D-alpha tocopherol 6.71mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "LIPA PHARMACEUTICALSLTD",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 62161,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 62159,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 460000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 62160,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 76667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500658",
+        "name": "ZY-10 FORTE 100MG Y-MED 3X10",
+        "webName": "Thuốc Zy-10 Forte 100mg Y-Med điều trị bệnh suy tim xung huyết, thiếu hụt coenzym Q10 (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/5_9e44bd6ebd.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48922,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 15600,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/zy-10-forte-100mg-hop-3-vi-x-10-vien-ha-tay-34787.html",
+        "ingredients": "Ubidecarenone 100mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Y-MED",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48922,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 15600,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 48924,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 468000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 48923,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 156000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 249,
+          "attributeName": "Ấn Độ",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/in_India_090039de61.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00009723",
+        "name": "BEROCCA BAYER 10V",
+        "webName": "Viên sủi Berocca Bayer bổ sung vitamin và khoáng chất (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1758_33831b7cab.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12974,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 75000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/berocca-1515.html",
+        "ingredients": "Vitamin B1 15mg, Vitamin B2 15mg, Vitamin B6 10mg, Vitamin B12 0.01mg, Vitamin B3 50mg, Vitamin B5 23mg, Magnesia 100mg, Vitamin C 500mg, Calcium 100mg, Vitamin B8 0.15mg, Kẽm 10mg",
+        "dosageForm": "Viên sủi",
+        "brand": "Bayer",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 12973,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 7500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12974,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 75000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00008451",
+        "name": "LONG HUYẾT PH 2X12 - TAN BẦM TÍM GIẢM PHÙ NỀ",
+        "webName": "Thuốc Long Huyết P/H Phúc Hưng đặc trị tan bầm tím, mau lành vết thương (2 vỉ x 12 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1039_fba416224d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 12490,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 47000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/long-huyet-ph-tan-bam-tim-chua-lanh-vet-thuong-1590.html",
+        "ingredients": "Cao khô huyết giác 280mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Phúc Hưng",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 2 vỉ x 12 viên",
+        "prices": [
+          {
+            "id": 12488,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1958,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 12489,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 23500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 12490,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 47000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007678",
+        "name": "UPSA-C 10V",
+        "webName": "Viên sủi UPSA-C UPSA SAS hỗ trợ điều trị tình trạng thiếu hụt vitamin C (10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1794_11051dc2c2.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11216,
+          "measureUnitCode": 2,
+          "measureUnitName": "Tuýp",
+          "isSellDefault": true,
+          "price": 37000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/upsa-c-1000mg-1878.html",
+        "ingredients": "Vitamin C 1000mg",
+        "dosageForm": "Viên nén sủi bọt",
+        "brand": "Upsa Sas",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Tuýp 10 Viên",
+        "prices": [
+          {
+            "id": 11215,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 3700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11216,
+            "measureUnitCode": 2,
+            "measureUnitName": "Tuýp",
+            "isSellDefault": true,
+            "price": 37000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007180",
+        "name": "TARDYFERON B9 3X10",
+        "webName": "Thuốc Tardyferon B9 Pierre Fabre dự phòng thiếu sắt, acid folic cho phụ nữ có thai (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_tardyferon_b9_3_vi_x_10_vien_pierre_fabre_00007180_aec7b4c600.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10449,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/tardyferon-b9-2068.html",
+        "ingredients": "Acid folic 0.35mg, Sắt 50mg",
+        "dosageForm": "Viên nén",
+        "brand": "Pierre Fabre",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 10449,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10451,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 87000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10450,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 29000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 261,
+          "attributeName": "Pháp",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006109",
+        "name": "PROCARE DIAMOND 216MG CATALENT 30V",
+        "webName": "Viên uống Procare Diamond bổ sung khoáng chất cho phụ nữ có thai và cho con bú (30 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006109_procare_diamond_216mg_7021_60ee_large_89e91ba6fb.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 752,
+            "name": "Thuốc bổ",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/thuoc-bo",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8834,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 420000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/procare-diamond-216mg-2522.html",
+        "ingredients": "Vitamin B1 5mg, Vitamin B2 5mg, Nicotinamide 5mg, Vitamin D3 200iu, Vitamin B6 5mg, Vitamin B12 10mcg, Vitamin E 10iu, Folic Acid 500mcg, Calcium 59mg, Phosphorus 46.6mg, Magnesium ion 30mg, Vitamin C 50mg, Zinc 8mg, Iron 24mg, Iodine 200mcg, Omega 3 500mg, Betacarotene 1mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "PROCARE",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 30 Viên",
+        "prices": [
+          {
+            "id": 8833,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 14000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 8834,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 420000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 254,
+          "attributeName": "Tây Ban Nha",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/es_Spain_03bf620563.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 21,
+      "items": [
+        {
+          "id": 3323892,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0974xxxxxx",
+          "name": "Nguyễn Hồng Huy",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Mình có thể dùng kết hợp với Haisamin sau ăn sáng mỗi thứ 1viên được không",
+          "createdAt": "2026-06-16 23:30:22",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-16 23:30:22",
+          "replies": [
+            {
+              "id": 3323954,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Bùi Cường Vi",
+                "moderatorEmail": "vibc@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Bùi Cường Vi",
+              "email": "vibc@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Huy,</p><p>Dạ Thuốc Geotonik bổ sung Vitamin, khoáng chất (3 vỉ x 10 viên) cả hai sản phẩm đều chứa vi lượng và các nhóm vitamin khác nhau. Tốt nhất nên uống cách nhau khoảng 2 -3 tiếng ạ.</p><p>Nhà thuốc thông tin đến anh ạ.</p><p><br></p><p><br></p>",
+              "createdAt": "2026-06-17 08:59:16",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-16 23:30:22",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3309293,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0396xxxxxx",
+          "name": "chị Thắm",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "có k ạ",
+          "createdAt": "2026-05-19 15:18:47",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-19 15:18:47",
+          "replies": [
+            {
+              "id": 3309298,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Bùi Cường Vi",
+                "moderatorEmail": "vibc@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Bùi Cường Vi",
+              "email": "vibc@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Thắm,</p><p>Hiện tại, sản phẩm Thuốc Geotonik bổ sung Vitamin, khoáng chất (3 vỉ x 10 viên) có giá 182,010 ₫/hộp ạ.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-05-19 15:21:12",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-19 15:18:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3279760,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0932xxxxxx",
+          "name": "0932xxxxxx",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "tôi ko cần tư vấn vì đã mua theo đơn bs, vì sao ko có chức năng chọn mua để cho vào giỏ hàng ",
+          "createdAt": "2026-03-25 10:47:47",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-25 10:47:47",
+          "replies": [
+            {
+              "id": 3279762,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Thuỳ Trang",
+                "moderatorEmail": "trangttt64@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Thuỳ Trang",
+              "email": "trangttt64@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý khách,</p><p>Dạ sản phẩm Thuốc Geotonik là thuốc kê đơn<strong> nên mình nhắn</strong> qua <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để dược sĩ tư vấn kỹ trước khi dùng ạ </p><p>Nhà thuốc thông tin đến Quý khách.</p>",
+              "createdAt": "2026-03-25 10:53:04",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-25 10:47:47",
+              "replies": []
+            },
+            {
+              "id": 3286775,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0955xxxxxx",
+              "name": "Vinh",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "giá bao nhiêu hộp này vậy?",
+              "createdAt": "2026-04-07 10:13:40",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-03-25 10:47:47",
+              "replies": []
+            },
+            {
+              "id": 3286778,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mào Thị Chín",
+                "moderatorEmail": "chinmt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mào Thị Chín",
+              "email": "chinmt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Vinh,</p><p>Hiện tại, Thuốc Geotonik bổ sung Vitamin, khoáng chất (3 vỉ x 10 viên) có giá 182,010đ/ hộp ạ.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-04-07 10:15:08",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-03-25 10:47:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3277303,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0980xxxxxx",
+          "name": "kiến",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá 1 hộp",
+          "createdAt": "2026-03-20 16:14:51",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-20 16:14:51",
+          "replies": [
+            {
+              "id": 3277328,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Bùi Cường Vi",
+                "moderatorEmail": "vibc@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Bùi Cường Vi",
+              "email": "vibc@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Kiến,</p><p>Hiện tại, sản phẩm Thuốc Geotonik bổ sung Vitamin, khoáng chất (3 vỉ x 10 viên) có giá 182,010 ₫/Hộp ạ.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-03-20 16:43:14",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-20 16:14:51",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3256738,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0363xxxxxx",
+          "name": "Kien",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Long Châu Quan Nhân, Thanh Xuân còn sản phẩm không shop",
+          "createdAt": "2026-02-05 11:31:25",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-05 11:31:25",
+          "replies": [
+            {
+              "id": 3256758,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thị Phượng",
+                "moderatorEmail": "phuonght34@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Thị Phượng",
+              "email": "phuonght34@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Kiên,</p><p>Dạ sản phẩm Thuốc Geotonik bổ sung Vitamin, khoáng chất (3 vỉ x 10 viên) còn hàng ở chi nhánh Quan Nhân, Thanh Xuân.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-02-05 11:42:53",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-05 11:31:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Geotonik bổ sung Vitamin, khoáng chất (3 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_2039_60fa_large_d0c3cc7aac.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_8435_60fa_large_e0e0b05d70.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_9379_60fa_large_a9976ce9ee.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_5695_60fa_large_37fe91431f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_2713_60fa_large_2af8965a06.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_3281_60fa_large_8499f4da5b.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Geotonik 3X10 là sản phẩm thuốc của công ty Lipa Pharmaceuticals Ltd. với nhiều thành phần hoạt chất bao gồm rutin, các vitamin nhóm B, sắt, kẽm và các vi chất khác. Thuốc được chỉ định Bổ sung vitamin và khoáng chất trong những trường hợp sau: Thể chất yếu, chán ăn, loạn dưỡng, cơ thể gầy yếu, mệt mỏi, stress, phụ nữ có thai, phụ nữ cho con bú, trẻ đang tuổi lớn. Ngoài ra thuốc còn là thuốc bổ và giúp giảm mệt mỏi trong các trường hợp suy giảm thể chất khi đang bị bệnh hoặc trong giai đoạn hồi phục.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Geotonik Lipa: Thuốc bổ sung vitamin và khoáng chất",
+      "description": "Thuốc Geotonik Lipa Pharmaceuticals với nhiều thành phần hoạt chất bao gồm rutin, các vitamin nhóm B, sắt, kẽm và các vi chất khác được chỉ định bổ sung vitamin và khoáng chất.",
+      "openGraph": {
+        "title": "Thuốc Geotonik bổ sung Vitamin, khoáng chất (3 vỉ x 10 viên)",
+        "description": "Geotonik 3X10 là sản phẩm thuốc của công ty Lipa Pharmaceuticals Ltd. với nhiều thành phần hoạt chất bao gồm rutin, các vitamin nhóm B, sắt, kẽm và các vi chất khác. Thuốc được chỉ định Bổ sung vitamin và khoáng chất trong những trường hợp sau: Thể chất yếu, chán ăn, loạn dưỡng, cơ thể gầy yếu, mệt mỏi, stress, phụ nữ có thai, phụ nữ cho con bú, trẻ đang tuổi lớn. Ngoài ra thuốc còn là thuốc bổ và giúp giảm mệt mỏi trong các trường hợp suy giảm thể chất khi đang bị bệnh hoặc trong giai đoạn hồi phục.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003304_geotonik_3x10_2039_60fa_large_d0c3cc7aac.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/geotonik-3x10-17265.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/geotonik-3x10-17265.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

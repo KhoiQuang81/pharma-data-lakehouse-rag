@@ -1,0 +1,1880 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/duphaston-3914.html",
+  "ingestion_timestamp": "2026-09-05T09:19:50.240835+00:00",
+  "file_hash": "9e5325b46f7917c2ccffa398bc0f1c5e78556eadf372df679b9a2b775b986bcb",
+  "lineage_hash": "810f928f38a1fb53fdacca36e059fe182086211eb3baa777e18e527512739c4d",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/duphaston-3914.html",
+    "product": {
+      "sku": "00002659",
+      "webName": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên)",
+      "name": "DUPHASTON ABBOTT 1X20",
+      "shortName": "DUPHASTON ABBOTT 1X20",
+      "headingText": "Thuốc Duphaston",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/duphaston_1x20_abbott_00002659_9d9b730077.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_6625_63ab_large_9ea20e6d07.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_8269_63ab_large_26787962e6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_1509_63ab_large_ef3edb485a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_6430_63ab_large_2afc1e2c02.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_5964_63ab_large_d915246d0d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_6522_63ab_large_fa00cbc706.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_7255_63ab_large_06f2cb5e80.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_2738_63ab_large_ffbde33a78.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_9516_63ab_large_dcaca2719c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_9015_63ab_large_f86f2190a3.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_1672193604_42539d3963.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 738,
+          "name": "Thuốc tiết niệu - sinh dục",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 823,
+          "name": "Thuốc nội tiết tố",
+          "parentName": "Thuốc tiết niệu - sinh dục",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 1 Vỉ x 20 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "1 Vỉ x 20 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "20 Viên"
+        }
+      ],
+      "slug": "thuoc/duphaston-3914.html",
+      "ingredient": [
+        {
+          "id": 48930,
+          "ingredientId": 18822,
+          "shortDescription": "10mg",
+          "name": "Dydrogesterone",
+          "isPrimary": false,
+          "slug": "thanh-phan/dydrogesterone"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "870110067423",
+      "manufactor": "Hà Lan",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3>Cách dùng</h3><p>Liều lượng điều chỉnh để thích hợp với mức độ nghiêm trọng của rối loạn và đáp ứng của từng bệnh nhân với trị liệu. Dùng đường uống. Dùng liều cao hơn nên dùng các viên nén trải đều trong ngày.</p><h3>Liều dùng</h3><p><i>Điều hòa chu kỳ kinh nguyệt:</i></p><p>Có thể&nbsp;đạt được chu kỳ 28 ngày bằng&nbsp;cách uống&nbsp;1 viên Duphaston mỗi ngày vào ngày thứ 11 đến ngày thứ 25 của chu kỳ.</p><p><i>Lạc nội mạc tử cung:</i></p><p>1 đến 3 viên Duphaston mỗi ngày từ ngày thứ 5 đến ngày thứ 25 của chu kỳ hoặc cho cả chu kỳ. Liều 10mg nên được uống trải đều trong ngày. Khuyến cáo nên bắt đầu điều trị với liều cao nhất.</p><p><i>Đau bụng kinh:</i></p><p>1 đến 2 viên Duphaston mỗi ngày từ ngày thứ 5 đến ngày thứ 25 của chu kỳ. Liều 10 mg nên được uống trải đều trong ngày. Khuyến cáo nên bắt đầu điều trị với liều cao nhất.</p><p><i>Vô sinh do suy hoàng thể:</i></p><p>1 viên Duphaston mỗi ngày từ ngày thứ 14 đến ngày thứ 25 của chu kỳ. Trị liệu nên được duy trì trong ít nhất 6 chu kỳ liên tiếp. Nên tiếp tục trị liệu này trong những tháng đầu của thai kỳ ở liều lượng như đã chỉ định cho sảy thai liên tiếp.</p><p><i>Hỗ trợ hoàng thể trong hỗ trợ sinh sản (ART):</i></p><p>1 viên Duphaston ba lần một ngày (30 mg hàng ngày) bắt đầu từ ngày lấy noãn và tiếp tục sử dụng trong 10 tuần nếu chắc chắn mang thai.</p><p><i>Dọa sảy thai:</i></p><p>Liều khởi đầu: 4 viên Duphaston cho lần đầu tiên và 1 viên Duphaston 10mg cho mỗi 8 giờ. Liều 10 mg nên được uống trải đều trong ngày. Khuyến cáo nên bắt đầu điều trị với liều cao nhất. Nếu các triệu chứng vẫn còn hoặc tái phát trong quá trình điều trị, nên tăng liều thêm 1 viên Duphaston mỗi 8 giờ. Liều hiệu quả nên được duy trì thêm 1 tuần sau khi các triệu chứng chấm dứt; có thể giảm liều dần dần. Nếu các triệu chứng trở lại, điều trị cần tiếp tục ngay với liều hiệu quả.</p><p><i>Sảy thai liên tiếp:</i></p><p>1 viên Duphaston mỗi ngày đến tuần thứ 20 của thai kỳ; có thể giảm liều dần dần. Trị liệu tốt nhất nên được bắt đầu trước khi thụ thai. Nếu các triệu chứng của sảy thai xuất hiện trong quá trình điều trị, nên tiếp tục trị liệu như mô tả cho chỉ định đó.</p><p><i>Xuất huyết tử cung bất thường:</i></p><p>Uống 2 viên Duphaston mỗi ngày trong 5 đến 7 ngày,để ngừng xuất huyết. Xuất huyết giảm đáng kể trong vòng vài ngày. Một vài ngày sau khi kết thúc điều trị, có thể có tình trạng xuất huyết do vậy bệnh nhân cần được cảnh báo về điều này.</p><p>Có thể ngăn ngừa tình trạng xuất huyết này bằng cách kê đơn liều dự phòng 1 viên Duphaston mỗi ngày từ ngày thứ 11 đến ngày thứ 25 của chu kỳ, nếu cần kết hợp với&nbsp;oestrogen trong 2 đến 3 chu kỳ. Sau đó có thể ngưng điều trị, cần kiểm tra chắc chắn chu kỳ của bệnh nhân đã bình thường trở lại.</p><p><i>Vô kinh thứ phát:</i></p><p>1 hoặc 2 viên Duphaston mỗi ngày từ ngày thứ 11 đến ngày thứ 25 của chu kỳ để làm tối ưu sự chuyển hóa bài tiết của nội mạc tử cung, để tử cung được cung cấp vừa đủ oestrogen nội sinh cũng như ngoại sinh.</p><p><i>Phòng ngừa tăng sản nội mạc tử cung trong thời kỳ mãn kinh:</i></p><p>Với mỗi&nbsp;chu kỳ 28 ngày, liệu pháp chỉ dùng oestrogen được dùng trong 14 ngày đầu tiên và trong 14 ngày sau đó thì ngoài oestrogen cần&nbsp;bổ sung thêm mỗi ngày 1 hoặc 2 viên dydrogesterone 10mg. Với liều 2 viên, thuốc được chia đều trong ngày (1 viên x 2 lần/ngày) khi dùng dydrogesterone 10mg. Ngừng chảy máu thường xảy ra trong khi uống dydrogesterone.</p><p>Liệu pháp phối hợp oestrogen/progesterone cho phụ nữ sau <a href=\"https://nhathuoclongchau.com.vn/benh/man-kinh-nu-485.html\">mãn kinh</a> nên dùng liều thấp nhất có hiệu quả và trong thời gian ngắn nhất để đạt được mục tiêu điều trị và hạn chế tối đa nguy cơ cho từng cá thể và cần phải đánh giá lại định kỳ.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p><i>Triệu chứng quá liều:</i></p><p>Dydrogesterone là chất có độc tính rất thấp có thể gây buồn nôn, nôn, buồn ngủ và chóng mặt. Chưa có trường hợp nào quá liều dydrogesterone mà gây ra tác dụng có hại.&nbsp;</p><p><i>Điều trị:</i></p><p>Không cần thiết điều trị đặc hiệu, trong trường hợp quá liều nên cân nhắc điều trị triệu chứng.</p><h3>Làm gì khi quên 1 liều?</h3><p>Chưa ghi nhận.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc Duphaston 10mg được chỉ định dùng trong các trường hợp sau:</p><p>Ðiều trị trong trường hợp: Điều hòa kinh nguyệt, <a href=\"https://nhathuoclongchau.com.vn/benh/lac-noi-mac-tu-cung-372.html\">lạc nội mạc tử cung</a>, đau bụng kinh, vô kinh do suy hoàng thể, hỗ trợ hoàng thể trong hỗ trợ sinh sản (ART), <a href=\"https://nhathuoclongchau.com.vn/bai-viet/doa-say-thai-ra-mau-bao-lau-58819.html\">dọa sảy thai</a> do thiếu hụt progesterone, sảy thai liên tiếp do thiếu hụt progesterone.</p><p>Như một chất bổ sung theo chu kỳ trong liệu pháp oestrogen trên phụ nữ tử cung còn nguyên vẹn, Duphaston được sử dụng trong:</p><ul><li>Ngăn ngừa tăng sản nội mạc tử cung trong giai đoạn sau mãn kinh.</li><li>Cho chảy máu tử cung bất thường.</li><li>Vô kinh thứ phát.</li></ul><h3>Dược lực học</h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/dydrogesterone\">Dydrogesterone</a> là một progesterone tổng hợp dùng đường uống, nó có hoạt tính sản sinh ra chất kích thích giai đoạn bài tiết&nbsp;của nội mạc tử cung đã có oestrogen. Nó giúp bảo vệ chống lại nguy cơ tăng sản nội mạc tử cung và/hoặc ung thư nội mạc tử cung gây ra bởi các oestrogen.</p><p>Dydrogesterone không gây tác động nữ hóa hoặc nam hóa, không gây đồng hóa và không có hoạt tính corticoid. Dydrogesterone không ức chế sự rụng trứng. Do đó, có thể dùng dydrogesterone cho phụ nữ ở độ tuổi sinh đẻ.</p><p>Ở phụ nữ sau mãn kinh có tử cung, oestrogen thay thế dẫn đến làm tăng nguy cơ tăng sản nội mạc tử cung và ung thư nội mạc tử cung. Bổ sung progestogen để đề phòng nguy cơ này.</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Sau khi uống, dydrogesterone được hấp thu nhanh chóng với Tmax từ 0,5 đến 2,5 giờ. Sinh khả dụng toàn phần của dydrogesterone (uống liều 20 mg so với 7.8 mg tiêm tĩnh mạch) là 28%.</p><p><i>Phân bố</i></p><p>Sau khi tiêm dydrogesterone thể tích phân bố đạt xấp xỉ 1400L. Trên 90% dydrogesterone và DHD liên kết với protein huyết tương.</p><p><i>Chuyển hóa</i></p><p>Sau khi uống, dydrogesterone được chuyển hóa nhanh chóng thành DHD, đường chuyển hóa chính tạo ra DHD là được xúc tác trong bào tương do aldo-keto reductase 1C (AKR IC).</p><p>Chuyển hóa trong bào tương này là chuyển hóa bởi các cytochrom P450 (CYPs), chủ yếu là CYP 3A4, theo đó tạo ra các chất chuyển hóa ít quan trọng hơn. Chất chuyển hóa chính DHD đạt đỉnh khoảng 1,5 giờ sau khi dùng. Nồng độ trong huyết tương của DHD về căn bản cao hơn so với thuốc gốc. Tỷ lệ diện tích dưới đường cong AUC và Cmax của DHD so với dydrogesterone theo thứ tự là 40 và 25.</p><p>Thời gian bán thải trung bình của dydrogesterone và DHD khác nhau từ 5 đến 7 và từ 14 đến 17 giờ. Một đặc điểm chung của tất cả các chất chuyển hóa là lượng lưu giữ của 4,6-diene-2-one cấu trúc của chất mẹ và sự thiếu vắng 17a-hydroxylation. Điều này giải thích sự thiếu tác động nữ hóa hoặc nam hóa của dydrogesterone.</p><p><i>Thải trừ</i></p><p>Sau khi uống dydrogesterone đánh dấu, trung bình khoảng 63% liều được thải trừ vào nước tiểu. Tổng độ thanh thải huyết tương là 6,4 l/phút. Thải trừ hoàn toàn trong vòng 72 giờ. DHD xuất hiện trong nước tiểu chủ yếu dưới dạng liên kết với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/gluconic-acid\">acid glucuronic</a>.</p>",
+      "brand": "Abbott",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Duphaston, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p><i>Thường gặp, ADR &gt;1/100</i></p><p>Rối loạn hệ thần kinh: Đau nửa đầu, đau đầu.</p><p>Rối loạn tiêu hóa: Buồn nôn.</p><p>Rối loạn hệ sinh sản và vú: Rối loạn kinh nguyệt (Bao gồm: Chảy máu tử cung, <a href=\"https://nhathuoclongchau.com.vn/benh/rong-kinh-280.html\">rong kinh</a>, mất kinh, thống kinh và kinh nguyệt không đều), đau/nhạy cảm vú.</p><p><i>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</i></p><p>Rối loạn tâm thần: Trạng thái <a href=\"https://nhathuoclongchau.com.vn/benh/tram-cam-79.html\">trầm cảm</a>.</p><p>Rối loạn hệ thần kinh: <a href=\"https://nhathuoclongchau.com.vn/benh/chong-mat-763.html\">Chóng mặt</a>.</p><p>Rối loạn tiêu hóa: Nôn.</p><p>Rối loạn gan: Bất thường chức năng gan (vàng da, mệt mỏi, ngứa, nổi mẫn).</p><p><i>Hiếm gặp, 1/ 10000≤ ADR&lt; 1/1000</i></p><p>Rối loạn hệ máu và hệ bạch huyết: Thiếu máu tán huyết.</p><p>Rối loạn hệ miễn dịch: Quá mẫn cảm.</p><p>Rối loạn da và mô dưới da: Phù mạch.</p><p>Rối loạn hệ sinh sản và vú: Căng vú.</p><p>Rối loạn chung và rối loạn tại nơi dùng thuốc: Phù.</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 1 Vỉ x 20 Viên",
+      "indications": [],
+      "brandOrigin": "Hoa Kỳ",
+      "producer": "ABBOTT",
+      "shortDescription": "<p><a href=\"https://nhathuoclongchau.com.vn/thuoc/duphaston-3914.html\">Duphaston</a> 10mg của Abbott Biologicals B.V. chứa dydrogesterone có tác dụng hỗ trợ hoàng thể trong hỗ trợ sinh sản, điều hòa kinh nguyệt, giảm đau bụng kinh. Duphaston còn dùng trong các trường hợp lạc nội mạc tử cung, vô sinh do suy hoàng thể, dọa sảy thai, sảy thai liên tiếp, xuất huyết tử cung bất thường, vô kinh thứ phát, phòng ngừa tăng sản nội mạc tử cung trong thời kỳ mãn kinh.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [
+        "Phụ nữ"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "Nữ",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/abbott",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "DUPHASTON TAB.10MG",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "60 tháng",
+      "brandOriginBadges": {
+        "id": 248,
+        "attributeName": "Hoa Kỳ",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/us_United_States_of_America_usa_59e1ad3af3.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "20 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 823,
+        "name": "Thuốc nội tiết tố",
+        "parentName": "Thuốc tiết niệu - sinh dục",
+        "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/duphaston_1x20_abbott_00002659_9d9b730077.png",
+          "alternativeText": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_6625_63ab_large_9ea20e6d07.jpg",
+          "alternativeText": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_8269_63ab_large_26787962e6.jpg",
+          "alternativeText": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_1509_63ab_large_ef3edb485a.jpg",
+          "alternativeText": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_6430_63ab_large_2afc1e2c02.jpg",
+          "alternativeText": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_5964_63ab_large_d915246d0d.jpg",
+          "alternativeText": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_6522_63ab_large_fa00cbc706.jpg",
+          "alternativeText": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_7255_63ab_large_06f2cb5e80.jpg",
+          "alternativeText": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_2738_63ab_large_ffbde33a78.jpg",
+          "alternativeText": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_9516_63ab_large_dcaca2719c.jpg",
+          "alternativeText": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên) 10"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_9015_63ab_large_f86f2190a3.jpg",
+          "alternativeText": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên) 11"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_1672193604_42539d3963.jpg",
+          "alternativeText": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên) 12"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiết niệu - sinh dục",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc"
+      },
+      {
+        "name": "Thuốc nội tiết tố",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to"
+      }
+    ],
+    "content": {
+      "sku": "00002659",
+      "dosage": "<h3>Cách dùng</h3><p>Liều lượng điều chỉnh để thích hợp với mức độ nghiêm trọng của rối loạn và đáp ứng của từng bệnh nhân với trị liệu. Dùng đường uống. Dùng liều cao hơn nên dùng các viên nén trải đều trong ngày.</p><h3>Liều dùng</h3><p><i>Điều hòa chu kỳ kinh nguyệt:</i></p><p>Có thể&nbsp;đạt được chu kỳ 28 ngày bằng&nbsp;cách uống&nbsp;1 viên Duphaston mỗi ngày vào ngày thứ 11 đến ngày thứ 25 của chu kỳ.</p><p><i>Lạc nội mạc tử cung:</i></p><p>1 đến 3 viên Duphaston mỗi ngày từ ngày thứ 5 đến ngày thứ 25 của chu kỳ hoặc cho cả chu kỳ. Liều 10mg nên được uống trải đều trong ngày. Khuyến cáo nên bắt đầu điều trị với liều cao nhất.</p><p><i>Đau bụng kinh:</i></p><p>1 đến 2 viên Duphaston mỗi ngày từ ngày thứ 5 đến ngày thứ 25 của chu kỳ. Liều 10 mg nên được uống trải đều trong ngày. Khuyến cáo nên bắt đầu điều trị với liều cao nhất.</p><p><i>Vô sinh do suy hoàng thể:</i></p><p>1 viên Duphaston mỗi ngày từ ngày thứ 14 đến ngày thứ 25 của chu kỳ. Trị liệu nên được duy trì trong ít nhất 6 chu kỳ liên tiếp. Nên tiếp tục trị liệu này trong những tháng đầu của thai kỳ ở liều lượng như đã chỉ định cho sảy thai liên tiếp.</p><p><i>Hỗ trợ hoàng thể trong hỗ trợ sinh sản (ART):</i></p><p>1 viên Duphaston ba lần một ngày (30 mg hàng ngày) bắt đầu từ ngày lấy noãn và tiếp tục sử dụng trong 10 tuần nếu chắc chắn mang thai.</p><p><i>Dọa sảy thai:</i></p><p>Liều khởi đầu: 4 viên Duphaston cho lần đầu tiên và 1 viên Duphaston 10mg cho mỗi 8 giờ. Liều 10 mg nên được uống trải đều trong ngày. Khuyến cáo nên bắt đầu điều trị với liều cao nhất. Nếu các triệu chứng vẫn còn hoặc tái phát trong quá trình điều trị, nên tăng liều thêm 1 viên Duphaston mỗi 8 giờ. Liều hiệu quả nên được duy trì thêm 1 tuần sau khi các triệu chứng chấm dứt; có thể giảm liều dần dần. Nếu các triệu chứng trở lại, điều trị cần tiếp tục ngay với liều hiệu quả.</p><p><i>Sảy thai liên tiếp:</i></p><p>1 viên Duphaston mỗi ngày đến tuần thứ 20 của thai kỳ; có thể giảm liều dần dần. Trị liệu tốt nhất nên được bắt đầu trước khi thụ thai. Nếu các triệu chứng của sảy thai xuất hiện trong quá trình điều trị, nên tiếp tục trị liệu như mô tả cho chỉ định đó.</p><p><i>Xuất huyết tử cung bất thường:</i></p><p>Uống 2 viên Duphaston mỗi ngày trong 5 đến 7 ngày,để ngừng xuất huyết. Xuất huyết giảm đáng kể trong vòng vài ngày. Một vài ngày sau khi kết thúc điều trị, có thể có tình trạng xuất huyết do vậy bệnh nhân cần được cảnh báo về điều này.</p><p>Có thể ngăn ngừa tình trạng xuất huyết này bằng cách kê đơn liều dự phòng 1 viên Duphaston mỗi ngày từ ngày thứ 11 đến ngày thứ 25 của chu kỳ, nếu cần kết hợp với&nbsp;oestrogen trong 2 đến 3 chu kỳ. Sau đó có thể ngưng điều trị, cần kiểm tra chắc chắn chu kỳ của bệnh nhân đã bình thường trở lại.</p><p><i>Vô kinh thứ phát:</i></p><p>1 hoặc 2 viên Duphaston mỗi ngày từ ngày thứ 11 đến ngày thứ 25 của chu kỳ để làm tối ưu sự chuyển hóa bài tiết của nội mạc tử cung, để tử cung được cung cấp vừa đủ oestrogen nội sinh cũng như ngoại sinh.</p><p><i>Phòng ngừa tăng sản nội mạc tử cung trong thời kỳ mãn kinh:</i></p><p>Với mỗi&nbsp;chu kỳ 28 ngày, liệu pháp chỉ dùng oestrogen được dùng trong 14 ngày đầu tiên và trong 14 ngày sau đó thì ngoài oestrogen cần&nbsp;bổ sung thêm mỗi ngày 1 hoặc 2 viên dydrogesterone 10mg. Với liều 2 viên, thuốc được chia đều trong ngày (1 viên x 2 lần/ngày) khi dùng dydrogesterone 10mg. Ngừng chảy máu thường xảy ra trong khi uống dydrogesterone.</p><p>Liệu pháp phối hợp oestrogen/progesterone cho phụ nữ sau <a href=\"https://nhathuoclongchau.com.vn/benh/man-kinh-nu-485.html\">mãn kinh</a> nên dùng liều thấp nhất có hiệu quả và trong thời gian ngắn nhất để đạt được mục tiêu điều trị và hạn chế tối đa nguy cơ cho từng cá thể và cần phải đánh giá lại định kỳ.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p><i>Triệu chứng quá liều:</i></p><p>Dydrogesterone là chất có độc tính rất thấp có thể gây buồn nôn, nôn, buồn ngủ và chóng mặt. Chưa có trường hợp nào quá liều dydrogesterone mà gây ra tác dụng có hại.&nbsp;</p><p><i>Điều trị:</i></p><p>Không cần thiết điều trị đặc hiệu, trong trường hợp quá liều nên cân nhắc điều trị triệu chứng.</p><h3>Làm gì khi quên 1 liều?</h3><p>Chưa ghi nhận.</p>",
+      "referenceSource": "<p>Tờ Hướng dẫn sử dụng thuốc Duphaston 10mg.</p>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Duphaston, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p><i>Thường gặp, ADR &gt;1/100</i></p><p>Rối loạn hệ thần kinh: Đau nửa đầu, đau đầu.</p><p>Rối loạn tiêu hóa: Buồn nôn.</p><p>Rối loạn hệ sinh sản và vú: Rối loạn kinh nguyệt (Bao gồm: Chảy máu tử cung, <a href=\"https://nhathuoclongchau.com.vn/benh/rong-kinh-280.html\">rong kinh</a>, mất kinh, thống kinh và kinh nguyệt không đều), đau/nhạy cảm vú.</p><p><i>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</i></p><p>Rối loạn tâm thần: Trạng thái <a href=\"https://nhathuoclongchau.com.vn/benh/tram-cam-79.html\">trầm cảm</a>.</p><p>Rối loạn hệ thần kinh: <a href=\"https://nhathuoclongchau.com.vn/benh/chong-mat-763.html\">Chóng mặt</a>.</p><p>Rối loạn tiêu hóa: Nôn.</p><p>Rối loạn gan: Bất thường chức năng gan (vàng da, mệt mỏi, ngứa, nổi mẫn).</p><p><i>Hiếm gặp, 1/ 10000≤ ADR&lt; 1/1000</i></p><p>Rối loạn hệ máu và hệ bạch huyết: Thiếu máu tán huyết.</p><p>Rối loạn hệ miễn dịch: Quá mẫn cảm.</p><p>Rối loạn da và mô dưới da: Phù mạch.</p><p>Rối loạn hệ sinh sản và vú: Căng vú.</p><p>Rối loạn chung và rối loạn tại nơi dùng thuốc: Phù.</p><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Không bảo quản trên 30°C. </p>\n\n<p>Bảo quản thuốc trong hộp carton để tránh ẩm.</p>\n\n<p>Để thuốc xa tầm tay và tầm nhìn của trẻ em.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc Duphaston 10mg được chỉ định dùng trong các trường hợp sau:</p><p>Ðiều trị trong trường hợp: Điều hòa kinh nguyệt, <a href=\"https://nhathuoclongchau.com.vn/benh/lac-noi-mac-tu-cung-372.html\">lạc nội mạc tử cung</a>, đau bụng kinh, vô kinh do suy hoàng thể, hỗ trợ hoàng thể trong hỗ trợ sinh sản (ART), <a href=\"https://nhathuoclongchau.com.vn/bai-viet/doa-say-thai-ra-mau-bao-lau-58819.html\">dọa sảy thai</a> do thiếu hụt progesterone, sảy thai liên tiếp do thiếu hụt progesterone.</p><p>Như một chất bổ sung theo chu kỳ trong liệu pháp oestrogen trên phụ nữ tử cung còn nguyên vẹn, Duphaston được sử dụng trong:</p><ul><li>Ngăn ngừa tăng sản nội mạc tử cung trong giai đoạn sau mãn kinh.</li><li>Cho chảy máu tử cung bất thường.</li><li>Vô kinh thứ phát.</li></ul><h3>Dược lực học</h3><p><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/dydrogesterone\">Dydrogesterone</a> là một progesterone tổng hợp dùng đường uống, nó có hoạt tính sản sinh ra chất kích thích giai đoạn bài tiết&nbsp;của nội mạc tử cung đã có oestrogen. Nó giúp bảo vệ chống lại nguy cơ tăng sản nội mạc tử cung và/hoặc ung thư nội mạc tử cung gây ra bởi các oestrogen.</p><p>Dydrogesterone không gây tác động nữ hóa hoặc nam hóa, không gây đồng hóa và không có hoạt tính corticoid. Dydrogesterone không ức chế sự rụng trứng. Do đó, có thể dùng dydrogesterone cho phụ nữ ở độ tuổi sinh đẻ.</p><p>Ở phụ nữ sau mãn kinh có tử cung, oestrogen thay thế dẫn đến làm tăng nguy cơ tăng sản nội mạc tử cung và ung thư nội mạc tử cung. Bổ sung progestogen để đề phòng nguy cơ này.</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Sau khi uống, dydrogesterone được hấp thu nhanh chóng với Tmax từ 0,5 đến 2,5 giờ. Sinh khả dụng toàn phần của dydrogesterone (uống liều 20 mg so với 7.8 mg tiêm tĩnh mạch) là 28%.</p><p><i>Phân bố</i></p><p>Sau khi tiêm dydrogesterone thể tích phân bố đạt xấp xỉ 1400L. Trên 90% dydrogesterone và DHD liên kết với protein huyết tương.</p><p><i>Chuyển hóa</i></p><p>Sau khi uống, dydrogesterone được chuyển hóa nhanh chóng thành DHD, đường chuyển hóa chính tạo ra DHD là được xúc tác trong bào tương do aldo-keto reductase 1C (AKR IC).</p><p>Chuyển hóa trong bào tương này là chuyển hóa bởi các cytochrom P450 (CYPs), chủ yếu là CYP 3A4, theo đó tạo ra các chất chuyển hóa ít quan trọng hơn. Chất chuyển hóa chính DHD đạt đỉnh khoảng 1,5 giờ sau khi dùng. Nồng độ trong huyết tương của DHD về căn bản cao hơn so với thuốc gốc. Tỷ lệ diện tích dưới đường cong AUC và Cmax của DHD so với dydrogesterone theo thứ tự là 40 và 25.</p><p>Thời gian bán thải trung bình của dydrogesterone và DHD khác nhau từ 5 đến 7 và từ 14 đến 17 giờ. Một đặc điểm chung của tất cả các chất chuyển hóa là lượng lưu giữ của 4,6-diene-2-one cấu trúc của chất mẹ và sự thiếu vắng 17a-hydroxylation. Điều này giải thích sự thiếu tác động nữ hóa hoặc nam hóa của dydrogesterone.</p><p><i>Thải trừ</i></p><p>Sau khi uống dydrogesterone đánh dấu, trung bình khoảng 63% liều được thải trừ vào nước tiểu. Tổng độ thanh thải huyết tương là 6,4 l/phút. Thải trừ hoàn toàn trong vòng 72 giờ. DHD xuất hiện trong nước tiểu chủ yếu dưới dạng liên kết với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/gluconic-acid\">acid glucuronic</a>.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p>Thuốc Duphaston 10mg chống chỉ định trong các trường hợp sau:</p><p>Xuất huyết âm đạo không rõ nguyên nhân.</p><p>Hỗ trợ hoàng thể trong hỗ trợ sinh sản (ART) nên ngừng sau khi chẩn đoán đã sảy thai hoặc phá thai.</p><p>Bị rối loạn về gan nghiêm trọng, hoặc tiền sử rối loạn về gan nghiêm trọng cho đến khi chức năng gan trở về bình thường.</p><p>Chống chỉ định dùng các oestrogen kết hợp với các progestogen như dydrogesterone trong liệu pháp kết hợp.</p><p>Dị ứng với dydrogesterone hoặc với bắt kỳ tá dược nào.</p><p>Được biết hoặc nghi ngờ có các ung thư ác tính do hormon.</p><h3>Thận trọng khi sử dụng</h3><p>Trước khi bắt đầu điều trị dydrogesterone cho xuất huyết tử cung bất thường, cần làm rõ nguyên nhân bệnh học của việc xuất huyết.</p><p>Xuất huyết tử cung bất thường và xuất huyết nhẹ có thể xảy ra trong những tháng đầu điều trị. Nếu xuất huyết tử cung bất thường và xuất huyết nhẹ xuất hiện sau vài lần trong khi điều trị hoặc tiếp tục xuất hiện sau khi đã ngưng việc điều trị, nên tìm hiểu nguyên nhân, có thể bao gồm cả sinh thiết để loại trừ nội mạc tử cung ác tính.</p><p>Nếu một trong những rối&nbsp;loạn sau đây xuất hiện trong lần đầu sử dụng hoặc trở nên tồi&nbsp;tệ hơn, nên cân nhắc việc ngừng điều trị:</p><p>Đau đầu trầm&nbsp;trọng, chứng <a href=\"https://nhathuoclongchau.com.vn/benh/dau-nua-dau-12.html\">đau nửa đầu</a> hoặc các triệu chứng của thiếu máu cục bộ.</p><p>Dấu hiệu tăng huyết áp.</p><p>Huyết khối tĩnh mạch.</p><p>Trong trường hợp sảy thai liên tiếp hoặc dọa sảy thai, cần xác định khả năng sống của thai nhi và cần theo dõi sự phát triển và sự sống của thai nhi trong cả quá trình trị liệu.</p><p>Cần giám sát trong trường hợp: Bệnh nhân có tiền sử bị trầm cảm cần được theo dõi cẩn trọng, nếu xảy ra trầm cảm nghiêm trọng cần phải ngừng điều trị với dydrogesterone.</p><p>Đối với việc điều trị các triệu chứng sau mãn kinh, điều trị bằng liệu pháp thay thế hormon (HRT) chỉ nên được bắt đầu nếu các triệu chứng gây ảnh hưởng đến chất lượng cuộc sống. Trong mọi trường hợp, việc đánh giá cẩn trọng các nguy cơ và lợi ích nên được thực hiện ít nhất hàng năm và chỉ nên tiếp tục trị liệu chừng nào lợi ích điều trị vượt trội so với nguy cơ.</p><p>Tăng sản nội mạc tử cung và ung thư biểu mô khi chỉ dùngestrogen mà không bổ sung progestogen trong thời gian dài. Tùy theo liệu trình điều trị và liều oestrogen mà rủi ro có thể cao hơn 2 đến 12 lần so với những người không dùng oestrogen. Sau khi ngừng điều trị với oestrogen thi rủi ro vẫn tiếp tục tồn tại trong ít nhất 10 năm. Những rủi ro bổ sung có thể ngăn ngừa được bằng cách phối hợp oestrogen với một progestogen như là dydrogesterone trong ít nhất 12 ngày mỗi tháng/chu kỳ 28 ngày.</p><p>Xuất huyết bất thường và xuất huyết nhẹ có thểxảy ra trong những tháng đầu điều trị.</p><p>Nguy cơ <a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-vu-328.html\">ung thư vú</a> phụ thuộc vào thời gian điều trị, tăng nguy cơ ung thư vú ở những phụ nữ dùng HRT kết hợp estrogen-progestogen trở nên rõ ràng sau khoảng 3 năm hoặc lâu hơn.</p><p><a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-buo-ng-tru-ng-380.html\">Ung thư buồng trứng</a> hiếm hơn ung thư vú, nguy cơ tăng nhẹ trong vòng 5 năm và giảm hẳn sau khi ngừng.</p><p>Huyết khối tĩnh mạch:</p><ul><li>Liệu pháp thay thế hormon có liên quan đến tăng 1,3-3 lần nguy cơ huyết khối tĩnh mach (VTE), bệnh nhân mắc chứng huyết khối sẽ bị tăng nguy cơ tiến triển VTE và HRT có thể làm tăng thêm nguy cơ này.</li><li>Do đó chống chỉ định dùng HRT với những bệnh nhân này. Các yếu tố nguy cơ được nhận biết đối với VTE bao gồm việc dùng các oestrogen, cao tuổi, phẫu thuật lớn, bất động lâu dài, béo phì (BMI&gt;30 kg/m2), thai kỳ/giai đoạn sau sinh, lupus ban đỏ hệ thống (SLE) và ung thư.</li><li>Ở những phụ nữ đang dùng thuốc chống đông máu cần cần trọng cân nhắc về lợi ích và nguy cơ của việc dùng HRT. Nếu VTE tiến triển sau khi liệu pháp được sử dụng, nên ngừng thuốc. Bệnh nhân nên được khuyên rằng liên hệ với bác sỹ ngay lập tức nêu họ nhận thấy triệu chứng huyết khối tiềm tàng.</li></ul><p>Tai biến mạch máu não (CVA):</p><ul><li>Sử dụng liệu pháp HRT kết hợp hoặc HRT chỉ estrogen có liên quan tới việc tăng 1 tới 1,5 lần nguy cơ tai biến mạch máu não (CVA).</li><li>Nguy cơ liên quan không thay đổi theo tuổi hay thời gian kể từ khi mãn kinh. Tuy nhiên, nguy cơ giới hạn của CVA phụ thuộc mạnh mẽ vào độ tuổi, nguy cơ tổng thể của đột quy ở phụ nữ dùng HRT sẽ tăng theo độ tuổi.</li></ul><h3>Khả năng lái xe và vận hành máy móc</h3><p>Dydrogesterone có ảnh hưởng nhỏ đến khả năng lái xe và vận hành máy móc. Hiếm gặp, dydrogesterone có thể gây buồn ngủ nhẹ và/ hoặc hoa mắt chóng mặt, đặc biệt là trong vòng mấy giờ đầu tiên sau khi uống. Do vậy, cần cẩn trọng trong khi lái xe hoặc vận hành máy móc.</p><h3>Thời kỳ mang thai&nbsp;</h3><p>Cho đến nay không có trường hợp nào cho thấy ảnh hưởng có hại của dydrogesterone trong thời kỳ mang thai. Dydrogesterone có thể được dùng trong thời kỳ mang thai nếu được chỉ định một cách rõ ràng.</p><h3>Thời kỳ cho con bú</h3><p>Chưa xác định được liệu dydrogesterone có bài tiết vào sữa mẹ hay không. Không có nghiên cứu nào được thực hiện để nghiên cứu về sự bài tiết của dydrogesterone vào sữa mẹ.</p><p>Kinh nghiệm với các progestogen khác chỉ ra rằng các progestogen và các chất chuyền hóa của nó thấm vào sữa mẹ với một lượng nhỏ. Chưa xác định được có nguy cơ đối với trẻ nhỏ có hay không. Không nên dùng dydrogesterone trong thời kỳ cho con bú.</p><h3>Tương tác thuốc</h3><p>Các chất làm tăng độ thải trừ của các progestogen (giảm hiệu quả do cảm ứng enzym) như: các barbiturat, phenytoin, carbamazepin, primidon, rifampicin và thuốc kháng HIV như <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ritonavir\">ritonavir</a>, neviparin va efavirenz.</p><p>Các chất làm thay đổi thải trừ của progestogen: các chất ức chế protease HIV, các chất ức chế HCV.</p><p>Các chất làm chậm thải trừ của các progestogen (ức chế enzym): Các chất ức chế mạnh CYP3A4.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Nguyễn Tuấn Trịnh",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Từng làm ở Viện ISDS, nhiều năm cộng tác với CDC Thái Nguyên triển khai dự án phòng chống HIV/AIDS, 2 năm cộng tác với WHO.",
+        "degree": "Dược sĩ Đại học ",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-nguyen-tuan-trinh",
+        "isLegit": true,
+        "id": 2,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/nguyen_tuan_trinh_079608e72f.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Duphaston 10mg điều hòa kinh nguyệt, trị dọa sảy thai",
+        "metaDescription": "Thuốc nội tiết Duphaston 10mg giảm đau bụng kinh, trị lạc nội mạc tử cung, vô sinh do suy hoàng thể, dọa sảy thai. Mua ngay để dược sĩ tư vấn!",
+        "id": 2445,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/duphaston_1x20_abbott_00002659_9d9b730077.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên)",
+            "description": "Duphaston 10mg của Abbott Biologicals B.V. chứa dydrogesterone có tác dụng hỗ trợ hoàng thể trong hỗ trợ sinh sản, điều hòa kinh nguyệt, giảm đau bụng kinh. Duphaston còn dùng trong các trường hợp lạc nội mạc tử cung, vô sinh do suy hoàng thể, dọa sảy thai, sảy thai liên tiếp, xuất huyết tử cung bất thường, vô kinh thứ phát, phòng ngừa tăng sản nội mạc tử cung trong thời kỳ mãn kinh."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 8993,
+        "title": "Thuốc Duphaston có ảnh hưởng đến khả năng lái xe và vận hành máy móc không? ",
+        "content": "<p>Duphaston (dydrogesterone) có ảnh hưởng nhỏ đến khả năng lái xe và vận hành máy móc. Hiếm gặp, dydrogesterone có thể gây buồn ngủ nhẹ và/hoặc hoa mắt <a href=\"https://nhathuoclongchau.com.vn/benh/chong-mat-763.html\">chóng mặt</a>, đặc biệt là trong vòng mấy giờ đầu tiên sau khi uống. Do vậy, cần cẩn trọng trong khi lái xe hoặc vận hành máy móc.</p>"
+      },
+      {
+        "id": 8992,
+        "title": "Tác dụng phụ thường gặp của thuốc Duphaston là gì?",
+        "content": "<p>Khi sử dụng thuốc Duphaston, bạn có thể gặp các tác dụng không mong muốn như rối loạn hệ thần kinh (đau nửa đầu, đau đầu), rối loạn tiêu hóa (buồn nôn), rối loạn hệ sinh sản và vú (rối loạn kinh nguyệt, bao gồm chảy máu tử cung, <a href=\"https://nhathuoclongchau.com.vn/benh/rong-kinh-280.html\">rong kinh</a>, mất kinh, thống kinh và kinh nguyệt không đều, đau/nhạy cảm vú). Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>"
+      },
+      {
+        "id": 8991,
+        "title": "Cần làm gì khi quá liều thuốc Duphaston?",
+        "content": "<p>Duphaston (dydrogesterone) là chất có độc tính rất thấp có thể gây buồn nôn, <a href=\"https://nhathuoclongchau.com.vn/benh/non-873.html\">nôn</a>, buồn ngủ và chóng mặt. Chưa có trường hợp nào quá liều dydrogesterone mà gây ra tác dụng có hại. Do đó, không cần thiết điều trị đặc hiệu, trong trường hợp quá liều nên cân nhắc điều trị triệu chứng.</p>"
+      },
+      {
+        "id": 8990,
+        "title": "Thuốc Duphaston 10mg sử dụng như thế nào?",
+        "content": "<p>Thuốc Duphaston 10mg dùng theo đường uống. Liều lượng điều chỉnh để thích hợp với mục đích điều trị và đáp ứng của từng bệnh nhân với trị liệu. Cần tuân thủ theo chỉ định của bác sỹ.</p>"
+      },
+      {
+        "id": 8989,
+        "title": "Thuốc Duphaston 10mg có tác dụng gì?",
+        "content": "<p>Duphaston 10mg của Abbott Biologicals B.V. chứa dydrogesterone có tác dụng hỗ trợ hoàng thể trong hỗ trợ sinh sản, điều hòa kinh nguyệt, giảm đau bụng kinh. Duphaston còn dùng trong các trường hợp lạc nội mạc tử cung, <a href=\"https://nhathuoclongchau.com.vn/benh/vo-sinh-508.html\">vô sinh</a> do suy hoàng thể, dọa sảy thai, sảy thai liên tiếp, xuất huyết tử cung bất thường, vô kinh thứ phát, phòng ngừa tăng sản nội mạc tử cung trong thời kỳ mãn kinh.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00053173",
+        "name": "ĐIỀU KINH TÙNG LỘC 3X10",
+        "webName": "Thuốc Điều kinh Tùng lộc điều trị bổ huyết, hoạt huyết, điều kinh, chỉ thống (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/dieu_kinh_tung_loc_3x10_00053173_1_dab6d7a5c8.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 85263,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 150000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/dieu-kinh-tung-loc-3-x10.html",
+        "ingredients": "Xuyên khung 450mg, Đương quy 450mg, Thược Dược 450mg, Thục địa 450mg, Bạch truật 450mg, Mẫu đơn bì 450mg, Địa cốt bì 300mg, Hương phụ 450mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "TÙNG LỘC",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 80,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 85263,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 150000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 85264,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 50000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 85265,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00018225",
+        "name": "GENSHU SAGOPHA 3X10",
+        "webName": "Thuốc Genshu Sagopha hỗ trợ điều trị rối loạn cương, yếu sinh lý (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018225_genshu_sagopha_3x10_2330_5b7b_large_61d141b04d.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 23028,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 522000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/genshu-sagopha-3x10-19553.html",
+        "ingredients": "Hải mã 330mg, Dâm dương hoắc 750mg, Bạch tật lê 1000mg, Lộc Nhung 330mg, Nhân Sâm 330mg, Hải hà 330mg, tinh hoàn cá sấu 250mg, Quế 100mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Sagopha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 23026,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 17400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 23028,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 522000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 23027,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 174000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00014579",
+        "name": "HAISAMIN HDPHARMA 6X5",
+        "webName": "Thuốc Haisamin HDpharma tăng cường sinh lực (6 vỉ x 5 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00014579_haisamin_tang_cuong_sinh_ly_nam_4354_5b69_large_24859b4f70.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 17253,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 120000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/haisamin-tang-cuong-sinh-ly-nam-799.html",
+        "ingredients": "Hải sâm 200mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Hdpharma",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 5 Viên",
+        "prices": [
+          {
+            "id": 17253,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 120000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 17252,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 20000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 17251,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 4000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007287",
+        "name": "HOÀN THẬP TOÀN ĐẠI BỔ TRAPHACO 1X10",
+        "webName": "Thuốc Thập Toàn Đại Bổ Traphaco bổ khí huyết điều trị các chứng khí huyết hư, đánh trống ngực (1 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007287_thap_toan_dai_bo_hoan_1753_5b7f_large_d068b4b021.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10634,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 65000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thap-toan-dai-bo-hoan-2015.html",
+        "ingredients": "Quế nhục 0.24g, Hoàng kỳ 0.45g, Bạch thược 0.6g, Thục địa 1g, Xuyên khung 0.3g, Bạch linh 0.65g, Đảng Sâm 1g, Đương quy 0.6g, Bạch truật 0.65g, Cam thảo 0.12g",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Traphaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 1 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 10634,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 65000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10632,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 6500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00003779",
+        "name": "THẬP TOÀN ĐẠI BỔ OPC 240V",
+        "webName": "Thuốc Thập Toàn Đại Bổ OPC bồi bổ khí huyết, trị suy nhược cơ thể (240 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003779_hoan_thap_toan_dai_bo_5579_5b7c_large_1013091377.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 5227,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 85000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/hoan-thap-toan-dai-bo-3469.html",
+        "ingredients": "Đảng Sâm 50mg, Hoàng kỳ 50mg, Xuyên khung 25mg, Thục địa 75mg, Đương quy 75mg, Phục Linh 50mg, Bạch thược 50mg, Quế nhục 12.5mg",
+        "dosageForm": "Hoàn cứng",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 240 Viên",
+        "prices": [
+          {
+            "id": 5226,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 354,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 5227,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 85000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00003061",
+        "name": "FITOGRA-F FITO 40V",
+        "webName": "Thuốc Fitogra-f điều trị suy giảm hoạt động tình dục, suy nhược cơ thể (40 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00003061_fitogra_f_1410_5b7f_large_c61b403698.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 4125,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 210000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/fitogra-f-17297.html",
+        "ingredients": "Lộc Nhung 330mg, Hải mã 330mg, Nhân Sâm 270mg, Quế 20mg",
+        "dosageForm": "Viên nang",
+        "brand": "Fito",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp",
+        "prices": [
+          {
+            "id": 4125,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 210000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00016699",
+        "name": "PM H-REGULATOR 30V PROBIOTEC PHARMA",
+        "webName": "Thuốc PM H-Regulator Probiotec giảm cơn bốc hỏa, đổ mồ hôi thời kỳ tiền mãn kinh (30 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00016699_pm_h_regulator_30v_probiotec_pharma_5852_5c87_large_d3532900d8.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 823,
+            "name": "Thuốc nội tiết tố",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-noi-tiet-to",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 20294,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 420000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pm-h-regulator-30v-probiotec-pharma-17943.html",
+        "ingredients": "Cao khô quả Vitex agnus castus 20mg, Cao khô hạt đậu nành 20mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Probiotec",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 30 Viên",
+        "prices": [
+          {
+            "id": 20294,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 420000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 20293,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 14000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 221,
+      "items": [
+        {
+          "id": 3367011,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0929xxxxxx",
+          "name": "nhân",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 hộp",
+          "createdAt": "2026-09-02 10:00:45",
+          "createdAtDisplay": "3 ngày trước",
+          "updatedAt": "2026-09-02 10:00:45",
+          "replies": [
+            {
+              "id": 3367013,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Tiểu Thanh Trúc",
+                "moderatorEmail": "trucptt5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Tiểu Thanh Trúc",
+              "email": "trucptt5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Nhân,</p><p>Hiện tại, sản phẩm có giá 222,000 ₫/hộp</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p><p><br></p>",
+              "createdAt": "2026-09-02 10:01:50",
+              "createdAtDisplay": "3 ngày trước",
+              "updatedAt": "2026-09-02 10:00:45",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3365869,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0844xxxxxx",
+          "name": "chị Hà",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "em cần mua ạ",
+          "createdAt": "2026-08-30 15:55:59",
+          "createdAtDisplay": "6 ngày trước",
+          "updatedAt": "2026-08-30 15:55:59",
+          "replies": [
+            {
+              "id": 3365876,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thị Phượng",
+                "moderatorEmail": "phuonght34@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Thị Phượng",
+              "email": "phuonght34@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hà</p><p>Dạ sản phẩm còn hàng trên hệ thống Nhà thuốc FPT Long Châu.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-08-30 16:17:13",
+              "createdAtDisplay": "6 ngày trước",
+              "updatedAt": "2026-08-30 15:55:59",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3350688,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0905xxxxxx",
+          "name": "Duyên",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá bao nhiêu ạ",
+          "createdAt": "2026-08-02 17:31:47",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-08-02 17:31:47",
+          "replies": [
+            {
+              "id": 3350698,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Ngọc Diệu",
+                "moderatorEmail": "dieuptn2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Ngọc Diệu",
+              "email": "dieuptn2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Duyên,</p><p>Hiện tại, DUPHASTON ABBOTT 1X20 giá 222,000 ₫/hộp ạ</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-08-02 17:42:40",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-08-02 17:31:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3350346,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0379xxxxxx",
+          "name": "chị trang",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này cho con bú uống được không ạ",
+          "createdAt": "2026-08-02 09:58:28",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-08-02 09:58:28",
+          "replies": [
+            {
+              "id": 3350347,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thu Huyền",
+                "moderatorEmail": "huyenlt73@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thu Huyền",
+              "email": "huyenlt73@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Trang,</p><p>Dạ Duphaston là thuốc kê đơn, chị cần dùng theo chỉ định bác sĩ ạ</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-08-02 10:00:24",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-08-02 09:58:28",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3340414,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0968xxxxxx",
+          "name": "chị Hồng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "lại nhà thuốc thì ko có hàng",
+          "createdAt": "2026-07-16 10:18:28",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-16 10:18:28",
+          "replies": [
+            {
+              "id": 3340416,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Hoàng Kim Ngân",
+                "moderatorEmail": "ngannhk4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Hoàng Kim Ngân",
+              "email": "ngannhk4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hồng ,</p><p>Hiện tại, sản phẩm DUPHASTON ABBOTT 1X20 có giá 222,000 ₫/hộp còn hàng trên hệ thống </p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a>&nbsp;<a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-07-16 10:19:21",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-16 10:18:28",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 25,
+      "items": [
+        {
+          "id": 3347758,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0374xxxxxx",
+          "name": "Chị Nhung",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá 1 hộp",
+          "createdAt": "2026-07-28 20:26:34",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-28 20:26:34",
+          "replies": [
+            {
+              "id": 3347765,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Hoàng Kim Ngân",
+                "moderatorEmail": "ngannhk4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Hoàng Kim Ngân",
+              "email": "ngannhk4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Nhung,</p><p>Hiện tại, DUPHASTON ABBOTT 1X20 giá 222,000 ₫/hộp ạ</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-07-28 20:28:43",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-28 20:26:34",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3337908,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0986xxxxxx",
+          "name": "Đinh thị trang",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 hộp ạ?",
+          "createdAt": "2026-07-13 07:27:23",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-13 07:27:24",
+          "replies": [
+            {
+              "id": 3338006,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Bảo Nghi",
+                "moderatorEmail": "nghintb2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Bảo Nghi",
+              "email": "nghintb2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Trang,</p><p>Dạ Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p><p><br></p>",
+              "createdAt": "2026-07-13 09:54:24",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-13 07:27:24",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3324747,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0989xxxxxx",
+          "name": "ngọc lài",
+          "email": "",
+          "score": 5,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này có trị rối loạn kinh nguyệt không ?",
+          "createdAt": "2026-06-18 15:39:06",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-18 15:39:06",
+          "replies": [
+            {
+              "id": 3324760,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Thị Bích Lựu",
+                "moderatorEmail": "luuntb4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Thị Bích Lựu",
+              "email": "luuntb4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Ngọc Lài, </p><p>Dạ Thuốc Duphaston 10mg được chỉ định dùng trong các trường hợp sau: Điều hòa kinh nguyệt,&nbsp;<a href=\"https://nhathuoclongchau.com.vn/benh/lac-noi-mac-tu-cung-372.html\" rel=\"noopener noreferrer\" target=\"_blank\">lạc nội mạc tử cung</a>, đau bụng kinh... Sản phẩm là thuốc cần kê đơn, chị dùng theo chỉ định của bác sĩ để phù hợp, hiệu quả và an toàn nhất với tình trạng.</p><p>Nhà thuốc thông tin đến chị ạ.</p>",
+              "createdAt": "2026-06-18 15:59:39",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-18 15:39:06",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3251699,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0325xxxxxx",
+          "name": "em Mui",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này dành cho bà bầu uống phải không",
+          "createdAt": "2026-01-26 19:53:55",
+          "createdAtDisplay": "7 tháng trước",
+          "updatedAt": "2026-01-26 19:53:55",
+          "replies": [
+            {
+              "id": 3251727,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Nhật Tân",
+                "moderatorEmail": "tannn23@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Nhật Tân",
+              "email": "tannn23@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Mui</p><p>Dạ sản phẩm là thuốc kê đơn chị nên tham khảo ý kiến bác sĩ trước khi dùng ạ</p><p>Nhà thuốc thông tin đến chị</p>",
+              "createdAt": "2026-01-26 20:15:06",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-01-26 19:53:55",
+              "replies": []
+            },
+            {
+              "id": 3276497,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0961xxxxxx",
+              "name": "Nguyễn thị lam",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Thuốc nội  tiết  Duphaston dùng  khoảng  bao  lâu  thì  kinh  nguyệt  mới  đều lại  ạ ",
+              "createdAt": "2026-03-19 12:09:50",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-01-26 19:53:55",
+              "replies": []
+            },
+            {
+              "id": 3276502,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Minh Tiến",
+                "moderatorEmail": "tiennm50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Minh Tiến",
+              "email": "tiennm50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Lam,</p><p>Thuốc nội tiết Duphaston nên dùng theo chỉ định của bác sĩ và sẽ cho đáp ứng cơ thể tùy vào cơ địa người dùng ạ.</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2026-03-19 12:20:57",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-01-26 19:53:55",
+              "replies": []
+            },
+            {
+              "id": 3302845,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0946xxxxxx",
+              "name": "Chị NGOC",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "giá bao nhiêu hop ạ",
+              "createdAt": "2026-05-06 21:24:43",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-01-26 19:53:55",
+              "replies": []
+            },
+            {
+              "id": 3302846,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thanh Hoà",
+                "moderatorEmail": "hoantt53@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thanh Hoà",
+              "email": "hoantt53@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Ngọc, </p><p>Hiện tại, sản phẩm DUPHASTON ABBOTT 1X20 có giá 210,000 ₫/ hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><a href=\"https://play.google.com/store/apps/details?id=vn.frt.longchau.app\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu</a></strong>/<strong><a href=\"https://oa.zalo.me/nhathuocfptlongchau\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-05-06 21:26:10",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-01-26 19:53:55",
+              "replies": []
+            }
+          ],
+          "totalReplies": 5
+        },
+        {
+          "id": 3198803,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0372xxxxxx",
+          "name": "Bích hải",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Cho e hỏi 3-4 tháng e mới có kinh. E muốn ra kinh thì uốn có đc ko ạ . Và uốn như thế nào.có ảnh hưởng gì ko   vì e có bệnh máu đông. Sợ bị đau đầu c",
+          "createdAt": "2025-10-19 19:32:23",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-19 19:32:09",
+          "replies": [
+            {
+              "id": 3198805,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thị Phượng",
+                "moderatorEmail": "phuonght34@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Thị Phượng",
+              "email": "phuonght34@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Bích Hải,</p><p>Dạ do sản phẩm là thuốc kê đơn, chỉ nên sử dụng theo chỉ định của bác sĩ ạ.</p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p>",
+              "createdAt": "2025-10-19 19:33:26",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-19 19:32:09",
+              "replies": []
+            },
+            {
+              "id": 3222389,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0366xxxxxx",
+              "name": "chị thương",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "c uống tới khi có kinh thì dừng ạ",
+              "createdAt": "2025-12-01 07:35:22",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-10-19 19:32:09",
+              "replies": []
+            },
+            {
+              "id": 3222421,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Mạnh Hà",
+                "moderatorEmail": "hahm5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Mạnh Hà",
+              "email": "hahm5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Thương,</p><p>Dạ do sản phẩm là thuốc kê đơn, chỉ nên sử dụng theo chỉ định của bác sĩ ạ.</p><p>Nhà thuốc thông tin đến chị.</p>",
+              "createdAt": "2025-12-01 08:30:36",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-10-19 19:32:09",
+              "replies": []
+            },
+            {
+              "id": 3267710,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0987xxxxxx",
+              "name": "Hồng Diệp Thư",
+              "email": "",
+              "score": null,
+              "gender": 1,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "kinh của bạn giờ tn rồi ạ.bạn dùng thuốc nào để ổn định chứ kì kinh vậy ạ mình cũng tình trạng giống bạn ",
+              "createdAt": "2026-03-02 21:13:18",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2025-10-19 19:32:09",
+              "replies": []
+            },
+            {
+              "id": 3267713,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thanh Ngọc",
+                "moderatorEmail": "ngocht18@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Thanh Ngọc",
+              "email": "ngocht18@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Thư,</p><p>Dạ sản phẩm là thuốc kê đơn chị nên tham khảo ý kiến bác sĩ trước khi dùng ạ</p><p>Nhà thuốc thông tin đến chị</p>",
+              "createdAt": "2026-03-02 21:14:19",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2025-10-19 19:32:09",
+              "replies": []
+            }
+          ],
+          "totalReplies": 5
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 25
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/duphaston_1x20_abbott_00002659_9d9b730077.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_6625_63ab_large_9ea20e6d07.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_8269_63ab_large_26787962e6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_1509_63ab_large_ef3edb485a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_6430_63ab_large_2afc1e2c02.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_5964_63ab_large_d915246d0d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_6522_63ab_large_fa00cbc706.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_7255_63ab_large_06f2cb5e80.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_2738_63ab_large_ffbde33a78.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_9516_63ab_large_dcaca2719c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00002659_duphaston_9015_63ab_large_f86f2190a3.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Duphaston 10mg của Abbott Biologicals B.V. chứa dydrogesterone có tác dụng hỗ trợ hoàng thể trong hỗ trợ sinh sản, điều hòa kinh nguyệt, giảm đau bụng kinh. Duphaston còn dùng trong các trường hợp lạc nội mạc tử cung, vô sinh do suy hoàng thể, dọa sảy thai, sảy thai liên tiếp, xuất huyết tử cung bất thường, vô kinh thứ phát, phòng ngừa tăng sản nội mạc tử cung trong thời kỳ mãn kinh.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nguyễn Tuấn Trịnh"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "25"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Duphaston 10mg điều hòa kinh nguyệt, trị dọa sảy thai",
+      "description": "Thuốc nội tiết Duphaston 10mg giảm đau bụng kinh, trị lạc nội mạc tử cung, vô sinh do suy hoàng thể, dọa sảy thai. Mua ngay để dược sĩ tư vấn!",
+      "openGraph": {
+        "title": "Thuốc Duphaston Abbott điều hòa kinh nguyệt, lạc nội mạc tử cung (1 vỉ x 20 viên)",
+        "description": "Duphaston 10mg của Abbott Biologicals B.V. chứa dydrogesterone có tác dụng hỗ trợ hoàng thể trong hỗ trợ sinh sản, điều hòa kinh nguyệt, giảm đau bụng kinh. Duphaston còn dùng trong các trường hợp lạc nội mạc tử cung, vô sinh do suy hoàng thể, dọa sảy thai, sảy thai liên tiếp, xuất huyết tử cung bất thường, vô kinh thứ phát, phòng ngừa tăng sản nội mạc tử cung trong thời kỳ mãn kinh.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/duphaston_1x20_abbott_00002659_9d9b730077.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/duphaston-3914.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/duphaston-3914.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

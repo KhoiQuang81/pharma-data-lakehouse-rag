@@ -1,0 +1,1731 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/tuzamin-ho-tro-dieu-tri-phong-thap-hieu-qua-341.html",
+  "ingestion_timestamp": "2026-09-05T11:33:59.039714+00:00",
+  "file_hash": "b29a4b19e8dc9308e6e6028b3add53a7522bb359c640d9e4f78eba67549431fe",
+  "lineage_hash": "42eadd3022182598c8a32d86a9e278406b1a9868058492466918e97b4e584cfc",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/tuzamin-ho-tro-dieu-tri-phong-thap-hieu-qua-341.html",
+    "product": {
+      "sku": "00011233",
+      "webName": "Thuốc Tuzamin Mediplantex hỗ trợ điều trị phong thấp, đau lưng (3 vỉ x 10 viên)",
+      "name": "TUZAMIN MEDIPLANTEX 3X10",
+      "shortName": "TUZAMIN PLANTEX 3X10",
+      "headingText": "Thuốc Tuzamin",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6171_83c74e9da0.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6172_62d1481c0a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6173_9a2a7e9530.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6174_4ff76031a7.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6175_6b93caf61d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6176_9a155c49fd.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6177_7b98874460.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tuzamin_c4c74a42a5.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 727,
+          "name": "Thuốc bổ & vitamin",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-bo-and-vitamin",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 755,
+          "name": "Bổ xương khớp",
+          "parentName": "Thuốc bổ & vitamin",
+          "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/tuzamin-ho-tro-dieu-tri-phong-thap-hieu-qua-341.html",
+      "ingredient": [
+        {
+          "id": 27078,
+          "ingredientId": 39632,
+          "shortDescription": "250mg",
+          "name": "Tục đoạn",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27079,
+          "ingredientId": 32396,
+          "shortDescription": "250mg",
+          "name": "Phòng phong",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27080,
+          "ingredientId": 22860,
+          "shortDescription": "250mg",
+          "name": "Hy thiêm",
+          "isPrimary": false,
+          "slug": "thanh-phan/hy-thiem"
+        },
+        {
+          "id": 27081,
+          "ingredientId": 18380,
+          "shortDescription": "200mg",
+          "name": "Độc hoạt",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27082,
+          "ingredientId": 37441,
+          "shortDescription": "200mg",
+          "name": "Tần giao",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27083,
+          "ingredientId": 18784,
+          "shortDescription": "150mg",
+          "name": "Đương quy",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27084,
+          "ingredientId": 29714,
+          "shortDescription": "150mg",
+          "name": "Ngưu tất (Rễ)",
+          "isPrimary": false,
+          "slug": "thanh-phan/nguu-tat"
+        },
+        {
+          "id": 27085,
+          "ingredientId": 38203,
+          "shortDescription": "150mg",
+          "name": "Thiên niên kiện",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27086,
+          "ingredientId": 22437,
+          "shortDescription": "150mg",
+          "name": "Hoàng kỳ",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27087,
+          "ingredientId": 18363,
+          "shortDescription": "100mg",
+          "name": "Đỗ trọng",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 27088,
+          "ingredientId": 10131,
+          "shortDescription": "150mg",
+          "name": "Bạch thược",
+          "isPrimary": false,
+          "slug": "thanh-phan/bach-thuoc"
+        },
+        {
+          "id": 27089,
+          "ingredientId": 40801,
+          "shortDescription": "150mg",
+          "name": "Xuyên khung",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-24355-16",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Dùng đường uống. Uống sau bữa ăn từ 1 - 2 giờ.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Người lớn và trẻ em trên 12 tuổi: Ngày uống 3 lần, mỗi lần 2 viên.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Tuzamin được chỉ định để điều trị phong thấp, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-lung-64.html\">đau lưng</a>, đau dây thần kinh tọa, đau các khớp, đau cột sống.</p>\n\n<h3><b>Dược lực học</b></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><b>Dược động học</b></h3>\n\n<p>Chưa có báo cáo.</p>",
+      "brand": "Mediplantex",
+      "brandType": null,
+      "adverseEffect": "<p>Chưa có báo cáo về tác dụng phụ của thuốc.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Thông báo cho bác sĩ tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Hộp 3 vỉ x 10 viên",
+      "indications": [
+        {
+          "id": 495,
+          "name": "Đau lưng",
+          "slug": "benh/dau-lung-64.html"
+        },
+        {
+          "id": 513,
+          "name": "Đau nhức toàn thân",
+          "slug": "benh/dau-nhuc-toan-than-63.html"
+        },
+        {
+          "id": 1067,
+          "name": "Đau nhức cơ thể",
+          "slug": null
+        },
+        {
+          "id": 1253,
+          "name": "Phong tê thấp",
+          "slug": "benh/phong-te-thap-1039.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "MEDIPLANTEX",
+      "shortDescription": "<p>Tuzamin của công ty CP Dược Trung ương Mediplantex. Thành phần chính là cao khô hỗn hợp các dược liệu: Tục đoạn, Phòng phong, Hy thiêm, Độc hoạt, Tần giao, Đương quy, Ngưu tất, Thiên niên kiện, Hoàng kỳ, Đỗ trọng. Bột dược liệu: Bạch thược, Xuyên khung. Thuốc dùng điều trị phong thấp, đau lưng, đau dây thần kinh tọa, đau các khớp, đau cột sống.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "Trên 12 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/mediplantex",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "TUZAMIN",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 3 Vỉ x 10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 755,
+        "name": "Bổ xương khớp",
+        "parentName": "Thuốc bổ & vitamin",
+        "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6171_83c74e9da0.jpg",
+          "alternativeText": "Thuốc Tuzamin Mediplantex hỗ trợ điều trị phong thấp, đau lưng (3 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6172_62d1481c0a.jpg",
+          "alternativeText": "Thuốc Tuzamin Mediplantex hỗ trợ điều trị phong thấp, đau lưng (3 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6173_9a2a7e9530.jpg",
+          "alternativeText": "Thuốc Tuzamin Mediplantex hỗ trợ điều trị phong thấp, đau lưng (3 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6174_4ff76031a7.jpg",
+          "alternativeText": "Thuốc Tuzamin Mediplantex hỗ trợ điều trị phong thấp, đau lưng (3 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6175_6b93caf61d.jpg",
+          "alternativeText": "Thuốc Tuzamin Mediplantex hỗ trợ điều trị phong thấp, đau lưng (3 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6176_9a155c49fd.jpg",
+          "alternativeText": "Thuốc Tuzamin Mediplantex hỗ trợ điều trị phong thấp, đau lưng (3 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6177_7b98874460.jpg",
+          "alternativeText": "Thuốc Tuzamin Mediplantex hỗ trợ điều trị phong thấp, đau lưng (3 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tuzamin_c4c74a42a5.jpg",
+          "alternativeText": "Thuốc Tuzamin Mediplantex hỗ trợ điều trị phong thấp, đau lưng (3 vỉ x 10 viên) 8"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc bổ & vitamin",
+        "slug": "/thuoc/thuoc-bo-and-vitamin"
+      },
+      {
+        "name": "Bổ xương khớp",
+        "slug": "/thuoc/thuoc-bo-and-vitamin/bo-xuong-khop"
+      }
+    ],
+    "content": {
+      "sku": "00011233",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Dùng đường uống. Uống sau bữa ăn từ 1 - 2 giờ.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Người lớn và trẻ em trên 12 tuổi: Ngày uống 3 lần, mỗi lần 2 viên.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<html><body><p>Tờ hướng dẫn sử dụng Tuzamin.</p></body></html>",
+      "adverseEffect": "<p>Chưa có báo cáo về tác dụng phụ của thuốc.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Thông báo cho bác sĩ tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p>Để nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p>Thuốc Tuzamin được chỉ định để điều trị phong thấp, <a href=\"https://nhathuoclongchau.com.vn/benh/dau-lung-64.html\">đau lưng</a>, đau dây thần kinh tọa, đau các khớp, đau cột sống.</p>\n\n<h3><b>Dược lực học</b></h3>\n\n<p>Chưa có báo cáo.</p>\n\n<h3><b>Dược động học</b></h3>\n\n<p>Chưa có báo cáo.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3><strong>Chống chỉ định</strong></h3>\n\n<p>Thuốc Tuzamin chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Phụ nữ có thai.</li>\n\t<li>Người phong thấp thể hàn.</li>\n\t<li>Trẻ em dưới 12 tuổi.</li>\n</ul>\n\n<h3><strong>Thận trọng khi sử dụng</strong></h3>\n\n<p>Những người mất ngủ, di mộng tinh không nên dùng.</p>\n\n<p>Thận trọng khi dùng cho người tăng huyết áp.</p>\n\n<h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3>\n\n<p>Dùng được.</p>\n\n<h3><strong>Thời kỳ mang thai </strong></h3>\n\n<p>Chống chỉ định.</p>\n\n<h3><strong>Thời kỳ cho con bú</strong></h3>\n\n<p>Không nên dùng.</p>\n\n<h3><strong>Tương tác thuốc</strong></h3>\n\n<p>Không có.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Tuzamin - Hỗ trợ điều trị phong thấp hiệu quả",
+        "metaDescription": "Tuzamin thành phần chính là cao khô hỗn hợp các dược liệu: Tục đoạn, Phòng phong, Hy thiêm, Độc hoạt, Tần giao, Đương quy, Ngưu tất, Thiên niên kiện, Hoàng kỳ, Đỗ trọng. Bột dược liệu: Bạch thược, Xuyên khung.",
+        "id": 5260,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6171_83c74e9da0.jpg",
+              "alternativeText": null
+            },
+            "title": "Thuốc Tuzamin Mediplantex hỗ trợ điều trị phong thấp, đau lưng (3 vỉ x 10 viên)",
+            "description": "Tuzamin của công ty CP Dược Trung ương Mediplantex. Thành phần chính là cao khô hỗn hợp các dược liệu: Tục đoạn, Phòng phong, Hy thiêm, Độc hoạt, Tần giao, Đương quy, Ngưu tất, Thiên niên kiện, Hoàng kỳ, Đỗ trọng. Bột dược liệu: Bạch thược, Xuyên khung. Thuốc dùng điều trị phong thấp, đau lưng, đau dây thần kinh tọa, đau các khớp, đau cột sống."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 32624,
+        "title": "Có báo cáo về tác dụng phụ của Tuzamin không?",
+        "content": "<p>Theo thông tin từ nguồn, hiện chưa có báo cáo về tác dụng phụ khi sử dụng thuốc Tuzamin. Tuy nhiên, cần thông báo cho bác sĩ nếu gặp bất kỳ tác dụng không mong muốn nào.</p>"
+      },
+      {
+        "id": 32623,
+        "title": "Cách dùng Tuzamin hiệu quả nhất là như thế nào?",
+        "content": "<p>Tuzamin được dùng bằng đường uống. Nên uống thuốc sau bữa ăn khoảng 1 - 2 giờ để đạt hiệu quả tốt nhất.</p>"
+      },
+      {
+        "id": 32622,
+        "title": "Liều dùng khuyến cáo của Tuzamin cho người lớn là bao nhiêu?",
+        "content": "<p>Đối với người lớn và trẻ em trên 12 tuổi, liều dùng thông thường của Tuzamin là 2 viên mỗi lần, uống 3 lần mỗi ngày.</p>"
+      },
+      {
+        "id": 32621,
+        "title": "Thành phần chính của Tuzamin bao gồm những gì?",
+        "content": "<p>Thành phần chính của Tuzamin bao gồm cao khô hỗn hợp từ nhiều loại dược liệu như Tục đoạn, Phòng phong, Hy thiêm, Độc hoạt, Tần giao, Đương quy, Ngưu tất (Rễ), Thiên niên kiện, Hoàng kỳ, Đỗ trọng, cùng với bột Bạch thược và Xuyên khung.</p>"
+      },
+      {
+        "id": 32620,
+        "title": "Tuzamin là gì và được sử dụng để điều trị bệnh gì?",
+        "content": "<p>Tuzamin là một loại thuốc do công ty CP Dược Trung ương Mediplantex sản xuất. Thuốc này được chỉ định để hỗ trợ điều trị các chứng phong thấp, đau lưng, đau dây thần kinh tọa, đau các khớp và đau cột sống.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00005013",
+        "name": "MORINDA DOMESCO 50V",
+        "webName": "Thuốc Morinda Citrifolia Domesco điều trị đau nhức, sưng khớp, tăng huyết áp (50 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_7391_4c5eb61a67.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 755,
+            "name": "Bổ xương khớp",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 7171,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 50000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/morinda-ho-tro-dieu-tri-dau-nhuc-sung-khop-232.html",
+        "ingredients": "Cao nhàu 5/1 400mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Domesco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 50 viên",
+        "prices": [
+          {
+            "id": 7171,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 50000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 7170,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00005922",
+        "name": "PHONG TÊ THẤP PV 100V",
+        "webName": "Thuốc Phong Tê Thấp PV điều trị phong thấp, thắt lưng, đầu gối đau nhức (100 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00005922_phong_te_thap_pv_2069_5bb7_large_420e6bbdda.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 755,
+            "name": "Bổ xương khớp",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8535,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 93000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/phong-te-thap-pv-239.html",
+        "ingredients": "Độc hoạt 160mg, Quế chi 80mg, Phòng phong 160mg, Đương quy 240mg, Tế tân 80mg, Xuyên khung 160mg, Tần giao 240mg, Bạch thược 240mg, Thiên niên kiện 200mg, Sinh Địa 160mg, Đỗ trọng 240mg, Đảng Sâm 160mg, Ngưu tất (Rễ) 160mg, Khương hoạt 180mg, Phụ tử chế 80mg, Tục đoạn 240mg, Phục Linh 240mg",
+        "dosageForm": "Viên nén bao đường",
+        "brand": "Phúc Vinh",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 100 Viên",
+        "prices": [
+          {
+            "id": 8534,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 930,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 8535,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 93000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006353",
+        "name": "RHEUMAPAIN-F FITO 40V",
+        "webName": "Thuốc Rheumapain-f Fito điều trị phong thấp, đau nhức (40 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006353_rheumapain_f_ho_tro_dieu_tri_viem_da_khop_dang_thap_5545_5b1e_large_16a82b4f4a.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 755,
+            "name": "Bổ xương khớp",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 9228,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 62000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/rheumapain-f-ho-tro-dieu-tri-viem-da-khop-dang-thap-453.html",
+        "ingredients": "Hy thiêm 760mg, Thương nhĩ tử 400mg, Dây đau xương 400mg, Thổ phục linh 320mg, Hà thủ ô đỏ 320mg, Thiên niên kiện 300mg, Huyết Giác 300mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Fito",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 40 Viên",
+        "prices": [
+          {
+            "id": 9228,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 62000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 9227,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1550,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007371",
+        "name": "TIMI ROITIN PHIL 24X5",
+        "webName": "Thuốc Tmi Roitin bổ sung các vitamin nhóm B (24 vỉ x 5 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007371_timi_roitin_3917_5bd9_large_e3686d741b.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 755,
+            "name": "Bổ xương khớp",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 10763,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 4379,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/timi-roitin-1986.html",
+        "ingredients": "Chondroitin 90mg, Nicotinamid 50mg, Fursultiamine 50mg, Riboflavin 6mg, Pyridoxine 25mg, Calcium Pantothenate 15mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Phil",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 24 vỉ x 5 viên",
+        "prices": [
+          {
+            "id": 10763,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 4379,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 10765,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 525500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 10764,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 21896,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00016476",
+        "name": "PHONG TÊ THẤP BÀ GIẰNG 250V",
+        "webName": "Thuốc Phong Tê Thấp Bà Giằng điều trị viêm, đau xương khớp (250 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/123_687f15b5f1.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 755,
+            "name": "Bổ xương khớp",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 19888,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 80000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/phong-te-thap-ba-giang-250v-14227.html",
+        "ingredients": "Đương quy 14mg, Mã tiền chế 14mg, Đỗ trọng 14mg, Ngưu tất (Rễ) 12mg, Quế chi 0.8mg, Thương truật 16mg, Độc hoạt 16mg, Thổ phục linh 20mg",
+        "dosageForm": "Hoàn cứng",
+        "brand": "Bà Giằng",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 250 viên",
+        "prices": [
+          {
+            "id": 19887,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 320,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 19888,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 80000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00003015",
+        "name": "VIÊN XƯƠNG KHỚP FENGSHI OPC 5X10",
+        "webName": "Viên phong thấp Fengshi OPC điều trị các chứng đau dây thần kinh liên sườn, đau vai (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/vien_xuong_khop_OPC_f24552f5ec.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 755,
+            "name": "Bổ xương khớp",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 4063,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 60000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/fengshi-852mg-5x10-opc-17298.html",
+        "ingredients": "Hy thiêm 88mg, Tam thất 10mg, Mã tiền chế 0.7mg, Ngũ gia bì 18mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 4061,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 4062,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 12000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 4063,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 60000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007553",
+        "name": "TRIXLAZI DAVI 3X10",
+        "webName": "Thuốc Trixlazi DaviPharm bổ sung canxi, magnesi, kẽm và Vitamin D3 (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007553_trixlazi_7984_5bbc_large_6673fbd783.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 727,
+            "name": "Thuốc bổ & vitamin",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-bo-and-vitamin",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 755,
+            "name": "Bổ xương khớp",
+            "parentName": "Thuốc bổ & vitamin",
+            "slug": "thuoc/thuoc-bo-and-vitamin/bo-xuong-khop",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11053,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 4033,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/trixlazi-1911.html",
+        "ingredients": "Calci carbonat 400mg, Magnesium hydroxide 150mg, Zinc sulfate 5mg, Cholecalciferol 100ui",
+        "dosageForm": "Viên nén",
+        "brand": "Davipharm",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 40,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 11055,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 121000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 11054,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 40333,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 11053,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 4033,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 0,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/1245_van_de_doi_tuong_2759_62eb_large_35db93ce35.png"
+          },
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 14,
+      "items": [
+        {
+          "id": 3347742,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0785xxxxxx",
+          "name": "A.TÂN",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Bị cao huyết áp uống được ko ạ",
+          "createdAt": "2026-07-28 19:57:28",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-28 19:57:28",
+          "replies": [
+            {
+              "id": 3347743,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Tô Thị Hồng Anh",
+                "moderatorEmail": "anhtth34@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Tô Thị Hồng Anh",
+              "email": "anhtth34@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Tân, </p><p>Dạ sản phẩm chưa có thông tin cụ thể dùng được cho người có&nbsp;cao huyết áp  nên tham khảo ý kiến bác sĩ trước khi dùng ạ</p><p>Nhà thuốc thông tin đến anh.</p><p>Thân mến!</p>",
+              "createdAt": "2026-07-28 19:59:27",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-28 19:57:28",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3347354,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0929xxxxxx",
+          "name": "đào",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu ạ",
+          "createdAt": "2026-07-28 14:01:01",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-28 14:01:01",
+          "replies": [
+            {
+              "id": 3347358,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Chu Thị Quỳnh",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Chu Thị Quỳnh",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Đào, </p><p>Hiện tại, sản phẩm Thuốc Tuzamin Mediplantex hỗ trợ điều trị phong thấp, đau lưng (3 vỉ x 10 viên) có giá 90,000 ₫/1 hộp. Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại ứng dụng Long Châu/ZALO OA Nhà thuốc FPT Long Châu để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-07-28 14:02:11",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-28 14:01:01",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3313341,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0383xxxxxx",
+          "name": "Ngô thanh duyên",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá a",
+          "createdAt": "2026-05-26 21:56:55",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-26 21:56:55",
+          "replies": [
+            {
+              "id": 3313342,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Ngọc Lan Vi",
+                "moderatorEmail": "vilnl@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Ngọc Lan Vi",
+              "email": "vilnl@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý khách,</p><p>Hiện tại, sản phẩm TUZAMIN PLANTEX 3X10 có giá 90,000&nbsp;₫/hộp.</p><p>Quý khách có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-05-26 21:57:35",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-26 21:56:55",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3202341,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0919xxxxxx",
+          "name": "ĐỖ Hoàng Mến",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thuốc Tuzamim giá bán bao nhiêu/hộp..?",
+          "createdAt": "2025-10-26 09:20:50",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-26 09:20:33",
+          "replies": [
+            {
+              "id": 3202345,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phan Tiểu Thanh Trúc",
+                "moderatorEmail": "trucptt5@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phan Tiểu Thanh Trúc",
+              "email": "trucptt5@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn ĐỖ Hoàng Mến,</p><p> Hiện tại, sản phẩm có giá 90,000 ₫/hộp.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2025-10-26 09:23:31",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-26 09:20:33",
+              "replies": []
+            },
+            {
+              "id": 3297431,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0966xxxxxx",
+              "name": "anh mẫn",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "bao nhiêu tiền 1 hộp tuzamin ạ",
+              "createdAt": "2026-04-27 13:24:17",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2025-10-26 09:20:33",
+              "replies": []
+            },
+            {
+              "id": 3297435,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Trần Tường Vi",
+                "moderatorEmail": "vihtt14@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Trần Tường Vi",
+              "email": "vihtt14@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Mẫn</p><p>Hiện tại, thuốc Tuzamin Mediplantex hỗ trợ điều trị phong thấp, đau lưng (3 vỉ x 10 viên) có giá 90,000đ/hộp ạ.</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-04-27 13:27:53",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2025-10-26 09:20:33",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3190293,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0999xxxxxx",
+          "name": "Tuyến",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "80k hay 76k vậy",
+          "createdAt": "2025-10-03 15:19:00",
+          "createdAtDisplay": "11 tháng trước",
+          "updatedAt": "2025-10-03 15:18:56",
+          "replies": [
+            {
+              "id": 3190295,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thanh Ngọc",
+                "moderatorEmail": "ngocht18@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Thanh Ngọc",
+              "email": "ngocht18@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Tuyến,</p><p> Hiện tại, sản phẩm có giá 90,000/ Hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p> Thân mến!</p>",
+              "createdAt": "2025-10-03 15:20:10",
+              "createdAtDisplay": "11 tháng trước",
+              "updatedAt": "2025-10-03 15:18:56",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 3,
+      "items": [
+        {
+          "id": 3099864,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0789xxxxxx",
+          "name": "Phạm hồng bạc",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Hở van tim dùng được k ạ",
+          "createdAt": "2025-05-01 09:39:45",
+          "createdAtDisplay": "01/05/2025",
+          "updatedAt": "2025-05-01 09:39:45",
+          "replies": [
+            {
+              "id": 3099866,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Vi Trần",
+                "moderatorEmail": "vit2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Vi Trần",
+              "email": "vit2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Phạm Hồng Bạc, </p><p>Dạ sản phẩm chưa có thông tin cụ thể dùng được cho người có bệnh .. nên tham khảo ý kiến bác sĩ trước khi dùng ạ</p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p><p><br></p><p><br></p>",
+              "createdAt": "2025-05-01 09:41:28",
+              "createdAtDisplay": "01/05/2025",
+              "updatedAt": "2025-05-01 09:39:45",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 167003,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0983xxxxxx",
+          "name": "Quang",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Ở Quy Nhơn, Bình Định có cửa hàng nào có sp này không ad? Cần tư vấn.",
+          "createdAt": "2023-06-18 10:20:13",
+          "createdAtDisplay": "18/06/2023",
+          "updatedAt": "2023-06-18 10:22:09",
+          "replies": [
+            {
+              "id": 167006,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Thanh Tân",
+                "moderatorEmail": "tanht11@fpt.com.vn",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Hoàng Thanh Tân",
+              "email": "tanht11@fpt.com.vn",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<div style=\"font-family: Roboto;\">Chào Bạn Quang,</div><div style=\"font-family: Roboto;\">Dạ sản phẩm còn hàng tại khu vực ạ. Dạ sẽ có dược sĩ liên hệ tư vấn theo SĐT bạn đã để lại ạ.\nThân mến!\n</div>",
+              "createdAt": "2023-06-18 10:22:33",
+              "createdAtDisplay": "18/06/2023",
+              "updatedAt": "2023-06-18 10:22:09",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 118524,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0704xxxxxx",
+          "name": "Hdjdhjd",
+          "email": "",
+          "score": 2,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Xin giá ạ",
+          "createdAt": "2022-12-27 15:31:15",
+          "createdAtDisplay": "27/12/2022",
+          "updatedAt": "2022-12-27 15:31:15",
+          "replies": [
+            {
+              "id": 118527,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "HongHT20",
+                "moderatorEmail": "HongHT20@fpt.com.vn",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "HongHT20",
+              "email": "HongHT20@fpt.com.vn",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<div style=\"font-family: Roboto;\">Chào Bạn Hdjdhjd,<br>Dạ sản phẩm có giá 76,500đ/hộp . Dạ sẽ có nhân viên liên hệ với SĐT bạn để lại ạ. Thân mến!\n</div>",
+              "createdAt": "2022-12-27 15:32:37",
+              "createdAtDisplay": "27/12/2022",
+              "updatedAt": "2022-12-27 15:31:15",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 4,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 1,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 2
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Tuzamin Mediplantex hỗ trợ điều trị phong thấp, đau lưng (3 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6171_83c74e9da0.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6172_62d1481c0a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6173_9a2a7e9530.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6174_4ff76031a7.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6175_6b93caf61d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6176_9a155c49fd.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6177_7b98874460.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/tuzamin_c4c74a42a5.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Tuzamin của công ty CP Dược Trung ương Mediplantex. Thành phần chính là cao khô hỗn hợp các dược liệu: Tục đoạn, Phòng phong, Hy thiêm, Độc hoạt, Tần giao, Đương quy, Ngưu tất, Thiên niên kiện, Hoàng kỳ, Đỗ trọng. Bột dược liệu: Bạch thược, Xuyên khung. Thuốc dùng điều trị phong thấp, đau lưng, đau dây thần kinh tọa, đau các khớp, đau cột sống.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "reviewCount": "3"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/tuzamin-ho-tro-dieu-tri-phong-thap-hieu-qua-341.html",
+        "priceCurrency": "VND",
+        "price": 0,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Tuzamin - Hỗ trợ điều trị phong thấp hiệu quả",
+      "description": "Tuzamin thành phần chính là cao khô hỗn hợp các dược liệu: Tục đoạn, Phòng phong, Hy thiêm, Độc hoạt, Tần giao, Đương quy, Ngưu tất, Thiên niên kiện, Hoàng kỳ, Đỗ trọng. Bột dược liệu: Bạch thược, Xuyên khung.",
+      "openGraph": {
+        "title": "Thuốc Tuzamin Mediplantex hỗ trợ điều trị phong thấp, đau lưng (3 vỉ x 10 viên)",
+        "description": "Tuzamin của công ty CP Dược Trung ương Mediplantex. Thành phần chính là cao khô hỗn hợp các dược liệu: Tục đoạn, Phòng phong, Hy thiêm, Độc hoạt, Tần giao, Đương quy, Ngưu tất, Thiên niên kiện, Hoàng kỳ, Đỗ trọng. Bột dược liệu: Bạch thược, Xuyên khung. Thuốc dùng điều trị phong thấp, đau lưng, đau dây thần kinh tọa, đau các khớp, đau cột sống.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6171_83c74e9da0.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/tuzamin-ho-tro-dieu-tri-phong-thap-hieu-qua-341.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/tuzamin-ho-tro-dieu-tri-phong-thap-hieu-qua-341.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

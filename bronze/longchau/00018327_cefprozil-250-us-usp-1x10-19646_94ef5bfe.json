@@ -1,0 +1,770 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/cefprozil-250-us-usp-1x10-19646.html",
+  "ingestion_timestamp": "2026-09-05T09:04:18.349966+00:00",
+  "file_hash": "0edf4b7d3144fcb214537be484c7be86504413b895bf1b5530366b83c122749f",
+  "lineage_hash": "39f1257b89bd4ac7ba5d0f0375cb1767e71343eb09d5a31f9e7136662ed906c0",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/cefprozil-250-us-usp-1x10-19646.html",
+    "product": {
+      "sku": "00018327",
+      "webName": "Thuốc Cefprozil 250-US điều trị nhiễm khuẩn (1 vỉ x 10 viên)",
+      "name": "CEFPROZIL 250-US USP 1X10",
+      "shortName": "CEFPROZIL 250-US USP 1X10",
+      "headingText": "Thuốc Cefprozil 250",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cefprozil_250_us_1x10_usp_00018327_b622942c5b.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_3099_63d7_large_3f5bde9c4c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_6791_63d7_large_afc5e9d737.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_4931_63d7_large_57b915e1e4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_5065_63d7_large_2d3fd49d5f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_7018_63d7_large_dcdb9d6714.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_2526_63d7_large_04c1c255c1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_3753_63d7_large_910aebee63.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_6276_63d7_large_a355c40c56.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_1675049656_b233029b3b.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 731,
+          "name": "Thuốc kháng sinh, kháng nấm",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 781,
+          "name": "Thuốc kháng sinh",
+          "parentName": "Thuốc kháng sinh, kháng nấm",
+          "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 1 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "1 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/cefprozil-250-us-usp-1x10-19646.html",
+      "ingredient": [
+        {
+          "id": 42087,
+          "ingredientId": 13623,
+          "shortDescription": "250mg",
+          "name": "Cefprozil",
+          "isPrimary": false,
+          "slug": "thanh-phan/cefprozil"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893110615924",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Dùng đường uống. Liều dùng và thời gian dùng thuốc cho từng trường hợp cụ thể theo chỉ định của bác sĩ điều trị.</p><h3><strong>Liều dùng</strong></h3><p><i>Người lớn:</i></p><p>Viêm tai giữa cấp: 500mg mỗi 12 giờ cho 10 ngày.</p><p>Viêm họng hoặc viêm amidan: 500 mg x 1 lần/ngày trong 10 ngày.</p><p>Nhiễm khuẩn đường hô hấp:</p><ul><li>Viêm xoang cấp: 250 mg mỗi 12 giờ trong 10 ngày. Nhiễm khuẩn trung bình đến nặng: 500 mg mỗi 12 giờ trong 10 ngày.</li><li>Nhiễm khuẩn thứ cấp của viêm phế quản cấp: 500 mg mỗi 12 giờ, trong 10 ngày.</li><li>Đợt cấp của viêm phế quản mãn tính: 500 mg mỗi 12 giờ, trong 10 ngày.</li></ul><p>Nhiễm khuẩn tổ chức da và da không biến chứng: 250 mg hoặc 500 mg mỗi 12 giờ, trong 10 ngày.</p><p><i>Trẻ em:</i></p><p>Viêm họng hoặc viêm amidan: Trẻ em &gt; 13 tuổi: 500 mg x 1 lần/ngày trong 10 ngày.</p><p>Nhiễm khuẩn đường hô hấp:</p><ul><li>Viêm xoang cấp: Trẻ em &gt; 13 tuổi: 250 mg mỗi 12 giờ trong 10 ngày.&nbsp;</li><li>Nhiễm khuẩn trung bình đến nghiêm trọng: 500 mg mỗi 12 giờ trong 10 ngày.</li><li>Nhiễm khuẩn thứ cấp của viêm phế quàn cấp: Trẻ em &gt; 13 tuổi: 500 mg mỗi 12 giờ trong 10 ngày.</li><li>Nhiễm khuẩn thứ cấp của viêm phế quản cấp: Trẻ em &gt; 13 tuổi: 500 mg mỗi 12 giờ trong 10 ngày.</li><li>Nhiễm khuẩn tổ chức da và da không biến chứng: Trẻ em &gt; 13 tuổi: 250 mg hoặc 500 mg mỗi 12 giờ trong 10 ngày.</li></ul><p><i>Bệnh nhân suy gan:</i></p><p>Không cần chỉnh liều cho bệnh nhân suy gan.</p><p><i>Bệnh nhân suy thận:</i></p><p>Không cần chỉnh liều cho bệnh nhân có độ thanh thải creatinin &gt; 30 mL/phút.</p><p>Ở bệnh nhân có độ thanh thải creatinin &lt; 30 mL/phút: Liều sử dụng khoảng 50% so với liều dùng thông thường.</p><p><i>Người cao tuổi:</i></p><p>Không cần phải điều chỉnh liều ở người cao tuổi, ngoại trừ chức năng gan và thận trầm trọng.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Liều uống 5000 mg/kg của cefprozil không gây tử vong hoặc dấu hiệu độc tính trên chuột cống trưởng thành, cai sữa và sơ sinh, hoặc chuột trưởng thành. Liều 3000 mg/kg gây tiêu chảy và chán ăn khi sử dụng trên khỉ nhưng không gây tử vong.</p><p>Cefprozil được thải trừ chủ yếu qua thận. Trong trường hợp quá liều nghiêm trọng, đặc biệt trên bệnh nhân suy giảm chức năng thận, chạy thận nhân tạo nên được sử dụng để loại trừ thuốc ra khỏi cơ thể.</p><p>Nếu có bất cứ triệu chứng quá liều nào thì ngưng dùng thuốc ngay và thông báo ngay cho bác sĩ.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu quên dùng một liều thuốc, hãy uống càng sớm càng tốt khi nhớ ra. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và uống liều kế tiếp vào thời điểm như kế hoạch. Không uống gấp đôi liều đã quy định.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Cefprozil 250-US được chỉ định dùng trong các trường hợp sau:</p><ul><li>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\"><strong>viêm tai giữa</strong></a> cấp.</li><li>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-hong-468.html\"><strong>viêm họng</strong></a>, viêm amidan.</li><li>Ðiều trị nhiễm khuẩn đường hô hấp:<ul><li>Viêm xoang cấp gây ra bởi <i>Streptococcus pneumoniae, Haemophilus influenzae </i>(bao gồm các chủng sản xuất beta-lactamase), hoặc <i>Moraxella catarrhalis</i> (bao gồm các chủng sản xuất beta-lactamase).</li><li>Nhiễm khuẩn thứ cấp của viêm phế quản cấp gây ra bởi <i>S. pneumoniae, H. influenzae</i> (bao gồm các chủng sản xuất beta-lactamase), hoặc <i>M. catarrhalis</i> (bao gồm các chủng sản xuất beta-lactamase).</li><li>Đợt cấp của viêm phế quản mãn tính gây ra bởi <i>S. pneumoniae, H. influenzae</i> (bao gồm các chủng sản xuất beta-lactamase), hoặc <i>M. catarrhalis</i> (bao gồm các chủng sản xuất beta-lactamase).</li></ul></li><li>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phoi-180.html\"><strong>viêm phổi</strong></a> mắc phải cộng đồng từ nhẹ đến trung bình.</li><li>Ðiều trị nhiễm khuẩn tổ chức da và da không biến chứng.</li></ul><h3><strong>Dược lực học</strong></h3><p>Trên in vitro, cefprozil ức chế nhiều chủng vi khuẩn gram dương và gram âm bằng cách ức chế tổng hợp thành tế bào vi khuẩn. Dưới tác dụng thủy phân của beta lactamase thì cefprozil ổn định hơn so với cefaclor.</p><p>Cefprozil có tác dụng kháng các chủng vi khuẩn sau: Gram-dương hiếu khí: <i>Staphylococcus aureus</i> (bao gồm các chủng sản xuất beta-lactamase), <i>Streptococcus pneumonia, Streptococcus pyogenes, Enterococcus durans, Enterococcus faecalis, Listeria monocytogenes, Staphylococcus epidermidis, Staphylococcus saprophyticus, Staphylococcus wameri, Streptococcus agalactiae, Sưeptococci </i>(nhóm c, D, F, và G).</p><p>Lưu ý: Cefprozil không có tác dụng trên <i>Staphylococci, Enterococcus faecium</i> đề kháng methicillin, và hầu hết các chủng <i>Acinetobacter, Enterobacter, Morganella morganii, Proteus vulgaris, Providencia, Pseudomonas </i>và <i>Serratia.</i></p><p>Gram âm hiếu khí: <i>Haemophilus influenza</i> (bao gồm các chủng sản xuất beta-lactamase), <i>Moraxella </i>(Branhamellà) <i>catarrhalis </i>(bao gồm các chủng sản xuất beta-lactamase), <i>Citrobacter diversus, Escherichia coli, Klebsiella pneumonia, Neisseria gonorrhoeae</i> (bao gồm các chủng sản xuất beta-lactamase), <i>Proteus mirabilis, Salmonella spp., Shigella spp., Vibrio spp.</i></p><p>Các vi khuẩn kỵ khí: <i>Prevotella (Bacteroides) melaninogenicus, Clostridium difficile, Clostridium perfringens, Fusobacterium spp., Peptostreptococcus spp., Propionibacterium acnes.</i></p><p>Lưu ý: Hầu hết các chủng thuộc nhóm <i>Bacteroides fragilis</i> đã đề kháng với cefprozil.</p><h3><strong>Dược động học</strong></h3><p><i>Hấp thu</i></p><p>Sau khi uống, cefprozil được hấp thu nhanh chóng qua đường tiêu hoá. Sinh khả dụng ở người lớn khoảng 90 - 95%, nồng độ đỉnh của thuốc trong huyết tương khoảng 1,5 giờ. Thức ăn không ảnh hưởng đến sự hấp thu và nồng độ đỉnh của thuốc trong huyết tương, nhưng thời gian đạt nồng độ đỉnh trong huyết tương có thể kéo dài 15 - 45 phút.</p><p><i>Phân bố</i></p><p>Thuốc được phân bố vào các mô và dịch bao gồm cả dịch vị, dịch tai giữa, amidan và mô adenoidal (V.A). Thuốc phân bố vào sữa ở nồng độ thấp. Khoảng 35 - 45% cefprozil trong hệ tuần hoàn liên kết với protein huyết tương. Nửa đời của thuốc trong huyết tương khoảng 1 - 1,4 giờ ở người lớn với chức năng thận bình thường. Trẻ em 6 tháng đến 12 tuổi, nửa đời của thuốc trong huyết tương khoảng 0,94 - 2,1 giờ.</p><p><i>Thải trừ</i></p><p>Cefprozil được đào thải qua nước tiểu qua lọc ở cầu thận và bài tiết ở ống thận. Khoảng 54 - 70% liều sử dụng được thải trừ qua nước tiểu ở dạng không đổi trong vòng 24 giờ.</p>",
+      "brand": "Usp",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Cefprozil 250-US, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>Tiêu hóa: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">Tiêu chảy</a></strong>, buồn nôn, nôn, đau bụng.</li>\n\t<li>Gan: Tăng AST (SGOT), ALT (SGPT).</li>\n\t<li>Thần kinh trung ương: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/hoa-mat-chong-mat-14.html\">Chóng mặt</a></strong>, hiếu động thái quá, đau đầu, căng thẳng, mất ngủ, lú lẫn.</li>\n\t<li>Da: Phát ban.</li>\n\t<li>Nhiễm trùng: Bội nhiễm.</li>\n\t<li>Hệ sinh dục: Ngứa sinh dục và viêm âm đạo.</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>Gan: Vàng da ứ mật.</li>\n\t<li>Quá mẫn: Phát ban, nổi <strong><a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mề đay</a></strong>.</li>\n\t<li>Thần kinh trung ương: Ngủ gà.</li>\n\t<li>Huyết học: Giảm số lượng bạch cầu, tăng bạch cầu eosin.</li>\n\t<li>Thận: Tăng BUN và creatinin máu.</li>\n</ul>\n\n<p><em>Hiếm gặp, 1/10000 &lt; ADR &lt; 1/1000</em></p>\n\n<ul>\n\t<li>\n\t<p>Gan: Vàng da ứ mật.</p>\n\t</li>\n</ul>\n\n<p><u>Hướng dẫn cách xử trí ADR</u></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 1 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "USP",
+      "shortDescription": "<p>Cefprozil 250-US của Công ty Cổ phần US Pharma USA, thành phần chính <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/cefprozil\">cefprozil</a>. Thuốc dùng để điều trị viêm tai giữa cấp; viêm họng, viêm amidan; nhiễm khuẩn đường hô hấp; viêm phổi mắc phải cộng đồng từ nhẹ đến trung bình; nhiễm khuẩn tổ chức da và da không biến chứng.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Trên 12 tuổi",
+      "objectUse": [
+        "Trẻ em",
+        "Người cao tuổi"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Suy gan thận",
+        "Phụ nữ cho con bú",
+        "Lái tàu xe",
+        "Trẻ em"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/usp",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "CEFPROZIL 250-US",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 1 Vỉ x 10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 781,
+        "name": "Thuốc kháng sinh",
+        "parentName": "Thuốc kháng sinh, kháng nấm",
+        "slug": "thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cefprozil_250_us_1x10_usp_00018327_b622942c5b.png",
+          "alternativeText": "Thuốc Cefprozil 250-US điều trị nhiễm khuẩn (1 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_3099_63d7_large_3f5bde9c4c.jpg",
+          "alternativeText": "Thuốc Cefprozil 250-US điều trị nhiễm khuẩn (1 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_6791_63d7_large_afc5e9d737.jpg",
+          "alternativeText": "Thuốc Cefprozil 250-US điều trị nhiễm khuẩn (1 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_4931_63d7_large_57b915e1e4.jpg",
+          "alternativeText": "Thuốc Cefprozil 250-US điều trị nhiễm khuẩn (1 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_5065_63d7_large_2d3fd49d5f.jpg",
+          "alternativeText": "Thuốc Cefprozil 250-US điều trị nhiễm khuẩn (1 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_7018_63d7_large_dcdb9d6714.jpg",
+          "alternativeText": "Thuốc Cefprozil 250-US điều trị nhiễm khuẩn (1 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_2526_63d7_large_04c1c255c1.jpg",
+          "alternativeText": "Thuốc Cefprozil 250-US điều trị nhiễm khuẩn (1 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_3753_63d7_large_910aebee63.jpg",
+          "alternativeText": "Thuốc Cefprozil 250-US điều trị nhiễm khuẩn (1 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_6276_63d7_large_a355c40c56.jpg",
+          "alternativeText": "Thuốc Cefprozil 250-US điều trị nhiễm khuẩn (1 vỉ x 10 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_1675049656_b233029b3b.jpg",
+          "alternativeText": "Thuốc Cefprozil 250-US điều trị nhiễm khuẩn (1 vỉ x 10 viên) 10"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc kháng sinh, kháng nấm",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam"
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "slug": "/thuoc/thuoc-khang-sinh-khang-nam/thuoc-khang-sinh"
+      }
+    ],
+    "content": {
+      "sku": "00018327",
+      "dosage": "<h3><strong>Cách dùng</strong></h3><p>Dùng đường uống. Liều dùng và thời gian dùng thuốc cho từng trường hợp cụ thể theo chỉ định của bác sĩ điều trị.</p><h3><strong>Liều dùng</strong></h3><p><i>Người lớn:</i></p><p>Viêm tai giữa cấp: 500mg mỗi 12 giờ cho 10 ngày.</p><p>Viêm họng hoặc viêm amidan: 500 mg x 1 lần/ngày trong 10 ngày.</p><p>Nhiễm khuẩn đường hô hấp:</p><ul><li>Viêm xoang cấp: 250 mg mỗi 12 giờ trong 10 ngày. Nhiễm khuẩn trung bình đến nặng: 500 mg mỗi 12 giờ trong 10 ngày.</li><li>Nhiễm khuẩn thứ cấp của viêm phế quản cấp: 500 mg mỗi 12 giờ, trong 10 ngày.</li><li>Đợt cấp của viêm phế quản mãn tính: 500 mg mỗi 12 giờ, trong 10 ngày.</li></ul><p>Nhiễm khuẩn tổ chức da và da không biến chứng: 250 mg hoặc 500 mg mỗi 12 giờ, trong 10 ngày.</p><p><i>Trẻ em:</i></p><p>Viêm họng hoặc viêm amidan: Trẻ em &gt; 13 tuổi: 500 mg x 1 lần/ngày trong 10 ngày.</p><p>Nhiễm khuẩn đường hô hấp:</p><ul><li>Viêm xoang cấp: Trẻ em &gt; 13 tuổi: 250 mg mỗi 12 giờ trong 10 ngày.&nbsp;</li><li>Nhiễm khuẩn trung bình đến nghiêm trọng: 500 mg mỗi 12 giờ trong 10 ngày.</li><li>Nhiễm khuẩn thứ cấp của viêm phế quàn cấp: Trẻ em &gt; 13 tuổi: 500 mg mỗi 12 giờ trong 10 ngày.</li><li>Nhiễm khuẩn thứ cấp của viêm phế quản cấp: Trẻ em &gt; 13 tuổi: 500 mg mỗi 12 giờ trong 10 ngày.</li><li>Nhiễm khuẩn tổ chức da và da không biến chứng: Trẻ em &gt; 13 tuổi: 250 mg hoặc 500 mg mỗi 12 giờ trong 10 ngày.</li></ul><p><i>Bệnh nhân suy gan:</i></p><p>Không cần chỉnh liều cho bệnh nhân suy gan.</p><p><i>Bệnh nhân suy thận:</i></p><p>Không cần chỉnh liều cho bệnh nhân có độ thanh thải creatinin &gt; 30 mL/phút.</p><p>Ở bệnh nhân có độ thanh thải creatinin &lt; 30 mL/phút: Liều sử dụng khoảng 50% so với liều dùng thông thường.</p><p><i>Người cao tuổi:</i></p><p>Không cần phải điều chỉnh liều ở người cao tuổi, ngoại trừ chức năng gan và thận trầm trọng.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3><strong>Làm gì khi dùng quá liều?</strong></h3><p>Liều uống 5000 mg/kg của cefprozil không gây tử vong hoặc dấu hiệu độc tính trên chuột cống trưởng thành, cai sữa và sơ sinh, hoặc chuột trưởng thành. Liều 3000 mg/kg gây tiêu chảy và chán ăn khi sử dụng trên khỉ nhưng không gây tử vong.</p><p>Cefprozil được thải trừ chủ yếu qua thận. Trong trường hợp quá liều nghiêm trọng, đặc biệt trên bệnh nhân suy giảm chức năng thận, chạy thận nhân tạo nên được sử dụng để loại trừ thuốc ra khỏi cơ thể.</p><p>Nếu có bất cứ triệu chứng quá liều nào thì ngưng dùng thuốc ngay và thông báo ngay cho bác sĩ.</p><h3><strong>Làm gì khi quên 1 liều?</strong></h3><p>Nếu quên dùng một liều thuốc, hãy uống càng sớm càng tốt khi nhớ ra. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và uống liều kế tiếp vào thời điểm như kế hoạch. Không uống gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Cefprozil 250-US.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Cefprozil 250-US, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>Tiêu hóa: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tieu-chay-133.html\">Tiêu chảy</a></strong>, buồn nôn, nôn, đau bụng.</li>\n\t<li>Gan: Tăng AST (SGOT), ALT (SGPT).</li>\n\t<li>Thần kinh trung ương: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/hoa-mat-chong-mat-14.html\">Chóng mặt</a></strong>, hiếu động thái quá, đau đầu, căng thẳng, mất ngủ, lú lẫn.</li>\n\t<li>Da: Phát ban.</li>\n\t<li>Nhiễm trùng: Bội nhiễm.</li>\n\t<li>Hệ sinh dục: Ngứa sinh dục và viêm âm đạo.</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>Gan: Vàng da ứ mật.</li>\n\t<li>Quá mẫn: Phát ban, nổi <strong><a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mề đay</a></strong>.</li>\n\t<li>Thần kinh trung ương: Ngủ gà.</li>\n\t<li>Huyết học: Giảm số lượng bạch cầu, tăng bạch cầu eosin.</li>\n\t<li>Thận: Tăng BUN và creatinin máu.</li>\n</ul>\n\n<p><em>Hiếm gặp, 1/10000 &lt; ADR &lt; 1/1000</em></p>\n\n<ul>\n\t<li>\n\t<p>Gan: Vàng da ứ mật.</p>\n\t</li>\n</ul>\n\n<p><u>Hướng dẫn cách xử trí ADR</u></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Bảo quản thuốc ở nơi khô thoáng, nhiệt độ dưới 30°C, tránh ánh sáng.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p>Thuốc Cefprozil 250-US được chỉ định dùng trong các trường hợp sau:</p><ul><li>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-tai-giua-474.html\"><strong>viêm tai giữa</strong></a> cấp.</li><li>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-hong-468.html\"><strong>viêm họng</strong></a>, viêm amidan.</li><li>Ðiều trị nhiễm khuẩn đường hô hấp:<ul><li>Viêm xoang cấp gây ra bởi <i>Streptococcus pneumoniae, Haemophilus influenzae </i>(bao gồm các chủng sản xuất beta-lactamase), hoặc <i>Moraxella catarrhalis</i> (bao gồm các chủng sản xuất beta-lactamase).</li><li>Nhiễm khuẩn thứ cấp của viêm phế quản cấp gây ra bởi <i>S. pneumoniae, H. influenzae</i> (bao gồm các chủng sản xuất beta-lactamase), hoặc <i>M. catarrhalis</i> (bao gồm các chủng sản xuất beta-lactamase).</li><li>Đợt cấp của viêm phế quản mãn tính gây ra bởi <i>S. pneumoniae, H. influenzae</i> (bao gồm các chủng sản xuất beta-lactamase), hoặc <i>M. catarrhalis</i> (bao gồm các chủng sản xuất beta-lactamase).</li></ul></li><li>Ðiều trị <a href=\"https://nhathuoclongchau.com.vn/benh/viem-phoi-180.html\"><strong>viêm phổi</strong></a> mắc phải cộng đồng từ nhẹ đến trung bình.</li><li>Ðiều trị nhiễm khuẩn tổ chức da và da không biến chứng.</li></ul><h3><strong>Dược lực học</strong></h3><p>Trên in vitro, cefprozil ức chế nhiều chủng vi khuẩn gram dương và gram âm bằng cách ức chế tổng hợp thành tế bào vi khuẩn. Dưới tác dụng thủy phân của beta lactamase thì cefprozil ổn định hơn so với cefaclor.</p><p>Cefprozil có tác dụng kháng các chủng vi khuẩn sau: Gram-dương hiếu khí: <i>Staphylococcus aureus</i> (bao gồm các chủng sản xuất beta-lactamase), <i>Streptococcus pneumonia, Streptococcus pyogenes, Enterococcus durans, Enterococcus faecalis, Listeria monocytogenes, Staphylococcus epidermidis, Staphylococcus saprophyticus, Staphylococcus wameri, Streptococcus agalactiae, Sưeptococci </i>(nhóm c, D, F, và G).</p><p>Lưu ý: Cefprozil không có tác dụng trên <i>Staphylococci, Enterococcus faecium</i> đề kháng methicillin, và hầu hết các chủng <i>Acinetobacter, Enterobacter, Morganella morganii, Proteus vulgaris, Providencia, Pseudomonas </i>và <i>Serratia.</i></p><p>Gram âm hiếu khí: <i>Haemophilus influenza</i> (bao gồm các chủng sản xuất beta-lactamase), <i>Moraxella </i>(Branhamellà) <i>catarrhalis </i>(bao gồm các chủng sản xuất beta-lactamase), <i>Citrobacter diversus, Escherichia coli, Klebsiella pneumonia, Neisseria gonorrhoeae</i> (bao gồm các chủng sản xuất beta-lactamase), <i>Proteus mirabilis, Salmonella spp., Shigella spp., Vibrio spp.</i></p><p>Các vi khuẩn kỵ khí: <i>Prevotella (Bacteroides) melaninogenicus, Clostridium difficile, Clostridium perfringens, Fusobacterium spp., Peptostreptococcus spp., Propionibacterium acnes.</i></p><p>Lưu ý: Hầu hết các chủng thuộc nhóm <i>Bacteroides fragilis</i> đã đề kháng với cefprozil.</p><h3><strong>Dược động học</strong></h3><p><i>Hấp thu</i></p><p>Sau khi uống, cefprozil được hấp thu nhanh chóng qua đường tiêu hoá. Sinh khả dụng ở người lớn khoảng 90 - 95%, nồng độ đỉnh của thuốc trong huyết tương khoảng 1,5 giờ. Thức ăn không ảnh hưởng đến sự hấp thu và nồng độ đỉnh của thuốc trong huyết tương, nhưng thời gian đạt nồng độ đỉnh trong huyết tương có thể kéo dài 15 - 45 phút.</p><p><i>Phân bố</i></p><p>Thuốc được phân bố vào các mô và dịch bao gồm cả dịch vị, dịch tai giữa, amidan và mô adenoidal (V.A). Thuốc phân bố vào sữa ở nồng độ thấp. Khoảng 35 - 45% cefprozil trong hệ tuần hoàn liên kết với protein huyết tương. Nửa đời của thuốc trong huyết tương khoảng 1 - 1,4 giờ ở người lớn với chức năng thận bình thường. Trẻ em 6 tháng đến 12 tuổi, nửa đời của thuốc trong huyết tương khoảng 0,94 - 2,1 giờ.</p><p><i>Thải trừ</i></p><p>Cefprozil được đào thải qua nước tiểu qua lọc ở cầu thận và bài tiết ở ống thận. Khoảng 54 - 70% liều sử dụng được thải trừ qua nước tiểu ở dạng không đổi trong vòng 24 giờ.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3><strong>Chống chỉ định</strong></h3><p>Thuốc Cefprozil 250-US chống chỉ định trong các trường hợp người bệnh mẫn cảm với cefprozil hoặc các thành phần khác của thuốc, dị ứng với các kháng sinh nhóm cephalosporin.</p><h3><strong>Thận trọng khi sử dụng</strong></h3><p><i>Viêm đại tràng và tiêu chảy liên quan Clostridium difficile/bội nhiễm:</i></p><p>Có thể xuất hiện và thúc đẩy phát triển quá mức các chủng không nhạy cảm hoặc nấm nếu điều trị kéo dài. Theo dõi thận trọng và điều trị thích hợp nếu xảy ra bội nhiễm.</p><p><i>Các phản ứng quá mẫn:</i></p><p>Các phản ứng quá mẫn như <a href=\"https://nhathuoclongchau.com.vn/benh/soc-phan-ve-108.html\"><strong>sốc phản vệ</strong></a>, ban đỏ, phản ứng giống bệnh huyết thanh, hội chứng Stevens-Johnson đã được báo cáo.</p><p><i>Phản ứng chéo:</i></p><p>Có phản ứng chéo giữa các cephalosporin và các kháng sinh beta lactam khác, bao gồm các penicillin và các cephamycin.</p><p>Vì vậy, trước khi bắt đầu điều trị bằng cefprozil, phải điều tra kỹ về tiền sử dị ứng của người bệnh với cephalosporin, penicillin hoặc thuốc khác.</p><h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3><p>Trong một số ít trường hợp thuốc có thể gây chóng mặt, đau đầu, hiếu động, lo lắng, mất ngủ, lẫn lộn, buồn ngủ, do đó cần lưu ý khi lái xe và vận hành máy móc.</p><h3><strong>Thời kỳ mang thai&nbsp;</strong></h3><p>Chưa có công trình nghiên cứu đầy đủ ở người mang thai. Do đó, cefprozil chỉ được chỉ định ở người mang thai khi thật cần thiết.</p><h3><strong>Thời kỳ cho con bú</strong></h3><p>Cefprozil phân bố trong sữa, vì vậy sử dụng thận trọng người cho con bú.</p><h3><strong>Tương tác thuốc</strong></h3><p>Cefprozil không nên dùng đồng thời với những thuốc sau:</p><ul><li>Các kháng sinh aminoglycosid: Gây độc tính trên thận.</li><li>Kiểm tra glucose: Có thể xuất hiện dương tính giả khi kiểm tra glucose nước tiểu.</li><li>Probenecid: Làm tăng AUC (diện tích dưới đường cong) cefprozil.</li></ul>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "CEFPROZIL 250-US giá bao nhiêu? Lưu ý và cách dùng",
+        "metaDescription": "CEFPROZIL 250-US USP 1X10 thành phần chính cefprozil. Thuốc dùng để điều trị viêm tai giữa cấp; viêm họng, viêm amidan; nhiễm khuẩn đường hô hấp; viêm phổi mắc phải cộng đồng từ nhẹ đến trung bình; nhiễm khuẩn tổ chức da và da không biến chứng.",
+        "id": 6980,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cefprozil_250_us_1x10_usp_00018327_b622942c5b.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Cefprozil 250-US điều trị nhiễm khuẩn (1 vỉ x 10 viên)",
+            "description": "Cefprozil 250-US của Công ty Cổ phần US Pharma USA, thành phần chính cefprozil. Thuốc dùng để điều trị viêm tai giữa cấp; viêm họng, viêm amidan; nhiễm khuẩn đường hô hấp; viêm phổi mắc phải cộng đồng từ nhẹ đến trung bình; nhiễm khuẩn tổ chức da và da không biến chứng."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 11806,
+        "title": "Thuốc Cefprozil 250-US chứa thành phần gì?",
+        "content": "<p>Thuốc Cefprozil 250-US chứa thành phần Cefprozil 250mg.</p>"
+      },
+      {
+        "id": 11807,
+        "title": "Cơ chế tác động của thuốc Cefprozil 250-US là gì?",
+        "content": "<p>Cefprozil ức chế nhiều chủng vi khuẩn gram dương và gram âm (gây ra các bệnh nhiễm khuẩn đường hô hấp; tai mũi họng; tổ chức da...) bằng cách ức chế tổng hợp thành tế bào vi khuẩn. Dưới tác dụng thủy phân của beta lactamase thì cefprozil ổn định hơn so với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/cefaclor\">cefaclor</a>.</p>"
+      },
+      {
+        "id": 11808,
+        "title": "Thời gian bán thải cuối cùng của thuốc Cefprozil 250-US là bao lâu?",
+        "content": "<p>Cefprozil được đào thải qua nước tiểu qua lọc ở cầu thận và bài tiết ở ống thận. Khoảng 54 - 70% liều sử dụng được thải trừ qua nước tiểu ở dạng không đổi trong vòng 24 giờ.</p>"
+      },
+      {
+        "id": 11809,
+        "title": "Bệnh nhân suy gan, thận cùng dùng thuốc Cefprozil 250-US có cần điều chỉnh liều không?",
+        "content": "<p>Đối với bệnh nhân suy gan: Không cần chỉnh liều.</p><p>Đối với bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/suy-than-679.html\">suy thận</a>: Không cần chỉnh liều cho bệnh nhân có độ thanh thải creatinin &gt; 30 mL/phút. Ở bệnh nhân có độ thanh thải creatinin &lt; 30 mL/phút: Liều sử dụng khoảng 50% so với liều dùng thông thường.</p>"
+      },
+      {
+        "id": 11810,
+        "title": "Các loại thuốc nào có thể gây tương tác với thuốc Cefprozil 250-US?",
+        "content": "<p>Thuốc Cefprozil 250-USl không nên dùng đồng thời với những thuốc sau:&nbsp;</p><ul><li>Các kháng sinh aminoglycosid: Gây độc tính trên thận.&nbsp;</li><li>Kiểm tra glucose: Có thể xuất hiện dương tính giả khi kiểm tra glucose nước tiểu.&nbsp;</li><li><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/probenecid\">Probenecid</a>: Làm tăng AUC (diện tích dưới đường cong) cefprozil.</li></ul>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 25,
+      "items": [
+        {
+          "id": 3309600,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0903xxxxxx",
+          "name": "Nguyễn Thị Thùy Linh",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá ạ",
+          "createdAt": "2026-05-19 20:24:35",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-19 20:24:35",
+          "replies": [
+            {
+              "id": 3309639,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Hoàng Lan Phượng",
+                "moderatorEmail": "phuonghl4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Hoàng Lan Phượng",
+              "email": "phuonghl4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Linh,</p><p>Hiện tại, sản phẩm có giá 130,000 ₫/hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a> <a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-05-19 20:40:26",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-19 20:24:35",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3275182,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0987xxxxxx",
+          "name": "hiếu",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhieu tiền 1 hộp",
+          "createdAt": "2026-03-17 10:02:51",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-17 10:02:51",
+          "replies": [
+            {
+              "id": 3275223,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ngọc",
+                "moderatorEmail": "ngocnth74@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ngọc",
+              "email": "ngocnth74@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Hiếu</p><p>Hiện tại sản phẩm Thuốc Cefprozil 250-US điều trị nhiễm khuẩn đang có giá 130,000đ/hộp ạ. </p><p>Nhà thuốc thông tin đến Anh ạ.</p>",
+              "createdAt": "2026-03-17 10:25:37",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-17 10:02:51",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3257252,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0980xxxxxx",
+          "name": "chị liễu",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá sao vậy shop",
+          "createdAt": "2026-02-06 09:10:47",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-06 09:10:47",
+          "replies": [
+            {
+              "id": 3257262,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Đỗ Diệp Minh",
+                "moderatorEmail": "minhdd38@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Đỗ Diệp Minh",
+              "email": "minhdd38@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Liễu,</p><p>Hiện tại, sản phẩm Thuốc Cefprozil 250-US điều trị nhiễm khuẩn (1 vỉ x 10 viên) có giá 130,000 ₫/hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p><p>\t</p><p><br></p>",
+              "createdAt": "2026-02-06 09:15:58",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-06 09:10:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3214616,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0765xxxxxx",
+          "name": "Khôi",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Giá sao",
+          "createdAt": "2025-11-18 10:18:53",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-18 10:18:54",
+          "replies": [
+            {
+              "id": 3214656,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Thuỳ Linh",
+                "moderatorEmail": "linhntt67@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Thuỳ Linh",
+              "email": "linhntt67@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn <strong>Khôi</strong>,</p><p>Hiện tại, sản phẩm có giá 130,000 ₫/Hộp.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p>",
+              "createdAt": "2025-11-18 10:29:58",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-18 10:18:54",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3180257,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0916xxxxxx",
+          "name": "Vinh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này bán nhiêu vậy shop?",
+          "createdAt": "2025-09-15 10:05:34",
+          "createdAtDisplay": "11 tháng trước",
+          "updatedAt": "2025-09-15 10:05:29",
+          "replies": [
+            {
+              "id": 3180259,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Vi",
+                "moderatorEmail": "vit2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Vi",
+              "email": "vit2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Vinh,</p><p>Hiện tại, sản phẩm có giá 130,000 ₫/Hộp , (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-09-15 10:07:10",
+              "createdAtDisplay": "11 tháng trước",
+              "updatedAt": "2025-09-15 10:05:29",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Cefprozil 250-US điều trị nhiễm khuẩn (1 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cefprozil_250_us_1x10_usp_00018327_b622942c5b.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_3099_63d7_large_3f5bde9c4c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_6791_63d7_large_afc5e9d737.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_4931_63d7_large_57b915e1e4.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_5065_63d7_large_2d3fd49d5f.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_7018_63d7_large_dcdb9d6714.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_2526_63d7_large_04c1c255c1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_3753_63d7_large_910aebee63.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00018327_cefprozil_250_us_usp_1x10_6276_63d7_large_a355c40c56.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Cefprozil 250-US của Công ty Cổ phần US Pharma USA, thành phần chính cefprozil. Thuốc dùng để điều trị viêm tai giữa cấp; viêm họng, viêm amidan; nhiễm khuẩn đường hô hấp; viêm phổi mắc phải cộng đồng từ nhẹ đến trung bình; nhiễm khuẩn tổ chức da và da không biến chứng.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "CEFPROZIL 250-US giá bao nhiêu? Lưu ý và cách dùng",
+      "description": "CEFPROZIL 250-US USP 1X10 thành phần chính cefprozil. Thuốc dùng để điều trị viêm tai giữa cấp; viêm họng, viêm amidan; nhiễm khuẩn đường hô hấp; viêm phổi mắc phải cộng đồng từ nhẹ đến trung bình; nhiễm khuẩn tổ chức da và da không biến chứng.",
+      "openGraph": {
+        "title": "Thuốc Cefprozil 250-US điều trị nhiễm khuẩn (1 vỉ x 10 viên)",
+        "description": "Cefprozil 250-US của Công ty Cổ phần US Pharma USA, thành phần chính cefprozil. Thuốc dùng để điều trị viêm tai giữa cấp; viêm họng, viêm amidan; nhiễm khuẩn đường hô hấp; viêm phổi mắc phải cộng đồng từ nhẹ đến trung bình; nhiễm khuẩn tổ chức da và da không biến chứng.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/cefprozil_250_us_1x10_usp_00018327_b622942c5b.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/cefprozil-250-us-usp-1x10-19646.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/cefprozil-250-us-usp-1x10-19646.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

@@ -1,0 +1,1631 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/procoralan-75-2520.html",
+  "ingestion_timestamp": "2026-09-05T10:57:00.901287+00:00",
+  "file_hash": "051fbb66837e42e455326cb9b8d290ccfc87b52eb97cf94b76e5c50ec886cf8f",
+  "lineage_hash": "69bc415b0ef395bed176cf66a98fba777a621790c902c88e82eb816081bcf616",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/procoralan-75-2520.html",
+    "product": {
+      "sku": "00006112",
+      "webName": "Thuốc Procoralan 7.5mg Servier điều trị đau thắt ngực ổn định (4 vỉ x 14 viên)",
+      "name": "PROCORALAN 7.5 SERVIER 4X14",
+      "shortName": "PROCORALAN 7.5 LES 4X14",
+      "headingText": "Thuốc Procoralan 7.5mg",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_7216_5bbc_large_0ed85c41bf.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_4458_5bbc_large_c8d67dd301.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_2275_5bbc_large_37216e1d08.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_9688_5bbc_large_df1d766b07.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_2369_5bbc_large_7c96993cfd.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_9822_6089_large_2c1d8704a4.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_3402_6089_large_33a1a3814f.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_5190_6089_large_863438d6f8.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_1619615014_b6329e637c.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 737,
+          "name": "Thuốc tim mạch & máu",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tim-mach-and-mau",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 811,
+          "name": "Thuốc tim mạch huyết áp",
+          "parentName": "Thuốc tim mạch & máu",
+          "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 4 Vỉ x 14 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "4 Vỉ x 14 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "14 Viên"
+        }
+      ],
+      "slug": "thuoc/procoralan-75-2520.html",
+      "ingredient": [
+        {
+          "id": 22984,
+          "ingredientId": 24256,
+          "shortDescription": "7.5mg",
+          "name": "Ivabradine",
+          "isPrimary": false,
+          "slug": "thanh-phan/ivabradine"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VN-15961-12",
+      "manufactor": "Pháp",
+      "dosageForm": "Viên nén bao phim",
+      "dosage": "<h3>Cách dùng</h3><p><strong>Thuốc Procoralan 7.5mg</strong> có dạng viên nén dùng đường uống, sáng và tối trong các bữa ăn.</p><h3>Liều dùng</h3><p>Liều dùng thông thường trong điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/con-dau-that-nguc-228.html\"><strong>triệu chứng đau thắt ngực</strong></a> ổn định mạn tính:</p><ul><li>Việc khởi trị hoặc chỉnh liều điều trị được khuyến cáo diễn ra khi tiến hành đo nhiều lần tần số tim cũng như kiểm soát điện tâm đồ hoặc theo dõi ngoại trú 24 giờ.</li><li>Liều ivabradin khởi đầu không nên vượt quá 5 mg hai lần mỗi ngày ở bệnh nhân dưới 75 tuổi.</li><li>Sau ba đến bốn tuần điều trị, nếu bệnh nhân vẫn còn triệu chứng, nếu liều khởi đầu được dung nạp tốt và nếu nhịp tim lúc nghỉ trên 60 nhịp/phút, cần tăng liều tiếp theo ở bệnh nhân dùng liều 2,5 mg hai lần mỗi ngày hoặc 5 mg hai lần mỗi ngày.</li><li>Liều duy trì không nên vượt quá 7,5 mg hai lần mỗi ngày.</li><li>Nếu không có sự cải thiện triệu chứng đau thắt ngực trong vòng 3 tháng sau khi khởi trị, cần ngưng việc điều trị bằng ivabradin.</li><li>Thêm vào đó, việc dừng điều trị cần được cân nhắc nếu chỉ có đáp ứng triệu chứng hạn chế và khi không có sự giảm đáng kể trên lâm sàng về tần số tim lúc nghỉ trong vòng ba tháng.</li><li>Nếu, trong quá trình điều trị, tần số tim giảm liên tục xuống dưới 50 nhịp/phút lúc nghỉ hoặc bệnh nhân có các triệu chứng liên quan đến nhịp tim chậm như chóng mặt, mệt mỏi hoặc tụt huyết áp, liều điều trị cần được giảm xuống, có thể là 2,5 mg hai lần mỗi ngày (một nửa viên 5 mg hai lần mỗi ngày).</li><li>Sau khi giảm liều, cần theo dõi tần số tim.</li><li>Cần ngừng điều trị nếu tần số tim duy trì ở mức dưới 50 nhịp/phút hoặc triệu chứng của nhịp tim chậm vẫn tiếp diễn ngay cả khi giảm liều.</li></ul><p>Liều dùng thông thường trong điều trị suy tim mạn tính:</p><ul><li>Việc điều trị chỉ được bắt đầu trên những bệnh nhân suy tim ổn định.</li><li>Các bác sĩ điều trị được khuyến cáo nên có kinh nghiệm trong việc điều trị suy tim mạn tính.</li><li>Liều khởi trị thông thường được khuyến cáo của ivabradin là 5 mg hai lần mỗi ngày.</li><li>Sau hai tuần điều trị, liều dùng có thể tăng lên 7,5 mg hai lần mỗi ngày nếu tần số tim lúc nghỉ liên tục trên 60 nhịp/phút hoặc giảm xuống 2,5 mg hai lần mỗi ngày (một nửa viên 5 mg hai lần mỗi ngày) nếu tần số tim lúc nghỉ liên tục dưới 50 nhịp/phút hoặc trong trường hợp có các triệu chứng liên quan đến nhịp tim chậm như chóng mặt, mệt mỏi hoặc tụt huyết áp.</li><li>Nếu tần số tim ở giữa khoảng 50 và 60 nhịp/phút, duy trì liều dùng 5 mg hai lần mỗi ngày.</li><li>Nếu trong quá trình điều trị, tần số tim lúc nghỉ giảm liên tục xuống dưới 50 nhịp/phút hoặc bệnh nhân có các triệu chứng liên quan đến nhịp tim chậm, liều dùng cần được giảm xuống liều thấp hơn ở những bệnh nhân đang sử dụng 7,5 mg hai lần mỗi ngày hoặc 5 mg hai lần mỗi ngày.</li><li>Nếu nhịp tim tăng ổn định trên 60 nhịp/phút lúc nghỉ, những bệnh nhân đang sử dụng liều 2,5 mg hoặc 5 mg hai lần mỗi ngày có thể được chỉnh tới mức liều cao hơn.</li><li>Phải ngưng điều trị trong trường hợp tần số tim duy trì dưới mức 50 nhịp/phút hoặc các triệu chứng nhịp tim chậm vẫn tồn tại.</li></ul><p>Người cao tuổi: Ở các bệnh nhân từ 75 tuổi trở lên, nên cân nhắc sử dụng liều thấp hơn (2,5 mg hai lần mỗi ngày ví dụ nửa viên 5 mg hai lần mỗi ngày) trước khi tăng liều nếu cần thiết.</p><p>Bệnh nhân suy thận: Không yêu cầu hiệu chỉnh liều ở các bệnh nhân suy thận và có độ thanh thải creatinin trên 15 mL/phút.</p><p>Hiện chưa có dữ liệu ở các bệnh nhân có độ thanh thải creatinin dưới 15 mL/phút. Ivabradin do đó nên được sử dụng thận trọng ở những bệnh nhân này.</p><p>Bệnh nhân suy gan: Không yêu cầu hiệu chỉnh liều ở các bệnh nhân suy gan mức độ nhẹ.</p><p>Nên thận trọng khi sử dụng ivabradin cho các bệnh nhân suy gan mức độ trung bình. Chống chỉ định sử dụng ivabradin cho các bệnh nhân suy gan nặng, do chưa được nghiên cứu trên đối tượng bệnh nhân này và có dữ liệu về sự gia tăng mạnh nồng độ.</p><p>Trẻ em: Hiệu quả và an toàn của ivabradin trong điều trị suy tim mãn tính ở trẻ em dưới 18 tuổi chưa được thiết lập.</p><p>Các dữ liệu hiện có được mô tả trong mục \"Dược lực học\" và \"Dược động học\", tuy nhiên hiện vẫn chưa đưa ra được khuyến cáo nào về chế độ liều lượng.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Triệu chứng: Quá liều có thể dẫn đến nhịp chậm nghiêm trọng và kéo dài.</p><p>Cách xử lý: Nhịp chậm nghiêm trọng cần được điều trị triệu chứng tại chuyên khoa sâu. Trong trường hợp nhịp chậm kèm theo kém dung nạp về huyết động, có thể cần cân nhắc điều trị triệu chứng, bao gồm thuốc kích thích bêta tiêm tĩnh mạch như isoprenaline. Nếu cần, có thể tạm thời đặt máy tạo nhịp.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/procoralan-5-2521.html\"><strong>Procoralan</strong></a>, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Procoralan 7.5mg</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Điều trị bệnh <strong><a href=\"https://nhathuoclongchau.com.vn/benh/con-dau-that-nguc-228.html\">đau thắt ngực</a></strong> ổn định mạn tính:</p>\n\n<ul>\n\t<li>Ivabradin được chỉ định để điều trị cho triệu chứng đau thắt ngực mạn tính ở người trưởng thành bị bệnh động mạch vành có nhịp xoang bình thường và có tần số tim &gt; 70 nhịp/phút.</li>\n\t<li>\n\t<p>Ở người lớn không dung nạp hoặc có chống định với thuốc chẹn bêta.</p>\n\t</li>\n\t<li>\n\t<p>Hoặc kết hợp với thuốc chẹn bêta ở các bệnh nhân chưa được kiểm soát đầy đủ với liều tối ưu của thuốc chẹn bêta.</p>\n\t</li>\n</ul>\n\n<p>Điều trị <strong><a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-314.html\">suy tim</a></strong> mạn tính:</p>\n\n<ul>\n\t<li>Ivabradin được chỉ định trong điều trị suy tim mạn tính có mức độ từ NYHA II đến IV, có rối loạn chức năng tâm thu, ở những bệnh nhân có rối loạn nhịp xoang và tần số tim &gt; 75 nhịp/phút kết hợp với điều trị chuẩn bao gồm thuốc chẹn bêta hoặc khi thuốc chẹn bêta là chống chỉ định hoặc khi thuốc chẹn bêta không dung nạp.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p><strong>Cơ chế tác động</strong></p>\n\n<p>Ivabradin là chất làm giảm chuyên biệt tần số tim, do tác động ức chế chọn lọc và đặc hiệu dòng If của trung tâm tạo nhịp tim, dòng ion này kiểm soát sự khử cực tâm trương tự phát ở nút xoang và điều hòa tần số tim.</p>\n\n<p>Tác dụng trên tim của thuốc là đặc hiệu với nút xoang mà không có ảnh hưởng tới các thời gian dẫn truyền trong nhĩ, nhĩ – thất, trong thất cũng như không có ảnh hưởng tới sự tái cực thất hoặc tới sự co cơ tim.</p>\n\n<p>Ivabradin cũng có thể tương tác với dòng lh ở võng mạc mà rất giống với dòng lf ở tim. Dòng lh này tham gia vào độ phân giải tạm thời của hệ thị giác bằng cách làm giảm đáp ứng của võng mạc với xung ánh sáng chói lọi.</p>\n\n<p>Trong các trường hợp được kích thích (ví dụ: Thay đổi nhanh chóng độ sáng) thì việc ivabradin ức chế một phần dòng lh làm nền tảng cho hiện tượng chói sáng có thể gặp ở bệnh nhân.</p>\n\n<p>Hiện tượng chói sáng (phosphenes) được mô tả như sự tăng chói sáng tạm thời ở một vùng nhất định của thị trường.</p>\n\n<p><strong>Tác dụng dược lực học</strong></p>\n\n<p>Tính chất dược lực học chủ yếu của ivabradin ở người là sự giảm tần số tim đặc hiệu phụ thuộc vào liều lượng.</p>\n\n<p>Phân tích sự giảm tần số tim với các liều tới 20 mg mỗi lần và uống 2 lần trong ngày đã chỉ rõ có khuynh hướng đạt tới tác dụng bình nguyên cùng với giảm nguy cơ nhịp tim chậm nghiêm trọng dưới 40 nhịp/phút</p>\n\n<p>Với liều khuyến cáo thông thường, tần số tim giảm khoảng 10 nhịp/phút lúc nghỉ và trong lúc luyện tập. Điều này dẫn tới làm giảm gánh nặng cho tim và giảm nhu cầu oxygen cho cơ tim.</p>\n\n<p>Ivabradin không có ảnh hưởng tới sự dẫn truyền trong tim, tới sự co bóp tim (không có tác dụng ức chế sự co sợi cơ tim) hoặc tới sự tái cực của tâm thất:</p>\n\n<ul>\n\t<li>\n\t<p>Trong các nghiên cứu điện sinh lý lâm sàng, ivabradin không có tác dụng trên thời gian dẫn truyền nhĩ – thất hoặc trong thất hoặc chỉnh sửa đoạn QT trên điện tâm đồ.</p>\n\t</li>\n\t<li>\n\t<p>Với bệnh nhân có rối loạn chức năng tâm thất trái (phân suất tống máu của thất trái giữa 30% và 45%), thấy ivabradin không có ảnh hưởng có hại nào đối với phân suất tống máu.</p>\n\t</li>\n</ul>\n\n<h3>Dược động học</h3>\n\n<p><strong>Hấp thu</strong></p>\n\n<p>Ivabradin hấp thu nhanh và hầu như hoàn toàn sau khi uống với nồng độ đỉnh trong huyết tương đạt sau khoảng 1 giờ, nếu uống thuốc khi đói.</p>\n\n<p>Sinh khả dụng tuyệt đối của viên nén bao phim là khoảng 40%, do vòng chuyển hóa đầu tiên tại ruột và gan.Thức ăn làm chậm hấp thu thuốc khoảng 1 giờ, làm tăng nồng độ thuốc trong huyết tương lên 20 – 30%.</p>\n\n<p>Khuyến cáo uống thuốc trong bữa ăn nhằm giúp làm giảm sự thay đổi trong từng cá thể về nồng độ thuốc.</p>\n\n<p><strong>Phân bố</strong></p>\n\n<p>Ivabradin gắn khoảng 70% vào protein huyết tương và thể tích phân bố trong trạng thái ổn định gần 100 lít ở bệnh nhân.</p>\n\n<p>Nồng độ đỉnh trong huyết tương sau khi uống lâu dài liều khuyến cáo (mỗi lần 5 mg, ngày 2 lần) là 22 ng/mL (CV = 29%). Nồng độ trung bình trong huyết tương là 10 ng/mL ở trạng thái ổn định (CV = 38%).</p>\n\n<p><strong>Chuyển hóa</strong></p>\n\n<p>Ivabradin được chuyển hoá mạnh qua gan và ruột, bằng cách oxy hóa qua duy nhất cytochrome P450 3A4 (CYP3A4).</p>\n\n<p>Chất chuyển hóa chính có hoạt tính là dẫn xuất N – Khử Methyl (S 18982) với nồng độ khoảng 40% của hoạt chất ivabradin ban đầu.</p>\n\n<p>Sự chuyển hóa của chất chuyển hoá có hoạt tính này cũng qua CYP3A4.</p>\n\n<p>Ivabradin có ái lực yếu với CYP 3A4, không ức chế hoặc gây cảm ứng rõ rệt CYP3A4. Vì vậy ít có khả năng là ivabradin đã làm thay đổi sự chuyển hoá hoặc các nồng độ trong huyết tương của các cơ chất của CYP3A4.</p>\n\n<p>Ngược lại các chất ức chế mạnh CYP3A4 và các chất gây cảm ứng mạnh CYP3A4 lại có thể tác động rõ rệt tới nồng độ của ivabradin trong huyết tương.</p>\n\n<p><strong>Thải trừ</strong></p>\n\n<p>Ivabradin đào thải với thời gian bán thải chính là 2 giờ (70 – 75% của diện tích dưới đường cong) trong huyết tương, còn thời gian bán thải có hiệu lực là 11 giờ.</p>\n\n<p>Độ thanh lọc tổng quát là khoảng 400ml/phút và độ thanh lọc qua thận khoảng 70 ml/phút.</p>\n\n<p>Đào thải của các chất chuyển hóa qua phân và nước tiểu với lượng tương đương nhau.</p>\n\n<p>Khoảng 4% liều uống được thải nguyên vẹn qua nước tiểu.</p>\n\n<p>Tuyến tính/không tuyến tính: Động học của ivabradin là tuyến tính với liều uống 0,5 – 24 mg.</p>\n\n<p><strong>Những đối tượng đặc biệt</strong></p>\n\n<p>Với người cao tuổi: Không có khác biệt về dược động học (diện tích dưới đường cong và nồng độ đỉnh) khi so sánh giữa bệnh nhân cao tuổi (≥ 65 tuổi) hoặc rất cao tuổi (≥ 75 tuổi) với dân số chung.</p>\n\n<p>Suy thận: Ảnh hưởng của suy thận (độ thanh thải creatinin từ 15 – 60 ml/phút) tới động học của ivabradin là tối thiểu, phù hợp với việc độ thanh lọc ở cầu thận tham gia ít (khoảng 20%) tới sự đào thải toàn thể của các ivabradin và chất chuyển hóa chính S 18982.</p>\n\n<p>Suy gan: Với bệnh nhân suy gan nhẹ (độ Child – Pugh tới 7) diện tích dưới đường cong của ivabradin và của chất chuyển hóa chính có hoạt tính cao hơn khoảng 20% so với người có chức năng gan bình thường. Dữ liệu không đủ mạnh để kết luận cho bệnh nhân suy gan vừa. Không có dữ liệu trên bệnh nhân suy gan nặng.</p>\n\n<p>Bệnh nhi: Dữ liệu dược động học của ivabradin trên bệnh nhi có suy tim mạn tính từ 6 tháng tuổi đến dưới 18 tuổi tương tự với dược động học được mô tả trên người lớn tuổi khi áp dụng chế độ chỉnh liều dựa trên tuổi và cân nặng.</p>\n\n<p><strong>Liên quan giữa dược động học/dược lực học (PK/PD)</strong></p>\n\n<p>Phân tích về sự liên quan dược động học/dược lực học cho thấy.</p>\n\n<p>Tần số tim giảm gần như là tuyến tính khi tăng các nồng độ ivabradin và S18982 trong huyết tương cho tới liều 15 – 20 mg, mỗi ngày 2 lần. Với liều cao hơn thì sự giảm tần số tim sẽ không còn tỷ lệ thuận với nồng độ ivabradin trong huyết tương và có khuynh hướng đạt bình nguyên.</p>\n\n<p>Nồng độ cao của ivabradin có thể gặp khi phối hợp ivabradin với những chất ức chế mạnh CYP3A4 có thể kéo theo giảm tần số tim quá mức.</p>\n\n<p>Trong khi nguy cơ đó sẽ giảm đi khi phối hợp với chất ức chế vừa phải CYP3A4.</p>\n\n<p>Mối quan hệ dược động học/dược lực học của ivabradin trên bệnh nhi có suy tim mạn tính từ 6 tháng tuổi đến dưới 18 tuổi tương tự mối quan hệ dược động học/dược lực học đã được mô tả ở người lớn.</p>",
+      "brand": "Servier",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc Procoralan 7.5mg</strong>, bạn có thể gặp các tác dụng không mong muốn (ADR):</p>\n\n<p><strong>Rất thường gặp, ADR &gt; 1/10</strong></p>\n\n<ul>\n\t<li>\n\t<p>Rối loạn về thị giác: Hiện tượng chói sáng (phosphene).</p>\n\t</li>\n</ul>\n\n<p><strong>Thường gặp, 1/100 &lt; ADR &lt;1/10</strong></p>\n\n<ul>\n\t<li>\n\t<p><strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/roi-loan-thi-giac-bieu-hien-va-cach-phong-ngua-48257.html\">Rối loạn về thị giác</a></strong>: Nhìn mờ.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn về tim mạch: Nhịp tim chậm, blốc nhĩ thất độ 1, ngoại tâm thu thất, rung nhĩ.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn về hệ thần kinh: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">Đau đầu</a></strong>, chóng mặt.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn mạch: Huyết áp không kiểm soát.</p>\n\t</li>\n</ul>\n\n<p><strong>Ít gặp, (1/1000 &lt; ADR &lt; 1/100)</strong></p>\n\n<ul>\n\t<li>\n\t<p>Rối loạn về máu và hệ bạch huyết: Tăng bạch cầu.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn chuyển hóa và dinh dưỡng: Tăng acid uric máu.</p>\n\t</li>\n</ul>\n\n<ul>\n\t<li>\n\t<p>Rối loạn thị giác: Nhìn đôi, suy giảm thị giác.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn tai và mê cung: Mất thăng bằng.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn về tim mạch: Đánh trống ngực, ngoại tâm thu trên thất.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn về hệ thần kinh: Ngất có thể liên quan đến chậm nhịp tim.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn mạch: Hạ huyết áp có thể liên quan đến nhịp tim chậm.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn hệ tiêu hóa: Buồn nôn, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a></strong>, tiêu chảy, đau bụng.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn da và mô dưới da: Phù mạch, phát ban.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn cơ xương khớp và mô liên kết: Chuột rút.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn chung: Mệt mỏi, suy nhược có thể liên quan đến nhịp chậm.</p>\n\t</li>\n\t<li>\n\t<p>Thông số: Tăng creatinine máu, kéo dài đoạn QT trên điện tâm đồ.</p>\n\t</li>\n</ul>\n\n<p><strong>Rất hiếm gặp, (1/10000 &lt; ADR &lt; 1/1000)</strong></p>\n\n<ul>\n\t<li>\n\t<p>Rối loạn về tim mạch: Block nhĩ thất độ 2, block nhĩ thất độ 3.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn da và mô dưới da: Ban đỏ, viêm da, nổi <strong><a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mề đay</a></strong>.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn chung: Cảm giác bất ổn, có thể liên quan đến nhịp chậm.</p>\n\t</li>\n</ul>\n\n<p><strong>Hướng dẫn cách xử trí ADR</strong></p>\n\n<p>Thông báo cho bác sĩ các tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Hộp 4 Vỉ x 14 Viên",
+      "indications": [
+        {
+          "id": 311,
+          "name": "Bệnh mạch vành",
+          "slug": "benh/benh-mach-vanh-598.html"
+        },
+        {
+          "id": 673,
+          "name": "Cơn đau thắt ngực",
+          "slug": "benh/con-dau-that-nguc-228.html"
+        }
+      ],
+      "brandOrigin": "Pháp",
+      "producer": "LES",
+      "shortDescription": "<p><strong>Thuốc Procoralan 7.5mg</strong> là sản phẩm của <em>Les Laboratoires Servier Industries</em>, có thành phần chính là <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ivabradine\">Ivabradin</a></strong>, là thuốc được dùng để điều trị đau thắt ngực ổn định khi mà các thuốc phong bế bêta không thích hợp để dùng.</p>\n\n<p>Thuốc Procoralan 7.5mg có dạng viên nén có màu hồng, bao phim, hình tam giác, một mặt khắc số “7.5”, mặt kia có biểu tượng công ty.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Lái tàu xe",
+        "Suy gan thận",
+        "Phụ nữ cho con bú"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Mang thai, Suy gan, Dị ứng thuốc, Suy tim",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/servier",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "PROCORALAN TAB 7.5MG 56'S",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 261,
+        "attributeName": "Pháp",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Phap_9364e037d4.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "14 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 811,
+        "name": "Thuốc tim mạch huyết áp",
+        "parentName": "Thuốc tim mạch & máu",
+        "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_7216_5bbc_large_0ed85c41bf.JPG",
+          "alternativeText": "Thuốc Procoralan 7.5mg Servier điều trị đau thắt ngực ổn định (4 vỉ x 14 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_4458_5bbc_large_c8d67dd301.JPG",
+          "alternativeText": "Thuốc Procoralan 7.5mg Servier điều trị đau thắt ngực ổn định (4 vỉ x 14 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_2275_5bbc_large_37216e1d08.JPG",
+          "alternativeText": "Thuốc Procoralan 7.5mg Servier điều trị đau thắt ngực ổn định (4 vỉ x 14 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_9688_5bbc_large_df1d766b07.JPG",
+          "alternativeText": "Thuốc Procoralan 7.5mg Servier điều trị đau thắt ngực ổn định (4 vỉ x 14 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_2369_5bbc_large_7c96993cfd.JPG",
+          "alternativeText": "Thuốc Procoralan 7.5mg Servier điều trị đau thắt ngực ổn định (4 vỉ x 14 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_9822_6089_large_2c1d8704a4.JPG",
+          "alternativeText": "Thuốc Procoralan 7.5mg Servier điều trị đau thắt ngực ổn định (4 vỉ x 14 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_3402_6089_large_33a1a3814f.JPG",
+          "alternativeText": "Thuốc Procoralan 7.5mg Servier điều trị đau thắt ngực ổn định (4 vỉ x 14 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_5190_6089_large_863438d6f8.jpg",
+          "alternativeText": "Thuốc Procoralan 7.5mg Servier điều trị đau thắt ngực ổn định (4 vỉ x 14 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_1619615014_b6329e637c.jpg",
+          "alternativeText": "Thuốc Procoralan 7.5mg Servier điều trị đau thắt ngực ổn định (4 vỉ x 14 viên) 9"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tim mạch & máu",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau"
+      },
+      {
+        "name": "Thuốc tim mạch huyết áp",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap"
+      }
+    ],
+    "content": {
+      "sku": "00006112",
+      "dosage": "<h3>Cách dùng</h3><p><strong>Thuốc Procoralan 7.5mg</strong> có dạng viên nén dùng đường uống, sáng và tối trong các bữa ăn.</p><h3>Liều dùng</h3><p>Liều dùng thông thường trong điều trị <a href=\"https://nhathuoclongchau.com.vn/benh/con-dau-that-nguc-228.html\"><strong>triệu chứng đau thắt ngực</strong></a> ổn định mạn tính:</p><ul><li>Việc khởi trị hoặc chỉnh liều điều trị được khuyến cáo diễn ra khi tiến hành đo nhiều lần tần số tim cũng như kiểm soát điện tâm đồ hoặc theo dõi ngoại trú 24 giờ.</li><li>Liều ivabradin khởi đầu không nên vượt quá 5 mg hai lần mỗi ngày ở bệnh nhân dưới 75 tuổi.</li><li>Sau ba đến bốn tuần điều trị, nếu bệnh nhân vẫn còn triệu chứng, nếu liều khởi đầu được dung nạp tốt và nếu nhịp tim lúc nghỉ trên 60 nhịp/phút, cần tăng liều tiếp theo ở bệnh nhân dùng liều 2,5 mg hai lần mỗi ngày hoặc 5 mg hai lần mỗi ngày.</li><li>Liều duy trì không nên vượt quá 7,5 mg hai lần mỗi ngày.</li><li>Nếu không có sự cải thiện triệu chứng đau thắt ngực trong vòng 3 tháng sau khi khởi trị, cần ngưng việc điều trị bằng ivabradin.</li><li>Thêm vào đó, việc dừng điều trị cần được cân nhắc nếu chỉ có đáp ứng triệu chứng hạn chế và khi không có sự giảm đáng kể trên lâm sàng về tần số tim lúc nghỉ trong vòng ba tháng.</li><li>Nếu, trong quá trình điều trị, tần số tim giảm liên tục xuống dưới 50 nhịp/phút lúc nghỉ hoặc bệnh nhân có các triệu chứng liên quan đến nhịp tim chậm như chóng mặt, mệt mỏi hoặc tụt huyết áp, liều điều trị cần được giảm xuống, có thể là 2,5 mg hai lần mỗi ngày (một nửa viên 5 mg hai lần mỗi ngày).</li><li>Sau khi giảm liều, cần theo dõi tần số tim.</li><li>Cần ngừng điều trị nếu tần số tim duy trì ở mức dưới 50 nhịp/phút hoặc triệu chứng của nhịp tim chậm vẫn tiếp diễn ngay cả khi giảm liều.</li></ul><p>Liều dùng thông thường trong điều trị suy tim mạn tính:</p><ul><li>Việc điều trị chỉ được bắt đầu trên những bệnh nhân suy tim ổn định.</li><li>Các bác sĩ điều trị được khuyến cáo nên có kinh nghiệm trong việc điều trị suy tim mạn tính.</li><li>Liều khởi trị thông thường được khuyến cáo của ivabradin là 5 mg hai lần mỗi ngày.</li><li>Sau hai tuần điều trị, liều dùng có thể tăng lên 7,5 mg hai lần mỗi ngày nếu tần số tim lúc nghỉ liên tục trên 60 nhịp/phút hoặc giảm xuống 2,5 mg hai lần mỗi ngày (một nửa viên 5 mg hai lần mỗi ngày) nếu tần số tim lúc nghỉ liên tục dưới 50 nhịp/phút hoặc trong trường hợp có các triệu chứng liên quan đến nhịp tim chậm như chóng mặt, mệt mỏi hoặc tụt huyết áp.</li><li>Nếu tần số tim ở giữa khoảng 50 và 60 nhịp/phút, duy trì liều dùng 5 mg hai lần mỗi ngày.</li><li>Nếu trong quá trình điều trị, tần số tim lúc nghỉ giảm liên tục xuống dưới 50 nhịp/phút hoặc bệnh nhân có các triệu chứng liên quan đến nhịp tim chậm, liều dùng cần được giảm xuống liều thấp hơn ở những bệnh nhân đang sử dụng 7,5 mg hai lần mỗi ngày hoặc 5 mg hai lần mỗi ngày.</li><li>Nếu nhịp tim tăng ổn định trên 60 nhịp/phút lúc nghỉ, những bệnh nhân đang sử dụng liều 2,5 mg hoặc 5 mg hai lần mỗi ngày có thể được chỉnh tới mức liều cao hơn.</li><li>Phải ngưng điều trị trong trường hợp tần số tim duy trì dưới mức 50 nhịp/phút hoặc các triệu chứng nhịp tim chậm vẫn tồn tại.</li></ul><p>Người cao tuổi: Ở các bệnh nhân từ 75 tuổi trở lên, nên cân nhắc sử dụng liều thấp hơn (2,5 mg hai lần mỗi ngày ví dụ nửa viên 5 mg hai lần mỗi ngày) trước khi tăng liều nếu cần thiết.</p><p>Bệnh nhân suy thận: Không yêu cầu hiệu chỉnh liều ở các bệnh nhân suy thận và có độ thanh thải creatinin trên 15 mL/phút.</p><p>Hiện chưa có dữ liệu ở các bệnh nhân có độ thanh thải creatinin dưới 15 mL/phút. Ivabradin do đó nên được sử dụng thận trọng ở những bệnh nhân này.</p><p>Bệnh nhân suy gan: Không yêu cầu hiệu chỉnh liều ở các bệnh nhân suy gan mức độ nhẹ.</p><p>Nên thận trọng khi sử dụng ivabradin cho các bệnh nhân suy gan mức độ trung bình. Chống chỉ định sử dụng ivabradin cho các bệnh nhân suy gan nặng, do chưa được nghiên cứu trên đối tượng bệnh nhân này và có dữ liệu về sự gia tăng mạnh nồng độ.</p><p>Trẻ em: Hiệu quả và an toàn của ivabradin trong điều trị suy tim mãn tính ở trẻ em dưới 18 tuổi chưa được thiết lập.</p><p>Các dữ liệu hiện có được mô tả trong mục \"Dược lực học\" và \"Dược động học\", tuy nhiên hiện vẫn chưa đưa ra được khuyến cáo nào về chế độ liều lượng.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Triệu chứng: Quá liều có thể dẫn đến nhịp chậm nghiêm trọng và kéo dài.</p><p>Cách xử lý: Nhịp chậm nghiêm trọng cần được điều trị triệu chứng tại chuyên khoa sâu. Trong trường hợp nhịp chậm kèm theo kém dung nạp về huyết động, có thể cần cân nhắc điều trị triệu chứng, bao gồm thuốc kích thích bêta tiêm tĩnh mạch như isoprenaline. Nếu cần, có thể tạm thời đặt máy tạo nhịp.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc <a href=\"https://nhathuoclongchau.com.vn/thuoc/procoralan-5-2521.html\"><strong>Procoralan</strong></a>, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ hướng dẫn sử dụng thuốc Procoralan 7.5mg.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc Procoralan 7.5mg</strong>, bạn có thể gặp các tác dụng không mong muốn (ADR):</p>\n\n<p><strong>Rất thường gặp, ADR &gt; 1/10</strong></p>\n\n<ul>\n\t<li>\n\t<p>Rối loạn về thị giác: Hiện tượng chói sáng (phosphene).</p>\n\t</li>\n</ul>\n\n<p><strong>Thường gặp, 1/100 &lt; ADR &lt;1/10</strong></p>\n\n<ul>\n\t<li>\n\t<p><strong><a href=\"https://nhathuoclongchau.com.vn/bai-viet/roi-loan-thi-giac-bieu-hien-va-cach-phong-ngua-48257.html\">Rối loạn về thị giác</a></strong>: Nhìn mờ.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn về tim mạch: Nhịp tim chậm, blốc nhĩ thất độ 1, ngoại tâm thu thất, rung nhĩ.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn về hệ thần kinh: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">Đau đầu</a></strong>, chóng mặt.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn mạch: Huyết áp không kiểm soát.</p>\n\t</li>\n</ul>\n\n<p><strong>Ít gặp, (1/1000 &lt; ADR &lt; 1/100)</strong></p>\n\n<ul>\n\t<li>\n\t<p>Rối loạn về máu và hệ bạch huyết: Tăng bạch cầu.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn chuyển hóa và dinh dưỡng: Tăng acid uric máu.</p>\n\t</li>\n</ul>\n\n<ul>\n\t<li>\n\t<p>Rối loạn thị giác: Nhìn đôi, suy giảm thị giác.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn tai và mê cung: Mất thăng bằng.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn về tim mạch: Đánh trống ngực, ngoại tâm thu trên thất.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn về hệ thần kinh: Ngất có thể liên quan đến chậm nhịp tim.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn mạch: Hạ huyết áp có thể liên quan đến nhịp tim chậm.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn hệ tiêu hóa: Buồn nôn, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a></strong>, tiêu chảy, đau bụng.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn da và mô dưới da: Phù mạch, phát ban.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn cơ xương khớp và mô liên kết: Chuột rút.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn chung: Mệt mỏi, suy nhược có thể liên quan đến nhịp chậm.</p>\n\t</li>\n\t<li>\n\t<p>Thông số: Tăng creatinine máu, kéo dài đoạn QT trên điện tâm đồ.</p>\n\t</li>\n</ul>\n\n<p><strong>Rất hiếm gặp, (1/10000 &lt; ADR &lt; 1/1000)</strong></p>\n\n<ul>\n\t<li>\n\t<p>Rối loạn về tim mạch: Block nhĩ thất độ 2, block nhĩ thất độ 3.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn da và mô dưới da: Ban đỏ, viêm da, nổi <strong><a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\">mề đay</a></strong>.</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn chung: Cảm giác bất ổn, có thể liên quan đến nhịp chậm.</p>\n\t</li>\n</ul>\n\n<p><strong>Hướng dẫn cách xử trí ADR</strong></p>\n\n<p>Thông báo cho bác sĩ các tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p>Bảo quản thuốc dưới 30<sup>0</sup>C.</p>",
+      "usage": "<h3>Chỉ định</h3>\n\n<p><strong>Thuốc Procoralan 7.5mg</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<p>Điều trị bệnh <strong><a href=\"https://nhathuoclongchau.com.vn/benh/con-dau-that-nguc-228.html\">đau thắt ngực</a></strong> ổn định mạn tính:</p>\n\n<ul>\n\t<li>Ivabradin được chỉ định để điều trị cho triệu chứng đau thắt ngực mạn tính ở người trưởng thành bị bệnh động mạch vành có nhịp xoang bình thường và có tần số tim &gt; 70 nhịp/phút.</li>\n\t<li>\n\t<p>Ở người lớn không dung nạp hoặc có chống định với thuốc chẹn bêta.</p>\n\t</li>\n\t<li>\n\t<p>Hoặc kết hợp với thuốc chẹn bêta ở các bệnh nhân chưa được kiểm soát đầy đủ với liều tối ưu của thuốc chẹn bêta.</p>\n\t</li>\n</ul>\n\n<p>Điều trị <strong><a href=\"https://nhathuoclongchau.com.vn/benh/suy-tim-314.html\">suy tim</a></strong> mạn tính:</p>\n\n<ul>\n\t<li>Ivabradin được chỉ định trong điều trị suy tim mạn tính có mức độ từ NYHA II đến IV, có rối loạn chức năng tâm thu, ở những bệnh nhân có rối loạn nhịp xoang và tần số tim &gt; 75 nhịp/phút kết hợp với điều trị chuẩn bao gồm thuốc chẹn bêta hoặc khi thuốc chẹn bêta là chống chỉ định hoặc khi thuốc chẹn bêta không dung nạp.</li>\n</ul>\n\n<h3>Dược lực học</h3>\n\n<p><strong>Cơ chế tác động</strong></p>\n\n<p>Ivabradin là chất làm giảm chuyên biệt tần số tim, do tác động ức chế chọn lọc và đặc hiệu dòng If của trung tâm tạo nhịp tim, dòng ion này kiểm soát sự khử cực tâm trương tự phát ở nút xoang và điều hòa tần số tim.</p>\n\n<p>Tác dụng trên tim của thuốc là đặc hiệu với nút xoang mà không có ảnh hưởng tới các thời gian dẫn truyền trong nhĩ, nhĩ – thất, trong thất cũng như không có ảnh hưởng tới sự tái cực thất hoặc tới sự co cơ tim.</p>\n\n<p>Ivabradin cũng có thể tương tác với dòng lh ở võng mạc mà rất giống với dòng lf ở tim. Dòng lh này tham gia vào độ phân giải tạm thời của hệ thị giác bằng cách làm giảm đáp ứng của võng mạc với xung ánh sáng chói lọi.</p>\n\n<p>Trong các trường hợp được kích thích (ví dụ: Thay đổi nhanh chóng độ sáng) thì việc ivabradin ức chế một phần dòng lh làm nền tảng cho hiện tượng chói sáng có thể gặp ở bệnh nhân.</p>\n\n<p>Hiện tượng chói sáng (phosphenes) được mô tả như sự tăng chói sáng tạm thời ở một vùng nhất định của thị trường.</p>\n\n<p><strong>Tác dụng dược lực học</strong></p>\n\n<p>Tính chất dược lực học chủ yếu của ivabradin ở người là sự giảm tần số tim đặc hiệu phụ thuộc vào liều lượng.</p>\n\n<p>Phân tích sự giảm tần số tim với các liều tới 20 mg mỗi lần và uống 2 lần trong ngày đã chỉ rõ có khuynh hướng đạt tới tác dụng bình nguyên cùng với giảm nguy cơ nhịp tim chậm nghiêm trọng dưới 40 nhịp/phút</p>\n\n<p>Với liều khuyến cáo thông thường, tần số tim giảm khoảng 10 nhịp/phút lúc nghỉ và trong lúc luyện tập. Điều này dẫn tới làm giảm gánh nặng cho tim và giảm nhu cầu oxygen cho cơ tim.</p>\n\n<p>Ivabradin không có ảnh hưởng tới sự dẫn truyền trong tim, tới sự co bóp tim (không có tác dụng ức chế sự co sợi cơ tim) hoặc tới sự tái cực của tâm thất:</p>\n\n<ul>\n\t<li>\n\t<p>Trong các nghiên cứu điện sinh lý lâm sàng, ivabradin không có tác dụng trên thời gian dẫn truyền nhĩ – thất hoặc trong thất hoặc chỉnh sửa đoạn QT trên điện tâm đồ.</p>\n\t</li>\n\t<li>\n\t<p>Với bệnh nhân có rối loạn chức năng tâm thất trái (phân suất tống máu của thất trái giữa 30% và 45%), thấy ivabradin không có ảnh hưởng có hại nào đối với phân suất tống máu.</p>\n\t</li>\n</ul>\n\n<h3>Dược động học</h3>\n\n<p><strong>Hấp thu</strong></p>\n\n<p>Ivabradin hấp thu nhanh và hầu như hoàn toàn sau khi uống với nồng độ đỉnh trong huyết tương đạt sau khoảng 1 giờ, nếu uống thuốc khi đói.</p>\n\n<p>Sinh khả dụng tuyệt đối của viên nén bao phim là khoảng 40%, do vòng chuyển hóa đầu tiên tại ruột và gan.Thức ăn làm chậm hấp thu thuốc khoảng 1 giờ, làm tăng nồng độ thuốc trong huyết tương lên 20 – 30%.</p>\n\n<p>Khuyến cáo uống thuốc trong bữa ăn nhằm giúp làm giảm sự thay đổi trong từng cá thể về nồng độ thuốc.</p>\n\n<p><strong>Phân bố</strong></p>\n\n<p>Ivabradin gắn khoảng 70% vào protein huyết tương và thể tích phân bố trong trạng thái ổn định gần 100 lít ở bệnh nhân.</p>\n\n<p>Nồng độ đỉnh trong huyết tương sau khi uống lâu dài liều khuyến cáo (mỗi lần 5 mg, ngày 2 lần) là 22 ng/mL (CV = 29%). Nồng độ trung bình trong huyết tương là 10 ng/mL ở trạng thái ổn định (CV = 38%).</p>\n\n<p><strong>Chuyển hóa</strong></p>\n\n<p>Ivabradin được chuyển hoá mạnh qua gan và ruột, bằng cách oxy hóa qua duy nhất cytochrome P450 3A4 (CYP3A4).</p>\n\n<p>Chất chuyển hóa chính có hoạt tính là dẫn xuất N – Khử Methyl (S 18982) với nồng độ khoảng 40% của hoạt chất ivabradin ban đầu.</p>\n\n<p>Sự chuyển hóa của chất chuyển hoá có hoạt tính này cũng qua CYP3A4.</p>\n\n<p>Ivabradin có ái lực yếu với CYP 3A4, không ức chế hoặc gây cảm ứng rõ rệt CYP3A4. Vì vậy ít có khả năng là ivabradin đã làm thay đổi sự chuyển hoá hoặc các nồng độ trong huyết tương của các cơ chất của CYP3A4.</p>\n\n<p>Ngược lại các chất ức chế mạnh CYP3A4 và các chất gây cảm ứng mạnh CYP3A4 lại có thể tác động rõ rệt tới nồng độ của ivabradin trong huyết tương.</p>\n\n<p><strong>Thải trừ</strong></p>\n\n<p>Ivabradin đào thải với thời gian bán thải chính là 2 giờ (70 – 75% của diện tích dưới đường cong) trong huyết tương, còn thời gian bán thải có hiệu lực là 11 giờ.</p>\n\n<p>Độ thanh lọc tổng quát là khoảng 400ml/phút và độ thanh lọc qua thận khoảng 70 ml/phút.</p>\n\n<p>Đào thải của các chất chuyển hóa qua phân và nước tiểu với lượng tương đương nhau.</p>\n\n<p>Khoảng 4% liều uống được thải nguyên vẹn qua nước tiểu.</p>\n\n<p>Tuyến tính/không tuyến tính: Động học của ivabradin là tuyến tính với liều uống 0,5 – 24 mg.</p>\n\n<p><strong>Những đối tượng đặc biệt</strong></p>\n\n<p>Với người cao tuổi: Không có khác biệt về dược động học (diện tích dưới đường cong và nồng độ đỉnh) khi so sánh giữa bệnh nhân cao tuổi (≥ 65 tuổi) hoặc rất cao tuổi (≥ 75 tuổi) với dân số chung.</p>\n\n<p>Suy thận: Ảnh hưởng của suy thận (độ thanh thải creatinin từ 15 – 60 ml/phút) tới động học của ivabradin là tối thiểu, phù hợp với việc độ thanh lọc ở cầu thận tham gia ít (khoảng 20%) tới sự đào thải toàn thể của các ivabradin và chất chuyển hóa chính S 18982.</p>\n\n<p>Suy gan: Với bệnh nhân suy gan nhẹ (độ Child – Pugh tới 7) diện tích dưới đường cong của ivabradin và của chất chuyển hóa chính có hoạt tính cao hơn khoảng 20% so với người có chức năng gan bình thường. Dữ liệu không đủ mạnh để kết luận cho bệnh nhân suy gan vừa. Không có dữ liệu trên bệnh nhân suy gan nặng.</p>\n\n<p>Bệnh nhi: Dữ liệu dược động học của ivabradin trên bệnh nhi có suy tim mạn tính từ 6 tháng tuổi đến dưới 18 tuổi tương tự với dược động học được mô tả trên người lớn tuổi khi áp dụng chế độ chỉnh liều dựa trên tuổi và cân nặng.</p>\n\n<p><strong>Liên quan giữa dược động học/dược lực học (PK/PD)</strong></p>\n\n<p>Phân tích về sự liên quan dược động học/dược lực học cho thấy.</p>\n\n<p>Tần số tim giảm gần như là tuyến tính khi tăng các nồng độ ivabradin và S18982 trong huyết tương cho tới liều 15 – 20 mg, mỗi ngày 2 lần. Với liều cao hơn thì sự giảm tần số tim sẽ không còn tỷ lệ thuận với nồng độ ivabradin trong huyết tương và có khuynh hướng đạt bình nguyên.</p>\n\n<p>Nồng độ cao của ivabradin có thể gặp khi phối hợp ivabradin với những chất ức chế mạnh CYP3A4 có thể kéo theo giảm tần số tim quá mức.</p>\n\n<p>Trong khi nguy cơ đó sẽ giảm đi khi phối hợp với chất ức chế vừa phải CYP3A4.</p>\n\n<p>Mối quan hệ dược động học/dược lực học của ivabradin trên bệnh nhi có suy tim mạn tính từ 6 tháng tuổi đến dưới 18 tuổi tương tự mối quan hệ dược động học/dược lực học đã được mô tả ở người lớn.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3>Chống chỉ định</h3>\n\n<p><strong>Thuốc Procoralan 7.7mg</strong> chống chỉ định cho các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Mẫn cảm với bất cứ thành phần nào của thuốc.</p>\n\t</li>\n\t<li>\n\t<p>Tần số tim lúc nghỉ dưới 70 nhịp/phút trước khi điều trị. </p>\n\t</li>\n\t<li>\n\t<p>Sốc tim.</p>\n\t</li>\n\t<li>\n\t<p>Nhồi máu cơ tim cấp.</p>\n\t</li>\n\t<li>\n\t<p>Huyết áp quá thấp (dưới 90/50 mmHg).</p>\n\t</li>\n\t<li>\n\t<p>Suy gan nặng</p>\n\t</li>\n\t<li>\n\t<p>Rối loạn chức năng nút xoang</p>\n\t</li>\n\t<li>\n\t<p>Block xoang nhĩ</p>\n\t</li>\n\t<li>\n\t<p>Suy tim cấp hoặc không ổn định</p>\n\t</li>\n\t<li>\n\t<p>Cơn đau thắt ngực không ổn định.</p>\n\t</li>\n\t<li>\n\t<p>Phụ thuộc máy tạo nhịp.</p>\n\t</li>\n\t<li>\n\t<p>Block nhĩ thất độ 3.</p>\n\t</li>\n\t<li>\n\t<p>Phối hợp với các thuốc có tính ức chế mạnh cytochrome P450 3A4 như các thuốc kháng nấm nhóm azole (ketoconazol, itraconazole), kháng sinh nhóm macrolid (erythromycin uống, clarithromycin, josamycin, telithromycin), thuốc ức chế protease HIV (nelfinavir, ritonavir), nefazodone.</p>\n\t</li>\n\t<li>\n\t<p>Phối hợp với thuốc verapamil hoặc diltiazem là những thuốc ức chế trung bình CYP3A4 có đặc tính làm giảm nhịp tim.</p>\n\t</li>\n\t<li>\n\t<p>Phụ nữ mang thai, cho con bú và phụ nữ có khả năng có thai mà không sử dụng biện pháp tránh thai an toàn.</p>\n\t</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Thiếu lợi ích về kết quả lâm sàng trên bệnh nhân đau thắt ngực ổn định có triệu chứng. Ivabradin chỉ được chỉ định trên bệnh nhân có đau thắt ngực ổn định mạn tính vì thuốc này không đem tới lợi ích tác động trên tim mạch.</p>\n\n<p>Đo nhịp tim:</p>\n\n<ul>\n\t<li>Do nhịp tim có thể dao động đang kể theo thời gian nên cần cân nhắc tiến hành đo nhịp tim, kiểm soát điện tâm đồ hoặc theo dõi ngoại trú 24h khi xác định tần số tim lúc nghỉ trước khi điều trị với Ivabradin, có thể áp dụng theo dõi điều trị  đối với những bệnh nhân có tần số tim dưới 50 nhịp/phút sau khi giảm liều.</li>\n</ul>\n\n<p>Loạn nhịp tim:</p>\n\n<ul>\n\t<li>Ivabradin không có hiệu lực điều trị hoặc ngăn ngừa loạn nhịp tim và cũng có thể mất hiệu lực khi có rối loạn nhịp tim nhanh (ví dụ nhịp nhanh thất hoặc nhịp nhanh trên thất). Vì vậy không khuyến cáo dùng ivabradin cho bệnh nhân rung nhĩ hoặc có những rối loạn nhịp tim khác mà có tương tác với chức năng của nút xoang.</li>\n\t<li>Cần theo dõi thường xuyên về lâm sàng ở bệnh nhân dùng ivabradin xem có xảy ra rung nhĩ (kéo dài hoặc kịch phát), kể cả đo điện tâm đồ khi có chỉ định của lâm sàng (ví dụ trong trường hợp đau thắt ngực trầm trọng, đánh trống ngực, mạch bất thường).</li>\n</ul>\n\n<p>Bệnh nhân blốc nhĩ - thất độ 2:</p>\n\n<ul>\n\t<li>Không nên dùng ivabradin.</li>\n</ul>\n\n<p>Sử dụng cho bệnh nhân có nhịp tim chậm:</p>\n\n<ul>\n\t<li>Không được khởi đầu điều trị bằng Ivabradin cho bệnh nhân có nhịp tim lúc nghỉ trước điều trị dưới 70 nhịp/phút.</li>\n\t<li>Nếu trong quá trình điều trị mà nhịp tim lúc nghỉ luôn dưới 50 nhịp/phút hoặc bệnh nhân có các triệu chứng liên quan đến chậm nhịp tim, như choáng váng, mệt mỏi hoặc tụt huyết áp, thì phải giảm liều.</li>\n\t<li>Ngưng điều trị bằng Ivabradin nếu nhịp tim dưới 50 lần/phút hoặc nếu các triệu chứng chậm nhịp tim tồn tại dai dẳng.</li>\n</ul>\n\n<p>Phối hợp các thuốc chẹn kênh calci:</p>\n\n<ul>\n\t<li>Không khuyến cáo phối hợp ivabradin với các thuốc chẹn calci có làm giảm tần số tim như verapamil hoặc diltiazem.</li>\n\t<li>Chưa có dữ liệu về độ an toàn khi phối hợp ivabradin với các nitrat và với các chất chẹn calci nhóm dihydropyridine như amlodipine.</li>\n\t<li>Chưa xác định được Ivabradin có tăng hiệu lực khi phối hợp với thuốc chẹn calci nhóm dihydropyridine .</li>\n</ul>\n\n<p>Suy tim mạn tính:</p>\n\n<ul>\n\t<li>Suy tim phải được kiểm soát thỏa đáng trước khi cân nhắc dùng Ivabradin.</li>\n\t<li>Chống chỉ định sử dụng Ivabradin ở bệnh nhân suy tim độ III-IV theo xếp loại của NYHA, do còn thiếu dữ liệu về hiệu lực lâm sàng và độ an toàn (xem mục Chống chỉ định).</li>\n\t<li>Cần thận trọng với bệnh nhân có rối loạn chức năng tâm thất trái không triệu chứng cũng như bệnh nhân suy tim độ II theo NYHA do số lượng bệnh nhân nghiên cứu còn ít.</li>\n</ul>\n\n<p>Đột quỵ:</p>\n\n<ul>\n\t<li>Không khuyến cáo dùng ivabradin ngay sau khi đột quỵ, vì chưa đủ dữ liệu cho những trường hợp này.</li>\n</ul>\n\n<p>Chức năng thị giác:</p>\n\n<ul>\n\t<li>Ivabradin có ảnh hưởng tới chức năng của võng mạc.</li>\n\t<li>Cho tới nay chưa có chứng cứ về tác hại của Ivabradin trên võng mạc, hiện chưa rõ những ảnh hưởng của Ivabradin điều trị kéo dài trên một năm đối với chức năng võng mạc.</li>\n\t<li>Cần cân nhắc sử dụng thuốc khi gặp bất kỳ bệnh lý nào liên quan tới chức năng thị giác.</li>\n\t<li>Cũng thận trọng với bệnh nhân viêm võng mạc sắc tố.</li>\n</ul>\n\n<p>Bệnh nhân hạ huyết áp:</p>\n\n<ul>\n\t<li>Còn thiếu dữ liệu ở bệnh nhân hạ huyết áp ở mức độ nhẹ và trung bình và do đó cần dùng thận trọng Ivabradin cho những đối tượng này.</li>\n\t<li>Chống chỉ định Ivabradin cho bệnh nhân tụt huyết áp nghiêm trọng (huyết áp &lt; 90/50 mmHg).</li>\n</ul>\n\n<p>Rung nhĩ - loạn nhịp tim:</p>\n\n<ul>\n\t<li>Chưa có chứng cứ về nguy cơ chậm nhịp tim (quá mức) khi quay trở lại nhịp xoang nếu bắt đầu khử rung tim cho bệnh nhân dùng Ivabradin.</li>\n\t<li>Tuy nhiên khi chưa đủ dữ liệu, nên cân nhắc tiến hành khử rung 24 giờ sau khi dùng liều Ivabradin cuối cùng.</li>\n</ul>\n\n<p>Sử dụng ở bệnh nhân có hội chứng QT bẩm sinh hoặc điều trị với các thuốc làm kéo dài đoạn QT:</p>\n\n<ul>\n\t<li>Cần tránh sử dụng ở bệnh nhân có hội chứng QT bẩm sinh hoặc điều trị với các thuốc làm kéo dài đoạn QT.</li>\n\t<li>Nếu thấy cần phối hợp như vậy, cần theo dõi tim rất cẩn thận.</li>\n\t<li>Giảm nhịp tim, do ivabradin, có thể làm trầm trọng thêm sự kéo dài khoảng QT, đặc biệt là xoắn đỉnh.</li>\n</ul>\n\n<p>Bệnh nhân tăng huyết áp cần phải thay đổi điều trị về huyết áp:</p>\n\n<ul>\n\t<li>Khi thay đổi điều trị trên bệnh nhân suy tim mạn tính với Ivabradin, nên theo dõi huyết áp trong khoảng thời gian thích hợp do có nghiên cứu cho thấy những bệnh nhân sử dụng Ivabradin có nhiều cơn tăng huyết áp hơn so với giả dược, nhưng những giai đoạn này chủ yếu là thoáng qua sau khi thay đổi điều trị huyết áp và không ảnh hưởng đến hiệu quả điều của với Ivabradin.</li>\n</ul>\n\n<p>Tá dược:</p>\n\n<ul>\n\t<li>Vì viên nén có chứa lactose, không nên dùng cho các bệnh nhân có vấn đề về di truyền (hiếm gặp) như không dung nạp galactose, hoặc thiếu hụt men Lapp lactase hoặc kém hấp thu glucose-galactose.</li>\n</ul>\n\n<h3>Khả năng lái xe và vận hành máy móc</h3>\n\n<p>Một nghiên cứu thực hiện trên người tình nguyện khỏe mạnh nhằm đánh giá ảnh hưởng của ivabradin trên khả năng lái xe cho thấy không có thay đổi nào được ghi nhận. Tuy nhiên, các trường hợp ảnh hưởng đến khả năng lái xe do các tác dụng trên thị giác đã được báo cáo trong khi lưu hành.</p>\n\n<p>Ivabradin có thể tạm thời gây ra hiện tượng mắt chói sáng. Khả năng xuất hiện hiện tượng mắt chói sáng nên được lưu ý trong trường hợp lái xe và vận hành máy móc mà cường độ ánh sáng thay đổi đột ngột, đặc biệt lái xe vào ban đêm.</p>\n\n<p>Ivabradin không ảnh hưởng lên khả năng vận hành máy móc.</p>\n\n<h3>Thời kỳ mang thai </h3>\n\n<p>Phụ nữ có khả năng có thai: Cần sử dụng biện pháp tránh thai thích hợp trong suốt quá trình điều trị.</p>\n\n<p>Phụ nữ mang thai: Không có dữ liệu hoặc dữ liệu hiện có còn giới hạn trong việc sử dụng ivabradin ở phụ nữ mang thai.</p>\n\n<p>Các nghiên cứu trên động vật đã cho thấy độc tính trên sinh sản. Những nghiên cứu này đã chỉ ra hậu quả gây nhiễm độc thai nhi và quái thai. Những nguy cơ này trên người chưa được biết đến. Do đó, ivabradin là chống chỉ định trong thời gian mang thai.</p>\n\n<h3>Thời kỳ cho con bú </h3>\n\n<p>Các nghiên cứu trên động vật đã cho thấy ivabradin được bài tiết qua sữa mẹ. Do đó, ivabradin là chống chỉ định trong thời gian cho con bú. Phụ nữ cần điều trị với ivabradin nên dừng cho con bú. Và chọn phương pháp ăn khác cho con.</p>\n\n<h3>Tương tác thuốc</h3>\n\n<p><strong>Tương tác dược lực học</strong></p>\n\n<p>Sử dụng đồng thời không được khuyến cáo:</p>\n\n<p>Các chất làm kéo dài đoạn QT:</p>\n\n<ul>\n\t<li>\n\t<p>Thuốc tim mạch làm kéo dài đoạn QT (ví dụ quinidine, sotalol, disopyramide, bepridil, ibutilide, amiodarone).</p>\n\t</li>\n\t<li>\n\t<p>Thuốc không phải tim mạch làm kéo dài đoạn QT (ví dụ: Pimozide, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/ziprasidone\">ziprasidone</a>, sertindole, mefloquine, halofantrine, pentamidine, cisapride, erythromycin tĩnh mạch).</p>\n\t</li>\n</ul>\n\n<p>Tránh phối hợp các thuốc tim mạch và không tim mạch gây kéo dài đoạn QT cùng với Ivabradin vì tình trạng kéo dài đoạn QT có thể trầm trọng hơn do giảm nhịp tim.</p>\n\n<p>Nếu cần phối hợp, phải theo dõi chặt chẽ trạng thái tim.</p>\n\n<p>Sử dụng đồng thời yêu cầu thận trọng:</p>\n\n<ul>\n\t<li>Thuốc lợi tiểu làm giảm kali (thuốc lợi tiểu thiazide và thuốc lợi tiểu quai): Hạ kali máu có thể làm tăng nguy cơ rối loạn nhịp tim.</li>\n\t<li>Do ivabradin có thể gây chậm nhịp tim, kết quả của sự phối hợp hạ kali máu và giảm nhịp tim là một yếu tố nền khởi phát rối loạn nhịp tim nghiêm trọng, đặc biệt ở các bệnh nhân có hội chứng QT kéo dài bẩm sinh hay do dùng thuốc.</li>\n</ul>\n\n<p><strong>Tương tác dược động học</strong></p>\n\n<p>Cytochrom P450 3A4 (CYP3A4):</p>\n\n<ul>\n\t<li>\n\t<p>Ivabradin chỉ được chuyển hóa qua CYP3A4 và là chất ức chế rất yếu của cytochrom này.</p>\n\t</li>\n\t<li>\n\t<p>Ivabradin cho thấy không có ảnh hưởng đến chuyển hóa và tới các nồng độ trong huyết tương của các cơ chất khác của CYP3A4 (các chất ức chế nhẹ, trung bình và mạnh).</p>\n\t</li>\n\t<li>\n\t<p>Các chất ức chế và gây cảm ứng CYP3A4 có khả năng tương tác với ivabradin và có ảnh hưởng tới chuyển hóa và dược động học của ivabradin ở mức độ có ý nghĩa lâm sàng.</p>\n\t</li>\n\t<li>\n\t<p>Nghiên cứu tương tác thuốc đã xác định là các chất ức chế CYP3A4 làm tăng nồng độ của ivabradin trong huyết tương, trong khi các chất gây cảm ứng lại làm giảm nồng độ ivabradin.</p>\n\t</li>\n\t<li>\n\t<p>Tăng nồng độ trong huyết tương của ivabradin có thể liên quan tới nguy cơ chậm nhịp tim quá mức.</p>\n\t</li>\n</ul>\n\n<p>Sử dụng đồng thời là chống chỉ định:</p>\n\n<p>Phối hợp ivabradin với những chất ức chế mạnh CYP3A4 như thuốc chống nấm nhóm azole (ketoconazole, itraconazole), kháng sinh nhóm macrolide (clarithromycin, erythromycin uống, josamycin, telithromycin), chất ức chế HIV protease (nelfinavir, ritonavir) và nefazodone (xem mục Chống chỉ định).</p>\n\n<p>Các chất ức chế CYP3A4 mạnh như ketoconazole (200 mg, ngày 1 lần) hoặc josamycin (1 g, ngày 2 lần) làm tăng nồng độ Ivabradin trong huyết tương lên 7 đến 8 lần.</p>\n\n<p>Không nên phối hợp với ivabradin với các chất ức chế vừa phải CYP3A4:</p>\n\n<ul>\n\t<li>Nghiên cứu tương tác đặc hiệu trên người tình nguyện và trên bệnh nhân cho thấy nếu dùng Ivabradin cùng với diltiazem hoặc verapamil (là các thuốc làm giảm nhịp tim) sẽ làm tăng nồng độ của Ivabradin (tăng diện tích dưới đường cong lên 2-3 lần) và làm chậm thêm nhịp tim là 5 nhịp mỗi phút.</li>\n\t<li>Không khuyến cáo phối hợp Ivabradin với những thuốc trên .</li>\n</ul>\n\n<p>Sử dụng đồng thời không được khuyến cáo:</p>\n\n<p>Nước ép bưởi chùm:</p>\n\n<ul>\n\t<li>Nồng độ ivabradin tăng 2 lần khi sử dụng cùng với nước ép bưởi chùm.</li>\n\t<li>Do đó nên tránh sử dụng nước ép bưởi chùm trong quá trình điều trị với ivabradin.</li>\n</ul>\n\n<p>Sử dụng đồng thời yêu cầu thận trọng:</p>\n\n<p>Các chất ức chế trung bình CYP3A4: Sử dụng đồng thời ivabradin với các chất ức chế trung bình CYP3A4 khác (ví dụ fluconazole) có thể được cân nhắc ở liều khởi đầu 2,5 mg hai lần mỗi ngày và nếu tần số tim lúc nghỉ trên 70 nhịp/phút, với sự giám sát tần số tim.</p>\n\n<p>Các chất gây cảm ứng CYP3A4:</p>\n\n<ul>\n\t<li>Các chất gây cảm ứng CYP3A4 (ví dụ rifampicin, barbiturates, phenytoin, Hypericum perforatum [St John’s Wort] có thể làm giảm nồng độ và mức độ hoạt động của ivabradin.</li>\n\t<li>Việc sử dụng đồng thời các chất gây cảm ứng CYP3A4 có thể cần phải điều chỉnh liều của ivabradin. Sử dụng đồng thời ivabradin 10 mg hai lần một ngày với St John’s Wort đã cho thấy diện tích dưới đường cong (AUC) của ivabradin giảm một nửa.</li>\n\t<li>Sử dụng St John’s Wort nên được giới hạn trong khi điều trị với ivabradin.</li>\n</ul>\n\n<p>Những phối hợp khác:</p>\n\n<p>Các nghiên cứu đặc hiệu trên tương tác thuốc-thuốc đã chứng minh không có ảnh hưởng đáng kể nào trên lâm sàng của các thuốc sau trên dược động học và dược lực học của ivabradin:</p>\n\n<ul>\n\t<li>Các thuốc ức chế bơm proton (omeprazole, <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/lansoprazole\">lansoprazole</a></strong>), sildenafil, các chất ức chế HMG CoA reductase (simvastatin), các thuốc chẹn kênh calci nhóm dihydropyridine (amlodipine, lacidipine), digoxin và warfarin.</li>\n\t<li>Thêm vào đó, không có ảnh hưởng lâm sàng đáng kể nào của ivabradin trên dược động học của simvastatin, <strong><a href=\"https://nhathuoclongchau.com.vn/thanh-phan/amlodipine\">amlodipine</a></strong>, lacidipine, trên dược động học và dược lực học của digoxin, warfarin và trên dược lực học của aspirin.</li>\n</ul>\n\n<p>Trong các thử nghiệm lâm sàng pha III quan trọng những thuốc sau đây đã được thường xuyên phối hợp với ivabradin mà không có nghi ngờ nào liên quan đến các vấn đề về an toàn:</p>\n\n<ul>\n\t<li>Các thuốc ức chế men chuyển angiotensin, thuốc đối kháng angiotensin II, thuốc chẹn bêta, thuốc lợi tiểu, thuốc kháng aldosterone, nitrate tác dụng nhanh và tác dụng kéo dài, các thuốc ức chế enzym khử HMG CoA reductase, các thuốc nhóm fibrate, thuốc ức chế bơm proton, thuốc đái tháo đường dạng uống, aspirin và các thuốc chống kết tập tiểu cầu khác.</li>\n</ul>\n\n<p>Trẻ em: Các nghiên cứu về tương tác thuốc cho đến nay chỉ được tiến hành ở người trưởng thành.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Procoralan 7.5mg điều trị đau thắt ngực (4 vỉ x 14 viên)",
+        "metaDescription": "Thuốc Procoralan 7.5mg Servier được dùng để điều trị đau thắt ngực ổn định khi mà các thuốc phong bế bêta không thích hợp để dùng. Tìm hiểu thêm!",
+        "id": 2941,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_7216_5bbc_large_0ed85c41bf.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc Procoralan 7.5mg Servier điều trị đau thắt ngực ổn định (4 vỉ x 14 viên)",
+            "description": "Thuốc Procoralan 7.5mg là sản phẩm của Les Laboratoires Servier Industries, có thành phần chính là Ivabradin, là thuốc được dùng để điều trị đau thắt ngực ổn định khi mà các thuốc phong bế bêta không thích hợp để dùng.\n\nThuốc Procoralan 7.5mg có dạng viên nén có màu hồng, bao phim, hình tam giác, một mặt khắc số “7.5”, mặt kia có biểu tượng công ty."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 34854,
+        "title": "Thuốc Procoralan 7.5mg dùng trong trường hợp nào?",
+        "content": "<p>Thuốc Procoralan 7.5mg được chỉ định dùng trong các trường hợp sau:</p><p>Điều trị bệnh đau thắt ngực ổn định mạn tính ở người trưởng thành bị bệnh động mạch vành có nhịp xoang bình thường và có tần số tim &gt; 70 nhịp/phút. Ở người lớn không dung nạp hoặc có chống định với thuốc chẹn bêta. Hoặc kết hợp với thuốc chẹn bêta ở các bệnh nhân chưa được kiểm soát đầy đủ với liều tối ưu của thuốc chẹn bêta.</p><p>Ivabradin được chỉ định trong điều trị suy tim mạn tính có mức độ từ NYHA II đến IV, có rối loạn chức năng tâm thu, ở những bệnh nhân có rối loạn nhịp xoang và tần số tim &gt; 75 nhịp/phút kết hợp với điều trị chuẩn bao gồm thuốc chẹn bêta hoặc khi thuốc chẹn bêta là chống chỉ định hoặc khi thuốc chẹn bêta không dung nạp.</p>"
+      },
+      {
+        "id": 34856,
+        "title": "Cách dùng thuốc Procoralan 7.5mg như thế nào?",
+        "content": "<p>Thuốc Procoralan 7.5mg được bào chế dạng viên nén bao phim, dùng đường uống, vào buổi sáng và tối trong các bữa ăn.</p><ul><li>Đối với đau thắt ngực ổn định mạn tính: Liều khởi đầu không quá 5 mg hai lần mỗi ngày (ở bệnh nhân dưới 75 tuổi). Liều có thể được điều chỉnh sau 3-4 tuần, tùy thuộc vào triệu chứng và tần số tim lúc nghỉ. Liều duy trì không quá 7.5 mg hai lần mỗi ngày. Cần ngừng điều trị nếu không có cải thiện triệu chứng trong 3 tháng hoặc tần số tim giảm liên tục dưới 50 nhịp/phút.</li><li>Đối với suy tim mạn tính: Liều khởi trị thông thường là 5 mg hai lần mỗi ngày. Liều có thể được điều chỉnh sau hai tuần lên 7.5 mg hai lần mỗi ngày (nếu tần số tim &gt; 60 nhịp/phút) hoặc giảm xuống 2.5 mg hai lần mỗi ngày (nếu tần số tim &lt; 50 nhịp/phút hoặc có triệu chứng chậm nhịp tim).</li><li>Đối tượng đặc biệt: Bệnh nhân trên 75 tuổi nên cân nhắc liều khởi đầu thấp hơn (2.5 mg hai lần mỗi ngày). Không cần chỉnh liều ở bệnh nhân suy thận (độ thanh thải creatinin &gt; 15 mL/phút) hoặc suy gan nhẹ.</li></ul><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>"
+      },
+      {
+        "id": 34855,
+        "title": "Cơ chế hoạt động của Ivabradine trong thuốc Procoralan 7.5mg là gì?",
+        "content": "<p>Ivabradine là một chất làm giảm tần số tim một cách chuyên biệt. Nó hoạt động bằng cách ức chế chọn lọc và đặc hiệu dòng If của trung tâm tạo nhịp tim. Dòng ion này kiểm soát sự khử cực tâm trương tự phát ở nút xoang và điều hòa tần số tim. Tác dụng này đặc hiệu với nút xoang, không ảnh hưởng đến các thời gian dẫn truyền trong nhĩ, nhĩ – thất, trong thất, cũng như không ảnh hưởng đến sự tái cực thất hoặc sự co cơ tim. Ivabradine cũng có thể tương tác với dòng Ih ở võng mạc, có thể gây ra hiện tượng chói sáng (phosphenes).</p>"
+      },
+      {
+        "id": 34858,
+        "title": "Procoralan 7.5mg uống chung với nước ép bưởi được không?",
+        "content": "<p>Nồng độ ivabradin tăng 2 lần khi sử dụng thuốc Procoralan 7.5mg cùng với nước ép bưởi chùm. Do đó nên tránh sử dụng nước ép bưởi chùm trong quá trình điều trị với ivabradin.</p>"
+      },
+      {
+        "id": 34857,
+        "title": "Những trường hợp nào thì không được sử dụng thuốc Procoralan 7.5mg?",
+        "content": "<p>Thuốc Procoralan 7.5mg chống chỉ định trong các trường hợp sau:</p><ul><li>Mẫn cảm với bất kỳ thành phần nào của thuốc.</li><li>Tần số tim lúc nghỉ dưới 70 nhịp/phút trước khi điều trị.</li><li>Sốc tim, nhồi máu cơ tim cấp, huyết áp quá thấp (dưới 90/50 mmHg).</li><li>Suy gan nặng, rối loạn chức năng nút xoang, block xoang nhĩ.</li><li>Suy tim cấp hoặc không ổn định, cơn đau thắt ngực không ổn định.</li><li>Phụ thuộc máy tạo nhịp, block nhĩ thất độ 3.</li><li>Phối hợp với các thuốc ức chế mạnh cytochrome P450 3A4 (CYP3A4) như thuốc kháng nấm azole, kháng sinh macrolide, thuốc ức chế protease HIV, nefazodone.</li><li>Phối hợp với Verapamil hoặc Diltiazem (thuốc ức chế trung bình CYP3A4 có đặc tính làm giảm nhịp tim).</li><li>Phụ nữ mang thai, cho con bú và phụ nữ có khả năng có thai mà không sử dụng biện pháp tránh thai an toàn.</li></ul>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00005718",
+        "name": "PANANGIN GEDEON 50V",
+        "webName": "Viên nén Panangin Gedeon bổ sung kali, magnesi dùng trong suy tim (50 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2062_d16aeaf713.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 8218,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 2820,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/panangin-2715.html",
+        "ingredients": "Kali aspartat khan 158mg, Magie 140mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Gedeon",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 50 Viên",
+        "prices": [
+          {
+            "id": 8219,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 141000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 8218,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2820,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 58,
+          "attributeName": "Hungary",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/hu_Hungary_025bdc77ac.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001598",
+        "name": "CARDIOTON 30MG  3X10",
+        "webName": "Thuốc Cardioton Lipa Pharmaceuticals điều trị suy tim, tăng huyết áp, thiếu máu cơ tim (3 vỉ x 10 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/cardioton_30mg_3x10_00001598_efd03b68ec.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1797,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 7647,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/cardilopin-30mg-4382.html",
+        "ingredients": "Ubidecarenone 30mg, D-alpha tocopherol 6.71mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "LIPA PHARMACEUTICALSLTD",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 1799,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 229400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 1797,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 7647,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1798,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 76467,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 129,
+          "attributeName": "Úc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/au_Australia_a6ac11c082.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "A052300000450",
+        "name": "ANBA-QE PHƯƠNG ĐÔNG 3X10",
+        "webName": "Thuốc Anba-QE Phương Đông điều trị thiểu năng tuần hoàn, thiếu máu cơ tim, tăng huyết áp động mạch (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/36_5f16613b76.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 56221,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 540000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/anba-qe-phuong-dong-3-x10.html",
+        "ingredients": "Ubidecarenone 100mg, Vitamin E 12.31mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Phương Đông",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 56221,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 540000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 56222,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 180000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 56223,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 18000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00022504",
+        "name": "BESTIMAC Q10 30MG MEDIPLANTEX 6X10",
+        "webName": "Thuốc Bestimac Q10 30mg Mediplantex điều trị tăng cholesterol máu, suy tim sung huyết (6 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00022504_bestimac_q10_30mg_mediplantex_6x10_7525_609b_large_619f0b04cf.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 28906,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 286000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bestimac-q10-30mg-mediplantex-6x10-22830.html",
+        "ingredients": "Ubidecarenone 30mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Mediplantex",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 60,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 28904,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 4767,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 28906,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 286000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 28905,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 47667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00050619",
+        "name": "PAVICARDI 50MG/250IU CPC1HN 2X15",
+        "webName": "Thuốc Parvicardi CPC1 bổ sung năng lượng cho cơ tim, điều trị các bệnh tim mạch (2 vỉ x 15 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_pavicardi_50mg_250iu_2x15_cpc1hn_00050619_82c96ce76a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 79961,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 16000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/pavicardi-50-mg-250-iu-cpc-1-hn-2-x15.html",
+        "ingredients": "Coenzym Q10 50mg, Vitamin E 250iu",
+        "dosageForm": "Viên nang mềm",
+        "brand": "CPC1HN",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 2 Vỉ x 15 Viên",
+        "prices": [
+          {
+            "id": 79959,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 480000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 79960,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 240000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 79961,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 16000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00000769",
+        "name": "AN THẦN BỔ TÂM-F FITO 40V",
+        "webName": "Thuốc An Thần Bổ Tâm - F Fito dưỡng tâm, an thần (40 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/769_vien_uong_an_than_bo_tam_f_4882_599f_large_1e78644b05.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 811,
+            "name": "Thuốc tim mạch huyết áp",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tim-mach-huyet-ap",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 571,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 66000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vien-uong-an-than-bo-tam-f-516.html",
+        "ingredients": "Táo Nhân 133.3mg, Mạch môn 133.3mg, Sinh Địa 400mg, Thiên môn đông 133.3mg, Bá tử nhân 133.3mg, Huyền sâm 66.7mg, Viễn chí 66.7mg, Ngũ vị tử 66.7mg, Đảng Sâm 53.3mg, Đương quy 53.3mg, Đan sâm 46.7mg, Phục thần 46.7mg, Cát cánh 26.7mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Fito",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 40 viên",
+        "prices": [
+          {
+            "id": 570,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1650,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 571,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 66000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 47,
+      "items": [
+        {
+          "id": 3311912,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0925xxxxxx",
+          "name": "hưng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá nhiêu vậy shop",
+          "createdAt": "2026-05-24 19:28:03",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-24 19:28:03",
+          "replies": [
+            {
+              "id": 3311915,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mạc Thị Tuyết Anh",
+                "moderatorEmail": "anhmtt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mạc Thị Tuyết Anh",
+              "email": "anhmtt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Hưng,</p><p>Hiện tại, sản phẩm Procoralan 7.5mg Servier có giá 598,900đ/ hộp</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-05-24 19:30:06",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-24 19:28:03",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3295226,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0333xxxxxx",
+          "name": "bi",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá",
+          "createdAt": "2026-04-22 11:58:23",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-22 11:58:23",
+          "replies": [
+            {
+              "id": 3295245,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Phương Lan",
+                "moderatorEmail": "lannp9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Phương Lan",
+              "email": "lannp9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Bi,</p><p>Hiện tại, sản phẩm có giá 598,900 ₫/ Hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-04-22 12:07:47",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-22 11:58:23",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3271725,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0988xxxxxx",
+          "name": "huệ linh",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá 1 hộp",
+          "createdAt": "2026-03-10 17:10:51",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-10 17:10:51",
+          "replies": [
+            {
+              "id": 3271747,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Tuyết Nhi",
+                "moderatorEmail": "nhiltt17@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Tuyết Nhi",
+              "email": "nhiltt17@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Huệ Linh</p><p>Hiện tại, sản phẩm Procoralan 7.5mg Servier có giá 598,900đ/ hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-03-10 17:44:39",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-10 17:10:51",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3247716,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0918xxxxxx",
+          "name": "Tú",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Xin giá 1 hộp",
+          "createdAt": "2026-01-19 08:22:51",
+          "createdAtDisplay": "7 tháng trước",
+          "updatedAt": "2026-01-19 08:22:51",
+          "replies": [
+            {
+              "id": 3247718,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Phương Lan",
+                "moderatorEmail": "lannp9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Phương Lan",
+              "email": "lannp9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Tú,</p><p>Hiện tại sản phẩm có giá 598,900 ₫/ Hộp ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-01-19 08:23:28",
+              "createdAtDisplay": "7 tháng trước",
+              "updatedAt": "2026-01-19 08:22:51",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3229488,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0364xxxxxx",
+          "name": "Ý",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Giá hộp bn s",
+          "createdAt": "2025-12-15 08:49:45",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2025-12-15 08:49:45",
+          "replies": [
+            {
+              "id": 3229491,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Thị Bích Lựu",
+                "moderatorEmail": "luuntb4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Thị Bích Lựu",
+              "email": "luuntb4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Ý, </p><p>Dạ, hiện tại sản phẩm PROCORALAN 7.5 LES 4X14 có giá 598,900 ₫/ hộp. </p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2025-12-15 08:59:19",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2025-12-15 08:49:45",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 3,
+      "items": [
+        {
+          "id": 2243201,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0946xxxxxx",
+          "name": "CHỊ MY",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "hộp bao nhiêu ạ",
+          "createdAt": "2024-09-26 15:09:58",
+          "createdAtDisplay": "26/09/2024",
+          "updatedAt": "2024-09-26 15:11:31",
+          "replies": [
+            {
+              "id": 2243218,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Đoàn Anh Thư",
+                "moderatorEmail": "Thumda@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Mai Đoàn Anh Thư",
+              "email": "Thumda@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào CHỊ MY,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sản phẩm có giá 598,900 ₫/hộp.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT chị đã để lại ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span>Thân mến!</span></p>",
+              "createdAt": "2024-09-26 15:11:31",
+              "createdAtDisplay": "26/09/2024",
+              "updatedAt": "2024-09-26 15:11:31",
+              "replies": []
+            },
+            {
+              "id": 3014056,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0319xxxxxx",
+              "name": "ly",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Procoralan 7.5mg(4vix14vien)\nJanumet 50mg/500mg ( 4Vi x 7Vien)\nCrestor 5mg (2Vi x 14Vien)\nmỗi loại bao nhiêu v ạ\n",
+              "createdAt": "2024-12-25 12:03:53",
+              "createdAtDisplay": "25/12/2024",
+              "updatedAt": "2024-09-26 15:11:31",
+              "replies": []
+            },
+            {
+              "id": 3014062,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Cao Chi",
+                "moderatorEmail": "chictl2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Cao Chi",
+              "email": "chictl2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Ly,</p><p> Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p> Thân mến!</p>",
+              "createdAt": "2024-12-25 12:05:58",
+              "createdAtDisplay": "25/12/2024",
+              "updatedAt": "2024-09-26 15:11:31",
+              "replies": []
+            },
+            {
+              "id": 3027623,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0566xxxxxx",
+              "name": "Bách",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "1 vỉ bán nhiêu ds?",
+              "createdAt": "2025-01-13 14:52:19",
+              "createdAtDisplay": "13/01/2025",
+              "updatedAt": "2024-09-26 15:11:31",
+              "replies": []
+            },
+            {
+              "id": 3027630,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Tiến Bắc",
+                "moderatorEmail": "bacnt16@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Tiến Bắc",
+              "email": "bacnt16@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Bách,</p><p>Dạ sản phẩm có giá 149,800 ₫/vỉ.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p>",
+              "createdAt": "2025-01-13 14:54:09",
+              "createdAtDisplay": "13/01/2025",
+              "updatedAt": "2024-09-26 15:11:31",
+              "replies": []
+            }
+          ],
+          "totalReplies": 7
+        },
+        {
+          "id": 244999,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0336xxxxxx",
+          "name": "dương",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Giá bao nhiêu 1 hộp ạ",
+          "createdAt": "2023-10-16 13:51:20",
+          "createdAtDisplay": "16/10/2023",
+          "updatedAt": "2023-10-16 13:57:32",
+          "replies": [
+            {
+              "id": 245004,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thị Mai Phương",
+                "moderatorEmail": "PhuongHTM10@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Huỳnh Thị Mai Phương",
+              "email": "PhuongHTM10@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Dương,</span><br><span>Dạ sản phẩm có giá 598,900đ/hộp ạ. Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</span><br><span>Thân mến!</span></p>",
+              "createdAt": "2023-10-16 13:57:32",
+              "createdAtDisplay": "16/10/2023",
+              "updatedAt": "2023-10-16 13:57:32",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 113740,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0969xxxxxx",
+          "name": "Thu Thủy",
+          "email": "",
+          "score": 1,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1 hộp giá bao nhiêu ạ",
+          "createdAt": "2022-12-13 09:32:04",
+          "createdAtDisplay": "13/12/2022",
+          "updatedAt": "2022-12-13 09:32:04",
+          "replies": [
+            {
+              "id": 113742,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "UyenVLN",
+                "moderatorEmail": "UyenVLN@fpt.com.vn",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "UyenVLN",
+              "email": "UyenVLN@fpt.com.vn",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<div style=\"font-family: Roboto;\"><p>Chào bạn Thu Thủy,</p><p>Dạ sản phẩm có giá 599,200 đ/ hộp.  Bạn vui lòng liên hệ tổng đài miễn phí 18006928 để được hỗ trợ tư vấn và đặt hàng.</p><p>Thân mến!<br></p></div>",
+              "createdAt": "2022-12-13 09:36:35",
+              "createdAtDisplay": "13/12/2022",
+              "updatedAt": "2022-12-13 09:32:04",
+              "replies": []
+            },
+            {
+              "id": 1968997,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0333xxxxxx",
+              "name": "Oanh",
+              "email": "",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "599k 1 hộp đk",
+              "createdAt": "2024-08-20 11:08:45",
+              "createdAtDisplay": "20/08/2024",
+              "updatedAt": "2022-12-13 09:32:04",
+              "replies": []
+            },
+            {
+              "id": 1969011,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Hà Ái Nhi",
+                "moderatorEmail": "NhiTHA@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Trần Hà Ái Nhi",
+              "email": "NhiTHA@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Oanh,</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Dạ sản phẩm có giá 598,900 ₫/ hộp ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</span></p><p dir=\"ltr\" class=\"editor-paragraph\"><span> Thân mến!</span></p>",
+              "createdAt": "2024-08-20 11:10:44",
+              "createdAtDisplay": "20/08/2024",
+              "updatedAt": "2022-12-13 09:32:04",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        }
+      ],
+      "avgRating": 3.6,
+      "ratingLev": {
+        "totalLv1": 1,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 2
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Procoralan 7.5mg Servier điều trị đau thắt ngực ổn định (4 vỉ x 14 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_7216_5bbc_large_0ed85c41bf.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_4458_5bbc_large_c8d67dd301.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_2275_5bbc_large_37216e1d08.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_9688_5bbc_large_df1d766b07.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_2369_5bbc_large_7c96993cfd.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_9822_6089_large_2c1d8704a4.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_3402_6089_large_33a1a3814f.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_5190_6089_large_863438d6f8.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Procoralan 7.5mg là sản phẩm của Les Laboratoires Servier Industries, có thành phần chính là Ivabradin, là thuốc được dùng để điều trị đau thắt ngực ổn định khi mà các thuốc phong bế bêta không thích hợp để dùng.\n\nThuốc Procoralan 7.5mg có dạng viên nén có màu hồng, bao phim, hình tam giác, một mặt khắc số “7.5”, mặt kia có biểu tượng công ty.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "3.6",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3.6",
+        "reviewCount": "3"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Procoralan 7.5mg điều trị đau thắt ngực (4 vỉ x 14 viên)",
+      "description": "Thuốc Procoralan 7.5mg Servier được dùng để điều trị đau thắt ngực ổn định khi mà các thuốc phong bế bêta không thích hợp để dùng. Tìm hiểu thêm!",
+      "openGraph": {
+        "title": "Thuốc Procoralan 7.5mg Servier điều trị đau thắt ngực ổn định (4 vỉ x 14 viên)",
+        "description": "Thuốc Procoralan 7.5mg là sản phẩm của Les Laboratoires Servier Industries, có thành phần chính là Ivabradin, là thuốc được dùng để điều trị đau thắt ngực ổn định khi mà các thuốc phong bế bêta không thích hợp để dùng.\n\nThuốc Procoralan 7.5mg có dạng viên nén có màu hồng, bao phim, hình tam giác, một mặt khắc số “7.5”, mặt kia có biểu tượng công ty.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006112_procoralan_75_7216_5bbc_large_0ed85c41bf.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/procoralan-75-2520.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/procoralan-75-2520.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

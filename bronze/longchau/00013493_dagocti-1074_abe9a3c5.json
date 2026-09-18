@@ -1,0 +1,1020 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/dagocti-1074.html",
+  "ingestion_timestamp": "2026-09-05T09:22:30.589219+00:00",
+  "file_hash": "25a170fb16e52e7707ff2e78c65c9f4f1502981e6f929cb9fa9d6d3564892657",
+  "lineage_hash": "c74c3d429e43f31b7ab26e8ca438c163ffeb50b47f6a582f20d43971112930fd",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/dagocti-1074.html",
+    "product": {
+      "sku": "00013493",
+      "webName": "Thuốc Dagocti 0.5mg Medbolide điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt  (30 viên)",
+      "name": "DAGOCTI 0.5MG MEDBOLIDE 3X10",
+      "shortName": "DAGOCTI 0.5 3X10",
+      "headingText": "Thuốc Dagocti 0.5mg",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_dagocti_0_5mg_medbolide_3x10_00013493_4e77e17fb3.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_7497_63d7_large_2218de2b63.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_8868_63d7_large_1d38e7e6ec.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_5099_63d7_large_3f73d97433.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_7097_63d7_large_2744fce26c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_7430_63d7_large_215730f57d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_6718_63d7_large_95b37c69ec.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_8786_63d7_large_cf3d34ff52.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_7140_63d7_large_6ebf5add35.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_1675047425_3ae5b0e28d.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 738,
+          "name": "Thuốc tiết niệu - sinh dục",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 820,
+          "name": "Thuốc trị bệnh tuyến tiền liệt",
+          "parentName": "Thuốc tiết niệu - sinh dục",
+          "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/dagocti-1074.html",
+      "ingredient": [
+        {
+          "id": 24626,
+          "ingredientId": 18802,
+          "shortDescription": "0.5mg",
+          "name": "Dutasteride",
+          "isPrimary": false,
+          "slug": "thanh-phan/dutasteride"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893110439524",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang mềm",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Nên nuốt nguyên nang, không nên nhai hoặc mở nang ra vì tiếp xúc với chất chứa trong nang có thể gây nên kích ứng niêm mạc miệng – hầu họng.</p>\n\n<p>Dutasterid có thể uống trong hay ngoài bữa ăn.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Liều đề nghị của dutasterid là một viên nang (0,5 mg) uống một lần mỗi ngày.</p>\n\n<p>Dù có thể thấy đáp ứng sớm nhưng có thể cần điều trị ít nhất 6 tháng để có thể đánh giá một cách khách quan liệu có thể đáp ứng điều trị mong muốn hay không.</p>\n\n<p>Để điều trị bệnh tăng sản lành tính tuyến tiền liệt, dutasterid có thể dùng đơn trị liệu hoặc kết hợp với thuốc chẹn alpha tamsulosin (0,4 mg).</p>\n\n<p><em>Suy thận</em></p>\n\n<p>Chưa có nghiên cứu ảnh hưởng của suy thận đến dược động học của dutasterid. Tuy nhiên, không cần chỉnh liều dutasterid ở bệnh nhân suy thận.</p>\n\n<p><em>Suy gan</em></p>\n\n<p>Chưa có nghiên cứu ảnh hưởng của <a href=\"https://nhathuoclongchau.com.vn/bai-viet/tinh-trang-suy-giam-chuc-nang-gan-va-nhung-dieu-can-biet-47797.html\">suy gan</a> đến dược động học của dutasterid.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Do không có thuốc giải độc đặc hiệu cho dutasterid nên trong trường hợp nghi ngờ quá liều thì nên tiến hành điều trị triệu chứng và dùng các biện pháp hỗ trợ thích hợp.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Nếu quên dùng một liều thuốc, hãy uống càng sớm càng tốt khi nhớ ra. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và uống liều kế tiếp vào thời điểm như kế hoạch. Không uống gấp đôi liều đã quy định.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Dagocti</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt (BPH - benign prostatic hyperplasia).</li>\n\t<li>Thông qua việc làm giảm triệu chứng, giảm kích thước (thể tích) tuyến tiền liệt, cải thiện lưu thông nước tiểu và giảm nguy cơ bí tiểu cấp tính (AUR - acute urinary retention) cũng như giảm nhu cầu phẫu thuật liên quan đến BPH.</li>\n\t<li>Ngoài ra, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/dutasteride\">dutasterid</a> có thể dùng đơn trị liệu hoặc kết hợp với thuốc chẹn alpha tamsulosin.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Dutasterid là thuốc ức chế kép 5 alpha - reductase. Dutasterid ức chế isoenzyme alpha - reductase cả type 1 và type 2, đây là những enzyme chịu trách nhiệm biến đối testosterone thành 5 alpha - dihydrotestosterone (DHT). DHT là androgen đóng vai trò chính trong sự tăng sản mô tuyến tiền liệt.</p>\n\n<p>Khi dùng dutasterid hàng ngày, tác dụng tối đa làm giảm DHT phụ thuộc vào liều dùng và được quan sát thấy trong 1 - 2 tuần dùng thuốc.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Viên nang mềm gelatin dutasterid được dùng đường uống. Sau khi uống liều đơn 0,5 mg, nồng độ đỉnh trong huyết tương của dutasterid xuất hiện sau 1 đến 3 giờ.</p>\n\n<p>Sinh khả dụng tuyệt đối ở người khoảng 60% sau 2 giờ truyền tĩnh mạch. Sinh khả dụng của dutasterid không bị ảnh hưởng bởi thức ăn.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Số liệu dược động học sau khi uống liều đơn và liều nhắc lại cho thấy dutasterid có thể tích phân bố lớn (300 đến 500 l).</p>\n\n<p>Dutasterid liên kết cao với protein huyết tương (&gt; 99.5%).</p>\n\n<p><em>Chuyển hóa</em></p>\n\n<p>Dutasterid được chuyển hóa bởi isoenzyme CYP3A4 của Cytochrome P450 ở người thành 2 chất chuyển hóa phụ dạng monohydroxylat, nhưng không bị chuyển hóa bởi CYP1A2, CYP2C9, CYP2C19 hay CYP2D6.</p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Sau khi uống dutasterid 0,5 mg/ngày để đạt được nồng độ ổn định ở người, 1,0% đến 15,4% (trung bình 5,4%) liều uống được bài tiết vào phân dưới dạng dutasterid. Phần còn lại được chuyển hóa vào phân dưới dạng 4 chất chuyển hóa chính (với tỷ lệ lần lượt là 39%, 21%, 7% và 7%) và các chất chuyển hóa phụ (dưới 5% mỗi chất).</p>\n\n<p>Chỉ một lượng rất nhỏ dutasterid không đổi (dưới 0,1% liều dùng) được tìm thấy trong nước tiểu người.</p>",
+      "brand": "Medbolide",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng thuốc Dagocti, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Hiếm gặp, 1/10000 &lt; ADR &lt; 1/1000</em></p>\n\n<p>Lông và tóc: Rụng lông (chủ yếu rụng lông trên cơ thể), chứng rậm lông tóc.</p>\n\n<p><em>Rất hiếm gặp, ADR &lt; 1/10000 </em></p>\n\n<p>Toàn thân: Phản ứng dị ứng, bao gồm phát ban, ngứa, mề đay, phù khu trú và phù mạch.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "indications": [
+        {
+          "id": 76,
+          "name": "Phì đại tuyến tiền liệt",
+          "slug": "benh/phi-dai-tuyen-tien-liet-492.html"
+        },
+        {
+          "id": 344,
+          "name": "Các rối loạn tiểu tiện (đái dầm, tiểu đêm, tiểu són)",
+          "slug": "benh/cac-roi-loan-tieu-tien-dai-dam-tieu-dem-tieu-son-350.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "USARICHPHARM",
+      "shortDescription": "<p>Dagocti được sản xuất bởi Công ty Cổ phần Dược phẩm Medbolide, thành phần chính là dutasterid, được dùng để điều trị điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt (BPH - benign prostatic hyperplasia) thông qua việc làm giảm triệu chứng, giảm kích thước (thể tích) tuyến tiền liệt, cải thiện lưu thông nước tiểu và giảm nguy cơ bí tiểu cấp tính (AUR - acute urinary retention) cũng như giảm nhu cầu phẫu thuật liên quan đến BPH; dutasterid có thể dùng đơn trị liệu hoặc kết hợp với thuốc chẹn alpha tamsulosin.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Trên 18 tuổi",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Phụ nữ cho con bú"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Mang thai, Suy gan, Ung thư tuyến tiền liệt",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/medbolide",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "DAGOCTI",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 820,
+        "name": "Thuốc trị bệnh tuyến tiền liệt",
+        "parentName": "Thuốc tiết niệu - sinh dục",
+        "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_dagocti_0_5mg_medbolide_3x10_00013493_4e77e17fb3.png",
+          "alternativeText": "Thuốc Dagocti 0.5mg Medbolide điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt  (30 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_7497_63d7_large_2218de2b63.jpg",
+          "alternativeText": "Thuốc Dagocti 0.5mg Medbolide điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt  (30 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_8868_63d7_large_1d38e7e6ec.jpg",
+          "alternativeText": "Thuốc Dagocti 0.5mg Medbolide điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt  (30 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_5099_63d7_large_3f73d97433.jpg",
+          "alternativeText": "Thuốc Dagocti 0.5mg Medbolide điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt  (30 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_7097_63d7_large_2744fce26c.jpg",
+          "alternativeText": "Thuốc Dagocti 0.5mg Medbolide điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt  (30 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_7430_63d7_large_215730f57d.jpg",
+          "alternativeText": "Thuốc Dagocti 0.5mg Medbolide điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt  (30 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_6718_63d7_large_95b37c69ec.jpg",
+          "alternativeText": "Thuốc Dagocti 0.5mg Medbolide điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt  (30 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_8786_63d7_large_cf3d34ff52.jpg",
+          "alternativeText": "Thuốc Dagocti 0.5mg Medbolide điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt  (30 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_7140_63d7_large_6ebf5add35.jpg",
+          "alternativeText": "Thuốc Dagocti 0.5mg Medbolide điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt  (30 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_1675047425_3ae5b0e28d.jpg",
+          "alternativeText": "Thuốc Dagocti 0.5mg Medbolide điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt  (30 viên) 10"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiết niệu - sinh dục",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc"
+      },
+      {
+        "name": "Thuốc trị bệnh tuyến tiền liệt",
+        "slug": "/thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet"
+      }
+    ],
+    "content": {
+      "sku": "00013493",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Nên nuốt nguyên nang, không nên nhai hoặc mở nang ra vì tiếp xúc với chất chứa trong nang có thể gây nên kích ứng niêm mạc miệng – hầu họng.</p>\n\n<p>Dutasterid có thể uống trong hay ngoài bữa ăn.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p>Liều đề nghị của dutasterid là một viên nang (0,5 mg) uống một lần mỗi ngày.</p>\n\n<p>Dù có thể thấy đáp ứng sớm nhưng có thể cần điều trị ít nhất 6 tháng để có thể đánh giá một cách khách quan liệu có thể đáp ứng điều trị mong muốn hay không.</p>\n\n<p>Để điều trị bệnh tăng sản lành tính tuyến tiền liệt, dutasterid có thể dùng đơn trị liệu hoặc kết hợp với thuốc chẹn alpha tamsulosin (0,4 mg).</p>\n\n<p><em>Suy thận</em></p>\n\n<p>Chưa có nghiên cứu ảnh hưởng của suy thận đến dược động học của dutasterid. Tuy nhiên, không cần chỉnh liều dutasterid ở bệnh nhân suy thận.</p>\n\n<p><em>Suy gan</em></p>\n\n<p>Chưa có nghiên cứu ảnh hưởng của <a href=\"https://nhathuoclongchau.com.vn/bai-viet/tinh-trang-suy-giam-chuc-nang-gan-va-nhung-dieu-can-biet-47797.html\">suy gan</a> đến dược động học của dutasterid.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p>Do không có thuốc giải độc đặc hiệu cho dutasterid nên trong trường hợp nghi ngờ quá liều thì nên tiến hành điều trị triệu chứng và dùng các biện pháp hỗ trợ thích hợp.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Nếu quên dùng một liều thuốc, hãy uống càng sớm càng tốt khi nhớ ra. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và uống liều kế tiếp vào thời điểm như kế hoạch. Không uống gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Dagocti.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng thuốc Dagocti, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><em>Hiếm gặp, 1/10000 &lt; ADR &lt; 1/1000</em></p>\n\n<p>Lông và tóc: Rụng lông (chủ yếu rụng lông trên cơ thể), chứng rậm lông tóc.</p>\n\n<p><em>Rất hiếm gặp, ADR &lt; 1/10000 </em></p>\n\n<p>Toàn thân: Phản ứng dị ứng, bao gồm phát ban, ngứa, mề đay, phù khu trú và phù mạch.</p>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Bảo quản nơi khô mát, tránh ánh sáng, nhiệt độ không quá 30 độ C.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3>\n\n<p><strong>Thuốc Dagocti</strong> được chỉ định dùng trong các trường hợp sau:</p>\n\n<ul>\n\t<li>Ðiều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt (BPH - benign prostatic hyperplasia).</li>\n\t<li>Thông qua việc làm giảm triệu chứng, giảm kích thước (thể tích) tuyến tiền liệt, cải thiện lưu thông nước tiểu và giảm nguy cơ bí tiểu cấp tính (AUR - acute urinary retention) cũng như giảm nhu cầu phẫu thuật liên quan đến BPH.</li>\n\t<li>Ngoài ra, <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/dutasteride\">dutasterid</a> có thể dùng đơn trị liệu hoặc kết hợp với thuốc chẹn alpha tamsulosin.</li>\n</ul>\n\n<h3><strong>Dược lực học</strong></h3>\n\n<p>Dutasterid là thuốc ức chế kép 5 alpha - reductase. Dutasterid ức chế isoenzyme alpha - reductase cả type 1 và type 2, đây là những enzyme chịu trách nhiệm biến đối testosterone thành 5 alpha - dihydrotestosterone (DHT). DHT là androgen đóng vai trò chính trong sự tăng sản mô tuyến tiền liệt.</p>\n\n<p>Khi dùng dutasterid hàng ngày, tác dụng tối đa làm giảm DHT phụ thuộc vào liều dùng và được quan sát thấy trong 1 - 2 tuần dùng thuốc.</p>\n\n<h3><strong>Dược động học</strong></h3>\n\n<p><em>Hấp thu</em></p>\n\n<p>Viên nang mềm gelatin dutasterid được dùng đường uống. Sau khi uống liều đơn 0,5 mg, nồng độ đỉnh trong huyết tương của dutasterid xuất hiện sau 1 đến 3 giờ.</p>\n\n<p>Sinh khả dụng tuyệt đối ở người khoảng 60% sau 2 giờ truyền tĩnh mạch. Sinh khả dụng của dutasterid không bị ảnh hưởng bởi thức ăn.</p>\n\n<p><em>Phân bố</em></p>\n\n<p>Số liệu dược động học sau khi uống liều đơn và liều nhắc lại cho thấy dutasterid có thể tích phân bố lớn (300 đến 500 l).</p>\n\n<p>Dutasterid liên kết cao với protein huyết tương (&gt; 99.5%).</p>\n\n<p><em>Chuyển hóa</em></p>\n\n<p>Dutasterid được chuyển hóa bởi isoenzyme CYP3A4 của Cytochrome P450 ở người thành 2 chất chuyển hóa phụ dạng monohydroxylat, nhưng không bị chuyển hóa bởi CYP1A2, CYP2C9, CYP2C19 hay CYP2D6.</p>\n\n<p><em>Thải trừ</em></p>\n\n<p>Sau khi uống dutasterid 0,5 mg/ngày để đạt được nồng độ ổn định ở người, 1,0% đến 15,4% (trung bình 5,4%) liều uống được bài tiết vào phân dưới dạng dutasterid. Phần còn lại được chuyển hóa vào phân dưới dạng 4 chất chuyển hóa chính (với tỷ lệ lần lượt là 39%, 21%, 7% và 7%) và các chất chuyển hóa phụ (dưới 5% mỗi chất).</p>\n\n<p>Chỉ một lượng rất nhỏ dutasterid không đổi (dưới 0,1% liều dùng) được tìm thấy trong nước tiểu người.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p>\n\n<h3><strong>Chống chỉ định</strong></h3>\n\n<p>Thuốc Dagocti chống chỉ định trong các trường hợp sau:</p>\n\n<ul>\n\t<li>\n\t<p>Bệnh nhân được biết quá mẫn với dutasterid, với các chất ức chế 5 - alpha - reductase khác hay với bất cứ thành phần nào của chế phẩm.</p>\n\t</li>\n\t<li>\n\t<p>Chống chỉ định dùng dutasterid cho phụ nữ và trẻ em.</p>\n\t</li>\n</ul>\n\n<h3>Thận trọng khi sử dụng</h3>\n\n<p>Dutasterid được hấp thu qua da nên phụ nữ và trẻ em phải tránh tiếp xúc với viên nang vỡ. Nếu tiếp xúc với viên nang vỡ, nên rửa vùng tiếp xúc với xà phòng và nước ngay lập tức.</p>\n\n<p>Chưa nghiên cứu ảnh hưởng của suy gan đến dược động học của dutasterid. Nên sử dụng dutasterid thận trọng ở bệnh nhân mắc bệnh gan do dutasterid được chuyển hóa rộng rãi và có thời gian bán thải từ 3 đến 5 tuần.</p>\n\n<p>Ảnh hưởng đến kháng nguyên đặc hiệu tuyến tiền liệt (PSA – Prostate Specific Atigen) và phát hiện <a href=\"https://nhathuoclongchau.com.vn/benh/ung-thu-tuyen-tien-liet-325.html\">ung thư tuyến tiền liệt</a>. Nên thăm khám trực tràng bằng ngón tay cũng như tiến hành các đánh giá khác để phát hiện ung thư tuyến tiền liệt trước khi sử dụng dutasterid và sau đó nên kiểm tra định kỳ. Nồng độ kháng nguyên đặc hiệu tuyến tiền liệt trong huyết thanh (PSA) là một thành phần quan trọng trong quá trình sàng lọc để phát hiện ung thư tuyến tiền liệt. Dutasterid gây giảm lượng PSA trung bình trong huyết thanh khoảng 50% sau 6 tháng điều trị.</p>\n\n<h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3>\n\n<p>Dựa vào các đặc tính dược động học và dược lực học của dutasterid thì việc điều trị bằng dutasterid không ảnh hưởng đến khả năng lái xe hay vận hành máy móc.</p>\n\n<h3><strong>Thời kỳ mang thai </strong></h3>\n\n<p>Không sử dụng cho phụ nữ có thai.</p>\n\n<h3><strong>Thời kỳ cho con bú</strong></h3>\n\n<p>Không sử dụng cho phụ nữ đang cho con bú.</p>\n\n<h3><strong>Tương tác thuốc</strong></h3>\n\n<p>Các nghiên cứu chuyển hóa thuốc in vitro cho thấy dutasterid được chuyển hóa bởi isoenzym CYP3A4 của cytochrome P450 ở người. Do đó nồng độ dutasterid trong máu có thể tăng lên khi có sự hiện diện của các chất ức chế CYP3A4.</p>\n\n<p>Số liệu nghiên cứu giai đoạn II cho thấy có sự giảm thanh thải dutasterid khi dùng đồng thời với các chất ức chế CYP3A4 như verapamil (37%) và diltiazem (44%). Ngược lại, không thấy giảm thanh thải khi dùng đồng thời dutasterid và amlodipin hay chất đối kháng kênh calcium khác. Giảm thanh thải và từ đó tăng nồng độ toàn thân của dutasterid khi có sự hiện diện của các chất ức chế CYP3A4 thường không có ý nghĩa lâm sàng do phạm vi an toàn rộng (bệnh nhân đã được sử dụng đến gấp 10 lần liều khuyên dùng trong 6 tháng), do đó không cần điều chỉnh liều.</p>\n\n<p>In vitro, dutasterid không được chuyển hóa bởi các isoenzyme CYP1A2, CYP2C9, CYP2C19 và CYP2D6 của cytochrome P450 ở người.</p>\n\n<p>Dutasterid không ức chế các enzym chuyển hóa thuốc của cytochrome P450 ở người trong thử nghiệm in vitro, cũng như không gây cảm ứng các isoenzym CYP1A, CYP2B và CYP3A của cytochrome P450 ở chuột lớn và chó trên thử nghiệm in vivo.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Ngô Kim Thúy",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp loại giỏi trường Đại học Y Dược Huế. Từng tham gia nghiên cứu khoa học đề tài về Dược liệu. Nhiều năm kinh nghiệm làm việc trong lĩnh vực Dược phẩm. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-ngo-kim-thuy",
+        "isLegit": true,
+        "id": 9,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Nguyen_Kim_Thuy_ea92026f36.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Dagocti 0,5mg (Hộp 30 viên) | Trị phì đại tuyến tiền liệt",
+        "metaDescription": "Thuốc Dagocti 0,5mg được dùng để điều trị điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt. Tìm hiểu thêm về thuốc!",
+        "id": 5404,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_dagocti_0_5mg_medbolide_3x10_00013493_4e77e17fb3.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Dagocti 0.5mg Medbolide điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt  (30 viên)",
+            "description": "Dagocti được sản xuất bởi Công ty Cổ phần Dược phẩm Medbolide, thành phần chính là dutasterid, được dùng để điều trị điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt (BPH - benign prostatic hyperplasia) thông qua việc làm giảm triệu chứng, giảm kích thước (thể tích) tuyến tiền liệt, cải thiện lưu thông nước tiểu và giảm nguy cơ bí tiểu cấp tính (AUR - acute urinary retention) cũng như giảm nhu cầu phẫu thuật liên quan đến BPH; dutasterid có thể dùng đơn trị liệu hoặc kết hợp với thuốc chẹn alpha tamsulosin."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 33794,
+        "title": "Dagocti 0.5mg là thuốc gì và công dụng chính là gì?",
+        "content": "<p>Dagocti 0.5mg là một loại thuốc có thành phần chính là Dutasteride 0.5mg. Thuốc này được chỉ định để điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt (BPH - benign prostatic hyperplasia). Công dụng của Dagocti bao gồm làm giảm triệu chứng, giảm kích thước tuyến tiền liệt, cải thiện lưu thông nước tiểu, giảm nguy cơ bí tiểu cấp tính (AUR) và giảm nhu cầu phẫu thuật liên quan đến BPH. Dutasteride có thể dùng đơn trị liệu hoặc kết hợp với tamsulosin.</p>"
+      },
+      {
+        "id": 33795,
+        "title": "Dagocti 0.5mg hoạt động như thế nào trong cơ thể?",
+        "content": "<p>Dutasteride, thành phần của Dagocti, là một chất ức chế kép enzyme 5-alpha-reductase. Enzyme này có hai loại (type 1 và type 2) và chịu trách nhiệm biến đổi testosterone thành 5-alpha-dihydrotestosterone (DHT). DHT là một androgen đóng vai trò chính trong sự tăng sản của mô tuyến tiền liệt. Bằng cách ức chế cả hai loại enzyme này, Dutasteride làm giảm nồng độ DHT, từ đó giúp thu nhỏ kích thước tuyến tiền liệt và cải thiện các triệu chứng của BPH. Tác dụng làm giảm DHT tối đa thường được quan sát thấy sau 1-2 tuần sử dụng thuốc hàng ngày.</p>"
+      },
+      {
+        "id": 33798,
+        "title": "Dagocti 0.5mg có những tác dụng phụ nào?",
+        "content": "<p>Khi sử dụng Dagocti, bạn có thể gặp các tác dụng không mong muốn (ADR), mặc dù hiếm gặp:</p><ul><li>Hiếm gặp (1/10000 &lt; ADR &lt; 1/1000): Rụng lông (chủ yếu rụng lông trên cơ thể), chứng rậm lông tóc.</li><li>Rất hiếm gặp (ADR &lt; 1/10000): Phản ứng dị ứng toàn thân, bao gồm <a href=\"https://nhathuoclongchau.com.vn/benh/phat-ban-884.html\">phát ban</a>, ngứa, mề đay, phù cục bộ và phù mạch. Khi gặp tác dụng phụ, cần ngừng sử dụng thuốc và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</li></ul>"
+      },
+      {
+        "id": 33796,
+        "title": "Cách sử dụng và liều dùng khuyến nghị của Dagocti 0.5mg là gì?",
+        "content": "<p>Liều khuyến nghị của Dagocti 0.5mg là một viên nang (0.5mg) uống một lần mỗi ngày. Viên nang nên được nuốt nguyên, không nên nhai hoặc mở ra vì tiếp xúc với chất bên trong có thể gây kích ứng niêm mạc miệng – hầu họng. Thuốc có thể uống trong hoặc ngoài bữa ăn. Mặc dù có thể thấy đáp ứng sớm, nhưng cần điều trị ít nhất 6 tháng để có thể đánh giá khách quan liệu có đáp ứng điều trị mong muốn hay không. Đối với điều trị BPH, Dutasteride có thể dùng đơn trị liệu hoặc kết hợp với tamsulosin 0.4mg.</p>"
+      },
+      {
+        "id": 33797,
+        "title": "Ai không nên sử dụng Dagocti 0.5mg?",
+        "content": "<p>Dagocti 0.5mg chống chỉ định trong các trường hợp sau:</p><ul><li>Bệnh nhân quá mẫn với dutasteride, với các chất ức chế 5-alpha-reductase khác, hoặc với bất kỳ thành phần nào của thuốc.</li><li>Phụ nữ và trẻ em. Phụ nữ và trẻ em cần tránh tiếp xúc với viên nang bị vỡ do dutasteride có thể hấp thụ qua da. Nếu xảy ra tiếp xúc, cần rửa vùng tiếp xúc ngay lập tức bằng xà phòng và nước.</li></ul>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00006444",
+        "name": "ROWACHOL ROWA 10X10",
+        "webName": "Thuốc Rowachol Rowa điều trị làm tan sỏi đường mật (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006444_rowachol_5493_5bba_large_e944596376.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 820,
+            "name": "Thuốc trị bệnh tuyến tiền liệt",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 9369,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 337000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/rowachol-2368.html",
+        "ingredients": "cineol 2mg, Menthol 32mg, Borneol 5mg, Olive oil 33mg, Pinene 17mg, Camphene 5mg, Menthone 6mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Rowa",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 9367,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 3370,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 9368,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 33700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 9369,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 337000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 192,
+          "attributeName": "Ireland",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/ie_Ireland_5204367965.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00013881",
+        "name": "HOÀN XÍCH HƯƠNG HADIPHAR 10 GÓI",
+        "webName": "Thuốc Hoàn Xích Hương Hadiphar điều trị u phì đại lành tính tuyến tiền liệt (10 gói)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013881_hoan_xich_huong_10gh_3997_5b7f_large_e8826cb818.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 738,
+            "name": "Thuốc tiết niệu - sinh dục",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 820,
+            "name": "Thuốc trị bệnh tuyến tiền liệt",
+            "parentName": "Thuốc tiết niệu - sinh dục",
+            "slug": "thuoc/thuoc-tiet-nieu-sinh-duc/thuoc-tri-benh-tuyen-tien-liet",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 16502,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 84000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/hoan-xich-huong-10gh-15830.html",
+        "ingredients": "Than hoạt , Đường trắng , Mật ong 2g, Trạch tả 8g, Bạch linh 8g, Hoài Sơn 10g, Mẫu đơn bì (Vỏ rễ) 8g, Thục địa 10g, Ngấy hương 50g, Xích đồng nam 50g, Parafin ",
+        "dosageForm": "Dạng bột",
+        "brand": "Hadiphar",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 10 gói",
+        "prices": [
+          {
+            "id": 16502,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 84000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 16501,
+            "measureUnitCode": 14,
+            "measureUnitName": "Gói",
+            "isSellDefault": false,
+            "price": 8400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 29,
+      "items": [
+        {
+          "id": 3318143,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0909xxxxxx",
+          "name": "CÔ LỆ",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "giá bao nhieu 1hop",
+          "createdAt": "2026-06-05 18:10:36",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-06-05 18:10:36",
+          "replies": [
+            {
+              "id": 3318339,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Phương Thảo",
+                "moderatorEmail": "thaoltp50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Phương Thảo",
+              "email": "thaoltp50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào cô Lệ,</p><p>Hiện tại, sản phẩm DAGOCTI 0.5 3X10 có giá 225.000đ/ hộp ạ</p><p>Cô có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-06-06 09:08:39",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-05 18:10:36",
+              "replies": []
+            },
+            {
+              "id": 3327768,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0889xxxxxx",
+              "name": "Nguyễn Tấn Phát",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "Giá bao nhiêu \n\n\nIn\nGiá bao nhiêu",
+              "createdAt": "2026-06-25 10:50:26",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-05 18:10:36",
+              "replies": []
+            },
+            {
+              "id": 3327787,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Quang Đức",
+                "moderatorEmail": "duchq2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Quang Đức",
+              "email": "duchq2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Phát,</p><p>Hiện tại, sản phẩm DAGOCTI 0.5 3X10 có giá 225.000đ/ hộp ạ</p><p>Anh có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-06-25 11:20:29",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-05 18:10:36",
+              "replies": []
+            }
+          ],
+          "totalReplies": 3
+        },
+        {
+          "id": 3308093,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0334xxxxxx",
+          "name": "Đào Văn Dũng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "chất lượng loại này so với avodart như nào ạ",
+          "createdAt": "2026-05-17 11:15:28",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-17 11:15:28",
+          "replies": [
+            {
+              "id": 3308094,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Như Quỳnh",
+                "moderatorEmail": "quynhntn96@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Như Quỳnh",
+              "email": "quynhntn96@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Dũng,</p><p>Dạ sản phẩm là thuốc kê đơn, anh chỉ dùng khi có chỉ định của bác sĩ ạ.</p><p>Nhà thuốc thông tin đến anh.</p>",
+              "createdAt": "2026-05-17 11:18:59",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-17 11:15:28",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3291662,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0333xxxxxx",
+          "name": "chị liễu",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá 1 hộp",
+          "createdAt": "2026-04-16 08:54:16",
+          "createdAtDisplay": "4 tháng trước",
+          "updatedAt": "2026-04-16 08:54:16",
+          "replies": [
+            {
+              "id": 3291670,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lương Minh Châu",
+                "moderatorEmail": "chaulm14@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lương Minh Châu",
+              "email": "chaulm14@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Liễu,</p><p>Hiện tại, sản phẩm DAGOCTI 0.5 3X10 có giá 225,000 ₫/Hộp</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-04-16 08:56:04",
+              "createdAtDisplay": "4 tháng trước",
+              "updatedAt": "2026-04-16 08:54:16",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3270635,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0916xxxxxx",
+          "name": "Trịnh Mông",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "ở Tp Lạng Sơn có thuốc này không bạn",
+          "createdAt": "2026-03-08 21:18:00",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-08 21:18:00",
+          "replies": [
+            {
+              "id": 3270637,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mai Thị Thanh Trà",
+                "moderatorEmail": "tramtt10@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mai Thị Thanh Trà",
+              "email": "tramtt10@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Mông, </p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với anh qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-03-08 21:21:29",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-08 21:18:00",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3258392,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0347xxxxxx",
+          "name": "CHỊ THANH TÂM",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá",
+          "createdAt": "2026-02-08 11:27:45",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-08 11:27:45",
+          "replies": [
+            {
+              "id": 3258397,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ánh",
+                "moderatorEmail": "anhnth44@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ánh",
+              "email": "anhnth44@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị&nbsp;<strong>TÂM</strong>,</p><p>Hiện tại, sản phẩm DAGOCTI 0.5 3X10 có giá 225,000 ₫/hộp. Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại ứng dụng Long Châu/ZALO OA Nhà thuốc FPT Long Châu để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-02-08 11:29:16",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-08 11:27:45",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Dagocti 0.5mg Medbolide điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt  (30 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_dagocti_0_5mg_medbolide_3x10_00013493_4e77e17fb3.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_7497_63d7_large_2218de2b63.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_8868_63d7_large_1d38e7e6ec.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_5099_63d7_large_3f73d97433.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_7097_63d7_large_2744fce26c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_7430_63d7_large_215730f57d.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_6718_63d7_large_95b37c69ec.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_8786_63d7_large_cf3d34ff52.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00013493_dagocti_7140_63d7_large_6ebf5add35.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Dagocti được sản xuất bởi Công ty Cổ phần Dược phẩm Medbolide, thành phần chính là dutasterid, được dùng để điều trị điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt (BPH - benign prostatic hyperplasia) thông qua việc làm giảm triệu chứng, giảm kích thước (thể tích) tuyến tiền liệt, cải thiện lưu thông nước tiểu và giảm nguy cơ bí tiểu cấp tính (AUR - acute urinary retention) cũng như giảm nhu cầu phẫu thuật liên quan đến BPH; dutasterid có thể dùng đơn trị liệu hoặc kết hợp với thuốc chẹn alpha tamsulosin.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ngô Kim Thúy"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Dagocti 0,5mg (Hộp 30 viên) | Trị phì đại tuyến tiền liệt",
+      "description": "Thuốc Dagocti 0,5mg được dùng để điều trị điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt. Tìm hiểu thêm về thuốc!",
+      "openGraph": {
+        "title": "Thuốc Dagocti 0.5mg Medbolide điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt  (30 viên)",
+        "description": "Dagocti được sản xuất bởi Công ty Cổ phần Dược phẩm Medbolide, thành phần chính là dutasterid, được dùng để điều trị điều trị và phòng ngừa sự tiến triển của bệnh tăng sản lành tính tuyến tiền liệt (BPH - benign prostatic hyperplasia) thông qua việc làm giảm triệu chứng, giảm kích thước (thể tích) tuyến tiền liệt, cải thiện lưu thông nước tiểu và giảm nguy cơ bí tiểu cấp tính (AUR - acute urinary retention) cũng như giảm nhu cầu phẫu thuật liên quan đến BPH; dutasterid có thể dùng đơn trị liệu hoặc kết hợp với thuốc chẹn alpha tamsulosin.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_dagocti_0_5mg_medbolide_3x10_00013493_4e77e17fb3.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/dagocti-1074.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/dagocti-1074.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

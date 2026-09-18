@@ -1,0 +1,893 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/novorapid-100iuml-5-cay-17016.html",
+  "ingestion_timestamp": "2026-09-05T10:40:50.700003+00:00",
+  "file_hash": "be11cc283aa4f39b6cbb86f4b085381f24579cf283da5dc8130967aa1927bbb8",
+  "lineage_hash": "ee1ffe4f3c84f721532b7eff85357e39f5890547bedbb5c43ce419b748adb58f",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/novorapid-100iuml-5-cay-17016.html",
+    "product": {
+      "sku": "00005395",
+      "webName": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml)",
+      "name": "NOVORAPID FLEXPEN 100U/ML",
+      "shortName": "NOVORAPID FLEXPEN 100U/ML",
+      "headingText": "Bút tiêm Novorapid FlexPen 100U/ml",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00271_ea8a5664ef.jpg",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00272_dcd9f50e10.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00263_09e2ee9929.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00264_3c8cf1b1b6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00265_395f4550ae.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00267_a1e40ca738.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00268_d2eb17859c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00269_84a690281a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00270_7f3c1c2cf3.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00280_9c2cd25dde.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00275_8ac2de1adc.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00276_1c985e6478.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/1_24d22826db.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/2_f1c3bab0df.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/3_dfa4d98e54.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/4_16b5882733.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/5_cc8f97e160.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00266_af32665ed1.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 735,
+          "name": "Thuốc trị tiểu đường",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tri-tieu-duong",
+          "level": 2,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 5 Cây x 3ml"
+        },
+        {
+          "measureUnitCode": 1003,
+          "measureUnitName": "Cây",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "5 Cây x 3ml"
+        }
+      ],
+      "slug": "thuoc/novorapid-100iuml-5-cay-17016.html",
+      "ingredient": [
+        {
+          "id": 46538,
+          "ingredientId": 23748,
+          "shortDescription": "100u",
+          "name": "Insulin Aspart",
+          "isPrimary": false,
+          "slug": "thanh-phan/insulin-aspart"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1ml",
+      "registNum": "570410305424",
+      "manufactor": "Đan Mạch",
+      "dosageForm": "Dung dịch tiêm trong bút tiêm nạp sẵn",
+      "dosage": "<h3>Cách dùng</h3><p><strong>NovoRapid</strong>® dùng tiêm dưới da hoặc truyền liên tục dưới da bằng hệ thống bơm.</p><p>NovoRapid® có thể tiêm trực tiếp vào tĩnh mạch do nhân viên y tế thực hiện. Không bao giờ được tiêm insulin trực tiếp vào cơ (tiêm bắp).</p><p>Luôn thay đổi vị trí tiêm trong cùng một vùng tiêm để giảm nguy cơ bị sưng hoặc vết lõm da. Vị trí tốt nhất đế tự tiêm là: Phần trước vùng thắt lưng (bụng); phía trên cánh tay hoặc mặt trước đùi. Insulin sẽ tác dụng nhanh hơn nếu được tiêm quanh vùng thắt lưng.</p><p>Bạn nên kiểm tra glucose huyết thường xuyên.</p><p><i>Cách sử dụng NovoRapid®&nbsp;</i></p><p>Đọc kỹ Hướng dẫn sử dụng&nbsp;NovoRapid® FlexPen® đi kèm. Bạn phải dùng <a href=\"https://nhathuoclongchau.com.vn/bai-viet/cac-loai-but-tiem-insulin-danh-cho-benh-nhan-tieu-duong-59092.html\"><strong>bút tiêm insulin</strong></a> như được mô tả trong hướng dẫn sử dụng.</p><p><img src=\"https://lh6.googleusercontent.com/t44wmn_OUV6fmbLINyE-k9NJWspCFwEFVNrF4XLAO7o7qW2hiKbdfXDeP-NkUWJqMskpJURLP0J3hO49Q1xo0hyQNQZoh066uKsnCxaIEUog5Ntb-G54yYG5vE9Fmz4H6VBPMtA=s0\" alt=\"Cách sử dụng bút tiêm Novorapid FlexPen 100UI/ml\" height=\"930\" width=\"485\"></p><p><img src=\"https://lh5.googleusercontent.com/cd4vNM2HJ2mkUjkcEDqydYuQyVlngX_pLF4CbDffAtTi-IkT9IpqgS5vGIIlbXm2gBiuTBZZWu4GihIU7ZbA9YBqAYjmYvsQhMDGgZmhhem61Pyu_K8z46vL_MCK3_h1Jk7Xu6o=s0\" alt=\"Cách sử dụng bút tiêm Novorapid FlexPen 100UI/ml 2\" height=\"613\" width=\"602\"></p><p><img src=\"https://lh3.googleusercontent.com/-BHr725zKDxIZ5ElIxFMbiTAENZMUsHvwN_imJkecFO4uRqiSj7RIYXWiRHCFvUdQZyXlHsbZVQ85g44pxvYbm4AMQNDDm91OLCY9CwryJA6B8Ze0LxxSKbW-ApZvToLSVLkd4g=s0\" alt=\"Cách sử dụng bút tiêm Novorapid FlexPen 100UI/ml 3\" height=\"922\" width=\"525\"></p><h3>Liều dùng</h3><p>NovoRapid® là insulin analogue có tác dụng nhanh. Liều dùng của&nbsp;NovoRapid® tùy theo từng cá thể và theo nhu cầu của bệnh nhân. Thường được sử dụng kết hợp với insulin tác dụng trung gian hoặc tác dụng kéo dài, dùng ít nhất mỗi ngày một lần. Cần theo dõi đường huyết và điều chỉnh liều lượng insulin để đạt được kiểm soát đường huyết tối ưu.</p><p>Nhu cầu insulin ở người lớn và trẻ em theo từng cá thể thường là từ 0,5 đến 1,0 U/kg/ngày. Trong phác đồ điều trị nên - nhanh, 50-70% nhu cầu này được cung cấp bởi NovoRapid® và phần còn lại bởi insulin tác dụng trung gian hoặc tác dụng kéo dài. Cần điều chỉnh liều lượng nếu bệnh nhân định tăng hoạt động thể lực thay đổi chế độ ăn uống bình thường của họ hoặc đang bị đồng thời bệnh khác.</p><p>NovoRapid® có khởi phát tác dụng nhanh hơn và thời gian tác dụng ngắn hơn so với insulin người dạng hòa tan.</p><p>Do khởi phát tác dụng nhanh hơn, nên thường dùng NovoRapid® ngay trước bữa ăn. Khi cần thiết, có thể dùng bút tiêm Novorapid FlexPen ngay sau bữa ăn.</p><p>Do thời gian tác dụng ngắn hơn, NovoRapid® ít có nguy cơ gây ra các cơn hạ đường huyết ban đêm.</p><p><i>Nhóm bệnh nhân đặc biệt</i></p><p>Cũng như các sản phẩm insulin khác, ở những bệnh nhân cao tuổi và những bệnh nhân suy thận hoặc suy gan, nên tăng cường theo dõi glucose và liều <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/insulin-aspart\"><strong>insulin aspart</strong></a> nên được điều chỉnh theo từng bệnh nhân.&nbsp;</p><p><i>Sử dụng trong Nhi khoa</i></p><p>NoVoRapid® có thể được sử dụng cho trẻ em ưa dùng insulin người dạng hòa tan do có lợi thế ở thời gian khởi phát tác dụng nhanh của sản phẩm. Ví dụ, lựa chọn thời điểm tiêm thuốc có liên quan đến bữa ăn,&nbsp;</p><p><i>Chuyển sang từ những sản phẩm insulin khác</i></p><p>Khi chuyển sang từ những sản phẩm insulin khác, cần phải điều chỉnh liều của NovoRapid® và liều của insulin nền.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Không thể xác định rõ về sự quá liều đối với insulin.&nbsp;Tuy nhiên, hạ đường huyết có thể phát triển qua các giai đoạn liên tiếp sau nếu dùng liều quá cao so với nhu cầu của bệnh nhân:</p><p>Giai đoạn <a href=\"https://nhathuoclongchau.com.vn/benh/ha-duong-huyet-294.html\"><strong>hạ đường huyết</strong></a> nhẹ có thể điều&nbsp;trị bằng cách dùng glucose uống hay các sản phẩm có đường.&nbsp;Vì vậy, bệnh nhân đái tháo đường được khuyên luôn mang theo người những sản phẩm có đường.</p><p>Giại đoạn hạ đường huyết nặng, khi bệnh nhân bị bất tỉnh, có thể điều trị bằng tiêm bắp hay tiêm dưới da glucagon (0,5 đến 1 mg) do một người đã được hướng dẫn cách tiêm, hoặc nhờ nhân viên y tế truyền glucose bằng đường tĩnh mạch. Phải truyền tĩnh mạch glucose nếu bệnh nhân không đáp ứng với glucagon trong vòng 10 - 15 phút. Khi bệnh nhân tỉnh lại cần cho dùng thức ăn có chứa carbohydrate để tránh hôn mê trở lại.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt ngay khi nhớ ra. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3>Chỉ định</h3><p><strong>Thuốc NovoRapid 100IU/ml</strong> được chỉ định dùng để điều trị&nbsp;bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\"><strong>đái tháo đường</strong></a> ở người lớn, thiếu niên và trẻ&nbsp;em từ 2 tuổi trở lên.</p><h3>Dược lực học</h3><p><i>Cơ chế tác dụng</i></p><p>NovoRapid® có tác dụng khởi phát nhanh hơn so với insulin người dạng hòa tan, cùng với một nồng độ glucose thấp hơn, theo đánh giá trong vòng 4 giờ đồng hồ đầu tiên sau khi ăn. NovoRapid® có thời gian tác dụng ngắn hơn so với insulin người hòa tan sau khi tiêm dưới da.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/novorapid-100iuml-5-cay-17016.html\"><strong>NovoRapid</strong></a>® sẽ có tác dụng khởi&nbsp;phát trong vòng 10 - 20 phút sau khi tiêm dưới da. Hiệu quả tối đa đạt được khoảng từ 1 - 3 giờ đồng hồ sau khi tiêm. Thời gian tác dụng từ 3 - 5 giờ.</p><p>Insulin aspart tương đương hiệu lực với insulin hòa tan trên cơ sở phân tử gam.</p><h3>Dược động học</h3><p>Trong NovoRapid®, amino acid proline được thay thế bằng acid aspartic ở vị trí B28 để làm giảm xu hướng hình thành hexamer, như là insulin người hòa tan. Vì vậy, NovoRapid® hấp thu nhanh hơn ở mô dưới da so với insulin người hòa tan.</p><p>Thời gian đạt nồng độ tối đa trung bình bằng một nửa so với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/insulin-human\"><strong>insulin người</strong></a> hòa tan. Nồng độ huyết tương tối đa trung bình tới 429 pmol/l, đạt được 40 phút sau khi tiêm dưới da liều 0,15 U/kg thể trọng ở bệnh nhân đái tháo đường tuýp&nbsp;1. Nồng độ insulin trở về ban đầu khoảng 4 - 6 giờ sau khi dùng thuốc.</p><p>Tốc độ hấp thu phần nào chậm hơn ở những bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-2.html\"><strong>đái tháo đường tuýp&nbsp;2</strong></a>, dẫn&nbsp;đến Cmax thấp hơn (352± 240 pmol/l) và tmax chậm hơn (60 phút). Sự biến thiên trong cá thể về thời gian để đạt nồng độ tối đa của&nbsp;NovoRapid® ít hơn đáng kể so với insulin người hòa tan, trong khi sự biến thiên trong cá thể Cmax cùa NovoRapid® lại lớn hơn.</p>",
+      "brand": "Novo Nordisk",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc Novorapid 100IU/ml</strong>, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p><i>Tóm tắt về tính an toàn</i></p><p>Các phản&nbsp;ứng phụ quan sát thấy trên&nbsp;những bệnh nhân sử dụng NovoRapid® chủ yếu phụ thuộc vào tác dụng dược lý của insulin. Phản ứng phụ đã được báo cáo thường gặp nhất trong thời gian điều trị là hạ đường huyết. Tần suất của hạ đường huyết thay đổi theo nhóm bệnh nhân, chế độ liều dùng và mức độ <a href=\"https://nhathuoclongchau.com.vn/bai-viet/cach-kiem-soat-duong-huyet-on-dinh-cho-benh-nhan-dai-thao-duong-63777.html\"><strong>kiểm soát đường huyết</strong></a>.</p><p>Khi bắt đầu điều trị insulin, có thể xảy ra bất thường về khúc xạ, phù và phản ứng tại chỗ tiêm (đau, đỏ, nổi mề đay, viêm, thâm tím, sưng và ngứa tại chỗ tiêm). Những phản ứng này thường có tính chất tạm thời. Việc cải thiện nhanh sự kiếm soát glucose huyết có thể liên quan với bệnh đau thần kinh cấp, thường có thể hồi phục. Liệu pháp insulin tăng cường với sự cải thiện đột ngột về kiểm soát đường huyết có thể liên quan với bệnh võng mạc do đái tháo đường xấu đi tạm thời, trong khi việc cải thiện kiểm soát đường huyết dài hạn làm giảm nguy cơ tiến triển của bệnh võng mạc do đái tháo đường.</p><p>Các phản ứng phụ được liệt kê dưới đây dựa trên các dữ liệu thử nghiệm lâm sàng và được phân loại theo tần suất và nhóm hệ cơ quan của MedDRA. Các nhóm tần suất được xác định theo quy ước sau: Rất thường gặp (≥1/10); thường gặp (≥1/100 đến &lt;1/10); ít gặp (≥1/1.000 đến &lt;1/100), hiếm gặp(≥ 1/10.000 đến &lt; 1/1.000); rất hiếm gặp(&lt; 1/10.000); tần suất không rõ (không thể ước tính từ các dư liệu hiện có).</p><figure class=\"table\"><table><tbody><tr><td>Rối loạn hệ miễn dịch</td><td>Ít gặp - Nổi <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\"><strong>mề đay</strong></a>, ban, phát ban</td></tr><tr><td>Rất hiếm gặp – Phản ứng phản vệ*</td><td>&nbsp;</td></tr><tr><td>Rối loạn chuyển hóa và dinh dưỡng</td><td>Rất thường gặp - Hạ đường huyết*</td></tr><tr><td>Rỗi loạn hệ thần kinh</td><td>Hiếm gặp - Bệnh thần kinh ngoại biên (bệnh đau thần kinh)</td></tr><tr><td>Rối loạn mắt</td><td>Ít gặp – Rối loạn khúc xạ</td></tr><tr><td>Ít gặp - Bệnh võng mạc do đái tháo đường</td><td>&nbsp;</td></tr><tr><td>Rối loạn da vầ mô dưới da</td><td>Ít gặp - Loạn dưỡng mỡ*</td></tr><tr><td>Rối loạn toàn thân và tình trạng tại chỗ tiêm</td><td>Ít gặp - Phản ứng tại chỗ tiêm</td></tr><tr><td>Ít gặp - Phù</td><td>&nbsp;</td></tr></tbody></table></figure><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 5 Cây x 3ml",
+      "indications": [],
+      "brandOrigin": "Đan Mạch",
+      "producer": "NOVO NORDISK A/S",
+      "shortDescription": "<p><strong>Thuốc NovoRapid 100IU/ml</strong> là sản phẩm của <i>Công ty&nbsp;Novo Nordisk A/S (Đan Mạch)</i>. Thuốc có thành phần chính là insulin aspart.&nbsp;Insulin aspart được sản xuất bằng kỹ thuật DNA tái tổ hợp trong tế bào <i>Saccharmyces cerevisiae</i>, được dùng để kiểm soát đường huyết ở bệnh nhân đái tháo đường cả người lớn và trẻ em.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [
+        "Người cao tuổi"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Suy gan thận",
+        "Phụ nữ cho con bú"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/novo-nordisk",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": null,
+      "officialProductName": "NOVORAPID FLEXPEN ",
+      "thumbnail": null,
+      "shortVideoUrl": null,
+      "expirationDate": "30 tháng",
+      "brandOriginBadges": {
+        "id": 73,
+        "attributeName": "Đan Mạch",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/dk_Denmark_005f5d6fa7.png"
+      },
+      "videoType": null,
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1003,
+        "measureUnitName": "Cây",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "5 Cây x 3ml"
+      },
+      "highestLevelCategory": {
+        "id": 735,
+        "name": "Thuốc trị tiểu đường",
+        "parentName": "Thuốc",
+        "slug": "thuoc/thuoc-tri-tieu-duong",
+        "level": 2,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00271_ea8a5664ef.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00272_dcd9f50e10.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00263_09e2ee9929.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00264_3c8cf1b1b6.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00265_395f4550ae.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00267_a1e40ca738.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00268_d2eb17859c.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00269_84a690281a.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00270_7f3c1c2cf3.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00280_9c2cd25dde.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 10"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00275_8ac2de1adc.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 11"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00276_1c985e6478.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 12"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/1_24d22826db.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 13"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/2_f1c3bab0df.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 14"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/3_dfa4d98e54.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 15"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/4_16b5882733.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 16"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/5_cc8f97e160.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 17"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00266_af32665ed1.jpg",
+          "alternativeText": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml) 18"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc trị tiểu đường",
+        "slug": "/thuoc/thuoc-tri-tieu-duong"
+      }
+    ],
+    "content": {
+      "sku": "00005395",
+      "dosage": "<h3>Cách dùng</h3><p><strong>NovoRapid</strong>® dùng tiêm dưới da hoặc truyền liên tục dưới da bằng hệ thống bơm.</p><p>NovoRapid® có thể tiêm trực tiếp vào tĩnh mạch do nhân viên y tế thực hiện. Không bao giờ được tiêm insulin trực tiếp vào cơ (tiêm bắp).</p><p>Luôn thay đổi vị trí tiêm trong cùng một vùng tiêm để giảm nguy cơ bị sưng hoặc vết lõm da. Vị trí tốt nhất đế tự tiêm là: Phần trước vùng thắt lưng (bụng); phía trên cánh tay hoặc mặt trước đùi. Insulin sẽ tác dụng nhanh hơn nếu được tiêm quanh vùng thắt lưng.</p><p>Bạn nên kiểm tra glucose huyết thường xuyên.</p><p><i>Cách sử dụng NovoRapid®&nbsp;</i></p><p>Đọc kỹ Hướng dẫn sử dụng&nbsp;NovoRapid® FlexPen® đi kèm. Bạn phải dùng <a href=\"https://nhathuoclongchau.com.vn/bai-viet/cac-loai-but-tiem-insulin-danh-cho-benh-nhan-tieu-duong-59092.html\"><strong>bút tiêm insulin</strong></a> như được mô tả trong hướng dẫn sử dụng.</p><p><img src=\"https://lh6.googleusercontent.com/t44wmn_OUV6fmbLINyE-k9NJWspCFwEFVNrF4XLAO7o7qW2hiKbdfXDeP-NkUWJqMskpJURLP0J3hO49Q1xo0hyQNQZoh066uKsnCxaIEUog5Ntb-G54yYG5vE9Fmz4H6VBPMtA=s0\" alt=\"Cách sử dụng bút tiêm Novorapid FlexPen 100UI/ml\" height=\"930\" width=\"485\"></p><p><img src=\"https://lh5.googleusercontent.com/cd4vNM2HJ2mkUjkcEDqydYuQyVlngX_pLF4CbDffAtTi-IkT9IpqgS5vGIIlbXm2gBiuTBZZWu4GihIU7ZbA9YBqAYjmYvsQhMDGgZmhhem61Pyu_K8z46vL_MCK3_h1Jk7Xu6o=s0\" alt=\"Cách sử dụng bút tiêm Novorapid FlexPen 100UI/ml 2\" height=\"613\" width=\"602\"></p><p><img src=\"https://lh3.googleusercontent.com/-BHr725zKDxIZ5ElIxFMbiTAENZMUsHvwN_imJkecFO4uRqiSj7RIYXWiRHCFvUdQZyXlHsbZVQ85g44pxvYbm4AMQNDDm91OLCY9CwryJA6B8Ze0LxxSKbW-ApZvToLSVLkd4g=s0\" alt=\"Cách sử dụng bút tiêm Novorapid FlexPen 100UI/ml 3\" height=\"922\" width=\"525\"></p><h3>Liều dùng</h3><p>NovoRapid® là insulin analogue có tác dụng nhanh. Liều dùng của&nbsp;NovoRapid® tùy theo từng cá thể và theo nhu cầu của bệnh nhân. Thường được sử dụng kết hợp với insulin tác dụng trung gian hoặc tác dụng kéo dài, dùng ít nhất mỗi ngày một lần. Cần theo dõi đường huyết và điều chỉnh liều lượng insulin để đạt được kiểm soát đường huyết tối ưu.</p><p>Nhu cầu insulin ở người lớn và trẻ em theo từng cá thể thường là từ 0,5 đến 1,0 U/kg/ngày. Trong phác đồ điều trị nên - nhanh, 50-70% nhu cầu này được cung cấp bởi NovoRapid® và phần còn lại bởi insulin tác dụng trung gian hoặc tác dụng kéo dài. Cần điều chỉnh liều lượng nếu bệnh nhân định tăng hoạt động thể lực thay đổi chế độ ăn uống bình thường của họ hoặc đang bị đồng thời bệnh khác.</p><p>NovoRapid® có khởi phát tác dụng nhanh hơn và thời gian tác dụng ngắn hơn so với insulin người dạng hòa tan.</p><p>Do khởi phát tác dụng nhanh hơn, nên thường dùng NovoRapid® ngay trước bữa ăn. Khi cần thiết, có thể dùng bút tiêm Novorapid FlexPen ngay sau bữa ăn.</p><p>Do thời gian tác dụng ngắn hơn, NovoRapid® ít có nguy cơ gây ra các cơn hạ đường huyết ban đêm.</p><p><i>Nhóm bệnh nhân đặc biệt</i></p><p>Cũng như các sản phẩm insulin khác, ở những bệnh nhân cao tuổi và những bệnh nhân suy thận hoặc suy gan, nên tăng cường theo dõi glucose và liều <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/insulin-aspart\"><strong>insulin aspart</strong></a> nên được điều chỉnh theo từng bệnh nhân.&nbsp;</p><p><i>Sử dụng trong Nhi khoa</i></p><p>NoVoRapid® có thể được sử dụng cho trẻ em ưa dùng insulin người dạng hòa tan do có lợi thế ở thời gian khởi phát tác dụng nhanh của sản phẩm. Ví dụ, lựa chọn thời điểm tiêm thuốc có liên quan đến bữa ăn,&nbsp;</p><p><i>Chuyển sang từ những sản phẩm insulin khác</i></p><p>Khi chuyển sang từ những sản phẩm insulin khác, cần phải điều chỉnh liều của NovoRapid® và liều của insulin nền.</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Không thể xác định rõ về sự quá liều đối với insulin.&nbsp;Tuy nhiên, hạ đường huyết có thể phát triển qua các giai đoạn liên tiếp sau nếu dùng liều quá cao so với nhu cầu của bệnh nhân:</p><p>Giai đoạn <a href=\"https://nhathuoclongchau.com.vn/benh/ha-duong-huyet-294.html\"><strong>hạ đường huyết</strong></a> nhẹ có thể điều&nbsp;trị bằng cách dùng glucose uống hay các sản phẩm có đường.&nbsp;Vì vậy, bệnh nhân đái tháo đường được khuyên luôn mang theo người những sản phẩm có đường.</p><p>Giại đoạn hạ đường huyết nặng, khi bệnh nhân bị bất tỉnh, có thể điều trị bằng tiêm bắp hay tiêm dưới da glucagon (0,5 đến 1 mg) do một người đã được hướng dẫn cách tiêm, hoặc nhờ nhân viên y tế truyền glucose bằng đường tĩnh mạch. Phải truyền tĩnh mạch glucose nếu bệnh nhân không đáp ứng với glucagon trong vòng 10 - 15 phút. Khi bệnh nhân tỉnh lại cần cho dùng thức ăn có chứa carbohydrate để tránh hôn mê trở lại.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt ngay khi nhớ ra. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ Hướng dẫn sử dụng thuốc Novorapid® 100IU/ml</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc Novorapid 100IU/ml</strong>, bạn có thể gặp các tác dụng không mong muốn (ADR).</p><p><i>Tóm tắt về tính an toàn</i></p><p>Các phản&nbsp;ứng phụ quan sát thấy trên&nbsp;những bệnh nhân sử dụng NovoRapid® chủ yếu phụ thuộc vào tác dụng dược lý của insulin. Phản ứng phụ đã được báo cáo thường gặp nhất trong thời gian điều trị là hạ đường huyết. Tần suất của hạ đường huyết thay đổi theo nhóm bệnh nhân, chế độ liều dùng và mức độ <a href=\"https://nhathuoclongchau.com.vn/bai-viet/cach-kiem-soat-duong-huyet-on-dinh-cho-benh-nhan-dai-thao-duong-63777.html\"><strong>kiểm soát đường huyết</strong></a>.</p><p>Khi bắt đầu điều trị insulin, có thể xảy ra bất thường về khúc xạ, phù và phản ứng tại chỗ tiêm (đau, đỏ, nổi mề đay, viêm, thâm tím, sưng và ngứa tại chỗ tiêm). Những phản ứng này thường có tính chất tạm thời. Việc cải thiện nhanh sự kiếm soát glucose huyết có thể liên quan với bệnh đau thần kinh cấp, thường có thể hồi phục. Liệu pháp insulin tăng cường với sự cải thiện đột ngột về kiểm soát đường huyết có thể liên quan với bệnh võng mạc do đái tháo đường xấu đi tạm thời, trong khi việc cải thiện kiểm soát đường huyết dài hạn làm giảm nguy cơ tiến triển của bệnh võng mạc do đái tháo đường.</p><p>Các phản ứng phụ được liệt kê dưới đây dựa trên các dữ liệu thử nghiệm lâm sàng và được phân loại theo tần suất và nhóm hệ cơ quan của MedDRA. Các nhóm tần suất được xác định theo quy ước sau: Rất thường gặp (≥1/10); thường gặp (≥1/100 đến &lt;1/10); ít gặp (≥1/1.000 đến &lt;1/100), hiếm gặp(≥ 1/10.000 đến &lt; 1/1.000); rất hiếm gặp(&lt; 1/10.000); tần suất không rõ (không thể ước tính từ các dư liệu hiện có).</p><figure class=\"table\"><table><tbody><tr><td>Rối loạn hệ miễn dịch</td><td>Ít gặp - Nổi <a href=\"https://nhathuoclongchau.com.vn/benh/me-day-527.html\"><strong>mề đay</strong></a>, ban, phát ban</td></tr><tr><td>Rất hiếm gặp – Phản ứng phản vệ*</td><td>&nbsp;</td></tr><tr><td>Rối loạn chuyển hóa và dinh dưỡng</td><td>Rất thường gặp - Hạ đường huyết*</td></tr><tr><td>Rỗi loạn hệ thần kinh</td><td>Hiếm gặp - Bệnh thần kinh ngoại biên (bệnh đau thần kinh)</td></tr><tr><td>Rối loạn mắt</td><td>Ít gặp – Rối loạn khúc xạ</td></tr><tr><td>Ít gặp - Bệnh võng mạc do đái tháo đường</td><td>&nbsp;</td></tr><tr><td>Rối loạn da vầ mô dưới da</td><td>Ít gặp - Loạn dưỡng mỡ*</td></tr><tr><td>Rối loạn toàn thân và tình trạng tại chỗ tiêm</td><td>Ít gặp - Phản ứng tại chỗ tiêm</td></tr><tr><td>Ít gặp - Phù</td><td>&nbsp;</td></tr></tbody></table></figure><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Bảo quản trong Ịủ lanh (2°C - 8°C). Để xa bộ phận làm lạnh.&nbsp;</p><p>Bút tiêm Novorapid FlexPen phải được bảo vệ tránh nguồn nhiệt và ánh sáng quá mức.</p><p>Sau khi sử dụng lần đầu hoặc mang theo dự phòng: Không để trong tủ lạnh. Bảo quản dưới 30°C.</p><p>Sử dụng trong vòng 4 tuần.</p><p>Không để đông lạnh.</p><p>Đậy nắp NovoRapid® để tránh ánh sáng.</p>",
+      "usage": "<h3>Chỉ định</h3><p><strong>Thuốc NovoRapid 100IU/ml</strong> được chỉ định dùng để điều trị&nbsp;bệnh <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\"><strong>đái tháo đường</strong></a> ở người lớn, thiếu niên và trẻ&nbsp;em từ 2 tuổi trở lên.</p><h3>Dược lực học</h3><p><i>Cơ chế tác dụng</i></p><p>NovoRapid® có tác dụng khởi phát nhanh hơn so với insulin người dạng hòa tan, cùng với một nồng độ glucose thấp hơn, theo đánh giá trong vòng 4 giờ đồng hồ đầu tiên sau khi ăn. NovoRapid® có thời gian tác dụng ngắn hơn so với insulin người hòa tan sau khi tiêm dưới da.</p><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/novorapid-100iuml-5-cay-17016.html\"><strong>NovoRapid</strong></a>® sẽ có tác dụng khởi&nbsp;phát trong vòng 10 - 20 phút sau khi tiêm dưới da. Hiệu quả tối đa đạt được khoảng từ 1 - 3 giờ đồng hồ sau khi tiêm. Thời gian tác dụng từ 3 - 5 giờ.</p><p>Insulin aspart tương đương hiệu lực với insulin hòa tan trên cơ sở phân tử gam.</p><h3>Dược động học</h3><p>Trong NovoRapid®, amino acid proline được thay thế bằng acid aspartic ở vị trí B28 để làm giảm xu hướng hình thành hexamer, như là insulin người hòa tan. Vì vậy, NovoRapid® hấp thu nhanh hơn ở mô dưới da so với insulin người hòa tan.</p><p>Thời gian đạt nồng độ tối đa trung bình bằng một nửa so với <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/insulin-human\"><strong>insulin người</strong></a> hòa tan. Nồng độ huyết tương tối đa trung bình tới 429 pmol/l, đạt được 40 phút sau khi tiêm dưới da liều 0,15 U/kg thể trọng ở bệnh nhân đái tháo đường tuýp&nbsp;1. Nồng độ insulin trở về ban đầu khoảng 4 - 6 giờ sau khi dùng thuốc.</p><p>Tốc độ hấp thu phần nào chậm hơn ở những bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-2.html\"><strong>đái tháo đường tuýp&nbsp;2</strong></a>, dẫn&nbsp;đến Cmax thấp hơn (352± 240 pmol/l) và tmax chậm hơn (60 phút). Sự biến thiên trong cá thể về thời gian để đạt nồng độ tối đa của&nbsp;NovoRapid® ít hơn đáng kể so với insulin người hòa tan, trong khi sự biến thiên trong cá thể Cmax cùa NovoRapid® lại lớn hơn.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p><strong>Thuốc Novorapid 100IU/ml</strong> chống chỉ định dùng cho các bệnh nhân&nbsp;dị ứng (quá mẫn) với insulin aspart hay bất kỳ tá dược nào của&nbsp;NovoRapid*.</p><h3>Thận trọng khi sử dụng</h3><p>Đọc kỹ hướng dẫn sừ dụng trước khi dùng. Nếu cần thêm thông tin, xin hỏi ý kiến bác sĩ.</p><p>Thuốc này chỉ dùng theo đơn của&nbsp;bác sĩ.</p><p>Trước khi di chuyển đến những nơi có sự khác nhau về múi giờ, bệnh nhân nên tham khào ý kiến bác sĩ, vì điều này có nghĩa là bệnh nhân phải tiêm insulin và dùng bữa ăn vào những thời điểm khác.</p><p>Các trường hợp sau đây cần phải thận trọng và thông báo cho bác sĩ hoặc nhân viên y tế khi gặp phải:</p><p><a href=\"https://nhathuoclongchau.com.vn/benh/duong-huyet-cao-826.html\"><strong>Tăng đường huyết</strong></a>.</p><p>Hạ đường huyết.</p><p>Chuyển sang sử dụng các loại insulin khác.</p><p>Phản ứng tại chỗ tiêm.</p><p>Kết hợp thiazolidinedione và các thuốc insulin.</p><p>Kháng thể kháng Insulin.</p><p>Sử dụng kết hợp với các loại thuốc khác.</p><p>Trước khi sử dụng NovoRapid®</p><p>Kiểm tra nhãn để đảm bảo đúng loại insulin.</p><p>Luôn sử dụng kim mới cho mỗi lần tiêm để ngăn ngừa sự nhiễm bẩn.</p><p>Không được cho người khác sử dụng chung kim và NovoRapid® FlexPen*</p><p>Không sử dụng trong các trường hợp sau:</p><p>Nếu bạn bị dị ứng (quá mẫn) với insulin aspart hay bất kỳ tá dược nào cùa NovoRapid®.</p><p>Nếu bạn nghi ngờ bắt đầu bị hạ đường huyết (đường huyết thấp)</p><p>Nếu bút tiêm Novorapid FlexPen bị rơi, bị hư hỏng hoặc bị vỡ.</p><p>Nếu bút không được bảo&nbsp;quản&nbsp;đúng hoặc bị đông lạnh.</p><p>Nếu dung dịch insulin không trong suốt và không màu.</p><p>Chi tiết thận trọng vui lòng xem kỹ tờ hướng dẫn sử dụng thuốc.</p><h3>Khả năng lái xe và vận hành máy móc</h3><p>Khả năng tập trung và phản ứng của bệnh nhân có thế bị suy giảm&nbsp;do hậu quả của hạ đường huyết. Điều này có thể gây ra nguy hiểm trong những tình huống mà những khả năng này có tầm quan trọng đặc biệt (như đang lái xe hay đang vận hành máy móc).</p><p>Bệnh nhân nên được nhắc nhở để thận trọng tránh tình trạng hạ đường huyết trong khi lái xe. Điều này rất quan trọng ở những bệnh nhân có nhận biết hay không nhận biết được những dấu hiệu báo trước của hạ đường huyết hoặc ở những người thường hay bị hạ đường huyết.</p><h3>Thời kỳ mang thai&nbsp;</h3><p>NovoRapid® (insulin aspart) có thể dùng cho phụ nữ có thai. Số liệu từ hai thử nghiệm lâm sàng ngẫu nhiên có đối chứng cho thấy không có tác dụng phụ nào của insulin aspart trên phụ nữ có thai và thai nhi/trẻ sơ sinh khi so sánh với insulin người dạng hòa tan.</p><p>Cần tăng cường kiểm soát glucose huyết và theo dõi phụ nữ mang thai bị đái tháo đường trong suốt quá trình mang thai và khi dự định có thai. Nhu cầu về insulin thường giảm trong ba tháng đầu thai kỳ và tăng dần trong ba tháng giữa và ba tháng cuối thai kỳ. Sau khi sinh, nhu cầu insulin bình thường trở lại nhanh chóng các trị số trước khi có thai.</p><h3>Thời kỳ cho con bú</h3><p>Không có hạn chế về điều trị bằng NovoRapid® trong thời gian cho con bú. Việc điều trị insulin ở phụ nữ cho con bú không gây nguy cơ gì cho trẻ. Tuy nhiên có thể&nbsp;cần phải điều chỉnh liều NovoRapid®.</p><h3>Tương tác thuốc</h3><p>Một số thuốc được biết là có tương tác với chuyển hóa glucose.</p><p>Những chất sau đây có thế làm giảm nhu cầu insulin của bênh nhân:&nbsp;Các thuốc điều trị đái tháo đường dạng uống, chất ức chế monoamine oxidase (MAOIs), thuốc chẹn beta, chất ức chế men chuyến angiotensin (ACE), salicylates, các steroid đồng hóa và sulphonamides.</p><p>Những chất saụ đây có thể làm tăng nhu cầu insulin của bệnh nhân: Các thuốc tránh thai dạng uống, thiazides, glucocorticoids, hormone tuyến giáp, cường giao cảm, horrnone tăng trưởng và <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/danazol\"><strong>danazol</strong></a>.</p><p>Các thuốc chẹn beta có thể che lấp các triệu chứng hạ đường huyết. Octreotide/lanreotide có thể&nbsp;làm tăng hoặc giảm&nbsp;nhu cầu insulin. Rượu có thể làm tăng hoặc làm giảm tác dụng hạ đường huyết của insulin.</p>",
+      "description": "",
+      "isApproved": false,
+      "approver": null,
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Bút tiêm Novorapid FlexPen 100UI/ml (5 cây) - Long Châu",
+        "metaDescription": "Bút tiêm Novorapid FlexPen 100UI/ml có tác dụng kiểm soát đường huyết ở bệnh nhân đái tháo đường (người lớn và trẻ em). Xem thêm công dụng, cách dùng.",
+        "id": 388,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00271_ea8a5664ef.jpg",
+              "alternativeText": null
+            },
+            "title": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml)",
+            "description": "Thuốc NovoRapid 100IU/ml là sản phẩm của Công ty&nbsp;Novo Nordisk A/S (Đan Mạch). Thuốc có thành phần chính là insulin aspart.&nbsp;Insulin aspart được sản xuất bằng kỹ thuật DNA tái tổ hợp trong tế bào Saccharmyces cerevisiae, được dùng để kiểm soát đường huyết ở bệnh nhân đái tháo đường cả người lớn và trẻ em."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 373,
+        "title": "Dược lực học là gì?",
+        "content": "<p>\r\n\r\nDược lực học l&agrave; nghi&ecirc;n cứu c&aacute;c ảnh hưởng sinh h&oacute;a, sinh l&yacute;, v&agrave; ph&acirc;n tử của thuốc tr&ecirc;n cơ thể v&agrave; li&ecirc;n quan đến thụ thể li&ecirc;n kết, hiệu ứng sau thụ thể, v&agrave; tương t&aacute;c h&oacute;a học. Dược lực học, với dược động học, gi&uacute;p giải th&iacute;ch mối quan hệ giữa liều v&agrave; đ&aacute;p ứng, tức l&agrave; c&aacute;c t&aacute;c dụng của thuốc. Đ&aacute;p ứng dược l&yacute; phụ thuộc v&agrave;o sự li&ecirc;n kết của thuốc với đ&iacute;ch t&aacute;c dụng. Nồng độ thuốc ở vị tr&iacute; thụ thể ảnh hưởng đến t&aacute;c dụng của thuốc.</p>"
+      },
+      {
+        "id": 372,
+        "title": "Dược động học là gì?",
+        "content": "<p>\r\n\r\nDược động học l&agrave; những t&aacute;c động của cơ thể đối với thuốc trong suốt qu&aacute; tr&igrave;nh thuốc đi v&agrave;o, ở trong v&agrave; đi ra khỏi cơ thể- bao gồm c&aacute;c qu&aacute; tr&igrave;nh hấp thụ, sinh khả dụng, ph&acirc;n bố, chuyển h&oacute;a, v&agrave; thải trừ.</p>"
+      },
+      {
+        "id": 371,
+        "title": "Tác dụng phụ của thuốc là gì? Cách phòng tránh tác dụng phụ của thuốc",
+        "content": "<p>\r\n\r\nT&aacute;c dụng phụ l&agrave; những triệu chứng kh&ocirc;ng mong muốn xảy ra khi ch&uacute;ng ta uống thuốc. C&aacute;c t&aacute;c dụng phụ n&agrave;y c&oacute; thể kh&ocirc;ng nghi&ecirc;m trọng, chẳng hạn chỉ g&acirc;y <a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\"><strong>đau đầu</strong></a> hoặc <a href=\"https://nhathuoclongchau.com.vn/benh/kho-mieng-312.html\"><strong>kh&ocirc; miệng</strong></a>. Nhưng cũng c&oacute; những t&aacute;c dụng phụ đe dọa t&iacute;nh mạng. Cẩn ph&ograve;ng tr&aacute;nh t&aacute;c dụng phụ của <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> như: Th&ocirc;ng b&aacute;o c&aacute;c loại thuốc đang sử dụng với b&aacute;c sĩ, c&aacute;c <strong><a href=\"https://nhathuoclongchau.com.vn/benh\">bệnh</a></strong> l&yacute; nền hiện tại, c&aacute;c tương t&aacute;c của thuốc đến thực phẩm hằng ng&agrave;y. Đọc kỹ hướng dẫn sử dụng thuốc v&agrave; nếu gặp t&aacute;c dụng phụ cần b&aacute;o ngay cho b&aacute;c sĩ.</p>"
+      },
+      {
+        "id": 370,
+        "title": "Sử dụng thuốc đúng cách như thế nào?",
+        "content": "<p>\r\n\r\nSử dụng <strong><a href=\"https://nhathuoclongchau.com.vn/thuoc\">thuốc</a></strong> đ&uacute;ng c&aacute;ch l&agrave; uống thuốc theo chỉ dẫn của dược sĩ, b&aacute;c sĩ. Ngo&agrave;i ra kh&ocirc;ng d&ugrave;ng nước quả, nước kho&aacute;ng hoặc c&aacute;c loại nước ngọt đ&oacute;ng hộp c&oacute; gas để uống thuốc. Kh&ocirc;ng d&ugrave;ng sữa để uống thuốc v&igrave; trong th&agrave;nh phần của sữa c&oacute; chứa <strong><a href=\"https://nhathuoclongchau.com.vn/thuc-pham-chuc-nang/canxi\">canxi</a></strong>. Kh&ocirc;ng d&ugrave;ng c&agrave; ph&ecirc; hay nước ch&egrave; để uống thuốc. Chỉ n&ecirc;n uống c&ugrave;ng nước lọc.</p>"
+      },
+      {
+        "id": 369,
+        "title": "Các dạng bào chế của thuốc?",
+        "content": "<p>\r\n\r\nC&oacute; c&aacute;c dạng b&agrave;o chế thuốc như<br />\r\nTheo thể chất:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc thể rắn (thuốc bột, thuốc vi&ecirc;n).</li>\r\n\t<li>C&aacute;c dạng thuốc thể mềm (thuốc cao, thuốc mỡ, gel).</li>\r\n\t<li>C&aacute;c dạng thuốc thể lỏng (dung dịch, hỗn dịch, nhũ dịch, xiro).</li>\r\n</ul>\r\n\r\n<p>Theo đường d&ugrave;ng:</p>\r\n\r\n<ul>\r\n\t<li>C&aacute;c dạng thuốc uống (vi&ecirc;n, bột, dung dịch, nhũ dịch, hỗn dịch).</li>\r\n\t<li>C&aacute;c dạng thuốc ti&ecirc;m (dung dịch, hỗn dịch, nhũ dịch, bột pha ti&ecirc;m, dịch truyền).</li>\r\n\t<li>C&aacute;c dạng thuốc d&ugrave;ng ngo&agrave;i (thuốc b&ocirc;i tr&ecirc;n da, thuốc nhỏ l&ecirc;n ni&ecirc;m mạc, thuốc s&uacute;c miệng).</li>\r\n\t<li>C&aacute;c dạng thuốc đặt v&agrave;o c&aacute;c hốc tự nhi&ecirc;n tr&ecirc;n cơ thể (thuốc đặt hậu m&ocirc;n, thuốc trứng đặt &acirc;m đạo...).</li>\r\n</ul>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 86,
+      "items": [
+        {
+          "id": 3345152,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0366xxxxxx",
+          "name": "Nhật Nguyễn",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Hạ Long Quảng Ninh còn ko ạ",
+          "createdAt": "2026-07-24 11:43:49",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-24 11:43:49",
+          "replies": [
+            {
+              "id": 3345166,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Vân Anh",
+                "moderatorEmail": "anhntv89@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Vân Anh",
+              "email": "anhntv89@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Nhật,</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-07-24 12:15:58",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-24 11:43:49",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3341403,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0888xxxxxx",
+          "name": "Lan Anh",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cho em xin giá bút tiêm novorapid ạ",
+          "createdAt": "2026-07-18 08:37:27",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-18 08:37:27",
+          "replies": [
+            {
+              "id": 3341405,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Phương Thảo",
+                "moderatorEmail": "thaoltp50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Phương Thảo",
+              "email": "thaoltp50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Lan Anh,</p><p>Hiện tại, sản phẩm NOVORAPID FLEXPEN 100U/ML có giá 260.000đ/ cây ạ</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-07-18 08:39:17",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-18 08:37:27",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3329126,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0342xxxxxx",
+          "name": "Vàng Lệ Thủy",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Bút tiêm này còn hàng ở chi nhánh Lai Châu không ạ",
+          "createdAt": "2026-06-27 12:04:25",
+          "createdAtDisplay": "2 tháng trước",
+          "updatedAt": "2026-06-27 12:04:25",
+          "replies": [
+            {
+              "id": 3329139,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Vũ Tiến Thành",
+                "moderatorEmail": "thanhvt57@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Vũ Tiến Thành",
+              "email": "thanhvt57@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Thủy,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Chị vui lòng kiểm tra tin nhắn để Tư vấn viên nhà thuốc Long Châu hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-06-27 12:29:41",
+              "createdAtDisplay": "2 tháng trước",
+              "updatedAt": "2026-06-27 12:04:25",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3314845,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0917xxxxxx",
+          "name": "Chị Ngân",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mình xin giá bút tiêm novorapid và bút tiêm lantus ở quận 7 HCM",
+          "createdAt": "2026-05-29 21:24:28",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-29 21:24:28",
+          "replies": [
+            {
+              "id": 3314857,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lương Trần Bảo Phúc",
+                "moderatorEmail": "phucltb2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lương Trần Bảo Phúc",
+              "email": "phucltb2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị  Ngân</p><p>Hiện tại, sản phẩm  novorapid&nbsp;có giá 260 000 đồng/ cây và lantus&nbsp; giá 290 000 đồng/ bút ạ</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-05-29 21:36:15",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-29 21:24:28",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3311209,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0985xxxxxx",
+          "name": "Vũ Thảo Vân",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "hiện tại ở nội thành Hà Nội có những nhà thuốc long châu nào có thế ạ",
+          "createdAt": "2026-05-23 02:52:52",
+          "createdAtDisplay": "3 tháng trước",
+          "updatedAt": "2026-05-23 02:52:52",
+          "replies": [
+            {
+              "id": 3311290,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thu Huyền",
+                "moderatorEmail": "huyenlt73@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thu Huyền",
+              "email": "huyenlt73@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Vân,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-05-23 09:10:43",
+              "createdAtDisplay": "3 tháng trước",
+              "updatedAt": "2026-05-23 02:52:52",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 1,
+      "items": [
+        {
+          "id": 1173534,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0945xxxxxx",
+          "name": "Quách văn thêm",
+          "email": "",
+          "score": 5,
+          "gender": 2,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2024-05-10 20:43:19",
+          "createdAtDisplay": "10/05/2024",
+          "updatedAt": "2024-05-10 20:43:41",
+          "replies": [
+            {
+              "id": 1173537,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Tiến Bắc",
+                "moderatorEmail": "bacnt16@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": null,
+              "name": "Nguyễn Tiến Bắc",
+              "email": "bacnt16@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p dir=\"ltr\" class=\"editor-paragraph\"><span>Chào bạn Quách văn thêm,</span><br><span>Dạ rất cảm ơn tình cảm của bạn dành cho nhà thuốc FPT Long châu. Bất cứ khi nào bạn cần hỗ trợ, vui lòng liên hệ tổng đài miễn phí 18006928 để được tư vấn và đặt hàng.  </span><br><span>Thân mến!</span><br></p>",
+              "createdAt": "2024-05-10 20:43:41",
+              "createdAtDisplay": "10/05/2024",
+              "updatedAt": "2024-05-10 20:43:41",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 1
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00271_ea8a5664ef.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00272_dcd9f50e10.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00263_09e2ee9929.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00264_3c8cf1b1b6.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00265_395f4550ae.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00267_a1e40ca738.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00268_d2eb17859c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00269_84a690281a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00270_7f3c1c2cf3.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00280_9c2cd25dde.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00275_8ac2de1adc.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00276_1c985e6478.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/1_24d22826db.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/2_f1c3bab0df.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/3_dfa4d98e54.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/4_16b5882733.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/5_cc8f97e160.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc NovoRapid 100IU/ml là sản phẩm của Công ty Novo Nordisk A/S (Đan Mạch). Thuốc có thành phần chính là insulin aspart. Insulin aspart được sản xuất bằng kỹ thuật DNA tái tổ hợp trong tế bào Saccharmyces cerevisiae, được dùng để kiểm soát đường huyết ở bệnh nhân đái tháo đường cả người lớn và trẻ em.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nhà Thuốc Long Châu"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Bút tiêm Novorapid FlexPen 100UI/ml (5 cây) - Long Châu",
+      "description": "Bút tiêm Novorapid FlexPen 100UI/ml có tác dụng kiểm soát đường huyết ở bệnh nhân đái tháo đường (người lớn và trẻ em). Xem thêm công dụng, cách dùng.",
+      "openGraph": {
+        "title": "Bút tiêm Novorapid FlexPen 100U/ml Novo Nordisk kiểm soát đường huyết (5 cây x 3ml)",
+        "description": "Thuốc NovoRapid 100IU/ml là sản phẩm của Công ty&nbsp;Novo Nordisk A/S (Đan Mạch). Thuốc có thành phần chính là insulin aspart.&nbsp;Insulin aspart được sản xuất bằng kỹ thuật DNA tái tổ hợp trong tế bào Saccharmyces cerevisiae, được dùng để kiểm soát đường huyết ở bệnh nhân đái tháo đường cả người lớn và trẻ em.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00271_ea8a5664ef.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/novorapid-100iuml-5-cay-17016.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/novorapid-100iuml-5-cay-17016.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

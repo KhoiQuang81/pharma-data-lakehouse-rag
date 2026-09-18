@@ -1,0 +1,1966 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/tra-diep-ha-chau-van-xuan-16813.html",
+  "ingestion_timestamp": "2026-09-05T09:17:26.559109+00:00",
+  "file_hash": "828a9b7bdf054d6996884f8d3728d8898d405fec0d24f265a7e5deb808292aa9",
+  "lineage_hash": "0c8e1629cc2a5e3f033ab2109f8bbdb4357a6904bee520a68b9c295c31931f07",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/tra-diep-ha-chau-van-xuan-16813.html",
+    "product": {
+      "sku": "00007460",
+      "webName": "Thuốc cốm Diệp Hạ Châu Vạn Xuân mát gan, giải rượu, trừ mụn độc (20 gói)",
+      "name": "DIỆP HẠ CHÂU VẠN XUÂN 20 GÓI",
+      "shortName": "DIỆP HẠ CHÂU VX 20 GÓI",
+      "headingText": "Thuốc cốm Diệp Hạ Châu",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_5458_5b59_large_919906c846.JPG",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_4432_5b59_large_516555b305.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_1341_5b59_large_f4ec51e6b0.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_1345_5b59_large_f7d88bf627.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_1815_6086_large_a95976a67a.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_1619429318_e9fbaaab7b.jpg",
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 736,
+          "name": "Thuốc tiêu hoá & gan mật",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 809,
+          "name": "Thuốc trị bệnh gan",
+          "parentName": "Thuốc tiêu hoá & gan mật",
+          "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 128000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 20 Gói"
+        },
+        {
+          "measureUnitCode": 14,
+          "measureUnitName": "Gói",
+          "isSellDefault": false,
+          "price": 6400,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "20 Gói"
+        }
+      ],
+      "slug": "thuoc/tra-diep-ha-chau-van-xuan-16813.html",
+      "ingredient": [
+        {
+          "id": 15214,
+          "ingredientId": 12473,
+          "shortDescription": "2g",
+          "name": "Cam thảo",
+          "isPrimary": false,
+          "slug": "thanh-phan/cam-thao"
+        },
+        {
+          "id": 15215,
+          "ingredientId": 16076,
+          "shortDescription": "1g",
+          "name": "Cúc hoa",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 15216,
+          "ingredientId": 24654,
+          "shortDescription": "2g",
+          "name": "Kim ngân hoa",
+          "isPrimary": false,
+          "slug": "thanh-phan/kim-ngan-hoa"
+        },
+        {
+          "id": 15217,
+          "ingredientId": 38102,
+          "shortDescription": "5g",
+          "name": "Thảo quyết minh",
+          "isPrimary": false,
+          "slug": "thanh-phan/thao-quyet-minh"
+        },
+        {
+          "id": 15218,
+          "ingredientId": 37414,
+          "shortDescription": "5g",
+          "name": "Tam thất",
+          "isPrimary": false,
+          "slug": "thanh-phan/tam-that"
+        },
+        {
+          "id": 15219,
+          "ingredientId": 17681,
+          "shortDescription": "10g",
+          "name": "Diệp hạ châu",
+          "isPrimary": false,
+          "slug": "thanh-phan/diep-ha-chau"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 gói",
+      "registNum": "VD-29579-18",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Cốm",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Pha với nước nóng, uống trước hoặc sau bữa ăn.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p><em>Người lớn:</em></p>\n\n<p>Uống 1 - 2 gói/lần, ngày 2 - 3 lần. Dùng 10 - 20 ngày với bệnh cấp, 3 - 6 tháng hay dài hơn với bệnh mãn.</p>\n\n<p><em>Trẻ em từ 2 tuổi trở lên: </em></p>\n\n<p>0,5 - 1 g/kg thể trọng 1 ngày, chia nhiều lần trong ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p><em>Những dấu hiệu và triệu chứng khi dùng thuốc quá liều:</em></p>\n\n<p>Đau bụng, tiêu chảy.</p>\n\n<p><em>Cách xử trí khi quá liều:</em></p>\n\n<p>Khi dùng thuốc quá liều nên ngừng dùng thuốc và uống thêm nước gừng.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Diệp Hạ Châu Vạn Xuân</strong>&nbsp;được chỉ định dùng trong các trường hợp điều trị chứng thấp nhiệt (nóng nực, chán ăn, đầy tức hạ sườn phải, <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\"><strong>táo bón</strong></a>, tiểu vàng, tiểu ít, mụn nhọt...) thường gặp trong tình trạng các bệnh:</p><p>Viêm gan cấp và mãn kể cả viêm gan virus B hay do hóa chất độc, <a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\"><strong>xơ gan</strong></a>, ung thư gan, gan nhiễm mỡ.</p><p>Ngộ độc,&nbsp;nhiễm độc do rượu, hóa chất độc.</p><h3><strong>Dược lực học</strong></h3><p>Chưa có dữ liệu.</p><h3><strong>Dược động học</strong></h3><p>Chưa có dữ liệu.</p>",
+      "brand": "Vạn Xuân",
+      "brandType": null,
+      "adverseEffect": "<p>Chưa thấy tác dụng không mong muốn.</p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 20 Gói",
+      "indications": [
+        {
+          "id": 5,
+          "name": "Gan nhiễm mỡ",
+          "slug": "benh/gan-nhiem-mo-464.html"
+        },
+        {
+          "id": 149,
+          "name": "Xơ gan",
+          "slug": "benh/xo-gan-415.html"
+        },
+        {
+          "id": 416,
+          "name": "Viêm gan B",
+          "slug": "benh/viem-gan-b-143.html"
+        },
+        {
+          "id": 419,
+          "name": "Viêm gan cấp",
+          "slug": "benh/viem-gan-cap-145.html"
+        },
+        {
+          "id": 428,
+          "name": "Viêm gan mạn",
+          "slug": "benh/viem-gan-man-146.html"
+        },
+        {
+          "id": 633,
+          "name": "Viêm gân",
+          "slug": "benh/viem-gan-219.html"
+        },
+        {
+          "id": 648,
+          "name": "Táo bón",
+          "slug": "benh/tao-bon-246.html"
+        },
+        {
+          "id": 776,
+          "name": "Viêm gan",
+          "slug": "benh/viem-gan-1-1080.html"
+        },
+        {
+          "id": 1250,
+          "name": "Mụn nhọt",
+          "slug": "benh/mun-nhot-1036.html"
+        },
+        {
+          "id": 1302,
+          "name": "Vàng da",
+          "slug": "benh/vang-da-913.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "Vạn Xuân",
+      "shortDescription": "<p><strong>Diệp Hạ Châu Vạn Xuân</strong> là một sản phẩm của <i>Công ty TNHH Vạn Xuân</i> với thành phần chính là: Diệp hạ châu, tam thất, kim ngân hoa, cam thảo, thảo quyết minh, cúc hoa. Diệp Hạ Châu Vạn Xuân được dùng trong điều trị chứng thấp nhiệt (nóng nực, chán ăn, đầy tức hạ sườn phải, táo bón, tiểu vàng, tiểu ít, mụn nhọt...) thường gặp trong tình trạng các bệnh: Viêm gan cấp và mãn kể cả viêm gan virus B hay do hóa chất độc, xơ gan, ung thư gan, gan nhiễm mỡ, ngộ độc, nhiễm độc do rượu, hóa chất độc.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Mang thai, Tiêu chảy, Dị ứng thuốc",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/van-xuan",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "DIỆP HẠ CHÂU VẠN XUÂN",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 1,
+        "measureUnitName": "Hộp",
+        "isSellDefault": true,
+        "price": 128000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 1,
+        "productSpecs": "Hộp 20 Gói"
+      },
+      "highestLevelCategory": {
+        "id": 809,
+        "name": "Thuốc trị bệnh gan",
+        "parentName": "Thuốc tiêu hoá & gan mật",
+        "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_5458_5b59_large_919906c846.JPG",
+          "alternativeText": "Thuốc cốm Diệp Hạ Châu Vạn Xuân mát gan, giải rượu, trừ mụn độc (20 gói) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_4432_5b59_large_516555b305.JPG",
+          "alternativeText": "Thuốc cốm Diệp Hạ Châu Vạn Xuân mát gan, giải rượu, trừ mụn độc (20 gói) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_1341_5b59_large_f4ec51e6b0.JPG",
+          "alternativeText": "Thuốc cốm Diệp Hạ Châu Vạn Xuân mát gan, giải rượu, trừ mụn độc (20 gói) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_1345_5b59_large_f7d88bf627.JPG",
+          "alternativeText": "Thuốc cốm Diệp Hạ Châu Vạn Xuân mát gan, giải rượu, trừ mụn độc (20 gói) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_1815_6086_large_a95976a67a.jpg",
+          "alternativeText": "Thuốc cốm Diệp Hạ Châu Vạn Xuân mát gan, giải rượu, trừ mụn độc (20 gói) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_1619429318_e9fbaaab7b.jpg",
+          "alternativeText": "Thuốc cốm Diệp Hạ Châu Vạn Xuân mát gan, giải rượu, trừ mụn độc (20 gói) 6"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 128000,
+        "itemCode": "00007460",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 128000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 6400,
+        "itemCode": "00007460",
+        "unitCode": 14,
+        "maxValue": 0,
+        "price": 6400,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tiêu hoá & gan mật",
+        "slug": "/thuoc/thuoc-tieu-hoa-and-gan-mat"
+      },
+      {
+        "name": "Thuốc trị bệnh gan",
+        "slug": "/thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan"
+      }
+    ],
+    "content": {
+      "sku": "00007460",
+      "dosage": "<h3><strong>Cách dùng</strong></h3>\n\n<p>Pha với nước nóng, uống trước hoặc sau bữa ăn.</p>\n\n<h3><strong>Liều dùng</strong></h3>\n\n<p><em>Người lớn:</em></p>\n\n<p>Uống 1 - 2 gói/lần, ngày 2 - 3 lần. Dùng 10 - 20 ngày với bệnh cấp, 3 - 6 tháng hay dài hơn với bệnh mãn.</p>\n\n<p><em>Trẻ em từ 2 tuổi trở lên: </em></p>\n\n<p>0,5 - 1 g/kg thể trọng 1 ngày, chia nhiều lần trong ngày.</p>\n\n<p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p>\n\n<h3><strong>Làm gì khi dùng quá liều?</strong></h3>\n\n<p><em>Những dấu hiệu và triệu chứng khi dùng thuốc quá liều:</em></p>\n\n<p>Đau bụng, tiêu chảy.</p>\n\n<p><em>Cách xử trí khi quá liều:</em></p>\n\n<p>Khi dùng thuốc quá liều nên ngừng dùng thuốc và uống thêm nước gừng.</p>\n\n<h3><strong>Làm gì khi quên 1 liều?</strong></h3>\n\n<p>Nếu bạn quên một liều thuốc, hãy dùng càng sớm càng tốt. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và dùng liều kế tiếp vào thời điểm như kế hoạch. Lưu ý rằng không nên dùng gấp đôi liều đã quy định.</p>",
+      "referenceSource": "<html><body><p>Tờ hướng dẫn sử dụng thuốc Diệp Hạ Châu Vạn Xuân.</p></body></html>",
+      "adverseEffect": "<p>Chưa thấy tác dụng không mong muốn.</p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Nơi khô mát, nhiệt độ dưới 30°C.</p>",
+      "usage": "<h3><strong>Chỉ định</strong></h3><p><strong>Thuốc Diệp Hạ Châu Vạn Xuân</strong>&nbsp;được chỉ định dùng trong các trường hợp điều trị chứng thấp nhiệt (nóng nực, chán ăn, đầy tức hạ sườn phải, <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\"><strong>táo bón</strong></a>, tiểu vàng, tiểu ít, mụn nhọt...) thường gặp trong tình trạng các bệnh:</p><p>Viêm gan cấp và mãn kể cả viêm gan virus B hay do hóa chất độc, <a href=\"https://nhathuoclongchau.com.vn/benh/xo-gan-415.html\"><strong>xơ gan</strong></a>, ung thư gan, gan nhiễm mỡ.</p><p>Ngộ độc,&nbsp;nhiễm độc do rượu, hóa chất độc.</p><h3><strong>Dược lực học</strong></h3><p>Chưa có dữ liệu.</p><h3><strong>Dược động học</strong></h3><p>Chưa có dữ liệu.</p>",
+      "ingredient": "",
+      "careful": "<h3><strong>Chống chỉ định</strong></h3><p><strong>Thuốc Diệp Hạ Châu Vạn Xuân</strong> chống chỉ định trong các trường hợp sau:</p><p>Dị ứng với thành phần bài thuốc.</p><p>Trẻ em dưới 2 tuổi.</p><p>Phụ nữ có thai và đang cho con bú.</p><p>Người thể hàn, dương hư, tiêu chảy do hàn.</p><h3><strong>Thận trọng khi sử dụng</strong></h3><p>Đối với trình trạng tiêu chảy, thuốc chỉ dùng cho trường hợp tiêu chảy do nhiệt (tiêu chảy phân thối, có khi lẫn máu, toàn thân nóng...).</p><p>Với nhiễm trùng đặc hiệu phải dùng các thuốc trị nhiễm trùng đặc hiệu.</p><p>Theo Đông Y, thuốc được chỉ định cho hội chứng thấp nhiệt:</p><p>Mặt đỏ, mắt đỏ, da vàng, mụn trứng cá, ban chẩn (chấm xuất huyết, nốt xuất huyết...).</p><p>Miệng khô lở, răng lợi lở có thể kèm theo chảy máu, lưỡi khô, rêu dày khô...</p><p>Hơi thở khô, tiếng nói khàn, ho khan, đờm đặc.</p><p>Ăn kém (no hơi, đầy bụng, chán ăn), tiêu bón hoặc tiêu loãng, phân thối có khi lẫn máu, tiểu đặc có thể vàng sậm hoặc đỏ, tiểu khó,tiểu rắt...</p><p>Họng khô đau, mũi đặc có khi ra máu, tai đau chảy mủ đặc...</p><p>Nóng nực, bứt rứt, có thể vừa hay sốt cao, hoa mắt, chóng mặt, nhức đầu, ù tai.</p><p>Mạch sác (nhu sác hoặc huyền sác hoặc tế sác) (mạch nhanh), da nóng, mồ hôi nhiều, lòng bàn tay, bàn chân nóng.</p><h3><strong>Khả năng lái xe và vận hành máy móc</strong></h3><p>Chưa ghi nhận được các báo cáo phản ứng bất lợi.</p><h3><strong>Thời kỳ mang thai&nbsp;</strong></h3><p>Thuốc Diệp Hạ Châu Vạn Xuân chống chỉ định với phụ nữ mang thai.</p><h3><strong>Thời kỳ cho con bú</strong></h3><p>Thuốc Diệp Hạ Châu Vạn Xuân chống chỉ định với phụ nữ cho con bú.</p><h3><strong>Tương tác thuốc</strong></h3><p>Không dùng cùng lúc với các loại thuốc tẩy, thuốc tăng huyết áp.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Nguyễn Thị Hồng Nhung",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp đại học Khoa Dược. Có kinh nghiệm hơn 10 năm trong lĩnh vực Dược phẩm, tư vấn thuốc và thực phẩm chức năng. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-nguyen-thi-hong-nhung",
+        "isLegit": true,
+        "id": 13,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/6g_Nree_Hb_QDPN_Ev6_Hb_Bi_O_Fbtfj_Requ_H_a6c447b975.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Trà Diệp Hạ Châu Vạn Xuân điều trị chứng thấp nhiệt (20 gói)",
+        "metaDescription": "Trà Diệp Hạ Châu Vạn Xuân dùng trong điều trị chứng thấp nhiệt (nóng nực, chán ăn, đầy tức hạ sườn phải, táo bón, tiểu vàng, tiểu ít, mụn nhọt...).",
+        "id": 840,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_5458_5b59_large_919906c846.JPG",
+              "alternativeText": null
+            },
+            "title": "Thuốc cốm Diệp Hạ Châu Vạn Xuân mát gan, giải rượu, trừ mụn độc (20 gói)",
+            "description": "Diệp Hạ Châu Vạn Xuân là một sản phẩm của Công ty TNHH Vạn Xuân với thành phần chính là: Diệp hạ châu, tam thất, kim ngân hoa, cam thảo, thảo quyết minh, cúc hoa. Diệp Hạ Châu Vạn Xuân được dùng trong điều trị chứng thấp nhiệt (nóng nực, chán ăn, đầy tức hạ sườn phải, táo bón, tiểu vàng, tiểu ít, mụn nhọt...) thường gặp trong tình trạng các bệnh: Viêm gan cấp và mãn kể cả viêm gan virus B hay do hóa chất độc, xơ gan, ung thư gan, gan nhiễm mỡ, ngộ độc, nhiễm độc do rượu, hóa chất độc."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 17050,
+        "title": "Thuốc cốm Diệp Hạ Châu chỉ dùng trong trường hợp tiêu chảy nào?",
+        "content": "<p>Đối với tình trạng tiêu chảy, thuốc cốm Diệp Hạ Châu chỉ dùng cho trường hợp tiêu chảy do nhiệt (tiêu chảy phân thối, có khi lẫn máu, toàn thân nóng...).</p>"
+      },
+      {
+        "id": 17049,
+        "title": "Thuốc cốm Diệp Hạ Châu không được dùng cùng với những loại thuốc nào?",
+        "content": "<p>Không được dùng thuốc cốm Diệp Hạ Châu cùng lúc với các loại thuốc tẩy, thuốc tăng huyết áp.</p>"
+      },
+      {
+        "id": 17048,
+        "title": "Thuốc cốm Diệp Hạ Châu uống trước hay sau khi ăn?",
+        "content": "<p>Thuốc cốm Diệp Hạ Châu được pha với nước nóng, uống trước hoặc sau bữa ăn.</p>"
+      },
+      {
+        "id": 17047,
+        "title": "Phụ nữ mang thai và cho con bú có dùng được thuốc cốm Diệp Hạ Châu không?",
+        "content": "<p class=\"css-8uyn92\">Thuốc cốm Diệp Hạ Châu chống chỉ định dùng cho phụ nữ có thai và đang cho con bú.</p>"
+      },
+      {
+        "id": 17046,
+        "title": "Trẻ em có dùng được thuốc cốm Diệp Hạ Châu không?",
+        "content": "<p class=\"css-8uyn92\">Thuốc cốm Diệp Hạ Châu chỉ dùng được cho trẻ em từ 2 tuổi trở lên.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00500235",
+        "name": "BỔ GAN TRƯỜNG PHÚC 3X10",
+        "webName": "Thuốc Bổ Gan Trường Phúc giải độc gan, chống dị ứng, mày đay, lở ngứa (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00500235_bo_gan_truong_phuc_3x10_7485_6293_large_b117663369.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 48090,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 99000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bo-gan-truong-phuc-3x10-34370.html",
+        "ingredients": "Diệp hạ châu 1.2g, Đảng Sâm 1.2g, Bạch truật 0.6g, Cam thảo 0.6g, Phục Linh 0.6g, Nhân trần 1.2g, Trần bì 0.6g",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "TRƯỜNG PHÚC",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 110,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 48090,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 99000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00502581",
+        "name": "LIVOLIN FORTE MEGA 3X10",
+        "webName": "Thuốc Livolin Forte Mega We Care điều trị viêm gan cấp, bán cấp và viêm gan mạn tính, xơ gan (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_03127_3007d4ce18.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 52643,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 4967,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-livolin-forte-mega-lifesciences-hop-3-vi-x-10-vien-36849.html",
+        "ingredients": "Phospholipids thiết yếu 300mg, Vitamin B1 10mg, Vitamin B2 6mg, Vitamin B6 10mg, Vitamin B12 (Cyanocobalamin) 10mcg, Nicotinamide 30mg, Vitamin E acetate 10mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "MEGA We care",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 52644,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 49667,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 52645,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 149000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 52643,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 4967,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 262,
+          "attributeName": "Thái Lan",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/th_Thailand_cdaa8c1601.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00500008",
+        "name": "ANBALIV 400 PHƯƠNG ĐÔNG PHARMA 6X10",
+        "webName": "Thuốc Anbaliv Phương Đông hỗ trợ điều trị các bệnh về gan (6 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/anbaliv_314037c30b.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 47609,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 660000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/anbaliv-400-phuong-dong-pharma-6-vi-x-10-vien-34083.html",
+        "ingredients": "Silymarin 400mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Phương Đông",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 47608,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 110000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 47607,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 11000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 47609,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 660000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001374",
+        "name": "BOGANIC FORTE TRAPHACO 5X10",
+        "webName": "Thuốc Boganic Forte Traphaco bổ gan, hỗ trợ điều trị suy giảm chức năng gan (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_1906_6bb1369184.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1466,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 115000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/boganic-forte-bo-gan-giai-doc-mat-gan-531.html",
+        "ingredients": "Bìm Bìm 13.6mg, Rau đắng đất 128mg, Cao khô actiso 170mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Traphaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 5 vỉ x 10 viên",
+        "prices": [
+          {
+            "id": 1464,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 2300,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1466,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 115000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 1465,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 23000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00010272",
+        "name": "SILYGAMMA 150MG WORWAG 4X25",
+        "webName": "Thuốc Silygamma 150mg Worwag điều trị viêm gan mãn tính, xơ gan (4 vỉ x 25 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00010272_silygamma_150mg_3112_5b21_large_88e8a155af.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 13923,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 5700,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/silygamma-150mg-1333.html",
+        "ingredients": "Silymarin 150mg",
+        "dosageForm": "Viên nén bao",
+        "brand": "Worwag",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 4 Vỉ x 25 Viên",
+        "prices": [
+          {
+            "id": 13924,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 142500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 13925,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 570000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 13923,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 5700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 266,
+          "attributeName": "Đức",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/de_Germany_2d2b099194.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00004514",
+        "name": "LIVOSIL 140MG 8X15",
+        "webName": "Viên nang cứng Livosil 140mg aconitum hỗ trợ điều trị viêm gan mạn tính, xơ gan (8 vỉ x 15 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00004514_livosil_140mg_6649_5b56_large_fdc4a81ab6.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 6322,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 6900,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/livosil-140mg-3199.html",
+        "ingredients": "Silymarin 140mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "aconitum",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 8 Vỉ x 15 Viên",
+        "prices": [
+          {
+            "id": 6322,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 6900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 6323,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 103500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 6324,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 828000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 195,
+          "attributeName": "Litva",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/lt_Lithuania_917ee86ad8.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00001147",
+        "name": "BAR PHARMEDIC 180V - THUỐC LỢI GAN MẬT",
+        "webName": "Thuốc lợi gan mật Bar Pharmedic điều trị các bệnh về gan (180 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_2039_a4d58cbfdd.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 1100,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 70000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/bar-180-4571.html",
+        "ingredients": "Rau đắng đất 75mg, Bìm Bìm 75mg, Atisô 100mg",
+        "dosageForm": "Viên nén bao đường",
+        "brand": "Pharmedic",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 180 viên",
+        "prices": [
+          {
+            "id": 1099,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 389,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 1100,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 70000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00013883",
+        "name": "BOGANIC VBP TRAPHACO 5X20",
+        "webName": "Thuốc Boganic Traphaco bổ gan, hỗ trợ điều trị suy giảm chức năng gan (5 vỉ x 20 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_6561_895514cecd.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 16508,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 80000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/boganic-vien-nen-100v-bao-phim-15828.html",
+        "ingredients": "Cao khô bìm bìm 6.4mg, Cao khô rau đắng đất 64mg, Cao khô actisô ep 85mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Traphaco",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 20 Viên",
+        "prices": [
+          {
+            "id": 16508,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 80000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 16507,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 16000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 16506,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 800,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [
+          {
+            "isShowBadge": false,
+            "scoreBadge": 10,
+            "imgBadge": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/45_van_de_doi_tuong_9977_6346_large_9bde73707e.png"
+          }
+        ],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00007844",
+        "name": "VG-5 DANAPHA 40V",
+        "webName": "Thuốc VG-5 Danapha điều trị hạ men gan, viêm gan (40 viên) ",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/IMG_3100_179f9cdb03.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 11520,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 40000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/vg-5-lo-40v-16764.html",
+        "ingredients": "Râu bắp 50mg, Cỏ nhọ nồi 50mg, Nhân trần 130mg, Diệp hạ châu 100mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "Danapha",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 2.3613910000000002,
+        "specification": "Hộp 40 Viên",
+        "prices": [
+          {
+            "id": 11519,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 1000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 11520,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 40000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00006716",
+        "name": "SILYMAX F 140 MEDIPLANTEX 6X10",
+        "webName": "Thuốc Silymax-F Mediplantex điều trị viêm gan do virus, xơ gan (6 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00006716_silymax_f_140_6x10_8257_5bba_large_291f92975a.JPG",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 9787,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 132000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/silymax-f-140-6x10-16885.html",
+        "ingredients": "Silymarin 140mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Mediplantex",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 6 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 9785,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 2200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 9786,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 22000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 9787,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 132000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00022477",
+        "name": "VIHACAPS 600MG MINSKINTERCAPS 5X10",
+        "webName": "Thuốc Vihacaps 600 Minskintercaps cải thiện triệu chứng bệnh lý gan (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00022477_vihacaps_600mg_minskintercaps_5x10_3825_6095_large_6ed858b31d.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 28846,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 9520,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-vihacaps-600mg-minskintercaps-cai-thien-trieu-chung-benh-ly-gan-50-vien-22805.html",
+        "ingredients": "Phospholipid đậu nành 600mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Minskintercaps",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 28846,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 9520,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 28847,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 95200,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 28848,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 476000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 57,
+          "attributeName": "Belarus",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/by_Belarus_0c1f9f5c55.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00029481",
+        "name": "A.T SILYMARIN 117MG AN THIÊN 3X10",
+        "webName": "Thuốc A.T Silymarin 117mg An Thiên hỗ trợ điều trị bệnh viêm gan mạn tính, xơ gan (3 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/a_t_silymarin_117mg_3x10_an_thien_00029481_86eaa662de.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 736,
+            "name": "Thuốc tiêu hoá & gan mật",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 809,
+            "name": "Thuốc trị bệnh gan",
+            "parentName": "Thuốc tiêu hoá & gan mật",
+            "slug": "thuoc/thuoc-tieu-hoa-and-gan-mat/thuoc-tri-benh-gan",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 38119,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 165000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/at-silymarin-v-117mg-29647.html",
+        "ingredients": "Silymarin 117mg",
+        "dosageForm": "Viên nén bao phim",
+        "brand": "An Thiên",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 70,
+        "productRanking": 0,
+        "specification": "Hộp 3 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 38118,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 55000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 38117,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 5500,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 38119,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 165000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 18,
+      "items": [
+        {
+          "id": 3351772,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0866xxxxxx",
+          "name": "Lan Huỳnh",
+          "email": "hoailan2105@gmail.com",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Bị viêm mụn trứng cá uống được k ạ",
+          "createdAt": "2026-08-04 12:50:31",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-08-04 12:50:31",
+          "replies": [
+            {
+              "id": 3351774,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phạm Thị Luyến",
+                "moderatorEmail": "luyenpt3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phạm Thị Luyến",
+              "email": "luyenpt3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Lan Huỳnh ạ,</p><p>Dạ sản phẩm Diệp Hạ Châu Vạn Xuân có công dụng thanh nhiệt, giải độc và hỗ trợ điều trị mụn độc rất tốt. Với tình trạng mụn trứng cá viêm, việc sử dụng sản phẩm giúp làm mát gan và đào thải độc tố bên trong cơ thể là rất phù hợp ạ.</p><p>Để nhận tư vấn kỹ hơn về liều dùng cụ thể, Chị vui lòng gửi yêu cầu tư vấn trực tiếp ngay trên website để Dược sĩ Long Châu chủ động liên hệ hỗ trợ mình ạ.</p><p>Chúc Chị và gia đình luôn dồi dào sức khỏe ạ.</p>",
+              "createdAt": "2026-08-04 12:51:45",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-08-04 12:50:31",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3239320,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0386xxxxxx",
+          "name": "Chị Hậu",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "nám sau sinh dùng loại nào để cải thiện ",
+          "createdAt": "2026-01-02 19:24:00",
+          "createdAtDisplay": "8 tháng trước",
+          "updatedAt": "2026-01-02 19:24:00",
+          "replies": [
+            {
+              "id": 3239336,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Hồng Ánh",
+                "moderatorEmail": "anhnth44@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Hồng Ánh",
+              "email": "anhnth44@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào <strong>Chị Hậu</strong>,</p><p>Dạ nhà thuốc có hỗ trợ tư vấn ạ.</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với chị qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2026-01-02 19:46:30",
+              "createdAtDisplay": "8 tháng trước",
+              "updatedAt": "2026-01-02 19:24:00",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3221571,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0983xxxxxx",
+          "name": "c Nguyệt",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Bị mề đay dị ứng uống được không ạ?",
+          "createdAt": "2025-11-28 22:01:11",
+          "createdAtDisplay": "9 tháng trước",
+          "updatedAt": "2025-11-28 22:01:11",
+          "replies": [
+            {
+              "id": 3221606,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Ngô Thị Bích Lựu",
+                "moderatorEmail": "luuntb4@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Ngô Thị Bích Lựu",
+              "email": "luuntb4@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Nguyệt,</p><p>Dạ tình trạng của mình có thể dùng để hỗ trợ và theo dõi thêm.</p><p>Nhà thuốc thông tin đến chị ạ.</p><p><br></p>",
+              "createdAt": "2025-11-29 08:03:46",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-11-28 22:01:11",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3132816,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0362xxxxxx",
+          "name": "Liễu",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "thuốc này có đắng không ạ",
+          "createdAt": "2025-06-24 08:27:39",
+          "createdAtDisplay": "24/06/2025",
+          "updatedAt": "2025-06-24 08:27:27",
+          "replies": [
+            {
+              "id": 3132817,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Từ Thị Tú Uyên",
+                "moderatorEmail": "uyenttt19@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Từ Thị Tú Uyên",
+              "email": "uyenttt19@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Liễu, </p><p>Dạ sản phẩm Cốm Diệp Hạ Châu Vạn Xuân có vị đắng, do chiết xuất từ cây Diệp Hạ Châu – một loại thảo dược mát gan, thanh nhiệt. Tuy nhiên, vị đắng này không quá gắt và có thể giảm bằng cách pha với mật ong, cam thảo hoặc uống lạnh ạ. </p><p>Nhà thuốc thông tin đến bạn.</p><p>Thân mến!</p>",
+              "createdAt": "2025-06-24 08:29:23",
+              "createdAtDisplay": "24/06/2025",
+              "updatedAt": "2025-06-24 08:27:27",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3100081,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0971xxxxxx",
+          "name": "Chị Hồng",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cái này uống một hộp hay uống bao lâu thì có hiệu quả?",
+          "createdAt": "2025-05-01 18:19:15",
+          "createdAtDisplay": "01/05/2025",
+          "updatedAt": "2025-05-01 18:19:15",
+          "replies": [
+            {
+              "id": 3100082,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Anh Mac Thi Tuyet ",
+                "moderatorEmail": "anhmtt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Anh Mac Thi Tuyet ",
+              "email": "anhmtt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hồng,</p><p>Dạ sản phẩm mình nên sử dụng 10 - 20 ngày với bệnh cấp tính, 3 - 6 tháng hay dài hơn với bệnh mãn tính để có kết quả và theo dõi thêm ạ.</p><p>Nhà thuốc thông tin đến chị.</p><p>Thân mến!</p>",
+              "createdAt": "2025-05-01 18:20:38",
+              "createdAtDisplay": "01/05/2025",
+              "updatedAt": "2025-05-01 18:19:15",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc cốm Diệp Hạ Châu Vạn Xuân mát gan, giải rượu, trừ mụn độc (20 gói)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_5458_5b59_large_919906c846.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_4432_5b59_large_516555b305.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_1341_5b59_large_f4ec51e6b0.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_1345_5b59_large_f7d88bf627.JPG",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_1815_6086_large_a95976a67a.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Diệp Hạ Châu Vạn Xuân là một sản phẩm của Công ty TNHH Vạn Xuân với thành phần chính là: Diệp hạ châu, tam thất, kim ngân hoa, cam thảo, thảo quyết minh, cúc hoa. Diệp Hạ Châu Vạn Xuân được dùng trong điều trị chứng thấp nhiệt (nóng nực, chán ăn, đầy tức hạ sườn phải, táo bón, tiểu vàng, tiểu ít, mụn nhọt...) thường gặp trong tình trạng các bệnh: Viêm gan cấp và mãn kể cả viêm gan virus B hay do hóa chất độc, xơ gan, ung thư gan, gan nhiễm mỡ, ngộ độc, nhiễm độc do rượu, hóa chất độc.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Nguyễn Thị Hồng Nhung"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/tra-diep-ha-chau-van-xuan-16813.html",
+        "priceCurrency": "VND",
+        "price": 128000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Trà Diệp Hạ Châu Vạn Xuân điều trị chứng thấp nhiệt (20 gói)",
+      "description": "Trà Diệp Hạ Châu Vạn Xuân dùng trong điều trị chứng thấp nhiệt (nóng nực, chán ăn, đầy tức hạ sườn phải, táo bón, tiểu vàng, tiểu ít, mụn nhọt...).",
+      "openGraph": {
+        "title": "Thuốc cốm Diệp Hạ Châu Vạn Xuân mát gan, giải rượu, trừ mụn độc (20 gói)",
+        "description": "Diệp Hạ Châu Vạn Xuân là một sản phẩm của Công ty TNHH Vạn Xuân với thành phần chính là: Diệp hạ châu, tam thất, kim ngân hoa, cam thảo, thảo quyết minh, cúc hoa. Diệp Hạ Châu Vạn Xuân được dùng trong điều trị chứng thấp nhiệt (nóng nực, chán ăn, đầy tức hạ sườn phải, táo bón, tiểu vàng, tiểu ít, mụn nhọt...) thường gặp trong tình trạng các bệnh: Viêm gan cấp và mãn kể cả viêm gan virus B hay do hóa chất độc, xơ gan, ung thư gan, gan nhiễm mỡ, ngộ độc, nhiễm độc do rượu, hóa chất độc.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/00007460_tra_diep_ha_chau_van_xuan_5458_5b59_large_919906c846.JPG",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/tra-diep-ha-chau-van-xuan-16813.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/tra-diep-ha-chau-van-xuan-16813.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

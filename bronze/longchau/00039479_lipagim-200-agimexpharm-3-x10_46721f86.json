@@ -1,0 +1,1000 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/lipagim-200-agimexpharm-3-x10.html",
+  "ingestion_timestamp": "2026-09-05T10:13:27.177328+00:00",
+  "file_hash": "af54d688a0112f12222341435b130a7b1a9c05304220d007a131039c16acaa76",
+  "lineage_hash": "877f5158060685563dc33d0dc0237ee9a7f7a35a219a4571692e0f9ac7af80a9",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/lipagim-200-agimexpharm-3-x10.html",
+    "product": {
+      "sku": "00039479",
+      "webName": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên)",
+      "name": "LIPAGIM 200 AGIMEXPHARM 3X10",
+      "shortName": "LIPAGIM 200 AGIMEXPHARM 3X10",
+      "headingText": "Thuốc Lipagim 200",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_lipagim_200_agimexpharm_3x10_00039479_46ae8cca88.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09706_67d7e2cbeb.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09708_c3fb0ebf2a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09709_bb4ce9be84.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09710_50d99e9003.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09711_f358b6ee1a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09713_e4062f1862.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09714_05fd8b778c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Lipagim_200_1_086bf8c2d1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Lipagim_200_2_c6f6f8db52.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Lipagim_200_3_e627438b1c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Lipagim_200_4_8f882e26c0.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 737,
+          "name": "Thuốc tim mạch & máu",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tim-mach-and-mau",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 814,
+          "name": "Thuốc trị mỡ máu",
+          "parentName": "Thuốc tim mạch & máu",
+          "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/lipagim-200-agimexpharm-3-x10.html",
+      "ingredient": [
+        {
+          "id": 56748,
+          "ingredientId": 20132,
+          "shortDescription": "200mg",
+          "name": "Fenofibrate",
+          "isPrimary": false,
+          "slug": "thanh-phan/fenofibrate"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893110381224",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang cứng",
+      "dosage": "<h3>Cách dùng</h3><p>Uống nguyên viên thuốc với nước cùng với bữa ăn và phối hợp với chế độ ăn hạn chế lipid.</p><h3>Liều dùng</h3><p>Người lớn: Liều khuyến cáo là 1 viên, một lần mỗi ngày. Nên uống thuốc trong bữa ăn chính để thuốc được hấp thu đầy đủ. Chế độ ăn kiêng phải được duy trì trong thời gian dùng thuốc.</p><p>Cần theo dõi đáp ứng điều trị bằng cách đo các trị số lipid trong huyết thanh. Nên ngừng điều trị bằng fenofibrat nếu đáp ứng không đầy đủ trong vòng ba tháng dùng thuốc</p><p>Bệnh nhân cao tuổi (≥ 65 tuổi): Ở những bệnh nhân cao tuổi, không có suy thận, dùng theo liều khuyến cáo của người lớn.</p><p>Bệnh nhân suy thận: Cần giảm liều ở bệnh nhân suy thận, phụ thuộc vào độ thanh thải creatinin:</p><figure class=\"table\"><table><thead><tr><th>Độ thanh thải creatinin (ml/phút)</th><th>Liều dùng</th></tr></thead><tbody><tr><td>&lt; 60</td><td>134 mg fenofibrat</td></tr><tr><td>&lt; 20</td><td>67 mg fenofibrat</td></tr></tbody></table></figure><p>Bệnh nhân suy gan: Lipagim 200 không khuyến cáo sử dụng ở bệnh nhân suy gan.</p><p>An toàn và hiệu quả khi sử dụng thuốc cho trẻ em dưới 18 tuổi chưa được xác định rõ, vì vậy không khuyến cáo sử dụng thuốc cho trẻ em dưới 18 tuổi.</p><p>Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p><i>Quá liều:</i></p><p>Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định của thuốc.</p><p><i>Xử trí:</i></p><p>Nếu có trường hợp nghi ngờ quá liều, điều trị triệu chứng và dùng các biện pháp hỗ trợ thích hợp như gây nôn hoặc rửa dạ dày. Thẩm tách máu không có tác dụng loại bỏ fenofibrat khỏi cơ thể.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3>Làm gì khi quên 1 liều?</h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "usage": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/lipagim-200-agimexpharm-3-x10.html\">Thuốc Lipagim</a> chỉ định như một thuốc bổ sung cho chế độ ăn uống và các điều trị không dùng thuốc khác (ví dụ tập thể dục, giảm cân) trong những trường hợp sau:</p><ul><li>Điều trị <a href=\"https://nhathuoclongchau.com.vn/bai-viet/goc-thac-mac-tang-triglyceride-mau-don-thuan-la-gi.html\">tăng triglycerid máu</a> nặng có hoặc không có cholesterol HDL thấp.</li><li>Tăng lipid máu hỗn hợp khi statin bị chống chỉ định hoặc không dung nạp.</li><li>Tăng lipid máu hỗn hợp ở những bệnh nhân có nguy cơ tim mạch cao bổ sung cho statin khi triglycerid và cholesterol HDL không được kiểm soát đầy đủ.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+      "brand": "Agimexpharm",
+      "brandType": null,
+      "adverseEffect": "<p>Tác dụng không mong muốn:</p><p>Các phản ứng có hại được phân nhóm theo tần suất: Rất thường gặp (ADR ≥ 1/10), thường gặp (1/100 ≤ ADR &lt; 1/10), ít gặp (1/1.000 ≤ ADR &lt; 1/100), hiếm gặp (1/10.000 ≤ ADR &lt; 1/1.000), rất hiếm gặp (ADR &lt; 1/10.000); không thể ước lượng tần suất được liệt kê \"Chưa rõ tần suất\".</p><p>Tác dụng không mong muốn thường nhẹ và ít gặp.</p><p><i>Thường gặp</i></p><ul><li>Tiêu hóa: Rối loạn dạ dày hoặc ruột (đau bụng, táo bón, buồn nôn).</li><li>Gan: Tăng aminotransferase (liên quan đến liều).</li><li>Cơ xương: Đau lưng, tăng CPK.</li><li>Hô hấp: Bệnh hô hấp, viêm mũi.</li></ul><p><i>ĺt gặp</i></p><ul style=\"list-style-type:disc;\"><li>Hệ thần kinh trung ương: Nhức đầu.</li><li>Da: Nổi ban, nổi mày đay, ban không đặc hiệu.</li><li>Cơ xương: Rối loạn cơ bắp (ví dụ như đau cơ, viêm cơ, co thắt cơ bắp và yếu).</li><li>Máu: Creatinin huyết thanh tăng.</li></ul><p><i>Hiếm gặp</i></p><ul><li>Gan: Sỏi đường mật.</li><li>Sinh dục: Mất dục tính và liệt dương, giảm tinh trùng.</li><li>Máu: Giảm bạch cầu, giảm hemoglobin.</li><li>Rối loạn hệ thống miễn dịch: Quá mẫn.</li><li>Da và các rối loạn mô dưới da: Phản ứng với ánh sáng.</li></ul><p><i>Chưa rõ tần suất</i></p><ul><li>Rối loạn gan mật: Vàng da, biến chứng của sỏi mật (ví dụ như viêm túi mật, viêm đường mật, cơn sỏi mật).</li><li>Da và các rối loạn mô dưới da: Phản ứng da nghiêm trọng (ví dụ như hồng ban đa dạng, hội chứng Stevens-Johnson, hoại tử biểu bì nhiễm độc).</li><li>Rối loạn cơ: Tiêu cơ vân.</li></ul><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Tạm ngừng dùng thuốc.</p><p>Thông báo cho bác sỹ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "CHI NHÁNH CÔNG TY CỔ PHẦN DƯỢC PHẨM AGIMEXPHARM - NHÀ MÁY SẢN XUẤT DƯỢC PHẨM AGIMEXPHARM - VIỆT NAM",
+      "shortDescription": "<p>Thuốc Lipagim là sản phẩm của Công ty Cổ phần Dược phẩm Agimexpharm chứa hoạt chất Fenofibrate được chỉ định như một thuốc bổ sung cho chế độ ăn uống và các điều trị không dùng thuốc khác (ví dụ tập thể dục, giảm cân) trong những trường hợp sau: Điều trị tăng triglycerid máu, tăng lipid máu.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "",
+      "objectUse": [],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/agimexpharm",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "LIPAGIM 200",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "24 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 814,
+        "name": "Thuốc trị mỡ máu",
+        "parentName": "Thuốc tim mạch & máu",
+        "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_lipagim_200_agimexpharm_3x10_00039479_46ae8cca88.png",
+          "alternativeText": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09706_67d7e2cbeb.jpg",
+          "alternativeText": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09708_c3fb0ebf2a.jpg",
+          "alternativeText": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09709_bb4ce9be84.jpg",
+          "alternativeText": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09710_50d99e9003.jpg",
+          "alternativeText": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09711_f358b6ee1a.jpg",
+          "alternativeText": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09713_e4062f1862.jpg",
+          "alternativeText": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09714_05fd8b778c.jpg",
+          "alternativeText": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Lipagim_200_1_086bf8c2d1.jpg",
+          "alternativeText": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên) 9"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Lipagim_200_2_c6f6f8db52.jpg",
+          "alternativeText": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên) 10"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Lipagim_200_3_e627438b1c.jpg",
+          "alternativeText": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên) 11"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Lipagim_200_4_8f882e26c0.jpg",
+          "alternativeText": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên) 12"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc tim mạch & máu",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau"
+      },
+      {
+        "name": "Thuốc trị mỡ máu",
+        "slug": "/thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau"
+      }
+    ],
+    "content": {
+      "sku": "00039479",
+      "dosage": "<h3>Cách dùng</h3><p>Uống nguyên viên thuốc với nước cùng với bữa ăn và phối hợp với chế độ ăn hạn chế lipid.</p><h3>Liều dùng</h3><p>Người lớn: Liều khuyến cáo là 1 viên, một lần mỗi ngày. Nên uống thuốc trong bữa ăn chính để thuốc được hấp thu đầy đủ. Chế độ ăn kiêng phải được duy trì trong thời gian dùng thuốc.</p><p>Cần theo dõi đáp ứng điều trị bằng cách đo các trị số lipid trong huyết thanh. Nên ngừng điều trị bằng fenofibrat nếu đáp ứng không đầy đủ trong vòng ba tháng dùng thuốc</p><p>Bệnh nhân cao tuổi (≥ 65 tuổi): Ở những bệnh nhân cao tuổi, không có suy thận, dùng theo liều khuyến cáo của người lớn.</p><p>Bệnh nhân suy thận: Cần giảm liều ở bệnh nhân suy thận, phụ thuộc vào độ thanh thải creatinin:</p><figure class=\"table\"><table><thead><tr><th>Độ thanh thải creatinin (ml/phút)</th><th>Liều dùng</th></tr></thead><tbody><tr><td>&lt; 60</td><td>134 mg fenofibrat</td></tr><tr><td>&lt; 20</td><td>67 mg fenofibrat</td></tr></tbody></table></figure><p>Bệnh nhân suy gan: Lipagim 200 không khuyến cáo sử dụng ở bệnh nhân suy gan.</p><p>An toàn và hiệu quả khi sử dụng thuốc cho trẻ em dưới 18 tuổi chưa được xác định rõ, vì vậy không khuyến cáo sử dụng thuốc cho trẻ em dưới 18 tuổi.</p><p>Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p><i>Quá liều:</i></p><p>Không có dữ liệu về sử dụng thuốc quá liều, không dùng quá liều chỉ định của thuốc.</p><p><i>Xử trí:</i></p><p>Nếu có trường hợp nghi ngờ quá liều, điều trị triệu chứng và dùng các biện pháp hỗ trợ thích hợp như gây nôn hoặc rửa dạ dày. Thẩm tách máu không có tác dụng loại bỏ fenofibrat khỏi cơ thể.</p><p>Trong trường hợp khẩn cấp, hãy gọi ngay cho Trung tâm cấp cứu 115 hoặc đến trạm Y tế địa phương gần nhất.</p><h3>Làm gì khi quên 1 liều?</h3><p>Bổ sung liều ngay khi nhớ ra. Tuy nhiên, nếu thời gian giãn cách với liều tiếp theo quá ngắn thì bỏ qua liều đã quên và tiếp tục lịch dùng thuốc. Không dùng liều gấp đôi để bù cho liều đã bị bỏ lỡ.</p>",
+      "referenceSource": "<p dir=\"ltr\">Tham khảo thông tin tờ hướng dẫn sử dụng thuốc.</p>",
+      "adverseEffect": "<p>Tác dụng không mong muốn:</p><p>Các phản ứng có hại được phân nhóm theo tần suất: Rất thường gặp (ADR ≥ 1/10), thường gặp (1/100 ≤ ADR &lt; 1/10), ít gặp (1/1.000 ≤ ADR &lt; 1/100), hiếm gặp (1/10.000 ≤ ADR &lt; 1/1.000), rất hiếm gặp (ADR &lt; 1/10.000); không thể ước lượng tần suất được liệt kê \"Chưa rõ tần suất\".</p><p>Tác dụng không mong muốn thường nhẹ và ít gặp.</p><p><i>Thường gặp</i></p><ul><li>Tiêu hóa: Rối loạn dạ dày hoặc ruột (đau bụng, táo bón, buồn nôn).</li><li>Gan: Tăng aminotransferase (liên quan đến liều).</li><li>Cơ xương: Đau lưng, tăng CPK.</li><li>Hô hấp: Bệnh hô hấp, viêm mũi.</li></ul><p><i>ĺt gặp</i></p><ul style=\"list-style-type:disc;\"><li>Hệ thần kinh trung ương: Nhức đầu.</li><li>Da: Nổi ban, nổi mày đay, ban không đặc hiệu.</li><li>Cơ xương: Rối loạn cơ bắp (ví dụ như đau cơ, viêm cơ, co thắt cơ bắp và yếu).</li><li>Máu: Creatinin huyết thanh tăng.</li></ul><p><i>Hiếm gặp</i></p><ul><li>Gan: Sỏi đường mật.</li><li>Sinh dục: Mất dục tính và liệt dương, giảm tinh trùng.</li><li>Máu: Giảm bạch cầu, giảm hemoglobin.</li><li>Rối loạn hệ thống miễn dịch: Quá mẫn.</li><li>Da và các rối loạn mô dưới da: Phản ứng với ánh sáng.</li></ul><p><i>Chưa rõ tần suất</i></p><ul><li>Rối loạn gan mật: Vàng da, biến chứng của sỏi mật (ví dụ như viêm túi mật, viêm đường mật, cơn sỏi mật).</li><li>Da và các rối loạn mô dưới da: Phản ứng da nghiêm trọng (ví dụ như hồng ban đa dạng, hội chứng Stevens-Johnson, hoại tử biểu bì nhiễm độc).</li><li>Rối loạn cơ: Tiêu cơ vân.</li></ul><p><i>Hướng dẫn cách xử trí ADR</i></p><p>Tạm ngừng dùng thuốc.</p><p>Thông báo cho bác sỹ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p dir=\"ltr\">Bảo quản ở nhiệt độ không quá 30<sup>o</sup>C trong bao bì gốc, tránh ẩm và tránh ánh sáng.</p>",
+      "usage": "<h3>Chỉ định</h3><p><a href=\"https://nhathuoclongchau.com.vn/thuoc/lipagim-200-agimexpharm-3-x10.html\">Thuốc Lipagim</a> chỉ định như một thuốc bổ sung cho chế độ ăn uống và các điều trị không dùng thuốc khác (ví dụ tập thể dục, giảm cân) trong những trường hợp sau:</p><ul><li>Điều trị <a href=\"https://nhathuoclongchau.com.vn/bai-viet/goc-thac-mac-tang-triglyceride-mau-don-thuan-la-gi.html\">tăng triglycerid máu</a> nặng có hoặc không có cholesterol HDL thấp.</li><li>Tăng lipid máu hỗn hợp khi statin bị chống chỉ định hoặc không dung nạp.</li><li>Tăng lipid máu hỗn hợp ở những bệnh nhân có nguy cơ tim mạch cao bổ sung cho statin khi triglycerid và cholesterol HDL không được kiểm soát đầy đủ.</li></ul><h3>Dược lực học</h3><p>Chưa có dữ liệu.</p><h3>Dược động học</h3><p>Chưa có dữ liệu.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p>Thuốc Lipagim chống chỉ định trong các trường hợp sau:</p><ul><li>Quá mẫn với fenofibrat hoặc bất kỳ thành phần nào của thuốc.</li><li>Rối loạn chức năng thận nặng.</li><li>Rối loạn chức năng gan, bao gồm xơ gan mật và bất thường chức năng gan dai dằng không giải thích được.</li><li>Bệnh nhân viêm tụy cấp hoặc mạn tính ngoại trừ viêm tụy cấp do tăng triglycerid máu nặng.</li><li>Tiền sử bệnh túi mật.</li><li>Có phản ứng dị ứng ánh sáng khi điều trị với fibrat hoặc ketoprofen.</li><li>Trẻ em dưới 18 tuổi.</li><li>Phụ nữ có thai và cho con bú.</li><li>Phối hợp với các statin trên những bệnh nhân có nguy cơ bị bệnh cơ.</li></ul><h3>Thận trọng khi sử dụng</h3><p>Tăng aminotransferase huyết thanh (AST, ALT) vượt qua 3 lần mức bình thường được thông báo ở khoảng 3% người bệnh dùng fenofibrat. Viêm gan hoạt động mạn tính và viêm gan ứ mật xảy ra sớm sau vài tuần hoặc xảy ra muộn sau vài năm kể từ khi bắt đầu dùng fenofibrat, xơ gan kết hợp với viêm gan hoạt động mạn tính cũng được thông báo ở một số hiếm trường hợp. Phải theo dõi chức năng gan định kỳ (3 tháng một lần) trong 12 tháng đầu điều trị. Nếu nồng độ aminotransferase huyết thanh vượt quá 3 lần mức bình thường thì phải ngừng điều trị fenofibrat.</p><p>Fenofibrat, cũng như các dẫn chất acid fibric khác (như gemfibrozil) có thể làm tăng bài xuất cholesterol vào mật, dẫn đến bệnh sỏi mật. Nếu kiểm tra túi mật thấy có sỏi thì phải ngừng fenofibrat.</p><p>Viêm cơ, bệnh cơ và/hoặc tiêu cơ vân đã được thông báo ở người dùng fenofibrat hoặc các dẫn chất acid fibric khác. Tiêu cơ vân và các biến chứng khác cũng đã được thông báo ở người bệnh dùng fenofibrat cùng với một số thuốc hạ lipid khác, ví dụ các statin (các chất ức chế HMG-CoA Reductase). Các bệnh nhân dùng fenofibrat phải được hướng dẫn báo cáo ngay khi thấy đau cơ không rõ nguyên nhân, hoặc nhạy cảm đau, yếu, đặc biệt nếu kèm khó ở hoặc sốt. Phải theo dõi định kỳ enzym creatin kinase (CK hoặc CPK) ở những bệnh nhân có những tác dụng phụ đó. Phải ngừng điều trị fenofibrat, nếu CPK huyết thanh tăng cao rõ rệt hoặc nghi ngờ hoặc chẩn đoán là viêm cơ hoặc bệnh cơ.</p><p>Một số hiếm trường hợp ban da nặng phải nhập viện và dùng liệu pháp corticosteroid, bao gồm hội chứng Stevens-Johnson và hoại tử biểu bì nhiễm độc đã được thông báo khi dùng fenofibrat. Mày đay và ban da cũng đã được thông báo ở khoảng 1% người bệnh dùng liệu pháp fenofibrat.</p><p>Đã từng gây viêm tụy ở người bệnh điều trị bằng fenofibrat hoặc các dẫn chất acid fibric khác.</p><p>Giảm nhẹ và vừa hemoglobin, hematocrit và bạch cầu đã gặp ở người bệnh dùng fenofibrat. Những thông số này thường trở về bình thường trong quá trình điều trị dài hạn. Đã gặp một số hiếm trường hợp giảm tiểu cầu và mất bạch cầu hạt trong các đợt kiểm tra khi thuốc đã được bán ra thị trường. Cần phải định kỳ đếm huyết cầu trong 12 tháng đầu điều trị với fenofibrat.</p><p>Ảnh hưởng của fenofibrat đến tỷ lệ mắc bệnh và tỷ lệ tử vong do tim mạch hoặc không do tim mạch chưa được xác định. Tuy nhiên vì fenofibrat về mặt hóa học, dược lý và lâm sàng đều giống các dẫn xuất acid fibric khác, một số tác dụng không mong muốn của clofibrat (hiện không còn bán trên thị trường) và của gemfibrozil, ví dụ tăng tỷ lệ sỏi mật, viêm túi mật cần phải mổ, biến chứng sau cắt bỏ túi mật, ung thư, viêm tụy, cắt bỏ ruột thừa, bệnh túi mật và tăng tử vong toàn bộ có thể cũng xảy ra với fenofibrat. Như vậy, các điều thận trọng liên quan đến liệu pháp fibrat cần được theo dõi.</p><p>Tính an toàn và hiệu quả của fenofibrat chưa được xác định ở trẻ em dưới 18 tuổi.</p><h3>Ảnh hưởng của thuốc lên khả năng lái xe và vận hành máy móc</h3><p>Chưa có bằng chứng về ảnh hưởng của thuốc lên khả năng lái xe, vận hành máy móc.</p><h3>Sử dụng thuốc cho phụ nữ trong thời kỳ mang thai và cho con bú</h3><p><strong>Thời kỳ có thai:</strong></p><p>Không nên dùng trong thời kỳ mang thai do không có dữ liệu về sử dụng thuốc trên phụ nữ có thai, chỉ nên dùng thuốc nếu lợi ích vượt trội so với nguy cơ.</p><p>Phụ nữ có khả năng mang thai hoặc đang sử dụng các biện pháp tránh thai hoặc đang mang thai nên tham khảo ý kiến bác sỹ cẩn thận trước khi điều trị với thuốc này.</p><p>Không có thông tin về độc tính trên thai nhi.</p><p><strong>Thời kỳ cho con bú:</strong></p><p>Không có dữ liệu. Tuy nhiên, vì an toàn, không nên dùng cho người cho con bú.</p><h3>Tương tác thuốc</h3><p>Tương tác của thuốc với các thuốc khác và các loại tương tác khác:</p><p>Dùng kết hợp các thuốc ức chế HMG CoA reductase (ví dụ: Pravastatin, simvastatin, fluvastatin) và fibrat sẽ làm tăng đáng kể nguy cơ tổn thương cơ (như tăng creatin kinase, myoglobin niệu, tiêu cơ vân).</p><p>Kết hợp fibrat với cyclosporin làm tăng nguy cơ độc tính thận do cyclosporin.</p><p>Fenofibrat làm tăng tác dụng của các thuốc uống chống đông nên làm tăng nguy cơ chảy máu do đẩy các thuốc này ra khỏi vị trí gắn với protein huyết tương. Cần theo dõi lượng prothrombin thường xuyên hơn và điều chỉnh liều thuốc chống đông uống trong suốt</p><p>thời gian điều trị bằng fenofibrat và sau khi ngừng thuốc 8 ngày.</p><p>Các resin tạo phức với acid mật:</p><p>Vì các resin tạo phức với acid mật có thể liên kết các thuốc khác được dùng đồng thời,</p><p>bệnh nhân nên dùng fenofibrat ít nhất 1 giờ trước hoặc 4 đến 6 giờ sau khi dùng resin</p><p>tạo phức với acid mật để tránh cản trở sự hấp thụ của thuốc.</p><p><i>Colchicin:</i></p><p>Các trường hợp bệnh cơ, bao gồm tiêu cơ vân, đã được báo cáo khi dùng fenofibrat cùng lúc với colchicin, cần thận trọng khi kê đơn fenofibrat với colchicin.</p><p><i>Các glitazon:</i></p><p>Một số trường hợp giảm nghịch lý có hồi phục cholesterol HDL đã được báo cáo trong thời gian sử dụng fenofibrat cùng lúc với glitazon. Do đó, cần theo dõi cholesterol HDL nếu một trong những thành phần này được bổ sung vào thuốc kia và ngừng một trong hai liệu pháp nếu cholesterol HDL quá thấp.</p><p><i>Các thuốc tác động đến enzym cytochrom P450:</i></p><p>Các nghiên cứu in vitro sử dụng microsom của gan người cho thấy fenofibrat và fenofibric acid không phải là chất ức chế cytochrom (CYP) P450 các isoform CYP3A4, CYP2D6, CYP2E1 hoặc CYP1A2. Chúng là những chất ức chế yếu CYP2C19 và CYP2A6, và chất ức chế từ nhẹ đến trung bình CYP2C9 ở các nồng độ điều trị.</p><p>Bệnh nhân dùng đồng thời fenofibrat và các thuốc được chuyển hóa qua CYP2C19, CYP2A6 và đặc biệt là CYP2C9 với chỉ số điều trị hẹp cần được theo dõi cẩn thận và nếu cần thiết thì nên điều chỉnh liều các thuốc này.</p><p><i>Khác:</i></p><p>Không có sự tương tác lâm sàng nào được chứng minh giữa fenofibrat với các thuốc khác được báo cáo, mặc dù các nghiên cứu tương tác in vitro cho thấy sự dịch chuyển phenylbutazon từ các vị trí gắn kết protein huyết tương. Tương tự với các fibrat khác, fenofibrat làm tăng các men oxy hóa đa chức năng của ti thể liên quan đến chuyển hóa acid béo ở loài gặm nhấm và có thể tương tác với các thuốc được chuyển hóa bởi các enzym này.</p><p><strong>Tương kỵ của thuốc:</strong></p><p>Do không có các nghiên cứu về tính tương kỵ của thuốc, không trộn lẫn thuốc này với các thuốc khác.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Ngô Kim Thúy",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp loại giỏi trường Đại học Y Dược Huế. Từng tham gia nghiên cứu khoa học đề tài về Dược liệu. Nhiều năm kinh nghiệm làm việc trong lĩnh vực Dược phẩm. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-ngo-kim-thuy",
+        "isLegit": true,
+        "id": 9,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Nguyen_Kim_Thuy_ea92026f36.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Lipagim 200 điều trị tăng triglycerid máu (3 vỉ x 10 viên)",
+        "metaDescription": "Thuốc Lipagim bổ sung cho chế độ ăn uống và các điều trị không dùng thuốc khác trong những trường hợp sau: Điều trị tăng triglycerid máu, tăng lipid máu.",
+        "id": 44173,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_lipagim_200_agimexpharm_3x10_00039479_46ae8cca88.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên)",
+            "description": "Thuốc Lipagim là sản phẩm của Công ty Cổ phần Dược phẩm Agimexpharm chứa hoạt chất Fenofibrate được chỉ định như một thuốc bổ sung cho chế độ ăn uống và các điều trị không dùng thuốc khác (ví dụ tập thể dục, giảm cân) trong những trường hợp sau: Điều trị tăng triglycerid máu, tăng lipid máu."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 27406,
+        "title": "Thuốc Lipagim 200 dùng được cho bệnh nhân suy gan hay không?",
+        "content": "<p>Thuốc Lipagim 200 không khuyến cáo sử dụng ở bệnh nhân suy gan.</p>"
+      },
+      {
+        "id": 27405,
+        "title": "Phụ nữ có thai và cho con bú có dùng thuốc Lipagim 200 được hay không?",
+        "content": "<p>Phụ nữ có khả năng mang thai hoặc đang sử dụng các biện pháp tránh thai hoặc đang mang thai nên tham khảo ý kiến bác sỹ cẩn thận trước khi điều trị với thuốc Lipagim 200.</p>"
+      },
+      {
+        "id": 27404,
+        "title": "Thuốc Lipagim 200 có dùng được cho trẻ em dưới 18 tuổi hay không?",
+        "content": "<p>An toàn và hiệu quả khi sử dụng thuốc cho trẻ em dưới 18 tuổi chưa được xác định rõ, vì vậy không khuyến cáo sử dụng thuốc Lipagim 200 cho trẻ em dưới 18 tuổi.</p>"
+      },
+      {
+        "id": 27403,
+        "title": "Thuốc Lipagim 200 nên uống trước hay sau bữa ăn?",
+        "content": "<p>Thuốc Lipagim 200 nên uống nguyên viên thuốc với nước cùng với bữa ăn và phối hợp với chế độ ăn hạn chế lipid.</p>"
+      },
+      {
+        "id": 27402,
+        "title": "Thuốc Lipagim 200 được sử dụng để điều trị những bệnh gì?",
+        "content": "<p>Thuốc Lipagim 200 được sử dụng để điều trị như một thuốc bổ sung cho chế độ ăn uống và các điều trị không dùng thuốc khác (ví dụ tập thể dục, giảm cân) trong những trường hợp sau:</p><ul><li>Điều trị tăng triglycerid máu nặng có hoặc không có cholesterol HDL thấp.</li><li>Tăng lipid máu hỗn hợp khi statin bị chống chỉ định hoặc không dung nạp.</li><li>Tăng lipid máu hỗn hợp ở những bệnh nhân có nguy cơ tim mạch cao bổ sung cho statin khi triglycerid và cholesterol HDL không được kiểm soát đầy đủ.</li></ul>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00020609",
+        "name": "HAMOV VẠN XUÂN 10X10",
+        "webName": "Thuốc Hamov Vạn Xuân hỗ trợ điều trị chứng tăng mỡ máu (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00020609_hamov_van_xuan_10x10_3256_5d31_large_37ac0e8a4a.png",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 814,
+            "name": "Thuốc trị mỡ máu",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 25596,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 87000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/hamov-van-xuan-10x10-20850.html",
+        "ingredients": "Nghệ vàng 150mg, Hoa Hòe 150mg, Ngưu tất (Rễ) 150mg, Bạch truật ",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Vạn Xuân",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 10 vỉ x 10 viên",
+        "prices": [
+          {
+            "id": 25594,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 870,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 25596,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 87000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 25595,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 8700,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00020310",
+        "name": "GARLICAP OPC 5X10 VIÊN TỎI-NGHỆ",
+        "webName": "Viên tỏi nghệ Garlicap OPC hạ cholesterol và triglycerid máu (5 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00020310_garlicap_462mg_opc_5x10_vien_nghe_toi_9086_60a3_large_5a6ea7da16.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 737,
+            "name": "Thuốc tim mạch & máu",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-tim-mach-and-mau",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 814,
+            "name": "Thuốc trị mỡ máu",
+            "parentName": "Thuốc tim mạch & máu",
+            "slug": "thuoc/thuoc-tim-mach-and-mau/thuoc-tri-mo-mau",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 24998,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 878,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/garlicap-462mg-opc-5x10-vien-nghe-toi-20901.html",
+        "ingredients": "Tỏi 462mg, Nghệ 12mg",
+        "dosageForm": "Viên nang cứng",
+        "brand": "Opc",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 5 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 24998,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 878,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 25000,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 43900,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 24999,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 8780,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 7,
+      "items": [
+        {
+          "id": 3347564,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0980xxxxxx",
+          "name": "như thới",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá 1 hộp",
+          "createdAt": "2026-07-28 15:21:45",
+          "createdAtDisplay": "1 tháng trước",
+          "updatedAt": "2026-07-28 15:21:45",
+          "replies": [
+            {
+              "id": 3347569,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Chu Thị Quỳnh",
+                "moderatorEmail": "quynhct2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Chu Thị Quỳnh",
+              "email": "quynhct2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Chị Như Thới,</p><p>Hiện tại,Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên) có giá 55,000 đ/hộp.</p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại&nbsp;<u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u>&nbsp;<u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO&nbsp;</a></u><strong><u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">OA Nhà thuốc FPT Long Châu</a></u></strong>&nbsp;để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-07-28 15:22:51",
+              "createdAtDisplay": "1 tháng trước",
+              "updatedAt": "2026-07-28 15:21:45",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3271643,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0949xxxxxx",
+          "name": "Yến Phượng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Tham khảo giá",
+          "createdAt": "2026-03-10 15:52:57",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-10 15:52:57",
+          "replies": [
+            {
+              "id": 3271655,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Lê Thị Tuyết Nhi",
+                "moderatorEmail": "nhiltt17@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Lê Thị Tuyết Nhi",
+              "email": "nhiltt17@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Yến Phượng</p><p>Hiện tại, sản phẩm Lipagim 200 Agimexpharm có giá <strong>55,000đ/ hộp</strong></p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-03-10 16:04:31",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-10 15:52:57",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3203215,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0788xxxxxx",
+          "name": "Trang",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "xin giá ạ",
+          "createdAt": "2025-10-27 19:50:15",
+          "createdAtDisplay": "10 tháng trước",
+          "updatedAt": "2025-10-27 19:49:56",
+          "replies": [
+            {
+              "id": 3203218,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Ngọc Châu",
+                "moderatorEmail": "chauntn9@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Ngọc Châu",
+              "email": "chauntn9@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn <strong>Trang,</strong></p><p>Hiện tại, sản phẩm có giá 55,000 ₫/hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p><br></p>",
+              "createdAt": "2025-10-27 19:54:05",
+              "createdAtDisplay": "10 tháng trước",
+              "updatedAt": "2025-10-27 19:49:56",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3152508,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0352xxxxxx",
+          "name": "lan",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "1h giá nhiêu",
+          "createdAt": "2025-07-29 09:24:17",
+          "createdAtDisplay": "29/07/2025",
+          "updatedAt": "2025-07-29 09:23:59",
+          "replies": [
+            {
+              "id": 3152512,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trần Thị Khánh Huyền",
+                "moderatorEmail": "huyenttk13@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trần Thị Khánh Huyền",
+              "email": "huyenttk13@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn lan</p><p>Hiện tại, sản phẩm có giá 55,000 ₫/hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p>",
+              "createdAt": "2025-07-29 09:26:33",
+              "createdAtDisplay": "29/07/2025",
+              "updatedAt": "2025-07-29 09:23:59",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3082575,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0859xxxxxx",
+          "name": "Yến Trần",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Thanh Trì có hàng ko ạ",
+          "createdAt": "2025-04-04 17:38:36",
+          "createdAtDisplay": "04/04/2025",
+          "updatedAt": "2025-04-04 17:38:36",
+          "replies": [
+            {
+              "id": 3082576,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Anh Mac Thi Tuyet ",
+                "moderatorEmail": "anhmtt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Anh Mac Thi Tuyet ",
+              "email": "anhmtt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Yến Trần,</p><p>Dạ sản phẩm còn hàng trên hệ thống.</p><p>Dạ sẽ có tư vấn viên nhà thuốc Long Châu liên hệ theo SĐT bạn đã để lại ạ.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-04-04 17:39:28",
+              "createdAtDisplay": "04/04/2025",
+              "updatedAt": "2025-04-04 17:38:36",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_lipagim_200_agimexpharm_3x10_00039479_46ae8cca88.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09706_67d7e2cbeb.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09708_c3fb0ebf2a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09709_bb4ce9be84.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09710_50d99e9003.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09711_f358b6ee1a.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09713_e4062f1862.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_09714_05fd8b778c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Lipagim_200_1_086bf8c2d1.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Lipagim_200_2_c6f6f8db52.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Lipagim_200_3_e627438b1c.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Lipagim_200_4_8f882e26c0.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Lipagim là sản phẩm của Công ty Cổ phần Dược phẩm Agimexpharm chứa hoạt chất Fenofibrate được chỉ định như một thuốc bổ sung cho chế độ ăn uống và các điều trị không dùng thuốc khác (ví dụ tập thể dục, giảm cân) trong những trường hợp sau: Điều trị tăng triglycerid máu, tăng lipid máu.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ngô Kim Thúy"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Lipagim 200 điều trị tăng triglycerid máu (3 vỉ x 10 viên)",
+      "description": "Thuốc Lipagim bổ sung cho chế độ ăn uống và các điều trị không dùng thuốc khác trong những trường hợp sau: Điều trị tăng triglycerid máu, tăng lipid máu.",
+      "openGraph": {
+        "title": "Thuốc Lipagim 200 Agimexpharm bổ sung cho chế độ ăn uống, điều trị tăng triglycerid máu (3 vỉ x 10 viên)",
+        "description": "Thuốc Lipagim là sản phẩm của Công ty Cổ phần Dược phẩm Agimexpharm chứa hoạt chất Fenofibrate được chỉ định như một thuốc bổ sung cho chế độ ăn uống và các điều trị không dùng thuốc khác (ví dụ tập thể dục, giảm cân) trong những trường hợp sau: Điều trị tăng triglycerid máu, tăng lipid máu.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/thuoc_lipagim_200_agimexpharm_3x10_00039479_46ae8cca88.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/lipagim-200-agimexpharm-3-x10.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/lipagim-200-agimexpharm-3-x10.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

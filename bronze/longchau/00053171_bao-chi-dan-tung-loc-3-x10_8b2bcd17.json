@@ -1,0 +1,921 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/bao-chi-dan-tung-loc-3-x10.html",
+  "ingestion_timestamp": "2026-09-05T08:49:42.216677+00:00",
+  "file_hash": "07d22ed21bfcb16c108181fd45877d70bea955168d7a4e1348ae1a04fcfe25c9",
+  "lineage_hash": "80458a9c937a812d2345960f4aa653c6210c06675bd4752bfee836c3c4e5153d",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/bao-chi-dan-tung-loc-3-x10.html",
+    "product": {
+      "sku": "00053171",
+      "webName": "Thuốc Bảo chi đan Tùng lộc điều trị chứng ra mồ hôi tay (3 vỉ x 10 viên)",
+      "name": "BẢO CHI ĐAN TÙNG LỘC 3X10",
+      "shortName": "BẢO CHI ĐAN TÙNG LỘC 3X10",
+      "headingText": "Thuốc Bảo Chi Đan",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_1_382664ddea.jpg",
+        "alternativeText": ""
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_2_9f83855738.jpg",
+          "alternativeText": ""
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_3_943a630242.jpg",
+          "alternativeText": ""
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_4_15b91f52a9.jpg",
+          "alternativeText": ""
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_5_a7d1d9ce98.jpg",
+          "alternativeText": ""
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 733,
+          "name": "Thuốc hệ thần kinh",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-than-kinh",
+          "level": 2,
+          "isActive": false
+        },
+        {
+          "id": 798,
+          "name": "Thuốc thần kinh",
+          "parentName": "Thuốc hệ thần kinh",
+          "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+          "level": 3,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": 180000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": 60000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 6000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/bao-chi-dan-tung-loc-3-x10.html",
+      "ingredient": [
+        {
+          "id": 83357,
+          "ingredientId": 10138,
+          "shortDescription": "800mg",
+          "name": "Bạch truật",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 83358,
+          "ingredientId": 22473,
+          "shortDescription": "160mg",
+          "name": "Hoạt thạch",
+          "isPrimary": false,
+          "slug": "thanh-phan/hoat-thach"
+        },
+        {
+          "id": 83359,
+          "ingredientId": 35335,
+          "shortDescription": "160mg",
+          "name": "Sài Hồ",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 83360,
+          "ingredientId": 43304,
+          "shortDescription": "400mg",
+          "name": "Bán hạ",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 83361,
+          "ingredientId": 24618,
+          "shortDescription": "160mg",
+          "name": "Khương hoạt",
+          "isPrimary": false,
+          "slug": ""
+        },
+        {
+          "id": 83362,
+          "ingredientId": 38062,
+          "shortDescription": "160mg",
+          "name": "Thăng ma",
+          "isPrimary": false,
+          "slug": "thanh-phan/thang-ma"
+        },
+        {
+          "id": 83363,
+          "ingredientId": 12473,
+          "shortDescription": "160mg",
+          "name": "Cam thảo",
+          "isPrimary": false,
+          "slug": "thanh-phan/cam-thao"
+        },
+        {
+          "id": 83364,
+          "ingredientId": 32516,
+          "shortDescription": "400mg",
+          "name": "Phục Linh",
+          "isPrimary": false,
+          "slug": "thanh-phan/phuc-linh"
+        },
+        {
+          "id": 83365,
+          "ingredientId": 22441,
+          "shortDescription": "400mg",
+          "name": "Hoàng liên",
+          "isPrimary": false,
+          "slug": ""
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "VD-26543-17",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nang cứng",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc Bảo Chi Đan dùng đường uống, uống trước khi ăn khoảng 60 phút.</p><h3>Liều dùng</h3><p>Trẻ em từ 12 tuổi và người lớn: Uống ngày 3 lần, mỗi lần 3 - 4 viên.</p><p>Trẻ từ 6 - 12 tuổi: Uống ngày 3 lần, mỗi lần 1 - 2 viên.</p><p>Mỗi đợt dùng từ 5 đến 10 tuần hoặc theo chỉ định của thầy thuốc.</p><h3>Làm gì khi quá liều?</h3><p>Không có dữ liệu về việc sử dụng quá liều. Không dùng quá liều chỉ định của thuốc. Khi đã sử dụng quá liều cần theo dõi, nếu có dấu hiệu bất thường báo ngay cho bác sỹ hoặc dược sỹ.</p><h3>Làm gì khi quên liều?</h3><p>Không dùng gấp đôi liều bỏ lỡ.</p><p>Mọi thông tin chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc Bảo Chi Đan chỉ định để điều trị chứng ra mồ hôi ở tay.</p><h3>Dược lực học</h3><p>Thanh nhiệt trừ thấp, kiện tỳ, liễm hãn.</p>",
+      "brand": "TÙNG LỘC",
+      "brandType": null,
+      "adverseEffect": "<p>Thông báo ngay cho bác sỹ hoặc dược sỹ những phản ứng có hại gặp phải khi sử dụng thuốc.</p>",
+      "specification": "Hộp 3 Vỉ x 10 Viên",
+      "indications": [],
+      "brandOrigin": "Việt Nam",
+      "producer": "CÔNG TY CP DƯỢC QUỐC TẾ TÙNG LỘC",
+      "shortDescription": "<p>Thuốc Bảo Chi Đan chứa cao đặc tổng hợp từ các dược liệu, giúp thanh nhiệt trừ thấp, kiện tỳ, được chỉ định để điều trị chứng ra mồ hôi ở tay.</p>",
+      "description": "",
+      "prescription": false,
+      "ageUse": "Từ 6 tuổi trở lên",
+      "objectUse": [
+        "Trẻ em",
+        "Người lớn"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai"
+      ],
+      "specialFeatures": [],
+      "displayCode": 1,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": false,
+      "brandSlug": "thuong-hieu/tung-loc",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "TÙNG LỘC BẢO CHI ĐAN",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "VERTICAL",
+      "guideline": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_9da703ee4f.pdf",
+        "alternativeText": null,
+        "caption": null,
+        "ext": ".pdf",
+        "mime": "application/pdf",
+        "name": "bao chi dan.pdf",
+        "hash": "bao_chi_dan_9da703ee4f"
+      },
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": 6000,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 798,
+        "name": "Thuốc thần kinh",
+        "parentName": "Thuốc hệ thần kinh",
+        "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+        "level": 3,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_1_382664ddea.jpg",
+          "alternativeText": "Thuốc Bảo chi đan Tùng lộc điều trị chứng ra mồ hôi tay (3 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_2_9f83855738.jpg",
+          "alternativeText": "Thuốc Bảo chi đan Tùng lộc điều trị chứng ra mồ hôi tay (3 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_3_943a630242.jpg",
+          "alternativeText": "Thuốc Bảo chi đan Tùng lộc điều trị chứng ra mồ hôi tay (3 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_4_15b91f52a9.jpg",
+          "alternativeText": "Thuốc Bảo chi đan Tùng lộc điều trị chứng ra mồ hôi tay (3 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_5_a7d1d9ce98.jpg",
+          "alternativeText": "Thuốc Bảo chi đan Tùng lộc điều trị chứng ra mồ hôi tay (3 vỉ x 10 viên) 5"
+        }
+      ]
+    },
+    "initPromotionPrices": [
+      {
+        "discountPrice": 0,
+        "finalPrice": 180000,
+        "itemCode": "00053171",
+        "unitCode": 1,
+        "maxValue": 0,
+        "price": 180000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 60000,
+        "itemCode": "00053171",
+        "unitCode": 13,
+        "maxValue": 0,
+        "price": 60000,
+        "promotionTags": []
+      },
+      {
+        "discountPrice": 0,
+        "finalPrice": 6000,
+        "itemCode": "00053171",
+        "unitCode": 8,
+        "maxValue": 0,
+        "price": 6000,
+        "promotionTags": []
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc hệ thần kinh",
+        "slug": "/thuoc/thuoc-than-kinh"
+      },
+      {
+        "name": "Thuốc thần kinh",
+        "slug": "/thuoc/thuoc-than-kinh/thuoc-than-kinh"
+      }
+    ],
+    "content": {
+      "sku": "00053171",
+      "dosage": "<h3>Cách dùng</h3><p>Thuốc Bảo Chi Đan dùng đường uống, uống trước khi ăn khoảng 60 phút.</p><h3>Liều dùng</h3><p>Trẻ em từ 12 tuổi và người lớn: Uống ngày 3 lần, mỗi lần 3 - 4 viên.</p><p>Trẻ từ 6 - 12 tuổi: Uống ngày 3 lần, mỗi lần 1 - 2 viên.</p><p>Mỗi đợt dùng từ 5 đến 10 tuần hoặc theo chỉ định của thầy thuốc.</p><h3>Làm gì khi quá liều?</h3><p>Không có dữ liệu về việc sử dụng quá liều. Không dùng quá liều chỉ định của thuốc. Khi đã sử dụng quá liều cần theo dõi, nếu có dấu hiệu bất thường báo ngay cho bác sỹ hoặc dược sỹ.</p><h3>Làm gì khi quên liều?</h3><p>Không dùng gấp đôi liều bỏ lỡ.</p><p>Mọi thông tin chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.</p>",
+      "referenceSource": "",
+      "adverseEffect": "<p>Thông báo ngay cho bác sỹ hoặc dược sỹ những phản ứng có hại gặp phải khi sử dụng thuốc.</p>",
+      "preservation": "<p>Nơi khô ráo, tránh ánh sáng, nhiệt độ không quá 30°C.</p>",
+      "usage": "<h3>Chỉ định</h3><p>Thuốc Bảo Chi Đan chỉ định để điều trị chứng ra mồ hôi ở tay.</p><h3>Dược lực học</h3><p>Thanh nhiệt trừ thấp, kiện tỳ, liễm hãn.</p>",
+      "ingredient": "",
+      "careful": "<h3>Chống chỉ định</h3><p>Thuốc Bảo Chi Đan chống chỉ định trong các trường hợp sau:</p><ul><li>Mẫn cảm với bất kỳ thành phần nào của thuốc.</li></ul><h3>Thận trọng khi sử dụng</h3><p>Phụ nữ có thai.</p><p>Không dùng quá liều chỉ định.</p><h3>Khả năng lái xe và vận hành máy móc</h3><p>Chưa có bằng chứng về ảnh hưởng của thuốc lên khả năng lái xe và vận hành máy móc.</p><h3>Thời kỳ mang thai</h3><p>Chưa có nghiên cứu về ảnh hưởng của thuốc đối với người có thai và cho con bú, thận trọng khi dùng, chỉ dùng khi lợi ích vượt trội nguy cơ.</p><h3>Thời kỳ cho con bú</h3><p>Chưa có nghiên cứu về ảnh hưởng của thuốc đối với người có thai và cho con bú, thận trọng khi dùng, chỉ dùng khi lợi ích vượt trội nguy cơ.</p><h3>Tương tác thuốc</h3><p>Cho đến hiện tại, không có tương tác nào được biết đến.</p><p><i>Tương kỵ của thuốc: </i>Do không có các nghiên cứu về tính tương kỵ của thuốc, không trộn lẫn thuốc này với các thuốc khác.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Ngô Kim Thúy",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Tốt nghiệp loại giỏi trường Đại học Y Dược Huế. Từng tham gia nghiên cứu khoa học đề tài về Dược liệu. Nhiều năm kinh nghiệm làm việc trong lĩnh vực Dược phẩm. Hiện đang là giảng viên cho Dược sĩ tại Nhà thuốc Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-ngo-kim-thuy",
+        "isLegit": true,
+        "id": 9,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/Nguyen_Kim_Thuy_ea92026f36.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_1_382664ddea.jpg",
+              "alternativeText": ""
+            },
+            "title": "Thuốc Bảo chi đan Tùng lộc điều trị chứng ra mồ hôi tay (3 vỉ x 10 viên)",
+            "description": "Thuốc Bảo Chi Đan chứa cao đặc tổng hợp từ các dược liệu, giúp thanh nhiệt trừ thấp, kiện tỳ, được chỉ định để điều trị chứng ra mồ hôi ở tay."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 41343,
+        "title": "Thuốc Bảo Chi Đan được chỉ định trong trường hợp nào?",
+        "content": "<p>Thuốc Bảo Chi Đan chứa cao đặc tổng hợp từ các dược liệu, giúp thanh nhiệt trừ thấp, kiện tỳ, được chỉ định để điều trị chứng ra mồ hôi ở tay.</p>"
+      },
+      {
+        "id": 41340,
+        "title": "Viên uống Bảo Chi Đan có dùng được cho trẻ em không?",
+        "content": "<p>Bảo Chi Đan được chỉ định cho trẻ em từ 6 tuổi trở lên.</p>"
+      },
+      {
+        "id": 41341,
+        "title": "Uống thuốc Bảo Chi Đan trong bao lâu để thấy hiệu quả với tình trạng mồ hôi tay?",
+        "content": "<p>Theo hướng dẫn, mỗi đợt sử dụng Bảo Chi Đan kéo dài từ 5 đến 10 tuần hoặc theo chỉ định cụ thể của thầy thuốc. Kiên trì sử dụng đủ liệu trình là yếu tố quan trọng để sản phẩm phát huy tác dụng thanh nhiệt, kiện tỳ và giảm tiết mồ hôi.</p>"
+      },
+      {
+        "id": 41342,
+        "title": "Phụ nữ có thai có sử dụng được Bảo Chi Đan không?",
+        "content": "<p>Cần thận trọng khi sử dụng Bảo Chi Đan cho phụ nữ có thai. Cần tham khảo ý kiến bác sĩ trước khi sử dụng.</p>"
+      },
+      {
+        "id": 41344,
+        "title": "Có thể dùng chung Bảo Chi Đan với các loại thuốc khác đang điều trị bệnh khác không?",
+        "content": "<p>Cho đến hiện tại, không có tương tác nào của Bảo Chi Đan với các thuốc khác được biết đến. Tuy nhiên, do chưa có các nghiên cứu về tính tương kỵ, không nên tự ý trộn lẫn thuốc này với các thuốc khác. Để đảm bảo an toàn, hãy thông báo cho bác sĩ về tất cả các loại thuốc đang sử dụng.</p>"
+      }
+    ],
+    "relatedProducts": [
+      {
+        "sku": "00501102",
+        "name": "CHỐNG SAY TÀU XE MOMVINA HADIPHAR 25X4",
+        "webName": "Thuốc chống say tàu xe Momvina Hadiphar điều trị chứng buồn nôn, nôn, chóng mặt (25 vỉ x 4 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_02663_072b3867e3.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 733,
+            "name": "Thuốc hệ thần kinh",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-than-kinh",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 798,
+            "name": "Thuốc thần kinh",
+            "parentName": "Thuốc hệ thần kinh",
+            "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 49787,
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": true,
+          "price": 91000,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/thuoc-chong-say-tau-xe-momvina-hadiphar-hop-25-vi-x-4-vien-35248.html",
+        "ingredients": "Dimenhydrinate 50mg",
+        "dosageForm": "Viên nén",
+        "brand": "Hadiphar",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 80,
+        "productRanking": 0,
+        "specification": "Hộp 25 Vỉ x 4 Viên",
+        "prices": [
+          {
+            "id": 49785,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": false,
+            "price": 910,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 49786,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 3640,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          },
+          {
+            "id": 49787,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": true,
+            "price": 91000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 268,
+          "attributeName": "Việt Nam",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      },
+      {
+        "sku": "00029346",
+        "name": "TEBURAP 120MG DONGKOO 10X10",
+        "webName": "Viên nang mềm Teburap 120mg Dongkoo điều trị rối loạn tuần hoàn ngoại biên (10 vỉ x 10 viên)",
+        "image": "https://cdn.nhathuoclongchau.com.vn/v1/static/00029346_teburap_120mg_dongkoo_10x10_5076_60af_large_2712737258.jpg",
+        "category": [
+          {
+            "id": 1,
+            "name": "Thuốc",
+            "parentName": null,
+            "slug": "thuoc",
+            "level": 1,
+            "isActive": true
+          },
+          {
+            "id": 733,
+            "name": "Thuốc hệ thần kinh",
+            "parentName": "Thuốc",
+            "slug": "thuoc/thuoc-than-kinh",
+            "level": 2,
+            "isActive": true
+          },
+          {
+            "id": 798,
+            "name": "Thuốc thần kinh",
+            "parentName": "Thuốc hệ thần kinh",
+            "slug": "thuoc/thuoc-than-kinh/thuoc-than-kinh",
+            "level": 3,
+            "isActive": true
+          }
+        ],
+        "price": {
+          "id": 37750,
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": 6400,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true
+        },
+        "slug": "thuoc/teburap-120mg-dongkoo-10x10-29782.html",
+        "ingredients": "Ginkgo biloba leaf extract 120mg",
+        "dosageForm": "Viên nang mềm",
+        "brand": "Dongkoo",
+        "displayCode": 1,
+        "isActive": true,
+        "isPublish": true,
+        "searchScoring": 50,
+        "productRanking": 0,
+        "specification": "Hộp 10 Vỉ x 10 Viên",
+        "prices": [
+          {
+            "id": 37750,
+            "measureUnitCode": 8,
+            "measureUnitName": "Viên",
+            "isSellDefault": true,
+            "price": 6400,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 3,
+            "productSpecs": null
+          },
+          {
+            "id": 37752,
+            "measureUnitCode": 1,
+            "measureUnitName": "Hộp",
+            "isSellDefault": false,
+            "price": 640000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 1,
+            "productSpecs": null
+          },
+          {
+            "id": 37751,
+            "measureUnitCode": 13,
+            "measureUnitName": "Vỉ",
+            "isSellDefault": false,
+            "price": 64000,
+            "currencySymbol": "đ",
+            "isDefault": true,
+            "isInventory": true,
+            "level": 2,
+            "productSpecs": null
+          }
+        ],
+        "brandOriginBadges": {
+          "id": 257,
+          "attributeName": "Hàn Quốc",
+          "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/Han_Quoc_760f524a89.png"
+        },
+        "badges": [],
+        "isComingSoon": false
+      }
+    ],
+    "initComment": {
+      "total": 1,
+      "items": [
+        {
+          "id": 3359671,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0833xxxxxx",
+          "name": "Anh Thắng",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Liệu trình dùng thuốc trong bao lâu",
+          "createdAt": "2026-08-18 15:15:17",
+          "createdAtDisplay": "18 ngày trước",
+          "updatedAt": "2026-08-18 15:15:17",
+          "replies": [],
+          "totalReplies": 0
+        }
+      ]
+    },
+    "initReview": {
+      "total": 3,
+      "items": [
+        {
+          "id": 3361416,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0964xxxxxx",
+          "name": "a nguyện",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "sản phẩm chất lượng",
+          "createdAt": "2026-08-21 12:04:24",
+          "createdAtDisplay": "15 ngày trước",
+          "updatedAt": "2026-08-21 12:04:24",
+          "replies": [
+            {
+              "id": 3361428,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Phạm Thị Luyến",
+                "moderatorEmail": "luyenpt3@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Phạm Thị Luyến",
+              "email": "luyenpt3@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Anh Nguyện ạ,</p><p>Dược sĩ Long Châu rất vui khi nhận được phản hồi tích cực của Anh về hiệu quả sản phẩm Bảo chi đan Tùng Lộc ạ. Sản phẩm hỗ trợ điều trị chứng ra mồ hôi tay chân rất tốt nhờ các thành phần thảo dược. Anh lưu ý duy trì sử dụng đúng liệu trình để đạt được kết quả ổn định nhất ạ.</p><p>Chúc Anh luôn dồi dào sức khỏe ạ.</p>",
+              "createdAt": "2026-08-21 12:19:25",
+              "createdAtDisplay": "15 ngày trước",
+              "updatedAt": "2026-08-21 12:04:24",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3359670,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0833xxxxxx",
+          "name": "Anh Thắng",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Sản phẩm này là thuốc",
+          "createdAt": "2026-08-18 15:15:02",
+          "createdAtDisplay": "18 ngày trước",
+          "updatedAt": "2026-08-18 15:15:02",
+          "replies": [],
+          "totalReplies": 0
+        },
+        {
+          "id": 3359667,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0833xxxxxx",
+          "name": "Anh Thắng",
+          "email": "",
+          "score": 5,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "",
+          "createdAt": "2026-08-18 15:14:49",
+          "createdAtDisplay": "18 ngày trước",
+          "updatedAt": "2026-08-18 15:14:49",
+          "replies": [
+            {
+              "id": 3359690,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Minh Tiến",
+                "moderatorEmail": "tiennm50@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Minh Tiến",
+              "email": "tiennm50@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào anh Thắng,</p><p> Dạ nhà thuốc FPT Long Châu rất cảm ơn anh luôn tin tưởng và ủng hộ. Chúc anh nhiều sức khỏe ạ. 💚</p>",
+              "createdAt": "2026-08-18 15:38:50",
+              "createdAtDisplay": "18 ngày trước",
+              "updatedAt": "2026-08-18 15:14:49",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        }
+      ],
+      "avgRating": 5,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 3
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Bảo chi đan Tùng lộc điều trị chứng ra mồ hôi tay (3 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_1_382664ddea.jpg",
+          "alternativeText": ""
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_2_9f83855738.jpg",
+          "alternativeText": ""
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_3_943a630242.jpg",
+          "alternativeText": ""
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_4_15b91f52a9.jpg",
+          "alternativeText": ""
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_5_a7d1d9ce98.jpg",
+          "alternativeText": ""
+        }
+      ],
+      "description": "Thuốc Bảo Chi Đan chứa cao đặc tổng hợp từ các dược liệu, giúp thanh nhiệt trừ thấp, kiện tỳ, được chỉ định để điều trị chứng ra mồ hôi ở tay.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Ngô Kim Thúy"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "3"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://nhathuoclongchau.com.vn/thuoc/bao-chi-dan-tung-loc-3-x10.html",
+        "priceCurrency": "VND",
+        "price": 6000,
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "seo": {
+      "title": "Thuốc Bảo chi đan Tùng lộc điều trị chứng ra mồ hôi tay (3 vỉ x 10 viên) - Nhà thuốc FPT Long Châu",
+      "description": "Thuốc Bảo Chi Đan chứa cao đặc tổng hợp từ các dược liệu, giúp thanh nhiệt trừ thấp, kiện tỳ, được chỉ định để điều trị chứng ra mồ hôi ở tay.",
+      "openGraph": {
+        "title": "Thuốc Bảo chi đan Tùng lộc điều trị chứng ra mồ hôi tay (3 vỉ x 10 viên)",
+        "description": "Thuốc Bảo Chi Đan chứa cao đặc tổng hợp từ các dược liệu, giúp thanh nhiệt trừ thấp, kiện tỳ, được chỉ định để điều trị chứng ra mồ hôi ở tay.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/bao_chi_dan_tung_loc_3x10_00053171_1_382664ddea.jpg",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/bao-chi-dan-tung-loc-3-x10.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/bao-chi-dan-tung-loc-3-x10.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}

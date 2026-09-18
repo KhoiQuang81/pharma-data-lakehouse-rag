@@ -1,0 +1,869 @@
+{
+  "source_name": "Nhà Thuốc Long Châu",
+  "trust_score": 0.75,
+  "source_url": "https://nhathuoclongchau.com.vn/thuoc/vigorito-1779.html",
+  "ingestion_timestamp": "2026-09-05T16:11:06.576580+00:00",
+  "file_hash": "ffd879a11ea167b029e11c35860f89bb19671099173358d10e859ccf09c9da42",
+  "lineage_hash": "ef096b52eb358d713ca9d3513b7c995f51541a2c53ec43f767bd5788a196aa61",
+  "raw_data": {
+    "isValidProductToView": true,
+    "url": "https://nhathuoclongchau.com.vn/thuoc/vigorito-1779.html",
+    "product": {
+      "sku": "00007955",
+      "webName": "Thuốc Vigorito Davipharm kiểm soát đường huyết ở bệnh đái tháo đường tuýp 2 (3 vỉ x 10 viên)",
+      "name": "VIGORITO 50MG DAVI 3X10",
+      "shortName": "VIGORITO 50MG DAVI 3X10",
+      "headingText": "Thuốc Vigorito",
+      "primaryImage": {
+        "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00498_23d98fb93f.png",
+        "alternativeText": null
+      },
+      "secondaryImages": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00492_2daed329a6.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00494_aa693f0cfe.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00495_2bd08cb903.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00496_7cefa8d805.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00499_4ad758e7a0.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00500_8997285541.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vigorito_1_df16839609.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vigorito_2_2bdec96c85.jpg",
+          "alternativeText": null
+        }
+      ],
+      "labelImage": {
+        "url": null,
+        "alternativeText": null
+      },
+      "pimCategoryId": 810,
+      "categories": [
+        {
+          "id": 1,
+          "name": "Thuốc",
+          "parentName": null,
+          "slug": "thuoc",
+          "level": 1,
+          "isActive": false
+        },
+        {
+          "id": 735,
+          "name": "Thuốc trị tiểu đường",
+          "parentName": "Thuốc",
+          "slug": "thuoc/thuoc-tri-tieu-duong",
+          "level": 2,
+          "isActive": false
+        }
+      ],
+      "prices": [
+        {
+          "measureUnitCode": 1,
+          "measureUnitName": "Hộp",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 1,
+          "productSpecs": "Hộp 3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 13,
+          "measureUnitName": "Vỉ",
+          "isSellDefault": false,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 2,
+          "productSpecs": "3 Vỉ x 10 Viên"
+        },
+        {
+          "measureUnitCode": 8,
+          "measureUnitName": "Viên",
+          "isSellDefault": true,
+          "price": null,
+          "currencySymbol": "đ",
+          "isDefault": true,
+          "isInventory": true,
+          "level": 3,
+          "productSpecs": "10 Viên"
+        }
+      ],
+      "slug": "thuoc/vigorito-1779.html",
+      "ingredient": [
+        {
+          "id": 23785,
+          "ingredientId": 40243,
+          "shortDescription": "50mg",
+          "name": "Vildagliptin",
+          "isPrimary": false,
+          "slug": "thanh-phan/vildagliptin"
+        }
+      ],
+      "webIngredient": "",
+      "ingredientFor": "1 viên",
+      "registNum": "893110022100",
+      "manufactor": "Việt Nam",
+      "dosageForm": "Viên nén",
+      "dosage": "<h3>Cách dùng</h3><p><strong>Thuốc&nbsp;Vigorito</strong> được dùng đường uống cùng hoặc không cùng với thức ăn.</p><h3>Liều dùng</h3><p><i>Người lớn</i>&nbsp;</p><p>Khi sử dụng đơn trị, phối hợp với metformin, phối hợp với thiazolidindion, phối hợp với metformin và sulphonylure, hoặc phối hợp với insulin (kèm hoặc không kèm metformin), liều khuyến cáo của vildagliptin là 100 mg, dùng 1 liều 50 mg vào buổi sáng và 1 liều 50 mg vào buổi tối.</p><p>Khi sử dụng phối hợp 2 thuốc cùng với sulphonylure, liều khuyến cáo của vildagliptin là 50 mg dùng 1 lần/ngày vào buổi sáng, ở những bệnh nhân này, vildagliptin liều 100 mg/ngày không có hiệu quả cao hơn vildagliptin liều 50 mg dùng 1 lần/ngày.</p><p>Khi sử dụng phối hợp với sulphonylure, có thể cân nhắc dùng sulphonylure liều thấp hơn để giảm nguy cơ hạ glucose huyết.</p><p>Không khuyến cáo dùng liều cao hơn 100 mg.</p><p>An toàn và hiệu quả của vildagliptin trong điều trị phối hợp 3 thuốc cùng với metformin và thiazolldindion chưa được thiết lập.</p><p><i>Người cao tuổi (≥ 65 tuổi)</i></p><p>Không cần hiệu chỉnh liều ở người cao tuổi.</p><p><i>Bệnh nhân suy thận</i></p><p>Không cần hiệu chỉnh liều ở bệnh nhân suy thận nhẹ (ClCr ≥ 50 ml/phút), ở bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/suy-than-679.html\"><strong>suy thận</strong></a> vừa hoặc nặng hoặc bị ESRD, liều vildagliptin khuyến cáo là 50 mg dùng 1 lần/ngày.</p><p><i>Bệnh nhân suy gan</i></p><p>Không nên dùng vildagliptin cho bệnh nhân suy gan, bao gồm bệnh nhân có alanin aminotransferase (ALT) hoặc aspartat aminotransferase (AST) &gt; 3 lần giới hạn trên bình thuờng (ULN) trước khi điều trị.</p><p><i>Trẻ em</i></p><p>Không khuyến cáo dùng vildagliptin cho trẻ em và thanh thiếu niên (&lt; 18 tuổi). An toàn và hiệu quả của vildagliptin ở trẻ em và thanh thiếu niên (&lt; 18 tuổi) chưa được thiết lập.&nbsp;</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Triệu chứng thu thập được trong nghiên cứu khả năng dung nạp khi tăng liều ở đối tưởng khỏe mạnh:</p><p>Sử dụng vildagliptin trong vòng 10 ngày, ở liều 400 mg: Đau cơ, dị cảm nhẹ và thoáng qua, sốt, phú và tăng nồng độ lipase thoáng qua.&nbsp;</p><p>Ở liều 600 mg: Phù ở bàn tay và bàn chân, và tăng nồng độ creatinin phosphokinase, AST, protein C hoạt hóa và myoglobin, dị cảm.&nbsp;</p><p>Tất cả triệu chứng và bất thường xét nghiệm tự khỏi mà không cần điều trị sau khi ngừng thuốc.</p><p>Xử trí:</p><p>Trong trường hợp quá liều, khuyến cáo điều trị hỗ trợ. Vildagliptin không bị loại bỏ bởi thẩm phân máu. Tuy nhiên, chất chuyển hóa thủy phân chính (LAY 151) có thể bị loại bỏ bởi thẩm phân máu.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu quên dùng một liều thuốc, hãy uống càng sớm càng tốt khi nhớ ra. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và uống liều kế tiếp vào thời điểm như kế hoạch. Không uống 2 liều trong cùng 1 ngày.</p>",
+      "usage": "<h3>Chỉ định</h3><p><strong>Thuốc Vigorito</strong> được chỉ định dùng trong các trường hợp sau:</p><p>Vildagliptin được chỉ định như một thuốc hỗ trợ cho chế độ ăn và luyện tập để cải thiện sự kiểm soát đường huyết ở bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-2.html\"><strong>tiểu đường tuýp 2</strong></a> (T2DM).</p><p>Dưới dạng đơn trị liệu.</p><p>Trong phối hợp hai loại thuốc:</p><ul><li>Với metformin khi chế độ ăn, luyện tập và metformin đơn độc không đem lại sự kiểm soát đường huyết đầy đủ.</li><li>Với một sulphonylure (SU) khi chế độ ăn, luyện tập và sulphonylure đơn độc không đem lại sự kiểm soát đường huyết đầy đủ.&nbsp;</li><li>Với một thiazolidindion (TZD) khi chế độ ăn, luyện tập và thiazolidindion không đem lại sự kiểm soát đường huyết đầy đủ.</li><li>Trong phối hợp ba loại thuốc:</li><li>Với một sulphonylure và metformin khi chế độ ăn, luyện tập và điều trị kép bằng những thuốc này không đem lại sự kiểm soát đường huyết đầy đủ.</li><li>Vildagliptin cũng được chỉ định phối hợp với insulin (có hoặc không có metformin) khi chế độ ăn, luyện tập và liều insulin ổn định không đem lại sự kiểm soát đường huyết đầy đủ.</li><li>Vildagliptin cũng được chỉ định phối hợp ngay từ đầu với metformin ở những bệnh nhân đái tháo đường typ 2 (T2DM) không được kiểm soát đầy đủ chỉ bằng chế độ ăn và luyện tập.</li></ul><h3>Dược lực học</h3><p>Vildagliptin có tác dụng ức chế nhanh và hoàn toàn hoạt tính DPP - 4 dẫn đến tăng nồng độ của các hormon incretin GLP - 1 (peptid tương tự glucagon 1) và GIP (polypeptid kích thích tiết insulin phụ thuộc glucose) lúc đói và sau khi ăn.</p><p>Nhờ làm tăng nồng độ nội sinh của các hormon incretin, vildagliptin tăng cường tính nhạy cảm của các tế bào beta đối với glucose, dẫn đến cải thiện sự tiết insulin phụ thuộc glucose.</p><p>Điều trị với viIdagliptin 50 - 100 mg ở bệnh nhân đái tháo đường typ 2 cải thiện đáng kể các chỉ dấu chức năng tế bào beta bao gồm HOMA - β, tỉ lệ proinsulin chuyển thành insulin và kết quả xét nghiệm đáp ứng của tế bào beta bằng thử nghiệm dung nạp bữa ăn lấy máu thường xuyên.</p><p>Ở đối tượng không bị đái tháo đường (đường huyết bình thường), vildagliptin không kích thích tiết insulin hoặc giảm nồng độ glucose.</p><p>Nhờ làm tăng nồng độ GLPT nội sinh, vildagliptin cũng tăng cường tính nhạy cảm của các tế bào alpha đối với glucose, dẫn đến điều chỉnh sự tiết glucagon thích hợp với glucose.</p><p>Sự gia tăng tỷ số insulin/glucagon khi tăng đường huyết do tăng nồng độ các hormon incretin gây giảm tạo glucose tại gan lúc đói và sau khi ăn, dẫn đến giảm đường huyết. Không thấy tác dụng chậm làm rỗng dạ dày do tăng GLP - 1 khi dùng vildagliptin.</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Sau khi dùng đường uống vào lúc đói, vildagliptin được hấp thu nhanh và đạt nồng độ đỉnh trong huyết tương sau 1,7 giờ. Thức ăn làm tăng nhẹ thời gian đạt nồng độ đỉnh trong huyết tương đến 2,5 giờ nhưng nói chung không thay đổi AUC. Dùng vildagIiptin với thức ăn làm giảm Cmax 19%. Tuy nhiên, mức độ thay đổi không có ý nghĩa lâm sàng, nên có thể dùng vildagliptin cùng hoặc không cùng với thức ăn. Sinh khả dụng tuyệt đối của thuốc là 85%.</p><p><i>Phân bố</i></p><p>Vildagliptin ít gắn với protein huyết tương (9,3%), và vildagliptin phân bố đồng đều giữa huyết tương và hồng cầu. Thể tích phân bố trung bình của vildagliptin ở trạng thái ổn định sau khi được tiêm theo đường tĩnh mạch (Vss) là 71 L, gợi ý sự phân bố ngoại mạch.</p><p><i>Chuyển hóa</i></p><p>Ở người, chuyển hóa là con đường thải trừ vildagliptin chủ yếu, chiếm 69% liều dùng. Chất chuyển hóa chính, LAY151, không có hoạt tính dược lý và là sản phẩm thủy phân gốc cyano (57% liều dùng), tiếp đó là sản phẩm glucuronid hóa (BQS867) và thủy phân amid (4% liều dùng).</p><p>Thông tin in vitro của vi lạp thể thận người cho thấy thận có thể là một trong những cơ quan chính tham gia vào quá trình thủy phân vildagliptin thành chất chuyển hóa không có hoạt tính của nó. DPP - 4 đóng góp một phần vào sự thủy phân vildagliptin dựa trên nghiên cứu in vivo sử dụng chuột bị thiếu hụt DPP - 4.</p><p>Vildagliptin không chuyển hóa bởi các enzym CYP 450. Do đó, sự thanh thải các chất chuyển hóa của vildagliptin không bị ảnh hưởng bởi các thuốc cảm ứng hoặc ức chế CYP 450 khi dùng chung. Nghiên cứu in vitro cho thấy vildagliptin không ức chế/cảm ứng các enzym CYP 450.</p><p>Vì vậy, vildagliptin thường không ảnh hưởng đến độ thanh thải các chất chuyển hóa của các thuốc được chuyển hóa bởi CYP 1A2, 2C8,2C9, 2C19, 2D6, 2E1 hoặc 3A4/5.</p><p><i>Thải trừ</i></p><p>Sau khi uống vildagliptin đánh dấu 14C, khoảng 85% liều dùng được thải trừ ra nước tiểu và 15% liều dùng được tìm thấy trong phân. Sự thải trừ vildagliptin chưa bị chuyển hóa trong nước tiểu chiếm 23% liều uống. Thời gian bán thải sau khi uống khoảng 3 giờ. Sự tuyến tính Cmax và AUC nồng độ huyết tương theo thời gian của vildagliptin tăng tỉ lệ thuận với liều trong khoảng liều điều trị.</p><p><strong>Đối tượng đặc biệt</strong></p><p><i>Giới tính</i></p><p>Không có khác biệt có ý nghĩa lâm sàng về dược động học của vildagliptin giữa đối tượng nam và nữ khỏe mạnh trong một khoảng tuổi và chỉ số khối cơ thể (BMI) rộng. Giới tính không ảnh hưởng đến tác dụng ức chế DPP - 4 của vildagliptin.</p><p><i>Người cao tuổi</i></p><p>Ở người cao tuổi khỏe mạnh (&gt; 70 tuổi), nói chung AUC của vildagliptin (100 mg/ngày) tăng 32% và nồng độ đỉnh trong huyết tương tăng 18% so với người trẻ khỏe mạnh (18 - 40 tuổi). Tuy nhiên những thay đổi này không ảnh hưởng trên lâm sàng. Tuổi tác không ảnh hưởng đến tác dụng ức chế DPP - 4 của vildagliptin.</p><p><i>Bệnh nhân suy gan</i></p><p>AUC của vildagliptin sau khi dùng liều đơn ở bệnh nhân suy gan nhẹ và vừa giảm tương ứng 20% và 8%, trong khi AUC của vildagliptin ở bệnh nhân suy gan nặng tăng 22%. Sự thay đổi tối đa (tăng hoặc giảm) của AUC của vildagliptin là khoảng 30%, được cho là không ảnh hưởng trên lâm sàng. Không có sự tương quan giữa mức độ nặng của bệnh gan và sự thay đổi AUC của vildagliptin.</p><p><i>Bệnh nhân suy thận</i></p><p>AUC của vildagliptin tăng trung bình 1,4; 1,7 và 2 lần tương ứng ở bệnh nhân suy thận nhẹ, vừa và nặng so với đối tượng khỏe mạnh. AUC của chất chuyển hóa LAY151 và BQS867 tăng trung bình 1,5; 3 và 7 lần tương ứng ở bệnh nhân suy thận nhẹ, vừa và nặng. Thông tin còn hạn chế ở bệnh nhân bị bệnh thận giai đoạn cuối (ESRD) cho thấy AUC của vildagliptin tương tự như bệnh nhân suy thận nặng, và nồng độ LAY151 tăng khoảng 2 - 3 lần so với bệnh nhân suy thận nặng.</p><p>Vildagliptin ít được loại bỏ khi thẩm tách máu (3% sau 3 - 4 giờ thẩm tách khởi đầu sau khi dùng thuốc 4 giờ).</p><p><i>Chủng tộc</i></p><p>Một vài thông tin cho thấy chủng tộc không ảnh hưởng lớn đến dược động học của vildagliptin.</p>",
+      "brand": "Davipharm",
+      "brandType": null,
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc Vigorito</strong>, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><strong>Dùng phối hợp với metformin</strong></p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chuyển hóa và dinh dưỡng: Hạ glucose huyết.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Run, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a></strong>, chóng mặt.</p>\n\t</li>\n\t<li>\n\t<p>Tiêu hóa: Buồn nôn.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Thần kinh: Mệt mỏi.</p>\n\t</li>\n</ul>\n\n<p><strong>Dùng phối hợp với sulphonylure</strong></p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chuyển hóa và dinh dưỡng: Hạ glucose huyết.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Run, nhức đầu, chóng mặt, suy nhược.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Tiêu hóa: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">Táo bón</a></strong>.</p>\n\t</li>\n</ul>\n\n<p><em>Rất hiếm gặp, ADR &lt; 1/10000</em></p>\n\n<ul>\n\t<li>\n\t<p>Nhiễm trùng và nhiễm ký sinh trùng: Viêm mũi họng.</p>\n\t</li>\n</ul>\n\n<p><strong>Dùng phối hợp với thiazolidindion</strong></p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chuyển hóa và dinh dưỡng: Tăng cân.</p>\n\t</li>\n\t<li>\n\t<p>Mạch máu: Phù ngoại biên.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chuyển hóa và dinh dưỡng: Hạ glucose huyết.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Nhức đầu, suy nhược.</p>\n\t</li>\n</ul>\n\n<p><strong>Đơn trị</strong></p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Thần kinh: Chóng mặt.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chuyển hóa và dinh dưỡng: Hạ glucose huyết.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Nhức đầu.</p>\n\t</li>\n\t<li>\n\t<p>Mạch máu: Phù ngoại biên.</p>\n\t</li>\n\t<li>\n\t<p>Tiêu hóa: Táo bón.</p>\n\t</li>\n\t<li>\n\t<p>Cơ xương và mô liên kết: Viêm khớp.</p>\n\t</li>\n</ul>\n\n<p><em>Rất hiếm gặp, ADR &lt; 1/10000</em></p>\n\n<ul>\n\t<li>\n\t<p>Nhiễm trùng và nhiễm ký sinh trùng: Nhiễm trùng đường hô hấp trên, viêm mũi họng.</p>\n\t</li>\n</ul>\n\n<p><strong>Dùng phối hợp với metformin và sulphonylure</strong></p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chuyển hóa và dinh dưỡng: Hạ glucose huyết.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Chóng mặt, run.</p>\n\t</li>\n\t<li>\n\t<p>Da và mô dưới da: Tăng tiết mồ hôi.</p>\n\t</li>\n\t<li>\n\t<p>Toàn thân: Suy nhược.</p>\n\t</li>\n</ul>\n\n<p><strong>Dùng phối hợp với insulin</strong></p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chuyển hóa và dinh dưỡng: Hạ glucose huyết.</p>\n\t</li>\n\t<li>\n\t<p>Thán kinh: Nhức đầu, ớn lạnh.</p>\n\t</li>\n\t<li>\n\t<p>Tiêu hóa: Buồn nôn, bệnh trào ngược dạ dày - thực quản. </p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Tiêu hóa: Tiêu chảy, đầy hơi.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "specification": "Hộp 3 vỉ x 10 viên",
+      "indications": [
+        {
+          "id": 2854,
+          "name": "Tiểu đường type 2",
+          "slug": "benh/tieu-duong-tuyp-2.html"
+        }
+      ],
+      "brandOrigin": "Việt Nam",
+      "producer": "DAVI",
+      "shortDescription": "<p><strong>Thuốc Vigorito</strong> thành phần chính là <a href=\"https://nhathuoclongchau.com.vn/thanh-phan/vildagliptin\"><strong>vildagliptin</strong></a>, được chỉ định như một thuốc hỗ trợ cho chế độ ăn và luyện tập để cải thiện sự kiểm soát đường huyết ở bệnh nhân đái tháo đường typ 2 (T2DM), dạng đơn trị liệu hoặc phối hợp.</p>",
+      "description": "",
+      "prescription": true,
+      "ageUse": "Trên 18 tuổi",
+      "objectUse": [
+        "Người lớn"
+      ],
+      "color": [],
+      "hair": [],
+      "flavor": [],
+      "skin": [],
+      "spf": [],
+      "warning": [
+        "Phụ nữ có thai",
+        "Lái tàu xe",
+        "Phụ nữ cho con bú"
+      ],
+      "specialFeatures": [],
+      "displayCode": 2,
+      "isNatural": false,
+      "gender": "",
+      "warrantyPeriod": "",
+      "contraindication": "Tiểu đường típ 1, Suy gan, Suy thận, Nhiễm toan ceton",
+      "productTypes": "",
+      "isActive": true,
+      "isPublish": true,
+      "is_point_block": false,
+      "isShowInfo": true,
+      "brandSlug": "thuong-hieu/davipharm",
+      "badges": [],
+      "isMonopoly": false,
+      "redirectUrl": "",
+      "legalDeclaration": "",
+      "officialProductName": "VIGORITO",
+      "thumbnail": null,
+      "shortVideoUrl": "",
+      "expirationDate": "36 tháng",
+      "brandOriginBadges": {
+        "id": 268,
+        "attributeName": "Việt Nam",
+        "attributeImage": "https://cdn.nhathuoclongchau.com.vn/v1/static/smalls/vn_Vietnam_02c595ff0c.png"
+      },
+      "videoType": "",
+      "guideline": null,
+      "isComingSoon": false
+    },
+    "transformedProductData": {
+      "badgeUrls": [],
+      "defaultPrice": {
+        "measureUnitCode": 8,
+        "measureUnitName": "Viên",
+        "isSellDefault": true,
+        "price": null,
+        "currencySymbol": "đ",
+        "isDefault": true,
+        "isInventory": true,
+        "level": 3,
+        "productSpecs": "10 Viên"
+      },
+      "highestLevelCategory": {
+        "id": 735,
+        "name": "Thuốc trị tiểu đường",
+        "parentName": "Thuốc",
+        "slug": "thuoc/thuoc-tri-tieu-duong",
+        "level": 2,
+        "isActive": false
+      },
+      "galleryImgUrls": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00498_23d98fb93f.png",
+          "alternativeText": "Thuốc Vigorito Davipharm kiểm soát đường huyết ở bệnh đái tháo đường tuýp 2 (3 vỉ x 10 viên) 1"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00492_2daed329a6.png",
+          "alternativeText": "Thuốc Vigorito Davipharm kiểm soát đường huyết ở bệnh đái tháo đường tuýp 2 (3 vỉ x 10 viên) 2"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00494_aa693f0cfe.png",
+          "alternativeText": "Thuốc Vigorito Davipharm kiểm soát đường huyết ở bệnh đái tháo đường tuýp 2 (3 vỉ x 10 viên) 3"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00495_2bd08cb903.png",
+          "alternativeText": "Thuốc Vigorito Davipharm kiểm soát đường huyết ở bệnh đái tháo đường tuýp 2 (3 vỉ x 10 viên) 4"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00496_7cefa8d805.png",
+          "alternativeText": "Thuốc Vigorito Davipharm kiểm soát đường huyết ở bệnh đái tháo đường tuýp 2 (3 vỉ x 10 viên) 5"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00499_4ad758e7a0.png",
+          "alternativeText": "Thuốc Vigorito Davipharm kiểm soát đường huyết ở bệnh đái tháo đường tuýp 2 (3 vỉ x 10 viên) 6"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00500_8997285541.png",
+          "alternativeText": "Thuốc Vigorito Davipharm kiểm soát đường huyết ở bệnh đái tháo đường tuýp 2 (3 vỉ x 10 viên) 7"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vigorito_1_df16839609.jpg",
+          "alternativeText": "Thuốc Vigorito Davipharm kiểm soát đường huyết ở bệnh đái tháo đường tuýp 2 (3 vỉ x 10 viên) 8"
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vigorito_2_2bdec96c85.jpg",
+          "alternativeText": "Thuốc Vigorito Davipharm kiểm soát đường huyết ở bệnh đái tháo đường tuýp 2 (3 vỉ x 10 viên) 9"
+        }
+      ]
+    },
+    "initPromotionPrices": [],
+    "breadcrumbs": [
+      {
+        "name": "Thuốc",
+        "slug": "/thuoc"
+      },
+      {
+        "name": "Thuốc trị tiểu đường",
+        "slug": "/thuoc/thuoc-tri-tieu-duong"
+      }
+    ],
+    "content": {
+      "sku": "00007955",
+      "dosage": "<h3>Cách dùng</h3><p><strong>Thuốc&nbsp;Vigorito</strong> được dùng đường uống cùng hoặc không cùng với thức ăn.</p><h3>Liều dùng</h3><p><i>Người lớn</i>&nbsp;</p><p>Khi sử dụng đơn trị, phối hợp với metformin, phối hợp với thiazolidindion, phối hợp với metformin và sulphonylure, hoặc phối hợp với insulin (kèm hoặc không kèm metformin), liều khuyến cáo của vildagliptin là 100 mg, dùng 1 liều 50 mg vào buổi sáng và 1 liều 50 mg vào buổi tối.</p><p>Khi sử dụng phối hợp 2 thuốc cùng với sulphonylure, liều khuyến cáo của vildagliptin là 50 mg dùng 1 lần/ngày vào buổi sáng, ở những bệnh nhân này, vildagliptin liều 100 mg/ngày không có hiệu quả cao hơn vildagliptin liều 50 mg dùng 1 lần/ngày.</p><p>Khi sử dụng phối hợp với sulphonylure, có thể cân nhắc dùng sulphonylure liều thấp hơn để giảm nguy cơ hạ glucose huyết.</p><p>Không khuyến cáo dùng liều cao hơn 100 mg.</p><p>An toàn và hiệu quả của vildagliptin trong điều trị phối hợp 3 thuốc cùng với metformin và thiazolldindion chưa được thiết lập.</p><p><i>Người cao tuổi (≥ 65 tuổi)</i></p><p>Không cần hiệu chỉnh liều ở người cao tuổi.</p><p><i>Bệnh nhân suy thận</i></p><p>Không cần hiệu chỉnh liều ở bệnh nhân suy thận nhẹ (ClCr ≥ 50 ml/phút), ở bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/suy-than-679.html\"><strong>suy thận</strong></a> vừa hoặc nặng hoặc bị ESRD, liều vildagliptin khuyến cáo là 50 mg dùng 1 lần/ngày.</p><p><i>Bệnh nhân suy gan</i></p><p>Không nên dùng vildagliptin cho bệnh nhân suy gan, bao gồm bệnh nhân có alanin aminotransferase (ALT) hoặc aspartat aminotransferase (AST) &gt; 3 lần giới hạn trên bình thuờng (ULN) trước khi điều trị.</p><p><i>Trẻ em</i></p><p>Không khuyến cáo dùng vildagliptin cho trẻ em và thanh thiếu niên (&lt; 18 tuổi). An toàn và hiệu quả của vildagliptin ở trẻ em và thanh thiếu niên (&lt; 18 tuổi) chưa được thiết lập.&nbsp;</p><p>Lưu ý: Liều dùng trên chỉ mang tính chất tham khảo. Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh. Để có liều dùng phù hợp, bạn cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.</p><h3>Làm gì khi dùng quá liều?</h3><p>Triệu chứng thu thập được trong nghiên cứu khả năng dung nạp khi tăng liều ở đối tưởng khỏe mạnh:</p><p>Sử dụng vildagliptin trong vòng 10 ngày, ở liều 400 mg: Đau cơ, dị cảm nhẹ và thoáng qua, sốt, phú và tăng nồng độ lipase thoáng qua.&nbsp;</p><p>Ở liều 600 mg: Phù ở bàn tay và bàn chân, và tăng nồng độ creatinin phosphokinase, AST, protein C hoạt hóa và myoglobin, dị cảm.&nbsp;</p><p>Tất cả triệu chứng và bất thường xét nghiệm tự khỏi mà không cần điều trị sau khi ngừng thuốc.</p><p>Xử trí:</p><p>Trong trường hợp quá liều, khuyến cáo điều trị hỗ trợ. Vildagliptin không bị loại bỏ bởi thẩm phân máu. Tuy nhiên, chất chuyển hóa thủy phân chính (LAY 151) có thể bị loại bỏ bởi thẩm phân máu.</p><h3>Làm gì khi quên 1 liều?</h3><p>Nếu quên dùng một liều thuốc, hãy uống càng sớm càng tốt khi nhớ ra. Tuy nhiên, nếu gần với liều kế tiếp, hãy bỏ qua liều đã quên và uống liều kế tiếp vào thời điểm như kế hoạch. Không uống 2 liều trong cùng 1 ngày.</p>",
+      "referenceSource": "<html><body><p>Tờ hướng dẫn sử dụng thuốc Vigorito.</p></body></html>",
+      "adverseEffect": "<p>Khi sử dụng <strong>thuốc Vigorito</strong>, bạn có thể gặp các tác dụng không mong muốn (ADR).</p>\n\n<p><strong>Dùng phối hợp với metformin</strong></p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chuyển hóa và dinh dưỡng: Hạ glucose huyết.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Run, <strong><a href=\"https://nhathuoclongchau.com.vn/benh/nhuc-dau-24.html\">nhức đầu</a></strong>, chóng mặt.</p>\n\t</li>\n\t<li>\n\t<p>Tiêu hóa: Buồn nôn.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Thần kinh: Mệt mỏi.</p>\n\t</li>\n</ul>\n\n<p><strong>Dùng phối hợp với sulphonylure</strong></p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chuyển hóa và dinh dưỡng: Hạ glucose huyết.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Run, nhức đầu, chóng mặt, suy nhược.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Tiêu hóa: <strong><a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">Táo bón</a></strong>.</p>\n\t</li>\n</ul>\n\n<p><em>Rất hiếm gặp, ADR &lt; 1/10000</em></p>\n\n<ul>\n\t<li>\n\t<p>Nhiễm trùng và nhiễm ký sinh trùng: Viêm mũi họng.</p>\n\t</li>\n</ul>\n\n<p><strong>Dùng phối hợp với thiazolidindion</strong></p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chuyển hóa và dinh dưỡng: Tăng cân.</p>\n\t</li>\n\t<li>\n\t<p>Mạch máu: Phù ngoại biên.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chuyển hóa và dinh dưỡng: Hạ glucose huyết.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Nhức đầu, suy nhược.</p>\n\t</li>\n</ul>\n\n<p><strong>Đơn trị</strong></p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Thần kinh: Chóng mặt.</p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chuyển hóa và dinh dưỡng: Hạ glucose huyết.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Nhức đầu.</p>\n\t</li>\n\t<li>\n\t<p>Mạch máu: Phù ngoại biên.</p>\n\t</li>\n\t<li>\n\t<p>Tiêu hóa: Táo bón.</p>\n\t</li>\n\t<li>\n\t<p>Cơ xương và mô liên kết: Viêm khớp.</p>\n\t</li>\n</ul>\n\n<p><em>Rất hiếm gặp, ADR &lt; 1/10000</em></p>\n\n<ul>\n\t<li>\n\t<p>Nhiễm trùng và nhiễm ký sinh trùng: Nhiễm trùng đường hô hấp trên, viêm mũi họng.</p>\n\t</li>\n</ul>\n\n<p><strong>Dùng phối hợp với metformin và sulphonylure</strong></p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chuyển hóa và dinh dưỡng: Hạ glucose huyết.</p>\n\t</li>\n\t<li>\n\t<p>Thần kinh: Chóng mặt, run.</p>\n\t</li>\n\t<li>\n\t<p>Da và mô dưới da: Tăng tiết mồ hôi.</p>\n\t</li>\n\t<li>\n\t<p>Toàn thân: Suy nhược.</p>\n\t</li>\n</ul>\n\n<p><strong>Dùng phối hợp với insulin</strong></p>\n\n<p><em>Thường gặp, ADR &gt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Chuyển hóa và dinh dưỡng: Hạ glucose huyết.</p>\n\t</li>\n\t<li>\n\t<p>Thán kinh: Nhức đầu, ớn lạnh.</p>\n\t</li>\n\t<li>\n\t<p>Tiêu hóa: Buồn nôn, bệnh trào ngược dạ dày - thực quản. </p>\n\t</li>\n</ul>\n\n<p><em>Ít gặp, 1/1000 &lt; ADR &lt; 1/100</em></p>\n\n<ul>\n\t<li>\n\t<p>Tiêu hóa: Tiêu chảy, đầy hơi.</p>\n\t</li>\n</ul>\n\n<p><em>Hướng dẫn cách xử trí ADR</em></p>\n\n<p>Khi gặp tác dụng phụ của thuốc, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>",
+      "preservation": "<p>Bảo quản ở nơi khô ráo, tránh ánh sáng, nhiệt độ không quá 30<sup>0</sup>C.</p>",
+      "usage": "<h3>Chỉ định</h3><p><strong>Thuốc Vigorito</strong> được chỉ định dùng trong các trường hợp sau:</p><p>Vildagliptin được chỉ định như một thuốc hỗ trợ cho chế độ ăn và luyện tập để cải thiện sự kiểm soát đường huyết ở bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-2.html\"><strong>tiểu đường tuýp 2</strong></a> (T2DM).</p><p>Dưới dạng đơn trị liệu.</p><p>Trong phối hợp hai loại thuốc:</p><ul><li>Với metformin khi chế độ ăn, luyện tập và metformin đơn độc không đem lại sự kiểm soát đường huyết đầy đủ.</li><li>Với một sulphonylure (SU) khi chế độ ăn, luyện tập và sulphonylure đơn độc không đem lại sự kiểm soát đường huyết đầy đủ.&nbsp;</li><li>Với một thiazolidindion (TZD) khi chế độ ăn, luyện tập và thiazolidindion không đem lại sự kiểm soát đường huyết đầy đủ.</li><li>Trong phối hợp ba loại thuốc:</li><li>Với một sulphonylure và metformin khi chế độ ăn, luyện tập và điều trị kép bằng những thuốc này không đem lại sự kiểm soát đường huyết đầy đủ.</li><li>Vildagliptin cũng được chỉ định phối hợp với insulin (có hoặc không có metformin) khi chế độ ăn, luyện tập và liều insulin ổn định không đem lại sự kiểm soát đường huyết đầy đủ.</li><li>Vildagliptin cũng được chỉ định phối hợp ngay từ đầu với metformin ở những bệnh nhân đái tháo đường typ 2 (T2DM) không được kiểm soát đầy đủ chỉ bằng chế độ ăn và luyện tập.</li></ul><h3>Dược lực học</h3><p>Vildagliptin có tác dụng ức chế nhanh và hoàn toàn hoạt tính DPP - 4 dẫn đến tăng nồng độ của các hormon incretin GLP - 1 (peptid tương tự glucagon 1) và GIP (polypeptid kích thích tiết insulin phụ thuộc glucose) lúc đói và sau khi ăn.</p><p>Nhờ làm tăng nồng độ nội sinh của các hormon incretin, vildagliptin tăng cường tính nhạy cảm của các tế bào beta đối với glucose, dẫn đến cải thiện sự tiết insulin phụ thuộc glucose.</p><p>Điều trị với viIdagliptin 50 - 100 mg ở bệnh nhân đái tháo đường typ 2 cải thiện đáng kể các chỉ dấu chức năng tế bào beta bao gồm HOMA - β, tỉ lệ proinsulin chuyển thành insulin và kết quả xét nghiệm đáp ứng của tế bào beta bằng thử nghiệm dung nạp bữa ăn lấy máu thường xuyên.</p><p>Ở đối tượng không bị đái tháo đường (đường huyết bình thường), vildagliptin không kích thích tiết insulin hoặc giảm nồng độ glucose.</p><p>Nhờ làm tăng nồng độ GLPT nội sinh, vildagliptin cũng tăng cường tính nhạy cảm của các tế bào alpha đối với glucose, dẫn đến điều chỉnh sự tiết glucagon thích hợp với glucose.</p><p>Sự gia tăng tỷ số insulin/glucagon khi tăng đường huyết do tăng nồng độ các hormon incretin gây giảm tạo glucose tại gan lúc đói và sau khi ăn, dẫn đến giảm đường huyết. Không thấy tác dụng chậm làm rỗng dạ dày do tăng GLP - 1 khi dùng vildagliptin.</p><h3>Dược động học</h3><p><i>Hấp thu</i></p><p>Sau khi dùng đường uống vào lúc đói, vildagliptin được hấp thu nhanh và đạt nồng độ đỉnh trong huyết tương sau 1,7 giờ. Thức ăn làm tăng nhẹ thời gian đạt nồng độ đỉnh trong huyết tương đến 2,5 giờ nhưng nói chung không thay đổi AUC. Dùng vildagIiptin với thức ăn làm giảm Cmax 19%. Tuy nhiên, mức độ thay đổi không có ý nghĩa lâm sàng, nên có thể dùng vildagliptin cùng hoặc không cùng với thức ăn. Sinh khả dụng tuyệt đối của thuốc là 85%.</p><p><i>Phân bố</i></p><p>Vildagliptin ít gắn với protein huyết tương (9,3%), và vildagliptin phân bố đồng đều giữa huyết tương và hồng cầu. Thể tích phân bố trung bình của vildagliptin ở trạng thái ổn định sau khi được tiêm theo đường tĩnh mạch (Vss) là 71 L, gợi ý sự phân bố ngoại mạch.</p><p><i>Chuyển hóa</i></p><p>Ở người, chuyển hóa là con đường thải trừ vildagliptin chủ yếu, chiếm 69% liều dùng. Chất chuyển hóa chính, LAY151, không có hoạt tính dược lý và là sản phẩm thủy phân gốc cyano (57% liều dùng), tiếp đó là sản phẩm glucuronid hóa (BQS867) và thủy phân amid (4% liều dùng).</p><p>Thông tin in vitro của vi lạp thể thận người cho thấy thận có thể là một trong những cơ quan chính tham gia vào quá trình thủy phân vildagliptin thành chất chuyển hóa không có hoạt tính của nó. DPP - 4 đóng góp một phần vào sự thủy phân vildagliptin dựa trên nghiên cứu in vivo sử dụng chuột bị thiếu hụt DPP - 4.</p><p>Vildagliptin không chuyển hóa bởi các enzym CYP 450. Do đó, sự thanh thải các chất chuyển hóa của vildagliptin không bị ảnh hưởng bởi các thuốc cảm ứng hoặc ức chế CYP 450 khi dùng chung. Nghiên cứu in vitro cho thấy vildagliptin không ức chế/cảm ứng các enzym CYP 450.</p><p>Vì vậy, vildagliptin thường không ảnh hưởng đến độ thanh thải các chất chuyển hóa của các thuốc được chuyển hóa bởi CYP 1A2, 2C8,2C9, 2C19, 2D6, 2E1 hoặc 3A4/5.</p><p><i>Thải trừ</i></p><p>Sau khi uống vildagliptin đánh dấu 14C, khoảng 85% liều dùng được thải trừ ra nước tiểu và 15% liều dùng được tìm thấy trong phân. Sự thải trừ vildagliptin chưa bị chuyển hóa trong nước tiểu chiếm 23% liều uống. Thời gian bán thải sau khi uống khoảng 3 giờ. Sự tuyến tính Cmax và AUC nồng độ huyết tương theo thời gian của vildagliptin tăng tỉ lệ thuận với liều trong khoảng liều điều trị.</p><p><strong>Đối tượng đặc biệt</strong></p><p><i>Giới tính</i></p><p>Không có khác biệt có ý nghĩa lâm sàng về dược động học của vildagliptin giữa đối tượng nam và nữ khỏe mạnh trong một khoảng tuổi và chỉ số khối cơ thể (BMI) rộng. Giới tính không ảnh hưởng đến tác dụng ức chế DPP - 4 của vildagliptin.</p><p><i>Người cao tuổi</i></p><p>Ở người cao tuổi khỏe mạnh (&gt; 70 tuổi), nói chung AUC của vildagliptin (100 mg/ngày) tăng 32% và nồng độ đỉnh trong huyết tương tăng 18% so với người trẻ khỏe mạnh (18 - 40 tuổi). Tuy nhiên những thay đổi này không ảnh hưởng trên lâm sàng. Tuổi tác không ảnh hưởng đến tác dụng ức chế DPP - 4 của vildagliptin.</p><p><i>Bệnh nhân suy gan</i></p><p>AUC của vildagliptin sau khi dùng liều đơn ở bệnh nhân suy gan nhẹ và vừa giảm tương ứng 20% và 8%, trong khi AUC của vildagliptin ở bệnh nhân suy gan nặng tăng 22%. Sự thay đổi tối đa (tăng hoặc giảm) của AUC của vildagliptin là khoảng 30%, được cho là không ảnh hưởng trên lâm sàng. Không có sự tương quan giữa mức độ nặng của bệnh gan và sự thay đổi AUC của vildagliptin.</p><p><i>Bệnh nhân suy thận</i></p><p>AUC của vildagliptin tăng trung bình 1,4; 1,7 và 2 lần tương ứng ở bệnh nhân suy thận nhẹ, vừa và nặng so với đối tượng khỏe mạnh. AUC của chất chuyển hóa LAY151 và BQS867 tăng trung bình 1,5; 3 và 7 lần tương ứng ở bệnh nhân suy thận nhẹ, vừa và nặng. Thông tin còn hạn chế ở bệnh nhân bị bệnh thận giai đoạn cuối (ESRD) cho thấy AUC của vildagliptin tương tự như bệnh nhân suy thận nặng, và nồng độ LAY151 tăng khoảng 2 - 3 lần so với bệnh nhân suy thận nặng.</p><p>Vildagliptin ít được loại bỏ khi thẩm tách máu (3% sau 3 - 4 giờ thẩm tách khởi đầu sau khi dùng thuốc 4 giờ).</p><p><i>Chủng tộc</i></p><p>Một vài thông tin cho thấy chủng tộc không ảnh hưởng lớn đến dược động học của vildagliptin.</p>",
+      "ingredient": "",
+      "careful": "<p>Trước khi sử dụng thuốc bạn cần đọc kỹ hướng dẫn sử dụng và tham khảo thông tin bên dưới.</p><h3>Chống chỉ định</h3><p><strong>Thuốc Vigorito</strong> chống chỉ định trong các trường hợp sau:</p><p>Mẫn cảm với vildagliptin hoặc bất kỳ thành phần nào của thuốc.</p><h3>Thận trọng khi sử dụng</h3><p>Vildagliptin không dùng để thay thế cho insulin ở những bệnh nhân cần dùng insulin. Không dùng vildagliptin ở bệnh nhân đái tháo đường typ 1 hoặc bệnh nhân bị nhiễm toan ceton do đái tháo đường.</p><p><i>Bệnh nhân suy thận</i></p><p>Kinh nghiệm sử dụng vildagliptin ở bệnh nhân bị ESRD phải thẩm tách máu còn hạn chế. Vì vậy nên thận trọng khi dùng vildagliptin ở những bệnh nhân này.</p><p><i>Bệnh nhân suy gan</i></p><p>Không nên dùng vildagliptin ở bệnh nhân suy gan, bao gồm bệnh nhân có ALT hoặc AST &gt; 3 lần ULN trước khi điều trị.</p><p>Theo dõi enzym gan:</p><p>Đã có báo cáo trường hợp hiếm gặp rối loạn chức năng gan (bao gồm viêm gan).</p><p>Trong những trường hợp này, các triệu chứng thường không để lại di chứng trên lâm sàng và kết quả xét nghiệm chức năng gan trở về bình thường sau khi ngừng thuốc. Xét nghiệm chức năng gan nên được thực hiện trước khi khởi đầu điều trị với vildagliptin để biết được giá trị ban đầu của bệnh nhân. Chức năng gan nên được theo dõi trong khi điều trị với vildagliptin theo chu kỳ 3 tháng 1 lần trong năm đầu tiên và định kỳ sau đó.</p><p>Bệnh nhân có dấu hiện tăng nồng độ transaminase nên được theo dõi bằng cách đánh giá chức năng gan lần thứ 2 để xác nhận lại và sau đó theo dõi chức năng gan thường xuyên đến khi những bất thường trở lại bình thường. Nếu AST hoặc ALT tăng &gt; 3 lần ULN hoặc tăng dai dẳng, nên ngừng vildagliptin.</p><p>Bệnh nhân bị vàng da hoặc các dấu hiệu khác gợi ý rối loạn chức năng gan nên ngừng vildagliptin.</p><p>Sau khi ngừng điều trị với vildagliptin và xét nghiệm chức năng gan trở lại bình thường, không nên tái sử dụng vildagliptin.</p><p><i>Bệnh nhân suy tim</i></p><p>Một thử nghiệm lâm sàng dùng vildagliptin ở bệnh nhân bị suy tim NYHA độ I - III cho thấy điều trị với vildagliptin không gây thay đổi chức năng thất trái hoặc nặng hơn tình trạng suy tim sung huyết hiện có so với nhóm chứng. Kinh nghiệm lâm sàng sử dụng vildagliptin ở bệnh nhân suy tim NYHA độ III còn hạn chế và kết quả không thuyết phục. Chưa có kinh nghiệm sử dụng vildagliptin trong thử nghiệm lâm sàng ở bệnh nhân suy tim NYHA độ IV và vì vậy không khuyến cáo dùng thuốc ở những bệnh nhân này.</p><p><i>Bệnh trên da</i></p><p>Mặc dù chưa thấy tăng tỉ lệ tổn thương da trong các thử nghiệm lâm sàng, kinh nghiệm dùng thuốc trên bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/benh-tieu-duong-289.html\">tiểu đường</a> có biến chứng da còn hạn chế.</p><p>Hơn nữa đã có những báo cáo tổn thương da bóng nước và tróc da sau khi đưa thuốc ra thị trường.</p><p>Vì vậy, ngoài những chăm sóc bình thường cho bệnh nhân đái tháo đường, nên theo dõi những bệnh trên da như bong da hoặc loét.</p><p><i>Viêm tụy cấp</i></p><p>Vildagliptin có thể làm tăng nguy cơ viêm tụy cấp ở bệnh nhân. Nên thông báo cho bệnh nhân về đặc tính này.</p><p>Nếu nghi ngờ bệnh nhân bị viêm tụy, nên ngừng vildagliptin; Nếu xác định có viêm tụy, không nên tái sử dụng vildagliptin. Nên thận trọng ở bệnh nhân có tiền sử viêm tụy cấp.&nbsp;</p><p><i>Hạ glucose huyết</i></p><p>Sulphonylure có thể gây hạ glucose huyết. Bệnh nhân dùng vildagliptin phối hợp với sulphonylure có thể có nguy cơ bị hạ glucose huyết. Vì vậy, có thể cân nhắc dùng sulphonylure liều thấp hơn để giảm nguy cơ hạ glucose huyết.</p><p>Thuốc có chứa lactose, bệnh nhân mắc bệnh di truyền hiếm gặp không dung nạp galactose, thiếu hụt lapp lactase hoặc rối loạn hấp thu glucose - galactose không nên dùng thuốc này.</p><p>Để xa tầm tay trẻ em.</p><h3>Khả năng lái xe và vận hành máy móc</h3><p>Chưa có nghiên cứu ảnh hưởng của vildagliptin lên khả năng lái xe và vận hành máy móc. Bệnh nhân bị tác dụng không mong muốn chóng mặt nên tránh lái xe hoặc vận hành máy móc.</p><h3>Thời kỳ mang thai&nbsp;</h3><p>Do thiếu thông tin trên người, không nên dùng vildagliptin trong thai kì.</p><h3>Thời kỳ cho con bú</h3><p>Chưa rõ vildagliptin có tiết qua sữa mẹ không. Nghiên cứu trên động vật cho thấy vildagliptin tiết qua sữa. Không nên dùng vildagliptin khi đang cho con bú.</p><h3>Tương tác thuốc</h3><p>Vildagliptin ít tương tác với các thuốc dùng chung. Vì vildagliptin không phải là cơ chất và không ức chế hoặc cảm ứng các enzym CYP 450, vildagliptin thường không tương tác với các chất là cơ chất, chất ức chế hoặc cảm ứng các enzym này.</p><p><i>Dùng phối hợp với pioglitazon, metformin và glyburid</i></p><p>Kết quả nghiên cứu thực hiện với các thuốc trị đái tháo đường đường uống cho thấy không có tương tác có ý nghĩa lâm sàng.</p><p><i>Digoxin (cơ chất của Pgp), warfarin (cơ chất của CYP2C9)</i></p><p>Nghiên cứu lâm sàng thực hiện trên đối tượng khỏe mạnh cho thấy không có tương tác có ý nghĩa lâm sàng. Tuy nhiên nghiên cứu chưa được thực hiện trên đối tượng bệnh nhân.</p><p><i>Dùng phối hợp với amlodipin, ramipril, valsartan hoặc simvastatin</i></p><p>Nghiên cứu tương tác thuốc – thuốc ở đối tượng khỏe mạnh được thực hiện với amlodipin, ramipril, valsartan và simvastatin. Trong các nghiên cứu này, không thấy có tương tác có ý nghĩa lâm sàng sau khi dùng chung với vildagliptin.</p><p><i>Dùng phối hợp với thuốc ức chế ACE</i></p><p>Có thể có sự gia tăng nguy cơ phù mạch ở bệnh nhân dùng chung vildagliptin và thuốc ức chế ACE.</p><p>Như với những thuốc điều trị đái tháo đường đường uống, tác dụng hạ glucose huyết của vildagliptin có thể bị giảm bởi một số hoạt chất bao gồm thiazid, corticosteroid, chế phẩm thyroid và chất cường giao cảm.</p>",
+      "description": "",
+      "isApproved": true,
+      "approver": {
+        "fullName": "Phạm Nguyễn Hoàng Kim",
+        "position": "Giảng viên Trung tâm Đào tạo FPT Long Châu",
+        "bio": "Dược sĩ chuyên ngành Dược lâm sàng, với nhiều năm kinh nghiệm làm việc trong lĩnh vực dược phẩm. Là Dược sĩ Long Châu đạt được chứng chỉ bệnh học cấp quốc tế. Hiện đang là giảng viên tại Trung tâm Đào tạo FPT Long Châu.",
+        "degree": "Dược sĩ Đại học",
+        "slug": "doi-ngu-chuyen-mon/duoc-si-dai-hoc-pham-nguyen-hoang-kim",
+        "isLegit": true,
+        "id": 3,
+        "avatar": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/duoc_si_kim_654f239621.png",
+          "alternativeText": null
+        }
+      },
+      "noteCate": "Mọi thông tin trên đây chỉ mang tính chất tham khảo. Việc sử dụng thuốc phải tuân theo hướng dẫn của bác sĩ chuyên môn.",
+      "seo": {
+        "metaTitle": "Thuốc Vigorito Đạt Vi Phú điều trị tiểu đường type 2 (3 vỉ x 10 viên)",
+        "metaDescription": "Thuốc Vigorito Đạt Vi Phú là một thuốc hỗ trợ cho chế độ ăn và luyện tập để cải thiện sự kiểm soát đường huyết ở bệnh nhân đái tháo đường typ 2,...",
+        "id": 3692,
+        "metaImage": null,
+        "metaSocial": [
+          {
+            "socialNetwork": "Facebook",
+            "image": {
+              "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00498_23d98fb93f.png",
+              "alternativeText": null
+            },
+            "title": "Thuốc Vigorito Davipharm kiểm soát đường huyết ở bệnh đái tháo đường tuýp 2 (3 vỉ x 10 viên)",
+            "description": "Thuốc Vigorito thành phần chính là vildagliptin, được chỉ định như một thuốc hỗ trợ cho chế độ ăn và luyện tập để cải thiện sự kiểm soát đường huyết ở bệnh nhân đái tháo đường typ 2 (T2DM), dạng đơn trị liệu hoặc phối hợp."
+          }
+        ]
+      }
+    },
+    "sort": [
+      {
+        "key": "shortDescription",
+        "name": "Mô tả ngắn",
+        "isVisibleName": false
+      },
+      {
+        "key": "registNum",
+        "name": "Số đăng ký",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclarationLink",
+        "name": "Giấy công bố",
+        "isVisibleName": false
+      },
+      {
+        "key": "specification",
+        "name": "Quy cách",
+        "isVisibleName": true
+      },
+      {
+        "key": "legalDeclaration",
+        "name": "Giấy công bố - hidden",
+        "isVisibleName": true
+      },
+      {
+        "key": "ingredient",
+        "name": "Thành phần",
+        "isVisibleName": true
+      },
+      {
+        "key": "categories",
+        "name": "Danh mục",
+        "isVisibleName": true
+      },
+      {
+        "key": "dosageForm",
+        "name": "Dạng bào chế",
+        "isVisibleName": true
+      },
+      {
+        "key": "prescription",
+        "name": "Thuốc cần kê toa",
+        "isVisibleName": true
+      },
+      {
+        "key": "producer",
+        "name": "Nhà sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "manufactor",
+        "name": "Nước sản xuất",
+        "isVisibleName": true
+      },
+      {
+        "key": "indications",
+        "name": "Trường hợp dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "contraindication",
+        "name": "Trường hợp không dùng",
+        "isVisibleName": true
+      },
+      {
+        "key": "objectUse",
+        "name": "Đối tượng sử dụng",
+        "isVisibleName": true
+      },
+      {
+        "key": "expirationDate",
+        "name": "Hạn sử dụng",
+        "isVisibleName": true
+      }
+    ],
+    "faq": [
+      {
+        "id": 11186,
+        "title": "Thuốc Vigorito được chỉ định cho những bệnh nhân nào?",
+        "content": "<p>Thuốc Vigorito, với thành phần chính là Vildagliptin 50mg, được chỉ định như một thuốc hỗ trợ cho chế độ ăn và luyện tập để cải thiện sự kiểm soát đường huyết ở bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/tieu-duong-tuyp-2.html\">đái tháo đường type II</a> dưới dạng đơn trị liệu. Vigorito cũng có thể phối hợp cùng các thuốc điều trị đái tháo đường nhóm khác nếu như những thuốc đó chưa kiểm soát đường huyết một cách đầy đủ.</p>"
+      },
+      {
+        "id": 11187,
+        "title": "Thuốc Vigorito thuộc nhóm thuốc điều trị đái tháo đường type II nào?",
+        "content": "<p>Thuốc Vigorito thuộc nhóm thuốc ức chế men DDP-4. Cơ chế tác dụng của thuốc đến từ sự ức chế hoạt động của enzym DDP-4 (Dipeptidyl Peptidase 4), qua đó làm tăng GLP-1, làm giảm đường huyết do kích thích tiết insulin và giảm tiết Glucagon.</p>"
+      },
+      {
+        "id": 11188,
+        "title": "Bệnh nhân suy thận có cần chỉnh liều điều trị thuốc Vigorito không?",
+        "content": "<p>Không cần hiệu chỉnh liều ở bệnh nhân <a href=\"https://nhathuoclongchau.com.vn/benh/suy-than-679.html\">suy thận</a> mức độ nhẹ. Ở bệnh nhân suy thận mức độ vừa hoặc nặng hoặc suy thận mạn giai đoạn cuối, liều Vigorito khuyến cáo là 50 mg dùng 1 lần/ngày.</p>"
+      },
+      {
+        "id": 11190,
+        "title": "Có tác dụng phụ nào khi sử dụng thuốc Vigorito không?",
+        "content": "<p>Thuốc Vigorito có thể gây ra một số tác dụng không mong muốn, thường gặp nhất là hạ đường huyết, run, nhức đầu, chóng mặt, buồn nôn. Bên cạnh đó cũng có những tác dụng phụ ít gặp hơn như <a href=\"https://nhathuoclongchau.com.vn/benh/tao-bon-246.html\">táo bón</a>, viêm mũi họng. Khi gặp tác dụng phụ này, cần ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.</p>"
+      },
+      {
+        "id": 11189,
+        "title": "Bệnh nhân dùng thuốc Vigorito có lái xe hay vận hành máy móc được không?",
+        "content": "<p>Hiện chưa có nghiên cứu ảnh hưởng của vildagliptin lên khả năng lái xe và vận hành máy móc. Tuy nhiên, thuốc có thể gây tác dụng không mong muốn là <a href=\"https://nhathuoclongchau.com.vn/benh/hoa-mat-chong-mat-14.html\">chóng mặt</a>, nên nếu khi sử dụng thuốc bệnh nhân có triệu chứng nêu trên thì nên tránh lái xe hoặc vận hành máy móc.</p>"
+      }
+    ],
+    "relatedProducts": [],
+    "initComment": {
+      "total": 20,
+      "items": [
+        {
+          "id": 3356913,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0788xxxxxx",
+          "name": "chị hậu",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "cho m xin giá",
+          "createdAt": "2026-08-13 15:41:41",
+          "createdAtDisplay": "23 ngày trước",
+          "updatedAt": "2026-08-13 15:41:41",
+          "replies": [
+            {
+              "id": 3356919,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Tiến Bắc",
+                "moderatorEmail": "bacnt16@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Tiến Bắc",
+              "email": "bacnt16@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Hậu,</p><p>Hiện tại, sản phẩm VIGORITO 50MG DAVI 3X10 có giá 225,000 ₫/hộp. </p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại ứng dụng Long Châu/ZALO OA Nhà thuốc FPT Long Châu để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ.</p>",
+              "createdAt": "2026-08-13 15:51:24",
+              "createdAtDisplay": "23 ngày trước",
+              "updatedAt": "2026-08-13 15:41:41",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3279873,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0989xxxxxx",
+          "name": "Hồng Thắm",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Giá hiện tại bao nhiêu 1 hộp v",
+          "createdAt": "2026-03-25 15:20:22",
+          "createdAtDisplay": "5 tháng trước",
+          "updatedAt": "2026-03-25 15:20:22",
+          "replies": [
+            {
+              "id": 3279875,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trịnh Thị Mỹ Vi",
+                "moderatorEmail": "vittm2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trịnh Thị Mỹ Vi",
+              "email": "vittm2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào chị Thắm,</p><p>Hiện tại, sản phẩm Thuốc Vigorito Davipharm kiểm soát đường huyết ở bệnh đái tháo đường típ 2 (3 vỉ x 10 viên) có giá 225,000/ Hộp ạ. </p><p>Chị có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <strong><u><a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu /</a></u> <u><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a></u></strong> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-03-25 15:22:04",
+              "createdAtDisplay": "5 tháng trước",
+              "updatedAt": "2026-03-25 15:20:22",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3259093,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0333xxxxxx",
+          "name": "Bi",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "bao nhiêu 1 hộp vậy?",
+          "createdAt": "2026-02-09 20:24:39",
+          "createdAtDisplay": "6 tháng trước",
+          "updatedAt": "2026-02-09 20:24:39",
+          "replies": [
+            {
+              "id": 3259166,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Trương Thị Trang",
+                "moderatorEmail": "trangtt98@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Trương Thị Trang",
+              "email": "trangtt98@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào Quý khách, </p><p>Dạ Thuốc Vigorito Davipharm kiểm soát đường huyết ở bệnh đái tháo đường típ 2 (3 vỉ x 10 viên) hiện có giá 225,000 ₫/hộp. </p><p>Quý khách có thể gửi yêu cầu Tư vấn ngay trên website hoặc tại <a href=\"https://nhathuoclongchau.com.vn/gioi-thieu-ung-dung-long-chau\" rel=\"noopener noreferrer\" target=\"_blank\">ứng dụng Long Châu/</a><a href=\"https://zalo.me/3822805105108870889\" rel=\"noopener noreferrer\" target=\"_blank\">ZALO OA Nhà thuốc FPT Long Châu</a> để hưởng ưu đãi miễn phí vận chuyển khi đặt giao tại nhà ạ</p>",
+              "createdAt": "2026-02-09 21:11:59",
+              "createdAtDisplay": "6 tháng trước",
+              "updatedAt": "2026-02-09 20:24:39",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3166186,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0964xxxxxx",
+          "name": "Ngô Giang",
+          "email": "",
+          "score": null,
+          "gender": 1,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "mình xin giá thuốc này ",
+          "createdAt": "2025-08-20 09:16:55",
+          "createdAtDisplay": "20/08/2025",
+          "updatedAt": "2025-08-20 09:16:47",
+          "replies": [
+            {
+              "id": 3166187,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Mạc Thị Tuyết Anh",
+                "moderatorEmail": "anhmtt@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Mạc Thị Tuyết Anh",
+              "email": "anhmtt@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Ngô Giang,</p><p>Hiện tại, sản phẩm có giá 225,000đ/hộp, mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p> Thân mến!</p>",
+              "createdAt": "2025-08-20 09:18:37",
+              "createdAtDisplay": "20/08/2025",
+              "updatedAt": "2025-08-20 09:16:47",
+              "replies": []
+            }
+          ],
+          "totalReplies": 1
+        },
+        {
+          "id": 3087890,
+          "commenterInfo": {
+            "customerId": "",
+            "moderatorId": "",
+            "providerName": "",
+            "moderatorName": "",
+            "moderatorEmail": "",
+            "isModerator": false,
+            "isHiddenTag": false
+          },
+          "phone": "0372xxxxxx",
+          "name": "Dương Khang",
+          "email": "",
+          "score": null,
+          "gender": 0,
+          "genderLabel": "",
+          "likes": 0,
+          "isLiked": false,
+          "content": "Xin giá ạ",
+          "createdAt": "2025-04-12 18:29:44",
+          "createdAtDisplay": "12/04/2025",
+          "updatedAt": "2025-04-12 18:29:44",
+          "replies": [
+            {
+              "id": 3087892,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Vi Trần",
+                "moderatorEmail": "vit2@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Vi Trần",
+              "email": "vit2@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Dương Khang, </p><p>Dạ sản phẩm có giá 225,000 ₫/hộp</p><p>Dạ sẽ có tư vấn viên của Nhà thuốc Long Châu liên hệ theo SĐT bạn để lại ạ.</p><p>Thân mến!</p><p><br></p>",
+              "createdAt": "2025-04-12 18:31:25",
+              "createdAtDisplay": "12/04/2025",
+              "updatedAt": "2025-04-12 18:29:44",
+              "replies": []
+            },
+            {
+              "id": 3144383,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0988xxxxxx",
+              "name": "Khuyến",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "1 hộp bán lẻ nhiêu",
+              "createdAt": "2025-07-14 14:22:14",
+              "createdAtDisplay": "14/07/2025",
+              "updatedAt": "2025-04-12 18:29:44",
+              "replies": []
+            },
+            {
+              "id": 3144385,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Nguyễn Thị Phương Vân",
+                "moderatorEmail": "vanntp@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Nguyễn Thị Phương Vân",
+              "email": "vanntp@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Khuyến,</p><p>Hiện tại, sản phẩm có giá 225,000 ₫/hộp, (mức giá có thể thay đổi tùy thuộc vào từng thời điểm hoặc nhà cung cấp).</p><p>Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm.</p><p>Thân mến!</p>",
+              "createdAt": "2025-07-14 14:23:27",
+              "createdAtDisplay": "14/07/2025",
+              "updatedAt": "2025-04-12 18:29:44",
+              "replies": []
+            },
+            {
+              "id": 3224430,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "",
+                "moderatorEmail": "",
+                "isModerator": false,
+                "isHiddenTag": false
+              },
+              "phone": "0808xxxxxx",
+              "name": "Hạ",
+              "email": "",
+              "score": null,
+              "gender": 0,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "hình như 1 vỉ 75k pk",
+              "createdAt": "2025-12-04 22:26:59",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-04-12 18:29:44",
+              "replies": []
+            },
+            {
+              "id": 3224481,
+              "commenterInfo": {
+                "customerId": "",
+                "moderatorId": "",
+                "providerName": "",
+                "moderatorName": "Huỳnh Thanh Ngọc",
+                "moderatorEmail": "ngocht18@fpt.com",
+                "isModerator": true,
+                "isHiddenTag": false
+              },
+              "phone": "***",
+              "name": "Huỳnh Thanh Ngọc",
+              "email": "ngocht18@fpt.com",
+              "score": null,
+              "gender": 2,
+              "genderLabel": "",
+              "likes": 0,
+              "isLiked": false,
+              "content": "<p>Chào bạn Hạ,</p><p> Hiện tại, sản phẩm có giá 75.000/vỉ.</p><p> Tư vấn viên nhà thuốc Long Châu sẽ sớm liên hệ với bạn qua số điện thoại đã cung cấp để hỗ trợ thêm ạ.</p>",
+              "createdAt": "2025-12-05 08:30:18",
+              "createdAtDisplay": "9 tháng trước",
+              "updatedAt": "2025-04-12 18:29:44",
+              "replies": []
+            }
+          ],
+          "totalReplies": 5
+        }
+      ]
+    },
+    "initReview": {
+      "total": 0,
+      "items": [],
+      "avgRating": 0,
+      "ratingLev": {
+        "totalLv1": 0,
+        "totalLv2": 0,
+        "totalLv3": 0,
+        "totalLv4": 0,
+        "totalLv5": 0
+      }
+    },
+    "markup": {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Thuốc Vigorito Davipharm kiểm soát đường huyết ở bệnh đái tháo đường tuýp 2 (3 vỉ x 10 viên)",
+      "image": [
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00498_23d98fb93f.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00492_2daed329a6.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00494_aa693f0cfe.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00495_2bd08cb903.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00496_7cefa8d805.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00499_4ad758e7a0.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00500_8997285541.png",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vigorito_1_df16839609.jpg",
+          "alternativeText": null
+        },
+        {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/vigorito_2_2bdec96c85.jpg",
+          "alternativeText": null
+        }
+      ],
+      "description": "Thuốc Vigorito thành phần chính là vildagliptin, được chỉ định như một thuốc hỗ trợ cho chế độ ăn và luyện tập để cải thiện sự kiểm soát đường huyết ở bệnh nhân đái tháo đường typ 2 (T2DM), dạng đơn trị liệu hoặc phối hợp.",
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Phạm Nguyễn Hoàng Kim"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "1"
+      },
+      "offers": null
+    },
+    "seo": {
+      "title": "Thuốc Vigorito Đạt Vi Phú điều trị tiểu đường type 2 (3 vỉ x 10 viên)",
+      "description": "Thuốc Vigorito Đạt Vi Phú là một thuốc hỗ trợ cho chế độ ăn và luyện tập để cải thiện sự kiểm soát đường huyết ở bệnh nhân đái tháo đường typ 2,...",
+      "openGraph": {
+        "title": "Thuốc Vigorito Davipharm kiểm soát đường huyết ở bệnh đái tháo đường tuýp 2 (3 vỉ x 10 viên)",
+        "description": "Thuốc Vigorito thành phần chính là vildagliptin, được chỉ định như một thuốc hỗ trợ cho chế độ ăn và luyện tập để cải thiện sự kiểm soát đường huyết ở bệnh nhân đái tháo đường typ 2 (T2DM), dạng đơn trị liệu hoặc phối hợp.",
+        "image": {
+          "url": "https://cdn.nhathuoclongchau.com.vn/v1/static/DSC_00498_23d98fb93f.png",
+          "alternativeText": ""
+        },
+        "url": "https://nhathuoclongchau.com.vn/thuoc/vigorito-1779.html",
+        "type": null,
+        "videos": null
+      },
+      "keywords": null,
+      "canonicalUrl": "https://nhathuoclongchau.com.vn/thuoc/vigorito-1779.html"
+    },
+    "productPacks": {
+      "totalCount": 0
+    }
+  }
+}
