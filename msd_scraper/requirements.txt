@@ -1,0 +1,9 @@
+# MSD Manuals Scraper – Yêu cầu thư viện
+requests==2.32.3
+beautifulsoup4==4.12.3
+html2image==2.0.4.3
+spacy==3.7.5
+lxml==5.2.2
+
+# Cài spaCy model sau khi pip install:
+# python -m spacy download xx_ent_wiki_sm

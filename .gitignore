@@ -1,0 +1,15 @@
+# Bo qua thu muc anh thuong
+data/page_images/
+
+# Bo qua cac file dung luong lon > 100MB (GitHub chan push > 100MB)
+data/*.zip
+data/Duoc-thu-quoc-gia-viet-nam-2022-quyen-1-trungtamthuoc.pdf
+data/Duoc-thu-quoc-gia-viet-nam-2022-quyen-2-trungtamthuoc.pdf
+
+# Checkpoint / Notebook temp
+/step3_finetune_kaggle.ipynb
+.ipynb_checkpoints/
+__pycache__/
+# Bo qua thu muc chua data cua Docker de tranh bi crash Github
+docker_volumes/
+!docker_volumes/**/.gitkeep

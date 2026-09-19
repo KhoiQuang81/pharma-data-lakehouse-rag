@@ -1,0 +1,50 @@
+version: '3.8'
+
+services:
+  minio:
+    image: minio/minio:latest
+    container_name: mrag-minio
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minioadmin
+    volumes:
+      - E:\TLCN\RAG\docker_volumes\minio_data:/data
+    command: server /data --console-address ":9001"
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: mrag-qdrant
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - E:\TLCN\RAG\docker_volumes\qdrant_data:/qdrant/storage
+
+  neo4j:
+    image: neo4j:latest
+    container_name: mrag-neo4j
+    ports:
+      - "7474:7474" # HTTP Web UI
+      - "7687:7687" # Bolt protocol
+    environment:
+      NEO4J_AUTH: neo4j/neo4jpassword
+    volumes:
+      - E:\TLCN\RAG\docker_volumes\neo4j_data:/data
+
+  iceberg-rest:
+    image: tabulario/iceberg-rest
+    container_name: mrag-iceberg-rest
+    ports:
+      - "8181:8181"
+    environment:
+      - CATALOG_WAREHOUSE=s3://warehouse/
+      - CATALOG_IO__IMPL=org.apache.iceberg.aws.s3.S3FileIO
+      - CATALOG_S3_ENDPOINT=http://minio:9000
+      - AWS_ACCESS_KEY_ID=minioadmin
+      - AWS_SECRET_ACCESS_KEY=minioadmin
+      - AWS_REGION=us-east-1
+    depends_on:
+      - minio
